@@ -1,1 +1,880 @@
-[{"targetVals":[],"id":2000301,"name":"サポートのみ出撃","type":5,"rangeType":0},{"targetVals":[1,2,3],"id":2000302,"name":"編成条件あり","type":7,"rangeType":1},{"targetVals":[800100],"id":3000101,"name":"特定メンバーのみ出撃","type":8,"rangeType":0},{"targetVals":[800100],"id":3000102,"name":"特定メンバーのみ出撃","type":9,"rangeType":0},{"targetVals":[1,2,3],"id":3000201,"name":"編成条件あり","type":7,"rangeType":1},{"targetVals":[800100],"id":3000202,"name":"編成制限あり","type":8,"rangeType":0},{"targetVals":[800100],"id":3000301,"name":"特定メンバーのみ出撃可能","type":8,"rangeType":0},{"targetVals":[2],"id":3000302,"name":"2騎のみ出撃可能","type":10,"rangeType":1},{"targetVals":[4],"id":3000401,"name":"4騎まで出撃可能","type":10,"rangeType":4},{"targetVals":[800100,2435],"id":3000402,"name":"特定メンバーのみ出撃可能","type":1,"rangeType":1},{"targetVals":[1],"id":3000403,"name":"編成制限あり","type":11,"rangeType":4},{"targetVals":[1,2,3],"id":3000501,"name":"編成条件あり","type":7,"rangeType":1},{"targetVals":[800100,2435],"id":3000502,"name":"特定メンバーのみ出撃可能","type":1,"rangeType":1},{"targetVals":[3],"id":3000503,"name":"2騎NPC固定出撃","type":10,"rangeType":1},{"targetVals":[1],"id":3000504,"name":"編成制限あり","type":11,"rangeType":1},{"targetVals":[2],"id":3000505,"name":"2騎のみ出撃可能","type":10,"rangeType":1},{"targetVals":[6],"id":3000601,"name":"2騎NPC固定出撃","type":10,"rangeType":4},{"targetVals":[4],"id":3000602,"name":"編成制限あり","type":11,"rangeType":4},{"targetVals":[2],"id":91000001,"name":"2騎NPC固定出撃","type":10,"rangeType":1},{"targetVals":[103200],"id":91000002,"name":"編成条件あり","type":8,"rangeType":0},{"targetVals":[702500],"id":91000003,"name":"特定メンバーのみ出撃","type":9,"rangeType":0},{"targetVals":[1],"id":91000004,"name":"1騎NPC固定出撃","type":10,"rangeType":1},{"targetVals":[103200],"id":91000005,"name":"柳生但馬守宗矩出撃不可","type":1,"rangeType":2},{"targetVals":[102900],"id":91000006,"name":"編成条件あり","type":8,"rangeType":0},{"targetVals":[102900],"id":91000007,"name":"アーサー出撃不可","type":1,"rangeType":2},{"targetVals":[603100],"id":91000008,"name":"刑部姫出撃不可","type":1,"rangeType":2},{"targetVals":[202000],"id":91000009,"name":"編成制限あり","type":8,"rangeType":0},{"targetVals":[3],"id":91000011,"name":"2騎NPC出撃","type":10,"rangeType":1},{"targetVals":[201100],"id":91000012,"name":"編成制限あり","type":8,"rangeType":0},{"targetVals":[303000],"id":91000013,"name":"編成制限あり","type":8,"rangeType":0},{"targetVals":[2],"id":91000014,"name":"1騎NPC出撃","type":10,"rangeType":1},{"targetVals":[202000],"id":91000015,"name":"イシュタル出撃不可","type":1,"rangeType":2},{"targetVals":[600500],"id":91000016,"name":"ジャック・ザ・リッパー出撃不可","type":1,"rangeType":2},{"targetVals":[503500],"id":91000017,"name":"特定メンバーのみ出撃","type":9,"rangeType":0},{"targetVals":[203100],"id":91000018,"name":"編成制限あり","type":8,"rangeType":0},{"targetVals":[103600],"id":91000019,"name":"特定メンバーのみ出撃","type":9,"rangeType":0},{"targetVals":[303300],"id":91000020,"name":"特定メンバーのみ出撃","type":9,"rangeType":0},{"targetVals":[601800],"id":91000021,"name":"編成条件あり","type":8,"rangeType":0},{"targetVals":[202100],"id":91000022,"name":"編成制限あり","type":8,"rangeType":0},{"targetVals":[3],"id":91000023,"name":"3騎NPC固定出撃","type":10,"rangeType":1},{"targetVals":[103700],"id":91000024,"name":"編成制限あり","type":8,"rangeType":0},{"targetVals":[4],"id":91000025,"name":"3騎NPC固定出撃","type":10,"rangeType":4},{"targetVals":[203300],"id":91000026,"name":"特定メンバーのみ出撃","type":9,"rangeType":0},{"targetVals":[303600],"id":91000027,"name":"編成制限あり","type":8,"rangeType":0},{"targetVals":[2,3],"id":94007701,"name":"女性限定","type":1,"rangeType":1},{"targetVals":[1,3],"id":94007702,"name":"男性限定","type":1,"rangeType":1},{"targetVals":[2068],"id":94007703,"name":"西洋限定","type":1,"rangeType":1},{"targetVals":[2069],"id":94007704,"name":"王以外限定","type":1,"rangeType":1},{"targetVals":[2070,3],"id":94007705,"name":"ダ・ヴィンチセレクト限定","type":1,"rangeType":1},{"targetVals":[2071],"id":94007706,"name":"165cm以下限定","type":1,"rangeType":1},{"targetVals":[2072],"id":94007707,"name":"新参者限定","type":1,"rangeType":1},{"targetVals":[303,702200,200100,700100,601500],"id":94007708,"name":"正義の者限定","type":1,"rangeType":1},{"targetVals":[],"id":94011901,"name":"サポートのみ出撃","type":5,"rangeType":0},{"targetVals":[202000,402600],"id":94015301,"name":"イシュタル出撃不可","type":1,"rangeType":2},{"targetVals":[],"id":94016101,"name":"同一サーヴァント不可","type":6,"rangeType":0},{"targetVals":[2,3],"id":94016901,"name":"女性限定","type":1,"rangeType":1},{"targetVals":[1,3],"id":94016902,"name":"男性限定","type":1,"rangeType":1},{"targetVals":[2068],"id":94016903,"name":"西洋限定","type":1,"rangeType":1},{"targetVals":[2069],"id":94016904,"name":"王以外限定","type":1,"rangeType":1},{"targetVals":[2070,3],"id":94016905,"name":"ダ・ヴィンチセレクト限定","type":1,"rangeType":1},{"targetVals":[2071],"id":94016906,"name":"165cm以下限定","type":1,"rangeType":1},{"targetVals":[2072],"id":94016907,"name":"新参者限定","type":1,"rangeType":1},{"targetVals":[303,702200,200100,700100,601500],"id":94016908,"name":"正義の者限定","type":1,"rangeType":1},{"targetVals":[2],"id":94031301,"name":"2騎のみ出撃可能","type":10,"rangeType":1},{"targetVals":[],"id":94032201,"name":"サポートのみ出撃","type":5,"rangeType":0},{"targetVals":[800100],"id":94032202,"name":"編成制限あり","type":8,"rangeType":0},{"targetVals":[5],"id":94032203,"name":"4騎NPC固定出撃","type":10,"rangeType":4},{"targetVals":[1],"id":94032204,"name":"1騎のみ出撃可能","type":11,"rangeType":1},{"targetVals":[2,900600,300800,102600],"id":94032205,"name":"女性のみ出撃可能","type":1,"rangeType":1},{"targetVals":[1,900600,300800,102600,400400],"id":94032206,"name":"男性のみ出撃可能","type":1,"rangeType":1},{"targetVals":[3],"id":94032207,"name":"2騎NPC固定出撃","type":10,"rangeType":1},{"targetVals":[],"id":94034001,"name":"サポートのみ出撃","type":5,"rangeType":0},{"targetVals":[3],"id":94035001,"name":"3騎のみ出撃可能","type":10,"rangeType":1},{"targetVals":[],"id":94036601,"name":"サポートのみ出撃","type":5,"rangeType":0},{"targetVals":[2],"id":94036602,"name":"2騎のみ出撃可能","type":10,"rangeType":1},{"targetVals":[603900],"id":94036603,"name":"グレイ出撃不可","type":1,"rangeType":2},{"targetVals":[],"id":94037301,"name":"サポートのみ出撃","type":5,"rangeType":0},{"targetVals":[104000],"id":94040101,"name":"編成条件あり","type":8,"rangeType":0},{"targetVals":[4],"id":94040102,"name":"4騎まで出撃可能","type":10,"rangeType":4},{"targetVals":[104000],"id":94040103,"name":"編成制限あり","type":1,"rangeType":2},{"targetVals":[104000],"id":94040104,"name":"特定メンバーのみ出撃","type":9,"rangeType":0},{"targetVals":[3],"id":94040740,"name":"3騎のみ出撃可能","type":10,"rangeType":1},{"targetVals":[1,2,3],"id":94041400,"name":"編成条件あり","type":7,"rangeType":1},{"targetVals":[],"id":94041901,"name":"サポートのみ出撃","type":5,"rangeType":0},{"targetVals":[1],"id":94041902,"name":"1騎NPC固定出撃","type":10,"rangeType":1},{"targetVals":[],"id":94043005,"name":"サポートのみ出撃","type":5,"rangeType":0},{"targetVals":[],"id":94044301,"name":"サポートのみ出撃","type":5,"rangeType":0},{"targetVals":[800100],"id":94044302,"name":"編成制限あり","type":8,"rangeType":0},{"targetVals":[5],"id":94044303,"name":"4騎NPC固定出撃","type":10,"rangeType":4},{"targetVals":[1],"id":94044304,"name":"1騎のみ出撃可能","type":11,"rangeType":1},{"targetVals":[2,900600,300800,102600,1100700],"id":94044305,"name":"女性のみ出撃可能","type":1,"rangeType":1},{"targetVals":[1,900600,300800,102600,400400,104100,1100700,603700],"id":94044306,"name":"男性のみ出撃可能","type":1,"rangeType":1},{"targetVals":[3],"id":94044307,"name":"2騎NPC固定出撃","type":10,"rangeType":1},{"targetVals":[2],"id":94044912,"name":"2騎NPC固定出撃","type":10,"rangeType":1},{"targetVals":[2],"id":94046501,"name":"2騎NPC固定出撃","type":10,"rangeType":1}]
+[
+  {
+    "targetVals": [],
+    "id": 2000301,
+    "name": "サポートのみ出撃",
+    "type": 5,
+    "rangeType": 0
+  },
+  {
+    "targetVals": [
+      1,
+      2,
+      3
+    ],
+    "id": 2000302,
+    "name": "編成条件あり",
+    "type": 7,
+    "rangeType": 1
+  },
+  {
+    "targetVals": [
+      800100
+    ],
+    "id": 3000101,
+    "name": "特定メンバーのみ出撃",
+    "type": 8,
+    "rangeType": 0
+  },
+  {
+    "targetVals": [
+      800100
+    ],
+    "id": 3000102,
+    "name": "特定メンバーのみ出撃",
+    "type": 9,
+    "rangeType": 0
+  },
+  {
+    "targetVals": [
+      1,
+      2,
+      3
+    ],
+    "id": 3000201,
+    "name": "編成条件あり",
+    "type": 7,
+    "rangeType": 1
+  },
+  {
+    "targetVals": [
+      800100
+    ],
+    "id": 3000202,
+    "name": "編成制限あり",
+    "type": 8,
+    "rangeType": 0
+  },
+  {
+    "targetVals": [
+      800100
+    ],
+    "id": 3000301,
+    "name": "特定メンバーのみ出撃可能",
+    "type": 8,
+    "rangeType": 0
+  },
+  {
+    "targetVals": [
+      2
+    ],
+    "id": 3000302,
+    "name": "2騎のみ出撃可能",
+    "type": 10,
+    "rangeType": 1
+  },
+  {
+    "targetVals": [
+      4
+    ],
+    "id": 3000401,
+    "name": "4騎まで出撃可能",
+    "type": 10,
+    "rangeType": 4
+  },
+  {
+    "targetVals": [
+      800100,
+      2435
+    ],
+    "id": 3000402,
+    "name": "特定メンバーのみ出撃可能",
+    "type": 1,
+    "rangeType": 1
+  },
+  {
+    "targetVals": [
+      1
+    ],
+    "id": 3000403,
+    "name": "編成制限あり",
+    "type": 11,
+    "rangeType": 4
+  },
+  {
+    "targetVals": [
+      1,
+      2,
+      3
+    ],
+    "id": 3000501,
+    "name": "編成条件あり",
+    "type": 7,
+    "rangeType": 1
+  },
+  {
+    "targetVals": [
+      800100,
+      2435
+    ],
+    "id": 3000502,
+    "name": "特定メンバーのみ出撃可能",
+    "type": 1,
+    "rangeType": 1
+  },
+  {
+    "targetVals": [
+      3
+    ],
+    "id": 3000503,
+    "name": "2騎NPC固定出撃",
+    "type": 10,
+    "rangeType": 1
+  },
+  {
+    "targetVals": [
+      1
+    ],
+    "id": 3000504,
+    "name": "編成制限あり",
+    "type": 11,
+    "rangeType": 1
+  },
+  {
+    "targetVals": [
+      2
+    ],
+    "id": 3000505,
+    "name": "2騎のみ出撃可能",
+    "type": 10,
+    "rangeType": 1
+  },
+  {
+    "targetVals": [
+      6
+    ],
+    "id": 3000601,
+    "name": "2騎NPC固定出撃",
+    "type": 10,
+    "rangeType": 4
+  },
+  {
+    "targetVals": [
+      4
+    ],
+    "id": 3000602,
+    "name": "編成制限あり",
+    "type": 11,
+    "rangeType": 4
+  },
+  {
+    "targetVals": [
+      2
+    ],
+    "id": 91000001,
+    "name": "2騎NPC固定出撃",
+    "type": 10,
+    "rangeType": 1
+  },
+  {
+    "targetVals": [
+      103200
+    ],
+    "id": 91000002,
+    "name": "編成条件あり",
+    "type": 8,
+    "rangeType": 0
+  },
+  {
+    "targetVals": [
+      702500
+    ],
+    "id": 91000003,
+    "name": "特定メンバーのみ出撃",
+    "type": 9,
+    "rangeType": 0
+  },
+  {
+    "targetVals": [
+      1
+    ],
+    "id": 91000004,
+    "name": "1騎NPC固定出撃",
+    "type": 10,
+    "rangeType": 1
+  },
+  {
+    "targetVals": [
+      103200
+    ],
+    "id": 91000005,
+    "name": "柳生但馬守宗矩出撃不可",
+    "type": 1,
+    "rangeType": 2
+  },
+  {
+    "targetVals": [
+      102900
+    ],
+    "id": 91000006,
+    "name": "編成条件あり",
+    "type": 8,
+    "rangeType": 0
+  },
+  {
+    "targetVals": [
+      102900
+    ],
+    "id": 91000007,
+    "name": "アーサー出撃不可",
+    "type": 1,
+    "rangeType": 2
+  },
+  {
+    "targetVals": [
+      603100
+    ],
+    "id": 91000008,
+    "name": "刑部姫出撃不可",
+    "type": 1,
+    "rangeType": 2
+  },
+  {
+    "targetVals": [
+      202000
+    ],
+    "id": 91000009,
+    "name": "編成制限あり",
+    "type": 8,
+    "rangeType": 0
+  },
+  {
+    "targetVals": [
+      3
+    ],
+    "id": 91000011,
+    "name": "2騎NPC出撃",
+    "type": 10,
+    "rangeType": 1
+  },
+  {
+    "targetVals": [
+      201100
+    ],
+    "id": 91000012,
+    "name": "編成制限あり",
+    "type": 8,
+    "rangeType": 0
+  },
+  {
+    "targetVals": [
+      303000
+    ],
+    "id": 91000013,
+    "name": "編成制限あり",
+    "type": 8,
+    "rangeType": 0
+  },
+  {
+    "targetVals": [
+      2
+    ],
+    "id": 91000014,
+    "name": "1騎NPC出撃",
+    "type": 10,
+    "rangeType": 1
+  },
+  {
+    "targetVals": [
+      202000
+    ],
+    "id": 91000015,
+    "name": "イシュタル出撃不可",
+    "type": 1,
+    "rangeType": 2
+  },
+  {
+    "targetVals": [
+      600500
+    ],
+    "id": 91000016,
+    "name": "ジャック・ザ・リッパー出撃不可",
+    "type": 1,
+    "rangeType": 2
+  },
+  {
+    "targetVals": [
+      503500
+    ],
+    "id": 91000017,
+    "name": "特定メンバーのみ出撃",
+    "type": 9,
+    "rangeType": 0
+  },
+  {
+    "targetVals": [
+      203100
+    ],
+    "id": 91000018,
+    "name": "編成制限あり",
+    "type": 8,
+    "rangeType": 0
+  },
+  {
+    "targetVals": [
+      103600
+    ],
+    "id": 91000019,
+    "name": "特定メンバーのみ出撃",
+    "type": 9,
+    "rangeType": 0
+  },
+  {
+    "targetVals": [
+      303300
+    ],
+    "id": 91000020,
+    "name": "特定メンバーのみ出撃",
+    "type": 9,
+    "rangeType": 0
+  },
+  {
+    "targetVals": [
+      601800
+    ],
+    "id": 91000021,
+    "name": "編成条件あり",
+    "type": 8,
+    "rangeType": 0
+  },
+  {
+    "targetVals": [
+      202100
+    ],
+    "id": 91000022,
+    "name": "編成制限あり",
+    "type": 8,
+    "rangeType": 0
+  },
+  {
+    "targetVals": [
+      3
+    ],
+    "id": 91000023,
+    "name": "3騎NPC固定出撃",
+    "type": 10,
+    "rangeType": 1
+  },
+  {
+    "targetVals": [
+      103700
+    ],
+    "id": 91000024,
+    "name": "編成制限あり",
+    "type": 8,
+    "rangeType": 0
+  },
+  {
+    "targetVals": [
+      4
+    ],
+    "id": 91000025,
+    "name": "3騎NPC固定出撃",
+    "type": 10,
+    "rangeType": 4
+  },
+  {
+    "targetVals": [
+      203300
+    ],
+    "id": 91000026,
+    "name": "特定メンバーのみ出撃",
+    "type": 9,
+    "rangeType": 0
+  },
+  {
+    "targetVals": [
+      303600
+    ],
+    "id": 91000027,
+    "name": "編成制限あり",
+    "type": 8,
+    "rangeType": 0
+  },
+  {
+    "targetVals": [
+      2,
+      3
+    ],
+    "id": 94007701,
+    "name": "女性限定",
+    "type": 1,
+    "rangeType": 1
+  },
+  {
+    "targetVals": [
+      1,
+      3
+    ],
+    "id": 94007702,
+    "name": "男性限定",
+    "type": 1,
+    "rangeType": 1
+  },
+  {
+    "targetVals": [
+      2068
+    ],
+    "id": 94007703,
+    "name": "西洋限定",
+    "type": 1,
+    "rangeType": 1
+  },
+  {
+    "targetVals": [
+      2069
+    ],
+    "id": 94007704,
+    "name": "王以外限定",
+    "type": 1,
+    "rangeType": 1
+  },
+  {
+    "targetVals": [
+      2070,
+      3
+    ],
+    "id": 94007705,
+    "name": "ダ・ヴィンチセレクト限定",
+    "type": 1,
+    "rangeType": 1
+  },
+  {
+    "targetVals": [
+      2071
+    ],
+    "id": 94007706,
+    "name": "165cm以下限定",
+    "type": 1,
+    "rangeType": 1
+  },
+  {
+    "targetVals": [
+      2072
+    ],
+    "id": 94007707,
+    "name": "新参者限定",
+    "type": 1,
+    "rangeType": 1
+  },
+  {
+    "targetVals": [
+      303,
+      702200,
+      200100,
+      700100,
+      601500
+    ],
+    "id": 94007708,
+    "name": "正義の者限定",
+    "type": 1,
+    "rangeType": 1
+  },
+  {
+    "targetVals": [],
+    "id": 94011901,
+    "name": "サポートのみ出撃",
+    "type": 5,
+    "rangeType": 0
+  },
+  {
+    "targetVals": [
+      202000,
+      402600
+    ],
+    "id": 94015301,
+    "name": "イシュタル出撃不可",
+    "type": 1,
+    "rangeType": 2
+  },
+  {
+    "targetVals": [],
+    "id": 94016101,
+    "name": "同一サーヴァント不可",
+    "type": 6,
+    "rangeType": 0
+  },
+  {
+    "targetVals": [
+      2,
+      3
+    ],
+    "id": 94016901,
+    "name": "女性限定",
+    "type": 1,
+    "rangeType": 1
+  },
+  {
+    "targetVals": [
+      1,
+      3
+    ],
+    "id": 94016902,
+    "name": "男性限定",
+    "type": 1,
+    "rangeType": 1
+  },
+  {
+    "targetVals": [
+      2068
+    ],
+    "id": 94016903,
+    "name": "西洋限定",
+    "type": 1,
+    "rangeType": 1
+  },
+  {
+    "targetVals": [
+      2069
+    ],
+    "id": 94016904,
+    "name": "王以外限定",
+    "type": 1,
+    "rangeType": 1
+  },
+  {
+    "targetVals": [
+      2070,
+      3
+    ],
+    "id": 94016905,
+    "name": "ダ・ヴィンチセレクト限定",
+    "type": 1,
+    "rangeType": 1
+  },
+  {
+    "targetVals": [
+      2071
+    ],
+    "id": 94016906,
+    "name": "165cm以下限定",
+    "type": 1,
+    "rangeType": 1
+  },
+  {
+    "targetVals": [
+      2072
+    ],
+    "id": 94016907,
+    "name": "新参者限定",
+    "type": 1,
+    "rangeType": 1
+  },
+  {
+    "targetVals": [
+      303,
+      702200,
+      200100,
+      700100,
+      601500
+    ],
+    "id": 94016908,
+    "name": "正義の者限定",
+    "type": 1,
+    "rangeType": 1
+  },
+  {
+    "targetVals": [
+      2
+    ],
+    "id": 94031301,
+    "name": "2騎のみ出撃可能",
+    "type": 10,
+    "rangeType": 1
+  },
+  {
+    "targetVals": [],
+    "id": 94032201,
+    "name": "サポートのみ出撃",
+    "type": 5,
+    "rangeType": 0
+  },
+  {
+    "targetVals": [
+      800100
+    ],
+    "id": 94032202,
+    "name": "編成制限あり",
+    "type": 8,
+    "rangeType": 0
+  },
+  {
+    "targetVals": [
+      5
+    ],
+    "id": 94032203,
+    "name": "4騎NPC固定出撃",
+    "type": 10,
+    "rangeType": 4
+  },
+  {
+    "targetVals": [
+      1
+    ],
+    "id": 94032204,
+    "name": "1騎のみ出撃可能",
+    "type": 11,
+    "rangeType": 1
+  },
+  {
+    "targetVals": [
+      2,
+      900600,
+      300800,
+      102600
+    ],
+    "id": 94032205,
+    "name": "女性のみ出撃可能",
+    "type": 1,
+    "rangeType": 1
+  },
+  {
+    "targetVals": [
+      1,
+      900600,
+      300800,
+      102600,
+      400400
+    ],
+    "id": 94032206,
+    "name": "男性のみ出撃可能",
+    "type": 1,
+    "rangeType": 1
+  },
+  {
+    "targetVals": [
+      3
+    ],
+    "id": 94032207,
+    "name": "2騎NPC固定出撃",
+    "type": 10,
+    "rangeType": 1
+  },
+  {
+    "targetVals": [],
+    "id": 94034001,
+    "name": "サポートのみ出撃",
+    "type": 5,
+    "rangeType": 0
+  },
+  {
+    "targetVals": [
+      3
+    ],
+    "id": 94035001,
+    "name": "3騎のみ出撃可能",
+    "type": 10,
+    "rangeType": 1
+  },
+  {
+    "targetVals": [],
+    "id": 94036601,
+    "name": "サポートのみ出撃",
+    "type": 5,
+    "rangeType": 0
+  },
+  {
+    "targetVals": [
+      2
+    ],
+    "id": 94036602,
+    "name": "2騎のみ出撃可能",
+    "type": 10,
+    "rangeType": 1
+  },
+  {
+    "targetVals": [
+      603900
+    ],
+    "id": 94036603,
+    "name": "グレイ出撃不可",
+    "type": 1,
+    "rangeType": 2
+  },
+  {
+    "targetVals": [],
+    "id": 94037301,
+    "name": "サポートのみ出撃",
+    "type": 5,
+    "rangeType": 0
+  },
+  {
+    "targetVals": [
+      104000
+    ],
+    "id": 94040101,
+    "name": "編成条件あり",
+    "type": 8,
+    "rangeType": 0
+  },
+  {
+    "targetVals": [
+      4
+    ],
+    "id": 94040102,
+    "name": "4騎まで出撃可能",
+    "type": 10,
+    "rangeType": 4
+  },
+  {
+    "targetVals": [
+      104000
+    ],
+    "id": 94040103,
+    "name": "編成制限あり",
+    "type": 1,
+    "rangeType": 2
+  },
+  {
+    "targetVals": [
+      104000
+    ],
+    "id": 94040104,
+    "name": "特定メンバーのみ出撃",
+    "type": 9,
+    "rangeType": 0
+  },
+  {
+    "targetVals": [
+      3
+    ],
+    "id": 94040740,
+    "name": "3騎のみ出撃可能",
+    "type": 10,
+    "rangeType": 1
+  },
+  {
+    "targetVals": [
+      1,
+      2,
+      3
+    ],
+    "id": 94041400,
+    "name": "編成条件あり",
+    "type": 7,
+    "rangeType": 1
+  },
+  {
+    "targetVals": [],
+    "id": 94041901,
+    "name": "サポートのみ出撃",
+    "type": 5,
+    "rangeType": 0
+  },
+  {
+    "targetVals": [
+      1
+    ],
+    "id": 94041902,
+    "name": "1騎NPC固定出撃",
+    "type": 10,
+    "rangeType": 1
+  },
+  {
+    "targetVals": [],
+    "id": 94043005,
+    "name": "サポートのみ出撃",
+    "type": 5,
+    "rangeType": 0
+  },
+  {
+    "targetVals": [],
+    "id": 94044301,
+    "name": "サポートのみ出撃",
+    "type": 5,
+    "rangeType": 0
+  },
+  {
+    "targetVals": [
+      800100
+    ],
+    "id": 94044302,
+    "name": "編成制限あり",
+    "type": 8,
+    "rangeType": 0
+  },
+  {
+    "targetVals": [
+      5
+    ],
+    "id": 94044303,
+    "name": "4騎NPC固定出撃",
+    "type": 10,
+    "rangeType": 4
+  },
+  {
+    "targetVals": [
+      1
+    ],
+    "id": 94044304,
+    "name": "1騎のみ出撃可能",
+    "type": 11,
+    "rangeType": 1
+  },
+  {
+    "targetVals": [
+      2,
+      900600,
+      300800,
+      102600,
+      1100700
+    ],
+    "id": 94044305,
+    "name": "女性のみ出撃可能",
+    "type": 1,
+    "rangeType": 1
+  },
+  {
+    "targetVals": [
+      1,
+      900600,
+      300800,
+      102600,
+      400400,
+      104100,
+      1100700,
+      603700
+    ],
+    "id": 94044306,
+    "name": "男性のみ出撃可能",
+    "type": 1,
+    "rangeType": 1
+  },
+  {
+    "targetVals": [
+      3
+    ],
+    "id": 94044307,
+    "name": "2騎NPC固定出撃",
+    "type": 10,
+    "rangeType": 1
+  },
+  {
+    "targetVals": [
+      2
+    ],
+    "id": 94044912,
+    "name": "2騎NPC固定出撃",
+    "type": 10,
+    "rangeType": 1
+  },
+  {
+    "targetVals": [
+      2
+    ],
+    "id": 94046501,
+    "name": "2騎NPC固定出撃",
+    "type": 10,
+    "rangeType": 1
+  }
+]
