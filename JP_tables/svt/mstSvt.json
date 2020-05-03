@@ -15507,7 +15507,9 @@
     "flag": 0
   },
   {
-    "relateQuestIds": [],
+    "relateQuestIds": [
+      94048899
+    ],
     "individuality": [
       5000,
       702900,
@@ -17029,7 +17031,9 @@
     "flag": 8
   },
   {
-    "relateQuestIds": [],
+    "relateQuestIds": [
+      94048898
+    ],
     "individuality": [
       5000,
       1000700,
@@ -17621,7 +17625,9 @@
     "flag": 0
   },
   {
-    "relateQuestIds": [],
+    "relateQuestIds": [
+      94048897
+    ],
     "individuality": [
       5000,
       1100700,
@@ -64519,6 +64525,50 @@
       3
     ],
     "script": {},
+    "id": 9404540,
+    "baseSvtId": 9404540,
+    "name": "フリー・シーティング",
+    "ruby": "フリー・シーティング",
+    "battleName": "-",
+    "classId": 1001,
+    "type": 6,
+    "limitMax": 4,
+    "rewardLv": 0,
+    "friendshipId": 1000,
+    "maxFriendshipRank": 0,
+    "genderType": 3,
+    "attri": 2,
+    "combineSkillId": 0,
+    "combineLimitId": 0,
+    "sellQp": 2000,
+    "sellMana": 5,
+    "sellRarePri": 0,
+    "expType": 20,
+    "combineMaterialId": 25,
+    "cost": 12,
+    "battleSize": 2,
+    "hpGaugeY": 0,
+    "starRate": 0,
+    "deathRate": 0,
+    "attackAttri": 1,
+    "illustratorId": 305,
+    "cvId": 0,
+    "collectionNo": 1214,
+    "materialStoryPriority": 1000,
+    "flag": 0
+  },
+  {
+    "relateQuestIds": [],
+    "individuality": [],
+    "classPassive": [],
+    "cardIds": [
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "script": {},
     "id": 9501100,
     "baseSvtId": 9501100,
     "name": "英霊結晶・宵闇のフォウくん",
@@ -80829,7 +80879,7 @@
     "cvId": 0,
     "collectionNo": 1030,
     "materialStoryPriority": 1000,
-    "flag": 0
+    "flag": 16
   },
   {
     "relateQuestIds": [],
@@ -80873,7 +80923,7 @@
     "cvId": 0,
     "collectionNo": 1031,
     "materialStoryPriority": 1000,
-    "flag": 0
+    "flag": 16
   },
   {
     "relateQuestIds": [],

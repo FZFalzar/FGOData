@@ -8785,6 +8785,18 @@
     "effectList": [],
     "actIndividuality": [],
     "script": {},
+    "id": 489451,
+    "type": 1,
+    "name": "不断 B+",
+    "ruby": "ふだん",
+    "maxLv": 10,
+    "iconId": 601,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
     "id": 490550,
     "type": 1,
     "name": "無辺 A",
@@ -10359,6 +10371,18 @@
     "effectList": [],
     "actIndividuality": [],
     "script": {},
+    "id": 620452,
+    "type": 1,
+    "name": "夢幻の如く B++",
+    "ruby": "むげんのごとく",
+    "maxLv": 10,
+    "iconId": 403,
+    "motion": 1002
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
     "id": 621650,
     "type": 1,
     "name": "第六天魔王 EX",
@@ -11741,7 +11765,7 @@
     "script": {},
     "id": 750451,
     "type": 2,
-    "name": "主神の神格 B+",
+    "name": "主神の神核 B+",
     "ruby": "しゅしんのしんかく",
     "maxLv": 10,
     "iconId": 326,
@@ -13474,6 +13498,54 @@
     "maxLv": 1,
     "iconId": 301,
     "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 940142,
+    "type": 2,
+    "name": "ぐだぐだ家臣パワー EX",
+    "ruby": "ぐだぐだかしんぱわー",
+    "maxLv": 1,
+    "iconId": 301,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 940143,
+    "type": 2,
+    "name": "ぐだぐだ家臣パワー A",
+    "ruby": "ぐだぐだかしんぱわー",
+    "maxLv": 1,
+    "iconId": 301,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 940144,
+    "type": 2,
+    "name": "ぐだぐだ家臣パワー B",
+    "ruby": "ぐだぐだかしんぱわー",
+    "maxLv": 1,
+    "iconId": 301,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 940145,
+    "type": 2,
+    "name": "ぐだぐだ家老パワー A",
+    "ruby": "ぐだぐだかろうぱわー",
+    "maxLv": 1,
+    "iconId": 301,
+    "motion": 102
   },
   {
     "effectList": [],
@@ -44195,7 +44267,7 @@
     "script": {},
     "id": 962835,
     "type": 1,
-    "name": "促疫の魔眼",
+    "name": "蛇神様「促疫の魔眼」",
     "ruby": "-",
     "maxLv": 1,
     "iconId": 600,
@@ -44211,7 +44283,7 @@
     "ruby": "-",
     "maxLv": 1,
     "iconId": 600,
-    "motion": 101
+    "motion": 151
   },
   {
     "effectList": [],
@@ -44219,7 +44291,7 @@
     "script": {},
     "id": 962837,
     "type": 1,
-    "name": "魔力創出",
+    "name": "メディア店長「魔力創出」",
     "ruby": "-",
     "maxLv": 1,
     "iconId": 600,
@@ -44235,7 +44307,7 @@
     "ruby": "-",
     "maxLv": 1,
     "iconId": 600,
-    "motion": 102
+    "motion": 152
   },
   {
     "effectList": [],
@@ -44255,7 +44327,7 @@
     "script": {},
     "id": 962840,
     "type": 1,
-    "name": "幻死の呪腕",
+    "name": "百地ハサン太夫「幻死の呪腕」",
     "ruby": "-",
     "maxLv": 1,
     "iconId": 600,
@@ -56924,6 +56996,18 @@
     "maxLv": 1,
     "iconId": 600,
     "motion": 2001
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 964441,
+    "type": 1,
+    "name": "「カカレェ……、カカレェイ……！」　",
+    "ruby": "-",
+    "maxLv": 1,
+    "iconId": 600,
+    "motion": 101
   },
   {
     "effectList": [],
@@ -83470,5 +83554,137 @@
     "maxLv": 1,
     "iconId": 600,
     "motion": 103
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 992203,
+    "type": 2,
+    "name": "陣立味噌のドロップ獲得数アップ",
+    "ruby": "ぐんゆうかっきょ",
+    "maxLv": 1,
+    "iconId": 200,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 992204,
+    "type": 2,
+    "name": "陣立味噌のドロップ獲得数アップ",
+    "ruby": "ぐんゆうかっきょ",
+    "maxLv": 1,
+    "iconId": 200,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 992205,
+    "type": 2,
+    "name": "無縁塩のドロップ獲得数アップ",
+    "ruby": "ぐんしん",
+    "maxLv": 1,
+    "iconId": 200,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 992206,
+    "type": 2,
+    "name": "無縁塩のドロップ獲得数アップ",
+    "ruby": "ぐんしん",
+    "maxLv": 1,
+    "iconId": 200,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 992207,
+    "type": 2,
+    "name": "青苧糸のドロップ獲得数アップ",
+    "ruby": "おにのちゃかい",
+    "maxLv": 1,
+    "iconId": 200,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 992208,
+    "type": 2,
+    "name": "青苧糸のドロップ獲得数アップ",
+    "ruby": "おにのちゃかい",
+    "maxLv": 1,
+    "iconId": 200,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 992209,
+    "type": 2,
+    "name": "攻撃の威力アップ",
+    "ruby": "はらがへってはいくさができぬ",
+    "maxLv": 1,
+    "iconId": 301,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 992210,
+    "type": 2,
+    "name": "攻撃の威力アップ",
+    "ruby": "はらがへってはいくさができぬ",
+    "maxLv": 1,
+    "iconId": 301,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 992211,
+    "type": 2,
+    "name": "フリー・シーティング",
+    "ruby": "ふりー・しーてぃんぐ",
+    "maxLv": 1,
+    "iconId": 201,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 992212,
+    "type": 2,
+    "name": "フリー・シーティング",
+    "ruby": "ふりー・しーてぃんぐ",
+    "maxLv": 1,
+    "iconId": 201,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 992213,
+    "type": 2,
+    "name": "二天道楽の刀",
+    "ruby": "にてんどうらくのかたな",
+    "maxLv": 1,
+    "iconId": 303,
+    "motion": 101
   }
 ]

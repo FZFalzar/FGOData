@@ -9601,5 +9601,49 @@
     "targetNum": 1,
     "frequencyType": 3,
     "displayType": 1
+  },
+  {
+    "questId": 94048217,
+    "phase": 1,
+    "idx": 0,
+    "message": "このクエストでは\nパーティ編成はバトルの直前に行います。\n\nクエストを開始しますか？",
+    "condType": 0,
+    "targetId": 0,
+    "targetNum": 0,
+    "frequencyType": 3,
+    "displayType": 1
+  },
+  {
+    "questId": 94048810,
+    "phase": 0,
+    "idx": 0,
+    "message": "【復刻:ぐだぐだファイナル本能寺2019 ライト版】は\n復刻イベントです。\n過去の【ぐだぐだファイナル本能寺2019】で\n『コマンドコード「尾張の大うつけ」』\nを入手している場合、本イベントでは\n『レアプリズム 1個』\nに置き換わります。",
+    "condType": 25,
+    "targetId": 94039010,
+    "targetNum": 1,
+    "frequencyType": 1,
+    "displayType": 1
+  },
+  {
+    "questId": 94048812,
+    "phase": 0,
+    "idx": 0,
+    "message": "【復刻:ぐだぐだファイナル本能寺2019 ライト版】は\n復刻イベントです。\n過去の【ぐだぐだファイナル本能寺2019】で\n『コマンドコード「細身造りの名刀」』\nを入手している場合、本イベントでは\n『マナプリズム 200個』\nに置き換わります。",
+    "condType": 25,
+    "targetId": 94039012,
+    "targetNum": 1,
+    "frequencyType": 1,
+    "displayType": 1
+  },
+  {
+    "questId": 94048820,
+    "phase": 0,
+    "idx": 0,
+    "message": "【復刻:ぐだぐだファイナル本能寺2019 ライト版】は\n復刻イベントです。\n過去の【ぐだぐだファイナル本能寺2019】で\n『コマンドコード「未青き幻想の令印」』\nを入手している場合、本イベントでは\n『マナプリズム 100個』\nに置き換わります。",
+    "condType": 25,
+    "targetId": 94039020,
+    "targetNum": 1,
+    "frequencyType": 1,
+    "displayType": 1
   }
 ]

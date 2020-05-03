@@ -4178,5 +4178,35 @@
     "condValue": 80283,
     "startedAt": 1586318400,
     "endedAt": 1901199599
+  },
+  {
+    "voiceIds": [
+      "0_I010",
+      "0_I020"
+    ],
+    "confirmVoiceIds": [],
+    "eventId": 80286,
+    "slot": 0,
+    "idx": 0,
+    "guideImageId": 303800,
+    "condType": 11,
+    "condValue": 80286,
+    "startedAt": 1588496400,
+    "endedAt": 1901199599
+  },
+  {
+    "voiceIds": [
+      "0_I060",
+      "0_I070"
+    ],
+    "confirmVoiceIds": [],
+    "eventId": 80286,
+    "slot": 0,
+    "idx": 1,
+    "guideImageId": 303800,
+    "condType": 20,
+    "condValue": 80286,
+    "startedAt": 1589688000,
+    "endedAt": 1901199599
   }
 ]

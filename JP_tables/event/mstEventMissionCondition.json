@@ -14726,7 +14726,10 @@
       94046801,
       94047401,
       94047402,
-      94047403
+      94047403,
+      94048897,
+      94048898,
+      94048899
     ],
     "missionId": 10015,
     "missionProgressType": 4,
@@ -14881,7 +14884,10 @@
       94046801,
       94047401,
       94047402,
-      94047403
+      94047403,
+      94048897,
+      94048898,
+      94048899
     ],
     "missionId": 10016,
     "missionProgressType": 4,
@@ -15036,7 +15042,10 @@
       94046801,
       94047401,
       94047402,
-      94047403
+      94047403,
+      94048897,
+      94048898,
+      94048899
     ],
     "missionId": 10017,
     "missionProgressType": 4,
@@ -15191,7 +15200,10 @@
       94046801,
       94047401,
       94047402,
-      94047403
+      94047403,
+      94048897,
+      94048898,
+      94048899
     ],
     "missionId": 10018,
     "missionProgressType": 4,
@@ -15346,7 +15358,10 @@
       94046801,
       94047401,
       94047402,
-      94047403
+      94047403,
+      94048897,
+      94048898,
+      94048899
     ],
     "missionId": 10019,
     "missionProgressType": 4,
@@ -15501,7 +15516,10 @@
       94046801,
       94047401,
       94047402,
-      94047403
+      94047403,
+      94048897,
+      94048898,
+      94048899
     ],
     "missionId": 10020,
     "missionProgressType": 4,
@@ -15656,7 +15674,10 @@
       94046801,
       94047401,
       94047402,
-      94047403
+      94047403,
+      94048897,
+      94048898,
+      94048899
     ],
     "missionId": 10021,
     "missionProgressType": 4,
@@ -15811,7 +15832,10 @@
       94046801,
       94047401,
       94047402,
-      94047403
+      94047403,
+      94048897,
+      94048898,
+      94048899
     ],
     "missionId": 10022,
     "missionProgressType": 4,
@@ -27541,6 +27565,217 @@
     "condType": 1,
     "targetNum": 1,
     "conditionMessage": "【第2部 第5章クリア応援】\n『Lostbelt No.5（アトランティス）』をクリアせよ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      1014001,
+      1014002,
+      1014003,
+      1014004,
+      1014005,
+      1014006,
+      1014007,
+      1014008,
+      1014009,
+      1014010,
+      1014011
+    ],
+    "missionId": 1014000,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 10143,
+    "missionTargetId": 200081,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 11,
+    "conditionMessage": "【2000万DL突破記念】\n限定ミッションをすべてクリアせよ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      1014002,
+      1014003,
+      1014004,
+      1014005,
+      1014006,
+      1014007,
+      1014008,
+      1014009,
+      1014010,
+      1014011
+    ],
+    "missionId": 1014001,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 10144,
+    "missionTargetId": 200081,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 8,
+    "conditionMessage": "【2000万DL突破記念】\nいずれかの限定ミッションを8個クリアせよ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      1000101
+    ],
+    "missionId": 1014002,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 10145,
+    "missionTargetId": 200081,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "【2000万DL突破記念】\n『第一特異点 第1節』をクリアせよ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      1000301
+    ],
+    "missionId": 1014003,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 10146,
+    "missionTargetId": 200081,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "【2000万DL突破記念】\n『第三特異点 第1節』をクリアせよ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      1000601
+    ],
+    "missionId": 1014004,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 10147,
+    "missionTargetId": 200081,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "【2000万DL突破記念】\n『第六特異点 第1節』をクリアせよ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      3000102
+    ],
+    "missionId": 1014005,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 10148,
+    "missionTargetId": 200081,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "【2000万DL突破記念】\n『Lostbelt No.1 第1節』をクリアせよ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      3000601
+    ],
+    "missionId": 1014006,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 10149,
+    "missionTargetId": 200081,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "【2000万DL突破記念】\n『Lostbelt No.5 オリュンポス 第1節』をクリアせよ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      10118
+    ],
+    "missionId": 1014007,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 10150,
+    "missionTargetId": 200081,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 1,
+    "conditionMessage": "【2000万DL突破記念】\n『いずれかの曜日クエスト「種火集め」』を1回クリアせよ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      10119
+    ],
+    "missionId": 1014008,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 10151,
+    "missionTargetId": 200081,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 1,
+    "conditionMessage": "【2000万DL突破記念】\n『いずれかの曜日クエスト「修練場」』を1回クリアせよ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      10120
+    ],
+    "missionId": 1014009,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 10152,
+    "missionTargetId": 200081,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 1,
+    "conditionMessage": "【2000万DL突破記念】\n『いずれかの曜日クエスト「宝物庫の扉を開け」』を1回クリアせよ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      10121
+    ],
+    "missionId": 1014010,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 10153,
+    "missionTargetId": 200081,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 1,
+    "conditionMessage": "【2000万DL突破記念】\nいずれかのフリークエストを1回クリアせよ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      10117
+    ],
+    "missionId": 1014011,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 10154,
+    "missionTargetId": 200081,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 30,
+    "conditionMessage": "【2000万DL突破記念】\nフレンドポイント召喚を30回実行せよ",
     "closedMessage": "",
     "flag": 0
   },
@@ -52154,6 +52389,139 @@
     "condType": 22,
     "targetNum": 30,
     "conditionMessage": "戦利品で「叡智の猛火」「叡智の大火」「叡智の灯火」「叡智の種火」をどれか30枚獲得せよ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001359,
+      2001360,
+      2001361,
+      2001362,
+      2001363,
+      2001364
+    ],
+    "missionId": 2001358,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001525,
+    "missionTargetId": 100197,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 6,
+    "conditionMessage": "今週のマスターミッションをすべてクリアせよ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001050
+    ],
+    "missionId": 2001359,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001526,
+    "missionTargetId": 100197,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 30,
+    "conditionMessage": "敵を30体倒せ(サーヴァント及び一部ボスなどは除く)",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001051
+    ],
+    "missionId": 2001360,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001527,
+    "missionTargetId": 100197,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 3,
+    "conditionMessage": "『混沌』属性を持つサーヴァントを3騎倒せ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001052
+    ],
+    "missionId": 2001361,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001528,
+    "missionTargetId": 100197,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 3,
+    "conditionMessage": "『善』属性を持つサーヴァントを3騎倒せ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001053
+    ],
+    "missionId": 2001362,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001529,
+    "missionTargetId": 100197,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 3,
+    "conditionMessage": "『悪』属性を持つサーヴァントを3騎倒せ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001054
+    ],
+    "missionId": 2001363,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001530,
+    "missionTargetId": 100197,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 5,
+    "conditionMessage": "いずれかのクエストを5回クリアせよ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001363
+    ],
+    "missionId": 2001364,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 2001531,
+    "missionTargetId": 100197,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 1,
+    "conditionMessage": "いずれかのクエストを10回クリアせよ",
+    "closedMessage": "",
+    "flag": 64
+  },
+  {
+    "targetIds": [
+      2001054
+    ],
+    "missionId": 2001364,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001532,
+    "missionTargetId": 100197,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 10,
+    "conditionMessage": "いずれかのクエストを10回クリアせよ",
     "closedMessage": "",
     "flag": 0
   },

@@ -11375,7 +11375,7 @@
     "flag": 0
   },
   {
-    "strengthStatus": 0,
+    "strengthStatus": 1,
     "svtId": 1000700,
     "num": 2,
     "priority": 1,
@@ -11397,6 +11397,19 @@
     "condQuestPhase": 0,
     "condLv": 0,
     "condLimitCount": 3,
+    "eventId": 0,
+    "flag": 0
+  },
+  {
+    "strengthStatus": 2,
+    "svtId": 1000700,
+    "num": 2,
+    "priority": 2,
+    "skillId": 489451,
+    "condQuestId": 94048898,
+    "condQuestPhase": 3,
+    "condLv": 0,
+    "condLimitCount": 1,
     "eventId": 0,
     "flag": 0
   },
@@ -11752,7 +11765,7 @@
     "flag": 0
   },
   {
-    "strengthStatus": 0,
+    "strengthStatus": 1,
     "svtId": 1100700,
     "num": 2,
     "priority": 1,
@@ -11774,6 +11787,19 @@
     "condQuestPhase": 0,
     "condLv": 0,
     "condLimitCount": 3,
+    "eventId": 0,
+    "flag": 0
+  },
+  {
+    "strengthStatus": 2,
+    "svtId": 1100700,
+    "num": 2,
+    "priority": 2,
+    "skillId": 620452,
+    "condQuestId": 94048897,
+    "condQuestPhase": 3,
+    "condLv": 0,
+    "condLimitCount": 1,
     "eventId": 0,
     "flag": 0
   },
@@ -30901,7 +30927,7 @@
     "flag": 0
   },
   {
-    "strengthStatus": 2,
+    "strengthStatus": 1,
     "svtId": 9403920,
     "num": 2,
     "priority": 2,
@@ -30911,6 +30937,32 @@
     "condLv": 0,
     "condLimitCount": 4,
     "eventId": 80250,
+    "flag": 0
+  },
+  {
+    "strengthStatus": 1,
+    "svtId": 9403920,
+    "num": 2,
+    "priority": 3,
+    "skillId": 992203,
+    "condQuestId": 0,
+    "condQuestPhase": 0,
+    "condLv": 0,
+    "condLimitCount": 0,
+    "eventId": 80286,
+    "flag": 0
+  },
+  {
+    "strengthStatus": 2,
+    "svtId": 9403920,
+    "num": 2,
+    "priority": 4,
+    "skillId": 992204,
+    "condQuestId": 0,
+    "condQuestPhase": 0,
+    "condLv": 0,
+    "condLimitCount": 4,
+    "eventId": 80286,
     "flag": 0
   },
   {
@@ -30953,7 +31005,7 @@
     "flag": 0
   },
   {
-    "strengthStatus": 2,
+    "strengthStatus": 1,
     "svtId": 9403930,
     "num": 2,
     "priority": 2,
@@ -30963,6 +31015,32 @@
     "condLv": 0,
     "condLimitCount": 4,
     "eventId": 80250,
+    "flag": 0
+  },
+  {
+    "strengthStatus": 1,
+    "svtId": 9403930,
+    "num": 2,
+    "priority": 3,
+    "skillId": 992205,
+    "condQuestId": 0,
+    "condQuestPhase": 0,
+    "condLv": 0,
+    "condLimitCount": 0,
+    "eventId": 80286,
+    "flag": 0
+  },
+  {
+    "strengthStatus": 2,
+    "svtId": 9403930,
+    "num": 2,
+    "priority": 4,
+    "skillId": 992206,
+    "condQuestId": 0,
+    "condQuestPhase": 0,
+    "condLv": 0,
+    "condLimitCount": 4,
+    "eventId": 80286,
     "flag": 0
   },
   {
@@ -31005,7 +31083,7 @@
     "flag": 0
   },
   {
-    "strengthStatus": 2,
+    "strengthStatus": 1,
     "svtId": 9403940,
     "num": 2,
     "priority": 2,
@@ -31015,6 +31093,32 @@
     "condLv": 0,
     "condLimitCount": 4,
     "eventId": 80250,
+    "flag": 0
+  },
+  {
+    "strengthStatus": 1,
+    "svtId": 9403940,
+    "num": 2,
+    "priority": 3,
+    "skillId": 992207,
+    "condQuestId": 0,
+    "condQuestPhase": 0,
+    "condLv": 0,
+    "condLimitCount": 0,
+    "eventId": 80286,
+    "flag": 0
+  },
+  {
+    "strengthStatus": 2,
+    "svtId": 9403940,
+    "num": 2,
+    "priority": 4,
+    "skillId": 992208,
+    "condQuestId": 0,
+    "condQuestPhase": 0,
+    "condLv": 0,
+    "condLimitCount": 4,
+    "eventId": 80286,
     "flag": 0
   },
   {
@@ -31057,7 +31161,7 @@
     "flag": 0
   },
   {
-    "strengthStatus": 2,
+    "strengthStatus": 1,
     "svtId": 9403950,
     "num": 2,
     "priority": 2,
@@ -31067,6 +31171,32 @@
     "condLv": 0,
     "condLimitCount": 4,
     "eventId": 80250,
+    "flag": 0
+  },
+  {
+    "strengthStatus": 1,
+    "svtId": 9403950,
+    "num": 2,
+    "priority": 3,
+    "skillId": 992209,
+    "condQuestId": 0,
+    "condQuestPhase": 0,
+    "condLv": 0,
+    "condLimitCount": 0,
+    "eventId": 80286,
+    "flag": 0
+  },
+  {
+    "strengthStatus": 2,
+    "svtId": 9403950,
+    "num": 2,
+    "priority": 4,
+    "skillId": 992210,
+    "condQuestId": 0,
+    "condQuestPhase": 0,
+    "condLv": 0,
+    "condLimitCount": 4,
+    "eventId": 80286,
     "flag": 0
   },
   {
@@ -33493,6 +33623,32 @@
     "num": 1,
     "priority": 2,
     "skillId": 992172,
+    "condQuestId": 0,
+    "condQuestPhase": 0,
+    "condLv": 0,
+    "condLimitCount": 4,
+    "eventId": 0,
+    "flag": 0
+  },
+  {
+    "strengthStatus": 1,
+    "svtId": 9404540,
+    "num": 1,
+    "priority": 1,
+    "skillId": 992211,
+    "condQuestId": 0,
+    "condQuestPhase": 0,
+    "condLv": 0,
+    "condLimitCount": 0,
+    "eventId": 0,
+    "flag": 0
+  },
+  {
+    "strengthStatus": 2,
+    "svtId": 9404540,
+    "num": 1,
+    "priority": 2,
+    "skillId": 992212,
     "condQuestId": 0,
     "condQuestPhase": 0,
     "condLv": 0,
