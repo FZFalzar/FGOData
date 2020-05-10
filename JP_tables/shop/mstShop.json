@@ -37915,7 +37915,7 @@
     "eventId": 0,
     "slot": 0,
     "flag": 256,
-    "priority": 29,
+    "priority": 49,
     "purchaseType": 9,
     "setNum": 1,
     "payType": 10,
@@ -37931,6 +37931,204 @@
     "bgImageId": 0,
     "openedAt": 1588150800,
     "closedAt": 1901199599
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      3
+    ],
+    "targetIds": [
+      1000
+    ],
+    "script": {},
+    "id": 6000408,
+    "baseShopId": 6000408,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 30,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "カルデアの夢火",
+    "detail": "【絆上限開放素材】へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1589468400,
+    "closedAt": 1592146799
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      5003
+    ],
+    "script": {},
+    "id": 6000409,
+    "baseShopId": 6000409,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 31,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 3,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "コード・リムーバー",
+    "detail": "【コマンドコード分離アイテム】へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1589468400,
+    "closedAt": 1592146799
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      5
+    ],
+    "targetIds": [
+      6999
+    ],
+    "script": {},
+    "id": 6000410,
+    "baseShopId": 6000410,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 32,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "伝承結晶",
+    "detail": "【スキル強化素材】へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1589468400,
+    "closedAt": 1592146799
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      3
+    ],
+    "targetIds": [
+      9570400
+    ],
+    "script": {},
+    "id": 6000411,
+    "baseShopId": 6000411,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 33,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "英霊結晶・流星のフォウくん",
+    "detail": "★4ALLのHPアップカード1枚へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1589468400,
+    "closedAt": 1592146799
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      3
+    ],
+    "targetIds": [
+      9670400
+    ],
+    "script": {},
+    "id": 6000412,
+    "baseShopId": 6000412,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 34,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "英霊結晶・日輪のフォウくん",
+    "detail": "★4ALLのATKアップカード1枚へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1589468400,
+    "closedAt": 1592146799
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      4
+    ],
+    "script": {},
+    "id": 6000413,
+    "baseShopId": 6000413,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 35,
+    "purchaseType": 1,
+    "setNum": 20000,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 5,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "フレンドポイント",
+    "detail": "フレンドポイント20,000へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1589468400,
+    "closedAt": 1592146799
   },
   {
     "itemIds": [
