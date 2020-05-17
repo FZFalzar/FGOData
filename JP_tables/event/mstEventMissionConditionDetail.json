@@ -2290,7 +2290,15 @@
       94048508,
       94048509,
       94048510,
-      94048511
+      94048511,
+      94047901,
+      94047902,
+      94047903,
+      94047904,
+      94047905,
+      94047906,
+      94047907,
+      94047908
     ],
     "addTargetIds": [],
     "targetQuestIndividualities": [],
@@ -22003,6 +22011,91 @@
     "id": 2001064,
     "missionTargetId": 100199,
     "missionCondType": 12,
+    "logicType": 1,
+    "conditionLinkType": 3
+  },
+  {
+    "targetIds": [
+      5010
+    ],
+    "addTargetIds": [],
+    "targetQuestIndividualities": [],
+    "targetEventIds": [],
+    "id": 2001065,
+    "missionTargetId": 100200,
+    "missionCondType": 2,
+    "logicType": 1,
+    "conditionLinkType": 3
+  },
+  {
+    "targetIds": [
+      2113,
+      1000
+    ],
+    "addTargetIds": [],
+    "targetQuestIndividualities": [],
+    "targetEventIds": [],
+    "id": 2001066,
+    "missionTargetId": 100200,
+    "missionCondType": 13,
+    "logicType": 1,
+    "conditionLinkType": 3
+  },
+  {
+    "targetIds": [
+      302,
+      1000
+    ],
+    "addTargetIds": [],
+    "targetQuestIndividualities": [],
+    "targetEventIds": [],
+    "id": 2001067,
+    "missionTargetId": 100200,
+    "missionCondType": 13,
+    "logicType": 1,
+    "conditionLinkType": 3
+  },
+  {
+    "targetIds": [
+      9703400,
+      9703300,
+      9703200,
+      9703100,
+      9702400,
+      9702300,
+      9702200,
+      9702100,
+      9706400,
+      9706300,
+      9706200,
+      9706100,
+      9701400,
+      9701300,
+      9701200,
+      9701100,
+      9704400,
+      9704300,
+      9704200,
+      9704100,
+      9705400,
+      9705300,
+      9705200,
+      9705100,
+      9707400,
+      9707300,
+      9707200,
+      9707100,
+      9770400,
+      9770300,
+      9770200,
+      9770100
+    ],
+    "addTargetIds": [],
+    "targetQuestIndividualities": [],
+    "targetEventIds": [],
+    "id": 2001068,
+    "missionTargetId": 100200,
+    "missionCondType": 19,
     "logicType": 1,
     "conditionLinkType": 3
   },
