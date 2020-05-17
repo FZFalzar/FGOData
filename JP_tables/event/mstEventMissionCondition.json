@@ -52793,6 +52793,155 @@
   },
   {
     "targetIds": [
+      2001380,
+      2001381,
+      2001382,
+      2001383,
+      2001384,
+      2001385
+    ],
+    "missionId": 2001379,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001549,
+    "missionTargetId": 100200,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 6,
+    "conditionMessage": "今週のマスターミッションをすべてクリアせよ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001065
+    ],
+    "missionId": 2001380,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001550,
+    "missionTargetId": 100200,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 20,
+    "conditionMessage": "敵を20体倒せ(サーヴァント及び一部ボスなどは除く)",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001380
+    ],
+    "missionId": 2001381,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 2001551,
+    "missionTargetId": 100200,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 1,
+    "conditionMessage": "敵を40体倒せ(サーヴァント及び一部ボスなどは除く)",
+    "closedMessage": "",
+    "flag": 64
+  },
+  {
+    "targetIds": [
+      2001065
+    ],
+    "missionId": 2001381,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001552,
+    "missionTargetId": 100200,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 40,
+    "conditionMessage": "敵を40体倒せ(サーヴァント及び一部ボスなどは除く)",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001066
+    ],
+    "missionId": 2001382,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001553,
+    "missionTargetId": 100200,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 3,
+    "conditionMessage": "『王』特性を持つサーヴァントを3騎倒せ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001067
+    ],
+    "missionId": 2001383,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001554,
+    "missionTargetId": 100200,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 3,
+    "conditionMessage": "『中立』属性を持つサーヴァントを3騎倒せ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001068
+    ],
+    "missionId": 2001384,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001555,
+    "missionTargetId": 100200,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "戦利品で「叡智の猛火」「叡智の大火」「叡智の灯火」「叡智の種火」をどれか15枚獲得せよ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001384
+    ],
+    "missionId": 2001385,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 2001556,
+    "missionTargetId": 100200,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 1,
+    "conditionMessage": "戦利品で「叡智の猛火」「叡智の大火」「叡智の灯火」「叡智の種火」をどれか30枚獲得せよ",
+    "closedMessage": "",
+    "flag": 64
+  },
+  {
+    "targetIds": [
+      2001068
+    ],
+    "missionId": 2001385,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001557,
+    "missionTargetId": 100200,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 30,
+    "conditionMessage": "戦利品で「叡智の猛火」「叡智の大火」「叡智の灯火」「叡智の種火」をどれか30枚獲得せよ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
       94011901
     ],
     "missionId": 80054001,
