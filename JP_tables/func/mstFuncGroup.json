@@ -4300,6 +4300,86 @@
     "isDispValue": true
   },
   {
+    "funcId": 5370,
+    "eventId": 80285,
+    "baseFuncId": 0,
+    "nameTotal": "{0}\n獲得数ボーナス合計",
+    "name": "{0}獲得数アップ",
+    "iconId": 94047701,
+    "priority": 3000,
+    "isDispValue": true
+  },
+  {
+    "funcId": 5371,
+    "eventId": 80285,
+    "baseFuncId": 0,
+    "nameTotal": "{0}\n獲得数ボーナス合計",
+    "name": "{0}獲得数アップ",
+    "iconId": 94047702,
+    "priority": 2000,
+    "isDispValue": true
+  },
+  {
+    "funcId": 5372,
+    "eventId": 80285,
+    "baseFuncId": 0,
+    "nameTotal": "{0}\n獲得数ボーナス合計",
+    "name": "{0}獲得数アップ",
+    "iconId": 94047703,
+    "priority": 1000,
+    "isDispValue": true
+  },
+  {
+    "funcId": 5373,
+    "eventId": 80285,
+    "baseFuncId": 0,
+    "nameTotal": "{1} \n攻撃の威力アップ合計",
+    "name": "攻撃の威力アップ合計",
+    "iconId": 302,
+    "priority": 1,
+    "isDispValue": true
+  },
+  {
+    "funcId": 5374,
+    "eventId": 80285,
+    "baseFuncId": 5373,
+    "nameTotal": "{1} \n攻撃の威力アップ合計",
+    "name": "攻撃の威力アップ合計",
+    "iconId": 302,
+    "priority": 1,
+    "isDispValue": true
+  },
+  {
+    "funcId": 5375,
+    "eventId": 80285,
+    "baseFuncId": 5373,
+    "nameTotal": "{1} \n攻撃の威力アップ合計",
+    "name": "攻撃の威力アップ合計",
+    "iconId": 302,
+    "priority": 1,
+    "isDispValue": true
+  },
+  {
+    "funcId": 5376,
+    "eventId": 80285,
+    "baseFuncId": 5373,
+    "nameTotal": "{1} \n攻撃の威力アップ合計",
+    "name": "攻撃の威力アップ合計",
+    "iconId": 302,
+    "priority": 1,
+    "isDispValue": true
+  },
+  {
+    "funcId": 5377,
+    "eventId": 80285,
+    "baseFuncId": 0,
+    "nameTotal": "{1}\n得られる自身の絆ボーナス合計",
+    "name": "得られる自身の絆アップ",
+    "iconId": 1009,
+    "priority": 1,
+    "isDispValue": true
+  },
+  {
     "funcId": 5404,
     "eventId": 80286,
     "baseFuncId": 0,
@@ -4416,6 +4496,16 @@
     "nameTotal": "{1}\n得られる自身の絆ボーナス合計",
     "name": "得られる自身の絆アップ",
     "iconId": 1023,
+    "priority": 1,
+    "isDispValue": true
+  },
+  {
+    "funcId": 5476,
+    "eventId": 80285,
+    "baseFuncId": 0,
+    "nameTotal": "{1}\n得られる自身の絆ボーナス合計",
+    "name": "得られる自身の絆アップ",
+    "iconId": 1009,
     "priority": 1,
     "isDispValue": true
   }

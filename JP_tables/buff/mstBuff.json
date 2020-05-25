@@ -34613,6 +34613,36 @@
     "effectId": 0
   },
   {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2825,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "フェア・ゲーマー",
+    "detail": "「『Fate/Requiem』盤上遊戯黙示録」において与えるダメージをアップ",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2826,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "威力アップ",
+    "detail": "「『Fate/Requiem』盤上遊戯黙示録」において与えるダメージをアップ",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
     "vals": [
       3004
     ],
@@ -35035,6 +35065,65 @@
   },
   {
     "vals": [
+      3005,
+      3020
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2848,
+    "buffGroup": 900,
+    "type": 34,
+    "name": "孤高の代償",
+    "detail": "宝具を使用できなくなる【デメリット】",
+    "iconId": 512,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006,
+      3028
+    ],
+    "tvals": [
+      2001
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      2001
+    ],
+    "script": {},
+    "id": 2849,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "人狼化",
+    "detail": "〔人型〕特性に与えるダメージをアップ",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005,
+      3020
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2851,
+    "buffGroup": 900,
+    "type": 34,
+    "name": "邪霊憑き",
+    "detail": "宝具を使用できなくなる【デメリット】",
+    "iconId": 512,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
       3004,
       3006,
       3028
@@ -35055,5 +35144,510 @@
     "iconId": 302,
     "maxRate": 10000,
     "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2866,
+    "buffGroup": 0,
+    "type": 86,
+    "name": "空腹感",
+    "detail": "毎ターン終了時に自身の攻撃力をアップする＆攻撃を受けると自身の攻撃強化状態を1つ解除【デメリット】",
+    "iconId": 343,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2867,
+    "buffGroup": 0,
+    "type": 85,
+    "name": "",
+    "detail": "",
+    "iconId": 343,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2868,
+    "buffGroup": 0,
+    "type": 86,
+    "name": "危機一髪！",
+    "detail": "攻撃を受けると低確率でチャージがMAXになる",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2869,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "配られたカード",
+    "detail": "？？？",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      2649
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      2649
+    ],
+    "script": {},
+    "id": 2870,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "数字の10",
+    "detail": "〔ハズレのカード〕を持つ敵に対する特殊耐性をアップ",
+    "iconId": 334,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "HP_LOWER": 300
+    },
+    "id": 2871,
+    "buffGroup": 0,
+    "type": 114,
+    "name": "縄張り意識",
+    "detail": "HPが30%以下の場合、毎ターンチャージがMAXになる",
+    "iconId": 319,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4003
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4003
+    ],
+    "script": {},
+    "id": 2872,
+    "buffGroup": 0,
+    "type": 86,
+    "name": "被ダメージ時発動〔Quick〕",
+    "detail": "Quick攻撃を受けると自身のクリティカル発生率をアップ",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4002
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4002
+    ],
+    "script": {},
+    "id": 2873,
+    "buffGroup": 0,
+    "type": 86,
+    "name": "被ダメージ時発動〔Buster〕",
+    "detail": "Buster攻撃を受けると自身の攻撃力をアップ",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      2649
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      2649
+    ],
+    "script": {},
+    "id": 2874,
+    "buffGroup": 0,
+    "type": 23,
+    "name": "",
+    "detail": "",
+    "iconId": 301,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2649
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2875,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "",
+    "detail": "",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2650
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2876,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "",
+    "detail": "",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6022
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2877,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "",
+    "detail": "",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4003
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4003
+    ],
+    "script": {},
+    "id": 2879,
+    "buffGroup": 0,
+    "type": 105,
+    "name": "Quickカード耐性",
+    "detail": "Quickカードの攻撃による被ダメージ、被NP発生量、被スター発生率がダウン",
+    "iconId": 345,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4002
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4002
+    ],
+    "script": {},
+    "id": 2880,
+    "buffGroup": 0,
+    "type": 105,
+    "name": "Busterカード耐性",
+    "detail": "Busterカードの攻撃による被ダメージ、被NP発生量、被スター発生率がダウン",
+    "iconId": 347,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2881,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "",
+    "detail": "",
+    "iconId": 306,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3023
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2882,
+    "buffGroup": 700,
+    "type": 38,
+    "name": "賽の河原",
+    "detail": "自身にターゲットを固定する",
+    "iconId": 323,
+    "maxRate": 50000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3023
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2883,
+    "buffGroup": 700,
+    "type": 38,
+    "name": "やきたてホカホカ",
+    "detail": "自身にターゲットを固定する",
+    "iconId": 323,
+    "maxRate": 50000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006,
+      3028
+    ],
+    "tvals": [
+      3026
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      3026
+    ],
+    "script": {},
+    "id": 2884,
+    "buffGroup": 0,
+    "type": 112,
+    "name": "威力アップ〔呪い〕",
+    "detail": "〔呪い〕状態の敵に与えるダメージをアップ",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2888,
+    "buffGroup": 0,
+    "type": 151,
+    "name": "被クリティカル発生率ダウン",
+    "detail": "クリティカル攻撃を受ける確率を減らす",
+    "iconId": 363,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2889,
+    "buffGroup": 0,
+    "type": 153,
+    "name": "被スター発生率ダウン",
+    "detail": "スターが発生する確率を減らす",
+    "iconId": 364,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "HP_LOWER": 500
+    },
+    "id": 2890,
+    "buffGroup": 0,
+    "type": 96,
+    "name": "オーバーチャージ段階UP",
+    "detail": "HPが50%以下の時、宝具発動時、オーバーチャージ段階をアップする",
+    "iconId": 336,
+    "maxRate": 5,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [
+      1002,
+      3005
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      1002,
+      3005
+    ],
+    "script": {
+      "checkIndvType": 1
+    },
+    "id": 2891,
+    "buffGroup": 0,
+    "type": 29,
+    "name": "弱体耐性アップ",
+    "detail": "〔死霊〕に対する弱体耐性をアップ",
+    "iconId": 306,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006,
+      3028
+    ],
+    "tvals": [
+      1000
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      1000
+    ],
+    "script": {},
+    "id": 2892,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "威力アップ〔サーヴァント〕",
+    "detail": "〔サーヴァント〕に与えるダメージをアップ",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006,
+      3028
+    ],
+    "tvals": [
+      200
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      200
+    ],
+    "script": {},
+    "id": 2893,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "威力アップ〔天の力〕",
+    "detail": "〔天の力〕に与えるダメージをアップ",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2894,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "",
+    "detail": "",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2895,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "",
+    "detail": "",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2896,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "",
+    "detail": "",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005,
+      3015
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2897,
+    "buffGroup": 101,
+    "type": 8,
+    "name": "やけど(自己・非重複)",
+    "detail": "ターン終了時にHPが減る＆他のやけどにかからなくなる",
+    "iconId": 513,
+    "maxRate": 0,
+    "effectId": 17122
   }
 ]

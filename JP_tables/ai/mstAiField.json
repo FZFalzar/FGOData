@@ -44255,6 +44255,354 @@
     "infoText": ""
   },
   {
+    "vals": [],
+    "avals": [
+      94047781,
+      0
+    ],
+    "script": {
+      "forcedSkillSpeed": 1
+    },
+    "id": 94047780,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 94047716,
+    "infoText": "バランス良く敵を倒せ！"
+  },
+  {
+    "vals": [
+      3,
+      2651
+    ],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {
+      "forcedSkillSpeed": 1
+    },
+    "id": 94047781,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 600,
+    "probability": 100,
+    "cond": 132,
+    "aiActId": 94047717,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      3,
+      2652
+    ],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {
+      "forcedSkillSpeed": 1
+    },
+    "id": 94047781,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 500,
+    "probability": 100,
+    "cond": 132,
+    "aiActId": 94047718,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      3,
+      2653
+    ],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {
+      "forcedSkillSpeed": 1
+    },
+    "id": 94047781,
+    "idx": 3,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 400,
+    "probability": 100,
+    "cond": 132,
+    "aiActId": 94047719,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2,
+      2651
+    ],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {
+      "forcedSkillSpeed": 1
+    },
+    "id": 94047781,
+    "idx": 4,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 300,
+    "probability": 100,
+    "cond": 132,
+    "aiActId": 94047730,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2,
+      2652
+    ],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {
+      "forcedSkillSpeed": 1
+    },
+    "id": 94047781,
+    "idx": 5,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 200,
+    "probability": 100,
+    "cond": 132,
+    "aiActId": 94047731,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2,
+      2653
+    ],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {
+      "forcedSkillSpeed": 1
+    },
+    "id": 94047781,
+    "idx": 6,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 100,
+    "probability": 100,
+    "cond": 132,
+    "aiActId": 94047732,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {
+      "forcedSkillSpeed": 1
+    },
+    "id": 94047781,
+    "idx": 7,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      94047786,
+      0
+    ],
+    "script": {
+      "forcedSkillSpeed": 1
+    },
+    "id": 94047785,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 94047716,
+    "infoText": "お化けたちを全部倒そう！"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94047786,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      94047791,
+      0
+    ],
+    "script": {
+      "forcedSkillSpeed": 1
+    },
+    "id": 94047790,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 94047733,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94047791,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      94047796,
+      0
+    ],
+    "script": {
+      "forcedSkillSpeed": 1
+    },
+    "id": 94047795,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 94047716,
+    "infoText": "犯人はこの中にいる！　探し出そう！"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94047796,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      94048051,
+      0
+    ],
+    "script": {
+      "forcedSkillSpeed": 1
+    },
+    "id": 94048050,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 94047715,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94048051,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      94048056,
+      0
+    ],
+    "script": {},
+    "id": 94048055,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 94047739,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94048056,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
     "vals": [
       301200
     ],

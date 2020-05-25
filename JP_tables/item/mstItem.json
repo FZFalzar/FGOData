@@ -14768,6 +14768,244 @@
   },
   {
     "individuality": [
+      10520
+    ],
+    "script": {},
+    "eventId": 0,
+    "eventGroupId": 0,
+    "id": 94047701,
+    "name": "マーカーハウス",
+    "detail": "【イベント収集アイテム】\n「『Fate/Requiem』盤上遊戯黙示録」\nで手に入れた、小さなおもちゃの家。\nボードゲームにおいて手に入れた資産を表す。\n",
+    "imageId": 94047701,
+    "bgImageId": 1,
+    "type": 15,
+    "unit": "",
+    "value": 0,
+    "sellQp": -1,
+    "isSell": false,
+    "priority": 94047701,
+    "dropPriority": 2001,
+    "startedAt": 1590404400,
+    "endedAt": 1592193599
+  },
+  {
+    "individuality": [
+      10521
+    ],
+    "script": {},
+    "eventId": 0,
+    "eventGroupId": 0,
+    "id": 94047702,
+    "name": "ポイントジェム",
+    "detail": "【イベント収集アイテム】\n「『Fate/Requiem』盤上遊戯黙示録」\nで手に入れた、プラスチック製の宝石。\nボードゲームにおいて手持ちのポイントを表す。",
+    "imageId": 94047702,
+    "bgImageId": 2,
+    "type": 15,
+    "unit": "",
+    "value": 0,
+    "sellQp": -1,
+    "isSell": false,
+    "priority": 94047702,
+    "dropPriority": 2002,
+    "startedAt": 1590404400,
+    "endedAt": 1592193599
+  },
+  {
+    "individuality": [
+      10522
+    ],
+    "script": {},
+    "eventId": 0,
+    "eventGroupId": 0,
+    "id": 94047703,
+    "name": "ライフカウンター",
+    "detail": "【イベント収集アイテム】\n「『Fate/Requiem』盤上遊戯黙示録」\nで手に入れた、ドラムロール状の道具。\nボードゲームで数値をカウントするのに使う。\n",
+    "imageId": 94047703,
+    "bgImageId": 3,
+    "type": 15,
+    "unit": "",
+    "value": 0,
+    "sellQp": -1,
+    "isSell": false,
+    "priority": 94047703,
+    "dropPriority": 2003,
+    "startedAt": 1590404400,
+    "endedAt": 1592193599
+  },
+  {
+    "individuality": [
+      10523
+    ],
+    "script": {
+      "event_item_board_description": "1~6の目が出るごく普通のダイス。",
+      "diceType": 1
+    },
+    "eventId": 0,
+    "eventGroupId": 0,
+    "id": 94047704,
+    "name": "ノーマルダイス",
+    "detail": "【イベントアイテム】\n「『Fate/Requiem』盤上遊戯黙示録」\nで手に入れた、\n1~6の目が出るごく普通のダイス。",
+    "imageId": 94047704,
+    "bgImageId": 2,
+    "type": 26,
+    "unit": "",
+    "value": 63,
+    "sellQp": -1,
+    "isSell": false,
+    "priority": 94047704,
+    "dropPriority": 4103,
+    "startedAt": 1590404400,
+    "endedAt": 1592193599
+  },
+  {
+    "individuality": [
+      10524
+    ],
+    "script": {
+      "event_item_board_description": "1、2、3の目しか出ない特殊なダイス。",
+      "diceType": 2
+    },
+    "eventId": 0,
+    "eventGroupId": 0,
+    "id": 94047705,
+    "name": "123ダイス",
+    "detail": "【イベントアイテム】\n「『Fate/Requiem』盤上遊戯黙示録」\nで手に入れた、\n1、2、3の目しか出ない特殊なダイス。",
+    "imageId": 94047705,
+    "bgImageId": 2,
+    "type": 26,
+    "unit": "",
+    "value": 7,
+    "sellQp": -1,
+    "isSell": false,
+    "priority": 94047705,
+    "dropPriority": 4104,
+    "startedAt": 1590404400,
+    "endedAt": 1592193599
+  },
+  {
+    "individuality": [
+      10525
+    ],
+    "script": {
+      "event_item_board_description": "4、5、6の目しか出ない特殊なダイス。",
+      "diceType": 3
+    },
+    "eventId": 0,
+    "eventGroupId": 0,
+    "id": 94047706,
+    "name": "456ダイス",
+    "detail": "【イベントアイテム】\n「『Fate/Requiem』盤上遊戯黙示録」\nで手に入れた、\n4、5、6の目しか出ない特殊なダイス。",
+    "imageId": 94047706,
+    "bgImageId": 2,
+    "type": 26,
+    "unit": "",
+    "value": 56,
+    "sellQp": -1,
+    "isSell": false,
+    "priority": 94047706,
+    "dropPriority": 4105,
+    "startedAt": 1590404400,
+    "endedAt": 1592193599
+  },
+  {
+    "individuality": [
+      10526
+    ],
+    "script": {
+      "event_item_board_description": "1の目しか出ない貴重なダイス。",
+      "diceType": 4
+    },
+    "eventId": 0,
+    "eventGroupId": 0,
+    "id": 94047707,
+    "name": "1ゾロダイス",
+    "detail": "【イベントアイテム】\n「『Fate/Requiem』盤上遊戯黙示録」\nで手に入れた、\n1の目しか出ない貴重なダイス。",
+    "imageId": 94047707,
+    "bgImageId": 2,
+    "type": 26,
+    "unit": "",
+    "value": 1,
+    "sellQp": -1,
+    "isSell": false,
+    "priority": 94047707,
+    "dropPriority": 4106,
+    "startedAt": 1590404400,
+    "endedAt": 1592193599
+  },
+  {
+    "individuality": [
+      10527
+    ],
+    "script": {
+      "event_item_board_description": "2の目しか出ない貴重なダイス。",
+      "diceType": 5
+    },
+    "eventId": 0,
+    "eventGroupId": 0,
+    "id": 94047708,
+    "name": "2ゾロダイス",
+    "detail": "【イベントアイテム】\n「『Fate/Requiem』盤上遊戯黙示録」\nで手に入れた、\n2の目しか出ない貴重なダイス。",
+    "imageId": 94047708,
+    "bgImageId": 2,
+    "type": 26,
+    "unit": "",
+    "value": 2,
+    "sellQp": -1,
+    "isSell": false,
+    "priority": 94047708,
+    "dropPriority": 4107,
+    "startedAt": 1590404400,
+    "endedAt": 1592193599
+  },
+  {
+    "individuality": [
+      10528
+    ],
+    "script": {
+      "event_item_board_description": "3の目しか出ない貴重なダイス。",
+      "diceType": 6
+    },
+    "eventId": 0,
+    "eventGroupId": 0,
+    "id": 94047709,
+    "name": "3ゾロダイス",
+    "detail": "【イベントアイテム】\n「『Fate/Requiem』盤上遊戯黙示録」\nで手に入れた、\n3の目しか出ない貴重なダイス。",
+    "imageId": 94047709,
+    "bgImageId": 2,
+    "type": 26,
+    "unit": "",
+    "value": 4,
+    "sellQp": -1,
+    "isSell": false,
+    "priority": 94047709,
+    "dropPriority": 4108,
+    "startedAt": 1590404400,
+    "endedAt": 1592193599
+  },
+  {
+    "individuality": [
+      10529
+    ],
+    "script": {},
+    "eventId": 0,
+    "eventGroupId": 0,
+    "id": 94047710,
+    "name": "遥かなる冒険のアストロラーベ",
+    "detail": "【霊基再臨素材】\n「『Fate/Requiem』盤上遊戯黙示録」\nで手に入れた、古ぼけた天体観測機器。\nそれは未知なる出会いの道標。",
+    "imageId": 94047710,
+    "bgImageId": 3,
+    "type": 15,
+    "unit": "",
+    "value": 0,
+    "sellQp": -1,
+    "isSell": false,
+    "priority": 94047710,
+    "dropPriority": 2009,
+    "startedAt": 1590404400,
+    "endedAt": 1910876400
+  },
+  {
+    "individuality": [
       10530
     ],
     "script": {},
