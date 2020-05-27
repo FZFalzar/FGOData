@@ -35150,6 +35150,61 @@
     "tvals": [],
     "ckSelfIndv": [],
     "ckOpIndv": [],
+    "script": {
+      "INDIVIDUALITIE": 6021
+    },
+    "id": 2863,
+    "buffGroup": 400,
+    "type": 26,
+    "name": "戦略的守備陣形",
+    "detail": "アタランテがフィールドにいる間、自身に無敵状態を付与",
+    "iconId": 311,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      4007
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4007
+    ],
+    "script": {},
+    "id": 2864,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "宝具耐性アップ",
+    "detail": "宝具による攻撃に耐性を得る",
+    "iconId": 334,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      4100
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4100
+    ],
+    "script": {},
+    "id": 2865,
+    "buffGroup": 0,
+    "type": 43,
+    "name": "防御力ダウン〔クリティカル〕",
+    "detail": "クリティカル攻撃に対する防御力をダウン【デメリット】",
+    "iconId": 504,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
     "script": {},
     "id": 2866,
     "buffGroup": 0,

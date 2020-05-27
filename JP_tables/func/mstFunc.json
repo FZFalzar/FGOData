@@ -87608,6 +87608,63 @@
   },
   {
     "vals": [
+      2863
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 5447,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 311,
+    "popupText": "戦略的守備陣形",
+    "categoryId": 20204
+  },
+  {
+    "vals": [
+      2864
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 5448,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 334,
+    "popupText": "宝具耐性アップ",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2865
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      341
+    ],
+    "popupTextColor": 3,
+    "id": 5449,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 504,
+    "popupText": "防御力ダウン〔クリティカル〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
       2866
     ],
     "tvals": [],
@@ -88114,7 +88171,7 @@
     "id": 5475,
     "cond": 0,
     "funcType": 57,
-    "targetType": 3,
+    "targetType": 7,
     "applyTarget": 3,
     "popupIconId": 0,
     "popupText": "",
@@ -88770,6 +88827,25 @@
     "popupIconId": 302,
     "popupText": "威力アップ・対 天の力",
     "categoryId": 10205
+  },
+  {
+    "vals": [
+      2714
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 5530,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 322,
+    "popupText": "宝具封印無効",
+    "categoryId": 0
   },
   {
     "vals": [
