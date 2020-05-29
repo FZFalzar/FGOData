@@ -876,5 +876,23 @@
     "name": "2騎NPC固定出撃",
     "type": 10,
     "rangeType": 1
+  },
+  {
+    "targetVals": [
+      304300
+    ],
+    "id": 94047701,
+    "name": "編成制限あり",
+    "type": 8,
+    "rangeType": 0
+  },
+  {
+    "targetVals": [
+      304300
+    ],
+    "id": 94047702,
+    "name": "特定メンバーのみ出撃",
+    "type": 9,
+    "rangeType": 0
   }
 ]
