@@ -35141,6 +35141,72 @@
   },
   {
     "vals": [
+      2646
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2854,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "邪霊障壁",
+    "detail": "全ての攻撃に対する耐性を得る＜邪霊の数だけ効果量アップ＞",
+    "iconId": 334,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2855,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "",
+    "detail": "",
+    "iconId": 334,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2856,
+    "buffGroup": 0,
+    "type": 137,
+    "name": "霊基喰らい",
+    "detail": "自身の攻撃時に敵単体の最大HPをダウンする状態を付与＋自身に最大HPアップ状態を付与",
+    "iconId": 528,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2857,
+    "buffGroup": 0,
+    "type": 137,
+    "name": "",
+    "detail": "",
+    "iconId": 333,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
       3004,
       3006,
       3028
@@ -35160,6 +35226,84 @@
     "detail": "〔炎上〕しているフィールドで〔天の力〕に与えるダメージをアップ",
     "iconId": 302,
     "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2859,
+    "buffGroup": 0,
+    "type": 41,
+    "name": "個性削除",
+    "detail": "個性削除",
+    "iconId": 308,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2648
+    ],
+    "tvals": [
+      2646
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      2646
+    ],
+    "script": {},
+    "id": 2860,
+    "buffGroup": 0,
+    "type": 70,
+    "name": "形状変化・枝剣",
+    "detail": "宇津見エリセのクリティカル発生率をアップ",
+    "iconId": 327,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2648
+    ],
+    "tvals": [
+      2646
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      2646
+    ],
+    "script": {},
+    "id": 2861,
+    "buffGroup": 0,
+    "type": 9,
+    "name": "形状変化・枝斧",
+    "detail": "宇津見エリセの攻撃力をアップ",
+    "iconId": 300,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2648
+    ],
+    "tvals": [
+      2646
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      2646
+    ],
+    "script": {},
+    "id": 2862,
+    "buffGroup": 0,
+    "type": 18,
+    "name": "形状変化・枝鎌",
+    "detail": "宇津見エリセのクリティカル威力をアップ",
+    "iconId": 324,
+    "maxRate": 5000,
     "effectId": 0
   },
   {
@@ -35721,5 +35865,145 @@
     "iconId": 513,
     "maxRate": 0,
     "effectId": 17122
+  },
+  {
+    "vals": [
+      2657
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2898,
+    "buffGroup": 0,
+    "type": 70,
+    "name": "",
+    "detail": "",
+    "iconId": 324,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2658
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2899,
+    "buffGroup": 0,
+    "type": 9,
+    "name": "",
+    "detail": "",
+    "iconId": 300,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2659
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2900,
+    "buffGroup": 0,
+    "type": 18,
+    "name": "",
+    "detail": "",
+    "iconId": 327,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2660
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "INDIVIDUALITIE": 2657
+    },
+    "id": 2901,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "",
+    "detail": "",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2661
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "INDIVIDUALITIE": 2658
+    },
+    "id": 2902,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "",
+    "detail": "",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2662
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "INDIVIDUALITIE": 2659
+    },
+    "id": 2903,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "",
+    "detail": "",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2655
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2904,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "",
+    "detail": "",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2905,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "",
+    "detail": "",
+    "iconId": 306,
+    "maxRate": 0,
+    "effectId": 0
   }
 ]

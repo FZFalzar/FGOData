@@ -6799,6 +6799,32 @@
     "closedMessageId": 22
   },
   {
+    "svtId": 304300,
+    "voicePrefix": -1,
+    "voiceId": "M070",
+    "condType": 1,
+    "targetId": 94048016,
+    "condGroup": 1,
+    "condValue": 0,
+    "priority": 1,
+    "closedType": 1,
+    "condPriority": 50,
+    "closedMessageId": 0
+  },
+  {
+    "svtId": 304300,
+    "voicePrefix": -1,
+    "voiceId": "M080",
+    "condType": 24,
+    "targetId": 80285030,
+    "condGroup": 1,
+    "condValue": 0,
+    "priority": 1,
+    "closedType": 1,
+    "condPriority": 50,
+    "closedMessageId": 0
+  },
+  {
     "svtId": 400400,
     "voicePrefix": -1,
     "voiceId": "I010",
@@ -13840,7 +13866,7 @@
     "condGroup": 0,
     "condValue": 0,
     "priority": 1,
-    "closedType": 2,
+    "closedType": 1,
     "condPriority": 50,
     "closedMessageId": 0
   },
@@ -13853,7 +13879,7 @@
     "condGroup": 0,
     "condValue": 0,
     "priority": 1,
-    "closedType": 2,
+    "closedType": 1,
     "condPriority": 50,
     "closedMessageId": 0
   },
@@ -13866,8 +13892,34 @@
     "condGroup": 0,
     "condValue": 0,
     "priority": 1,
-    "closedType": 2,
+    "closedType": 1,
     "condPriority": 50,
+    "closedMessageId": 0
+  },
+  {
+    "svtId": 703700,
+    "voicePrefix": 1,
+    "voiceId": "S110",
+    "condType": 1,
+    "targetId": 94047826,
+    "condGroup": 0,
+    "condValue": 0,
+    "priority": 1,
+    "closedType": 1,
+    "condPriority": 90,
+    "closedMessageId": 0
+  },
+  {
+    "svtId": 703700,
+    "voicePrefix": 1,
+    "voiceId": "S110",
+    "condType": 9,
+    "targetId": 703700,
+    "condGroup": 0,
+    "condValue": 5,
+    "priority": 1,
+    "closedType": 1,
+    "condPriority": 90,
     "closedMessageId": 0
   },
   {
@@ -14087,7 +14139,7 @@
     "condGroup": 0,
     "condValue": 0,
     "priority": 1,
-    "closedType": 2,
+    "closedType": 1,
     "condPriority": 50,
     "closedMessageId": 0
   },
@@ -14100,7 +14152,7 @@
     "condGroup": 0,
     "condValue": 0,
     "priority": 1,
-    "closedType": 2,
+    "closedType": 1,
     "condPriority": 50,
     "closedMessageId": 0
   },
@@ -19286,6 +19338,32 @@
     "targetId": 9010005,
     "condGroup": 1,
     "condValue": 80107,
+    "priority": 1,
+    "closedType": 1,
+    "condPriority": 50,
+    "closedMessageId": 0
+  },
+  {
+    "svtId": 109819632,
+    "voicePrefix": -1,
+    "voiceId": "M070",
+    "condType": 1,
+    "targetId": 94048016,
+    "condGroup": 1,
+    "condValue": 0,
+    "priority": 1,
+    "closedType": 1,
+    "condPriority": 50,
+    "closedMessageId": 0
+  },
+  {
+    "svtId": 109819632,
+    "voicePrefix": -1,
+    "voiceId": "M080",
+    "condType": 24,
+    "targetId": 80285030,
+    "condGroup": 1,
+    "condValue": 0,
     "priority": 1,
     "closedType": 1,
     "condPriority": 50,
