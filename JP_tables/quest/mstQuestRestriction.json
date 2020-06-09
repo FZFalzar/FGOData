@@ -3142,5 +3142,53 @@
     "frequencyType": 0,
     "dialogMessage": "",
     "noticeMessage": ""
+  },
+  {
+    "questId": 94050202,
+    "phase": 2,
+    "restrictionId": 94040101,
+    "frequencyType": 3,
+    "dialogMessage": "葛飾北斎を\nスターティングメンバーに設定してください。",
+    "noticeMessage": ""
+  },
+  {
+    "questId": 94050204,
+    "phase": 1,
+    "restrictionId": 94040102,
+    "frequencyType": 2,
+    "dialogMessage": "このクエストを開始するには\n所持サーヴァントから3騎\nサポートサーヴァントから1騎\n編成してください",
+    "noticeMessage": "4騎まで出撃可能"
+  },
+  {
+    "questId": 94050204,
+    "phase": 2,
+    "restrictionId": 94040102,
+    "frequencyType": 0,
+    "dialogMessage": "このクエストを開始するには\n所持サーヴァントから3騎\nサポートサーヴァントから1騎\n編成してください",
+    "noticeMessage": "4騎まで出撃可能"
+  },
+  {
+    "questId": 94050205,
+    "phase": 1,
+    "restrictionId": 94040102,
+    "frequencyType": 0,
+    "dialogMessage": "このクエストを開始するには\n所持サーヴァントから3騎\nサポートサーヴァントから1騎\n編成してください",
+    "noticeMessage": "4騎まで出撃可能"
+  },
+  {
+    "questId": 94050205,
+    "phase": 2,
+    "restrictionId": 94040101,
+    "frequencyType": 3,
+    "dialogMessage": "葛飾北斎を\nスターティングメンバーに設定してください。",
+    "noticeMessage": ""
+  },
+  {
+    "questId": 94050205,
+    "phase": 2,
+    "restrictionId": 94040102,
+    "frequencyType": 0,
+    "dialogMessage": "このクエストを開始するには\n所持サーヴァントから3騎\nサポートサーヴァントから1騎\n編成してください",
+    "noticeMessage": "4騎まで出撃可能"
   }
 ]

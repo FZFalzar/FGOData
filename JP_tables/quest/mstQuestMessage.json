@@ -11174,5 +11174,49 @@
     "targetNum": 1,
     "frequencyType": 1,
     "displayType": 1
+  },
+  {
+    "questId": 94050202,
+    "phase": 3,
+    "idx": 0,
+    "message": "【復刻:見参！ ラスベガス御前試合 ライト版】は\n復刻イベントです。\n\n過去の【見参！ ラスベガス御前試合】で\n霊衣「スーパー・クールビズ」開放権\nを入手している場合、本イベントでは\n『レアプリズム 1個』\nに置き換わります。",
+    "condType": 25,
+    "targetId": 94040102,
+    "targetNum": 1,
+    "frequencyType": 1,
+    "displayType": 1
+  },
+  {
+    "questId": 94050202,
+    "phase": 3,
+    "idx": 1,
+    "message": "いざ！ 絢爛ラスベガス！-3-\n\nこのバトルではサポートとして選択した\nサーヴァントのみ出撃します。\n\nEXP、戦利品、フレンドポイントは\n得ることができますが、\n絆ポイントは得られません。",
+    "condType": 0,
+    "targetId": 0,
+    "targetNum": 0,
+    "frequencyType": 3,
+    "displayType": 1
+  },
+  {
+    "questId": 94050203,
+    "phase": 1,
+    "idx": 0,
+    "message": "このクエストでは\nパーティ編成はバトルの直前に行います。\n\nクエストを開始しますか？",
+    "condType": 0,
+    "targetId": 0,
+    "targetNum": 0,
+    "frequencyType": 3,
+    "displayType": 1
+  },
+  {
+    "questId": 94050205,
+    "phase": 2,
+    "idx": 0,
+    "message": "【復刻:見参！ ラスベガス御前試合 ライト版】は\n復刻イベントです。\n\n過去の【見参！ ラスベガス御前試合】で\n霊衣「夏休み満喫用忍び装束」開放権\nを入手している場合、本イベントでは\n『レアプリズム 1個』\nに置き換わります。",
+    "condType": 25,
+    "targetId": 94040105,
+    "targetNum": 1,
+    "frequencyType": 1,
+    "displayType": 1
   }
 ]

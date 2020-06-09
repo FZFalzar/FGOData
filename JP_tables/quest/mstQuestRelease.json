@@ -183717,6 +183717,564 @@
     "imagePriority": 0
   },
   {
+    "questId": 94050201,
+    "type": 1,
+    "targetId": 1000011,
+    "value": 0,
+    "openLimit": 0,
+    "closedMessageId": 0,
+    "imagePriority": 10000
+  },
+  {
+    "questId": 94050201,
+    "type": 12,
+    "targetId": 0,
+    "value": 0,
+    "openLimit": 0,
+    "closedMessageId": 0,
+    "imagePriority": 5000
+  },
+  {
+    "questId": 94050202,
+    "type": 1,
+    "targetId": 94050201,
+    "value": 0,
+    "openLimit": 0,
+    "closedMessageId": 0,
+    "imagePriority": 10000
+  },
+  {
+    "questId": 94050202,
+    "type": 12,
+    "targetId": 0,
+    "value": 0,
+    "openLimit": 0,
+    "closedMessageId": 0,
+    "imagePriority": 5000
+  },
+  {
+    "questId": 94050203,
+    "type": 1,
+    "targetId": 94050202,
+    "value": 0,
+    "openLimit": 0,
+    "closedMessageId": 0,
+    "imagePriority": 10000
+  },
+  {
+    "questId": 94050203,
+    "type": 12,
+    "targetId": 0,
+    "value": 0,
+    "openLimit": 0,
+    "closedMessageId": 0,
+    "imagePriority": 5000
+  },
+  {
+    "questId": 94050203,
+    "type": 24,
+    "targetId": 80291002,
+    "value": 0,
+    "openLimit": 0,
+    "closedMessageId": 94040105,
+    "imagePriority": 7000
+  },
+  {
+    "questId": 94050204,
+    "type": 1,
+    "targetId": 94050203,
+    "value": 0,
+    "openLimit": 0,
+    "closedMessageId": 0,
+    "imagePriority": 10000
+  },
+  {
+    "questId": 94050204,
+    "type": 2,
+    "targetId": 94050204,
+    "value": 0,
+    "openLimit": 0,
+    "closedMessageId": 94040101,
+    "imagePriority": 7000
+  },
+  {
+    "questId": 94050204,
+    "type": 12,
+    "targetId": 0,
+    "value": 0,
+    "openLimit": 0,
+    "closedMessageId": 0,
+    "imagePriority": 5000
+  },
+  {
+    "questId": 94050205,
+    "type": 1,
+    "targetId": 94050204,
+    "value": 0,
+    "openLimit": 0,
+    "closedMessageId": 0,
+    "imagePriority": 10000
+  },
+  {
+    "questId": 94050205,
+    "type": 12,
+    "targetId": 0,
+    "value": 0,
+    "openLimit": 0,
+    "closedMessageId": 0,
+    "imagePriority": 5000
+  },
+  {
+    "questId": 94050206,
+    "type": 1,
+    "targetId": 94050205,
+    "value": 0,
+    "openLimit": 0,
+    "closedMessageId": 0,
+    "imagePriority": 10000
+  },
+  {
+    "questId": 94050206,
+    "type": 12,
+    "targetId": 0,
+    "value": 0,
+    "openLimit": 0,
+    "closedMessageId": 4,
+    "imagePriority": 5000
+  },
+  {
+    "questId": 94050206,
+    "type": 24,
+    "targetId": 80291003,
+    "value": 0,
+    "openLimit": 0,
+    "closedMessageId": 94050200,
+    "imagePriority": 7000
+  },
+  {
+    "questId": 94050240,
+    "type": 1,
+    "targetId": 94050202,
+    "value": 0,
+    "openLimit": 0,
+    "closedMessageId": 0,
+    "imagePriority": 10000
+  },
+  {
+    "questId": 94050240,
+    "type": 12,
+    "targetId": 0,
+    "value": 0,
+    "openLimit": 0,
+    "closedMessageId": 0,
+    "imagePriority": 9000
+  },
+  {
+    "questId": 94050241,
+    "type": 1,
+    "targetId": 94050202,
+    "value": 0,
+    "openLimit": 0,
+    "closedMessageId": 0,
+    "imagePriority": 10000
+  },
+  {
+    "questId": 94050241,
+    "type": 1,
+    "targetId": 94050240,
+    "value": 0,
+    "openLimit": 0,
+    "closedMessageId": 94040137,
+    "imagePriority": 8000
+  },
+  {
+    "questId": 94050241,
+    "type": 12,
+    "targetId": 0,
+    "value": 0,
+    "openLimit": 0,
+    "closedMessageId": 0,
+    "imagePriority": 9000
+  },
+  {
+    "questId": 94050242,
+    "type": 1,
+    "targetId": 94050205,
+    "value": 0,
+    "openLimit": 0,
+    "closedMessageId": 0,
+    "imagePriority": 10000
+  },
+  {
+    "questId": 94050242,
+    "type": 1,
+    "targetId": 94050241,
+    "value": 0,
+    "openLimit": 0,
+    "closedMessageId": 94040138,
+    "imagePriority": 8000
+  },
+  {
+    "questId": 94050242,
+    "type": 12,
+    "targetId": 0,
+    "value": 0,
+    "openLimit": 0,
+    "closedMessageId": 0,
+    "imagePriority": 9000
+  },
+  {
+    "questId": 94050243,
+    "type": 1,
+    "targetId": 94050202,
+    "value": 0,
+    "openLimit": 0,
+    "closedMessageId": 0,
+    "imagePriority": 10000
+  },
+  {
+    "questId": 94050243,
+    "type": 12,
+    "targetId": 0,
+    "value": 0,
+    "openLimit": 0,
+    "closedMessageId": 0,
+    "imagePriority": 9000
+  },
+  {
+    "questId": 94050244,
+    "type": 1,
+    "targetId": 94050202,
+    "value": 0,
+    "openLimit": 0,
+    "closedMessageId": 0,
+    "imagePriority": 10000
+  },
+  {
+    "questId": 94050244,
+    "type": 1,
+    "targetId": 94050243,
+    "value": 0,
+    "openLimit": 0,
+    "closedMessageId": 94040139,
+    "imagePriority": 8000
+  },
+  {
+    "questId": 94050244,
+    "type": 12,
+    "targetId": 0,
+    "value": 0,
+    "openLimit": 0,
+    "closedMessageId": 0,
+    "imagePriority": 9000
+  },
+  {
+    "questId": 94050252,
+    "type": 1,
+    "targetId": 94050202,
+    "value": 0,
+    "openLimit": 0,
+    "closedMessageId": 0,
+    "imagePriority": 10000
+  },
+  {
+    "questId": 94050252,
+    "type": 12,
+    "targetId": 0,
+    "value": 0,
+    "openLimit": 0,
+    "closedMessageId": 0,
+    "imagePriority": 9000
+  },
+  {
+    "questId": 94050253,
+    "type": 1,
+    "targetId": 94050202,
+    "value": 0,
+    "openLimit": 0,
+    "closedMessageId": 0,
+    "imagePriority": 10000
+  },
+  {
+    "questId": 94050253,
+    "type": 1,
+    "targetId": 94050252,
+    "value": 0,
+    "openLimit": 0,
+    "closedMessageId": 94040145,
+    "imagePriority": 8000
+  },
+  {
+    "questId": 94050253,
+    "type": 12,
+    "targetId": 0,
+    "value": 0,
+    "openLimit": 0,
+    "closedMessageId": 0,
+    "imagePriority": 9000
+  },
+  {
+    "questId": 94050255,
+    "type": 1,
+    "targetId": 94050202,
+    "value": 0,
+    "openLimit": 0,
+    "closedMessageId": 0,
+    "imagePriority": 10000
+  },
+  {
+    "questId": 94050255,
+    "type": 12,
+    "targetId": 0,
+    "value": 0,
+    "openLimit": 0,
+    "closedMessageId": 0,
+    "imagePriority": 9000
+  },
+  {
+    "questId": 94050256,
+    "type": 1,
+    "targetId": 94050202,
+    "value": 0,
+    "openLimit": 0,
+    "closedMessageId": 0,
+    "imagePriority": 10000
+  },
+  {
+    "questId": 94050256,
+    "type": 1,
+    "targetId": 94050255,
+    "value": 0,
+    "openLimit": 0,
+    "closedMessageId": 94040147,
+    "imagePriority": 8000
+  },
+  {
+    "questId": 94050256,
+    "type": 12,
+    "targetId": 0,
+    "value": 0,
+    "openLimit": 0,
+    "closedMessageId": 0,
+    "imagePriority": 9000
+  },
+  {
+    "questId": 94050401,
+    "type": 1,
+    "targetId": 94050205,
+    "value": 0,
+    "openLimit": 0,
+    "closedMessageId": 0,
+    "imagePriority": 9000
+  },
+  {
+    "questId": 94050401,
+    "type": 12,
+    "targetId": 0,
+    "value": 0,
+    "openLimit": 0,
+    "closedMessageId": 0,
+    "imagePriority": 10000
+  },
+  {
+    "questId": 94050501,
+    "type": 1,
+    "targetId": 94050202,
+    "value": 0,
+    "openLimit": 0,
+    "closedMessageId": 0,
+    "imagePriority": 8000
+  },
+  {
+    "questId": 94050501,
+    "type": 97,
+    "targetId": 94050201,
+    "value": 0,
+    "openLimit": 0,
+    "closedMessageId": 0,
+    "imagePriority": 9000
+  },
+  {
+    "questId": 94050502,
+    "type": 1,
+    "targetId": 94050240,
+    "value": 0,
+    "openLimit": 0,
+    "closedMessageId": 0,
+    "imagePriority": 8000
+  },
+  {
+    "questId": 94050502,
+    "type": 97,
+    "targetId": 94050201,
+    "value": 0,
+    "openLimit": 0,
+    "closedMessageId": 0,
+    "imagePriority": 9000
+  },
+  {
+    "questId": 94050503,
+    "type": 1,
+    "targetId": 94050205,
+    "value": 0,
+    "openLimit": 0,
+    "closedMessageId": 0,
+    "imagePriority": 8000
+  },
+  {
+    "questId": 94050503,
+    "type": 1,
+    "targetId": 94050241,
+    "value": 0,
+    "openLimit": 0,
+    "closedMessageId": 0,
+    "imagePriority": 7000
+  },
+  {
+    "questId": 94050503,
+    "type": 97,
+    "targetId": 94050201,
+    "value": 0,
+    "openLimit": 0,
+    "closedMessageId": 0,
+    "imagePriority": 9000
+  },
+  {
+    "questId": 94050504,
+    "type": 1,
+    "targetId": 94050202,
+    "value": 0,
+    "openLimit": 0,
+    "closedMessageId": 0,
+    "imagePriority": 8000
+  },
+  {
+    "questId": 94050504,
+    "type": 97,
+    "targetId": 94050202,
+    "value": 0,
+    "openLimit": 0,
+    "closedMessageId": 0,
+    "imagePriority": 9000
+  },
+  {
+    "questId": 94050505,
+    "type": 1,
+    "targetId": 94050243,
+    "value": 0,
+    "openLimit": 0,
+    "closedMessageId": 0,
+    "imagePriority": 8000
+  },
+  {
+    "questId": 94050505,
+    "type": 97,
+    "targetId": 94050202,
+    "value": 0,
+    "openLimit": 0,
+    "closedMessageId": 0,
+    "imagePriority": 9000
+  },
+  {
+    "questId": 94050513,
+    "type": 1,
+    "targetId": 94050202,
+    "value": 0,
+    "openLimit": 0,
+    "closedMessageId": 0,
+    "imagePriority": 8000
+  },
+  {
+    "questId": 94050513,
+    "type": 97,
+    "targetId": 94050205,
+    "value": 0,
+    "openLimit": 0,
+    "closedMessageId": 0,
+    "imagePriority": 9000
+  },
+  {
+    "questId": 94050514,
+    "type": 1,
+    "targetId": 94050252,
+    "value": 0,
+    "openLimit": 0,
+    "closedMessageId": 0,
+    "imagePriority": 8000
+  },
+  {
+    "questId": 94050514,
+    "type": 97,
+    "targetId": 94050205,
+    "value": 0,
+    "openLimit": 0,
+    "closedMessageId": 0,
+    "imagePriority": 9000
+  },
+  {
+    "questId": 94050516,
+    "type": 1,
+    "targetId": 94050202,
+    "value": 0,
+    "openLimit": 0,
+    "closedMessageId": 0,
+    "imagePriority": 8000
+  },
+  {
+    "questId": 94050516,
+    "type": 97,
+    "targetId": 94050206,
+    "value": 0,
+    "openLimit": 0,
+    "closedMessageId": 0,
+    "imagePriority": 9000
+  },
+  {
+    "questId": 94050517,
+    "type": 1,
+    "targetId": 94050255,
+    "value": 0,
+    "openLimit": 0,
+    "closedMessageId": 0,
+    "imagePriority": 8000
+  },
+  {
+    "questId": 94050517,
+    "type": 97,
+    "targetId": 94050206,
+    "value": 0,
+    "openLimit": 0,
+    "closedMessageId": 0,
+    "imagePriority": 9000
+  },
+  {
+    "questId": 94050599,
+    "type": 2,
+    "targetId": 94050207,
+    "value": 555,
+    "openLimit": 0,
+    "closedMessageId": 0,
+    "imagePriority": 9000
+  },
+  {
+    "questId": 94050599,
+    "type": 36,
+    "targetId": 1000011,
+    "value": 0,
+    "openLimit": 0,
+    "closedMessageId": 0,
+    "imagePriority": 10000
+  },
+  {
+    "questId": 94050599,
+    "type": 77,
+    "targetId": 80254001,
+    "value": 0,
+    "openLimit": 0,
+    "closedMessageId": 0,
+    "imagePriority": 8000
+  },
+  {
     "questId": 911000101,
     "type": 1,
     "targetId": 1000822,

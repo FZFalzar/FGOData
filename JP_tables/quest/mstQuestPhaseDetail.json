@@ -38761,6 +38761,311 @@
     "beforeActionVals": [],
     "afterActionVals": [],
     "boardMessage": {},
+    "questId": 94050201,
+    "phase": 1,
+    "spotId": 908799,
+    "consumeType": 1,
+    "actConsume": 0,
+    "flag": 2
+  },
+  {
+    "beforeActionVals": [],
+    "afterActionVals": [
+      "900",
+      "0"
+    ],
+    "boardMessage": {},
+    "questId": 94050202,
+    "phase": 1,
+    "spotId": 908799,
+    "consumeType": 1,
+    "actConsume": 0,
+    "flag": 2
+  },
+  {
+    "beforeActionVals": [],
+    "afterActionVals": [
+      "300",
+      "908702",
+      "101",
+      "908702",
+      "102",
+      "908702"
+    ],
+    "boardMessage": {
+      "text": {
+        "textString": "編成条件あり",
+        "offset": [
+          3,
+          -2
+        ],
+        "fontSize": 14,
+        "gradation": [
+          "#FFEC00",
+          "#FFEC00"
+        ]
+      },
+      "image": {
+        "bannerSp": "img_quest_formlimit_01",
+        "offset": [
+          3,
+          -2
+        ]
+      }
+    },
+    "questId": 94050202,
+    "phase": 2,
+    "spotId": 908701,
+    "consumeType": 1,
+    "actConsume": 5,
+    "flag": 0
+  },
+  {
+    "beforeActionVals": [],
+    "afterActionVals": [
+      "300",
+      "908703",
+      "101",
+      "908703",
+      "102",
+      "908703",
+      "300",
+      "908705",
+      "101",
+      "908705",
+      "102",
+      "908705",
+      "300",
+      "908708",
+      "101",
+      "908708",
+      "102",
+      "908708",
+      "700",
+      "80291,0"
+    ],
+    "boardMessage": {
+      "text": {
+        "textString": "サポートのみ出撃",
+        "offset": [
+          3,
+          -2
+        ],
+        "fontSize": 12,
+        "gradation": [
+          "#FFEC00",
+          "#FFEC00"
+        ]
+      },
+      "image": {
+        "bannerSp": "img_quest_formlimit_01",
+        "offset": [
+          3,
+          -2
+        ]
+      }
+    },
+    "questId": 94050202,
+    "phase": 3,
+    "spotId": 908702,
+    "consumeType": 1,
+    "actConsume": 5,
+    "flag": 536870912
+  },
+  {
+    "beforeActionVals": [],
+    "afterActionVals": [
+      "300",
+      "908704",
+      "101",
+      "908704",
+      "102",
+      "908704"
+    ],
+    "boardMessage": {},
+    "questId": 94050203,
+    "phase": 1,
+    "spotId": 908701,
+    "consumeType": 1,
+    "actConsume": 5,
+    "flag": 4194304
+  },
+  {
+    "beforeActionVals": [],
+    "afterActionVals": [
+      "300",
+      "908703"
+    ],
+    "boardMessage": {},
+    "questId": 94050203,
+    "phase": 2,
+    "spotId": 908704,
+    "consumeType": 1,
+    "actConsume": 5,
+    "flag": 0
+  },
+  {
+    "beforeActionVals": [],
+    "afterActionVals": [],
+    "boardMessage": {
+      "text": {
+        "textString": "編成条件あり",
+        "offset": [
+          3,
+          -2
+        ],
+        "fontSize": 14,
+        "gradation": [
+          "#FFEC00",
+          "#FFEC00"
+        ]
+      },
+      "image": {
+        "bannerSp": "img_quest_formlimit_01",
+        "offset": [
+          3,
+          -2
+        ]
+      }
+    },
+    "questId": 94050204,
+    "phase": 1,
+    "spotId": 908703,
+    "consumeType": 1,
+    "actConsume": 5,
+    "flag": 16777216
+  },
+  {
+    "beforeActionVals": [],
+    "afterActionVals": [
+      "900",
+      "0"
+    ],
+    "boardMessage": {
+      "text": {
+        "textString": "編成条件あり",
+        "offset": [
+          3,
+          -2
+        ],
+        "fontSize": 14,
+        "gradation": [
+          "#FFEC00",
+          "#FFEC00"
+        ]
+      },
+      "image": {
+        "bannerSp": "img_quest_formlimit_01",
+        "offset": [
+          3,
+          -2
+        ]
+      }
+    },
+    "questId": 94050204,
+    "phase": 2,
+    "spotId": 908703,
+    "consumeType": 1,
+    "actConsume": 5,
+    "flag": 16777216
+  },
+  {
+    "beforeActionVals": [],
+    "afterActionVals": [],
+    "boardMessage": {
+      "text": {
+        "textString": "編成条件あり",
+        "offset": [
+          3,
+          -2
+        ],
+        "fontSize": 14,
+        "gradation": [
+          "#FFEC00",
+          "#FFEC00"
+        ]
+      },
+      "image": {
+        "bannerSp": "img_quest_formlimit_01",
+        "offset": [
+          3,
+          -2
+        ]
+      }
+    },
+    "questId": 94050205,
+    "phase": 1,
+    "spotId": 908703,
+    "consumeType": 1,
+    "actConsume": 5,
+    "flag": 16777216
+  },
+  {
+    "beforeActionVals": [],
+    "afterActionVals": [
+      "900",
+      "0"
+    ],
+    "boardMessage": {
+      "text": {
+        "textString": "編成条件あり",
+        "offset": [
+          3,
+          -2
+        ],
+        "fontSize": 14,
+        "gradation": [
+          "#FFEC00",
+          "#FFEC00"
+        ]
+      },
+      "image": {
+        "bannerSp": "img_quest_formlimit_01",
+        "offset": [
+          3,
+          -2
+        ]
+      }
+    },
+    "questId": 94050205,
+    "phase": 2,
+    "spotId": 908703,
+    "consumeType": 1,
+    "actConsume": 5,
+    "flag": 16777216
+  },
+  {
+    "beforeActionVals": [],
+    "afterActionVals": [
+      "900",
+      "0"
+    ],
+    "boardMessage": {},
+    "questId": 94050206,
+    "phase": 1,
+    "spotId": 908701,
+    "consumeType": 1,
+    "actConsume": 5,
+    "flag": 0
+  },
+  {
+    "beforeActionVals": [],
+    "afterActionVals": [
+      "300",
+      "908704"
+    ],
+    "boardMessage": {},
+    "questId": 94050206,
+    "phase": 2,
+    "spotId": 908705,
+    "consumeType": 1,
+    "actConsume": 5,
+    "flag": 0
+  },
+  {
+    "beforeActionVals": [],
+    "afterActionVals": [],
+    "boardMessage": {},
     "questId": 912500101,
     "phase": 1,
     "spotId": 99003,
