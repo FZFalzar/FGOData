@@ -39066,6 +39066,194 @@
     "beforeActionVals": [],
     "afterActionVals": [],
     "boardMessage": {},
+    "questId": 94050207,
+    "phase": 1,
+    "spotId": 908704,
+    "consumeType": 1,
+    "actConsume": 0,
+    "flag": 2
+  },
+  {
+    "beforeActionVals": [],
+    "afterActionVals": [],
+    "boardMessage": {},
+    "questId": 94050207,
+    "phase": 2,
+    "spotId": 908704,
+    "consumeType": 1,
+    "actConsume": 5,
+    "flag": 0
+  },
+  {
+    "beforeActionVals": [],
+    "afterActionVals": [],
+    "boardMessage": {},
+    "questId": 94050207,
+    "phase": 3,
+    "spotId": 908704,
+    "consumeType": 1,
+    "actConsume": 5,
+    "flag": 0
+  },
+  {
+    "beforeActionVals": [],
+    "afterActionVals": [
+      "900",
+      "0"
+    ],
+    "boardMessage": {},
+    "questId": 94050207,
+    "phase": 4,
+    "spotId": 908704,
+    "consumeType": 1,
+    "actConsume": 5,
+    "flag": 0
+  },
+  {
+    "beforeActionVals": [],
+    "afterActionVals": [
+      "300",
+      "908705"
+    ],
+    "boardMessage": {},
+    "questId": 94050208,
+    "phase": 1,
+    "spotId": 908704,
+    "consumeType": 1,
+    "actConsume": 5,
+    "flag": 0
+  },
+  {
+    "beforeActionVals": [],
+    "afterActionVals": [],
+    "boardMessage": {
+      "text": {
+        "textString": "サポートのみ出撃",
+        "offset": [
+          3,
+          -2
+        ],
+        "fontSize": 12,
+        "gradation": [
+          "#FFEC00",
+          "#FFEC00"
+        ]
+      },
+      "image": {
+        "bannerSp": "img_quest_formlimit_01",
+        "offset": [
+          3,
+          -2
+        ]
+      }
+    },
+    "questId": 94050208,
+    "phase": 2,
+    "spotId": 908705,
+    "consumeType": 1,
+    "actConsume": 5,
+    "flag": 541065216
+  },
+  {
+    "beforeActionVals": [],
+    "afterActionVals": [
+      "900",
+      "0"
+    ],
+    "boardMessage": {},
+    "questId": 94050208,
+    "phase": 3,
+    "spotId": 908705,
+    "consumeType": 1,
+    "actConsume": 0,
+    "flag": 2
+  },
+  {
+    "beforeActionVals": [],
+    "afterActionVals": [
+      "300",
+      "908704"
+    ],
+    "boardMessage": {
+      "text": {
+        "textString": "編成条件あり",
+        "offset": [
+          3,
+          -2
+        ],
+        "fontSize": 14,
+        "gradation": [
+          "#FFEC00",
+          "#FFEC00"
+        ]
+      },
+      "image": {
+        "bannerSp": "img_quest_formlimit_01",
+        "offset": [
+          3,
+          -2
+        ]
+      }
+    },
+    "questId": 94050208,
+    "phase": 4,
+    "spotId": 908705,
+    "consumeType": 1,
+    "actConsume": 5,
+    "flag": 0
+  },
+  {
+    "beforeActionVals": [],
+    "afterActionVals": [
+      "900",
+      "0"
+    ],
+    "boardMessage": {},
+    "questId": 94050209,
+    "phase": 1,
+    "spotId": 908704,
+    "consumeType": 1,
+    "actConsume": 5,
+    "flag": 4194304
+  },
+  {
+    "beforeActionVals": [],
+    "afterActionVals": [
+      "900",
+      "0"
+    ],
+    "boardMessage": {
+      "text": {
+        "textString": "サポートのみ出撃",
+        "offset": [
+          3,
+          -2
+        ],
+        "fontSize": 12,
+        "gradation": [
+          "#FFEC00",
+          "#FFEC00"
+        ]
+      },
+      "image": {
+        "bannerSp": "img_quest_formlimit_01",
+        "offset": [
+          3,
+          -2
+        ]
+      }
+    },
+    "questId": 94050302,
+    "phase": 1,
+    "spotId": 908701,
+    "consumeType": 1,
+    "actConsume": 5,
+    "flag": 541065216
+  },
+  {
+    "beforeActionVals": [],
+    "afterActionVals": [],
+    "boardMessage": {},
     "questId": 912500101,
     "phase": 1,
     "spotId": 99003,
