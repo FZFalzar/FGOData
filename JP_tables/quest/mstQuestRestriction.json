@@ -3198,5 +3198,29 @@
     "frequencyType": 3,
     "dialogMessage": "葛飾北斎を\nスターティングメンバーに設定してください。",
     "noticeMessage": ""
+  },
+  {
+    "questId": 94050212,
+    "phase": 1,
+    "restrictionId": 94040103,
+    "frequencyType": 2,
+    "dialogMessage": "制限対象サーヴァントは出撃できません。",
+    "noticeMessage": "葛飾北斎出撃不可"
+  },
+  {
+    "questId": 94050213,
+    "phase": 2,
+    "restrictionId": 3000201,
+    "frequencyType": 3,
+    "dialogMessage": "サポートサーヴァントをスターティングメンバ―に設定してください。",
+    "noticeMessage": "サポートはサブメンバーとして出撃できません"
+  },
+  {
+    "questId": 94050213,
+    "phase": 3,
+    "restrictionId": 94040101,
+    "frequencyType": 3,
+    "dialogMessage": "葛飾北斎を\nスターティングメンバーに設定してください。",
+    "noticeMessage": ""
   }
 ]
