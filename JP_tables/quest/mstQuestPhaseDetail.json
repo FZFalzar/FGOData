@@ -39401,6 +39401,68 @@
     ],
     "boardMessage": {
       "text": {
+        "textString": "編成条件あり",
+        "offset": [
+          3,
+          -2
+        ],
+        "fontSize": 14,
+        "gradation": [
+          "#FFEC00",
+          "#FFEC00"
+        ]
+      },
+      "image": {
+        "bannerSp": "img_quest_formlimit_01",
+        "offset": [
+          3,
+          -2
+        ]
+      }
+    },
+    "questId": 94050215,
+    "phase": 1,
+    "spotId": 908707,
+    "consumeType": 1,
+    "actConsume": 5,
+    "flag": 0
+  },
+  {
+    "beforeActionVals": [],
+    "afterActionVals": [
+      "900",
+      "0"
+    ],
+    "boardMessage": {},
+    "questId": 94050216,
+    "phase": 1,
+    "spotId": 908707,
+    "consumeType": 1,
+    "actConsume": 5,
+    "flag": 4194304
+  },
+  {
+    "beforeActionVals": [],
+    "afterActionVals": [
+      "900",
+      "0"
+    ],
+    "boardMessage": {},
+    "questId": 94050217,
+    "phase": 1,
+    "spotId": 908708,
+    "consumeType": 1,
+    "actConsume": 5,
+    "flag": 0
+  },
+  {
+    "beforeActionVals": [],
+    "afterActionVals": [
+      "900",
+      "0"
+    ],
+    "boardMessage": {
+      "text": {
         "textString": "サポートのみ出撃",
         "offset": [
           3,
@@ -39440,6 +39502,20 @@
     "consumeType": 1,
     "actConsume": 5,
     "flag": 4194304
+  },
+  {
+    "beforeActionVals": [],
+    "afterActionVals": [
+      "900",
+      "0"
+    ],
+    "boardMessage": {},
+    "questId": 94050306,
+    "phase": 1,
+    "spotId": 908704,
+    "consumeType": 1,
+    "actConsume": 0,
+    "flag": 2
   },
   {
     "beforeActionVals": [],
