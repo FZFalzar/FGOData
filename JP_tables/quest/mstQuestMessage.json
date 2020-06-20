@@ -11330,6 +11330,28 @@
     "displayType": 1
   },
   {
+    "questId": 94050230,
+    "phase": 1,
+    "idx": 0,
+    "message": "【復刻:見参！ ラスベガス御前試合 ライト版】は\n復刻イベントです。\n\n過去の【見参！ ラスベガス御前試合】で\n『聖杯』\nを入手している場合、本イベントでは\n『伝承結晶』\nに置き換わります。",
+    "condType": 25,
+    "targetId": 94040130,
+    "targetNum": 1,
+    "frequencyType": 1,
+    "displayType": 1
+  },
+  {
+    "questId": 94050301,
+    "phase": 1,
+    "idx": 0,
+    "message": "このクエストでは\nパーティ編成はバトルの直前に行います。\n\nクエストを開始しますか？",
+    "condType": 0,
+    "targetId": 0,
+    "targetNum": 0,
+    "frequencyType": 3,
+    "displayType": 1
+  },
+  {
     "questId": 94050302,
     "phase": 1,
     "idx": 0,
@@ -11370,6 +11392,105 @@
     "condType": 0,
     "targetId": 0,
     "targetNum": 0,
+    "frequencyType": 3,
+    "displayType": 1
+  },
+  {
+    "questId": 94050305,
+    "phase": 1,
+    "idx": 0,
+    "message": "このクエストでは\nパーティ編成はバトルの直前に行います。\n\nクエストを開始しますか？",
+    "condType": 0,
+    "targetId": 0,
+    "targetNum": 0,
+    "frequencyType": 3,
+    "displayType": 1
+  },
+  {
+    "questId": 94050307,
+    "phase": 1,
+    "idx": 0,
+    "message": "このクエストでは\nパーティ編成はバトルの直前に行います。\n\nクエストを開始しますか？",
+    "condType": 0,
+    "targetId": 0,
+    "targetNum": 0,
+    "frequencyType": 3,
+    "displayType": 1
+  },
+  {
+    "questId": 94050309,
+    "phase": 1,
+    "idx": 0,
+    "message": "グラス・Ｎｏ．１ -1-\n\nこのバトルではサポートとして選択した\nサーヴァントのみ出撃します。\n\nEXP、戦利品は得ることができますが、\n絆ポイント、フレンドポイントは得られません。",
+    "condType": 0,
+    "targetId": 0,
+    "targetNum": 0,
+    "frequencyType": 3,
+    "displayType": 1
+  },
+  {
+    "questId": 94050309,
+    "phase": 2,
+    "idx": 0,
+    "message": "グラス・Ｎｏ．１ -2-\n\nこのバトルではサポートとして選択した\nサーヴァントのみ出撃します。\n\nEXP、戦利品は得ることができますが、\n絆ポイント、フレンドポイントは得られません。",
+    "condType": 0,
+    "targetId": 0,
+    "targetNum": 0,
+    "frequencyType": 3,
+    "displayType": 1
+  },
+  {
+    "questId": 94050310,
+    "phase": 1,
+    "idx": 0,
+    "message": "このクエストでは\nパーティ編成はバトルの直前に行います。\n\nクエストを開始しますか？",
+    "condType": 0,
+    "targetId": 0,
+    "targetNum": 0,
+    "frequencyType": 3,
+    "displayType": 1
+  },
+  {
+    "questId": 94050320,
+    "phase": 1,
+    "idx": 0,
+    "message": "【復刻:見参！ ラスベガス御前試合 ライト版】は\n復刻イベントです。\n\n過去の【見参！ ラスベガス御前試合】で\n簡易霊衣「武蔵ちゃんの夏モード」開放権\nを入手している場合、本イベントでは\n『レアプリズム 1個』\nに置き換わります。",
+    "condType": 25,
+    "targetId": 94040220,
+    "targetNum": 1,
+    "frequencyType": 1,
+    "displayType": 1
+  },
+  {
+    "questId": 94050321,
+    "phase": 1,
+    "idx": 0,
+    "message": "【復刻:見参！ ラスベガス御前試合 ライト版】は\n復刻イベントです。\n\n過去の【見参！ ラスベガス御前試合】で\n簡易霊衣「首切りバニー（第三再臨）」開放権\nを入手している場合、本イベントでは\n『レアプリズム 1個』\nに置き換わります。",
+    "condType": 25,
+    "targetId": 94040221,
+    "targetNum": 1,
+    "frequencyType": 1,
+    "displayType": 1
+  },
+  {
+    "questId": 94050404,
+    "phase": 1,
+    "idx": 0,
+    "message": "​～ 注意 ～\n\n「ビッグチャンスクエスト　オールイン級」は\nクエスト開始時に巨額のQP (50,000,000 QP)を\n支払うことで挑戦できます。\n敗北または撤退した場合、支払ったQPは戻りません。\n\nそれでも挑戦しますか？",
+    "condType": 0,
+    "targetId": 0,
+    "targetNum": 0,
+    "frequencyType": 3,
+    "displayType": 1
+  },
+  {
+    "questId": 94050490,
+    "phase": 1,
+    "idx": 0,
+    "message": "～ 注意 ～\n\n「【高難易度】ウエスタン忍法帳」は\n繰り返し挑戦可能なクエストですが、\n絆ポイント、EXP、戦利品、クリア報酬を\n獲得できるのは1回目のクリア時のみとなります。\n\nそれでも挑戦しますか？",
+    "condType": 25,
+    "targetId": 94050490,
+    "targetNum": 1,
     "frequencyType": 3,
     "displayType": 1
   }

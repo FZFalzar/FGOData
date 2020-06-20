@@ -39714,6 +39714,98 @@
       "900",
       "0"
     ],
+    "boardMessage": {},
+    "questId": 94050230,
+    "phase": 1,
+    "spotId": 908704,
+    "consumeType": 1,
+    "actConsume": 0,
+    "flag": 2
+  },
+  {
+    "beforeActionVals": [],
+    "afterActionVals": [
+      "900",
+      "0"
+    ],
+    "boardMessage": {},
+    "questId": 94050231,
+    "phase": 1,
+    "spotId": 908704,
+    "consumeType": 1,
+    "actConsume": 0,
+    "flag": 2
+  },
+  {
+    "beforeActionVals": [],
+    "afterActionVals": [
+      "900",
+      "0"
+    ],
+    "boardMessage": {},
+    "questId": 94050232,
+    "phase": 1,
+    "spotId": 908704,
+    "consumeType": 1,
+    "actConsume": 0,
+    "flag": 2
+  },
+  {
+    "beforeActionVals": [],
+    "afterActionVals": [
+      "300",
+      "908712",
+      "101",
+      "908712",
+      "102",
+      "908712",
+      "300",
+      "908713",
+      "101",
+      "908713",
+      "102",
+      "908713",
+      "300",
+      "908709",
+      "101",
+      "908709",
+      "102",
+      "908709",
+      "300",
+      "908710",
+      "101",
+      "908710",
+      "102",
+      "908710"
+    ],
+    "boardMessage": {},
+    "questId": 94050233,
+    "phase": 1,
+    "spotId": 908704,
+    "consumeType": 1,
+    "actConsume": 0,
+    "flag": 2
+  },
+  {
+    "beforeActionVals": [],
+    "afterActionVals": [
+      "900",
+      "0"
+    ],
+    "boardMessage": {},
+    "questId": 94050301,
+    "phase": 1,
+    "spotId": 908712,
+    "consumeType": 1,
+    "actConsume": 5,
+    "flag": 4194304
+  },
+  {
+    "beforeActionVals": [],
+    "afterActionVals": [
+      "900",
+      "0"
+    ],
     "boardMessage": {
       "text": {
         "textString": "サポートのみ出撃",
@@ -39788,12 +39880,149 @@
       "0"
     ],
     "boardMessage": {},
+    "questId": 94050305,
+    "phase": 1,
+    "spotId": 908713,
+    "consumeType": 1,
+    "actConsume": 5,
+    "flag": 4194304
+  },
+  {
+    "beforeActionVals": [],
+    "afterActionVals": [
+      "900",
+      "0"
+    ],
+    "boardMessage": {},
     "questId": 94050306,
     "phase": 1,
     "spotId": 908704,
     "consumeType": 1,
     "actConsume": 0,
     "flag": 2
+  },
+  {
+    "beforeActionVals": [],
+    "afterActionVals": [
+      "900",
+      "0"
+    ],
+    "boardMessage": {},
+    "questId": 94050307,
+    "phase": 1,
+    "spotId": 908709,
+    "consumeType": 1,
+    "actConsume": 5,
+    "flag": 4194304
+  },
+  {
+    "beforeActionVals": [],
+    "afterActionVals": [
+      "900",
+      "0"
+    ],
+    "boardMessage": {},
+    "questId": 94050308,
+    "phase": 1,
+    "spotId": 908710,
+    "consumeType": 1,
+    "actConsume": 0,
+    "flag": 2
+  },
+  {
+    "beforeActionVals": [],
+    "afterActionVals": [],
+    "boardMessage": {
+      "text": {
+        "textString": "サポートのみ出撃",
+        "offset": [
+          3,
+          -2
+        ],
+        "fontSize": 12,
+        "gradation": [
+          "#FFEC00",
+          "#FFEC00"
+        ]
+      },
+      "image": {
+        "bannerSp": "img_quest_formlimit_01",
+        "offset": [
+          3,
+          -2
+        ]
+      }
+    },
+    "questId": 94050309,
+    "phase": 1,
+    "spotId": 908704,
+    "consumeType": 1,
+    "actConsume": 5,
+    "flag": 541065216
+  },
+  {
+    "beforeActionVals": [],
+    "afterActionVals": [
+      "900",
+      "0"
+    ],
+    "boardMessage": {
+      "text": {
+        "textString": "サポートのみ出撃",
+        "offset": [
+          3,
+          -2
+        ],
+        "fontSize": 12,
+        "gradation": [
+          "#FFEC00",
+          "#FFEC00"
+        ]
+      },
+      "image": {
+        "bannerSp": "img_quest_formlimit_01",
+        "offset": [
+          3,
+          -2
+        ]
+      }
+    },
+    "questId": 94050309,
+    "phase": 2,
+    "spotId": 908704,
+    "consumeType": 1,
+    "actConsume": 5,
+    "flag": 536870912
+  },
+  {
+    "beforeActionVals": [],
+    "afterActionVals": [
+      "300",
+      "908703",
+      "500",
+      "94050310"
+    ],
+    "boardMessage": {},
+    "questId": 94050310,
+    "phase": 1,
+    "spotId": 908704,
+    "consumeType": 1,
+    "actConsume": 5,
+    "flag": 4194304
+  },
+  {
+    "beforeActionVals": [],
+    "afterActionVals": [
+      "900",
+      "0"
+    ],
+    "boardMessage": {},
+    "questId": 94050310,
+    "phase": 2,
+    "spotId": 908703,
+    "consumeType": 1,
+    "actConsume": 5,
+    "flag": 0
   },
   {
     "beforeActionVals": [],
