@@ -1,0 +1,7202 @@
+[
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 107000,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000012,
+    "infoText": "Chaos Tide"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 107010,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000013,
+    "infoText": "Chaos Tide"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 107020,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000018,
+    "infoText": "Quake"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 107020,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000013,
+    "infoText": "Chaos Tide"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 107030,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000018,
+    "infoText": "Quake"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 107030,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000015,
+    "infoText": "Chaos Tide"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 107040,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000014,
+    "infoText": "Chaos Tide"
+  },
+  {
+    "vals": [
+      2074
+    ],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 107050,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": -59,
+    "aiActId": 1000020,
+    "infoText": "Blessing of Kur"
+  },
+  {
+    "vals": [
+      2074
+    ],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 107050,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 1,
+    "probability": 100,
+    "cond": -59,
+    "aiActId": 1000020,
+    "infoText": "Blessing of Kur"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 107060,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000016,
+    "infoText": "Chaos Tide"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 107060,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 4,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000019,
+    "infoText": "Mage of Flowers"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 107070,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000017,
+    "infoText": "Chaos Tide"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 107070,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 4,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000019,
+    "infoText": "Mage of Flowers"
+  },
+  {
+    "vals": [
+      0
+    ],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 108020,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 100,
+    "probability": 100,
+    "cond": 74,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 108020,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 40,
+    "cond": 0,
+    "aiActId": 108001,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      108020,
+      0
+    ],
+    "script": {},
+    "id": 108020,
+    "idx": 3,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 60,
+    "cond": 0,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 108020,
+    "idx": 4,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      0
+    ],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 108030,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 100,
+    "probability": 100,
+    "cond": 74,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 108030,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 40,
+    "cond": 0,
+    "aiActId": 108002,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      108030,
+      0
+    ],
+    "script": {},
+    "id": 108030,
+    "idx": 3,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 60,
+    "cond": 0,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 108030,
+    "idx": 4,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      0
+    ],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 108040,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 100,
+    "probability": 100,
+    "cond": 74,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      113
+    ],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 108040,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 66,
+    "cond": -55,
+    "aiActId": 108003,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      108040,
+      0
+    ],
+    "script": {},
+    "id": 108040,
+    "idx": 3,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 34,
+    "cond": 0,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 108040,
+    "idx": 4,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      0
+    ],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 108050,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 100,
+    "probability": 100,
+    "cond": 74,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      114
+    ],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 108050,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 66,
+    "cond": -55,
+    "aiActId": 108004,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      108050,
+      0
+    ],
+    "script": {},
+    "id": 108050,
+    "idx": 3,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 34,
+    "cond": 0,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 108050,
+    "idx": 4,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      0
+    ],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 108060,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 100,
+    "probability": 100,
+    "cond": 74,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 108060,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 40,
+    "cond": 0,
+    "aiActId": 108005,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      108060,
+      0
+    ],
+    "script": {},
+    "id": 108060,
+    "idx": 3,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 60,
+    "cond": 0,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 108060,
+    "idx": 4,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      0
+    ],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 108070,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 100,
+    "probability": 100,
+    "cond": 74,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      112
+    ],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 108070,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 66,
+    "cond": -55,
+    "aiActId": 108006,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      108070,
+      0
+    ],
+    "script": {},
+    "id": 108070,
+    "idx": 3,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 34,
+    "cond": 0,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 108070,
+    "idx": 4,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      0
+    ],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 108080,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 100,
+    "probability": 100,
+    "cond": 74,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 108080,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 40,
+    "cond": 0,
+    "aiActId": 108007,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      108080,
+      0
+    ],
+    "script": {},
+    "id": 108080,
+    "idx": 3,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 60,
+    "cond": 0,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 108080,
+    "idx": 4,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      201321,
+      0
+    ],
+    "script": {},
+    "id": 201320,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000032,
+    "infoText": "Failed Ambush"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 201321,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 201330,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000039,
+    "infoText": "Cry of Hatred "
+  },
+  {
+    "vals": [
+      4
+    ],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 201340,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 84,
+    "aiActId": 1000033,
+    "infoText": "Covering Fire"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 201350,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000041,
+    "infoText": "Flames of Anger"
+  },
+  {
+    "vals": [],
+    "avals": [
+      201361,
+      0
+    ],
+    "script": {},
+    "id": 201360,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000034,
+    "infoText": "108 Stars of Destiny"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 201361,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 25,
+    "cond": 0,
+    "aiActId": 1000035,
+    "infoText": "Leader Star/Knowledge Star/Leisure Star"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 201361,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 25,
+    "cond": 0,
+    "aiActId": 1000036,
+    "infoText": "Brave Star/Majestic Star/Fierce Star"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 201361,
+    "idx": 3,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 25,
+    "cond": 0,
+    "aiActId": 1000037,
+    "infoText": "Prestige Star/Hero Star/Noble Star"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 201361,
+    "idx": 4,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 25,
+    "cond": 0,
+    "aiActId": 1000038,
+    "infoText": "Four Villains, Six Traitors"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 201370,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000042,
+    "infoText": "Invisible"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 201380,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000040,
+    "infoText": "Cry of Hatred "
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 201390,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000043,
+    "infoText": "Empty Equation"
+  },
+  {
+    "vals": [
+      2077
+    ],
+    "avals": [
+      201391,
+      0
+    ],
+    "script": {},
+    "id": 201390,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 100,
+    "probability": 200,
+    "cond": 53,
+    "aiActId": 1000044,
+    "infoText": "Incomprehensible Question"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 201391,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000044,
+    "infoText": "Incomprehensible Question"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 201400,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000045,
+    "infoText": "Great Detectives' Great Deduction"
+  },
+  {
+    "vals": [
+      1
+    ],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 201870,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 50,
+    "cond": 86,
+    "aiActId": 1000067,
+    "infoText": "Megalos's Intrusion"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 201870,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 50,
+    "cond": 0,
+    "aiActId": 1000068,
+    "infoText": "Megalos's Intrusion"
+  },
+  {
+    "vals": [
+      0
+    ],
+    "avals": [
+      201871,
+      0
+    ],
+    "script": {},
+    "id": 201870,
+    "idx": 3,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 100,
+    "probability": 200,
+    "cond": 85,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 201871,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      1
+    ],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 201880,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 50,
+    "cond": 86,
+    "aiActId": 1000069,
+    "infoText": "Penthesilea's Intrusion"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 201880,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 50,
+    "cond": 0,
+    "aiActId": 1000070,
+    "infoText": "Penthesilea's Intrusion"
+  },
+  {
+    "vals": [
+      2116
+    ],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 201880,
+    "idx": 3,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 50,
+    "probability": 100,
+    "cond": 59,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2115
+    ],
+    "avals": [
+      201881,
+      0
+    ],
+    "script": {},
+    "id": 201880,
+    "idx": 4,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 100,
+    "probability": 200,
+    "cond": -58,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 201881,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      1
+    ],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 201890,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 86,
+    "aiActId": 1000071,
+    "infoText": "Megalos and Penthesilea's Intrusion"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 201890,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000072,
+    "infoText": "Megalos and Penthesilea's Intrusion"
+  },
+  {
+    "vals": [
+      0
+    ],
+    "avals": [
+      201891,
+      0
+    ],
+    "script": {},
+    "id": 201890,
+    "idx": 3,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 100,
+    "probability": 200,
+    "cond": 85,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 201891,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 201900,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 50,
+    "cond": 0,
+    "aiActId": 1000073,
+    "infoText": "Megalos's Support"
+  },
+  {
+    "vals": [
+      0
+    ],
+    "avals": [
+      201901,
+      0
+    ],
+    "script": {},
+    "id": 201900,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 100,
+    "probability": 200,
+    "cond": 85,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 201901,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2118
+    ],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 201910,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 4,
+    "priority": 1,
+    "probability": 100,
+    "cond": -58,
+    "aiActId": 1000074,
+    "infoText": "Caledfwlch Caladbolg"
+  },
+  {
+    "vals": [
+      2117
+    ],
+    "avals": [
+      201911,
+      0
+    ],
+    "script": {},
+    "id": 201910,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 100,
+    "probability": 200,
+    "cond": -58,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      11
+    ],
+    "avals": [
+      201911,
+      0
+    ],
+    "script": {},
+    "id": 201910,
+    "idx": 3,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 90,
+    "probability": 200,
+    "cond": 78,
+    "aiActId": 1000088,
+    "infoText": "The Crucible of Life and Death"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 201911,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      15
+    ],
+    "avals": [
+      203961,
+      0
+    ],
+    "script": {},
+    "id": 203960,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 68,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      16
+    ],
+    "avals": [
+      203961,
+      0
+    ],
+    "script": {},
+    "id": 203960,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 80,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 203961,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1009,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 300040,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2188
+    ],
+    "avals": [
+      300041,
+      0
+    ],
+    "script": {},
+    "id": 300040,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 300041,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1009,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      300961,
+      0
+    ],
+    "script": {
+      "enemyMasterEffectType": 1,
+      "voicePlay": "ChrVoice_7100100:0_E120"
+    },
+    "id": 300960,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000111,
+    "infoText": "Speed up! \"Accelerated Course\"!"
+  },
+  {
+    "vals": [
+      3005
+    ],
+    "avals": [
+      300963,
+      0
+    ],
+    "script": {
+      "enemyMasterEffectType": 1,
+      "voicePlay": "ChrVoice_7100100:0_E130"
+    },
+    "id": 300961,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 100,
+    "probability": 100,
+    "cond": 58,
+    "aiActId": 1000112,
+    "infoText": "Course correction! \"Mana Cleanse\"!"
+  },
+  {
+    "vals": [
+      500
+    ],
+    "avals": [
+      300962,
+      0
+    ],
+    "script": {
+      "enemyMasterEffectType": 1,
+      "voicePlay": "ChrVoice_7100100:0_E140"
+    },
+    "id": 300961,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 90,
+    "probability": 100,
+    "cond": 65,
+    "aiActId": 1000113,
+    "infoText": "There's our opening! \"Phantasmal Field\"!"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 300961,
+    "idx": 3,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      3005
+    ],
+    "avals": [
+      300964,
+      0
+    ],
+    "script": {
+      "enemyMasterEffectType": 1,
+      "voicePlay": "ChrVoice_7100100:0_E130"
+    },
+    "id": 300962,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 100,
+    "probability": 100,
+    "cond": 58,
+    "aiActId": 1000112,
+    "infoText": "Course correction! \"Mana Cleanse\"!"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 300962,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      500
+    ],
+    "avals": [
+      300964,
+      0
+    ],
+    "script": {
+      "enemyMasterEffectType": 1,
+      "voicePlay": "ChrVoice_7100100:0_E140"
+    },
+    "id": 300963,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 100,
+    "probability": 100,
+    "cond": 65,
+    "aiActId": 1000113,
+    "infoText": "There's our opening! \"Phantasmal Field\"!"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 300963,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 300964,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      300971,
+      0
+    ],
+    "script": {
+      "enemyMasterEffectType": 2,
+      "voicePlay": "ChrVoice_7100100:0_E210"
+    },
+    "id": 300970,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000114,
+    "infoText": "I order you with my Command Spell...\nFreeze the enemy!"
+  },
+  {
+    "vals": [
+      2206
+    ],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {
+      "enemyMasterEffectType": 2,
+      "voicePlay": "ChrVoice_7100100:0_E210"
+    },
+    "id": 300971,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 1000115,
+    "infoText": "I order you with my Command Spell...\nUnleash your Noble Phantasm!"
+  },
+  {
+    "vals": [
+      2207
+    ],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {
+      "enemyMasterEffectType": 2,
+      "voicePlay": "ChrVoice_7100100:0_E210"
+    },
+    "id": 300971,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 90,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 1000116,
+    "infoText": "I order you with my Command Spell...\nBecome the Tsaritza!"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 300971,
+    "idx": 3,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2202
+    ],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 301000,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 1,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 1000134,
+    "infoText": "Covering Fire"
+  },
+  {
+    "vals": [
+      2201
+    ],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 301030,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 1,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 1000133,
+    "infoText": "Covering Fire"
+  },
+  {
+    "vals": [
+      2202
+    ],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 301060,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 1,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 1000136,
+    "infoText": "Covering Fire"
+  },
+  {
+    "vals": [
+      2201
+    ],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 301090,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 1,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 1000135,
+    "infoText": "Covering Fire"
+  },
+  {
+    "vals": [
+      1100600
+    ],
+    "avals": [
+      301101,
+      0
+    ],
+    "script": {},
+    "id": 301100,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 100,
+    "probability": 100,
+    "cond": -53,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2200
+    ],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 301100,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 90,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 1000117,
+    "infoText": "The Man in Grey"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 301100,
+    "idx": 3,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 301101,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      1
+    ],
+    "avals": [
+      301111,
+      0
+    ],
+    "script": {},
+    "id": 301110,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 1,
+    "probability": 100,
+    "cond": 84,
+    "aiActId": 1000127,
+    "infoText": "Golem's Protection"
+  },
+  {
+    "vals": [
+      1
+    ],
+    "avals": [
+      301112,
+      0
+    ],
+    "script": {},
+    "id": 301111,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 1,
+    "probability": 100,
+    "cond": 84,
+    "aiActId": 1000128,
+    "infoText": "Golem's Protection"
+  },
+  {
+    "vals": [
+      1
+    ],
+    "avals": [
+      301110,
+      0
+    ],
+    "script": {},
+    "id": 301112,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 1,
+    "probability": 100,
+    "cond": 84,
+    "aiActId": 1000129,
+    "infoText": "Golem's Protection"
+  },
+  {
+    "vals": [
+      1
+    ],
+    "avals": [
+      301121,
+      0
+    ],
+    "script": {},
+    "id": 301120,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 84,
+    "aiActId": 1000130,
+    "infoText": "Golem's Protection"
+  },
+  {
+    "vals": [
+      1
+    ],
+    "avals": [
+      301122,
+      0
+    ],
+    "script": {},
+    "id": 301121,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 84,
+    "aiActId": 1000131,
+    "infoText": "Golem's Protection"
+  },
+  {
+    "vals": [
+      1
+    ],
+    "avals": [
+      301120,
+      0
+    ],
+    "script": {},
+    "id": 301122,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 84,
+    "aiActId": 1000132,
+    "infoText": "Golem's Protection"
+  },
+  {
+    "vals": [
+      3
+    ],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 301130,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 100,
+    "probability": 100,
+    "cond": 78,
+    "aiActId": 1009,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 301130,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 301480,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000167,
+    "infoText": "Words of the Great Detective"
+  },
+  {
+    "vals": [
+      2248
+    ],
+    "avals": [
+      301492,
+      0
+    ],
+    "script": {},
+    "id": 301490,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 4,
+    "priority": 100,
+    "probability": 100,
+    "cond": 56,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      301491,
+      0
+    ],
+    "script": {},
+    "id": 301490,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 4,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 301491,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 4,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000168,
+    "infoText": "Napoleon's Support...\n“Sweeping Bombardment”"
+  },
+  {
+    "vals": [
+      0
+    ],
+    "avals": [
+      301492,
+      0
+    ],
+    "script": {},
+    "id": 301491,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 4,
+    "priority": 100,
+    "probability": 100,
+    "cond": 85,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 301492,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 4,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2248
+    ],
+    "avals": [
+      301501,
+      0
+    ],
+    "script": {},
+    "id": 301500,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 200,
+    "probability": 100,
+    "cond": 56,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2248
+    ],
+    "avals": [
+      301502,
+      0
+    ],
+    "script": {},
+    "id": 301500,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 100,
+    "probability": 100,
+    "cond": 56,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 301500,
+    "idx": 3,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 301500,
+    "idx": 4,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2250
+    ],
+    "avals": [
+      301500,
+      0
+    ],
+    "script": {},
+    "id": 301501,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 200,
+    "probability": 100,
+    "cond": -59,
+    "aiActId": 1000169,
+    "infoText": "Passionate Good Fellow"
+  },
+  {
+    "vals": [],
+    "avals": [
+      301500,
+      0
+    ],
+    "script": {},
+    "id": 301501,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2250
+    ],
+    "avals": [
+      301500,
+      0
+    ],
+    "script": {},
+    "id": 301502,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 100,
+    "probability": 100,
+    "cond": -59,
+    "aiActId": 1000169,
+    "infoText": "Passionate Good Fellow"
+  },
+  {
+    "vals": [],
+    "avals": [
+      301500,
+      0
+    ],
+    "script": {},
+    "id": 301502,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      800100
+    ],
+    "avals": [
+      301511,
+      0
+    ],
+    "script": {},
+    "id": 301510,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 200,
+    "probability": 100,
+    "cond": 56,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      800100
+    ],
+    "avals": [
+      301512,
+      0
+    ],
+    "script": {},
+    "id": 301510,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 100,
+    "probability": 100,
+    "cond": 56,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 301510,
+    "idx": 3,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 301510,
+    "idx": 4,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2251
+    ],
+    "avals": [
+      301510,
+      0
+    ],
+    "script": {},
+    "id": 301511,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 200,
+    "probability": 100,
+    "cond": -59,
+    "aiActId": 1000170,
+    "infoText": "Unstable Output"
+  },
+  {
+    "vals": [],
+    "avals": [
+      301510,
+      0
+    ],
+    "script": {},
+    "id": 301511,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2251
+    ],
+    "avals": [
+      301510,
+      0
+    ],
+    "script": {},
+    "id": 301512,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 100,
+    "probability": 100,
+    "cond": -59,
+    "aiActId": 1000170,
+    "infoText": "Unstable Output"
+  },
+  {
+    "vals": [],
+    "avals": [
+      301510,
+      0
+    ],
+    "script": {},
+    "id": 301512,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 301520,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000171,
+    "infoText": "Brynhild's Protection...\n“Primordial Rune”"
+  },
+  {
+    "vals": [
+      2249
+    ],
+    "avals": [
+      301531,
+      0
+    ],
+    "script": {},
+    "id": 301530,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 100,
+    "probability": 100,
+    "cond": -56,
+    "aiActId": 1000171,
+    "infoText": "Brynhild's Support...\n“Primordial Rune”"
+  },
+  {
+    "vals": [],
+    "avals": [
+      301531,
+      0
+    ],
+    "script": {},
+    "id": 301530,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 301531,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 301540,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000172,
+    "infoText": "???'s Diversion Tactics"
+  },
+  {
+    "vals": [
+      2249
+    ],
+    "avals": [
+      301561,
+      0
+    ],
+    "script": {},
+    "id": 301560,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 100,
+    "probability": 100,
+    "cond": -56,
+    "aiActId": 1000173,
+    "infoText": "Brynhild's Support...\n“Allfather Seal, Mold Excitation”"
+  },
+  {
+    "vals": [],
+    "avals": [
+      301561,
+      0
+    ],
+    "script": {},
+    "id": 301560,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 301561,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      301571,
+      0
+    ],
+    "script": {},
+    "id": 301570,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000174,
+    "infoText": "Skadi's Support...\n“Primordial Rune”"
+  },
+  {
+    "vals": [],
+    "avals": [
+      301572,
+      0
+    ],
+    "script": {},
+    "id": 301571,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000175,
+    "infoText": "Brynhild's Support...\n“Hero's Assistant”"
+  },
+  {
+    "vals": [],
+    "avals": [
+      301573,
+      0
+    ],
+    "script": {},
+    "id": 301572,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000176,
+    "infoText": "Sitonai's Support...\n“Louhi's Magecraft”"
+  },
+  {
+    "vals": [],
+    "avals": [
+      301574,
+      0
+    ],
+    "script": {},
+    "id": 301573,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000177,
+    "infoText": "Napoleon's Support...\n“Final Bombardment”"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 301574,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      301581,
+      0
+    ],
+    "script": {
+      "forcedSkillSpeed": 1,
+      "voicePlay": "ChrVoice_7100200:0_E150",
+      "enemyMasterEffectType": 1
+    },
+    "id": 301580,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000146,
+    "infoText": "Insulating Covering"
+  },
+  {
+    "vals": [
+      2257
+    ],
+    "avals": [
+      301582,
+      0
+    ],
+    "script": {
+      "forcedSkillSpeed": 1,
+      "voicePlay": "ChrVoice_7100200:0_E120",
+      "enemyMasterEffectType": 1
+    },
+    "id": 301581,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 1000145,
+    "infoText": "Barrier Break"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 301581,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 301582,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2250
+    ],
+    "avals": [
+      301591,
+      0
+    ],
+    "script": {},
+    "id": 301590,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 200,
+    "probability": 100,
+    "cond": 59,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2250
+    ],
+    "avals": [
+      301592,
+      0
+    ],
+    "script": {},
+    "id": 301590,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 100,
+    "probability": 100,
+    "cond": 59,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 301590,
+    "idx": 3,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 301590,
+    "idx": 4,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2256
+    ],
+    "avals": [
+      301590,
+      0
+    ],
+    "script": {
+      "forcedSkillSpeed": 1,
+      "voicePlay": "ChrVoice_7100200:0_E160",
+      "enemyMasterEffectType": 1
+    },
+    "id": 301591,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 200,
+    "probability": 100,
+    "cond": -59,
+    "aiActId": 1000147,
+    "infoText": "I Do Not See Its Brilliance"
+  },
+  {
+    "vals": [],
+    "avals": [
+      301590,
+      0
+    ],
+    "script": {},
+    "id": 301591,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2256
+    ],
+    "avals": [
+      301590,
+      0
+    ],
+    "script": {
+      "forcedSkillSpeed": 1,
+      "voicePlay": "ChrVoice_7100200:0_E160",
+      "enemyMasterEffectType": 1
+    },
+    "id": 301592,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 100,
+    "probability": 100,
+    "cond": -59,
+    "aiActId": 1000147,
+    "infoText": "I Do Not See Its Brilliance"
+  },
+  {
+    "vals": [],
+    "avals": [
+      301590,
+      0
+    ],
+    "script": {},
+    "id": 301592,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2258
+    ],
+    "avals": [
+      301602,
+      0
+    ],
+    "script": {},
+    "id": 301600,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 300,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      3045
+    ],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 301600,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 200,
+    "probability": 100,
+    "cond": 58,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      500
+    ],
+    "avals": [
+      301601,
+      0
+    ],
+    "script": {
+      "forcedSkillSpeed": 1,
+      "voicePlay": "ChrVoice_7100200:0_E130",
+      "enemyMasterEffectType": 1
+    },
+    "id": 301600,
+    "idx": 3,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 100,
+    "probability": 100,
+    "cond": 65,
+    "aiActId": 1000148,
+    "infoText": "Instant Strengthening"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 301600,
+    "idx": 4,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2258
+    ],
+    "avals": [
+      301602,
+      0
+    ],
+    "script": {},
+    "id": 301601,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 301601,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      3045
+    ],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 301602,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 200,
+    "probability": 100,
+    "cond": 58,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      500
+    ],
+    "avals": [
+      301603,
+      0
+    ],
+    "script": {
+      "forcedSkillSpeed": 1,
+      "voicePlay": "ChrVoice_7100200:0_E200",
+      "enemyMasterEffectType": 1
+    },
+    "id": 301602,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 100,
+    "probability": 100,
+    "cond": 65,
+    "aiActId": 1000148,
+    "infoText": "Instant Strengthening"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 301602,
+    "idx": 3,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 301603,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      800100
+    ],
+    "avals": [
+      301612,
+      0
+    ],
+    "script": {},
+    "id": 301610,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 200,
+    "probability": 100,
+    "cond": -56,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2264
+    ],
+    "avals": [
+      301611,
+      0
+    ],
+    "script": {
+      "forcedSkillSpeed": 1,
+      "voicePlay": "ChrVoice_7100200:0_E170",
+      "enemyMasterEffectType": 1
+    },
+    "id": 301610,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 100,
+    "probability": 100,
+    "cond": 56,
+    "aiActId": 1000149,
+    "infoText": "Vine Shackles"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 301610,
+    "idx": 3,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      800100
+    ],
+    "avals": [
+      301612,
+      0
+    ],
+    "script": {},
+    "id": 301611,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 200,
+    "probability": 100,
+    "cond": -56,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2265
+    ],
+    "avals": [
+      301612,
+      0
+    ],
+    "script": {
+      "forcedSkillSpeed": 1,
+      "voicePlay": "ChrVoice_7100200:0_E140",
+      "enemyMasterEffectType": 1
+    },
+    "id": 301611,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 100,
+    "probability": 100,
+    "cond": 56,
+    "aiActId": 1000150,
+    "infoText": "Dried Thorn Handcuffs"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 301611,
+    "idx": 3,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 301612,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2259
+    ],
+    "avals": [
+      301621,
+      0
+    ],
+    "script": {
+      "forcedSkillSpeed": 1,
+      "voicePlay": "ChrVoice_7100200:0_E280",
+      "enemyMasterEffectType": 2
+    },
+    "id": 301620,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 1000151,
+    "infoText": "I order you with my Command Spell...\nSmash them."
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 301620,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2260
+    ],
+    "avals": [
+      301622,
+      0
+    ],
+    "script": {
+      "forcedSkillSpeed": 1,
+      "voicePlay": "ChrVoice_7100200:0_E310",
+      "enemyMasterEffectType": 2
+    },
+    "id": 301621,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 1000152,
+    "infoText": "I order you with my Command Spell...\nRain down destruction."
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 301621,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 301622,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      8
+    ],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 301630,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 100,
+    "probability": 100,
+    "cond": 78,
+    "aiActId": 1009,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 301630,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 301640,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000174,
+    "infoText": "Skadi's Support...\n“Primordial Rune”"
+  },
+  {
+    "vals": [
+      2248
+    ],
+    "avals": [
+      301652,
+      0
+    ],
+    "script": {},
+    "id": 301650,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 4,
+    "priority": 100,
+    "probability": 100,
+    "cond": 56,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      301651,
+      0
+    ],
+    "script": {},
+    "id": 301650,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 4,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 301651,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 4,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000181,
+    "infoText": "Napoleon's Support...\n“Raging Bombardment”"
+  },
+  {
+    "vals": [
+      0
+    ],
+    "avals": [
+      301652,
+      0
+    ],
+    "script": {},
+    "id": 301651,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 4,
+    "priority": 100,
+    "probability": 100,
+    "cond": 85,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 301652,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 4,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2199
+    ],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 801420,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 200,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 800025,
+    "infoText": "Annihilation Wish"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 801420,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 100,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 1000000,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 0,
+    "priority": 1,
+    "probability": 80,
+    "cond": 0,
+    "aiActId": 1002,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 1000000,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 0,
+    "priority": 1,
+    "probability": 20,
+    "cond": 0,
+    "aiActId": 1004,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 9015010,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 9415001,
+    "infoText": "Lava Shot"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 9015020,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 9415002,
+    "infoText": "Beauty Offered to a Goddess"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 9017600,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 94017601,
+    "infoText": "Support Missiles"
+  },
+  {
+    "vals": [],
+    "avals": [
+      9017971,
+      0
+    ],
+    "script": {},
+    "id": 9017970,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      9017970,
+      0
+    ],
+    "script": {},
+    "id": 9017971,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 94017604,
+    "infoText": "Failed Triple Empress Stream"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 9017980,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 94017605,
+    "infoText": "Everything Turns to Eli"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 9017990,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 94017606,
+    "infoText": "Genocide Missile"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 9018000,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 94017607,
+    "infoText": "Elisabeth's Cheer"
+  },
+  {
+    "vals": [],
+    "avals": [
+      9018011,
+      0
+    ],
+    "script": {},
+    "id": 9018010,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 94016183,
+    "infoText": "- Complete by Defeating the Usual Mastermind -"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 9018011,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 90113010,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 94011301,
+    "infoText": "Emiyamaru Bombardment"
+  },
+  {
+    "vals": [
+      0
+    ],
+    "avals": [
+      90161641,
+      0
+    ],
+    "script": {},
+    "id": 90161640,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 100,
+    "probability": 100,
+    "cond": 70,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 90161640,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      3020
+    ],
+    "avals": [
+      90161642,
+      0
+    ],
+    "script": {},
+    "id": 90161641,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 100,
+    "probability": 100,
+    "cond": -58,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      90161640,
+      0
+    ],
+    "script": {},
+    "id": 90161641,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      3022
+    ],
+    "avals": [
+      90161640,
+      0
+    ],
+    "script": {},
+    "id": 90161642,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 100,
+    "probability": 100,
+    "cond": 59,
+    "aiActId": 94016116,
+    "infoText": "Diffraction Interference"
+  },
+  {
+    "vals": [],
+    "avals": [
+      90161640,
+      0
+    ],
+    "script": {},
+    "id": 90161642,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2123
+    ],
+    "avals": [
+      90161651,
+      0
+    ],
+    "script": {},
+    "id": 90161650,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2124
+    ],
+    "avals": [
+      90161654,
+      0
+    ],
+    "script": {},
+    "id": 90161650,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 200,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2125
+    ],
+    "avals": [
+      90161657,
+      0
+    ],
+    "script": {},
+    "id": 90161650,
+    "idx": 3,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 300,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2123
+    ],
+    "avals": [
+      90161652,
+      0
+    ],
+    "script": {},
+    "id": 90161651,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 94016119,
+    "infoText": "Phantasmagoric：Like a Flower"
+  },
+  {
+    "vals": [],
+    "avals": [
+      90161650,
+      0
+    ],
+    "script": {},
+    "id": 90161651,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2123
+    ],
+    "avals": [
+      90161653,
+      0
+    ],
+    "script": {},
+    "id": 90161652,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 94016120,
+    "infoText": "Phantasmagoric：Like a Flower"
+  },
+  {
+    "vals": [],
+    "avals": [
+      90161650,
+      0
+    ],
+    "script": {},
+    "id": 90161652,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2123
+    ],
+    "avals": [
+      90161650,
+      0
+    ],
+    "script": {},
+    "id": 90161653,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 94016121,
+    "infoText": "Phantasmagoric：Like a Flower"
+  },
+  {
+    "vals": [],
+    "avals": [
+      90161650,
+      0
+    ],
+    "script": {},
+    "id": 90161653,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2124
+    ],
+    "avals": [
+      90161655,
+      0
+    ],
+    "script": {},
+    "id": 90161654,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 94016128,
+    "infoText": "Phantasmagoric：Like the Wind"
+  },
+  {
+    "vals": [],
+    "avals": [
+      90161650,
+      0
+    ],
+    "script": {},
+    "id": 90161654,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2124
+    ],
+    "avals": [
+      90161656,
+      0
+    ],
+    "script": {},
+    "id": 90161655,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 94016127,
+    "infoText": "Phantasmagoric：Like the Wind"
+  },
+  {
+    "vals": [],
+    "avals": [
+      90161650,
+      0
+    ],
+    "script": {},
+    "id": 90161655,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2124
+    ],
+    "avals": [
+      90161650,
+      0
+    ],
+    "script": {},
+    "id": 90161656,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 94016126,
+    "infoText": "Phantasmagoric：Like the Wind"
+  },
+  {
+    "vals": [],
+    "avals": [
+      90161650,
+      0
+    ],
+    "script": {},
+    "id": 90161656,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2125
+    ],
+    "avals": [
+      90161658,
+      0
+    ],
+    "script": {},
+    "id": 90161657,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 94016122,
+    "infoText": "Phantasmagoric：Like a Beast"
+  },
+  {
+    "vals": [],
+    "avals": [
+      90161650,
+      0
+    ],
+    "script": {},
+    "id": 90161657,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2125
+    ],
+    "avals": [
+      90161659,
+      0
+    ],
+    "script": {},
+    "id": 90161658,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 94016123,
+    "infoText": "Phantasmagoric：Like a Beast"
+  },
+  {
+    "vals": [],
+    "avals": [
+      90161650,
+      0
+    ],
+    "script": {},
+    "id": 90161658,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2125
+    ],
+    "avals": [
+      90161660,
+      0
+    ],
+    "script": {},
+    "id": 90161659,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 94016124,
+    "infoText": "Phantasmagoric：Like a Beast"
+  },
+  {
+    "vals": [],
+    "avals": [
+      90161650,
+      0
+    ],
+    "script": {},
+    "id": 90161659,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2125
+    ],
+    "avals": [
+      90161650,
+      0
+    ],
+    "script": {},
+    "id": 90161660,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 94016125,
+    "infoText": "Phantasmagoric：Like a Beast"
+  },
+  {
+    "vals": [],
+    "avals": [
+      90161650,
+      0
+    ],
+    "script": {},
+    "id": 90161660,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2158
+    ],
+    "avals": [
+      90161831,
+      0
+    ],
+    "script": {},
+    "id": 90161830,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 94016157,
+    "infoText": "Sublimation of the Soul"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 90161830,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2158
+    ],
+    "avals": [
+      90161832,
+      0
+    ],
+    "script": {},
+    "id": 90161831,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 94016158,
+    "infoText": "Sublimation of the Soul"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 90161831,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2158
+    ],
+    "avals": [
+      90161833,
+      0
+    ],
+    "script": {},
+    "id": 90161832,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 94016159,
+    "infoText": "Sublimation of the Soul"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 90161832,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2158
+    ],
+    "avals": [
+      90161834,
+      0
+    ],
+    "script": {},
+    "id": 90161833,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 94016160,
+    "infoText": "Sublimation of the Soul"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 90161833,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2158
+    ],
+    "avals": [
+      90161835,
+      0
+    ],
+    "script": {},
+    "id": 90161834,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 94016161,
+    "infoText": "Sublimation of the Soul"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 90161834,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2158
+    ],
+    "avals": [
+      90161836,
+      0
+    ],
+    "script": {},
+    "id": 90161835,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 94016162,
+    "infoText": "Sublimation of the Soul"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 90161835,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2158
+    ],
+    "avals": [
+      90161837,
+      0
+    ],
+    "script": {},
+    "id": 90161836,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 94016163,
+    "infoText": "Sublimation of the Soul"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 90161836,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2158
+    ],
+    "avals": [
+      90161838,
+      0
+    ],
+    "script": {},
+    "id": 90161837,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 94016164,
+    "infoText": "Sublimation of the Soul"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 90161837,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2158
+    ],
+    "avals": [
+      90161839,
+      0
+    ],
+    "script": {},
+    "id": 90161838,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 94016165,
+    "infoText": "Sublimation of the Soul"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 90161838,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2158
+    ],
+    "avals": [
+      90161840,
+      0
+    ],
+    "script": {},
+    "id": 90161839,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 94016166,
+    "infoText": "Sublimation of the Soul"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 90161839,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2158
+    ],
+    "avals": [
+      90161841,
+      0
+    ],
+    "script": {},
+    "id": 90161840,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 94016167,
+    "infoText": "Sublimation of the Soul"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 90161840,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2158
+    ],
+    "avals": [
+      90161842,
+      0
+    ],
+    "script": {},
+    "id": 90161841,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 94016168,
+    "infoText": "Sublimation of the Soul"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 90161841,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2158
+    ],
+    "avals": [
+      90161843,
+      0
+    ],
+    "script": {},
+    "id": 90161842,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 94016169,
+    "infoText": "Sublimation of the Soul"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 90161842,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2158
+    ],
+    "avals": [
+      90161844,
+      0
+    ],
+    "script": {},
+    "id": 90161843,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 94016170,
+    "infoText": "Sublimation of the Soul"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 90161843,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2158
+    ],
+    "avals": [
+      90161845,
+      0
+    ],
+    "script": {},
+    "id": 90161844,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 94016171,
+    "infoText": "Sublimation of the Soul"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 90161844,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2158
+    ],
+    "avals": [
+      90161846,
+      0
+    ],
+    "script": {},
+    "id": 90161845,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 94016172,
+    "infoText": "Sublimation of the Soul"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 90161845,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2158
+    ],
+    "avals": [
+      90161847,
+      0
+    ],
+    "script": {},
+    "id": 90161846,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 94016173,
+    "infoText": "Sublimation of the Soul"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 90161846,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2158
+    ],
+    "avals": [
+      90161848,
+      0
+    ],
+    "script": {},
+    "id": 90161847,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 94016174,
+    "infoText": "Sublimation of the Soul"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 90161847,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2158
+    ],
+    "avals": [
+      90161849,
+      0
+    ],
+    "script": {},
+    "id": 90161848,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 94016175,
+    "infoText": "Sublimation of the Soul"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 90161848,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 90161849,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2162
+    ],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 90161850,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 94016176,
+    "infoText": "Cloak of Evasion"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 90161850,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      90161861,
+      0
+    ],
+    "script": {},
+    "id": 90161860,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 94016183,
+    "infoText": "Clear by defeating First Hassan"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 90161861,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 90161870,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 100,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 94016184,
+    "infoText": "Judgment"
+  },
+  {
+    "vals": [
+      602500
+    ],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 90161870,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 200,
+    "probability": 100,
+    "cond": 56,
+    "aiActId": 94016185,
+    "infoText": "Judgment"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 90161870,
+    "idx": 3,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      201800
+    ],
+    "avals": [
+      90161881,
+      0
+    ],
+    "script": {},
+    "id": 90161880,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 90161880,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      702000
+    ],
+    "avals": [
+      90161882,
+      0
+    ],
+    "script": {},
+    "id": 90161881,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 94016187,
+    "infoText": "Kid Gil \"This weapon's meant for you\""
+  },
+  {
+    "vals": [
+      201800
+    ],
+    "avals": [
+      90161882,
+      0
+    ],
+    "script": {},
+    "id": 90161881,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 200,
+    "probability": 100,
+    "cond": -53,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 90161881,
+    "idx": 3,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 90161882,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      401900
+    ],
+    "avals": [
+      90161891,
+      0
+    ],
+    "script": {},
+    "id": 90161890,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 90161890,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      601900
+    ],
+    "avals": [
+      90161892,
+      0
+    ],
+    "script": {},
+    "id": 90161891,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 94016188,
+    "infoText": "Martha \"Show me your serious side sometimes\""
+  },
+  {
+    "vals": [
+      401900
+    ],
+    "avals": [
+      90161892,
+      0
+    ],
+    "script": {},
+    "id": 90161891,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 200,
+    "probability": 100,
+    "cond": -53,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 90161891,
+    "idx": 3,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 90161892,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      501700
+    ],
+    "avals": [
+      90161901,
+      0
+    ],
+    "script": {},
+    "id": 90161900,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 90161900,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      301200
+    ],
+    "avals": [
+      90161902,
+      0
+    ],
+    "script": {},
+    "id": 90161901,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 94016189,
+    "infoText": "Medea Lily \"I think burning love is wonderful!\""
+  },
+  {
+    "vals": [
+      501700
+    ],
+    "avals": [
+      90161902,
+      0
+    ],
+    "script": {},
+    "id": 90161901,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 200,
+    "probability": 100,
+    "cond": -53,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 90161901,
+    "idx": 3,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 90161902,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      702000
+    ],
+    "avals": [
+      90161911,
+      0
+    ],
+    "script": {},
+    "id": 90161910,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 90161910,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      501700
+    ],
+    "avals": [
+      90161912,
+      0
+    ],
+    "script": {},
+    "id": 90161911,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 94016190,
+    "infoText": "Cú Chulainn Alter \"Hang in there, Missy!\""
+  },
+  {
+    "vals": [
+      702000
+    ],
+    "avals": [
+      90161912,
+      0
+    ],
+    "script": {},
+    "id": 90161911,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 200,
+    "probability": 100,
+    "cond": -53,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 90161911,
+    "idx": 3,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 90161912,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      601900
+    ],
+    "avals": [
+      90161921,
+      0
+    ],
+    "script": {},
+    "id": 90161920,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 90161920,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      201800
+    ],
+    "avals": [
+      90161922,
+      0
+    ],
+    "script": {},
+    "id": 90161921,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 94016191,
+    "infoText": "Fuuma Kotarou \"Ancient King Brigade\""
+  },
+  {
+    "vals": [
+      601900
+    ],
+    "avals": [
+      90161922,
+      0
+    ],
+    "script": {},
+    "id": 90161921,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 200,
+    "probability": 100,
+    "cond": -53,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 90161921,
+    "idx": 3,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 90161922,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      301200
+    ],
+    "avals": [
+      90161931,
+      0
+    ],
+    "script": {},
+    "id": 90161930,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 90161930,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      702000
+    ],
+    "avals": [
+      90161932,
+      0
+    ],
+    "script": {},
+    "id": 90161931,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 94016192,
+    "infoText": "Brynhild \"Protection for the heroes\""
+  },
+  {
+    "vals": [
+      301200
+    ],
+    "avals": [
+      90161932,
+      0
+    ],
+    "script": {},
+    "id": 90161931,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 200,
+    "probability": 100,
+    "cond": -53,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 90161931,
+    "idx": 3,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 90161932,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      9939580
+    ],
+    "avals": [
+      90161941,
+      0
+    ],
+    "script": {},
+    "id": 90161940,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 90161940,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      201800
+    ],
+    "avals": [
+      90161942,
+      0
+    ],
+    "script": {},
+    "id": 90161941,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 94016193,
+    "infoText": "Nero \"Treasures abound! Yeah!\" "
+  },
+  {
+    "vals": [
+      9939580
+    ],
+    "avals": [
+      90161942,
+      0
+    ],
+    "script": {},
+    "id": 90161941,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 200,
+    "probability": 100,
+    "cond": -53,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 90161941,
+    "idx": 3,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 90161942,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      9939580
+    ],
+    "avals": [
+      90161951,
+      0
+    ],
+    "script": {},
+    "id": 90161950,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 90161950,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      401900
+    ],
+    "avals": [
+      90161952,
+      0
+    ],
+    "script": {},
+    "id": 90161951,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 94016194,
+    "infoText": "Nero \"Go, great iron-shelled dragon!\""
+  },
+  {
+    "vals": [
+      9939580
+    ],
+    "avals": [
+      90161952,
+      0
+    ],
+    "script": {},
+    "id": 90161951,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 200,
+    "probability": 100,
+    "cond": -53,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 90161951,
+    "idx": 3,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 90161952,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      9939580
+    ],
+    "avals": [
+      90161961,
+      0
+    ],
+    "script": {},
+    "id": 90161960,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 90161960,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      501700
+    ],
+    "avals": [
+      90161962,
+      0
+    ],
+    "script": {},
+    "id": 90161961,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 94016195,
+    "infoText": "Nero \"Give me a massage!\""
+  },
+  {
+    "vals": [
+      9939580
+    ],
+    "avals": [
+      90161962,
+      0
+    ],
+    "script": {},
+    "id": 90161961,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 200,
+    "probability": 100,
+    "cond": -53,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 90161961,
+    "idx": 3,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 90161962,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      9939580
+    ],
+    "avals": [
+      90161971,
+      0
+    ],
+    "script": {},
+    "id": 90161970,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 90161970,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      702000
+    ],
+    "avals": [
+      90161972,
+      0
+    ],
+    "script": {},
+    "id": 90161971,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 94016196,
+    "infoText": "Nero \"It's like a storm of needles!\""
+  },
+  {
+    "vals": [
+      9939580
+    ],
+    "avals": [
+      90161972,
+      0
+    ],
+    "script": {},
+    "id": 90161971,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 200,
+    "probability": 100,
+    "cond": -53,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 90161971,
+    "idx": 3,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 90161972,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      9939580
+    ],
+    "avals": [
+      90161981,
+      0
+    ],
+    "script": {},
+    "id": 90161980,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 90161980,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      601900
+    ],
+    "avals": [
+      90161982,
+      0
+    ],
+    "script": {},
+    "id": 90161981,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 94016197,
+    "infoText": "Nero \"Ninja!? Are you a ninja!?\""
+  },
+  {
+    "vals": [
+      9939580
+    ],
+    "avals": [
+      90161982,
+      0
+    ],
+    "script": {},
+    "id": 90161981,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 200,
+    "probability": 100,
+    "cond": -53,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 90161981,
+    "idx": 3,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 90161982,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      9939580
+    ],
+    "avals": [
+      90161991,
+      0
+    ],
+    "script": {},
+    "id": 90161990,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 90161990,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      301200
+    ],
+    "avals": [
+      90161992,
+      0
+    ],
+    "script": {},
+    "id": 90161991,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 94016198,
+    "infoText": "Nero \"True burning love! The recipient will die.\""
+  },
+  {
+    "vals": [
+      9939580
+    ],
+    "avals": [
+      90161992,
+      0
+    ],
+    "script": {},
+    "id": 90161991,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 200,
+    "probability": 100,
+    "cond": -53,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 90161991,
+    "idx": 3,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 90161992,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2187
+    ],
+    "avals": [
+      90188341,
+      0
+    ],
+    "script": {},
+    "id": 90188340,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 90188029,
+    "infoText": "Blessing of Kur"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 90188340,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 90188341,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 90240010,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 94011301,
+    "infoText": "Emiyamaru Bombardment"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 90251210,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 94024903,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      5
+    ],
+    "avals": [
+      90251211,
+      0
+    ],
+    "script": {},
+    "id": 90251210,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 100,
+    "probability": 100,
+    "cond": 78,
+    "aiActId": 1009,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 90251211,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 90251220,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 94024904,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      5
+    ],
+    "avals": [
+      90251231,
+      0
+    ],
+    "script": {},
+    "id": 90251230,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 100,
+    "probability": 100,
+    "cond": 78,
+    "aiActId": 1009,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 90251231,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 90251730,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 94024920,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2245
+    ],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 90251730,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 100,
+    "probability": 100,
+    "cond": -53,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 90251740,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 94024921,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      301700
+    ],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 90251740,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 100,
+    "probability": 100,
+    "cond": -53,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 90251750,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 94024922,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2246
+    ],
+    "avals": [
+      90251751,
+      0
+    ],
+    "script": {},
+    "id": 90251750,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 94024923,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 90251751,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 94024923,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      702400
+    ],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 90251751,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 100,
+    "probability": 100,
+    "cond": -53,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      94024381,
+      0
+    ],
+    "script": {},
+    "id": 94024380,
+    "idx": 1,
+    "actNum": 2,
+    "timing": 2,
+    "priority": 1,
+    "probability": 25,
+    "cond": 0,
+    "aiActId": 94023301,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94024380,
+    "idx": 2,
+    "actNum": 2,
+    "timing": 2,
+    "priority": 1,
+    "probability": 75,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94024381,
+    "idx": 1,
+    "actNum": 2,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      94024411,
+      0
+    ],
+    "script": {},
+    "id": 94024410,
+    "idx": 1,
+    "actNum": 2,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 94023302,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94024411,
+    "idx": 1,
+    "actNum": -1,
+    "timing": -1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      94024441,
+      0
+    ],
+    "script": {},
+    "id": 94024440,
+    "idx": 1,
+    "actNum": 1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 94023303,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94024441,
+    "idx": 1,
+    "actNum": -1,
+    "timing": -1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94024470,
+    "idx": 1,
+    "actNum": 2,
+    "timing": 2,
+    "priority": 1,
+    "probability": 25,
+    "cond": 0,
+    "aiActId": 94023304,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      94024501,
+      0
+    ],
+    "script": {},
+    "id": 94024500,
+    "idx": 1,
+    "actNum": 2,
+    "timing": 2,
+    "priority": 1,
+    "probability": 25,
+    "cond": 0,
+    "aiActId": 94023305,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94024500,
+    "idx": 2,
+    "actNum": 2,
+    "timing": 2,
+    "priority": 1,
+    "probability": 75,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94024501,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      94024531,
+      0
+    ],
+    "script": {},
+    "id": 94024530,
+    "idx": 1,
+    "actNum": 2,
+    "timing": 2,
+    "priority": 1,
+    "probability": 25,
+    "cond": 0,
+    "aiActId": 94023307,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94024530,
+    "idx": 2,
+    "actNum": 2,
+    "timing": 2,
+    "priority": 1,
+    "probability": 75,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94024531,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      301200
+    ],
+    "avals": [
+      94196221,
+      0
+    ],
+    "script": {},
+    "id": 94196220,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94196220,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      1100300
+    ],
+    "avals": [
+      94196222,
+      0
+    ],
+    "script": {},
+    "id": 94196221,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 94019667,
+    "infoText": "I Will Be of Help!"
+  },
+  {
+    "vals": [
+      1100300
+    ],
+    "avals": [
+      94196222,
+      0
+    ],
+    "script": {},
+    "id": 94196221,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": -53,
+    "aiActId": 94019668,
+    "infoText": "Where's My Big Sister?"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94196222,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      94200691,
+      0
+    ],
+    "script": {},
+    "id": 94200690,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 94020019,
+    "infoText": "Back Attack!"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94200691,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      1123
+    ],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94208800,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 94020802,
+    "infoText": "By the Grace of Chocolate"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94208800,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2192
+    ],
+    "avals": [
+      94214241,
+      0
+    ],
+    "script": {},
+    "id": 94214240,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 200,
+    "probability": 100,
+    "cond": 56,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2192
+    ],
+    "avals": [
+      94214242,
+      0
+    ],
+    "script": {},
+    "id": 94214240,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 100,
+    "probability": 100,
+    "cond": 56,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94214240,
+    "idx": 3,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94214240,
+    "idx": 4,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2196
+    ],
+    "avals": [
+      94214240,
+      0
+    ],
+    "script": {},
+    "id": 94214241,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 200,
+    "probability": 100,
+    "cond": -59,
+    "aiActId": 94021305,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      94214240,
+      0
+    ],
+    "script": {},
+    "id": 94214241,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2196
+    ],
+    "avals": [
+      94214240,
+      0
+    ],
+    "script": {},
+    "id": 94214242,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 100,
+    "probability": 100,
+    "cond": -59,
+    "aiActId": 94021305,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      94214240,
+      0
+    ],
+    "script": {},
+    "id": 94214242,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  }
+]
