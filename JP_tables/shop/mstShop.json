@@ -5304,6 +5304,72 @@
       9570300
     ],
     "script": {},
+    "id": 11177,
+    "baseShopId": 11177,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 1000,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 20,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "英霊結晶・星のフォウくん",
+    "detail": "★3ALLのHPアップカード1枚へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1593529200,
+    "closedAt": 1596207599
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      15
+    ],
+    "targetIds": [
+      9670300
+    ],
+    "script": {},
+    "id": 11178,
+    "baseShopId": 11178,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 2000,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 20,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "英霊結晶・太陽のフォウくん",
+    "detail": "★3ALLのATKアップカード1枚へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1593529200,
+    "closedAt": 1596207599
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      15
+    ],
+    "targetIds": [
+      9570300
+    ],
+    "script": {},
     "id": 14004,
     "baseShopId": 14004,
     "eventId": 0,
@@ -9687,6 +9753,72 @@
       0
     ],
     "prices": [
+      20
+    ],
+    "targetIds": [
+      4001
+    ],
+    "script": {},
+    "id": 14137,
+    "baseShopId": 14137,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 100,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 5,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "呼符",
+    "detail": "聖晶石召喚1回可能な呼符1枚へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1593529200,
+    "closedAt": 1596207599
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      40
+    ],
+    "targetIds": [
+      11011
+    ],
+    "script": {},
+    "id": 14138,
+    "baseShopId": 14138,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 200,
+    "purchaseType": 5,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 5,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "経験値カードセット",
+    "detail": "★4ALLの経験値カード10枚へ交換",
+    "infoMessage": "「経験値カード」のセットと交換できます。",
+    "warningMessage": "",
+    "imageId": 14,
+    "bgImageId": 0,
+    "openedAt": 1593529200,
+    "closedAt": 1596207599
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
       100
     ],
     "targetIds": [
@@ -12552,6 +12684,105 @@
     "bgImageId": 0,
     "openedAt": 1590937200,
     "closedAt": 1593529199
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      100
+    ],
+    "targetIds": [
+      5000
+    ],
+    "script": {},
+    "id": 18088,
+    "baseShopId": 18088,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 20,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "クイック・コード・オープナー",
+    "detail": "【コマンドコードスロット開放素材】へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1593529200,
+    "closedAt": 1596207599
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      100
+    ],
+    "targetIds": [
+      5001
+    ],
+    "script": {},
+    "id": 18089,
+    "baseShopId": 18089,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 21,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "アーツ・コード・オープナー",
+    "detail": "【コマンドコードスロット開放素材】へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1593529200,
+    "closedAt": 1596207599
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      100
+    ],
+    "targetIds": [
+      5002
+    ],
+    "script": {},
+    "id": 18090,
+    "baseShopId": 18090,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 22,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "バスター・コード・オープナー",
+    "detail": "【コマンドコードスロット開放素材】へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1593529200,
+    "closedAt": 1596207599
   },
   {
     "itemIds": [
@@ -28458,6 +28689,204 @@
     "bgImageId": 0,
     "openedAt": 1592211600,
     "closedAt": 1593403199
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      403200
+    ],
+    "script": {},
+    "id": 4000486,
+    "baseShopId": 4000335,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 822,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "司馬懿〔ライネス〕　",
+    "detail": "期間限定★5サーヴァントへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1593421200,
+    "closedAt": 1593701999
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      900500
+    ],
+    "script": {},
+    "id": 4000487,
+    "baseShopId": 4000083,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 823,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "シャーロック・ホームズ",
+    "detail": "期間限定★5サーヴァントへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1593421200,
+    "closedAt": 1593529199
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      900500
+    ],
+    "script": {},
+    "id": 4000488,
+    "baseShopId": 4000083,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 823,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "シャーロック・ホームズ",
+    "detail": "期間限定★5サーヴァントへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1593702000,
+    "closedAt": 1594047599
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      403200
+    ],
+    "script": {},
+    "id": 4000489,
+    "baseShopId": 4000335,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 822,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "司馬懿〔ライネス〕　",
+    "detail": "期間限定★5サーヴァントへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1593874800,
+    "closedAt": 1594220399
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      900500
+    ],
+    "script": {},
+    "id": 4000490,
+    "baseShopId": 4000083,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 823,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "シャーロック・ホームズ",
+    "detail": "期間限定★5サーヴァントへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1594220400,
+    "closedAt": 1594612799
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      403200
+    ],
+    "script": {},
+    "id": 4000491,
+    "baseShopId": 4000335,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 822,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "司馬懿〔ライネス〕　",
+    "detail": "期間限定★5サーヴァントへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1594393200,
+    "closedAt": 1594612799
   },
   {
     "itemIds": [

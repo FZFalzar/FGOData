@@ -424,6 +424,30 @@
     "noticeMessage": "柳生但馬守宗矩をスターティングメンバーに設定してください。"
   },
   {
+    "questId": 91103301,
+    "phase": 1,
+    "restrictionId": 91000028,
+    "frequencyType": 3,
+    "dialogMessage": "制限対象サーヴァントはサブメンバーとして出撃できません。",
+    "noticeMessage": "シグルドをスターティングメンバーに設定してください。"
+  },
+  {
+    "questId": 91103301,
+    "phase": 2,
+    "restrictionId": 91000028,
+    "frequencyType": 3,
+    "dialogMessage": "制限対象サーヴァントはサブメンバーとして出撃できません。",
+    "noticeMessage": "シグルドをスターティングメンバーに設定してください。"
+  },
+  {
+    "questId": 91103301,
+    "phase": 3,
+    "restrictionId": 91000029,
+    "frequencyType": 0,
+    "dialogMessage": "このクエストを開始するには\n所持サーヴァントから1騎\n編成してください",
+    "noticeMessage": "NPC固定出撃"
+  },
+  {
     "questId": 91103601,
     "phase": 1,
     "restrictionId": 91000019,
@@ -470,6 +494,14 @@
     "frequencyType": 1,
     "dialogMessage": "このクエストを開始するには\n所持サーヴァントから1騎\n編成してください",
     "noticeMessage": "紅閻魔のみ選択可能"
+  },
+  {
+    "questId": 91103901,
+    "phase": 1,
+    "restrictionId": 91000030,
+    "frequencyType": 0,
+    "dialogMessage": "",
+    "noticeMessage": ""
   },
   {
     "questId": 91201102,
@@ -592,6 +624,30 @@
     "noticeMessage": "ブラダマンテをスターティングメンバーに設定してください。"
   },
   {
+    "questId": 91403201,
+    "phase": 1,
+    "restrictionId": 91000031,
+    "frequencyType": 0,
+    "dialogMessage": "0",
+    "noticeMessage": "司馬懿〔ライネス〕出撃不可"
+  },
+  {
+    "questId": 91403201,
+    "phase": 2,
+    "restrictionId": 91000032,
+    "frequencyType": 3,
+    "dialogMessage": "制限対象サーヴァントはサブメンバーとして出撃できません。",
+    "noticeMessage": "司馬懿〔ライネス〕をスターティングメンバーに設定してください。"
+  },
+  {
+    "questId": 91403201,
+    "phase": 4,
+    "restrictionId": 91000032,
+    "frequencyType": 3,
+    "dialogMessage": "制限対象サーヴァントはサブメンバーとして出撃できません。",
+    "noticeMessage": "司馬懿〔ライネス〕をスターティングメンバーに設定してください。"
+  },
+  {
     "questId": 91503501,
     "phase": 3,
     "restrictionId": 91000017,
@@ -678,6 +734,46 @@
     "frequencyType": 0,
     "dialogMessage": "",
     "noticeMessage": ""
+  },
+  {
+    "questId": 91900501,
+    "phase": 1,
+    "restrictionId": 91000034,
+    "frequencyType": 0,
+    "dialogMessage": "",
+    "noticeMessage": ""
+  },
+  {
+    "questId": 91900501,
+    "phase": 2,
+    "restrictionId": 91000035,
+    "frequencyType": 0,
+    "dialogMessage": "このクエストを開始するには\n所持サーヴァントから1騎\n編成してください",
+    "noticeMessage": "NPC固定出撃"
+  },
+  {
+    "questId": 91900501,
+    "phase": 3,
+    "restrictionId": 91000036,
+    "frequencyType": 3,
+    "dialogMessage": "制限対象サーヴァントはサブメンバーとして出撃できません。",
+    "noticeMessage": "シャーロック・ホームズをスターティングメンバーに設定してください。"
+  },
+  {
+    "questId": 91900601,
+    "phase": 1,
+    "restrictionId": 91000037,
+    "frequencyType": 3,
+    "dialogMessage": "制限対象サーヴァントはサブメンバーとして出撃できません。",
+    "noticeMessage": "始皇帝をスターティングメンバーに設定してください。"
+  },
+  {
+    "questId": 91900601,
+    "phase": 2,
+    "restrictionId": 91000037,
+    "frequencyType": 3,
+    "dialogMessage": "制限対象サーヴァントはサブメンバーとして出撃できません。",
+    "noticeMessage": "始皇帝をスターティングメンバーに設定してください。"
   },
   {
     "questId": 94007901,

@@ -36052,6 +36052,89 @@
     "effectId": 0
   },
   {
+    "vals": [
+      3005
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2906,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "死亡時発動",
+    "detail": "HPが0になった時にファヴニールの攻撃力をダウン＆防御力をダウン",
+    "iconId": 543,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2907,
+    "buffGroup": 0,
+    "type": 86,
+    "name": "被ダメージ時発動(呪い付与)",
+    "detail": "攻撃を受けると敵単体に呪い状態(5ターン)を付与する",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2908,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "ヌシの重圧",
+    "detail": "全ての攻撃に対する耐性を得る",
+    "iconId": 334,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2909,
+    "buffGroup": 0,
+    "type": 137,
+    "name": "焚書坑儒",
+    "detail": "自身の攻撃時に中確率で呪い状態(2ターン)を付与する＆低確率でスキル封印状態(1ターン)を付与＆低確率で宝具封印状態(1ターン)を付与",
+    "iconId": 528,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2910,
+    "buffGroup": 0,
+    "type": 137,
+    "name": "",
+    "detail": "",
+    "iconId": 528,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
     "vals": [],
     "tvals": [],
     "ckSelfIndv": [],
@@ -36064,6 +36147,36 @@
     "detail": "",
     "iconId": 555,
     "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2912,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "死亡時発動(強化)",
+    "detail": "HPが0になった時に味方単体の宝具チャージをMAXにする",
+    "iconId": 350,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2913,
+    "buffGroup": 0,
+    "type": 9,
+    "name": "ヌシの重圧",
+    "detail": "攻撃力をアップ",
+    "iconId": 300,
+    "maxRate": 5000,
     "effectId": 0
   }
 ]
