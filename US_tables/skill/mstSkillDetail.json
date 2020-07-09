@@ -1455,6 +1455,11 @@
     "detailShort": "Increase Quick Card effectiveness [{0}] (3 turns) & increase NP Strength [{0}] (3 turns) for yourself"
   },
   {
+    "id": 127015,
+    "detail": "Increase Quick Card effectiveness [{0}] (3 turns) & increase Quick Card Critical Strength [{0}] (3 turns) for one ally",
+    "detailShort": "Increase Quick Card effectiveness [{0}] (3 turns) & increase Quick Card Critical Strength [{0}] (3 turns) for one ally"
+  },
+  {
     "id": 127250,
     "detail": "Increase Critical Strength [{0}] (3 turns) & Debuff Resist [{0}] (3 turns) & NP Gauge [{0}][g][o]▲[/o][/g] for yourself",
     "detailShort": "Increase Critical Strength [{0}] (3 turns) & Debuff Resist [{0}] (3 turns) & NP Gauge [{0}][g][o]▲[/o][/g] for yourself"
@@ -1573,6 +1578,11 @@
     "id": 144550,
     "detail": "Apply Guts to one ally (1 time, 3 turns) [{0}]",
     "detailShort": "Apply Guts to one ally (1 time, 3 turns) [{0}]"
+  },
+  {
+    "id": 144551,
+    "detail": "Apply Guts (1 time, 3 turns) [{0}] & increase NP Gain [{0}] (3 turns) [g][o]▲[/o][/g] for one ally",
+    "detailShort": "Apply Guts (1 time, 3 turns) [{0}] & increase NP Gain [{0}] (3 turns) [g][o]▲[/o][/g] for one ally"
   },
   {
     "id": 145550,
@@ -3485,6 +3495,16 @@
     "detailShort": "Increase NP Gain each turn [{0}] (3 turns) & restore HP each turn [{0}] (3 turns) & gain C. Stars each turn [{0}] (3 turns) for yourself"
   },
   {
+    "id": 497450,
+    "detail": "Decrease DEF [{0}] (3 turns) & decrease Critical Rate [{0}] (3 turns) for all enemies",
+    "detailShort": "Decrease DEF [{0}] (3 turns) & decrease Critical Rate [{0}] (3 turns) for all enemies"
+  },
+  {
+    "id": 498451,
+    "detail": "Increase a single ally's NP Gauge [{0}]",
+    "detailShort": "Increase a single ally's NP Gauge [{0}]"
+  },
+  {
     "id": 499450,
     "detail": "Increase all allies' ATK [{0}] (3 turns) + increase your ATK (1 turn)",
     "detailShort": "Increase all allies' ATK [{0}] (3 turns) + increase your ATK (1 turn)"
@@ -3493,6 +3513,16 @@
     "id": 500451,
     "detail": "Increase NP Strength [{0}] (1 turn) & C. Star Drop Rate [{0}] (1 turn) for all allies",
     "detailShort": "Increase NP Strength [{0}] (1 turn) & C. Star Drop Rate [{0}] (1 turn) for all allies"
+  },
+  {
+    "id": 501650,
+    "detail": "Increase NP Gauge [{0}] [g][o]▲[/o][/g] & gain a large amount of C. Stars [{0}] for yourself",
+    "detailShort": "Increase NP Gauge [{0}] [g][o]▲[/o][/g] & gain a large amount of C. Stars [{0}] for yourself"
+  },
+  {
+    "id": 502550,
+    "detail": "Increase DEF [{0}] (3 turns) & increase Max HP [{0}] (3 turns) [g][o]▲[/o][/g] & apply Debuff Immune (1 turn) [g][o]▲[/o][/g] for yourself",
+    "detailShort": "Increase DEF [{0}] (3 turns) & increase Max HP [{0}] (3 turns) [g][o]▲[/o][/g] & apply Debuff Immune (1 turn) [g][o]▲[/o][/g] for yourself"
   },
   {
     "id": 940001,
@@ -10243,6 +10273,301 @@
     "id": 991318,
     "detail": "Increase NP Gain by 10% & Critical Strength by 10% for all allies only if [servantName 303300] (Lancer) is equipped with this Craft Essence when she is on the field.",
     "detailShort": "Increase NP Gain by 10% & Critical Strength by 10% for all allies only if [servantName 303300] (Lancer) is equipped with this Craft Essence when she is on the field."
+  },
+  {
+    "id": 991324,
+    "detail": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50",
+    "detailShort": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50"
+  },
+  {
+    "id": 991325,
+    "detail": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50",
+    "detailShort": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50"
+  },
+  {
+    "id": 991326,
+    "detail": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50",
+    "detailShort": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50"
+  },
+  {
+    "id": 991327,
+    "detail": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50",
+    "detailShort": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50"
+  },
+  {
+    "id": 991328,
+    "detail": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50",
+    "detailShort": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50"
+  },
+  {
+    "id": 991329,
+    "detail": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50",
+    "detailShort": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50"
+  },
+  {
+    "id": 991330,
+    "detail": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50",
+    "detailShort": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50"
+  },
+  {
+    "id": 991331,
+    "detail": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50",
+    "detailShort": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50"
+  },
+  {
+    "id": 991332,
+    "detail": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50",
+    "detailShort": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50"
+  },
+  {
+    "id": 991333,
+    "detail": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50",
+    "detailShort": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50"
+  },
+  {
+    "id": 991334,
+    "detail": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50",
+    "detailShort": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50"
+  },
+  {
+    "id": 991335,
+    "detail": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50",
+    "detailShort": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50"
+  },
+  {
+    "id": 991336,
+    "detail": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50",
+    "detailShort": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50"
+  },
+  {
+    "id": 991337,
+    "detail": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50",
+    "detailShort": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50"
+  },
+  {
+    "id": 991338,
+    "detail": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50",
+    "detailShort": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50"
+  },
+  {
+    "id": 991339,
+    "detail": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50",
+    "detailShort": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50"
+  },
+  {
+    "id": 991340,
+    "detail": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50",
+    "detailShort": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50"
+  },
+  {
+    "id": 991341,
+    "detail": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50",
+    "detailShort": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50"
+  },
+  {
+    "id": 991342,
+    "detail": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50",
+    "detailShort": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50"
+  },
+  {
+    "id": 991343,
+    "detail": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50",
+    "detailShort": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50"
+  },
+  {
+    "id": 991344,
+    "detail": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50",
+    "detailShort": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50"
+  },
+  {
+    "id": 991345,
+    "detail": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50",
+    "detailShort": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50"
+  },
+  {
+    "id": 991346,
+    "detail": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50",
+    "detailShort": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50"
+  },
+  {
+    "id": 991347,
+    "detail": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50",
+    "detailShort": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50"
+  },
+  {
+    "id": 991348,
+    "detail": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50",
+    "detailShort": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50"
+  },
+  {
+    "id": 991349,
+    "detail": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50",
+    "detailShort": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50"
+  },
+  {
+    "id": 991350,
+    "detail": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50",
+    "detailShort": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50"
+  },
+  {
+    "id": 991351,
+    "detail": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50",
+    "detailShort": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50"
+  },
+  {
+    "id": 991352,
+    "detail": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50",
+    "detailShort": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50"
+  },
+  {
+    "id": 991353,
+    "detail": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50",
+    "detailShort": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50"
+  },
+  {
+    "id": 991354,
+    "detail": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50",
+    "detailShort": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50"
+  },
+  {
+    "id": 991355,
+    "detail": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50",
+    "detailShort": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50"
+  },
+  {
+    "id": 991356,
+    "detail": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50",
+    "detailShort": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50"
+  },
+  {
+    "id": 991357,
+    "detail": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50",
+    "detailShort": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50"
+  },
+  {
+    "id": 991358,
+    "detail": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50",
+    "detailShort": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50"
+  },
+  {
+    "id": 991359,
+    "detail": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50",
+    "detailShort": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50"
+  },
+  {
+    "id": 991360,
+    "detail": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50",
+    "detailShort": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50"
+  },
+  {
+    "id": 991361,
+    "detail": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50",
+    "detailShort": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50"
+  },
+  {
+    "id": 991362,
+    "detail": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50",
+    "detailShort": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50"
+  },
+  {
+    "id": 991363,
+    "detail": "Increase C. Star Gather Rate by 100% & increase Critical Strength by 10% & begin battle with NP charged at 50% for yourself",
+    "detailShort": "Increase C. Star Gather Rate by 100% & increase Critical Strength by 10% & begin battle with NP charged at 50% for yourself"
+  },
+  {
+    "id": 991364,
+    "detail": "Increase C. Star Gather Rate by 200% & increase Critical Strength by 15% & begin battle with NP charged at 60% for yourself [MAX]",
+    "detailShort": "Increase C. Star Gather Rate by 200% & increase Critical Strength by 15% & begin battle with NP charged at 60% for yourself [MAX]"
+  },
+  {
+    "id": 991365,
+    "detail": "Increase Quick Card effectiveness by 10% & increase NP Gain by 5% for yourself",
+    "detailShort": "Increase Quick Card effectiveness by 10% & increase NP Gain by 5% for yourself"
+  },
+  {
+    "id": 991366,
+    "detail": "Increase Quick Card effectiveness by 15% & increase NP Gain by 10% for yourself [MAX]",
+    "detailShort": "Increase Quick Card effectiveness by 15% & increase NP Gain by 10% for yourself [MAX]"
+  },
+  {
+    "id": 991367,
+    "detail": "Gain 1 C. Star each turn & increase Critical Strength by 5% for yourself",
+    "detailShort": "Gain 1 C. Star each turn & increase Critical Strength by 5% for yourself"
+  },
+  {
+    "id": 991368,
+    "detail": "Gain 2 C. Stars each turn & increase Critical Strength by 10% for yourself [MAX]",
+    "detailShort": "Gain 2 C. Stars each turn & increase Critical Strength by 10% for yourself [MAX]"
+  },
+  {
+    "id": 991369,
+    "detail": "Increase Mystic Code EXP gained by 1% (3% if equipped as Support)",
+    "detailShort": "Increase Mystic Code EXP gained by 1% (3% if equipped as Support)"
+  },
+  {
+    "id": 991370,
+    "detail": "Increase Mystic Code EXP gained by 5% (15% if equipped as Support) [MAX]",
+    "detailShort": "Increase Mystic Code EXP gained by 5% (15% if equipped as Support) [MAX]"
+  },
+  {
+    "id": 991371,
+    "detail": "Increase all allies' Quick Card effectiveness by 10% & Critical Strength by 15% only if [servantName 503900] (Caster) is equipped with this Craft Essence when she is on the field",
+    "detailShort": "Increase all allies' Quick Card effectiveness by 10% & Critical Strength by 15% only if [servantName 503900] (Caster) is equipped with this Craft Essence when she is on the field"
+  },
+  {
+    "id": 991372,
+    "detail": "Apply 5% Special Attack [Human] effect to the engraved Card ",
+    "detailShort": "Apply 5% Special Attack [Human] effect to the engraved Card "
+  },
+  {
+    "id": 991373,
+    "detail": "Apply 5% Special Attack [Wild Beasts] effect to the engraved Card ",
+    "detailShort": "Apply 5% Special Attack [Wild Beasts] effect to the engraved Card "
+  },
+  {
+    "id": 991374,
+    "detail": "Apply 5% Special Attack [Undead] effect to the engraved Card ",
+    "detailShort": "Apply 5% Special Attack [Undead] effect to the engraved Card "
+  },
+  {
+    "id": 991375,
+    "detail": "Apply 5% Special Attack [Demonic] effect to the engraved Card ",
+    "detailShort": "Apply 5% Special Attack [Demonic] effect to the engraved Card "
+  },
+  {
+    "id": 991376,
+    "detail": "Apply 5% Special Attack [Divine] effect to the engraved Card ",
+    "detailShort": "Apply 5% Special Attack [Divine] effect to the engraved Card "
+  },
+  {
+    "id": 991377,
+    "detail": "Recover 100 HP for yourself when attacking with the engraved Card",
+    "detailShort": "Recover 100 HP for yourself when attacking with the engraved Card"
+  },
+  {
+    "id": 991379,
+    "detail": "Increase C. Star Drop Rate by 20% for the engraved Card",
+    "detailShort": "Increase C. Star Drop Rate by 20% for the engraved Card"
+  },
+  {
+    "id": 991380,
+    "detail": "Increase Critical Strength by 3% for the engraved Card",
+    "detailShort": "Increase Critical Strength by 3% for the engraved Card"
+  },
+  {
+    "id": 991381,
+    "detail": "Increase C. Star Gather Rate by 25% for the engraved Card",
+    "detailShort": "Increase C. Star Gather Rate by 25% for the engraved Card"
+  },
+  {
+    "id": 991382,
+    "detail": "Remove one Poison, Curse, or Burn status effect from yourself when attacking with the engraved Card",
+    "detailShort": "Remove one Poison, Curse, or Burn status effect from yourself when attacking with the engraved Card"
+  },
+  {
+    "id": 991384,
+    "detail": "Recover 200 HP for yourself when attacking with the engraved Card",
+    "detailShort": "Recover 200 HP for yourself when attacking with the engraved Card"
   },
   {
     "id": 991945,

@@ -109,6 +109,66 @@
   },
   {
     "condValues": [
+      1000522
+    ],
+    "shopId": 4000287,
+    "condType": 36,
+    "condNum": 1,
+    "priority": 0,
+    "isClosedDisp": false,
+    "closedMessage": "Unable to exchange, requirements not met",
+    "closedItemName": ""
+  },
+  {
+    "condValues": [
+      1000722
+    ],
+    "shopId": 4000288,
+    "condType": 36,
+    "condNum": 1,
+    "priority": 0,
+    "isClosedDisp": false,
+    "closedMessage": "Unable to exchange, requirements not met",
+    "closedItemName": ""
+  },
+  {
+    "condValues": [
+      1000413
+    ],
+    "shopId": 4000290,
+    "condType": 36,
+    "condNum": 1,
+    "priority": 0,
+    "isClosedDisp": false,
+    "closedMessage": "Unable to exchange, requirements not met",
+    "closedItemName": ""
+  },
+  {
+    "condValues": [
+      1000522
+    ],
+    "shopId": 4000291,
+    "condType": 36,
+    "condNum": 1,
+    "priority": 0,
+    "isClosedDisp": false,
+    "closedMessage": "Unable to exchange, requirements not met",
+    "closedItemName": ""
+  },
+  {
+    "condValues": [
+      1000632
+    ],
+    "shopId": 4000292,
+    "condType": 36,
+    "condNum": 1,
+    "priority": 0,
+    "isClosedDisp": false,
+    "closedMessage": "Unable to exchange, requirements not met",
+    "closedItemName": ""
+  },
+  {
+    "condValues": [
       1000632
     ],
     "shopId": 4500047,
@@ -14346,6 +14406,942 @@
     "isClosedDisp": true,
     "closedMessage": "Unable to exchange, requirements not met",
     "closedItemName": ""
+  },
+  {
+    "condValues": [
+      2000316
+    ],
+    "shopId": 80111001,
+    "condType": 1,
+    "condNum": 1,
+    "priority": 100,
+    "isClosedDisp": true,
+    "closedMessage": "Must clear Pseudo-Singularity III to exchange.",
+    "closedItemName": "Travel Portrait: Archer of Inferno"
+  },
+  {
+    "condValues": [
+      8011101
+    ],
+    "shopId": 80111001,
+    "condType": 82,
+    "condNum": 2,
+    "priority": 50,
+    "isClosedDisp": true,
+    "closedMessage": "Unable to exchange, requirements not met.",
+    "closedItemName": "Travel Portrait: Archer of Inferno"
+  },
+  {
+    "condValues": [
+      1000314
+    ],
+    "shopId": 80111002,
+    "condType": 1,
+    "condNum": 1,
+    "priority": 100,
+    "isClosedDisp": true,
+    "closedMessage": "Must clear Third Singularity to exchange.",
+    "closedItemName": "Travel Portrait: Asterios"
+  },
+  {
+    "condValues": [
+      8011101
+    ],
+    "shopId": 80111002,
+    "condType": 82,
+    "condNum": 2,
+    "priority": 50,
+    "isClosedDisp": true,
+    "closedMessage": "Unable to exchange, requirements not met.",
+    "closedItemName": "Travel Portrait: Asterios"
+  },
+  {
+    "condValues": [
+      1000314
+    ],
+    "shopId": 80111003,
+    "condType": 1,
+    "condNum": 1,
+    "priority": 100,
+    "isClosedDisp": true,
+    "closedMessage": "Must clear Third Singularity to exchange.",
+    "closedItemName": "Travel Portrait: Atalante"
+  },
+  {
+    "condValues": [
+      8011101
+    ],
+    "shopId": 80111003,
+    "condType": 82,
+    "condNum": 2,
+    "priority": 50,
+    "isClosedDisp": true,
+    "closedMessage": "Unable to exchange, requirements not met.",
+    "closedItemName": "Travel Portrait: Atalante"
+  },
+  {
+    "condValues": [
+      2000410
+    ],
+    "shopId": 80111004,
+    "condType": 1,
+    "condNum": 1,
+    "priority": 100,
+    "isClosedDisp": true,
+    "closedMessage": "Must clear Pseudo-Singularity IV to exchange.",
+    "closedItemName": "Travel Portrait: Abigail Williams"
+  },
+  {
+    "condValues": [
+      8011101
+    ],
+    "shopId": 80111004,
+    "condType": 82,
+    "condNum": 2,
+    "priority": 50,
+    "isClosedDisp": true,
+    "closedMessage": "Unable to exchange, requirements not met.",
+    "closedItemName": "Travel Portrait: Abigail Williams"
+  },
+  {
+    "condValues": [
+      1000522
+    ],
+    "shopId": 80111005,
+    "condType": 1,
+    "condNum": 1,
+    "priority": 100,
+    "isClosedDisp": true,
+    "closedMessage": "Must clear Fifth Singularity to exchange.",
+    "closedItemName": "Travel Portrait: Arjuna"
+  },
+  {
+    "condValues": [
+      8011101
+    ],
+    "shopId": 80111005,
+    "condType": 82,
+    "condNum": 2,
+    "priority": 50,
+    "isClosedDisp": true,
+    "closedMessage": "Unable to exchange, requirements not met.",
+    "closedItemName": "Travel Portrait: Arjuna"
+  },
+  {
+    "condValues": [
+      1000215
+    ],
+    "shopId": 80111006,
+    "condType": 1,
+    "condNum": 1,
+    "priority": 100,
+    "isClosedDisp": true,
+    "closedMessage": "Must clear Second Singularity to exchange.",
+    "closedItemName": "Travel Portrait: Altera"
+  },
+  {
+    "condValues": [
+      8011101
+    ],
+    "shopId": 80111006,
+    "condType": 82,
+    "condNum": 2,
+    "priority": 50,
+    "isClosedDisp": true,
+    "closedMessage": "Unable to exchange, requirements not met.",
+    "closedItemName": "Travel Portrait: Altera"
+  },
+  {
+    "condValues": [
+      1000115
+    ],
+    "shopId": 80111007,
+    "condType": 1,
+    "condNum": 1,
+    "priority": 100,
+    "isClosedDisp": true,
+    "closedMessage": "Must clear First Singularity to exchange.",
+    "closedItemName": "Travel Portrait: Altria Pendragon Alter (Saber)"
+  },
+  {
+    "condValues": [
+      8011101
+    ],
+    "shopId": 80111007,
+    "condType": 82,
+    "condNum": 2,
+    "priority": 50,
+    "isClosedDisp": true,
+    "closedMessage": "Unable to exchange, requirements not met.",
+    "closedItemName": "Travel Portrait: Altria Pendragon Alter (Saber)"
+  },
+  {
+    "condValues": [
+      1000413
+    ],
+    "shopId": 80111008,
+    "condType": 1,
+    "condNum": 1,
+    "priority": 100,
+    "isClosedDisp": true,
+    "closedMessage": "Must clear Fourth Singularity to exchange.",
+    "closedItemName": "Travel Portrait: Altria Pendragon Alter (Lancer)"
+  },
+  {
+    "condValues": [
+      8011101
+    ],
+    "shopId": 80111008,
+    "condType": 82,
+    "condNum": 2,
+    "priority": 50,
+    "isClosedDisp": true,
+    "closedMessage": "Unable to exchange, requirements not met.",
+    "closedItemName": "Travel Portrait: Altria Pendragon Alter (Lancer)"
+  },
+  {
+    "condValues": [
+      1000115
+    ],
+    "shopId": 80111009,
+    "condType": 1,
+    "condNum": 1,
+    "priority": 100,
+    "isClosedDisp": true,
+    "closedMessage": "Must clear First Singularity to exchange.",
+    "closedItemName": "Travel Portrait: Antonio Salieri"
+  },
+  {
+    "condValues": [
+      8011101
+    ],
+    "shopId": 80111009,
+    "condType": 82,
+    "condNum": 2,
+    "priority": 50,
+    "isClosedDisp": true,
+    "closedMessage": "Unable to exchange, requirements not met.",
+    "closedItemName": "Travel Portrait: Antonio Salieri"
+  },
+  {
+    "condValues": [
+      1000115
+    ],
+    "shopId": 80111010,
+    "condType": 1,
+    "condNum": 1,
+    "priority": 100,
+    "isClosedDisp": true,
+    "closedMessage": "Must clear First Singularity to exchange.",
+    "closedItemName": "Travel Portrait: Wolfgang Amadeus Mozart"
+  },
+  {
+    "condValues": [
+      8011101
+    ],
+    "shopId": 80111010,
+    "condType": 82,
+    "condNum": 2,
+    "priority": 50,
+    "isClosedDisp": true,
+    "closedMessage": "Unable to exchange, requirements not met.",
+    "closedItemName": "Travel Portrait: Wolfgang Amadeus Mozart"
+  },
+  {
+    "condValues": [
+      1000722
+    ],
+    "shopId": 80111011,
+    "condType": 1,
+    "condNum": 1,
+    "priority": 100,
+    "isClosedDisp": true,
+    "closedMessage": "Must clear Seventh Singularity to exchange.",
+    "closedItemName": "Travel Portrait: Ereshkigal"
+  },
+  {
+    "condValues": [
+      8011101
+    ],
+    "shopId": 80111011,
+    "condType": 82,
+    "condNum": 2,
+    "priority": 50,
+    "isClosedDisp": true,
+    "closedMessage": "Unable to exchange, requirements not met.",
+    "closedItemName": "Travel Portrait: Ereshkigal"
+  },
+  {
+    "condValues": [
+      2000410
+    ],
+    "shopId": 80111012,
+    "condType": 1,
+    "condNum": 1,
+    "priority": 100,
+    "isClosedDisp": true,
+    "closedMessage": "Must clear Pseudo-Singularity IV to exchange.",
+    "closedItemName": "Travel Portrait: Caster of Okeanos"
+  },
+  {
+    "condValues": [
+      8011101
+    ],
+    "shopId": 80111012,
+    "condType": 82,
+    "condNum": 2,
+    "priority": 50,
+    "isClosedDisp": true,
+    "closedMessage": "Unable to exchange, requirements not met.",
+    "closedItemName": "Travel Portrait: Caster of Okeanos"
+  },
+  {
+    "condValues": [
+      1000115
+    ],
+    "shopId": 80111013,
+    "condType": 1,
+    "condNum": 1,
+    "priority": 100,
+    "isClosedDisp": true,
+    "closedMessage": "Must clear First Singularity to exchange.",
+    "closedItemName": "Travel Portrait: Osakabehime"
+  },
+  {
+    "condValues": [
+      8011101
+    ],
+    "shopId": 80111013,
+    "condType": 82,
+    "condNum": 2,
+    "priority": 50,
+    "isClosedDisp": true,
+    "closedMessage": "Unable to exchange, requirements not met.",
+    "closedItemName": "Travel Portrait: Osakabehime"
+  },
+  {
+    "condValues": [
+      1000115
+    ],
+    "shopId": 80111014,
+    "condType": 1,
+    "condNum": 1,
+    "priority": 100,
+    "isClosedDisp": true,
+    "closedMessage": "Must clear First Singularity to exchange.",
+    "closedItemName": "Travel Portrait: Carmilla"
+  },
+  {
+    "condValues": [
+      8011101
+    ],
+    "shopId": 80111014,
+    "condType": 82,
+    "condNum": 2,
+    "priority": 50,
+    "isClosedDisp": true,
+    "closedMessage": "Unable to exchange, requirements not met.",
+    "closedItemName": "Travel Portrait: Carmilla"
+  },
+  {
+    "condValues": [
+      1000115
+    ],
+    "shopId": 80111015,
+    "condType": 1,
+    "condNum": 1,
+    "priority": 100,
+    "isClosedDisp": true,
+    "closedMessage": "Must clear First Singularity to exchange.",
+    "closedItemName": "Travel Portrait: Katsushika Hokusai"
+  },
+  {
+    "condValues": [
+      8011101
+    ],
+    "shopId": 80111015,
+    "condType": 82,
+    "condNum": 2,
+    "priority": 50,
+    "isClosedDisp": true,
+    "closedMessage": "Unable to exchange, requirements not met.",
+    "closedItemName": "Travel Portrait: Katsushika Hokusai"
+  },
+  {
+    "condValues": [
+      1000522
+    ],
+    "shopId": 80111016,
+    "condType": 1,
+    "condNum": 1,
+    "priority": 100,
+    "isClosedDisp": true,
+    "closedMessage": "Must clear Fifth Singularity to exchange.",
+    "closedItemName": "Travel Portrait: Karna"
+  },
+  {
+    "condValues": [
+      8011101
+    ],
+    "shopId": 80111016,
+    "condType": 82,
+    "condNum": 2,
+    "priority": 50,
+    "isClosedDisp": true,
+    "closedMessage": "Unable to exchange, requirements not met.",
+    "closedItemName": "Travel Portrait: Karna"
+  },
+  {
+    "condValues": [
+      1000115
+    ],
+    "shopId": 80111017,
+    "condType": 1,
+    "condNum": 1,
+    "priority": 100,
+    "isClosedDisp": true,
+    "closedMessage": "Must clear First Singularity to exchange.",
+    "closedItemName": "Travel Portrait: Kiyohime"
+  },
+  {
+    "condValues": [
+      8011101
+    ],
+    "shopId": 80111017,
+    "condType": 82,
+    "condNum": 2,
+    "priority": 50,
+    "isClosedDisp": true,
+    "closedMessage": "Unable to exchange, requirements not met.",
+    "closedItemName": "Travel Portrait: Kiyohime"
+  },
+  {
+    "condValues": [
+      1000632
+    ],
+    "shopId": 80111018,
+    "condType": 1,
+    "condNum": 1,
+    "priority": 100,
+    "isClosedDisp": true,
+    "closedMessage": "Must clear Sixth Singularity to exchange.",
+    "closedItemName": "Travel Portrait: Xuanzang Sanzang"
+  },
+  {
+    "condValues": [
+      8011101
+    ],
+    "shopId": 80111018,
+    "condType": 82,
+    "condNum": 2,
+    "priority": 50,
+    "isClosedDisp": true,
+    "closedMessage": "Unable to exchange, requirements not met.",
+    "closedItemName": "Travel Portrait: Xuanzang Sanzang"
+  },
+  {
+    "condValues": [
+      2000316
+    ],
+    "shopId": 80111019,
+    "condType": 1,
+    "condNum": 1,
+    "priority": 100,
+    "isClosedDisp": true,
+    "closedMessage": "Must clear Pseudo-Singularity III to exchange.",
+    "closedItemName": "Travel Portrait: Sasaki Kojirou"
+  },
+  {
+    "condValues": [
+      8011101
+    ],
+    "shopId": 80111019,
+    "condType": 82,
+    "condNum": 2,
+    "priority": 50,
+    "isClosedDisp": true,
+    "closedMessage": "Unable to exchange, requirements not met.",
+    "closedItemName": "Travel Portrait: Sasaki Kojirou"
+  },
+  {
+    "condValues": [
+      2000118
+    ],
+    "shopId": 80111020,
+    "condType": 1,
+    "condNum": 1,
+    "priority": 100,
+    "isClosedDisp": true,
+    "closedMessage": "Must clear Pseudo-Singularity I to exchange.",
+    "closedItemName": "Travel Portrait: Sherlock Holmes"
+  },
+  {
+    "condValues": [
+      8011101
+    ],
+    "shopId": 80111020,
+    "condType": 82,
+    "condNum": 2,
+    "priority": 50,
+    "isClosedDisp": true,
+    "closedMessage": "Unable to exchange, requirements not met.",
+    "closedItemName": "Travel Portrait: Sherlock Holmes"
+  },
+  {
+    "condValues": [
+      1000115
+    ],
+    "shopId": 80111021,
+    "condType": 1,
+    "condNum": 1,
+    "priority": 100,
+    "isClosedDisp": true,
+    "closedMessage": "Must clear First Singularity to exchange.",
+    "closedItemName": "Travel Portrait: Charles-Henri Sanson"
+  },
+  {
+    "condValues": [
+      8011101
+    ],
+    "shopId": 80111021,
+    "condType": 82,
+    "condNum": 2,
+    "priority": 50,
+    "isClosedDisp": true,
+    "closedMessage": "Unable to exchange, requirements not met.",
+    "closedItemName": "Travel Portrait: Charles-Henri Sanson"
+  },
+  {
+    "condValues": [
+      2000118
+    ],
+    "shopId": 80111022,
+    "condType": 1,
+    "condNum": 1,
+    "priority": 100,
+    "isClosedDisp": true,
+    "closedMessage": "Must clear Pseudo-Singularity I to exchange.",
+    "closedItemName": "Travel Portrait: Assassin of Shinjuku"
+  },
+  {
+    "condValues": [
+      8011101
+    ],
+    "shopId": 80111022,
+    "condType": 82,
+    "condNum": 2,
+    "priority": 50,
+    "isClosedDisp": true,
+    "closedMessage": "Unable to exchange, requirements not met.",
+    "closedItemName": "Travel Portrait: Assassin of Shinjuku"
+  },
+  {
+    "condValues": [
+      2000316
+    ],
+    "shopId": 80111023,
+    "condType": 1,
+    "condNum": 1,
+    "priority": 100,
+    "isClosedDisp": true,
+    "closedMessage": "Must clear Pseudo-Singularity III to exchange.",
+    "closedItemName": "Travel Portrait: Miyamoto Musashi"
+  },
+  {
+    "condValues": [
+      8011101
+    ],
+    "shopId": 80111023,
+    "condType": 82,
+    "condNum": 2,
+    "priority": 50,
+    "isClosedDisp": true,
+    "closedMessage": "Unable to exchange, requirements not met.",
+    "closedItemName": "Travel Portrait: Miyamoto Musashi"
+  },
+  {
+    "condValues": [
+      1000522
+    ],
+    "shopId": 80111024,
+    "condType": 1,
+    "condNum": 1,
+    "priority": 100,
+    "isClosedDisp": true,
+    "closedMessage": "Must clear Fifth Singularity to exchange.",
+    "closedItemName": "Travel Portrait: Scáthach"
+  },
+  {
+    "condValues": [
+      8011101
+    ],
+    "shopId": 80111024,
+    "condType": 82,
+    "condNum": 2,
+    "priority": 50,
+    "isClosedDisp": true,
+    "closedMessage": "Unable to exchange, requirements not met.",
+    "closedItemName": "Travel Portrait: Scáthach"
+  },
+  {
+    "condValues": [
+      1000115
+    ],
+    "shopId": 80111025,
+    "condType": 1,
+    "condNum": 1,
+    "priority": 100,
+    "isClosedDisp": true,
+    "closedMessage": "Must clear First Singularity to exchange.",
+    "closedItemName": "Travel Portrait: Suzuka Gozen"
+  },
+  {
+    "condValues": [
+      8011101
+    ],
+    "shopId": 80111025,
+    "condType": 82,
+    "condNum": 2,
+    "priority": 50,
+    "isClosedDisp": true,
+    "closedMessage": "Unable to exchange, requirements not met.",
+    "closedItemName": "Travel Portrait: Suzuka Gozen"
+  },
+  {
+    "condValues": [
+      1000314
+    ],
+    "shopId": 80111026,
+    "condType": 1,
+    "condNum": 1,
+    "priority": 100,
+    "isClosedDisp": true,
+    "closedMessage": "Must clear Third Singularity to exchange.",
+    "closedItemName": "Travel Portrait: David"
+  },
+  {
+    "condValues": [
+      8011101
+    ],
+    "shopId": 80111026,
+    "condType": 82,
+    "condNum": 2,
+    "priority": 50,
+    "isClosedDisp": true,
+    "closedMessage": "Unable to exchange, requirements not met.",
+    "closedItemName": "Travel Portrait: David"
+  },
+  {
+    "condValues": [
+      1000413
+    ],
+    "shopId": 80111027,
+    "condType": 1,
+    "condNum": 1,
+    "priority": 100,
+    "isClosedDisp": true,
+    "closedMessage": "Must clear Fourth Singularity to exchange.",
+    "closedItemName": "Travel Portrait: Tamamo-no-Mae"
+  },
+  {
+    "condValues": [
+      8011101
+    ],
+    "shopId": 80111027,
+    "condType": 82,
+    "condNum": 2,
+    "priority": 50,
+    "isClosedDisp": true,
+    "closedMessage": "Unable to exchange, requirements not met.",
+    "closedItemName": "Travel Portrait: Tamamo-no-Mae"
+  },
+  {
+    "condValues": [
+      1000522
+    ],
+    "shopId": 80111028,
+    "condType": 1,
+    "condNum": 1,
+    "priority": 100,
+    "isClosedDisp": true,
+    "closedMessage": "Must clear Fifth Singularity to exchange.",
+    "closedItemName": "Travel Portrait: Florence Nightingale"
+  },
+  {
+    "condValues": [
+      8011101
+    ],
+    "shopId": 80111028,
+    "condType": 82,
+    "condNum": 2,
+    "priority": 50,
+    "isClosedDisp": true,
+    "closedMessage": "Unable to exchange, requirements not met.",
+    "closedItemName": "Travel Portrait: Florence Nightingale"
+  },
+  {
+    "condValues": [
+      1000115
+    ],
+    "shopId": 80111029,
+    "condType": 1,
+    "condNum": 1,
+    "priority": 100,
+    "isClosedDisp": true,
+    "closedMessage": "Must clear First Singularity to exchange.",
+    "closedItemName": "Travel Portrait: Mysterious Heroine X (Alter)"
+  },
+  {
+    "condValues": [
+      8011101
+    ],
+    "shopId": 80111029,
+    "condType": 82,
+    "condNum": 2,
+    "priority": 50,
+    "isClosedDisp": true,
+    "closedMessage": "Unable to exchange, requirements not met.",
+    "closedItemName": "Travel Portrait: Mysterious Heroine X (Alter)"
+  },
+  {
+    "condValues": [
+      2000410
+    ],
+    "shopId": 80111030,
+    "condType": 1,
+    "condNum": 1,
+    "priority": 100,
+    "isClosedDisp": true,
+    "closedMessage": "Must clear Pseudo-Singularity IV to exchange.",
+    "closedItemName": "Travel Portrait: Nezha"
+  },
+  {
+    "condValues": [
+      8011101
+    ],
+    "shopId": 80111030,
+    "condType": 82,
+    "condNum": 2,
+    "priority": 50,
+    "isClosedDisp": true,
+    "closedMessage": "Unable to exchange, requirements not met.",
+    "closedItemName": "Travel Portrait: Nezha"
+  },
+  {
+    "condValues": [
+      1000215
+    ],
+    "shopId": 80111031,
+    "condType": 1,
+    "condNum": 1,
+    "priority": 100,
+    "isClosedDisp": true,
+    "closedMessage": "Must clear Second Singularity to exchange.",
+    "closedItemName": "Travel Portrait: Nero Claudius"
+  },
+  {
+    "condValues": [
+      8011101
+    ],
+    "shopId": 80111031,
+    "condType": 82,
+    "condNum": 2,
+    "priority": 50,
+    "isClosedDisp": true,
+    "closedMessage": "Unable to exchange, requirements not met.",
+    "closedItemName": "Travel Portrait: Nero Claudius"
+  },
+  {
+    "condValues": [
+      1000115
+    ],
+    "shopId": 80111032,
+    "condType": 1,
+    "condNum": 1,
+    "priority": 100,
+    "isClosedDisp": true,
+    "closedMessage": "Must clear First Singularity to exchange.",
+    "closedItemName": "Travel Portrait: Brynhild"
+  },
+  {
+    "condValues": [
+      8011101
+    ],
+    "shopId": 80111032,
+    "condType": 82,
+    "condNum": 2,
+    "priority": 50,
+    "isClosedDisp": true,
+    "closedMessage": "Unable to exchange, requirements not met.",
+    "closedItemName": "Travel Portrait: Brynhild"
+  },
+  {
+    "condValues": [
+      1000115
+    ],
+    "shopId": 80111033,
+    "condType": 1,
+    "condNum": 1,
+    "priority": 100,
+    "isClosedDisp": true,
+    "closedMessage": "Must clear First Singularity to exchange.",
+    "closedItemName": "Travel Portrait: Paul Bunyan"
+  },
+  {
+    "condValues": [
+      8011101
+    ],
+    "shopId": 80111033,
+    "condType": 82,
+    "condNum": 2,
+    "priority": 50,
+    "isClosedDisp": true,
+    "closedMessage": "Unable to exchange, requirements not met.",
+    "closedItemName": "Travel Portrait: Paul Bunyan"
+  },
+  {
+    "condValues": [
+      1000722
+    ],
+    "shopId": 80111034,
+    "condType": 1,
+    "condNum": 1,
+    "priority": 100,
+    "isClosedDisp": true,
+    "closedMessage": "Must clear Seventh Singularity to exchange.",
+    "closedItemName": "Travel Portrait: Merlin"
+  },
+  {
+    "condValues": [
+      8011101
+    ],
+    "shopId": 80111034,
+    "condType": 82,
+    "condNum": 2,
+    "priority": 50,
+    "isClosedDisp": true,
+    "closedMessage": "Unable to exchange, requirements not met.",
+    "closedItemName": "Travel Portrait: Merlin"
+  },
+  {
+    "condValues": [
+      1000115
+    ],
+    "shopId": 80111035,
+    "condType": 1,
+    "condNum": 1,
+    "priority": 100,
+    "isClosedDisp": true,
+    "closedMessage": "Must clear First Singularity to exchange.",
+    "closedItemName": "Travel Portrait: Mash Kyrielight"
+  },
+  {
+    "condValues": [
+      8011101
+    ],
+    "shopId": 80111035,
+    "condType": 82,
+    "condNum": 2,
+    "priority": 50,
+    "isClosedDisp": true,
+    "closedMessage": "Unable to exchange, requirements not met.",
+    "closedItemName": "Travel Portrait: Mash Kyrielight"
+  },
+  {
+    "condValues": [
+      1000115
+    ],
+    "shopId": 80111036,
+    "condType": 1,
+    "condNum": 1,
+    "priority": 100,
+    "isClosedDisp": true,
+    "closedMessage": "Must clear First Singularity to exchange.",
+    "closedItemName": "Travel Portrait: Martha"
+  },
+  {
+    "condValues": [
+      8011101
+    ],
+    "shopId": 80111036,
+    "condType": 82,
+    "condNum": 2,
+    "priority": 50,
+    "isClosedDisp": true,
+    "closedMessage": "Unable to exchange, requirements not met.",
+    "closedItemName": "Travel Portrait: Martha"
+  },
+  {
+    "condValues": [
+      2000316
+    ],
+    "shopId": 80111037,
+    "condType": 1,
+    "condNum": 1,
+    "priority": 100,
+    "isClosedDisp": true,
+    "closedMessage": "Must clear Pseudo-Singularity III to exchange.",
+    "closedItemName": "Travel Portrait: Minamoto-no-Raikou"
+  },
+  {
+    "condValues": [
+      8011101
+    ],
+    "shopId": 80111037,
+    "condType": 82,
+    "condNum": 2,
+    "priority": 50,
+    "isClosedDisp": true,
+    "closedMessage": "Unable to exchange, requirements not met.",
+    "closedItemName": "Travel Portrait: Minamoto-no-Raikou"
+  },
+  {
+    "condValues": [
+      2000316
+    ],
+    "shopId": 80111038,
+    "condType": 1,
+    "condNum": 1,
+    "priority": 100,
+    "isClosedDisp": true,
+    "closedMessage": "Must clear Pseudo-Singularity III to exchange.",
+    "closedItemName": "Travel Portrait: Yagyu Tajima-no-kami Munenori"
+  },
+  {
+    "condValues": [
+      8011101
+    ],
+    "shopId": 80111038,
+    "condType": 82,
+    "condNum": 2,
+    "priority": 50,
+    "isClosedDisp": true,
+    "closedMessage": "Unable to exchange, requirements not met.",
+    "closedItemName": "Travel Portrait: Yagyu Tajima-no-kami Munenori"
+  },
+  {
+    "condValues": [
+      1000115
+    ],
+    "shopId": 80111039,
+    "condType": 1,
+    "condNum": 1,
+    "priority": 100,
+    "isClosedDisp": true,
+    "closedMessage": "Must clear First Singularity to exchange.",
+    "closedItemName": "Travel Portrait: Leonardo da Vinci"
+  },
+  {
+    "condValues": [
+      8011101
+    ],
+    "shopId": 80111039,
+    "condType": 82,
+    "condNum": 2,
+    "priority": 50,
+    "isClosedDisp": true,
+    "closedMessage": "Unable to exchange, requirements not met.",
+    "closedItemName": "Travel Portrait: Leonardo da Vinci"
   },
   {
     "condValues": [

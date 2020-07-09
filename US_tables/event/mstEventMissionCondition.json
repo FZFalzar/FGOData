@@ -14411,6 +14411,198 @@
   },
   {
     "targetIds": [
+      1000722
+    ],
+    "missionId": 10011,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 10026,
+    "missionTargetId": 10001,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "Unlock condition: ???",
+    "flag": 32
+  },
+  {
+    "targetIds": [
+      1000822
+    ],
+    "missionId": 10011,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 10027,
+    "missionTargetId": 10001,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "Unlock by completing \"Final Singularity: The Grand Temple of Time Solomon\"",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2000118
+    ],
+    "missionId": 10011,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 10028,
+    "missionTargetId": 10001,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "Complete \"Pseudo-Singularity I: Quarantined Territory of Malice, Shinjuku - Shinjuku Phantom Incident\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      1000722
+    ],
+    "missionId": 10012,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 10029,
+    "missionTargetId": 10001,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "Unlock condition: ???",
+    "flag": 32
+  },
+  {
+    "targetIds": [
+      1000822
+    ],
+    "missionId": 10012,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 10030,
+    "missionTargetId": 10001,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "Unlock by completing \"Final Singularity: The Grand Temple of Time Solomon\"",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2000216
+    ],
+    "missionId": 10012,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 10031,
+    "missionTargetId": 10001,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "Complete \"Pseudo-Singularity II: Subterranean World of Folklore, Agartha - Women of Agartha\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      1000722
+    ],
+    "missionId": 10013,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 10032,
+    "missionTargetId": 10001,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "Unlock condition: ???",
+    "flag": 32
+  },
+  {
+    "targetIds": [
+      1000822
+    ],
+    "missionId": 10013,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 10033,
+    "missionTargetId": 10001,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "Unlock by completing \"Final Singularity: The Grand Temple of Time Solomon\"",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2000316
+    ],
+    "missionId": 10013,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 10034,
+    "missionTargetId": 10001,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "Complete \"Pseudo-Singularity III: The Stage of Carnage, Shimousa - Seven Duels of Swordmasters\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      1000722
+    ],
+    "missionId": 10014,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 10035,
+    "missionTargetId": 10001,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "Unlock condition: ???",
+    "flag": 32
+  },
+  {
+    "targetIds": [
+      1000822
+    ],
+    "missionId": 10014,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 10036,
+    "missionTargetId": 10001,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "Unlock by completing \"Final Singularity: The Grand Temple of Time Solomon\"",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2000410
+    ],
+    "missionId": 10014,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 10037,
+    "missionTargetId": 10001,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "Complete \"Pseudo-Singularity IV: The Forbidden Advent Garden, Salem - Heretical Salem\" ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
       0
     ],
     "missionId": 1000001,
@@ -48960,7 +49152,7 @@
     "condGroup": 1,
     "condType": 22,
     "targetNum": 8,
-    "conditionMessage": "Defeat 8 \"Mini Nobu\" type enemies\n[Completing this Mission will result in taking control of the Blue Territory (North-East Area)]",
+    "conditionMessage": "Defeat 8 \"Mini Nobu\" enemies\n[Completing this Mission will result in taking control of the Blue Territory (North-East Area)]",
     "closedMessage": "",
     "flag": 0
   },
@@ -49216,7 +49408,7 @@
     "condGroup": 1,
     "condType": 22,
     "targetNum": 140,
-    "conditionMessage": "Defeat 140 \"Mini Nobu\" type enemies\n[Completing this Mission will result in taking control of the Red Territory (North-West Area)]",
+    "conditionMessage": "Defeat 140 \"Mini Nobu\" enemies\n[Completing this Mission will result in taking control of the Red Territory (North-West Area)]",
     "closedMessage": "",
     "flag": 0
   },
@@ -50154,7 +50346,7 @@
     "condGroup": 1,
     "condType": 22,
     "targetNum": 80,
-    "conditionMessage": "Defeat 80 \"Mini Nobu\" type enemies",
+    "conditionMessage": "Defeat 80 \"Mini Nobu\" enemies",
     "closedMessage": "",
     "flag": 0
   },
@@ -50186,7 +50378,7 @@
     "condGroup": 1,
     "condType": 22,
     "targetNum": 220,
-    "conditionMessage": "Defeat 220 \"Mini Nobu\" type enemies",
+    "conditionMessage": "Defeat 220 \"Mini Nobu\" enemies",
     "closedMessage": "",
     "flag": 0
   },

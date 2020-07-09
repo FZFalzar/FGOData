@@ -595,6 +595,11 @@
     "detailShort": "Deal heavy damage to all enemies [{0}] + increase C. Star Drop Rate (3 turns) <effect increases with Overcharge> for all allies"
   },
   {
+    "id": 400102,
+    "detail": "Deal heavy damage [{0}] [g][o]▲[/o][/g] & decrease Critical Rate (3 turns) [g][o]▲[/o][/g] to all enemies + Increase C. Star Drop Rate [g][o]▲[/o][/g] (3 turns) <effect increases with Overcharge> for all allies ",
+    "detailShort": "Deal heavy damage [{0}] [g][o]▲[/o][/g] & decrease Critical Rate (3 turns) [g][o]▲[/o][/g] to all enemies + Increase C. Star Drop Rate [g][o]▲[/o][/g] (3 turns) <effect increases with Overcharge> for all allies "
+  },
+  {
     "id": 400201,
     "detail": "Deal heavy damage to all enemies [{0}] & decrease DEF (3 turns) <effect increases with Overcharge> for all enemies",
     "detailShort": "Deal heavy damage to all enemies [{0}] & decrease DEF (3 turns) <effect increases with Overcharge> for all enemies"
@@ -746,18 +751,18 @@
   },
   {
     "id": 402503,
-    "detail": "Deal heavy damage to all enemies [{0}][g][o]▲[/o][/g] & decrease Critical Rate [g][o]▲[/o][/g](3 turns)<effect increases with Overcharge> for all enemies",
-    "detailShort": "Deal heavy damage to all enemies [{0}][g][o]▲[/o][/g] & decrease Critical Rate [g][o]▲[/o][/g](3 turns)<effect increases with Overcharge> for all enemies"
+    "detail": "Deal heavy damage [{0}] [g][o]▲[/o][/g] & decrease Critical Rate [g][o]▲[/o][/g] (3 turns) <effect increases with Overcharge> for all enemies",
+    "detailShort": "Deal heavy damage [{0}] [g][o]▲[/o][/g] & decrease Critical Rate [g][o]▲[/o][/g] (3 turns) <effect increases with Overcharge> for all enemies"
   },
   {
     "id": 402504,
-    "detail": "Deal heavy damage to all enemies [{0}][g][o]▲[/o][/g] & decrease Critical Rate [g][o]▲[/o][/g](3 turns)<effect increases with Overcharge> for all enemies",
-    "detailShort": "Deal heavy damage to all enemies [{0}][g][o]▲[/o][/g] & decrease Critical Rate [g][o]▲[/o][/g](3 turns)<effect increases with Overcharge> for all enemies"
+    "detail": "Deal heavy damage [{0}] [g][o]▲[/o][/g] & decrease Critical Rate [g][o]▲[/o][/g] (3 turns) <effect increases with Overcharge> for all enemies",
+    "detailShort": "Deal heavy damage [{0}] [g][o]▲[/o][/g] & decrease Critical Rate [g][o]▲[/o][/g] (3 turns) <effect increases with Overcharge> for all enemies"
   },
   {
     "id": 402505,
-    "detail": "Deal heavy damage to all enemies [{0}][g][o]▲[/o][/g] & decrease Critical Rate [g][o]▲[/o][/g](3 turns)<effect increases with Overcharge> for all enemies",
-    "detailShort": "Deal heavy damage to all enemies [{0}][g][o]▲[/o][/g] & decrease Critical Rate [g][o]▲[/o][/g](3 turns)<effect increases with Overcharge> for all enemies"
+    "detail": "Deal heavy damage [{0}] [g][o]▲[/o][/g] & decrease Critical Rate [g][o]▲[/o][/g] (3 turns) <effect increases with Overcharge> for all enemies",
+    "detailShort": "Deal heavy damage [{0}] [g][o]▲[/o][/g] & decrease Critical Rate [g][o]▲[/o][/g] (3 turns) <effect increases with Overcharge> for all enemies"
   },
   {
     "id": 402598,
@@ -1055,9 +1060,19 @@
     "detailShort": "Decrease DEF for all enemies (3 turns) <effect increases with Overcharge> & deal heavy damage to all enemies [{0}]"
   },
   {
+    "id": 503901,
+    "detail": "Increase Critical Strength [{0}] (3 times, 5 turns) & apply Evade (1 time, 3 turns) & Death Immune (1 time, 3 turns) & Damage Cut (3 turns) <effect increases with Overcharge> for all allies ",
+    "detailShort": "Increase Critical Strength [{0}] (3 times, 5 turns) & apply Evade (1 time, 3 turns) & Death Immune (1 time, 3 turns) & Damage Cut (3 turns) <effect increases with Overcharge> for all allies "
+  },
+  {
     "id": 600101,
     "detail": "Deal significant damage to a single enemy [{0}] + gain large amount of C. Stars <effect increases with Overcharge>",
     "detailShort": "Deal significant damage to a single enemy [{0}] + gain large amount of C. Stars <effect increases with Overcharge>"
+  },
+  {
+    "id": 600102,
+    "detail": "Increase Quick Card effectiveness for yourself (3 turns) [g][o]▲[/o][/g] + Deal significant damage to a single enemy [{0}] [g][o]▲[/o][/g] + Gain large amount of C. Stars <effect increases with Overcharge>",
+    "detailShort": "Increase Quick Card effectiveness for yourself (3 turns) [g][o]▲[/o][/g] + Deal significant damage to a single enemy [{0}] [g][o]▲[/o][/g] + Gain large amount of C. Stars <effect increases with Overcharge>"
   },
   {
     "id": 600201,
@@ -1123,6 +1138,11 @@
     "id": 601001,
     "detail": "High chance to inflict Death (Male only) [{0}] & Charm (Male only) (1 turn) <chance increases with Overcharge> & decrease DEF (3 turns) for a single enemy",
     "detailShort": "High chance to inflict Death (Male only) [{0}] & Charm (Male only) (1 turn) <chance increases with Overcharge> & decrease DEF (3 turns) for a single enemy"
+  },
+  {
+    "id": 601002,
+    "detail": "High chance to inflict Death (Male only) [{0}] & Charm (Male only) (1 turn) <chance increases with Overcharge> & decrease DEF [g][o]▲[/o][/g] [{0}] (3 turns) & remove buffs [g][o]▲[/o][/g] for a single enemy",
+    "detailShort": "High chance to inflict Death (Male only) [{0}] & Charm (Male only) (1 turn) <chance increases with Overcharge> & decrease DEF [g][o]▲[/o][/g] [{0}] (3 turns) & remove buffs [g][o]▲[/o][/g] for a single enemy"
   },
   {
     "id": 601101,

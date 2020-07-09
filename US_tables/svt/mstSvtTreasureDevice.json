@@ -4230,7 +4230,7 @@
     "damage": [
       100
     ],
-    "strengthStatus": 0,
+    "strengthStatus": 1,
     "svtId": 400100,
     "num": 1,
     "priority": 101,
@@ -4239,6 +4239,24 @@
     "treasureDeviceId": 400101,
     "condQuestId": 0,
     "condQuestPhase": 0,
+    "condLv": 0,
+    "condFriendshipRank": 0,
+    "motion": 50,
+    "cardId": 3
+  },
+  {
+    "damage": [
+      100
+    ],
+    "strengthStatus": 2,
+    "svtId": 400100,
+    "num": 1,
+    "priority": 102,
+    "flag": 0,
+    "imageIndex": 0,
+    "treasureDeviceId": 400102,
+    "condQuestId": 94026508,
+    "condQuestPhase": 3,
     "condLv": 0,
     "condFriendshipRank": 0,
     "motion": 50,
@@ -7284,6 +7302,46 @@
   },
   {
     "damage": [
+      6,
+      13,
+      20,
+      26,
+      35
+    ],
+    "strengthStatus": 0,
+    "svtId": 503900,
+    "num": 99,
+    "priority": 0,
+    "flag": 0,
+    "imageIndex": 0,
+    "treasureDeviceId": 100,
+    "condQuestId": 0,
+    "condQuestPhase": 0,
+    "condLv": 0,
+    "condFriendshipRank": 0,
+    "motion": 40,
+    "cardId": 1
+  },
+  {
+    "damage": [
+      100
+    ],
+    "strengthStatus": 0,
+    "svtId": 503900,
+    "num": 1,
+    "priority": 101,
+    "flag": 0,
+    "imageIndex": 0,
+    "treasureDeviceId": 503901,
+    "condQuestId": 0,
+    "condQuestPhase": 0,
+    "condLv": 0,
+    "condFriendshipRank": 0,
+    "motion": 50,
+    "cardId": 1
+  },
+  {
+    "damage": [
       10,
       20,
       30,
@@ -7309,7 +7367,7 @@
       33,
       51
     ],
-    "strengthStatus": 0,
+    "strengthStatus": 1,
     "svtId": 600100,
     "num": 1,
     "priority": 101,
@@ -7318,6 +7376,26 @@
     "treasureDeviceId": 600101,
     "condQuestId": 0,
     "condQuestPhase": 0,
+    "condLv": 0,
+    "condFriendshipRank": 0,
+    "motion": 50,
+    "cardId": 3
+  },
+  {
+    "damage": [
+      16,
+      33,
+      51
+    ],
+    "strengthStatus": 2,
+    "svtId": 600100,
+    "num": 1,
+    "priority": 102,
+    "flag": 0,
+    "imageIndex": 0,
+    "treasureDeviceId": 600102,
+    "condQuestId": 94026501,
+    "condQuestPhase": 3,
     "condLv": 0,
     "condFriendshipRank": 0,
     "motion": 50,
@@ -7746,7 +7824,7 @@
     "damage": [
       100
     ],
-    "strengthStatus": 0,
+    "strengthStatus": 1,
     "svtId": 601000,
     "num": 1,
     "priority": 101,
@@ -7755,6 +7833,24 @@
     "treasureDeviceId": 601001,
     "condQuestId": 0,
     "condQuestPhase": 0,
+    "condLv": 0,
+    "condFriendshipRank": 0,
+    "motion": 50,
+    "cardId": 2
+  },
+  {
+    "damage": [
+      100
+    ],
+    "strengthStatus": 2,
+    "svtId": 601000,
+    "num": 1,
+    "priority": 102,
+    "flag": 0,
+    "imageIndex": 0,
+    "treasureDeviceId": 601002,
+    "condQuestId": 94026510,
+    "condQuestPhase": 3,
     "condLv": 0,
     "condFriendshipRank": 0,
     "motion": 50,

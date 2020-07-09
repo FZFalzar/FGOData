@@ -1456,6 +1456,171 @@
       0
     ],
     "prices": [
+      5
+    ],
+    "targetIds": [
+      9570300
+    ],
+    "script": {},
+    "id": 11096,
+    "baseShopId": 11096,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 32,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 30,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "[Limited Time] Hero Crystal: Star Fou",
+    "detail": "[3rd Anniversary]\nExchange for one ★3 ALL HP Up card",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 80071,
+    "bgImageId": 0,
+    "openedAt": 1594080000,
+    "closedAt": 1595303999
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      5
+    ],
+    "targetIds": [
+      9670300
+    ],
+    "script": {},
+    "id": 11097,
+    "baseShopId": 11097,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 33,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 30,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "[Limited Time] Hero Crystal: Sun Fou",
+    "detail": "[3rd Anniversary]\nExchange for one ★3 ALL ATK Up card",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 80072,
+    "bgImageId": 0,
+    "openedAt": 1594080000,
+    "closedAt": 1595303999
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      1000
+    ],
+    "targetIds": [
+      9403300
+    ],
+    "script": {},
+    "id": 11098,
+    "baseShopId": 11098,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 20,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 5,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Be Graceful",
+    "detail": "[Limited Mana Prism Exchange]\nExchange for Limited ★5 Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1594080000,
+    "closedAt": 1604203199
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      15
+    ],
+    "targetIds": [
+      9570300
+    ],
+    "script": {},
+    "id": 11099,
+    "baseShopId": 11099,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 1000,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 20,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Hero Crystal: Star Fou",
+    "detail": "Exchange for one ★3 ALL HP Up card",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1596240000,
+    "closedAt": 1598918399
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      15
+    ],
+    "targetIds": [
+      9670300
+    ],
+    "script": {},
+    "id": 11100,
+    "baseShopId": 11100,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 2000,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 20,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Hero Crystal: Sun Fou",
+    "detail": "Exchange for one ★3 ALL ATK Up card",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1596240000,
+    "closedAt": 1598918399
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
       15
     ],
     "targetIds": [
@@ -2605,6 +2770,138 @@
     "bgImageId": 0,
     "openedAt": 1593561600,
     "closedAt": 1596239999
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      4001
+    ],
+    "script": {},
+    "id": 14077,
+    "baseShopId": 14077,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 30,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 10,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "[Limited Time] Summon Ticket",
+    "detail": "[3rd Anniversary]\nExchange for one Summon Ticket that can perform one Saint Quartz summon",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 80069,
+    "bgImageId": 0,
+    "openedAt": 1594080000,
+    "closedAt": 1595303999
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      20
+    ],
+    "targetIds": [
+      11011
+    ],
+    "script": {},
+    "id": 14078,
+    "baseShopId": 14078,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 31,
+    "purchaseType": 5,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 10,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "[Limited Time] EXP Card Set",
+    "detail": "[3rd Anniversary]\nExchange for 10 ★4 ALL EXP cards",
+    "infoMessage": "Exchange for 10 ★4 ALL EXP cards",
+    "warningMessage": "",
+    "imageId": 80070,
+    "bgImageId": 0,
+    "openedAt": 1594080000,
+    "closedAt": 1595303999
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      20
+    ],
+    "targetIds": [
+      4001
+    ],
+    "script": {},
+    "id": 14079,
+    "baseShopId": 14079,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 100,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 5,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Summon Ticket",
+    "detail": "Exchange for one Summon Ticket that can perform one Saint Quartz summon",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1596240000,
+    "closedAt": 1598918399
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      40
+    ],
+    "targetIds": [
+      11011
+    ],
+    "script": {},
+    "id": 14080,
+    "baseShopId": 14080,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 200,
+    "purchaseType": 5,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 5,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "EXP Card Set",
+    "detail": "Exchange for 10 ★4 ALL EXP cards",
+    "infoMessage": "Exchange for 10 ★4 ALL EXP cards",
+    "warningMessage": "",
+    "imageId": 14,
+    "bgImageId": 0,
+    "openedAt": 1596240000,
+    "closedAt": 1598918399
   },
   {
     "itemIds": [
@@ -9172,6 +9469,237 @@
     "bgImageId": 0,
     "openedAt": 1593835200,
     "closedAt": 1594094399
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      503900
+    ],
+    "script": {},
+    "id": 4000286,
+    "baseShopId": 4000286,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 96,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Scáthach-Skadi",
+    "detail": "Exchange for Limited Time ★5 Servant",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1594080000,
+    "closedAt": 1595303999
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      401300
+    ],
+    "script": {},
+    "id": 4000287,
+    "baseShopId": 4000287,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 1900,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 0,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Queen Medb",
+    "detail": "Exchange for ★5 Servant",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1594526400,
+    "closedAt": 1594612799
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      401800
+    ],
+    "script": {},
+    "id": 4000288,
+    "baseShopId": 4000288,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 2001,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 0,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Quetzalcoatl",
+    "detail": "Exchange for ★5 Servant",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1594785600,
+    "closedAt": 1594871999
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      900500
+    ],
+    "script": {},
+    "id": 4000289,
+    "baseShopId": 4000083,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 100,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Sherlock Holmes",
+    "detail": "Exchange for Limited Time ★5 Servant",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1594872000,
+    "closedAt": 1595044799
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      201100
+    ],
+    "script": {},
+    "id": 4000290,
+    "baseShopId": 4000290,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 1500,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 0,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Nikola Tesla",
+    "detail": "Exchange for ★5 Servant",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1594440000,
+    "closedAt": 1594526399
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      702000
+    ],
+    "script": {},
+    "id": 4000291,
+    "baseShopId": 4000291,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 2700,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 0,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Cú Chulainn [Alter]",
+    "detail": "Exchange for ★5 Servant",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1594526400,
+    "closedAt": 1594612799
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      302000
+    ],
+    "script": {},
+    "id": 4000292,
+    "baseShopId": 4000292,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 1700,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 0,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Altria Pendragon (Lancer)",
+    "detail": "Exchange for ★5 Servant",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1594612800,
+    "closedAt": 1594699199
   },
   {
     "itemIds": [
@@ -21745,6 +22273,435 @@
     "bgImageId": 0,
     "openedAt": 1594771200,
     "closedAt": 1597449599
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      5003
+    ],
+    "script": {},
+    "id": 6000219,
+    "baseShopId": 6000219,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 10,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 3,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Code Remover",
+    "detail": "Exchange for [Command Code Detacher Item]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1594080000,
+    "closedAt": 1595303999
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      5003
+    ],
+    "script": {},
+    "id": 6000220,
+    "baseShopId": 6000220,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 30,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 3,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Code Remover",
+    "detail": "Exchange for [Command Code Detacher Item]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1597449600,
+    "closedAt": 1600127999
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      5
+    ],
+    "targetIds": [
+      6999
+    ],
+    "script": {},
+    "id": 6000221,
+    "baseShopId": 6000221,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 31,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Crystallized Lore",
+    "detail": "Exchange for [Skill up Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1597449600,
+    "closedAt": 1600127999
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      3
+    ],
+    "targetIds": [
+      9570400
+    ],
+    "script": {},
+    "id": 6000222,
+    "baseShopId": 6000222,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 32,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Hero Crystal: Meteor Fou",
+    "detail": "Exchange for one ★4 ALL HP Up card",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1597449600,
+    "closedAt": 1600127999
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      3
+    ],
+    "targetIds": [
+      9670400
+    ],
+    "script": {},
+    "id": 6000223,
+    "baseShopId": 6000223,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 33,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Hero Crystal: Corona Fou",
+    "detail": "Exchange for one ★4 ALL ATK Up card",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1597449600,
+    "closedAt": 1600127999
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      4
+    ],
+    "script": {},
+    "id": 6000224,
+    "baseShopId": 6000224,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 34,
+    "purchaseType": 1,
+    "setNum": 20000,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 5,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Friend Points",
+    "detail": "Exchange for 20,000 Friend Points",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1597449600,
+    "closedAt": 1600127999
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      5000
+    ],
+    "script": {},
+    "id": 6000225,
+    "baseShopId": 6000225,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 10,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 3,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "[Limited Time] Quick Code Opener",
+    "detail": "[3rd Anniversary]\nExchange for [Command Code Slot Release Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 80073,
+    "bgImageId": 0,
+    "openedAt": 1594080000,
+    "closedAt": 1595303999
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      5001
+    ],
+    "script": {},
+    "id": 6000226,
+    "baseShopId": 6000226,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 11,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 3,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "[Limited Time] Arts Code Opener",
+    "detail": "[3rd Anniversary]\nExchange for [Command Code Slot Release Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 80074,
+    "bgImageId": 0,
+    "openedAt": 1594080000,
+    "closedAt": 1595303999
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      5002
+    ],
+    "script": {},
+    "id": 6000227,
+    "baseShopId": 6000227,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 12,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 3,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "[Limited Time] Buster Code Opener",
+    "detail": "[3rd Anniversary]\nExchange for [Command Code Slot Release Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 80075,
+    "bgImageId": 0,
+    "openedAt": 1594080000,
+    "closedAt": 1595303999
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      100
+    ],
+    "targetIds": [
+      5003
+    ],
+    "script": {},
+    "id": 6000228,
+    "baseShopId": 6000228,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 13,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 3,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "[Limited Time] Code Remover",
+    "detail": "[3rd Anniversary]\nExchange for [Command Code Detacher Item]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 80076,
+    "bgImageId": 0,
+    "openedAt": 1594080000,
+    "closedAt": 1595303999
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      100
+    ],
+    "targetIds": [
+      5000
+    ],
+    "script": {},
+    "id": 6000229,
+    "baseShopId": 6000229,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 50,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 3,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Quick Code Opener",
+    "detail": "Exchange for [Command Code Slot Release Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1594080000,
+    "closedAt": 1598918399
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      100
+    ],
+    "targetIds": [
+      5001
+    ],
+    "script": {},
+    "id": 6000230,
+    "baseShopId": 6000230,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 51,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 3,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Arts Code Opener",
+    "detail": "Exchange for [Command Code Slot Release Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1594080000,
+    "closedAt": 1598918399
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      100
+    ],
+    "targetIds": [
+      5002
+    ],
+    "script": {},
+    "id": 6000231,
+    "baseShopId": 6000231,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 52,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 3,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Buster Code Opener",
+    "detail": "Exchange for [Command Code Slot Release Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1594080000,
+    "closedAt": 1598918399
   },
   {
     "itemIds": [
@@ -51632,7 +52589,7 @@
     "setNum": 5,
     "payType": 4,
     "shopType": 4,
-    "limitNum": 40,
+    "limitNum": 60,
     "defaultLv": 0,
     "defaultLimitCount": 0,
     "name": "Expand Second Archive (Servant)",
@@ -51641,7 +52598,7 @@
     "warningMessage": "",
     "imageId": 20,
     "bgImageId": 0,
-    "openedAt": 1590552000,
+    "openedAt": 1594080000,
     "closedAt": 1901231999
   },
   {
@@ -51665,7 +52622,7 @@
     "setNum": 5,
     "payType": 4,
     "shopType": 5,
-    "limitNum": 40,
+    "limitNum": 60,
     "defaultLv": 0,
     "defaultLimitCount": 0,
     "name": "Expand Second Archive (CE)",
@@ -51674,7 +52631,7 @@
     "warningMessage": "",
     "imageId": 21,
     "bgImageId": 0,
-    "openedAt": 1590552000,
+    "openedAt": 1594080000,
     "closedAt": 1901231999
   },
   {
@@ -93145,6 +94102,1293 @@
     "bgImageId": 80107,
     "openedAt": 1591156800,
     "closedAt": 1592884799
+  },
+  {
+    "itemIds": [
+      94026901
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9302930
+    ],
+    "script": {},
+    "id": 80111001,
+    "baseShopId": 80111001,
+    "eventId": 80111,
+    "slot": 0,
+    "flag": 0,
+    "priority": 4,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 80,
+    "defaultLimitCount": 4,
+    "name": "Travel Portrait: Archer of Inferno",
+    "detail": "[Exchange for only 2 out of 39!]\nExchange for a FGO 2020 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Warning:\n\n[FF0000]Only 2 of the 39 types[-] can be redeemed.\n\nOnce you redeem it, you cannot change to a different Craft Essence.\n\nWill you exchange for\n\n{0}?",
+    "imageId": 0,
+    "bgImageId": 80111,
+    "openedAt": 1594080000,
+    "closedAt": 1595735999
+  },
+  {
+    "itemIds": [
+      94026901
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9302940
+    ],
+    "script": {},
+    "id": 80111002,
+    "baseShopId": 80111002,
+    "eventId": 80111,
+    "slot": 0,
+    "flag": 0,
+    "priority": 20,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 80,
+    "defaultLimitCount": 4,
+    "name": "Travel Portrait: Asterios",
+    "detail": "[Exchange for only 2 out of 39!]\nExchange for a FGO 2020 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Warning:\n\n[FF0000]Only 2 of the 39 types[-] can be redeemed.\n\nOnce you redeem it, you cannot change to a different Craft Essence.\n\nWill you exchange for\n\n{0}?",
+    "imageId": 0,
+    "bgImageId": 80111,
+    "openedAt": 1594080000,
+    "closedAt": 1595735999
+  },
+  {
+    "itemIds": [
+      94026901
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9302950
+    ],
+    "script": {},
+    "id": 80111003,
+    "baseShopId": 80111003,
+    "eventId": 80111,
+    "slot": 0,
+    "flag": 0,
+    "priority": 21,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 80,
+    "defaultLimitCount": 4,
+    "name": "Travel Portrait: Atalante",
+    "detail": "[Exchange for only 2 out of 39!]\nExchange for a FGO 2020 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Warning:\n\n[FF0000]Only 2 of the 39 types[-] can be redeemed.\n\nOnce you redeem it, you cannot change to a different Craft Essence.\n\nWill you exchange for\n\n{0}?",
+    "imageId": 0,
+    "bgImageId": 80111,
+    "openedAt": 1594080000,
+    "closedAt": 1595735999
+  },
+  {
+    "itemIds": [
+      94026901
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9302960
+    ],
+    "script": {},
+    "id": 80111004,
+    "baseShopId": 80111004,
+    "eventId": 80111,
+    "slot": 0,
+    "flag": 0,
+    "priority": 1,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 80,
+    "defaultLimitCount": 4,
+    "name": "Travel Portrait: Abigail Williams",
+    "detail": "[Exchange for only 2 out of 39!]\nExchange for a FGO 2020 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Warning:\n\n[FF0000]Only 2 of the 39 types[-] can be redeemed.\n\nOnce you redeem it, you cannot change to a different Craft Essence.\n\nWill you exchange for\n\n{0}?",
+    "imageId": 0,
+    "bgImageId": 80111,
+    "openedAt": 1594080000,
+    "closedAt": 1595735999
+  },
+  {
+    "itemIds": [
+      94026901
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9302970
+    ],
+    "script": {},
+    "id": 80111005,
+    "baseShopId": 80111005,
+    "eventId": 80111,
+    "slot": 0,
+    "flag": 0,
+    "priority": 14,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 80,
+    "defaultLimitCount": 4,
+    "name": "Travel Portait: Arjuna",
+    "detail": "[Exchange for only 2 out of 39!]\nExchange for a FGO 2020 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Warning:\n\n[FF0000]Only 2 of the 39 types[-] can be redeemed.\n\nOnce you redeem it, you cannot change to a different Craft Essence.\n\nWill you exchange for\n\n{0}?",
+    "imageId": 0,
+    "bgImageId": 80111,
+    "openedAt": 1594080000,
+    "closedAt": 1595735999
+  },
+  {
+    "itemIds": [
+      94026901
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9302980
+    ],
+    "script": {},
+    "id": 80111006,
+    "baseShopId": 80111006,
+    "eventId": 80111,
+    "slot": 0,
+    "flag": 0,
+    "priority": 23,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 80,
+    "defaultLimitCount": 4,
+    "name": "Travel Portrait: Altera",
+    "detail": "[Exchange for only 2 out of 39!]\nExchange for a FGO 2020 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Warning:\n\n[FF0000]Only 2 of the 39 types[-] can be redeemed.\n\nOnce you redeem it, you cannot change to a different Craft Essence.\n\nWill you exchange for\n\n{0}?",
+    "imageId": 0,
+    "bgImageId": 80111,
+    "openedAt": 1594080000,
+    "closedAt": 1595735999
+  },
+  {
+    "itemIds": [
+      94026901
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9302990
+    ],
+    "script": {},
+    "id": 80111007,
+    "baseShopId": 80111007,
+    "eventId": 80111,
+    "slot": 0,
+    "flag": 0,
+    "priority": 25,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 80,
+    "defaultLimitCount": 4,
+    "name": "Travel Portrait: Altria Pendragon Alter (Saber)",
+    "detail": "[Exchange for only 2 out of 39!]\nExchange for a FGO 2020 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Warning:\n\n[FF0000]Only 2 of the 39 types[-] can be redeemed.\n\nOnce you redeem it, you cannot change to a different Craft Essence.\n\nWill you exchange for\n\n{0}?",
+    "imageId": 0,
+    "bgImageId": 80111,
+    "openedAt": 1594080000,
+    "closedAt": 1595735999
+  },
+  {
+    "itemIds": [
+      94026901
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9303000
+    ],
+    "script": {},
+    "id": 80111008,
+    "baseShopId": 80111008,
+    "eventId": 80111,
+    "slot": 0,
+    "flag": 0,
+    "priority": 18,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 80,
+    "defaultLimitCount": 4,
+    "name": "Travel Portrait: Altria Pendragon Alter (Lancer)",
+    "detail": "[Exchange for only 2 out of 39!]\nExchange for a FGO 2020 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Warning:\n\n[FF0000]Only 2 of the 39 types[-] can be redeemed.\n\nOnce you redeem it, you cannot change to a different Craft Essence.\n\nWill you exchange for\n\n{0}?",
+    "imageId": 0,
+    "bgImageId": 80111,
+    "openedAt": 1594080000,
+    "closedAt": 1595735999
+  },
+  {
+    "itemIds": [
+      94026901
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9303010
+    ],
+    "script": {},
+    "id": 80111009,
+    "baseShopId": 80111009,
+    "eventId": 80111,
+    "slot": 0,
+    "flag": 0,
+    "priority": 26,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 80,
+    "defaultLimitCount": 4,
+    "name": "Travel Portrait: Antonio Salieri",
+    "detail": "[Exchange for only 2 out of 39!]\nExchange for a FGO 2020 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Warning:\n\n[FF0000]Only 2 of the 39 types[-] can be redeemed.\n\nOnce you redeem it, you cannot change to a different Craft Essence.\n\nWill you exchange for\n\n{0}?",
+    "imageId": 0,
+    "bgImageId": 80111,
+    "openedAt": 1594080000,
+    "closedAt": 1595735999
+  },
+  {
+    "itemIds": [
+      94026901
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9303020
+    ],
+    "script": {},
+    "id": 80111010,
+    "baseShopId": 80111010,
+    "eventId": 80111,
+    "slot": 0,
+    "flag": 0,
+    "priority": 27,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 80,
+    "defaultLimitCount": 4,
+    "name": "Travel Portrait: Wolfgang Amadeus Mozart",
+    "detail": "[Exchange for only 2 out of 39!]\nExchange for a FGO 2020 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Warning:\n\n[FF0000]Only 2 of the 39 types[-] can be redeemed.\n\nOnce you redeem it, you cannot change to a different Craft Essence.\n\nWill you exchange for\n\n{0}?",
+    "imageId": 0,
+    "bgImageId": 80111,
+    "openedAt": 1594080000,
+    "closedAt": 1595735999
+  },
+  {
+    "itemIds": [
+      94026901
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9303030
+    ],
+    "script": {},
+    "id": 80111011,
+    "baseShopId": 80111011,
+    "eventId": 80111,
+    "slot": 0,
+    "flag": 0,
+    "priority": 11,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 80,
+    "defaultLimitCount": 4,
+    "name": "Travel Portrait: Ereshkigal",
+    "detail": "[Exchange for only 2 out of 39!]\nExchange for a FGO 2020 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Warning:\n\n[FF0000]Only 2 of the 39 types[-] can be redeemed.\n\nOnce you redeem it, you cannot change to a different Craft Essence.\n\nWill you exchange for\n\n{0}?",
+    "imageId": 0,
+    "bgImageId": 80111,
+    "openedAt": 1594080000,
+    "closedAt": 1595735999
+  },
+  {
+    "itemIds": [
+      94026901
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9303040
+    ],
+    "script": {},
+    "id": 80111012,
+    "baseShopId": 80111012,
+    "eventId": 80111,
+    "slot": 0,
+    "flag": 0,
+    "priority": 2,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 80,
+    "defaultLimitCount": 4,
+    "name": "Travel Portrait: Caster of Okeanos",
+    "detail": "[Exchange for only 2 out of 39!]\nExchange for a FGO 2020 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Warning:\n\n[FF0000]Only 2 of the 39 types[-] can be redeemed.\n\nOnce you redeem it, you cannot change to a different Craft Essence.\n\nWill you exchange for\n\n{0}?",
+    "imageId": 0,
+    "bgImageId": 80111,
+    "openedAt": 1594080000,
+    "closedAt": 1595735999
+  },
+  {
+    "itemIds": [
+      94026901
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9303050
+    ],
+    "script": {},
+    "id": 80111013,
+    "baseShopId": 80111013,
+    "eventId": 80111,
+    "slot": 0,
+    "flag": 0,
+    "priority": 28,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 80,
+    "defaultLimitCount": 4,
+    "name": "Travel Portrait: Osakabehime",
+    "detail": "[Exchange for only 2 out of 39!]\nExchange for a FGO 2020 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Warning:\n\n[FF0000]Only 2 of the 39 types[-] can be redeemed.\n\nOnce you redeem it, you cannot change to a different Craft Essence.\n\nWill you exchange for\n\n{0}?",
+    "imageId": 0,
+    "bgImageId": 80111,
+    "openedAt": 1594080000,
+    "closedAt": 1595735999
+  },
+  {
+    "itemIds": [
+      94026901
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9303060
+    ],
+    "script": {},
+    "id": 80111014,
+    "baseShopId": 80111014,
+    "eventId": 80111,
+    "slot": 0,
+    "flag": 0,
+    "priority": 29,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 80,
+    "defaultLimitCount": 4,
+    "name": "Travel Portrait: Carmilla",
+    "detail": "[Exchange for only 2 out of 39!]\nExchange for a FGO 2020 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Warning:\n\n[FF0000]Only 2 of the 39 types[-] can be redeemed.\n\nOnce you redeem it, you cannot change to a different Craft Essence.\n\nWill you exchange for\n\n{0}?",
+    "imageId": 0,
+    "bgImageId": 80111,
+    "openedAt": 1594080000,
+    "closedAt": 1595735999
+  },
+  {
+    "itemIds": [
+      94026901
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9303070
+    ],
+    "script": {},
+    "id": 80111015,
+    "baseShopId": 80111015,
+    "eventId": 80111,
+    "slot": 0,
+    "flag": 0,
+    "priority": 30,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 80,
+    "defaultLimitCount": 4,
+    "name": "Travel Portrait: Katsushika Hokusai",
+    "detail": "[Exchange for only 2 out of 39!]\nExchange for a FGO 2020 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Warning:\n\n[FF0000]Only 2 of the 39 types[-] can be redeemed.\n\nOnce you redeem it, you cannot change to a different Craft Essence.\n\nWill you exchange for\n\n{0}?",
+    "imageId": 0,
+    "bgImageId": 80111,
+    "openedAt": 1594080000,
+    "closedAt": 1595735999
+  },
+  {
+    "itemIds": [
+      94026901
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9303080
+    ],
+    "script": {},
+    "id": 80111016,
+    "baseShopId": 80111016,
+    "eventId": 80111,
+    "slot": 0,
+    "flag": 0,
+    "priority": 15,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 80,
+    "defaultLimitCount": 4,
+    "name": "Travel Portrait: Karna",
+    "detail": "[Exchange for only 2 out of 39!]\nExchange for a FGO 2020 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Warning:\n\n[FF0000]Only 2 of the 39 types[-] can be redeemed.\n\nOnce you redeem it, you cannot change to a different Craft Essence.\n\nWill you exchange for\n\n{0}?",
+    "imageId": 0,
+    "bgImageId": 80111,
+    "openedAt": 1594080000,
+    "closedAt": 1595735999
+  },
+  {
+    "itemIds": [
+      94026901
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9303090
+    ],
+    "script": {},
+    "id": 80111017,
+    "baseShopId": 80111017,
+    "eventId": 80111,
+    "slot": 0,
+    "flag": 0,
+    "priority": 31,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 80,
+    "defaultLimitCount": 4,
+    "name": "Travel Portrait: Kiyohime",
+    "detail": "[Exchange for only 2 out of 39!]\nExchange for a FGO 2020 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Warning:\n\n[FF0000]Only 2 of the 39 types[-] can be redeemed.\n\nOnce you redeem it, you cannot change to a different Craft Essence.\n\nWill you exchange for\n\n{0}?",
+    "imageId": 0,
+    "bgImageId": 80111,
+    "openedAt": 1594080000,
+    "closedAt": 1595735999
+  },
+  {
+    "itemIds": [
+      94026901
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9303100
+    ],
+    "script": {},
+    "id": 80111018,
+    "baseShopId": 80111018,
+    "eventId": 80111,
+    "slot": 0,
+    "flag": 0,
+    "priority": 13,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 80,
+    "defaultLimitCount": 4,
+    "name": "Travel Portrait: Xuanzang Sanzang",
+    "detail": "[Exchange for only 2 out of 39!]\nExchange for a FGO 2020 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Warning:\n\n[FF0000]Only 2 of the 39 types[-] can be redeemed.\n\nOnce you redeem it, you cannot change to a different Craft Essence.\n\nWill you exchange for\n\n{0}?",
+    "imageId": 0,
+    "bgImageId": 80111,
+    "openedAt": 1594080000,
+    "closedAt": 1595735999
+  },
+  {
+    "itemIds": [
+      94026901
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9303110
+    ],
+    "script": {},
+    "id": 80111019,
+    "baseShopId": 80111019,
+    "eventId": 80111,
+    "slot": 0,
+    "flag": 0,
+    "priority": 5,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 80,
+    "defaultLimitCount": 4,
+    "name": "Travel Portrait: Sasaki Kojirou",
+    "detail": "[Exchange for only 2 out of 39!]\nExchange for a FGO 2020 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Warning:\n\n[FF0000]Only 2 of the 39 types[-] can be redeemed.\n\nOnce you redeem it, you cannot change to a different Craft Essence.\n\nWill you exchange for\n\n{0}?",
+    "imageId": 0,
+    "bgImageId": 80111,
+    "openedAt": 1594080000,
+    "closedAt": 1595735999
+  },
+  {
+    "itemIds": [
+      94026901
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9303120
+    ],
+    "script": {},
+    "id": 80111020,
+    "baseShopId": 80111020,
+    "eventId": 80111,
+    "slot": 0,
+    "flag": 0,
+    "priority": 9,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 80,
+    "defaultLimitCount": 4,
+    "name": "Travel Portrait: Sherlock Holmes",
+    "detail": "[Exchange for only 2 out of 39!]\nExchange for a FGO 2020 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Warning:\n\n[FF0000]Only 2 of the 39 types[-] can be redeemed.\n\nOnce you redeem it, you cannot change to a different Craft Essence.\n\nWill you exchange for\n\n{0}?",
+    "imageId": 0,
+    "bgImageId": 80111,
+    "openedAt": 1594080000,
+    "closedAt": 1595735999
+  },
+  {
+    "itemIds": [
+      94026901
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9303130
+    ],
+    "script": {},
+    "id": 80111021,
+    "baseShopId": 80111021,
+    "eventId": 80111,
+    "slot": 0,
+    "flag": 0,
+    "priority": 32,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 80,
+    "defaultLimitCount": 4,
+    "name": "Travel Portrait: Charles-Henri Sanson",
+    "detail": "[Exchange for only 2 out of 39!]\nExchange for a FGO 2020 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Warning:\n\n[FF0000]Only 2 of the 39 types[-] can be redeemed.\n\nOnce you redeem it, you cannot change to a different Craft Essence.\n\nWill you exchange for\n\n{0}?",
+    "imageId": 0,
+    "bgImageId": 80111,
+    "openedAt": 1594080000,
+    "closedAt": 1595735999
+  },
+  {
+    "itemIds": [
+      94026901
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9303140
+    ],
+    "script": {},
+    "id": 80111022,
+    "baseShopId": 80111022,
+    "eventId": 80111,
+    "slot": 0,
+    "flag": 0,
+    "priority": 10,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 80,
+    "defaultLimitCount": 4,
+    "name": "Travel Portrait: Assassin of Shinjuku",
+    "detail": "[Exchange for only 2 out of 39!]\nExchange for a FGO 2020 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Warning:\n\n[FF0000]Only 2 of the 39 types[-] can be redeemed.\n\nOnce you redeem it, you cannot change to a different Craft Essence.\n\nWill you exchange for\n\n{0}?",
+    "imageId": 0,
+    "bgImageId": 80111,
+    "openedAt": 1594080000,
+    "closedAt": 1595735999
+  },
+  {
+    "itemIds": [
+      94026901
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9303150
+    ],
+    "script": {},
+    "id": 80111023,
+    "baseShopId": 80111023,
+    "eventId": 80111,
+    "slot": 0,
+    "flag": 0,
+    "priority": 6,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 80,
+    "defaultLimitCount": 4,
+    "name": "Travel Portrait: Miyamoto Musashi",
+    "detail": "[Exchange for only 2 out of 39!]\nExchange for a FGO 2020 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Warning:\n\n[FF0000]Only 2 of the 39 types[-] can be redeemed.\n\nOnce you redeem it, you cannot change to a different Craft Essence.\n\nWill you exchange for\n\n{0}?",
+    "imageId": 0,
+    "bgImageId": 80111,
+    "openedAt": 1594080000,
+    "closedAt": 1595735999
+  },
+  {
+    "itemIds": [
+      94026901
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9303160
+    ],
+    "script": {},
+    "id": 80111024,
+    "baseShopId": 80111024,
+    "eventId": 80111,
+    "slot": 0,
+    "flag": 0,
+    "priority": 16,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 80,
+    "defaultLimitCount": 4,
+    "name": "Travel Portait: Scáthach",
+    "detail": "[Exchange for only 2 out of 39!]\nExchange for a FGO 2020 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Warning:\n\n[FF0000]Only 2 of the 39 types[-] can be redeemed.\n\nOnce you redeem it, you cannot change to a different Craft Essence.\n\nWill you exchange for\n\n{0}?",
+    "imageId": 0,
+    "bgImageId": 80111,
+    "openedAt": 1594080000,
+    "closedAt": 1595735999
+  },
+  {
+    "itemIds": [
+      94026901
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9303170
+    ],
+    "script": {},
+    "id": 80111025,
+    "baseShopId": 80111025,
+    "eventId": 80111,
+    "slot": 0,
+    "flag": 0,
+    "priority": 33,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 80,
+    "defaultLimitCount": 4,
+    "name": "Travel Portrait: Suzuka Gozen",
+    "detail": "[Exchange for only 2 out of 39!]\nExchange for a FGO 2020 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Warning:\n\n[FF0000]Only 2 of the 39 types[-] can be redeemed.\n\nOnce you redeem it, you cannot change to a different Craft Essence.\n\nWill you exchange for\n\n{0}?",
+    "imageId": 0,
+    "bgImageId": 80111,
+    "openedAt": 1594080000,
+    "closedAt": 1595735999
+  },
+  {
+    "itemIds": [
+      94026901
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9303180
+    ],
+    "script": {},
+    "id": 80111026,
+    "baseShopId": 80111026,
+    "eventId": 80111,
+    "slot": 0,
+    "flag": 0,
+    "priority": 22,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 80,
+    "defaultLimitCount": 4,
+    "name": "Travel Portrait: David",
+    "detail": "[Exchange for only 2 out of 39!]\nExchange for a FGO 2020 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Warning:\n\n[FF0000]Only 2 of the 39 types[-] can be redeemed.\n\nOnce you redeem it, you cannot change to a different Craft Essence.\n\nWill you exchange for\n\n{0}?",
+    "imageId": 0,
+    "bgImageId": 80111,
+    "openedAt": 1594080000,
+    "closedAt": 1595735999
+  },
+  {
+    "itemIds": [
+      94026901
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9303190
+    ],
+    "script": {},
+    "id": 80111027,
+    "baseShopId": 80111027,
+    "eventId": 80111,
+    "slot": 0,
+    "flag": 0,
+    "priority": 19,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 80,
+    "defaultLimitCount": 4,
+    "name": "Travel Portrait: Tamamo-no-Mae",
+    "detail": "[Exchange for only 2 out of 39!]\nExchange for a FGO 2020 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Warning:\n\n[FF0000]Only 2 of the 39 types[-] can be redeemed.\n\nOnce you redeem it, you cannot change to a different Craft Essence.\n\nWill you exchange for\n\n{0}?",
+    "imageId": 0,
+    "bgImageId": 80111,
+    "openedAt": 1594080000,
+    "closedAt": 1595735999
+  },
+  {
+    "itemIds": [
+      94026901
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9303200
+    ],
+    "script": {},
+    "id": 80111028,
+    "baseShopId": 80111028,
+    "eventId": 80111,
+    "slot": 0,
+    "flag": 0,
+    "priority": 17,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 80,
+    "defaultLimitCount": 4,
+    "name": "Travel Portrait: Florence Nightingale",
+    "detail": "[Exchange for only 2 out of 39!]\nExchange for a FGO 2020 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Warning:\n\n[FF0000]Only 2 of the 39 types[-] can be redeemed.\n\nOnce you redeem it, you cannot change to a different Craft Essence.\n\nWill you exchange for\n\n{0}?",
+    "imageId": 0,
+    "bgImageId": 80111,
+    "openedAt": 1594080000,
+    "closedAt": 1595735999
+  },
+  {
+    "itemIds": [
+      94026901
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9303210
+    ],
+    "script": {},
+    "id": 80111029,
+    "baseShopId": 80111029,
+    "eventId": 80111,
+    "slot": 0,
+    "flag": 0,
+    "priority": 34,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 80,
+    "defaultLimitCount": 4,
+    "name": "Travel Portrait: Mysterious Heroine X (Alter)",
+    "detail": "[Exchange for only 2 out of 39!]\nExchange for a FGO 2020 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Warning:\n\n[FF0000]Only 2 of the 39 types[-] can be redeemed.\n\nOnce you redeem it, you cannot change to a different Craft Essence.\n\nWill you exchange for\n\n{0}?",
+    "imageId": 0,
+    "bgImageId": 80111,
+    "openedAt": 1594080000,
+    "closedAt": 1595735999
+  },
+  {
+    "itemIds": [
+      94026901
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9303220
+    ],
+    "script": {},
+    "id": 80111030,
+    "baseShopId": 80111030,
+    "eventId": 80111,
+    "slot": 0,
+    "flag": 0,
+    "priority": 3,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 80,
+    "defaultLimitCount": 4,
+    "name": "Travel Portrait: Nezha",
+    "detail": "[Exchange for only 2 out of 39!]\nExchange for a FGO 2020 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Warning:\n\n[FF0000]Only 2 of the 39 types[-] can be redeemed.\n\nOnce you redeem it, you cannot change to a different Craft Essence.\n\nWill you exchange for\n\n{0}?",
+    "imageId": 0,
+    "bgImageId": 80111,
+    "openedAt": 1594080000,
+    "closedAt": 1595735999
+  },
+  {
+    "itemIds": [
+      94026901
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9303230
+    ],
+    "script": {},
+    "id": 80111031,
+    "baseShopId": 80111031,
+    "eventId": 80111,
+    "slot": 0,
+    "flag": 0,
+    "priority": 24,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 80,
+    "defaultLimitCount": 4,
+    "name": "Travel Portrait: Nero Claudius",
+    "detail": "[Exchange for only 2 out of 39!]\nExchange for a FGO 2020 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Warning:\n\n[FF0000]Only 2 of the 39 types[-] can be redeemed.\n\nOnce you redeem it, you cannot change to a different Craft Essence.\n\nWill you exchange for\n\n{0}?",
+    "imageId": 0,
+    "bgImageId": 80111,
+    "openedAt": 1594080000,
+    "closedAt": 1595735999
+  },
+  {
+    "itemIds": [
+      94026901
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9303240
+    ],
+    "script": {},
+    "id": 80111032,
+    "baseShopId": 80111032,
+    "eventId": 80111,
+    "slot": 0,
+    "flag": 0,
+    "priority": 35,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 80,
+    "defaultLimitCount": 4,
+    "name": "Travel Portrait: Brynhild",
+    "detail": "[Exchange for only 2 out of 39!]\nExchange for a FGO 2020 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Warning:\n\n[FF0000]Only 2 of the 39 types[-] can be redeemed.\n\nOnce you redeem it, you cannot change to a different Craft Essence.\n\nWill you exchange for\n\n{0}?",
+    "imageId": 0,
+    "bgImageId": 80111,
+    "openedAt": 1594080000,
+    "closedAt": 1595735999
+  },
+  {
+    "itemIds": [
+      94026901
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9303250
+    ],
+    "script": {},
+    "id": 80111033,
+    "baseShopId": 80111033,
+    "eventId": 80111,
+    "slot": 0,
+    "flag": 0,
+    "priority": 36,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 80,
+    "defaultLimitCount": 4,
+    "name": "Travel Portrait: Paul Bunyan",
+    "detail": "[Exchange for only 2 out of 39!]\nExchange for a FGO 2020 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Warning:\n\n[FF0000]Only 2 of the 39 types[-] can be redeemed.\n\nOnce you redeem it, you cannot change to a different Craft Essence.\n\nWill you exchange for\n\n{0}?",
+    "imageId": 0,
+    "bgImageId": 80111,
+    "openedAt": 1594080000,
+    "closedAt": 1595735999
+  },
+  {
+    "itemIds": [
+      94026901
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9303260
+    ],
+    "script": {},
+    "id": 80111034,
+    "baseShopId": 80111034,
+    "eventId": 80111,
+    "slot": 0,
+    "flag": 0,
+    "priority": 12,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 80,
+    "defaultLimitCount": 4,
+    "name": "Travel Portrait: Merlin",
+    "detail": "[Exchange for only 2 out of 39!]\nExchange for a FGO 2020 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Warning:\n\n[FF0000]Only 2 of the 39 types[-] can be redeemed.\n\nOnce you redeem it, you cannot change to a different Craft Essence.\n\nWill you exchange for\n\n{0}?",
+    "imageId": 0,
+    "bgImageId": 80111,
+    "openedAt": 1594080000,
+    "closedAt": 1595735999
+  },
+  {
+    "itemIds": [
+      94026901
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9303270
+    ],
+    "script": {},
+    "id": 80111035,
+    "baseShopId": 80111035,
+    "eventId": 80111,
+    "slot": 0,
+    "flag": 0,
+    "priority": 37,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 80,
+    "defaultLimitCount": 4,
+    "name": "Travel Portrait: Mash Kyrielight",
+    "detail": "[Exchange for only 2 out of 39!]\nExchange for a FGO 2020 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Warning:\n\n[FF0000]Only 2 of the 39 types[-] can be redeemed.\n\nOnce you redeem it, you cannot change to a different Craft Essence.\n\nWill you exchange for\n\n{0}?",
+    "imageId": 0,
+    "bgImageId": 80111,
+    "openedAt": 1594080000,
+    "closedAt": 1595735999
+  },
+  {
+    "itemIds": [
+      94026901
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9303280
+    ],
+    "script": {},
+    "id": 80111036,
+    "baseShopId": 80111036,
+    "eventId": 80111,
+    "slot": 0,
+    "flag": 0,
+    "priority": 38,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 80,
+    "defaultLimitCount": 4,
+    "name": "Travel Portrait: Martha",
+    "detail": "[Exchange for only 2 out of 39!]\nExchange for a FGO 2020 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Warning:\n\n[FF0000]Only 2 of the 39 types[-] can be redeemed.\n\nOnce you redeem it, you cannot change to a different Craft Essence.\n\nWill you exchange for\n\n{0}?",
+    "imageId": 0,
+    "bgImageId": 80111,
+    "openedAt": 1594080000,
+    "closedAt": 1595735999
+  },
+  {
+    "itemIds": [
+      94026901
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9303290
+    ],
+    "script": {},
+    "id": 80111037,
+    "baseShopId": 80111037,
+    "eventId": 80111,
+    "slot": 0,
+    "flag": 0,
+    "priority": 7,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 80,
+    "defaultLimitCount": 4,
+    "name": "Travel Portrait: Minamoto-no-Raikou",
+    "detail": "[Exchange for only 2 out of 39!]\nExchange for a FGO 2020 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Warning:\n\n[FF0000]Only 2 of the 39 types[-] can be redeemed.\n\nOnce you redeem it, you cannot change to a different Craft Essence.\n\nWill you exchange for\n\n{0}?",
+    "imageId": 0,
+    "bgImageId": 80111,
+    "openedAt": 1594080000,
+    "closedAt": 1595735999
+  },
+  {
+    "itemIds": [
+      94026901
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9303300
+    ],
+    "script": {},
+    "id": 80111038,
+    "baseShopId": 80111038,
+    "eventId": 80111,
+    "slot": 0,
+    "flag": 0,
+    "priority": 8,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 80,
+    "defaultLimitCount": 4,
+    "name": "Travel Portrait: Yagyu Tajima-no-kami Munenori",
+    "detail": "[Exchange for only 2 out of 39!]\nExchange for a FGO 2020 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Warning:\n\n[FF0000]Only 2 of the 39 types[-] can be redeemed.\n\nOnce you redeem it, you cannot change to a different Craft Essence.\n\nWill you exchange for\n\n{0}?",
+    "imageId": 0,
+    "bgImageId": 80111,
+    "openedAt": 1594080000,
+    "closedAt": 1595735999
+  },
+  {
+    "itemIds": [
+      94026901
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9303310
+    ],
+    "script": {},
+    "id": 80111039,
+    "baseShopId": 80111039,
+    "eventId": 80111,
+    "slot": 0,
+    "flag": 0,
+    "priority": 39,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 80,
+    "defaultLimitCount": 4,
+    "name": "Travel Portrait: Leonardo da Vinci",
+    "detail": "[Exchange for only 2 out of 39!]\nExchange for a FGO 2020 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Warning:\n\n[FF0000]Only 2 of the 39 types[-] can be redeemed.\n\nOnce you redeem it, you cannot change to a different Craft Essence.\n\nWill you exchange for\n\n{0}?",
+    "imageId": 0,
+    "bgImageId": 80111,
+    "openedAt": 1594080000,
+    "closedAt": 1595735999
   },
   {
     "itemIds": [

@@ -926,7 +926,7 @@
     "id": 145,
     "buffGroup": 0,
     "type": 71,
-    "name": "Critical Hit rateDown",
+    "name": "Critical Hit Rate Down",
     "detail": "Decrease Critical Hit rate",
     "iconId": 523,
     "maxRate": 5000,
@@ -7611,8 +7611,8 @@
     "id": 508,
     "buffGroup": 0,
     "type": 89,
-    "name": "NP Death Chance Up",
-    "detail": "Increase chance to inflict Death with Noble Phantasm",
+    "name": "Bonus Effect (Debuff)",
+    "detail": "Target receives debuffs with normal attacks [Cannot be removed]",
     "iconId": 528,
     "maxRate": 0,
     "effectId": 0
@@ -14735,6 +14735,77 @@
     "detail": "Increase NP DEF [Unremovable]",
     "iconId": 301,
     "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005,
+      3048
+    ],
+    "tvals": [],
+    "ckSelfIndv": [
+      3026
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1115,
+    "buffGroup": 0,
+    "type": 126,
+    "name": "Disastrous Curse",
+    "detail": "Increase Curse effectiveness",
+    "iconId": 547,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1116,
+    "buffGroup": 0,
+    "type": 6,
+    "name": "Throw/Retrieve",
+    "detail": "Gain C. Stars at end of each turn",
+    "iconId": 320,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006,
+      3032
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1117,
+    "buffGroup": 0,
+    "type": 70,
+    "name": "Throw/Retrieve",
+    "detail": "Increase Critical Hit rate",
+    "iconId": 327,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1601,
+    "buffGroup": 0,
+    "type": 138,
+    "name": "Command Code Bonus Attack Effect",
+    "detail": "An additional effect is granted when attacking with the engraved Command Card.",
+    "iconId": 333,
+    "maxRate": 0,
     "effectId": 0
   }
 ]
