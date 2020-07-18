@@ -2030,6 +2030,16 @@
     "isDispValue": true
   },
   {
+    "funcId": 1611,
+    "eventId": 80108,
+    "baseFuncId": 0,
+    "nameTotal": "{1}\nTotal Quick Strength Up",
+    "name": "Increase Quick strength",
+    "iconId": 0,
+    "priority": 10,
+    "isDispValue": true
+  },
+  {
     "funcId": 1612,
     "eventId": 80064,
     "baseFuncId": 0,
@@ -2040,11 +2050,31 @@
     "isDispValue": true
   },
   {
+    "funcId": 1612,
+    "eventId": 80108,
+    "baseFuncId": 0,
+    "nameTotal": "{1}\nTotal Arts Strength Up",
+    "name": "Increase Arts strength",
+    "iconId": 0,
+    "priority": 5,
+    "isDispValue": true
+  },
+  {
     "funcId": 1613,
     "eventId": 80064,
     "baseFuncId": 0,
     "nameTotal": "{1}\nTotal Buster Strength Up",
     "name": "Increase Buster Strength",
+    "iconId": 0,
+    "priority": 1,
+    "isDispValue": true
+  },
+  {
+    "funcId": 1613,
+    "eventId": 80108,
+    "baseFuncId": 0,
+    "nameTotal": "{1}\nTotal Buster Strength Up",
+    "name": "Increase Buster strength",
     "iconId": 0,
     "priority": 1,
     "isDispValue": true
@@ -2590,6 +2620,16 @@
     "isDispValue": true
   },
   {
+    "funcId": 2430,
+    "eventId": 80108,
+    "baseFuncId": 0,
+    "nameTotal": "{0}\nTotal Bonus Amount",
+    "name": "{0} acquired",
+    "iconId": 94015003,
+    "priority": 3000,
+    "isDispValue": true
+  },
+  {
     "funcId": 2431,
     "eventId": 80064,
     "baseFuncId": 0,
@@ -2600,8 +2640,28 @@
     "isDispValue": true
   },
   {
+    "funcId": 2431,
+    "eventId": 80108,
+    "baseFuncId": 0,
+    "nameTotal": "{0}\nTotal Bonus Amount",
+    "name": "{0} acquired",
+    "iconId": 94015002,
+    "priority": 2000,
+    "isDispValue": true
+  },
+  {
     "funcId": 2432,
     "eventId": 80064,
+    "baseFuncId": 0,
+    "nameTotal": "{0}\nTotal Bonus Amount",
+    "name": "{0} acquired",
+    "iconId": 94015001,
+    "priority": 1000,
+    "isDispValue": true
+  },
+  {
+    "funcId": 2432,
+    "eventId": 80108,
     "baseFuncId": 0,
     "nameTotal": "{0}\nTotal Bonus Amount",
     "name": "{0} acquired",

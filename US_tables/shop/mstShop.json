@@ -2776,6 +2776,39 @@
       0
     ],
     "prices": [
+      20
+    ],
+    "targetIds": [
+      11011
+    ],
+    "script": {},
+    "id": 14075,
+    "baseShopId": 14075,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 2,
+    "purchaseType": 5,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 10,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "[Limited Time] EXP Card Set",
+    "detail": "Dead Heat Summer Race Release Campaign\nExchange for 10 ★4 ALL EXP cards",
+    "infoMessage": "Exchange for 10 ★4 ALL EXP cards",
+    "warningMessage": "",
+    "imageId": 14,
+    "bgImageId": 0,
+    "openedAt": 1594958400,
+    "closedAt": 1596340799
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
       10
     ],
     "targetIds": [
@@ -9317,7 +9350,7 @@
     ],
     "script": {},
     "id": 4000281,
-    "baseShopId": 4000281,
+    "baseShopId": 4000282,
     "eventId": 0,
     "slot": 0,
     "flag": 0,
@@ -9700,6 +9733,39 @@
     "bgImageId": 0,
     "openedAt": 1594612800,
     "closedAt": 1594699199
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      503200
+    ],
+    "script": {},
+    "id": 4000293,
+    "baseShopId": 4000091,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 70,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Nero Claudius",
+    "detail": "Exchange for Limited Time ★5 Servant",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1594958400,
+    "closedAt": 1596340799
   },
   {
     "itemIds": [
@@ -94102,6 +94168,1326 @@
     "bgImageId": 80107,
     "openedAt": 1591156800,
     "closedAt": 1592884799
+  },
+  {
+    "itemIds": [
+      94025403
+    ],
+    "prices": [
+      400
+    ],
+    "targetIds": [
+      9402570
+    ],
+    "script": {},
+    "id": 80108001,
+    "baseShopId": 80108001,
+    "eventId": 80108,
+    "slot": 1,
+    "flag": 0,
+    "priority": 10,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 2,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Seaside Luxury",
+    "detail": "Exchange for Dead Heat Summer Race! Limited ★5 Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80108,
+    "openedAt": 1594958400,
+    "closedAt": 1596945599
+  },
+  {
+    "itemIds": [
+      94025402
+    ],
+    "prices": [
+      400
+    ],
+    "targetIds": [
+      9402570
+    ],
+    "script": {},
+    "id": 80108002,
+    "baseShopId": 80108002,
+    "eventId": 80108,
+    "slot": 1,
+    "flag": 0,
+    "priority": 20,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Seaside Luxury",
+    "detail": "Exchange for Dead Heat Summer Race! Limited ★5 Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80108,
+    "openedAt": 1594958400,
+    "closedAt": 1596945599
+  },
+  {
+    "itemIds": [
+      94025401
+    ],
+    "prices": [
+      400
+    ],
+    "targetIds": [
+      9402570
+    ],
+    "script": {},
+    "id": 80108003,
+    "baseShopId": 80108003,
+    "eventId": 80108,
+    "slot": 1,
+    "flag": 0,
+    "priority": 30,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Seaside Luxury",
+    "detail": "Exchange for Dead Heat Summer Race! Limited ★5 Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80108,
+    "openedAt": 1594958400,
+    "closedAt": 1596945599
+  },
+  {
+    "itemIds": [
+      94025403
+    ],
+    "prices": [
+      400
+    ],
+    "targetIds": [
+      94015007
+    ],
+    "script": {},
+    "id": 80108004,
+    "baseShopId": 80108004,
+    "eventId": 80108,
+    "slot": 1,
+    "flag": 0,
+    "priority": 40,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 2,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Golden Reed",
+    "detail": "Exchange for Dead Heat Summer Race! Limited [Ascension Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80108,
+    "openedAt": 1594958400,
+    "closedAt": 1596945599
+  },
+  {
+    "itemIds": [
+      94025402
+    ],
+    "prices": [
+      400
+    ],
+    "targetIds": [
+      94015007
+    ],
+    "script": {},
+    "id": 80108005,
+    "baseShopId": 80108005,
+    "eventId": 80108,
+    "slot": 1,
+    "flag": 0,
+    "priority": 50,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Golden Reed",
+    "detail": "Exchange for Dead Heat Summer Race! Limited [Ascension Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80108,
+    "openedAt": 1594958400,
+    "closedAt": 1596945599
+  },
+  {
+    "itemIds": [
+      94025401
+    ],
+    "prices": [
+      400
+    ],
+    "targetIds": [
+      94015007
+    ],
+    "script": {},
+    "id": 80108006,
+    "baseShopId": 80108006,
+    "eventId": 80108,
+    "slot": 1,
+    "flag": 0,
+    "priority": 60,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Golden Reed",
+    "detail": "Exchange for Dead Heat Summer Race! Limited [Ascension Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80108,
+    "openedAt": 1594958400,
+    "closedAt": 1596945599
+  },
+  {
+    "itemIds": [
+      94025403
+    ],
+    "prices": [
+      20
+    ],
+    "targetIds": [
+      94025406
+    ],
+    "script": {},
+    "id": 80108007,
+    "baseShopId": 80108007,
+    "eventId": 80108,
+    "slot": 1,
+    "flag": 0,
+    "priority": 70,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Buster Octane",
+    "detail": "Exchange for Dead Heat Summer Race! Limited Boost Item \"Buster Octane\"",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80108,
+    "openedAt": 1594958400,
+    "closedAt": 1596945599
+  },
+  {
+    "itemIds": [
+      94025402
+    ],
+    "prices": [
+      20
+    ],
+    "targetIds": [
+      94025405
+    ],
+    "script": {},
+    "id": 80108008,
+    "baseShopId": 80108008,
+    "eventId": 80108,
+    "slot": 1,
+    "flag": 0,
+    "priority": 80,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Arts Nitro",
+    "detail": "Exchange for Dead Heat Summer Race! Limited Boost Item \"Arts Nitro\"",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80108,
+    "openedAt": 1594958400,
+    "closedAt": 1596945599
+  },
+  {
+    "itemIds": [
+      94025401
+    ],
+    "prices": [
+      20
+    ],
+    "targetIds": [
+      94025404
+    ],
+    "script": {},
+    "id": 80108009,
+    "baseShopId": 80108009,
+    "eventId": 80108,
+    "slot": 1,
+    "flag": 0,
+    "priority": 90,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Quick Oil",
+    "detail": "Exchange for Dead Heat Summer Race! Limited Boost Item \"Quick Oil\"",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80108,
+    "openedAt": 1594958400,
+    "closedAt": 1596945599
+  },
+  {
+    "itemIds": [
+      94025403
+    ],
+    "prices": [
+      400
+    ],
+    "targetIds": [
+      9670400
+    ],
+    "script": {},
+    "id": 80108010,
+    "baseShopId": 80108010,
+    "eventId": 80108,
+    "slot": 1,
+    "flag": 0,
+    "priority": 120,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Hero Crystal: Corona Fou",
+    "detail": "Exchange for one ★4 ALL ATK Up card",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80108,
+    "openedAt": 1594958400,
+    "closedAt": 1596945599
+  },
+  {
+    "itemIds": [
+      94025402
+    ],
+    "prices": [
+      400
+    ],
+    "targetIds": [
+      9570400
+    ],
+    "script": {},
+    "id": 80108011,
+    "baseShopId": 80108011,
+    "eventId": 80108,
+    "slot": 1,
+    "flag": 0,
+    "priority": 110,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Hero Crystal: Meteor Fou",
+    "detail": "Exchange for one ★4 ALL HP Up card",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80108,
+    "openedAt": 1594958400,
+    "closedAt": 1596945599
+  },
+  {
+    "itemIds": [
+      94025401
+    ],
+    "prices": [
+      40
+    ],
+    "targetIds": [
+      9670300
+    ],
+    "script": {},
+    "id": 80108012,
+    "baseShopId": 80108012,
+    "eventId": 80108,
+    "slot": 1,
+    "flag": 0,
+    "priority": 140,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Hero Crystal: Sun Fou",
+    "detail": "Exchange for one ★3 ALL ATK Up card",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80108,
+    "openedAt": 1594958400,
+    "closedAt": 1596945599
+  },
+  {
+    "itemIds": [
+      94025401
+    ],
+    "prices": [
+      40
+    ],
+    "targetIds": [
+      9570300
+    ],
+    "script": {},
+    "id": 80108013,
+    "baseShopId": 80108013,
+    "eventId": 80108,
+    "slot": 1,
+    "flag": 0,
+    "priority": 130,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Hero Crystal: Star Fou",
+    "detail": "Exchange for one ★3 ALL HP Up card",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80108,
+    "openedAt": 1594958400,
+    "closedAt": 1596945599
+  },
+  {
+    "itemIds": [
+      94025401
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      9770400
+    ],
+    "script": {},
+    "id": 80108014,
+    "baseShopId": 80108014,
+    "eventId": 80108,
+    "slot": 1,
+    "flag": 0,
+    "priority": 150,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 100,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Blaze of Wisdom",
+    "detail": "Exchange for one ★4 ALL EXP card",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80108,
+    "openedAt": 1594958400,
+    "closedAt": 1596945599
+  },
+  {
+    "itemIds": [
+      94025401
+    ],
+    "prices": [
+      5
+    ],
+    "targetIds": [
+      9770300
+    ],
+    "script": {},
+    "id": 80108015,
+    "baseShopId": 80108015,
+    "eventId": 80108,
+    "slot": 1,
+    "flag": 0,
+    "priority": 160,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 100,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Fire of Wisdom",
+    "detail": "Exchange for one ★3 ALL EXP card",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80108,
+    "openedAt": 1594958400,
+    "closedAt": 1596945599
+  },
+  {
+    "itemIds": [
+      94025403
+    ],
+    "prices": [
+      80
+    ],
+    "targetIds": [
+      6531
+    ],
+    "script": {},
+    "id": 80108016,
+    "baseShopId": 80108016,
+    "eventId": 80108,
+    "slot": 1,
+    "flag": 0,
+    "priority": 210,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 10,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Mysterious Divine Wine",
+    "detail": "Exchange for [Skill Up & Ascension Materials]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80108,
+    "openedAt": 1594958400,
+    "closedAt": 1596945599
+  },
+  {
+    "itemIds": [
+      94025403
+    ],
+    "prices": [
+      60
+    ],
+    "targetIds": [
+      6521
+    ],
+    "script": {},
+    "id": 80108017,
+    "baseShopId": 80108017,
+    "eventId": 80108,
+    "slot": 1,
+    "flag": 0,
+    "priority": 220,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Black Beast Grease",
+    "detail": "Exchange for [Skill Up & Ascension Materials]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80108,
+    "openedAt": 1594958400,
+    "closedAt": 1596945599
+  },
+  {
+    "itemIds": [
+      94025403
+    ],
+    "prices": [
+      40
+    ],
+    "targetIds": [
+      6511
+    ],
+    "script": {},
+    "id": 80108018,
+    "baseShopId": 80108018,
+    "eventId": 80108,
+    "slot": 1,
+    "flag": 0,
+    "priority": 230,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Forbidden Page",
+    "detail": "Exchange for [Skill Up & Ascension Materials]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80108,
+    "openedAt": 1594958400,
+    "closedAt": 1596945599
+  },
+  {
+    "itemIds": [
+      94025402
+    ],
+    "prices": [
+      60
+    ],
+    "targetIds": [
+      6528
+    ],
+    "script": {},
+    "id": 80108019,
+    "baseShopId": 80108019,
+    "eventId": 80108,
+    "slot": 1,
+    "flag": 0,
+    "priority": 240,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Primordial Lanugo",
+    "detail": "Exchange for [Skill Up & Ascension Materials]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80108,
+    "openedAt": 1594958400,
+    "closedAt": 1596945599
+  },
+  {
+    "itemIds": [
+      94025402
+    ],
+    "prices": [
+      40
+    ],
+    "targetIds": [
+      6508
+    ],
+    "script": {},
+    "id": 80108020,
+    "baseShopId": 80108020,
+    "eventId": 80108,
+    "slot": 1,
+    "flag": 0,
+    "priority": 250,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Ghost Lantern",
+    "detail": "Exchange for [Skill Up & Ascension Materials]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80108,
+    "openedAt": 1594958400,
+    "closedAt": 1596945599
+  },
+  {
+    "itemIds": [
+      94025402
+    ],
+    "prices": [
+      40
+    ],
+    "targetIds": [
+      6526
+    ],
+    "script": {},
+    "id": 80108021,
+    "baseShopId": 80108021,
+    "eventId": 80108,
+    "slot": 1,
+    "flag": 0,
+    "priority": 260,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Shell of Reminiscence",
+    "detail": "Exchange for [Skill Up & Ascension Materials]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80108,
+    "openedAt": 1594958400,
+    "closedAt": 1596945599
+  },
+  {
+    "itemIds": [
+      94025401
+    ],
+    "prices": [
+      60
+    ],
+    "targetIds": [
+      6501
+    ],
+    "script": {},
+    "id": 80108022,
+    "baseShopId": 80108022,
+    "eventId": 80108,
+    "slot": 1,
+    "flag": 0,
+    "priority": 270,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Phoenix Feather",
+    "detail": "Exchange for [Skill Up & Ascension Materials]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80108,
+    "openedAt": 1594958400,
+    "closedAt": 1596945599
+  },
+  {
+    "itemIds": [
+      94025401
+    ],
+    "prices": [
+      30
+    ],
+    "targetIds": [
+      6527
+    ],
+    "script": {},
+    "id": 80108023,
+    "baseShopId": 80108023,
+    "eventId": 80108,
+    "slot": 1,
+    "flag": 0,
+    "priority": 280,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 30,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Deadly Poisonous Needle",
+    "detail": "Exchange for [Skill Up & Ascension Materials]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80108,
+    "openedAt": 1594958400,
+    "closedAt": 1596945599
+  },
+  {
+    "itemIds": [
+      94025401
+    ],
+    "prices": [
+      30
+    ],
+    "targetIds": [
+      6530
+    ],
+    "script": {},
+    "id": 80108024,
+    "baseShopId": 80108024,
+    "eventId": 80108,
+    "slot": 1,
+    "flag": 0,
+    "priority": 290,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 30,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Mystic Spinal Fluid",
+    "detail": "Exchange for [Skill Up & Ascension Materials]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80108,
+    "openedAt": 1594958400,
+    "closedAt": 1596945599
+  },
+  {
+    "itemIds": [
+      94025403
+    ],
+    "prices": [
+      40
+    ],
+    "targetIds": [
+      7101
+    ],
+    "script": {},
+    "id": 80108025,
+    "baseShopId": 80108025,
+    "eventId": 80108,
+    "slot": 1,
+    "flag": 0,
+    "priority": 310,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Saber Monument",
+    "detail": "Exchange for [Ascension Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80108,
+    "openedAt": 1594958400,
+    "closedAt": 1596945599
+  },
+  {
+    "itemIds": [
+      94025403
+    ],
+    "prices": [
+      40
+    ],
+    "targetIds": [
+      7105
+    ],
+    "script": {},
+    "id": 80108026,
+    "baseShopId": 80108026,
+    "eventId": 80108,
+    "slot": 1,
+    "flag": 0,
+    "priority": 320,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Caster Monument",
+    "detail": "Exchange for [Ascension Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80108,
+    "openedAt": 1594958400,
+    "closedAt": 1596945599
+  },
+  {
+    "itemIds": [
+      94025403
+    ],
+    "prices": [
+      40
+    ],
+    "targetIds": [
+      7106
+    ],
+    "script": {},
+    "id": 80108027,
+    "baseShopId": 80108027,
+    "eventId": 80108,
+    "slot": 1,
+    "flag": 0,
+    "priority": 330,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Assassin Monument",
+    "detail": "Exchange for [Ascension Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80108,
+    "openedAt": 1594958400,
+    "closedAt": 1596945599
+  },
+  {
+    "itemIds": [
+      94025403
+    ],
+    "prices": [
+      40
+    ],
+    "targetIds": [
+      7107
+    ],
+    "script": {},
+    "id": 80108028,
+    "baseShopId": 80108028,
+    "eventId": 80108,
+    "slot": 1,
+    "flag": 0,
+    "priority": 340,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Berserker Monument",
+    "detail": "Exchange for [Ascension Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80108,
+    "openedAt": 1594958400,
+    "closedAt": 1596945599
+  },
+  {
+    "itemIds": [
+      94025402
+    ],
+    "prices": [
+      40
+    ],
+    "targetIds": [
+      7001
+    ],
+    "script": {},
+    "id": 80108029,
+    "baseShopId": 80108029,
+    "eventId": 80108,
+    "slot": 1,
+    "flag": 0,
+    "priority": 350,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Saber Piece",
+    "detail": "Exchange for [Ascension Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80108,
+    "openedAt": 1594958400,
+    "closedAt": 1596945599
+  },
+  {
+    "itemIds": [
+      94025402
+    ],
+    "prices": [
+      40
+    ],
+    "targetIds": [
+      7005
+    ],
+    "script": {},
+    "id": 80108030,
+    "baseShopId": 80108030,
+    "eventId": 80108,
+    "slot": 1,
+    "flag": 0,
+    "priority": 360,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Caster Piece",
+    "detail": "Exchange for [Ascension Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80108,
+    "openedAt": 1594958400,
+    "closedAt": 1596945599
+  },
+  {
+    "itemIds": [
+      94025402
+    ],
+    "prices": [
+      40
+    ],
+    "targetIds": [
+      7006
+    ],
+    "script": {},
+    "id": 80108031,
+    "baseShopId": 80108031,
+    "eventId": 80108,
+    "slot": 1,
+    "flag": 0,
+    "priority": 370,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Assassin Piece",
+    "detail": "Exchange for [Ascension Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80108,
+    "openedAt": 1594958400,
+    "closedAt": 1596945599
+  },
+  {
+    "itemIds": [
+      94025402
+    ],
+    "prices": [
+      40
+    ],
+    "targetIds": [
+      7007
+    ],
+    "script": {},
+    "id": 80108032,
+    "baseShopId": 80108032,
+    "eventId": 80108,
+    "slot": 1,
+    "flag": 0,
+    "priority": 380,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Berserker Piece",
+    "detail": "Exchange for [Ascension Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80108,
+    "openedAt": 1594958400,
+    "closedAt": 1596945599
+  },
+  {
+    "itemIds": [
+      94025403
+    ],
+    "prices": [
+      3
+    ],
+    "targetIds": [
+      3
+    ],
+    "script": {},
+    "id": 80108033,
+    "baseShopId": 80108033,
+    "eventId": 80108,
+    "slot": 1,
+    "flag": 0,
+    "priority": 410,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 500,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Mana Prism",
+    "detail": "Exchange for Mana Prism",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80108,
+    "openedAt": 1594958400,
+    "closedAt": 1596945599
+  },
+  {
+    "itemIds": [
+      94025403
+    ],
+    "prices": [
+      4
+    ],
+    "targetIds": [
+      1
+    ],
+    "script": {},
+    "id": 80108034,
+    "baseShopId": 80108034,
+    "eventId": 80108,
+    "slot": 1,
+    "flag": 0,
+    "priority": 510,
+    "purchaseType": 1,
+    "setNum": 10000,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 0,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Exchange for 10,000 QP",
+    "detail": "Exchange for QP",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80108,
+    "openedAt": 1594958400,
+    "closedAt": 1596945599
+  },
+  {
+    "itemIds": [
+      94025402
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      94025403
+    ],
+    "script": {},
+    "id": 80108035,
+    "baseShopId": 80108035,
+    "eventId": 80108,
+    "slot": 1,
+    "flag": 0,
+    "priority": 610,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 0,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Mag Wheel",
+    "detail": "Exchange for Dead Heat Summer Race! Limited Item \"Mag Wheel\"",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80108,
+    "openedAt": 1594958400,
+    "closedAt": 1596945599
+  },
+  {
+    "itemIds": [
+      94025401
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      94025402
+    ],
+    "script": {},
+    "id": 80108036,
+    "baseShopId": 80108036,
+    "eventId": 80108,
+    "slot": 1,
+    "flag": 0,
+    "priority": 620,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 0,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Titanium Plate",
+    "detail": "Exchange for Dead Heat Summer Race! Limited Item \"Titanium Plate\"",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80108,
+    "openedAt": 1594958400,
+    "closedAt": 1596945599
+  },
+  {
+    "itemIds": [
+      94025406
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      1
+    ],
+    "script": {},
+    "id": 80108037,
+    "baseShopId": 80108037,
+    "eventId": 80108,
+    "slot": 1,
+    "flag": 0,
+    "priority": 520,
+    "purchaseType": 1,
+    "setNum": 10000,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 0,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Exchange for 10,000 QP",
+    "detail": "Exchange for QP",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80108,
+    "openedAt": 1594958400,
+    "closedAt": 1596945599
+  },
+  {
+    "itemIds": [
+      94025405
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      1
+    ],
+    "script": {},
+    "id": 80108038,
+    "baseShopId": 80108038,
+    "eventId": 80108,
+    "slot": 1,
+    "flag": 0,
+    "priority": 530,
+    "purchaseType": 1,
+    "setNum": 10000,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 0,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Exchange for 10,000 QP",
+    "detail": "Exchange for QP",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80108,
+    "openedAt": 1594958400,
+    "closedAt": 1596945599
+  },
+  {
+    "itemIds": [
+      94025404
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      1
+    ],
+    "script": {},
+    "id": 80108039,
+    "baseShopId": 80108039,
+    "eventId": 80108,
+    "slot": 1,
+    "flag": 0,
+    "priority": 540,
+    "purchaseType": 1,
+    "setNum": 10000,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 0,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Exchange for 10,000 QP",
+    "detail": "Exchange for QP",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80108,
+    "openedAt": 1594958400,
+    "closedAt": 1596945599
+  },
+  {
+    "itemIds": [
+      94025402
+    ],
+    "prices": [
+      40
+    ],
+    "targetIds": [
+      6535
+    ],
+    "script": {},
+    "id": 80108040,
+    "baseShopId": 80108040,
+    "eventId": 80108,
+    "slot": 1,
+    "flag": 0,
+    "priority": 245,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Eternal Ice",
+    "detail": "Exchange for [Skill Up & Ascension Materials]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80108,
+    "openedAt": 1594958400,
+    "closedAt": 1596945599
   },
   {
     "itemIds": [
