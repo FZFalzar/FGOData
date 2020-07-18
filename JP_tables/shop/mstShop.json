@@ -28698,6 +28698,72 @@
       10
     ],
     "targetIds": [
+      1000200
+    ],
+    "script": {},
+    "id": 4000484,
+    "baseShopId": 4000065,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 814,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "メルトリリス",
+    "detail": "期間限定★5サーヴァントへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1594803600,
+    "closedAt": 1594911599
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      1000900
+    ],
+    "script": {},
+    "id": 4000485,
+    "baseShopId": 4000322,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 813,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "キングプロテア",
+    "detail": "期間限定★5サーヴァントへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1594911600,
+    "closedAt": 1595429999
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
       403200
     ],
     "script": {},
@@ -28989,6 +29055,105 @@
   },
   {
     "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      1000200
+    ],
+    "script": {},
+    "id": 4000495,
+    "baseShopId": 4000065,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 814,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "メルトリリス",
+    "detail": "期間限定★5サーヴァントへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1595084400,
+    "closedAt": 1595602799
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      1000900
+    ],
+    "script": {},
+    "id": 4000496,
+    "baseShopId": 4000322,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 813,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "キングプロテア",
+    "detail": "期間限定★5サーヴァントへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1595602800,
+    "closedAt": 1595995199
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      1000200
+    ],
+    "script": {},
+    "id": 4000497,
+    "baseShopId": 4000065,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 814,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "メルトリリス",
+    "detail": "期間限定★5サーヴァントへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1595775600,
+    "closedAt": 1595995199
+  },
+  {
+    "itemIds": [
       16
     ],
     "prices": [
@@ -29068,7 +29233,7 @@
     "baseShopId": 6000102,
     "eventId": 0,
     "slot": 0,
-    "flag": 256,
+    "flag": 0,
     "priority": 110,
     "purchaseType": 4,
     "setNum": 1,
@@ -29662,7 +29827,7 @@
     "baseShopId": 6000120,
     "eventId": 0,
     "slot": 0,
-    "flag": 256,
+    "flag": 0,
     "priority": 94,
     "purchaseType": 4,
     "setNum": 1,
@@ -30718,7 +30883,7 @@
     "baseShopId": 6000153,
     "eventId": 0,
     "slot": 0,
-    "flag": 256,
+    "flag": 0,
     "priority": 88,
     "purchaseType": 4,
     "setNum": 1,
@@ -30751,7 +30916,7 @@
     "baseShopId": 6000154,
     "eventId": 0,
     "slot": 0,
-    "flag": 256,
+    "flag": 0,
     "priority": 89,
     "purchaseType": 4,
     "setNum": 1,
@@ -31939,7 +32104,7 @@
     "baseShopId": 6000190,
     "eventId": 0,
     "slot": 0,
-    "flag": 256,
+    "flag": 0,
     "priority": 78,
     "purchaseType": 4,
     "setNum": 1,
@@ -31972,7 +32137,7 @@
     "baseShopId": 6000191,
     "eventId": 0,
     "slot": 0,
-    "flag": 256,
+    "flag": 0,
     "priority": 79,
     "purchaseType": 4,
     "setNum": 1,
@@ -35834,7 +35999,7 @@
     "baseShopId": 6000312,
     "eventId": 0,
     "slot": 0,
-    "flag": 256,
+    "flag": 0,
     "priority": 63,
     "purchaseType": 6,
     "setNum": 0,
@@ -139760,7 +139925,7 @@
     "baseShopId": 80259007,
     "eventId": 80259,
     "slot": 1,
-    "flag": 256,
+    "flag": 0,
     "priority": 100,
     "purchaseType": 4,
     "setNum": 1,
@@ -139793,7 +139958,7 @@
     "baseShopId": 80259008,
     "eventId": 80259,
     "slot": 1,
-    "flag": 256,
+    "flag": 0,
     "priority": 120,
     "purchaseType": 4,
     "setNum": 1,
@@ -139826,7 +139991,7 @@
     "baseShopId": 80259009,
     "eventId": 80259,
     "slot": 1,
-    "flag": 256,
+    "flag": 0,
     "priority": 130,
     "purchaseType": 4,
     "setNum": 1,
@@ -139859,7 +140024,7 @@
     "baseShopId": 80259010,
     "eventId": 80259,
     "slot": 1,
-    "flag": 256,
+    "flag": 0,
     "priority": 110,
     "purchaseType": 4,
     "setNum": 1,
@@ -167032,5 +167197,1343 @@
     "bgImageId": 80291,
     "openedAt": 1592643600,
     "closedAt": 1594007999
+  },
+  {
+    "itemIds": [
+      94050903
+    ],
+    "prices": [
+      15000
+    ],
+    "targetIds": [
+      94050909
+    ],
+    "script": {},
+    "id": 80292000,
+    "baseShopId": 80292000,
+    "eventId": 80292,
+    "slot": 0,
+    "flag": 262144,
+    "priority": 10,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "キアラパニッシャー『メルトちゃんデスwhip』",
+    "detail": "ビーストⅢ／Ｒの能力『五蘊黒縄』を打ち破り魔性菩薩化を阻止するアイテムへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80292,
+    "openedAt": 1594803600,
+    "closedAt": 1901199599
+  },
+  {
+    "itemIds": [
+      94050903
+    ],
+    "prices": [
+      500
+    ],
+    "targetIds": [
+      94050925
+    ],
+    "script": {},
+    "id": 80292001,
+    "baseShopId": 80292001,
+    "eventId": 80292,
+    "slot": 0,
+    "flag": 262144,
+    "priority": 20,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "キアラパニッシャー『ダメージ抑制スプレー』",
+    "detail": "ビーストⅢ／Ｒの能力『攻撃力アップ20%』を打ち消すアイテムへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80292,
+    "openedAt": 1594803600,
+    "closedAt": 1901199599
+  },
+  {
+    "itemIds": [
+      94050903
+    ],
+    "prices": [
+      500
+    ],
+    "targetIds": [
+      94050926
+    ],
+    "script": {},
+    "id": 80292002,
+    "baseShopId": 80292002,
+    "eventId": 80292,
+    "slot": 0,
+    "flag": 262144,
+    "priority": 30,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "キアラパニッシャー『化粧落とし・防御力』",
+    "detail": "ビーストⅢ／Ｒの能力『防御力アップ20%』を打ち消すアイテムへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80292,
+    "openedAt": 1594803600,
+    "closedAt": 1901199599
+  },
+  {
+    "itemIds": [
+      94050903
+    ],
+    "prices": [
+      500
+    ],
+    "targetIds": [
+      94050927
+    ],
+    "script": {},
+    "id": 80292003,
+    "baseShopId": 80292003,
+    "eventId": 80292,
+    "slot": 0,
+    "flag": 262144,
+    "priority": 40,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "キアラパニッシャー『スーパー賢者カプセル』",
+    "detail": "ビーストⅢ／Ｒの能力『宝具威力アップ50%』を打ち消すアイテムへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80292,
+    "openedAt": 1594803600,
+    "closedAt": 1901199599
+  },
+  {
+    "itemIds": [
+      94050903
+    ],
+    "prices": [
+      500
+    ],
+    "targetIds": [
+      94050928
+    ],
+    "script": {},
+    "id": 80292004,
+    "baseShopId": 80292004,
+    "eventId": 80292,
+    "slot": 0,
+    "flag": 262144,
+    "priority": 50,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "キアラパニッシャー『クリティカル・ノン』",
+    "detail": "ビーストⅢ／Ｒの能力『クリティカル威力アップ50%』を打ち消すアイテムへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80292,
+    "openedAt": 1594803600,
+    "closedAt": 1901199599
+  },
+  {
+    "itemIds": [
+      94050903
+    ],
+    "prices": [
+      1000
+    ],
+    "targetIds": [
+      94050929
+    ],
+    "script": {},
+    "id": 80292005,
+    "baseShopId": 80292005,
+    "eventId": 80292,
+    "slot": 0,
+    "flag": 262144,
+    "priority": 60,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "キアラパニッシャー『化粧落とし・弱耐性』",
+    "detail": "ビーストⅢ／Ｒの能力『弱体耐性アップ50%』を打ち消すアイテムへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80292,
+    "openedAt": 1594803600,
+    "closedAt": 1901199599
+  },
+  {
+    "itemIds": [
+      94050903
+    ],
+    "prices": [
+      2000
+    ],
+    "targetIds": [
+      94050930
+    ],
+    "script": {},
+    "id": 80292006,
+    "baseShopId": 80292006,
+    "eventId": 80292,
+    "slot": 0,
+    "flag": 262144,
+    "priority": 70,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "キアラパニッシャー『スタン・グッド・スキン』",
+    "detail": "ビーストⅢ／Ｒの能力『行動不能耐性アップ50%』を打ち消すアイテムへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80292,
+    "openedAt": 1594803600,
+    "closedAt": 1901199599
+  },
+  {
+    "itemIds": [
+      94050903
+    ],
+    "prices": [
+      1000
+    ],
+    "targetIds": [
+      94050931
+    ],
+    "script": {},
+    "id": 80292007,
+    "baseShopId": 80292007,
+    "eventId": 80292,
+    "slot": 0,
+    "flag": 262144,
+    "priority": 80,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "キアラパニッシャー『Quickツウジール』",
+    "detail": "ビーストⅢ／Ｒの能力『Quick攻撃耐性50%』を打ち消すアイテムへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80292,
+    "openedAt": 1594803600,
+    "closedAt": 1901199599
+  },
+  {
+    "itemIds": [
+      94050903
+    ],
+    "prices": [
+      1000
+    ],
+    "targetIds": [
+      94050932
+    ],
+    "script": {},
+    "id": 80292008,
+    "baseShopId": 80292008,
+    "eventId": 80292,
+    "slot": 0,
+    "flag": 262144,
+    "priority": 90,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "キアラパニッシャー『Artsツウジール』",
+    "detail": "ビーストⅢ／Ｒの能力『Arts攻撃耐性50%』を打ち消すアイテムへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80292,
+    "openedAt": 1594803600,
+    "closedAt": 1901199599
+  },
+  {
+    "itemIds": [
+      94050903
+    ],
+    "prices": [
+      1000
+    ],
+    "targetIds": [
+      94050933
+    ],
+    "script": {},
+    "id": 80292009,
+    "baseShopId": 80292009,
+    "eventId": 80292,
+    "slot": 0,
+    "flag": 262144,
+    "priority": 100,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "キアラパニッシャー『Busterツウジール』",
+    "detail": "ビーストⅢ／Ｒの能力『Buster攻撃耐性50%』を打ち消すアイテムへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80292,
+    "openedAt": 1594803600,
+    "closedAt": 1901199599
+  },
+  {
+    "itemIds": [
+      94050903
+    ],
+    "prices": [
+      500
+    ],
+    "targetIds": [
+      94050934
+    ],
+    "script": {},
+    "id": 80292010,
+    "baseShopId": 80292010,
+    "eventId": 80292,
+    "slot": 0,
+    "flag": 262144,
+    "priority": 110,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "キアラパニッシャー『スリップ・バリアー』",
+    "detail": "ビーストⅢ／Ｒの能力『毎ターン終了時に敵全体のHPを1000減らす』を打ち消すアイテムへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80292,
+    "openedAt": 1594803600,
+    "closedAt": 1901199599
+  },
+  {
+    "itemIds": [
+      94050903
+    ],
+    "prices": [
+      1000
+    ],
+    "targetIds": [
+      94050935
+    ],
+    "script": {},
+    "id": 80292011,
+    "baseShopId": 80292011,
+    "eventId": 80292,
+    "slot": 0,
+    "flag": 262144,
+    "priority": 120,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "キアラパニッシャー『スター・セーフ』",
+    "detail": "ビーストⅢ／Ｒの能力『毎ターン終了時に敵全体のスターを10減らす』を打ち消すアイテムへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80292,
+    "openedAt": 1594803600,
+    "closedAt": 1901199599
+  },
+  {
+    "itemIds": [
+      94050903
+    ],
+    "prices": [
+      2000
+    ],
+    "targetIds": [
+      94050936
+    ],
+    "script": {},
+    "id": 80292012,
+    "baseShopId": 80292012,
+    "eventId": 80292,
+    "slot": 0,
+    "flag": 262144,
+    "priority": 130,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "キアラパニッシャー『抗エロス剤』",
+    "detail": "ビーストⅢ／Ｒの能力『毎ターン終了時に敵全体のNPを5%減らす』を打ち消すアイテムへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80292,
+    "openedAt": 1594803600,
+    "closedAt": 1901199599
+  },
+  {
+    "itemIds": [
+      94050903
+    ],
+    "prices": [
+      500
+    ],
+    "targetIds": [
+      94050937
+    ],
+    "script": {},
+    "id": 80292013,
+    "baseShopId": 80292013,
+    "eventId": 80292,
+    "slot": 0,
+    "flag": 262144,
+    "priority": 140,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "キアラパニッシャー『賢者カプセルEX』",
+    "detail": "ビーストⅢ／Ｒの能力『毎ターンHPを5000回復する』を打ち消すアイテムへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80292,
+    "openedAt": 1594803600,
+    "closedAt": 1901199599
+  },
+  {
+    "itemIds": [
+      94050903
+    ],
+    "prices": [
+      2000
+    ],
+    "targetIds": [
+      94050938
+    ],
+    "script": {},
+    "id": 80292014,
+    "baseShopId": 80292014,
+    "eventId": 80292,
+    "slot": 0,
+    "flag": 262144,
+    "priority": 150,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "キアラパニッシャー『ただ一つの色』",
+    "detail": "ビーストⅢ／Ｒの能力『万色悠滞 EX』の魅了効果を打ち消すアイテムへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80292,
+    "openedAt": 1594803600,
+    "closedAt": 1901199599
+  },
+  {
+    "itemIds": [
+      94050903
+    ],
+    "prices": [
+      2000
+    ],
+    "targetIds": [
+      94050939
+    ],
+    "script": {},
+    "id": 80292015,
+    "baseShopId": 80292015,
+    "eventId": 80292,
+    "slot": 0,
+    "flag": 262144,
+    "priority": 160,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "キアラパニッシャー『人理倫理剣』",
+    "detail": "ビーストⅢ／Ｒの能力『獣の権能 A』の使用を封じるアイテムへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80292,
+    "openedAt": 1594803600,
+    "closedAt": 1901199599
+  },
+  {
+    "itemIds": [
+      94050903
+    ],
+    "prices": [
+      500
+    ],
+    "targetIds": [
+      94050940
+    ],
+    "script": {},
+    "id": 80292016,
+    "baseShopId": 80292016,
+    "eventId": 80292,
+    "slot": 0,
+    "flag": 262144,
+    "priority": 220,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "キアラパニッシャー『人魚姫の原文』",
+    "detail": "ビーストⅢ／Ｒ戦で『コンティニューを可能にする』アイテムへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80292,
+    "openedAt": 1594803600,
+    "closedAt": 1901199599
+  },
+  {
+    "itemIds": [
+      1
+    ],
+    "prices": [
+      10000
+    ],
+    "targetIds": [
+      80292000,
+      80292001,
+      80292002,
+      80292003,
+      80292004,
+      80292005,
+      80292006,
+      80292007,
+      80292008,
+      80292009,
+      80292010,
+      80292011,
+      80292012,
+      80292013,
+      80292014,
+      80292015,
+      80292016,
+      80292018,
+      80292019,
+      80292020,
+      80292021,
+      80292022
+    ],
+    "script": {},
+    "id": 80292017,
+    "baseShopId": 80292017,
+    "eventId": 80292,
+    "slot": 0,
+    "flag": 262144,
+    "priority": 230,
+    "purchaseType": 13,
+    "setNum": 1,
+    "payType": 2,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "キアラパニッシャーリセット",
+    "detail": "全てのキアラパニッシャーの購入状態をリセットし\n購入に使ったKPを返還する【何度でも購入可能】",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 80015,
+    "bgImageId": 80292,
+    "openedAt": 1594803600,
+    "closedAt": 1901199599
+  },
+  {
+    "itemIds": [
+      94050903
+    ],
+    "prices": [
+      500
+    ],
+    "targetIds": [
+      94050941
+    ],
+    "script": {},
+    "id": 80292018,
+    "baseShopId": 80292018,
+    "eventId": 80292,
+    "slot": 0,
+    "flag": 262144,
+    "priority": 170,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "キアラパニッシャー『Quickヨクアタール』",
+    "detail": "ビーストⅢ／Ｒに『Quick攻撃耐性ダウン20%』を付与するアイテムへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80292,
+    "openedAt": 1594803600,
+    "closedAt": 1901199599
+  },
+  {
+    "itemIds": [
+      94050903
+    ],
+    "prices": [
+      500
+    ],
+    "targetIds": [
+      94050942
+    ],
+    "script": {},
+    "id": 80292019,
+    "baseShopId": 80292019,
+    "eventId": 80292,
+    "slot": 0,
+    "flag": 262144,
+    "priority": 180,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "キアラパニッシャー『Artsヨクアタール』",
+    "detail": "ビーストⅢ／Ｒに『Arts攻撃耐性ダウン20%』を付与するアイテムへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80292,
+    "openedAt": 1594803600,
+    "closedAt": 1901199599
+  },
+  {
+    "itemIds": [
+      94050903
+    ],
+    "prices": [
+      500
+    ],
+    "targetIds": [
+      94050943
+    ],
+    "script": {},
+    "id": 80292020,
+    "baseShopId": 80292020,
+    "eventId": 80292,
+    "slot": 0,
+    "flag": 262144,
+    "priority": 190,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "キアラパニッシャー『Busterヨクアタール』",
+    "detail": "ビーストⅢ／Ｒに『Buster攻撃耐性ダウン20%』を付与するアイテムへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80292,
+    "openedAt": 1594803600,
+    "closedAt": 1901199599
+  },
+  {
+    "itemIds": [
+      94050903
+    ],
+    "prices": [
+      500
+    ],
+    "targetIds": [
+      94050944
+    ],
+    "script": {},
+    "id": 80292021,
+    "baseShopId": 80292021,
+    "eventId": 80292,
+    "slot": 0,
+    "flag": 262144,
+    "priority": 200,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "キアラパニッシャー『増殖抑制剤アンチセル』",
+    "detail": "ビーストⅢ／Ｒに『スキルと宝具によるHP回復力ダウン50%』を付与するアイテムへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80292,
+    "openedAt": 1594803600,
+    "closedAt": 1901199599
+  },
+  {
+    "itemIds": [
+      94050903
+    ],
+    "prices": [
+      1000
+    ],
+    "targetIds": [
+      94050945
+    ],
+    "script": {},
+    "id": 80292022,
+    "baseShopId": 80292022,
+    "eventId": 80292,
+    "slot": 0,
+    "flag": 262144,
+    "priority": 210,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "キアラパニッシャー『宝具封印ガードマスク』",
+    "detail": "ビーストⅢ／Ｒの宝具の宝具封印効果を打ち消すアイテムへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80292,
+    "openedAt": 1594803600,
+    "closedAt": 1901199599
+  },
+  {
+    "itemIds": [
+      94050902
+    ],
+    "prices": [
+      300
+    ],
+    "targetIds": [
+      94050913
+    ],
+    "script": {
+      "addMessage": "「デビル・エルボー」に\nクエストが開放されました。"
+    },
+    "id": 80292100,
+    "baseShopId": 80292100,
+    "eventId": 80292,
+    "slot": 1,
+    "flag": 262412,
+    "priority": 20,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "ゲート・キー（エルボー）",
+    "detail": "WANTEDクエスト\n【デビル・エルボー】開放キーへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80292,
+    "openedAt": 1594803600,
+    "closedAt": 1901199599
+  },
+  {
+    "itemIds": [
+      94050902
+    ],
+    "prices": [
+      200
+    ],
+    "targetIds": [
+      94050914
+    ],
+    "script": {
+      "addMessage": "「ポートピア・サイ」に\nクエストが開放されました。"
+    },
+    "id": 80292101,
+    "baseShopId": 80292101,
+    "eventId": 80292,
+    "slot": 1,
+    "flag": 262412,
+    "priority": 30,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "教会の鍵",
+    "detail": " [EE0000]NEXTストーリークエスト[-]\n【第一幕(6/6)】開放キーへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80292,
+    "openedAt": 1594803600,
+    "closedAt": 1901199599
+  },
+  {
+    "itemIds": [
+      94050902
+    ],
+    "prices": [
+      400
+    ],
+    "targetIds": [
+      94050915
+    ],
+    "script": {
+      "addMessage": "「アンクル・リンク」に\nクエストが開放されました。"
+    },
+    "id": 80292102,
+    "baseShopId": 80292102,
+    "eventId": 80292,
+    "slot": 1,
+    "flag": 262412,
+    "priority": 40,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "ゲート・キー（アンクル）",
+    "detail": "WANTEDクエスト\n【アンクル・リンク】開放キーへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80292,
+    "openedAt": 1594803600,
+    "closedAt": 1901199599
+  },
+  {
+    "itemIds": [
+      94050902
+    ],
+    "prices": [
+      300
+    ],
+    "targetIds": [
+      94050916
+    ],
+    "script": {
+      "addMessage": "「サーチ・アーム」に\nクエストが開放されました。"
+    },
+    "id": 80292103,
+    "baseShopId": 80292103,
+    "eventId": 80292,
+    "slot": 1,
+    "flag": 262412,
+    "priority": 70,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "ゲート・キー（ネコ）",
+    "detail": " [EE0000]NEXTストーリーエリア[-]\n【サーチ・アーム】開放キーへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80292,
+    "openedAt": 1594803600,
+    "closedAt": 1901199599
+  },
+  {
+    "itemIds": [
+      94050902
+    ],
+    "prices": [
+      300
+    ],
+    "targetIds": [
+      94050917
+    ],
+    "script": {
+      "addMessage": "「フランク・セパレータ」に\nクエストが開放されました。"
+    },
+    "id": 80292104,
+    "baseShopId": 80292104,
+    "eventId": 80292,
+    "slot": 1,
+    "flag": 262412,
+    "priority": 50,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "ゲート・キー（セパレータ）",
+    "detail": " [EE0000]NEXTストーリーエリア[-]\n【フランク・セパレータ】開放キーへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80292,
+    "openedAt": 1594803600,
+    "closedAt": 1901199599
+  },
+  {
+    "itemIds": [
+      94050902
+    ],
+    "prices": [
+      500
+    ],
+    "targetIds": [
+      94050918
+    ],
+    "script": {
+      "addMessage": "「カインド・シィーナー」に\nクエストが開放されました。"
+    },
+    "id": 80292105,
+    "baseShopId": 80292105,
+    "eventId": 80292,
+    "slot": 1,
+    "flag": 262412,
+    "priority": 60,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "ゲート・キー（カインド）",
+    "detail": "WANTEDクエスト\n【カインド・シィーナー】開放キーへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80292,
+    "openedAt": 1594803600,
+    "closedAt": 1901199599
+  },
+  {
+    "itemIds": [
+      94050902
+    ],
+    "prices": [
+      400
+    ],
+    "targetIds": [
+      94050908
+    ],
+    "script": {
+      "addMessage": "「フランク・セパレータ」に\nクエストが開放されました。"
+    },
+    "id": 80292106,
+    "baseShopId": 80292106,
+    "eventId": 80292,
+    "slot": 1,
+    "flag": 262412,
+    "priority": 80,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "こちょこちょアーム",
+    "detail": " [EE0000]NEXTストーリークエスト[-]\n【第二幕(5/5)】開放キーへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80292,
+    "openedAt": 1594803600,
+    "closedAt": 1901199599
+  },
+  {
+    "itemIds": [
+      94050902
+    ],
+    "prices": [
+      300
+    ],
+    "targetIds": [
+      94050919
+    ],
+    "script": {
+      "addMessage": "「シークレット・ネープ」に\nクエストが開放されました。"
+    },
+    "id": 80292107,
+    "baseShopId": 80292107,
+    "eventId": 80292,
+    "slot": 1,
+    "flag": 262412,
+    "priority": 90,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "ゲート・キー（ネープ）",
+    "detail": " [EE0000]NEXTストーリーエリア[-]\n【シークレット・ネープ】開放キーへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80292,
+    "openedAt": 1594803600,
+    "closedAt": 1901199599
+  },
+  {
+    "itemIds": [
+      94050902
+    ],
+    "prices": [
+      600
+    ],
+    "targetIds": [
+      94050905
+    ],
+    "script": {
+      "addMessage": "「シークレット・ネープ」に\nクエストが開放されました。"
+    },
+    "id": 80292109,
+    "baseShopId": 80292109,
+    "eventId": 80292,
+    "slot": 1,
+    "flag": 262412,
+    "priority": 100,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "リップの鍵",
+    "detail": " [EE0000]NEXTストーリークエスト[-]\n【第三幕(3/3)】開放キーへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80292,
+    "openedAt": 1594803600,
+    "closedAt": 1901199599
+  },
+  {
+    "itemIds": [
+      94050902
+    ],
+    "prices": [
+      800
+    ],
+    "targetIds": [
+      94050907
+    ],
+    "script": {
+      "addMessage": "『ゲート・キー(コースター)』と『鈴鹿の鍵』入手で\n「スパイナル・コースター」に\nクエストが開放されます。"
+    },
+    "id": 80292110,
+    "baseShopId": 80292110,
+    "eventId": 80292,
+    "slot": 1,
+    "flag": 262144,
+    "priority": 110,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "鈴鹿の鍵",
+    "detail": " [EE0000]NEXTストーリーエリア[-]\n【スパイナル・コースター】開放キー(2/2)へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80292,
+    "openedAt": 1594803600,
+    "closedAt": 1901199599
+  },
+  {
+    "itemIds": [
+      94050902
+    ],
+    "prices": [
+      600
+    ],
+    "targetIds": [
+      94050921
+    ],
+    "script": {
+      "addMessage": "「アンダーアーム・レイ」に\nクエストが開放されました。"
+    },
+    "id": 80292111,
+    "baseShopId": 80292111,
+    "eventId": 80292,
+    "slot": 1,
+    "flag": 262412,
+    "priority": 120,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "ゲート・キー（レイ）",
+    "detail": " [EE0000]NEXTストーリーエリア[-]\n【アンダーアーム・レイ】開放キーへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80292,
+    "openedAt": 1594803600,
+    "closedAt": 1901199599
+  },
+  {
+    "itemIds": [
+      94050902
+    ],
+    "prices": [
+      500
+    ],
+    "targetIds": [
+      94050922
+    ],
+    "script": {
+      "addMessage": "『ゲート・キー(コースター)』と『鈴鹿の鍵』入手で\n「スパイナル・コースター」に\nクエストが開放されます。"
+    },
+    "id": 80292112,
+    "baseShopId": 80292112,
+    "eventId": 80292,
+    "slot": 1,
+    "flag": 262412,
+    "priority": 130,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "ゲート・キー（コースター）",
+    "detail": " [EE0000]NEXTストーリーエリア[-]\n【スパイナル・コースター】開放キー(1/2)へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80292,
+    "openedAt": 1594803600,
+    "closedAt": 1901199599
+  },
+  {
+    "itemIds": [
+      94050902
+    ],
+    "prices": [
+      700
+    ],
+    "targetIds": [
+      94050923
+    ],
+    "script": {
+      "addMessage": "「ジェイル・ハンド」に\nクエストが開放されました。"
+    },
+    "id": 80292113,
+    "baseShopId": 80292113,
+    "eventId": 80292,
+    "slot": 1,
+    "flag": 262412,
+    "priority": 140,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "ゲート・キー（ジェイル）",
+    "detail": "WANTEDクエスト\n【ジェイル・ハンド】開放キーへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80292,
+    "openedAt": 1594803600,
+    "closedAt": 1901199599
+  },
+  {
+    "itemIds": [
+      94050902
+    ],
+    "prices": [
+      800
+    ],
+    "targetIds": [
+      94050924
+    ],
+    "script": {
+      "addMessage": "「ダーク・ハンド」に\nクエストが開放されました。"
+    },
+    "id": 80292114,
+    "baseShopId": 80292114,
+    "eventId": 80292,
+    "slot": 1,
+    "flag": 262412,
+    "priority": 150,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "ゲート・キー（ダーク）",
+    "detail": "WANTEDクエスト\n【ダーク・ハンド】開放キーへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80292,
+    "openedAt": 1594803600,
+    "closedAt": 1901199599
+  },
+  {
+    "itemIds": [
+      94050902
+    ],
+    "prices": [
+      1000
+    ],
+    "targetIds": [
+      94050906
+    ],
+    "script": {
+      "addMessage": "「クルーエル・シィーナー」に\nクエストが開放されました。"
+    },
+    "id": 80292115,
+    "baseShopId": 80292115,
+    "eventId": 80292,
+    "slot": 1,
+    "flag": 262412,
+    "priority": 160,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "メルトの鍵",
+    "detail": " [EE0000]NEXTストーリーエリア[-]\n【クルーエル・シィーナー】開放キーへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80292,
+    "openedAt": 1594803600,
+    "closedAt": 1901199599
+  },
+  {
+    "itemIds": [
+      1
+    ],
+    "prices": [
+      100000
+    ],
+    "targetIds": [
+      94050902
+    ],
+    "script": {},
+    "id": 80292116,
+    "baseShopId": 80292116,
+    "eventId": 80292,
+    "slot": 1,
+    "flag": 262412,
+    "priority": 10,
+    "purchaseType": 1,
+    "setNum": 100,
+    "payType": 2,
+    "shopType": 1,
+    "limitNum": 77,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "サクラマネー",
+    "detail": "開放キーの交換に必要な\nイベントアイテム「サクラマネー」100個へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80292,
+    "openedAt": 1594803600,
+    "closedAt": 1901199599
   }
 ]

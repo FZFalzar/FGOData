@@ -5480,7 +5480,7 @@
     "buffGroup": 0,
     "type": 91,
     "name": "KP・B",
-    "detail": "全ての攻撃に対する耐性を得る。",
+    "detail": "全ての攻撃に対する耐性を得る",
     "iconId": 334,
     "maxRate": 5000,
     "effectId": 0
@@ -5622,7 +5622,7 @@
     "buffGroup": 0,
     "type": 43,
     "name": "SG『神経過敏』",
-    "detail": "自身の防御力をダウン＆毎ターン終了時にチャージする",
+    "detail": "自身の防御力をダウン【デメリット】＆毎ターン終了時にチャージする",
     "iconId": 504,
     "maxRate": 5000,
     "effectId": 0
@@ -5656,7 +5656,7 @@
     "buffGroup": 0,
     "type": 42,
     "name": "SG『被虐体質』",
-    "detail": "自身の防御力をアップ＆全状態耐性をアップ",
+    "detail": "自身の防御力をアップ＆弱体耐性をアップ",
     "iconId": 301,
     "maxRate": 5000,
     "effectId": 0
@@ -5665,15 +5665,19 @@
     "vals": [
       2084
     ],
-    "tvals": [],
+    "tvals": [
+      3005
+    ],
     "ckSelfIndv": [],
-    "ckOpIndv": [],
+    "ckOpIndv": [
+      3005
+    ],
     "script": {},
     "id": 413,
     "buffGroup": 0,
     "type": 29,
     "name": "SG『被虐体質』",
-    "detail": "全状態耐性をアップ",
+    "detail": "弱体耐性をアップ",
     "iconId": 306,
     "maxRate": 5000,
     "effectId": 0
@@ -5690,7 +5694,7 @@
     "buffGroup": 0,
     "type": 89,
     "name": "SG『整理杜撰』",
-    "detail": "通常攻撃時、対象に即死効果が発生する",
+    "detail": "通常攻撃時に確率で敵単体の即死効果が発生する",
     "iconId": 333,
     "maxRate": 0,
     "effectId": 0
@@ -5750,12 +5754,16 @@
     "vals": [],
     "tvals": [
       3014,
-      3012
+      3012,
+      3013,
+      3045
     ],
     "ckSelfIndv": [],
     "ckOpIndv": [
       3014,
-      3012
+      3012,
+      3013,
+      3045
     ],
     "script": {},
     "id": 418,
@@ -5894,7 +5902,7 @@
     "buffGroup": 0,
     "type": 72,
     "name": "不破の鉄心",
-    "detail": "自身に無敵貫通状態を付与＆宝具威力アップ状態を付与【強化解除無効】",
+    "detail": "自身に無敵貫通状態を付与＆宝具威力アップ状態を付与",
     "iconId": 329,
     "maxRate": 0,
     "effectId": 0
@@ -6069,13 +6077,15 @@
     "tvals": [
       3014,
       3012,
-      3013
+      3013,
+      3045
     ],
     "ckSelfIndv": [],
     "ckOpIndv": [
       3014,
       3012,
-      3013
+      3013,
+      3045
     ],
     "script": {},
     "id": 436,
@@ -6306,7 +6316,7 @@
     "buffGroup": 0,
     "type": 114,
     "name": "みこっとサマーターーーイム！",
-    "detail": "毎ターンチャージを2増やす【強化解除無効】",
+    "detail": "毎ターンチャージを1増やす",
     "iconId": 319,
     "maxRate": 0,
     "effectId": 0
@@ -6321,7 +6331,7 @@
     "buffGroup": 600,
     "type": 37,
     "name": "余は楽しい",
-    "detail": "HPが0になった時、HPを回復して耐える【強化解除無効】",
+    "detail": "HPが0になった時、HPを回復して耐える",
     "iconId": 304,
     "maxRate": 0,
     "effectId": 0
@@ -21452,7 +21462,7 @@
     "id": 1527,
     "buffGroup": 0,
     "type": 85,
-    "name": "毎ターン発動(ゲージチャージ)",
+    "name": "毎ターンチャージプラス",
     "detail": "毎ターンチャージを最大にする",
     "iconId": 343,
     "maxRate": 0,
@@ -30063,7 +30073,7 @@
     "buffGroup": 0,
     "type": 144,
     "name": "ＢＧＯタイタンパー",
-    "detail": "アルターエゴの攻撃に対して弱くなる状態を付与",
+    "detail": "〔アルターエゴ〕クラスに対して防御相性不利となる【デメリット】",
     "iconId": 520,
     "maxRate": 0,
     "effectId": 0
@@ -36177,6 +36187,127 @@
     "detail": "攻撃力をアップ",
     "iconId": 300,
     "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2916,
+    "buffGroup": 0,
+    "type": 89,
+    "name": "攻撃時発動(スキル封印)",
+    "detail": "通常攻撃時に極低確率でスキル封印状態を付与する",
+    "iconId": 528,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006,
+      3027
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2917,
+    "buffGroup": 0,
+    "type": 9,
+    "name": "SG『奉仕体質』",
+    "detail": "攻撃力をアップ",
+    "iconId": 300,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006
+    ],
+    "tvals": [
+      5000,
+      4008
+    ],
+    "ckSelfIndv": [
+      4008
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2918,
+    "buffGroup": 0,
+    "type": 148,
+    "name": "通常攻撃ダメージ前追加効果(クリティカル威力アップ)",
+    "detail": "通常攻撃時ダメージ前に、自身のクリティカル威力をアップ",
+    "iconId": 333,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3007,
+      3040,
+      3058,
+      2664,
+      2665
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4007
+    ],
+    "script": {},
+    "id": 2919,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "宝具攻撃耐性アップ・増殖",
+    "detail": "宝具攻撃耐性をアップ(〔増殖〕状態解除の対象となる)",
+    "iconId": 334,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      2387,
+      2386,
+      3043
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2920,
+    "buffGroup": 0,
+    "type": 81,
+    "name": "増殖",
+    "detail": "最大HPを増やす",
+    "iconId": 330,
+    "maxRate": 50000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      2387
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2922,
+    "buffGroup": 2922,
+    "type": 85,
+    "name": "無限増殖",
+    "detail": "ターン終了時に〔増殖〕を付与＆宝具攻撃耐性アップ・増殖(〔増殖〕状態解除の対象となる)を付与",
+    "iconId": 343,
+    "maxRate": 0,
     "effectId": 0
   }
 ]

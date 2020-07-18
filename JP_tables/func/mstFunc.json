@@ -25184,17 +25184,15 @@
     ],
     "tvals": [],
     "questTvals": [],
-    "effectList": [
-      335
-    ],
+    "effectList": [],
     "popupTextColor": 2,
     "id": 1415,
     "cond": 0,
     "funcType": 1,
     "targetType": 0,
     "applyTarget": 3,
-    "popupIconId": 306,
-    "popupText": "SG『被虐体質』",
+    "popupIconId": 0,
+    "popupText": "",
     "categoryId": 0
   },
   {
@@ -25332,7 +25330,7 @@
   },
   {
     "vals": [
-      126
+      2917
     ],
     "tvals": [],
     "questTvals": [],
@@ -25342,7 +25340,7 @@
     "popupTextColor": 2,
     "id": 1423,
     "cond": 0,
-    "funcType": 16,
+    "funcType": 1,
     "targetType": 9,
     "applyTarget": 3,
     "popupIconId": 300,
@@ -25532,7 +25530,7 @@
     "targetType": 0,
     "applyTarget": 3,
     "popupIconId": 0,
-    "popupText": "",
+    "popupText": "SG換装：料理下手",
     "categoryId": 0
   },
   {
@@ -25551,7 +25549,7 @@
     "targetType": 0,
     "applyTarget": 3,
     "popupIconId": 0,
-    "popupText": "",
+    "popupText": "SG換装：奉仕体質",
     "categoryId": 0
   },
   {
@@ -25570,7 +25568,7 @@
     "targetType": 0,
     "applyTarget": 3,
     "popupIconId": 0,
-    "popupText": "",
+    "popupText": "SG換装：ドールマニア",
     "categoryId": 0
   },
   {
@@ -25589,7 +25587,7 @@
     "targetType": 0,
     "applyTarget": 3,
     "popupIconId": 0,
-    "popupText": "",
+    "popupText": "SG換装：共依存",
     "categoryId": 0
   },
   {
@@ -25627,7 +25625,7 @@
     "targetType": 0,
     "applyTarget": 3,
     "popupIconId": 329,
-    "popupText": "無敵貫通",
+    "popupText": "不破の鉄心",
     "categoryId": 0
   },
   {
@@ -26409,7 +26407,7 @@
     "targetType": 0,
     "applyTarget": 3,
     "popupIconId": 319,
-    "popupText": "毎ターンチャージプラス",
+    "popupText": "みこっとサマーターーーイム！",
     "categoryId": 0
   },
   {
@@ -26428,7 +26426,7 @@
     "targetType": 0,
     "applyTarget": 3,
     "popupIconId": 304,
-    "popupText": "ガッツ",
+    "popupText": "余は楽しい",
     "categoryId": 0
   },
   {
@@ -57881,7 +57879,7 @@
     "targetType": 0,
     "applyTarget": 3,
     "popupIconId": 529,
-    "popupText": "特殊防御力ダウン",
+    "popupText": "特殊耐性ダウン",
     "categoryId": 0
   },
   {
@@ -57985,7 +57983,7 @@
     "targetType": 0,
     "applyTarget": 3,
     "popupIconId": 343,
-    "popupText": "毎ターン発動",
+    "popupText": "毎ターンチャージプラス",
     "categoryId": 0
   },
   {
@@ -58103,7 +58101,8 @@
   {
     "vals": [
       2386,
-      2387
+      2387,
+      2664
     ],
     "tvals": [],
     "questTvals": [],
@@ -90260,5 +90259,193 @@
     "popupIconId": 324,
     "popupText": "クリティカル威力アップ",
     "categoryId": 10401
+  },
+  {
+    "vals": [
+      2916
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 5593,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 528,
+    "popupText": "攻撃時発動(スキル封印)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      308
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 2,
+    "id": 5594,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      143
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      336
+    ],
+    "popupTextColor": 3,
+    "id": 5595,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 514,
+    "popupText": "クリティカル威力ダウン",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      143
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      337
+    ],
+    "popupTextColor": 3,
+    "id": 5596,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 514,
+    "popupText": "クリティカル威力ダウン",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      143
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      338
+    ],
+    "popupTextColor": 3,
+    "id": 5597,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 514,
+    "popupText": "クリティカル威力ダウン",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1125
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 1,
+    "id": 5598,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 7,
+    "applyTarget": 3,
+    "popupIconId": 319,
+    "popupText": "毎ターンチャージプラス",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2919
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      333
+    ],
+    "popupTextColor": 2,
+    "id": 5599,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 334,
+    "popupText": "宝具攻撃耐性アップ・増殖",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2918
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 5600,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 333,
+    "popupText": "通常攻撃ダメージ前追加効果(クリティカル威力アップ)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2920
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 5601,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 330,
+    "popupText": "増殖",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2922
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 5602,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 343,
+    "popupText": "無限増殖",
+    "categoryId": 0
   }
 ]
