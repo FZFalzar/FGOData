@@ -21857,8 +21857,8 @@
     "id": 1554,
     "buffGroup": 1554,
     "type": 76,
-    "name": "NP減少(？)準備",
-    "detail": "1ターン経過後に宴支度・NP減少(？)を発動する",
+    "name": "宴支度・NP減少(？)",
+    "detail": "1ターン経過後にNP減少(？)を発動する",
     "iconId": 331,
     "maxRate": 0,
     "effectId": 0
@@ -21874,8 +21874,8 @@
     "id": 1555,
     "buffGroup": 1555,
     "type": 76,
-    "name": "宝具威力アップ(？)準備",
-    "detail": "1ターン経過後に宴支度・宝具威力アップ(？)を発動する",
+    "name": "宴支度・宝具威力アップ(？)",
+    "detail": "1ターン経過後に宝具威力アップ(？)を発動する",
     "iconId": 331,
     "maxRate": 0,
     "effectId": 0
@@ -21891,8 +21891,8 @@
     "id": 1556,
     "buffGroup": 1556,
     "type": 76,
-    "name": "HP回復ダウン(？)準備",
-    "detail": "1ターン経過後に宴支度・HP回復ダウン(？)を発動する",
+    "name": "宴支度・HP回復量ダウン(？)",
+    "detail": "1ターン経過後にHP回復量ダウン(？)を発動する",
     "iconId": 331,
     "maxRate": 0,
     "effectId": 0
@@ -21915,7 +21915,7 @@
     "buffGroup": 0,
     "type": 112,
     "name": "威力アップ〔魅了〕",
-    "detail": "〔魅了〕状態のエネミーに与えるダメージをアップ",
+    "detail": "〔魅了〕状態の敵に与えるダメージをアップ",
     "iconId": 302,
     "maxRate": 10000,
     "effectId": 0
@@ -22198,7 +22198,7 @@
     "buffGroup": 0,
     "type": 85,
     "name": "ネガ・デザイア",
-    "detail": "毎ターン敵全体のNPを減少させる効果付与",
+    "detail": "毎ターン敵全体のNPを減少させる効果を付与",
     "iconId": 331,
     "maxRate": 0,
     "effectId": 0
@@ -22273,7 +22273,7 @@
     "buffGroup": 1578,
     "type": 89,
     "name": "無尽の愛",
-    "detail": "通常攻撃時、自身のHPを500回復＆Artsカード性能をダウン(3ターン)＆Quickカード性能をダウン(3ターン)＆Busterカード性能をダウン(3ターン)＆防御力をダウン(3ターン)＆弱体耐性をダウン(3ターン)",
+    "detail": "通常攻撃時、自身のHPを500回復＆Quickカード性能をダウン(3ターン)＆Artsカード性能をダウン(3ターン)＆Busterカード性能をダウン(3ターン)＆防御力をダウン(3ターン)＆弱体耐性をダウン(3ターン)",
     "iconId": 333,
     "maxRate": 0,
     "effectId": 0
@@ -22288,7 +22288,7 @@
     "buffGroup": 1579,
     "type": 89,
     "name": "無窮の愛",
-    "detail": "通常攻撃時、自身のHPを1000回復＆自身に強化無効状態(1回・2ターン)を付与＆Artsカード性能をダウン(3ターン)＆Quickカード性能をダウン(3ターン)＆Busterカード性能をダウン(3ターン)＆防御力をダウン(3ターン)＆弱体耐性をダウン(3ターン)",
+    "detail": "通常攻撃時、自身のHPを1000回復＆自身に強化無効状態(1回・2ターン)を付与＆Quickカード性能をダウン(3ターン)＆Artsカード性能をダウン(3ターン)＆Busterカード性能をダウン(3ターン)＆防御力をダウン(3ターン)＆弱体耐性をダウン(3ターン)",
     "iconId": 333,
     "maxRate": 0,
     "effectId": 0
@@ -22463,10 +22463,10 @@
     "script": {},
     "id": 1589,
     "buffGroup": 0,
-    "type": 1,
+    "type": 52,
     "name": "カード性能アップ",
-    "detail": "Quick、Arts、Busterカードの攻撃の威力をアップ",
-    "iconId": 302,
+    "detail": "Quick、Arts、Busterカードの性能をアップ",
+    "iconId": 312,
     "maxRate": 5000,
     "effectId": 0
   },
@@ -35579,6 +35579,21 @@
   },
   {
     "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2878,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "迷宮濶歩",
+    "detail": "『復刻:徳川廻天迷宮 大奥』において与えるダメージをアップ",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
     "tvals": [
       5000,
       4003
@@ -36290,6 +36305,21 @@
     "detail": "最大HPを増やす",
     "iconId": 330,
     "maxRate": 50000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2921,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "特性付与〔魔性〕",
+    "detail": "〔魔性〕特性を付与する",
+    "iconId": 520,
+    "maxRate": 0,
     "effectId": 0
   },
   {

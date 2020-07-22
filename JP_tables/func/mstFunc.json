@@ -59572,7 +59572,7 @@
     "targetType": 3,
     "applyTarget": 3,
     "popupIconId": 0,
-    "popupText": "強化解除",
+    "popupText": "姐御肌解除",
     "categoryId": 0
   },
   {
@@ -59667,7 +59667,7 @@
     "targetType": 0,
     "applyTarget": 3,
     "popupIconId": 331,
-    "popupText": "宴支度・HP回復ダウン(？)",
+    "popupText": "宴支度・HP回復量ダウン(？)",
     "categoryId": 0
   },
   {
@@ -59812,7 +59812,7 @@
     "targetType": 6,
     "applyTarget": 3,
     "popupIconId": 301,
-    "popupText": "防御力アップ〔混乱〕",
+    "popupText": "防御力アップ",
     "categoryId": 0
   },
   {
@@ -60021,7 +60021,7 @@
     "targetType": 4,
     "applyTarget": 1,
     "popupIconId": 303,
-    "popupText": "NP獲得アップ",
+    "popupText": "戦利品：宝具装填丸",
     "categoryId": 10604
   },
   {
@@ -60059,7 +60059,7 @@
     "targetType": 4,
     "applyTarget": 1,
     "popupIconId": 321,
-    "popupText": "スター発生率アップ",
+    "popupText": "戦利品：会心星産丸",
     "categoryId": 10402
   },
   {
@@ -60135,7 +60135,7 @@
     "targetType": 0,
     "applyTarget": 3,
     "popupIconId": 310,
-    "popupText": "宝具威力アップ",
+    "popupText": "戦利品：宝具強化丸",
     "categoryId": 10601
   },
   {
@@ -60154,7 +60154,7 @@
     "targetType": 0,
     "applyTarget": 3,
     "popupIconId": 301,
-    "popupText": "防御力アップ",
+    "popupText": "戦利品：防御鉄壁丸",
     "categoryId": 0
   },
   {
@@ -60173,7 +60173,7 @@
     "targetType": 0,
     "applyTarget": 3,
     "popupIconId": 300,
-    "popupText": "攻撃力アップ",
+    "popupText": "戦利品：攻撃苛烈丸",
     "categoryId": 0
   },
   {
@@ -60249,7 +60249,7 @@
     "targetType": 4,
     "applyTarget": 3,
     "popupIconId": 0,
-    "popupText": "強化解除",
+    "popupText": "所持品：宝具強化丸解除",
     "categoryId": 0
   },
   {
@@ -60268,7 +60268,7 @@
     "targetType": 4,
     "applyTarget": 3,
     "popupIconId": 0,
-    "popupText": "強化解除",
+    "popupText": "所持品：防御鉄壁丸解除",
     "categoryId": 0
   },
   {
@@ -60287,7 +60287,7 @@
     "targetType": 4,
     "applyTarget": 3,
     "popupIconId": 0,
-    "popupText": "強化解除",
+    "popupText": "所持品：攻撃苛烈丸解除",
     "categoryId": 0
   },
   {
@@ -61031,7 +61031,7 @@
   },
   {
     "vals": [
-      541
+      2921
     ],
     "tvals": [],
     "questTvals": [],
@@ -61050,7 +61050,7 @@
   },
   {
     "vals": [
-      541
+      2921
     ],
     "tvals": [],
     "questTvals": [],
@@ -61211,7 +61211,7 @@
     "funcType": 16,
     "targetType": 0,
     "applyTarget": 3,
-    "popupIconId": 302,
+    "popupIconId": 312,
     "popupText": "カード性能アップ",
     "categoryId": 10205
   },
@@ -61230,7 +61230,7 @@
     "funcType": 16,
     "targetType": 0,
     "applyTarget": 3,
-    "popupIconId": 302,
+    "popupIconId": 312,
     "popupText": "カード性能アップ",
     "categoryId": 10205
   },
@@ -61249,7 +61249,7 @@
     "funcType": 16,
     "targetType": 0,
     "applyTarget": 3,
-    "popupIconId": 302,
+    "popupIconId": 312,
     "popupText": "カード性能アップ",
     "categoryId": 10205
   },
@@ -88484,6 +88484,102 @@
     "categoryId": 0
   },
   {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 5483,
+    "cond": 0,
+    "funcType": 105,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "なし",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 5484,
+    "cond": 0,
+    "funcType": 105,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "なし",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 5485,
+    "cond": 0,
+    "funcType": 105,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "なし",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2878
+    ],
+    "tvals": [],
+    "questTvals": [
+      94000105
+    ],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 5486,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 302,
+    "popupText": "迷宮濶歩",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 5487,
+    "cond": 0,
+    "funcType": 111,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "なし",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 5488,
+    "cond": 0,
+    "funcType": 111,
+    "targetType": 7,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "なし",
+    "categoryId": 0
+  },
+  {
     "vals": [
       2879
     ],
@@ -90446,6 +90542,25 @@
     "applyTarget": 3,
     "popupIconId": 343,
     "popupText": "無限増殖",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2921
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      342
+    ],
+    "popupTextColor": 1,
+    "id": 5604,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 520,
+    "popupText": "魔性特性付与",
     "categoryId": 0
   }
 ]

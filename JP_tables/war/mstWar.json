@@ -2890,6 +2890,36 @@
   },
   {
     "coordinates": [
+      [],
+      [
+        22.296180725097656,
+        131.77073669433594
+      ]
+    ],
+    "id": 9080,
+    "age": "-",
+    "name": "徳川廻天迷宮　大奥",
+    "longName": "徳川廻天迷宮　大奥",
+    "bannerId": 9080,
+    "mapImageId": 0,
+    "mapImageW": 0,
+    "mapImageH": 0,
+    "headerImageId": 0,
+    "priority": 9080,
+    "parentWarId": 0,
+    "materialParentWarId": 0,
+    "flag": 32,
+    "emptyMessage": "クエストがありません",
+    "bgmId": 0,
+    "scriptId": "NONE",
+    "startType": 0,
+    "targetId": 0,
+    "eventId": 80290,
+    "lastQuestId": 0,
+    "assetId": 9056
+  },
+  {
+    "coordinates": [
       [
         36.00568389892578,
         -112.73292541503906
@@ -2942,9 +2972,9 @@
     "mapImageH": 2048,
     "headerImageId": 0,
     "priority": 9088,
-    "parentWarId": 0,
+    "parentWarId": 1004,
     "materialParentWarId": 0,
-    "flag": 3106,
+    "flag": 9250,
     "emptyMessage": "全クエストをクリア済みです",
     "bgmId": 0,
     "scriptId": "NONE",
