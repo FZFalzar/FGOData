@@ -2090,8 +2090,28 @@
     "isDispValue": true
   },
   {
+    "funcId": 1638,
+    "eventId": 80109,
+    "baseFuncId": 0,
+    "nameTotal": "{1}\nTotal C. Star Drop Rate Up",
+    "name": "Increase C. Star Drop Rate",
+    "iconId": 0,
+    "priority": 10,
+    "isDispValue": true
+  },
+  {
     "funcId": 1639,
     "eventId": 80065,
+    "baseFuncId": 0,
+    "nameTotal": "{1}\nTotal NP Gain Up",
+    "name": "Increase NP Gain",
+    "iconId": 0,
+    "priority": 5,
+    "isDispValue": true
+  },
+  {
+    "funcId": 1639,
+    "eventId": 80109,
     "baseFuncId": 0,
     "nameTotal": "{1}\nTotal NP Gain Up",
     "name": "Increase NP Gain",
@@ -2105,6 +2125,16 @@
     "baseFuncId": 0,
     "nameTotal": "{1}\nTotal NP Strength Up",
     "name": "Increase NP Strength",
+    "iconId": 0,
+    "priority": 1,
+    "isDispValue": true
+  },
+  {
+    "funcId": 1640,
+    "eventId": 80109,
+    "baseFuncId": 0,
+    "nameTotal": "{1}\nTotal NP Strength Up",
+    "name": "Increase NP strength",
     "iconId": 0,
     "priority": 1,
     "isDispValue": true
@@ -2680,6 +2710,16 @@
     "isDispValue": true
   },
   {
+    "funcId": 2440,
+    "eventId": 80109,
+    "baseFuncId": 0,
+    "nameTotal": "{0}\nTotal Bonus Amount",
+    "name": "{0} acquired",
+    "iconId": 94015303,
+    "priority": 3000,
+    "isDispValue": true
+  },
+  {
     "funcId": 2441,
     "eventId": 80065,
     "baseFuncId": 0,
@@ -2690,8 +2730,28 @@
     "isDispValue": true
   },
   {
+    "funcId": 2441,
+    "eventId": 80109,
+    "baseFuncId": 0,
+    "nameTotal": "{0}\nTotal Bonus Amount",
+    "name": "{0} acquired",
+    "iconId": 94015302,
+    "priority": 2000,
+    "isDispValue": true
+  },
+  {
     "funcId": 2442,
     "eventId": 80065,
+    "baseFuncId": 0,
+    "nameTotal": "{0}\nTotal Bonus Amount",
+    "name": "{0} acquired",
+    "iconId": 94015301,
+    "priority": 1000,
+    "isDispValue": true
+  },
+  {
+    "funcId": 2442,
+    "eventId": 80109,
     "baseFuncId": 0,
     "nameTotal": "{0}\nTotal Bonus Amount",
     "name": "{0} acquired",
