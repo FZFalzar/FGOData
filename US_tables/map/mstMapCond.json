@@ -838,5 +838,45 @@
     "condType": 1,
     "condTargetId": 94025806,
     "condNum": 0
+  },
+  {
+    "id": 94027501,
+    "mapId": 9046,
+    "priority": 1,
+    "changeType": 5,
+    "targetId": 625,
+    "condType": 1,
+    "condTargetId": 94027501,
+    "condNum": 0
+  },
+  {
+    "id": 94027502,
+    "mapId": 9046,
+    "priority": 2,
+    "changeType": 6,
+    "targetId": 938,
+    "condType": 1,
+    "condTargetId": 94027501,
+    "condNum": 0
+  },
+  {
+    "id": 94027503,
+    "mapId": 9046,
+    "priority": 1,
+    "changeType": 2,
+    "targetId": 9047,
+    "condType": 90,
+    "condTargetId": 80112,
+    "condNum": 1
+  },
+  {
+    "id": 94027504,
+    "mapId": 9047,
+    "priority": 2,
+    "changeType": 2,
+    "targetId": 9046,
+    "condType": 91,
+    "condTargetId": 80112,
+    "condNum": 1
   }
 ]

@@ -3670,7 +3670,7 @@
     "buffGroup": 0,
     "type": 52,
     "name": "Buster Up",
-    "detail": "Increase Buster cards effectiveness on fields with [Sunlight]",
+    "detail": "Increase Buster Card effectiveness when on a [Sunlight] field",
     "iconId": 314,
     "maxRate": 5000,
     "effectId": 0
@@ -3764,7 +3764,7 @@
     "buffGroup": 0,
     "type": 9,
     "name": "ATK Up",
-    "detail": "Increase ATK only on fields with [Shore]",
+    "detail": "Increase ATK when on a [Near Water] field",
     "iconId": 300,
     "maxRate": 5000,
     "effectId": 0
@@ -14790,6 +14790,260 @@
     "name": "Throw/Retrieve",
     "detail": "Increase Critical Hit rate",
     "iconId": 327,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3055
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1118,
+    "buffGroup": 0,
+    "type": 131,
+    "name": "Lock Command Cards",
+    "detail": "Locks the current Command Cards <Effect is removed if a Party Member is switched out or if the Cards are shuffled>",
+    "iconId": 1022,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006,
+      3031
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1119,
+    "buffGroup": 0,
+    "type": 18,
+    "name": "Critical Up",
+    "detail": "Increase Critical Damage when on a [Near Water] field",
+    "iconId": 324,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1120,
+    "buffGroup": 0,
+    "type": 85,
+    "name": "Schwarzwald Falke",
+    "detail": "Apply Evade at the end of each turn",
+    "iconId": 343,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006,
+      3028
+    ],
+    "tvals": [
+      1172
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      1172
+    ],
+    "script": {},
+    "id": 1121,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "Strength Up (Threat to Humanity)",
+    "detail": "Increase damage dealt against [Threat to Humanity]",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005,
+      3009
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1122,
+    "buffGroup": 0,
+    "type": 43,
+    "name": "NiceShot!",
+    "detail": "Decrease DEF",
+    "iconId": 504,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1123,
+    "buffGroup": 0,
+    "type": 19,
+    "name": "Critical Down",
+    "detail": "Decrease Critical Hit damage [Unremovable]",
+    "iconId": 514,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2267
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1124,
+    "buffGroup": 0,
+    "type": 42,
+    "name": "DEF Up",
+    "detail": "Increase DEF [Unremovable]",
+    "iconId": 301,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1125,
+    "buffGroup": 0,
+    "type": 114,
+    "name": "Charge Plus Each Turn",
+    "detail": "Increase Charge by 1 each turn",
+    "iconId": 319,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3018,
+      3021,
+      3007
+    ],
+    "tvals": [
+      5000,
+      4002
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4002
+    ],
+    "script": {},
+    "id": 1126,
+    "buffGroup": 200,
+    "type": 24,
+    "name": "Hi'iaka's Flower",
+    "detail": "Chance to reduce Buster ATK damage taken to 0",
+    "iconId": 305,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3018,
+      3021,
+      3007
+    ],
+    "tvals": [
+      5000,
+      4001
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4001
+    ],
+    "script": {},
+    "id": 1127,
+    "buffGroup": 200,
+    "type": 24,
+    "name": "Kahoupokane's Snow",
+    "detail": "Chance to reduce Arts ATK damage taken to 0",
+    "iconId": 305,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4003
+    ],
+    "ckSelfIndv": [
+      4003
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1128,
+    "buffGroup": 0,
+    "type": 60,
+    "name": "Quick Down",
+    "detail": "Decrease Quick Card effectiveness",
+    "iconId": 515,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4001
+    ],
+    "ckSelfIndv": [
+      4001
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1129,
+    "buffGroup": 0,
+    "type": 60,
+    "name": "Arts Down",
+    "detail": "Decrease Arts Card effectiveness",
+    "iconId": 516,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4002
+    ],
+    "ckSelfIndv": [
+      4002
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1130,
+    "buffGroup": 0,
+    "type": 60,
+    "name": "Buster Down",
+    "detail": "Decrease Buster Card effectiveness",
+    "iconId": 517,
     "maxRate": 5000,
     "effectId": 0
   },

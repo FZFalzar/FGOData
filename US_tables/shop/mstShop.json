@@ -9907,6 +9907,72 @@
       10
     ],
     "targetIds": [
+      203200
+    ],
+    "script": {},
+    "id": 4000297,
+    "baseShopId": 4000297,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 94,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Jeanne d'Arc (Archer)",
+    "detail": "Exchange for Limited Time ★5 Servant",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1596427200,
+    "closedAt": 1598155199
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      1100200
+    ],
+    "script": {},
+    "id": 4000298,
+    "baseShopId": 4000049,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 95,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Edmond Dantès",
+    "detail": "Exchange for Limited Time ★5 Servant",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1596427200,
+    "closedAt": 1598155199
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
       200200
     ],
     "script": {},
@@ -98161,6 +98227,1161 @@
     "bgImageId": 80111,
     "openedAt": 1594080000,
     "closedAt": 1595735999
+  },
+  {
+    "itemIds": [
+      94027503
+    ],
+    "prices": [
+      200
+    ],
+    "targetIds": [
+      94027507
+    ],
+    "script": {},
+    "id": 80112001,
+    "baseShopId": 80112001,
+    "eventId": 80112,
+    "slot": 3,
+    "flag": 0,
+    "priority": 10,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Pitch Black Quill",
+    "detail": "Exchange for Servant Summer Festival! Limited [Asension Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80112,
+    "openedAt": 1596427200,
+    "closedAt": 1598759999
+  },
+  {
+    "itemIds": [
+      94027503
+    ],
+    "prices": [
+      200
+    ],
+    "targetIds": [
+      9403360
+    ],
+    "script": {},
+    "id": 80112002,
+    "baseShopId": 80112002,
+    "eventId": 80112,
+    "slot": 3,
+    "flag": 0,
+    "priority": 20,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 3,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Water Shine",
+    "detail": "Exchange for Servant Summer Festival! Limited ★5 Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80112,
+    "openedAt": 1596427200,
+    "closedAt": 1598759999
+  },
+  {
+    "itemIds": [
+      94027502
+    ],
+    "prices": [
+      200
+    ],
+    "targetIds": [
+      9403340
+    ],
+    "script": {},
+    "id": 80112003,
+    "baseShopId": 80112003,
+    "eventId": 80112,
+    "slot": 3,
+    "flag": 0,
+    "priority": 30,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 3,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Painting Summer",
+    "detail": "Exchange for Servant Summer Festival! Limited ★5 Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80112,
+    "openedAt": 1596427200,
+    "closedAt": 1598759999
+  },
+  {
+    "itemIds": [
+      94027501
+    ],
+    "prices": [
+      200
+    ],
+    "targetIds": [
+      9403350
+    ],
+    "script": {},
+    "id": 80112004,
+    "baseShopId": 80112004,
+    "eventId": 80112,
+    "slot": 3,
+    "flag": 0,
+    "priority": 40,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 3,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Foxy Lady",
+    "detail": "Exchange for Servant Summer Festival! Limited ★5 Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80112,
+    "openedAt": 1596427200,
+    "closedAt": 1598759999
+  },
+  {
+    "itemIds": [
+      94027501
+    ],
+    "prices": [
+      20
+    ],
+    "targetIds": [
+      9570300
+    ],
+    "script": {},
+    "id": 80112005,
+    "baseShopId": 80112005,
+    "eventId": 80112,
+    "slot": 3,
+    "flag": 0,
+    "priority": 110,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Hero Crystal: Star Fou",
+    "detail": "Exchange for one ★3 ALL HP Up card",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80112,
+    "openedAt": 1596427200,
+    "closedAt": 1598759999
+  },
+  {
+    "itemIds": [
+      94027501
+    ],
+    "prices": [
+      20
+    ],
+    "targetIds": [
+      9670300
+    ],
+    "script": {},
+    "id": 80112006,
+    "baseShopId": 80112006,
+    "eventId": 80112,
+    "slot": 3,
+    "flag": 0,
+    "priority": 120,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Hero Crystal: Sun Fou",
+    "detail": "Exchange for one ★3 ALL ATK Up card",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80112,
+    "openedAt": 1596427200,
+    "closedAt": 1598759999
+  },
+  {
+    "itemIds": [
+      94027501
+    ],
+    "prices": [
+      6
+    ],
+    "targetIds": [
+      9770400
+    ],
+    "script": {},
+    "id": 80112007,
+    "baseShopId": 80112007,
+    "eventId": 80112,
+    "slot": 3,
+    "flag": 0,
+    "priority": 130,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 100,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Blaze of Wisdom",
+    "detail": "Exchange for one ★4 ALL EXP card",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80112,
+    "openedAt": 1596427200,
+    "closedAt": 1598759999
+  },
+  {
+    "itemIds": [
+      94027501
+    ],
+    "prices": [
+      3
+    ],
+    "targetIds": [
+      9770300
+    ],
+    "script": {},
+    "id": 80112008,
+    "baseShopId": 80112008,
+    "eventId": 80112,
+    "slot": 3,
+    "flag": 0,
+    "priority": 140,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 100,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Fire of Wisdom",
+    "detail": "Exchange for one ★3 ALL EXP card",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80112,
+    "openedAt": 1596427200,
+    "closedAt": 1598759999
+  },
+  {
+    "itemIds": [
+      94027503
+    ],
+    "prices": [
+      40
+    ],
+    "targetIds": [
+      6525
+    ],
+    "script": {},
+    "id": 80112009,
+    "baseShopId": 80112009,
+    "eventId": 80112,
+    "slot": 3,
+    "flag": 0,
+    "priority": 210,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 10,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Scarab of Wisdom",
+    "detail": "Exchange for [Skill Up & Ascension Materials]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80112,
+    "openedAt": 1596427200,
+    "closedAt": 1598759999
+  },
+  {
+    "itemIds": [
+      94027503
+    ],
+    "prices": [
+      30
+    ],
+    "targetIds": [
+      6519
+    ],
+    "script": {},
+    "id": 80112010,
+    "baseShopId": 80112010,
+    "eventId": 80112,
+    "slot": 3,
+    "flag": 0,
+    "priority": 220,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Warhorse's Young Horn",
+    "detail": "Exchange for [Skill Up & Ascension Materials]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80112,
+    "openedAt": 1596427200,
+    "closedAt": 1598759999
+  },
+  {
+    "itemIds": [
+      94027503
+    ],
+    "prices": [
+      20
+    ],
+    "targetIds": [
+      6526
+    ],
+    "script": {},
+    "id": 80112011,
+    "baseShopId": 80112011,
+    "eventId": 80112,
+    "slot": 3,
+    "flag": 0,
+    "priority": 230,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Shell of Reminiscence",
+    "detail": "Exchange for [Skill Up & Ascension Materials]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80112,
+    "openedAt": 1596427200,
+    "closedAt": 1598759999
+  },
+  {
+    "itemIds": [
+      94027502
+    ],
+    "prices": [
+      30
+    ],
+    "targetIds": [
+      6528
+    ],
+    "script": {},
+    "id": 80112012,
+    "baseShopId": 80112012,
+    "eventId": 80112,
+    "slot": 3,
+    "flag": 0,
+    "priority": 240,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Primordial Lanugo",
+    "detail": "Exchange for [Skill Up & Ascension Materials]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80112,
+    "openedAt": 1596427200,
+    "closedAt": 1598759999
+  },
+  {
+    "itemIds": [
+      94027502
+    ],
+    "prices": [
+      20
+    ],
+    "targetIds": [
+      6536
+    ],
+    "script": {},
+    "id": 80112013,
+    "baseShopId": 80112013,
+    "eventId": 80112,
+    "slot": 3,
+    "flag": 0,
+    "priority": 250,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Aurora Steel",
+    "detail": "Exchange for [Skill Up & Ascension Materials]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80112,
+    "openedAt": 1596427200,
+    "closedAt": 1598759999
+  },
+  {
+    "itemIds": [
+      94027502
+    ],
+    "prices": [
+      20
+    ],
+    "targetIds": [
+      6535
+    ],
+    "script": {},
+    "id": 80112014,
+    "baseShopId": 80112014,
+    "eventId": 80112,
+    "slot": 3,
+    "flag": 0,
+    "priority": 260,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Eternal Ice",
+    "detail": "Exchange for [Skill Up & Ascension Materials]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80112,
+    "openedAt": 1596427200,
+    "closedAt": 1598759999
+  },
+  {
+    "itemIds": [
+      94027501
+    ],
+    "prices": [
+      30
+    ],
+    "targetIds": [
+      6521
+    ],
+    "script": {},
+    "id": 80112015,
+    "baseShopId": 80112015,
+    "eventId": 80112,
+    "slot": 3,
+    "flag": 0,
+    "priority": 270,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Black Beast Grease",
+    "detail": "Exchange for [Skill Up & Ascension Materials]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80112,
+    "openedAt": 1596427200,
+    "closedAt": 1598759999
+  },
+  {
+    "itemIds": [
+      94027501
+    ],
+    "prices": [
+      15
+    ],
+    "targetIds": [
+      6502
+    ],
+    "script": {},
+    "id": 80112016,
+    "baseShopId": 80112016,
+    "eventId": 80112,
+    "slot": 3,
+    "flag": 0,
+    "priority": 280,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 30,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Seed of Yggdrasil",
+    "detail": "Exchange for [Skill Up & Ascension Materials]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80112,
+    "openedAt": 1596427200,
+    "closedAt": 1598759999
+  },
+  {
+    "itemIds": [
+      94027501
+    ],
+    "prices": [
+      15
+    ],
+    "targetIds": [
+      6516
+    ],
+    "script": {},
+    "id": 80112017,
+    "baseShopId": 80112017,
+    "eventId": 80112,
+    "slot": 3,
+    "flag": 0,
+    "priority": 290,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 30,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Evil Bone",
+    "detail": "Exchange for [Skill Up & Ascension Materials]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80112,
+    "openedAt": 1596427200,
+    "closedAt": 1598759999
+  },
+  {
+    "itemIds": [
+      94027503
+    ],
+    "prices": [
+      20
+    ],
+    "targetIds": [
+      6201
+    ],
+    "script": {},
+    "id": 80112018,
+    "baseShopId": 80112018,
+    "eventId": 80112,
+    "slot": 3,
+    "flag": 0,
+    "priority": 310,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Secret Gem of Saber",
+    "detail": "Exchange for [Skill up Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80112,
+    "openedAt": 1596427200,
+    "closedAt": 1598759999
+  },
+  {
+    "itemIds": [
+      94027503
+    ],
+    "prices": [
+      20
+    ],
+    "targetIds": [
+      6202
+    ],
+    "script": {},
+    "id": 80112019,
+    "baseShopId": 80112019,
+    "eventId": 80112,
+    "slot": 3,
+    "flag": 0,
+    "priority": 320,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Secret Gem of Archer",
+    "detail": "Exchange for [Skill up Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80112,
+    "openedAt": 1596427200,
+    "closedAt": 1598759999
+  },
+  {
+    "itemIds": [
+      94027503
+    ],
+    "prices": [
+      20
+    ],
+    "targetIds": [
+      6203
+    ],
+    "script": {},
+    "id": 80112020,
+    "baseShopId": 80112020,
+    "eventId": 80112,
+    "slot": 3,
+    "flag": 0,
+    "priority": 330,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Secret Gem of Lancer",
+    "detail": "Exchange for [Skill up Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80112,
+    "openedAt": 1596427200,
+    "closedAt": 1598759999
+  },
+  {
+    "itemIds": [
+      94027503
+    ],
+    "prices": [
+      20
+    ],
+    "targetIds": [
+      6206
+    ],
+    "script": {},
+    "id": 80112021,
+    "baseShopId": 80112021,
+    "eventId": 80112,
+    "slot": 3,
+    "flag": 0,
+    "priority": 340,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Secret Gem of Assassin",
+    "detail": "Exchange for [Skill up Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80112,
+    "openedAt": 1596427200,
+    "closedAt": 1598759999
+  },
+  {
+    "itemIds": [
+      94027503
+    ],
+    "prices": [
+      20
+    ],
+    "targetIds": [
+      6207
+    ],
+    "script": {},
+    "id": 80112022,
+    "baseShopId": 80112022,
+    "eventId": 80112,
+    "slot": 3,
+    "flag": 0,
+    "priority": 350,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Secret Gem of Berserker",
+    "detail": "Exchange for [Skill up Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80112,
+    "openedAt": 1596427200,
+    "closedAt": 1598759999
+  },
+  {
+    "itemIds": [
+      94027502
+    ],
+    "prices": [
+      20
+    ],
+    "targetIds": [
+      6101
+    ],
+    "script": {},
+    "id": 80112023,
+    "baseShopId": 80112023,
+    "eventId": 80112,
+    "slot": 3,
+    "flag": 0,
+    "priority": 360,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Magic Gem of Saber",
+    "detail": "Exchange for [Skill up Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80112,
+    "openedAt": 1596427200,
+    "closedAt": 1598759999
+  },
+  {
+    "itemIds": [
+      94027502
+    ],
+    "prices": [
+      20
+    ],
+    "targetIds": [
+      6102
+    ],
+    "script": {},
+    "id": 80112024,
+    "baseShopId": 80112024,
+    "eventId": 80112,
+    "slot": 3,
+    "flag": 0,
+    "priority": 370,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Magic Gem of Archer",
+    "detail": "Exchange for [Skill up Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80112,
+    "openedAt": 1596427200,
+    "closedAt": 1598759999
+  },
+  {
+    "itemIds": [
+      94027502
+    ],
+    "prices": [
+      20
+    ],
+    "targetIds": [
+      6103
+    ],
+    "script": {},
+    "id": 80112025,
+    "baseShopId": 80112025,
+    "eventId": 80112,
+    "slot": 3,
+    "flag": 0,
+    "priority": 380,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Magic Gem of Lancer",
+    "detail": "Exchange for [Skill up Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80112,
+    "openedAt": 1596427200,
+    "closedAt": 1598759999
+  },
+  {
+    "itemIds": [
+      94027502
+    ],
+    "prices": [
+      20
+    ],
+    "targetIds": [
+      6106
+    ],
+    "script": {},
+    "id": 80112026,
+    "baseShopId": 80112026,
+    "eventId": 80112,
+    "slot": 3,
+    "flag": 0,
+    "priority": 390,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Magic Gem of Assassin",
+    "detail": "Exchange for [Skill up Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80112,
+    "openedAt": 1596427200,
+    "closedAt": 1598759999
+  },
+  {
+    "itemIds": [
+      94027502
+    ],
+    "prices": [
+      20
+    ],
+    "targetIds": [
+      6107
+    ],
+    "script": {},
+    "id": 80112027,
+    "baseShopId": 80112027,
+    "eventId": 80112,
+    "slot": 3,
+    "flag": 0,
+    "priority": 400,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Magic Gem of Berserker",
+    "detail": "Exchange for [Skill up Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80112,
+    "openedAt": 1596427200,
+    "closedAt": 1598759999
+  },
+  {
+    "itemIds": [
+      94027501
+    ],
+    "prices": [
+      20
+    ],
+    "targetIds": [
+      6001
+    ],
+    "script": {},
+    "id": 80112028,
+    "baseShopId": 80112028,
+    "eventId": 80112,
+    "slot": 3,
+    "flag": 0,
+    "priority": 410,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Gem of Saber",
+    "detail": "Exchange for [Skill up Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80112,
+    "openedAt": 1596427200,
+    "closedAt": 1598759999
+  },
+  {
+    "itemIds": [
+      94027501
+    ],
+    "prices": [
+      20
+    ],
+    "targetIds": [
+      6002
+    ],
+    "script": {},
+    "id": 80112029,
+    "baseShopId": 80112029,
+    "eventId": 80112,
+    "slot": 3,
+    "flag": 0,
+    "priority": 420,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Gem of Archer",
+    "detail": "Exchange for [Skill up Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80112,
+    "openedAt": 1596427200,
+    "closedAt": 1598759999
+  },
+  {
+    "itemIds": [
+      94027501
+    ],
+    "prices": [
+      20
+    ],
+    "targetIds": [
+      6003
+    ],
+    "script": {},
+    "id": 80112030,
+    "baseShopId": 80112030,
+    "eventId": 80112,
+    "slot": 3,
+    "flag": 0,
+    "priority": 430,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Gem of Lancer",
+    "detail": "Exchange for [Skill up Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80112,
+    "openedAt": 1596427200,
+    "closedAt": 1598759999
+  },
+  {
+    "itemIds": [
+      94027501
+    ],
+    "prices": [
+      20
+    ],
+    "targetIds": [
+      6006
+    ],
+    "script": {},
+    "id": 80112031,
+    "baseShopId": 80112031,
+    "eventId": 80112,
+    "slot": 3,
+    "flag": 0,
+    "priority": 440,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Gem of Assassin",
+    "detail": "Exchange for [Skill up Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80112,
+    "openedAt": 1596427200,
+    "closedAt": 1598759999
+  },
+  {
+    "itemIds": [
+      94027501
+    ],
+    "prices": [
+      20
+    ],
+    "targetIds": [
+      6007
+    ],
+    "script": {},
+    "id": 80112032,
+    "baseShopId": 80112032,
+    "eventId": 80112,
+    "slot": 3,
+    "flag": 0,
+    "priority": 450,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Gem of Berserker",
+    "detail": "Exchange for [Skill up Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80112,
+    "openedAt": 1596427200,
+    "closedAt": 1598759999
+  },
+  {
+    "itemIds": [
+      94027503
+    ],
+    "prices": [
+      2
+    ],
+    "targetIds": [
+      1
+    ],
+    "script": {},
+    "id": 80112033,
+    "baseShopId": 80112033,
+    "eventId": 80112,
+    "slot": 3,
+    "flag": 0,
+    "priority": 630,
+    "purchaseType": 1,
+    "setNum": 10000,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 0,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "10,000 QP",
+    "detail": "Exchange for QP",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80112,
+    "openedAt": 1596427200,
+    "closedAt": 1598759999
+  },
+  {
+    "itemIds": [
+      94027502
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      94027503
+    ],
+    "script": {},
+    "id": 80112034,
+    "baseShopId": 80112034,
+    "eventId": 80112,
+    "slot": 3,
+    "flag": 0,
+    "priority": 610,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 0,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "BB $ Bill",
+    "detail": "Exchange for Servant Summer Festival! Limited Item \"BB $ Bill\"",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80112,
+    "openedAt": 1596427200,
+    "closedAt": 1598759999
+  },
+  {
+    "itemIds": [
+      94027501
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      94027502
+    ],
+    "script": {},
+    "id": 80112035,
+    "baseShopId": 80112035,
+    "eventId": 80112,
+    "slot": 3,
+    "flag": 0,
+    "priority": 620,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 0,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Fluffy $ Bill",
+    "detail": "Exchange for Servant Summer Festival! Limited Item \"Fluffy $ Bill\"",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80112,
+    "openedAt": 1596427200,
+    "closedAt": 1598759999
   },
   {
     "itemIds": [

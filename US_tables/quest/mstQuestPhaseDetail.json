@@ -5913,6 +5913,193 @@
   },
   {
     "beforeActionVals": [],
+    "afterActionVals": [
+      "300",
+      "904603",
+      "101",
+      "904603",
+      "102",
+      "904603"
+    ],
+    "boardMessage": {},
+    "questId": 94027503,
+    "phase": 1,
+    "spotId": 904602,
+    "consumeType": 1,
+    "actConsume": 0,
+    "flag": 2
+  },
+  {
+    "beforeActionVals": [],
+    "afterActionVals": [
+      "300",
+      "904604",
+      "101",
+      "904604",
+      "102",
+      "904604",
+      "900",
+      "0"
+    ],
+    "boardMessage": {},
+    "questId": 94027503,
+    "phase": 2,
+    "spotId": 904603,
+    "consumeType": 1,
+    "actConsume": 5,
+    "flag": 0
+  },
+  {
+    "beforeActionVals": [],
+    "afterActionVals": [
+      "300",
+      "904603",
+      "510",
+      "904603"
+    ],
+    "boardMessage": {},
+    "questId": 94027508,
+    "phase": 1,
+    "spotId": 904602,
+    "consumeType": 1,
+    "actConsume": 5,
+    "flag": 0
+  },
+  {
+    "beforeActionVals": [],
+    "afterActionVals": [
+      "900",
+      "0"
+    ],
+    "boardMessage": {},
+    "questId": 94027508,
+    "phase": 2,
+    "spotId": 904603,
+    "consumeType": 1,
+    "actConsume": 5,
+    "flag": 0
+  },
+  {
+    "beforeActionVals": [],
+    "afterActionVals": [
+      "300",
+      "904603",
+      "510",
+      "904603"
+    ],
+    "boardMessage": {},
+    "questId": 94027533,
+    "phase": 1,
+    "spotId": 904602,
+    "consumeType": 1,
+    "actConsume": 5,
+    "flag": 0
+  },
+  {
+    "beforeActionVals": [],
+    "afterActionVals": [
+      "900",
+      "0"
+    ],
+    "boardMessage": {},
+    "questId": 94027533,
+    "phase": 2,
+    "spotId": 904603,
+    "consumeType": 1,
+    "actConsume": 5,
+    "flag": 0
+  },
+  {
+    "beforeActionVals": [],
+    "afterActionVals": [
+      "300",
+      "904607",
+      "510",
+      "904607"
+    ],
+    "boardMessage": {},
+    "questId": 94027538,
+    "phase": 1,
+    "spotId": 904602,
+    "consumeType": 1,
+    "actConsume": 5,
+    "flag": 0
+  },
+  {
+    "beforeActionVals": [],
+    "afterActionVals": [],
+    "boardMessage": {},
+    "questId": 94027538,
+    "phase": 2,
+    "spotId": 904607,
+    "consumeType": 1,
+    "actConsume": 0,
+    "flag": 2
+  },
+  {
+    "beforeActionVals": [],
+    "afterActionVals": [],
+    "boardMessage": {},
+    "questId": 94027538,
+    "phase": 3,
+    "spotId": 904607,
+    "consumeType": 1,
+    "actConsume": 0,
+    "flag": 2
+  },
+  {
+    "beforeActionVals": [],
+    "afterActionVals": [
+      "300",
+      "904609",
+      "101",
+      "904609",
+      "102",
+      "904609",
+      "900",
+      "0"
+    ],
+    "boardMessage": {},
+    "questId": 94027538,
+    "phase": 4,
+    "spotId": 904607,
+    "consumeType": 1,
+    "actConsume": 0,
+    "flag": 2
+  },
+  {
+    "beforeActionVals": [],
+    "afterActionVals": [],
+    "boardMessage": {
+      "text": {
+        "textString": "Formation Restricted",
+        "offset": [
+          -1,
+          -25
+        ],
+        "fontSize": 14,
+        "gradation": [
+          "#FFEC00",
+          "#FFEC00"
+        ]
+      },
+      "image": {
+        "bannerSp": "img_quest_formlimit_01",
+        "offset": [
+          3,
+          -25
+        ]
+      }
+    },
+    "questId": 94027701,
+    "phase": 1,
+    "spotId": 904604,
+    "consumeType": 1,
+    "actConsume": 5,
+    "flag": 524288
+  },
+  {
+    "beforeActionVals": [],
     "afterActionVals": [],
     "boardMessage": {},
     "questId": 912500101,

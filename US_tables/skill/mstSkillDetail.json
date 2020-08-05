@@ -155,6 +155,11 @@
     "detailShort": "Increase ATK [{0}] (3 turns) & increase Mental Debuff Resist [{0}] (3 turns) for yourself"
   },
   {
+    "id": 17250,
+    "detail": "Increase your NP Gauge [{0}]",
+    "detailShort": "Increase your NP Gauge [{0}]"
+  },
+  {
     "id": 17350,
     "detail": "Increase your NP Gauge [{0}]",
     "detailShort": "Increase your NP Gauge [{0}]"
@@ -395,6 +400,11 @@
     "detailShort": "Increase your Debuff Resist"
   },
   {
+    "id": 34451,
+    "detail": "Increase your Debuff Resist",
+    "detailShort": "Increase your Debuff Resist"
+  },
+  {
     "id": 34550,
     "detail": "Increase your Debuff Resist",
     "detailShort": "Increase your Debuff Resist"
@@ -581,6 +591,11 @@
   },
   {
     "id": 50250,
+    "detail": "Slightly increase your C. Star Drop Rate",
+    "detailShort": "Slightly increase your C. Star Drop Rate"
+  },
+  {
+    "id": 50349,
     "detail": "Slightly increase your C. Star Drop Rate",
     "detailShort": "Slightly increase your C. Star Drop Rate"
   },
@@ -1635,6 +1650,11 @@
     "detailShort": "Increase NP Gauge & C. Star Drop Rate [{0}] (3 turns) & Critical Strength [{0}] (3 turns) for yourself"
   },
   {
+    "id": 151450,
+    "detail": "Increase your C. Star Drop Rate",
+    "detailShort": "Increase your C. Star Drop Rate"
+  },
+  {
     "id": 151550,
     "detail": "Increase your C. Star Drop Rate",
     "detailShort": "Increase your C. Star Drop Rate"
@@ -2201,8 +2221,8 @@
   },
   {
     "id": 242650,
-    "detail": "Increase ATK (3 turns) & only when on a field with sunlight & increase Buster Card effectiveness [{0}] (3 turns) for yourself",
-    "detailShort": "Increase ATK (3 turns) & only when on a field with sunlight & increase Buster Card effectiveness [{0}] (3 turns) for yourself"
+    "detail": "Increase ATK (3 turns) & increase Buster Card effectiveness [{0}] (3 turns) when on a [Sunlight] field for yourself",
+    "detailShort": "Increase ATK (3 turns) & increase Buster Card effectiveness [{0}] (3 turns) when on a [Sunlight] field for yourself"
   },
   {
     "id": 243650,
@@ -2431,8 +2451,8 @@
   },
   {
     "id": 285451,
-    "detail": "Increase NP Gauge [{0}] & increase ATK only when on a field [near water] (3 turns) for yourself",
-    "detailShort": "Increase NP Gauge [{0}] & increase ATK only when on a field [near water] (3 turns) for yourself"
+    "detail": "Increase NP Gauge [{0}] & increase ATK when on a field [Near Water] (3 turns) for yourself",
+    "detailShort": "Increase NP Gauge [{0}] & increase ATK when on a field [Near Water] (3 turns) for yourself"
   },
   {
     "id": 286450,
@@ -3190,6 +3210,16 @@
     "detailShort": "Apply [Blessing of Kur] <Enables target to receive additional effects from the Noble Phantasm \"Kur Ki Gal Irkalla\"> (3 turns) & increase DEF [{0}] (3 turns) & increase NP Gain [{0}] (3 turns) & increase MAX HP [{0}] for all allies"
   },
   {
+    "id": 434250,
+    "detail": "Gain 2 C. Stars each turn & increase Debuff Resist for yourself",
+    "detailShort": "Gain 2 C. Stars each turn & increase Debuff Resist for yourself"
+  },
+  {
+    "id": 434450,
+    "detail": "Gain 2 C. Stars each turn & increase Debuff Resist for yourself",
+    "detailShort": "Gain 2 C. Stars each turn & increase Debuff Resist for yourself"
+  },
+  {
     "id": 434650,
     "detail": "Gain 2 C. Stars each turn & increase Debuff Resist for yourself",
     "detailShort": "Gain 2 C. Stars each turn & increase Debuff Resist for yourself"
@@ -3540,6 +3570,111 @@
     "detailShort": "Gain C. Stars [{0}] [g][o]▲[/o][/g] & gain C. Stars at the end of your turn [{0}] (1 turn) [g][o]▲[/o][/g]"
   },
   {
+    "id": 504550,
+    "detail": "Increase Arts Card effectiveness [{0}] (3 turns) & apply Invincible (2 times, 3 turns) for yourself",
+    "detailShort": "Increase Arts Card effectiveness [{0}] (3 turns) & apply Invincible (2 times, 3 turns) for yourself"
+  },
+  {
+    "id": 505551,
+    "detail": "Increase NP Gauge [{0}] & NP Strength [{0}] (3 turns) & increase Critical Strength when on a [Near Water] field [{0}] (3 turns) for yourself",
+    "detailShort": "Increase NP Gauge [{0}] & NP Strength [{0}] (3 turns) & increase Critical Strength when on a [Near Water] field [{0}] (3 turns) for yourself"
+  },
+  {
+    "id": 506450,
+    "detail": "Increase ATK for all allies [{0}] (3 turns) + Increase ATK for all [Good] allies (except yourself) [{0}] (3 turns)",
+    "detailShort": "Increase ATK for all allies [{0}] (3 turns) + Increase ATK for all [Good] allies (except yourself) [{0}] (3 turns)"
+  },
+  {
+    "id": 507450,
+    "detail": "Increase ATK for all allies [{0}] (3 turns) + Increase NP Strength [{0}] (3 turns) & NP Gain [{0}] (3 turns) for yourself",
+    "detailShort": "Increase ATK for all allies [{0}] (3 turns) + Increase NP Strength [{0}] (3 turns) & NP Gain [{0}] (3 turns) for yourself"
+  },
+  {
+    "id": 508452,
+    "detail": "Remove Debuffs & increase Max HP [{0}] (3 turns) for yourself",
+    "detailShort": "Remove Debuffs & increase Max HP [{0}] (3 turns) for yourself"
+  },
+  {
+    "id": 509550,
+    "detail": "Increase C. Star Gather Rate [{0}] (1 turn) & Critical Strength [{0}] (1 turn) & chance to increase Debuff Resist (1 turn) or decrease Debuff Resist (1 turn) [Demerit] for yourself",
+    "detailShort": "Apply C. Star Gather Rate [{0}] (1 turn) & increase Critical Strength [{0}] (1 turn) & chance to increase Debuff Resist (1 turn) or decrease Debuff Resist (1 turn) [Demerit] for yourself"
+  },
+  {
+    "id": 510650,
+    "detail": "Apply Evade (1 turn) & increase Quick Card effectiveness [{0}] (3 turns) for yourself",
+    "detailShort": "Apply Evade (1 turn) & increase Quick Card effectiveness [{0}] (3 turns) for yourself"
+  },
+  {
+    "id": 511551,
+    "detail": "Increase C. Star Gather Rate [{0}] (1 turn) & apply Debuff Immune (1 turn) for yourself & low chance to remove the enemy's Buffs during your normal attack [{0}] (1 turn)",
+    "detailShort": "Increase C. Star Gather Rate [{0}] (1 turn) & apply Debuff Immune (1 turn) for yourself & low chance to remove the enemy's Buffs during your normal attack [{0}] (1 turn)"
+  },
+  {
+    "id": 512450,
+    "detail": "Apply Evade (1 time, 1 turn) after every turn (3 turns) & increase NP Gain [{0}] (3 turns) for yourself",
+    "detailShort": "Apply a \"apply Evade (1 time, 1 turn)\" state after every turn (3 turns) & increase NP Gain ([{0}] (3 turns) for yourself"
+  },
+  {
+    "id": 513551,
+    "detail": "Increase ATK [{0}] (3 turns) & inflict Burn during normal attacks (3 turns) for yourself",
+    "detailShort": "Increase ATK [{0}] (3 turns) & apply a state of \"inflict Burn during normal attacks (3 turns)\" to yourself (3 turns)"
+  },
+  {
+    "id": 514650,
+    "detail": "Increase Buster Card effectiveness [{0}] (1 turn) & increase NP Gauge & decrease HP [Demerit] for yourself",
+    "detailShort": "Increase Buster Card effectiveness [{0}] (1 turn) & increase NP Gauge & decrease HP [Demerit] for yourself"
+  },
+  {
+    "id": 515550,
+    "detail": "Increase NP Gauge [{0}] & restore HP [{0}] & increase Buster Card effectiveness [{0}] (3 turns) & increase NP Strength [{0}] (3 turns) & apply Evade (1 time, 3 turns) for yourself",
+    "detailShort": "Increase NP Gauge [{0}] & restore HP [{0}] & increase Buster Card effectiveness [{0}] (3 turns) & increase NP Strength [{0}] (3 turns) & apply Evade (1 time, 3 turns) for yourself"
+  },
+  {
+    "id": 516650,
+    "detail": "Lock the entire Party's Command Card deck <effect is removed if a Party member changes or if the cards are shuffled> (3 turns) & gain C. Stars each turn [{0}] (3 turns) for yourself",
+    "detailShort": "Apply a state that allows you to lock the entire Party's deck <effect is removed if a Party member changes or if the cards get shuffled> (3 turns) & gain C. Stars each turn [{0}] (3 turns) for yourself"
+  },
+  {
+    "id": 517551,
+    "detail": "Increase NP Gauge each turn [{0}] (3 turns) & gain C. Stars each turn [{0}] (3 turns) for yourself",
+    "detailShort": "Increase NP Gauge each turn [{0}] (3 turns) & gain C. Stars each turn [{0}] (3 turns) for yourself"
+  },
+  {
+    "id": 518450,
+    "detail": "Chance to inflict Charm (1 turn) & decrease Arts ATK resist [{0}] (3 turns) for all enemies",
+    "detailShort": "Chance to inflict Charm (1 turn) & decrease Arts ATK resist [{0}] (3 turns) to all enemies"
+  },
+  {
+    "id": 519550,
+    "detail": "Increase ATK [{0}] (3 turns) for all allies + Increase Critical Strength for all allies (excluding yourself) [{0}] (3 turns)",
+    "detailShort": "Increase ATK [{0}] (3 turns) for all allies + Increase Critical Strength for all allies (excluding yourself) [{0}] (3 turns)"
+  },
+  {
+    "id": 520650,
+    "detail": "Apply Invincible (1 turn) & increase ATK [{0}] (1 turn) for yourself",
+    "detailShort": "Apply Invincible (1 turn) & increase ATK [{0}] (1 turn) for yourself"
+  },
+  {
+    "id": 521150,
+    "detail": "Gain C. Stars [{0}] + Decrease C. Star Gather Rate [{0}] (1 turn) for yourself",
+    "detailShort": "Gain C. Stars [{0]} + Decrease C. Star Gather Rate [{0}] (1 turn) for yourself"
+  },
+  {
+    "id": 522550,
+    "detail": "Apply Ignore Invincible (1 turn) & gain NP [{0}] & apply Special Attack [Threat to Humanity] [{0}] (1 turn) for yourself",
+    "detailShort": "Apply Ignore Invincible (1 turn) & gain NP [{0}] & apply [Threat to Humanity] Special Attack [{0}] (1 turn) for yourself"
+  },
+  {
+    "id": 523650,
+    "detail": "Increase your Critical Strength & gain NP every turn when on a [Near Water] field",
+    "detailShort": "Increase your Critical Strength & gain NP every turn when on a [Near Water] field"
+  },
+  {
+    "id": 524650,
+    "detail": "Apply Burn Immune to yourself",
+    "detailShort": "Apply Burn Immune to yourself"
+  },
+  {
     "id": 940001,
     "detail": "Increase Honnoji Point Gain by 20% [\"GUDAGUDA Honnoji\" Limited Event]",
     "detailShort": "Increase Honnoji Point Gain by 20% [\"GUDAGUDA Honnoji\" Limited Event]"
@@ -3883,6 +4018,21 @@
     "id": 940073,
     "detail": "Increase your ATK Strength by 50% in \"GUDAGUDA Legend of the Imperial Capital Grail\" [Event Only]",
     "detailShort": "Increase your ATK Strength by 50% in \"GUDAGUDA Legend of the Imperial Capital Grail\" [Event Only]"
+  },
+  {
+    "id": 940074,
+    "detail": "Increase Doujin Motivation & Doujin Technique & Doujin Imagination amount per drop by 30% [Event Only]",
+    "detailShort": "Increase Doujin Motivation & Doujin Technique & Doujin Imagination amount per drop by 30% [Event Only]"
+  },
+  {
+    "id": 940075,
+    "detail": "Increase Doujin Motivation & Doujin Technique & Doujin Imagination amount per drop by 20% [Event Only]",
+    "detailShort": "Increase Doujin Motivation & Doujin Technique & Doujin Imagination amount per drop by 20% [Event Only]"
+  },
+  {
+    "id": 940076,
+    "detail": "Increase Doujin Motivation & Doujin Technique & Doujin Imagination amount per drop by 10% [Event Only]",
+    "detailShort": "Increase Doujin Motivation & Doujin Technique & Doujin Imagination amount per drop by 10% [Event Only]"
   },
   {
     "id": 960502,
@@ -4238,6 +4388,21 @@
     "id": 980036,
     "detail": "Restore HP by 5000 & increase NP Gauge by 20% for all allies",
     "detailShort": "Restore HP by 5000 & increase NP Gauge by 20% for all allies"
+  },
+  {
+    "id": 980037,
+    "detail": "Increase Arts Card effectiveness [{0}] (1 turn) & NP Strength [{0}] (1 turn) for a single ally",
+    "detailShort": "Increase Arts Card effectiveness [{0}] (1 turn) & increase NP Strength [{0}] (1 turn) for a single ally"
+  },
+  {
+    "id": 980038,
+    "detail": "Increase a single ally's Arts Card's C. Star Gather Rate [{0}] (1 turn)",
+    "detailShort": "Increase a single ally's Arts Card's C. Star Gather Rate [{0}] (1 turn)"
+  },
+  {
+    "id": 980039,
+    "detail": "Increase Buff Removal Resist [{0}] (1 turn) & NP Gauge for a single ally ",
+    "detailShort": "Increase Buff Removal Resist [{0}] (1 turn) & NP Gauge for a single ally "
   },
   {
     "id": 980064,
@@ -8321,8 +8486,8 @@
   },
   {
     "id": 990874,
-    "detail": "Increase all allies' Quick, Arts, and Buster Card effectiveness by 8% only if [servantName 2300100] (Moon Cancer) is equipped with this Craft Essence when she is on the field",
-    "detailShort": "Increase all allies' Quick, Arts, and Buster Card effectiveness by 8% only if [servantName 2300100] (Moon Cancer) is equipped with this Craft Essence when she is on the field"
+    "detail": "Increase all allies' Quick, Arts, and Buster Card effectiveness by 8% only if [servantName 2300100] (SR, Moon Cancer) is equipped with this Craft Essence when she is on the field.",
+    "detailShort": "Increase all allies' Quick, Arts, and Buster Card effectiveness by 8% only if [servantName 2300100](SR, Moon Cancer) is equipped with this Craft Essence when she is on the field."
   },
   {
     "id": 990875,
@@ -10583,6 +10748,296 @@
     "id": 991384,
     "detail": "Recover 200 HP for yourself when attacking with the engraved Card",
     "detailShort": "Recover 200 HP for yourself when attacking with the engraved Card"
+  },
+  {
+    "id": 991386,
+    "detail": "Increase Arts Card effectiveness by 15% & NP Strength by 15% for yourself",
+    "detailShort": "Increase Arts Card effectiveness by 15% & NP Strength by 15% for yourself"
+  },
+  {
+    "id": 991387,
+    "detail": "Increase Arts Card effectiveness by 20% & NP Strength by 20% for yourself [MAX]",
+    "detailShort": "Increase Arts Card effectiveness by 20% & NP Strength by 20% for yourself [MAX]"
+  },
+  {
+    "id": 991388,
+    "detail": "Increase BB $ Bill amount per drop by 1 [Event Only]",
+    "detailShort": "Increase BB $ Bill amount per drop by 1 [Event Only]"
+  },
+  {
+    "id": 991389,
+    "detail": "Increase BB $ Bill amount per drop by 2 [MAX] [Event Only]",
+    "detailShort": "Increase BB $ Bill amount per drop by 2 [MAX] [Event Only]"
+  },
+  {
+    "id": 991390,
+    "detail": "Increase Buster Card effectiveness by 8% & NP Strength by 8% & NP Gain by 8% for yourself",
+    "detailShort": "Increase Buster Card effectiveness by 8% & NP Strength by 8% & NP Gain by 8% for yourself"
+  },
+  {
+    "id": 991391,
+    "detail": "Increase Buster Card effectiveness by 10% & NP Strength by 10% & NP Gain by 10% for yourself [MAX]",
+    "detailShort": "Increase Buster Card effectiveness by 10% & NP Strength by 10% & NP Gain by 10% for yourself [MAX]"
+  },
+  {
+    "id": 991392,
+    "detail": "Increase Fluffy $ Bill amount per drop by 1 [Event Only]",
+    "detailShort": "Increase Fluffy $ Bill amount per drop by 1 [Event Only]"
+  },
+  {
+    "id": 991393,
+    "detail": "Increase Fluffy $ Bill amount per drop by 2 [MAX] [Event Only]",
+    "detailShort": "Increase Fluffy $ Bill amount per drop by 2 [MAX] [Event Only]"
+  },
+  {
+    "id": 991394,
+    "detail": "Increase NP Gain by 5% & Critical Strength by 5% for yourself",
+    "detailShort": "Increase NP Gain by 5% & Critical Strength by 5% for yourself"
+  },
+  {
+    "id": 991395,
+    "detail": "Increase NP Gain by 10% & Critical Strength by 10% for yourself [MAX]",
+    "detailShort": "Increase NP Gain by 10% & Critical Strength by 10% for yourself [MAX]"
+  },
+  {
+    "id": 991396,
+    "detail": "Increase Gil $ Bill amount per drop by 1 [Event Only]",
+    "detailShort": "Increase Gil $ Bill amount per drop by 1 [Event Only]"
+  },
+  {
+    "id": 991397,
+    "detail": "Increase Gil $ Bill amount per drop by 2 [MAX] [Event Only]",
+    "detailShort": "Increase Gil $ Bill amount per drop by 2 [MAX] [Event Only]"
+  },
+  {
+    "id": 991398,
+    "detail": "Increase Arts Card effectiveness by 8% & NP Gain by 8% & begin battle with NP charged at 30% for yourself",
+    "detailShort": "Increase Arts Card effectiveness by 8% & NP Gain by 8% & begin battle with NP charged at 30% for yourself"
+  },
+  {
+    "id": 991399,
+    "detail": "Increase Arts Card effectiveness by 10% & NP Gain by 10% & begin battle with NP charged at 50% for yourself [MAX]",
+    "detailShort": "Increase Arts Card effectiveness by 10% & NP Gain by 10% & begin battle with NP charged at 50% for yourself [MAX]"
+  },
+  {
+    "id": 991400,
+    "detail": "Increase Doujin Technique amount per drop by 30% [Event Only]",
+    "detailShort": "Increase Doujin Technique amount per drop by 30% [Event Only]"
+  },
+  {
+    "id": 991401,
+    "detail": "Increase Doujin Technique amount per drop by 60% [MAX] [Event Only]",
+    "detailShort": "Increase Doujin Technique amount per drop by 60% [MAX] [Event Only]"
+  },
+  {
+    "id": 991402,
+    "detail": "Increase NP Gauge by 4% each turn & NP Strength by 15% & apply Damage Cut 100 for yourself",
+    "detailShort": "Increase NP Gauge by 4% each turn & NP Strength by 15% & reduce damage received by 100 for yourself"
+  },
+  {
+    "id": 991403,
+    "detail": "Increase NP Gauge by 5% each turn & NP Strength by 20% & apply Damage Cut 200 for yourself [MAX]",
+    "detailShort": "Increase NP Gauge by 5% each turn & NP Strength by 20% & reduce damage received by 200 for yourself [MAX]"
+  },
+  {
+    "id": 991404,
+    "detail": "Increase Doujin Imagination amount per drop by 30% [Event Only]",
+    "detailShort": "Increase Doujin Imagination amount per drop by 30% [Event Only]"
+  },
+  {
+    "id": 991405,
+    "detail": "Increase Doujin Imagination amount per drop by 60% [MAX] [Event Only]",
+    "detailShort": "Increase Doujin Imagination amount per drop by 60% [MAX] [Event Only]"
+  },
+  {
+    "id": 991406,
+    "detail": "Apply Sure Hit & increase Critical Strength by 15% & gain 3 C. Stars each turn for yourself",
+    "detailShort": "Apply Sure Hit & increase Critical Strength by 15% & gain 3 C. Stars each turn for yourself"
+  },
+  {
+    "id": 991407,
+    "detail": "Apply Sure Hit & increase Critical Strength by 20% & gain 4 C. Stars each turn for yourself [MAX]",
+    "detailShort": "Apply Sure Hit & increase Critical Strength by 20% & gain 4 C. Stars each turn for yourself [MAX]"
+  },
+  {
+    "id": 991408,
+    "detail": "Increase Doujin Motivation amount per drop by 30% [Event Only]",
+    "detailShort": "Increase Doujin Motivation amount per drop by 30% [Event Only]"
+  },
+  {
+    "id": 991409,
+    "detail": "Increase Doujin Motivation amount per drop by 60% [MAX] [Event Only]",
+    "detailShort": "Increase Doujin Motivation amount per drop by 60% [MAX] [Event Only]"
+  },
+  {
+    "id": 991410,
+    "detail": "Increase Doujin Motivation & Doujin Technique & Doujin Imagination amount per drop by 10% [Event Only]",
+    "detailShort": "Increase Doujin Motivation & Doujin Technique & Doujin Imagination amount per drop by 10% [Event Only]"
+  },
+  {
+    "id": 991411,
+    "detail": "Increase Doujin Motivation & Doujin Technique & Doujin Imagination amount per drop by 10% [Event Only]",
+    "detailShort": "Increase Doujin Motivation & Doujin Technique & Doujin Imagination amount per drop by 10% [Event Only]"
+  },
+  {
+    "id": 991412,
+    "detail": "Increase Doujin Motivation & Doujin Technique & Doujin Imagination amount per drop by 10% [Event Only]",
+    "detailShort": "Increase Doujin Motivation & Doujin Technique & Doujin Imagination amount per drop by 10% [Event Only]"
+  },
+  {
+    "id": 991413,
+    "detail": "Increase Doujin Motivation & Doujin Technique & Doujin Imagination amount per drop by 10% [Event Only]",
+    "detailShort": "Increase Doujin Motivation & Doujin Technique & Doujin Imagination amount per drop by 10% [Event Only]"
+  },
+  {
+    "id": 991414,
+    "detail": "Increase Doujin Motivation & Doujin Technique & Doujin Imagination amount per drop by 10% [Event Only]",
+    "detailShort": "Increase Doujin Motivation & Doujin Technique & Doujin Imagination amount per drop by 10% [Event Only]"
+  },
+  {
+    "id": 991415,
+    "detail": "Increase Doujin Motivation & Doujin Technique & Doujin Imagination amount per drop by 10% [Event Only]",
+    "detailShort": "Increase Doujin Motivation & Doujin Technique & Doujin Imagination amount per drop by 10% [Event Only]"
+  },
+  {
+    "id": 991416,
+    "detail": "Increase Doujin Motivation & Doujin Technique & Doujin Imagination amount per drop by 10% [Event Only]",
+    "detailShort": "Increase Doujin Motivation & Doujin Technique & Doujin Imagination amount per drop by 10% [Event Only]"
+  },
+  {
+    "id": 991417,
+    "detail": "Increase Doujin Motivation & Doujin Technique & Doujin Imagination amount per drop by 10% [Event Only]",
+    "detailShort": "Increase Doujin Motivation & Doujin Technique & Doujin Imagination amount per drop by 10% [Event Only]"
+  },
+  {
+    "id": 991418,
+    "detail": "Increase Doujin Motivation & Doujin Technique & Doujin Imagination amount per drop by 10% [Event Only]",
+    "detailShort": "Increase Doujin Motivation & Doujin Technique & Doujin Imagination amount per drop by 10% [Event Only]"
+  },
+  {
+    "id": 991419,
+    "detail": "Increase Doujin Motivation & Doujin Technique & Doujin Imagination amount per drop by 10% [Event Only]",
+    "detailShort": "Increase Doujin Motivation & Doujin Technique & Doujin Imagination amount per drop by 10% [Event Only]"
+  },
+  {
+    "id": 991420,
+    "detail": "Increase Doujin Motivation & Doujin Technique & Doujin Imagination amount per drop by 10% [Event Only]",
+    "detailShort": "Increase Doujin Motivation & Doujin Technique & Doujin Imagination amount per drop by 10% [Event Only]"
+  },
+  {
+    "id": 991421,
+    "detail": "Increase Doujin Motivation & Doujin Technique & Doujin Imagination amount per drop by 10% [Event Only]",
+    "detailShort": "Increase Doujin Motivation & Doujin Technique & Doujin Imagination amount per drop by 10% [Event Only]"
+  },
+  {
+    "id": 991422,
+    "detail": "Increase Arts Card effectiveness by 10% & NP Strength by 10% for all allies only if Jeanne d'Arc (Archer) is equipped with this Craft Essence when she is on the field",
+    "detailShort": "Increase Arts Card effectiveness by 10% & NP Strength by 10% for all allies only if Jeanne d'Arc (Archer) is equipped with this Craft Essence when she is on the field"
+  },
+  {
+    "id": 991423,
+    "detail": "Increase Buster Card effectiveness by 10% & Critical Strength by 15% for all allies only if Ibaraki-Douji (Lancer) is equipped with this Craft Essence when she is on the field",
+    "detailShort": "Increase Buster Card effectiveness by 10% & Critical Strength by 15% for all allies only if Ibaraki-Douji (Lancer) is equipped with this Craft Essence when she is on the field"
+  },
+  {
+    "id": 991424,
+    "detail": "Increase Quick Card effectiveness by 10% & Critical Strength by 15% for all allies only if Ushiwakamaru (Assassin) is equipped with this Craft Essence when she is on the field",
+    "detailShort": "Increase Quick Card effectiveness by 10% & Critical Strength by 15% for all allies only if Ushiwakamaru (Assassin) is equipped with this Craft Essence when she is on the field"
+  },
+  {
+    "id": 991425,
+    "detail": "Increase Buster Card effectiveness by 10% & NP Strength by 10% for all allies only if Jeanne d'Arc Alter (Berserker) is equipped with this Craft Essence when she is on the field",
+    "detailShort": "Increase Buster Card effectiveness by 10% & NP Strength by 10% for all allies only if Jeanne d'Arc Alter (Berserker) is equipped with this Craft Essence when she is on the field"
+  },
+  {
+    "id": 991426,
+    "detail": "Increase Buster Card effectiveness by 10% & Critical Strength by 10% & gain 3 C. Stars each turn for yourself",
+    "detailShort": "Increase Buster Card effectiveness by 10% & Critical Strength by 10% & gain 3 C. Stars each turn for yourself"
+  },
+  {
+    "id": 991427,
+    "detail": "Increase Buster Card effectiveness by 15% & Critical Strength by 15% & gain 4 C. Stars each turn for yourself [MAX]",
+    "detailShort": "Increase Buster Card effectiveness by 15% & Critical Strength by 15% & gain 4 C. Stars each turn for yourself [MAX]"
+  },
+  {
+    "id": 991428,
+    "detail": "Increase BB $ Bill amount per drop by 1 [Event Only]",
+    "detailShort": "Increase BB $ Bill amount per drop by 1 [Event Only]"
+  },
+  {
+    "id": 991429,
+    "detail": "Increase BB $ Bill amount per drop by 2 [MAX] [Event Only]",
+    "detailShort": "Increase BB $ Bill amount per drop by 2 [MAX] [Event Only]"
+  },
+  {
+    "id": 991430,
+    "detail": "Increase Quick Card effectiveness by 8% & Arts Card effectiveness by 8% & Critical Strength by 5% for yourself",
+    "detailShort": "Increase Quick Card effectiveness by 8% & Arts Card effectiveness by 8% & Critical Strength by 5% for yourself"
+  },
+  {
+    "id": 991431,
+    "detail": "Increase Quick Card effectiveness by 10% & Arts Card effectiveness by 10% & Critical Strength by 10% for yourself [MAX]",
+    "detailShort": "Increase Quick Card effectiveness by 10% & Arts Card effectiveness by 10% & Critical Strength by 10% for yourself"
+  },
+  {
+    "id": 991432,
+    "detail": "Increase Fluffy $ Bill amount per drop by 1 [Event Only]",
+    "detailShort": "Increase Fluffy $ Bill amount per drop by 1 [Event Only]"
+  },
+  {
+    "id": 991433,
+    "detail": "Increase Fluffy $ Bill amount per drop by 2 [MAX] [Event Only]",
+    "detailShort": "Increase Fluffy $ Bill amount per drop by 2 [MAX] [Event Only]"
+  },
+  {
+    "id": 991434,
+    "detail": "Increase NP Gain by 5% & NP Strength by 5% for yourself",
+    "detailShort": "Increase NP Gain by 5% & NP Strength by 5% for yourself"
+  },
+  {
+    "id": 991435,
+    "detail": "Increase NP Gain by 10% & NP Strength by 10% for yourself [MAX]",
+    "detailShort": "Increase NP Gain by 10% & NP Strength by 10% for yourself [MAX]"
+  },
+  {
+    "id": 991436,
+    "detail": "Increase Gil $ Bill amount per drop by 1 [Event Only]",
+    "detailShort": "Increase Gil $ Bill amount per drop by 1 [Event Only]"
+  },
+  {
+    "id": 991437,
+    "detail": "Increase Gil $ Bill amount per drop by 2 [MAX] [Event Only]",
+    "detailShort": "Increase Gil $ Bill amount per drop by 2 [MAX] [Event Only]"
+  },
+  {
+    "id": 991438,
+    "detail": "Increase Arts & Buster Card effectiveness by 10% for all allies only if [servantName 2300200] (SSR, Moon Cancer) is equipped with this Craft Essence when she is on the field",
+    "detailShort": "Increase Arts & Buster Card effectiveness by 10% for all allies only if [servantName 2300200] (SSR, Moon Cancer) is equipped with this Craft Essence when she is on the field"
+  },
+  {
+    "id": 991439,
+    "detail": "Increase NP Gain by 10% & NP Strength by 10% for all allies only if Medb (Saber) is equipped with this Craft Essence when she is on the field",
+    "detailShort": "Increase NP Gain by 10% & NP Strength by 10% for all allies only if Medb (Saber) is equipped with this Craft Essence when she is on the field"
+  },
+  {
+    "id": 991440,
+    "detail": "Apply 20% Special Attack [Saber] for all allies only if [servantName 2500300] (Foreigner) is equipped with this Craft Essence when she is on the field",
+    "detailShort": "Apply 20% Special Attack [Saber] for all allies only if[servantName 2500300] (Foreigner) is equipped with this Craft Essence when she is on the field"
+  },
+  {
+    "id": 991441,
+    "detail": "Increase C. Star Drop Rate by 30% on the Card that is engraved",
+    "detailShort": "Increase C. Star Drop Rate by 30% on the Card that is engraved"
+  },
+  {
+    "id": 991442,
+    "detail": "Increase C. Star Gather Rate by 100% on the Card that is engraved",
+    "detailShort": "Increase C. Star Gather Rate by 100% on the Card that is engraved"
+  },
+  {
+    "id": 991443,
+    "detail": "Apply Damage Cut 300 (1 time, 1 turn) for yourself when the engraved Card is used to attack",
+    "detailShort": "Apply Damage Cut 300 (1 time, 1 turn) for yourself when the engraved Card is used to attack"
   },
   {
     "id": 991945,
