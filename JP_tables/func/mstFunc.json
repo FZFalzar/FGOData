@@ -90562,5 +90562,39 @@
     "popupIconId": 520,
     "popupText": "魔性特性付与",
     "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 5607,
+    "cond": 0,
+    "funcType": 123,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "なし",
+    "categoryId": 40201
+  },
+  {
+    "vals": [
+      2933
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 5627,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 7,
+    "applyTarget": 3,
+    "popupIconId": 302,
+    "popupText": "人理の防人",
+    "categoryId": 10205
   }
 ]
