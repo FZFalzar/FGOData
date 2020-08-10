@@ -36341,6 +36341,192 @@
     "effectId": 0
   },
   {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2923,
+    "buffGroup": 1400,
+    "type": 156,
+    "name": "コマンドカードタイプチェンジ",
+    "detail": "コマンドカードのタイプをチェンジする",
+    "iconId": 366,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "EffectId": 2019
+    },
+    "id": 2924,
+    "buffGroup": 0,
+    "type": 3,
+    "name": "under the same sky",
+    "detail": "スター発生率をアップ",
+    "iconId": 321,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2925,
+    "buffGroup": 0,
+    "type": 149,
+    "name": "ガッツ時発動(Busterアップ)",
+    "detail": "ガッツ発動時、Busterカードの性能をアップ",
+    "iconId": 365,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3064,
+      3007
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2926,
+    "buffGroup": 250,
+    "type": 157,
+    "name": "対粛正防御",
+    "detail": "無敵貫通を無視して、攻撃によるダメージを0にする",
+    "iconId": 368,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "INDIVIDUALITIE": 200100
+    },
+    "id": 2927,
+    "buffGroup": 0,
+    "type": 143,
+    "name": "宝具タイプチェンジ",
+    "detail": "宝具のタイプをチェンジする",
+    "iconId": 361,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "INDIVIDUALITIE": 200100
+    },
+    "id": 2928,
+    "buffGroup": 0,
+    "type": 145,
+    "name": "宝具タイプチェンジ:Arts",
+    "detail": "宝具のタイプをArtsにチェンジする",
+    "iconId": 361,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "INDIVIDUALITIE": 200100
+    },
+    "id": 2929,
+    "buffGroup": 0,
+    "type": 146,
+    "name": "宝具タイプチェンジ:Buster",
+    "detail": "宝具のタイプをBusterにチェンジする",
+    "iconId": 361,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "INDIVIDUALITIE": 200100
+    },
+    "id": 2930,
+    "buffGroup": 0,
+    "type": 147,
+    "name": "宝具タイプチェンジ:Quick",
+    "detail": "宝具のタイプをQuickにチェンジする",
+    "iconId": 361,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [
+      5000,
+      4008
+    ],
+    "ckSelfIndv": [
+      4008
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2931,
+    "buffGroup": 0,
+    "type": 17,
+    "name": "NP獲得アップ",
+    "detail": "刻印されたカードのNP獲得量をアップ",
+    "iconId": 303,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3024
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2932,
+    "buffGroup": 601,
+    "type": 37,
+    "name": "ガッツ",
+    "detail": "HPが0になった時、HPを回復して耐える(他のガッツ状態と重複可能)",
+    "iconId": 304,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
     "vals": [],
     "tvals": [],
     "ckSelfIndv": [],
@@ -36351,6 +36537,42 @@
     "type": 11,
     "name": "人理の防人",
     "detail": "攻撃の威力を50%アップ",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006,
+      3027
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2934,
+    "buffGroup": 0,
+    "type": 9,
+    "name": "攻撃力アップ",
+    "detail": "HPが少ないほど攻撃力アップ",
+    "iconId": 300,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "EffectId": 2019
+    },
+    "id": 2943,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "",
+    "detail": "",
     "iconId": 302,
     "maxRate": 10000,
     "effectId": 0

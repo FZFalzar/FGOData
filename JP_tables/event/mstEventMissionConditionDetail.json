@@ -2311,6 +2311,19 @@
   },
   {
     "targetIds": [
+      0
+    ],
+    "addTargetIds": [],
+    "targetQuestIndividualities": [],
+    "targetEventIds": [],
+    "id": 10122,
+    "missionTargetId": 200082,
+    "missionCondType": 27,
+    "logicType": 1,
+    "conditionLinkType": 3
+  },
+  {
+    "targetIds": [
       93000001,
       93000002,
       93000003,
@@ -23152,6 +23165,19 @@
     "id": 2001130,
     "missionTargetId": 100212,
     "missionCondType": 19,
+    "logicType": 1,
+    "conditionLinkType": 3
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "addTargetIds": [],
+    "targetQuestIndividualities": [],
+    "targetEventIds": [],
+    "id": 3000001,
+    "missionTargetId": 300001,
+    "missionCondType": 24,
     "logicType": 1,
     "conditionLinkType": 3
   },

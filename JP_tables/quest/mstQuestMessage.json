@@ -17952,6 +17952,28 @@
     "displayType": 1
   },
   {
+    "questId": 94052202,
+    "phase": 1,
+    "idx": 0,
+    "message": "このクエストでは\nパーティ編成はバトルの直前に行います。\n\nクエストを開始しますか？",
+    "condType": 0,
+    "targetId": 0,
+    "targetNum": 0,
+    "frequencyType": 3,
+    "displayType": 1
+  },
+  {
+    "questId": 94052202,
+    "phase": 2,
+    "idx": 0,
+    "message": "このクエストでは\nパーティ編成はバトルの直前に行います。\n\nクエストを開始しますか？",
+    "condType": 0,
+    "targetId": 0,
+    "targetNum": 0,
+    "frequencyType": 3,
+    "displayType": 1
+  },
+  {
     "questId": 94052310,
     "phase": 0,
     "idx": 0,
@@ -18057,6 +18079,17 @@
     "message": "～ 注意 ～\n\n「2019メモリアルクエスト（Lostbelt No.5）」は\n繰り返し挑戦可能なクエストですが、\n絆ポイント、EXP、戦利品、クリア報酬を\n獲得できるのは1回目のクリア時のみとなります。\n\nそれでも挑戦しますか？",
     "condType": 25,
     "targetId": 94052319,
+    "targetNum": 1,
+    "frequencyType": 3,
+    "displayType": 1
+  },
+  {
+    "questId": 94052320,
+    "phase": 0,
+    "idx": 0,
+    "message": "～ 注意 ～\n\n「5周年記念メモリアルクエスト」は\n繰り返し挑戦可能なクエストですが、\n絆ポイント、EXP、戦利品、クリア報酬を\n獲得できるのは1回目のクリア時のみとなります。\n\nそれでも挑戦しますか？",
+    "condType": 25,
+    "targetId": 94052320,
     "targetNum": 1,
     "frequencyType": 3,
     "displayType": 1

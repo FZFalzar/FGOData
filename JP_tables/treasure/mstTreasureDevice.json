@@ -7961,7 +7961,15 @@
       4007,
       4101
     ],
-    "script": {},
+    "script": {
+      "tdTypeChangeIDs": [
+        200198,
+        200101
+      ],
+      "excludeTdChangeTypes": [
+        3
+      ]
+    },
     "id": 200101,
     "seqId": 200100,
     "name": "無限の剣製",
@@ -7979,8 +7987,68 @@
       4007,
       4101
     ],
-    "script": {},
+    "script": {
+      "tdTypeChangeIDs": [
+        200197,
+        200102
+      ],
+      "excludeTdChangeTypes": [
+        3
+      ]
+    },
     "id": 200102,
+    "seqId": 200100,
+    "name": "無限の剣製",
+    "ruby": "アンリミテッドブレイドワークス",
+    "rank": "E～A",
+    "maxLv": 5,
+    "typeText": "？？？？",
+    "attackAttri": 1,
+    "effectFlag": 1
+  },
+  {
+    "individuality": [
+      3001,
+      4001,
+      4007,
+      4101
+    ],
+    "script": {
+      "tdTypeChangeIDs": [
+        200197,
+        200102
+      ],
+      "excludeTdChangeTypes": [
+        3
+      ]
+    },
+    "id": 200197,
+    "seqId": 200100,
+    "name": "無限の剣製",
+    "ruby": "アンリミテッドブレイドワークス",
+    "rank": "E～A",
+    "maxLv": 5,
+    "typeText": "？？？？",
+    "attackAttri": 1,
+    "effectFlag": 1
+  },
+  {
+    "individuality": [
+      3001,
+      4001,
+      4007,
+      4101
+    ],
+    "script": {
+      "tdTypeChangeIDs": [
+        200198,
+        200101
+      ],
+      "excludeTdChangeTypes": [
+        3
+      ]
+    },
+    "id": 200198,
     "seqId": 200100,
     "name": "無限の剣製",
     "ruby": "アンリミテッドブレイドワークス",
@@ -12167,6 +12235,28 @@
   },
   {
     "individuality": [
+      3002,
+      4001,
+      4007
+    ],
+    "script": {
+      "limitSeqId_1": 504500,
+      "limitSeqId_3": 504520,
+      "limitSeqId_4": 504520,
+      "limitSeqId_2": 504500
+    },
+    "id": 504501,
+    "seqId": 504500,
+    "name": "きみをいだく希望の星",
+    "ruby": "アラウンド・カリバーン",
+    "rank": "A",
+    "maxLv": 5,
+    "typeText": "対軍宝具",
+    "attackAttri": 1,
+    "effectFlag": 0
+  },
+  {
+    "individuality": [
       3000,
       4003,
       4007
@@ -13069,6 +13159,7 @@
       4007
     ],
     "script": {
+      "limitSeqId_11": 603310,
       "limitSeqId_1": 603301,
       "limitSeqId_3": 603300,
       "limitSeqId_4": 603300,
@@ -13901,7 +13992,13 @@
       4007,
       4101
     ],
-    "script": {},
+    "script": {
+      "limitSeqId_11": 702801,
+      "limitSeqId_1": 702800,
+      "limitSeqId_3": 702800,
+      "limitSeqId_4": 702800,
+      "limitSeqId_2": 702800
+    },
     "id": 702801,
     "seqId": 702800,
     "name": "驚くべき偉業",

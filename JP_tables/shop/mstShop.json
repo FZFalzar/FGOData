@@ -5364,6 +5364,107 @@
       0
     ],
     "prices": [
+      1000
+    ],
+    "targetIds": [
+      9404630
+    ],
+    "script": {
+      "remainDays": 14
+    },
+    "id": 11179,
+    "baseShopId": 11179,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 2048,
+    "priority": 10,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 5,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "アイドル・メイカー",
+    "detail": "【マナプリズム交換限定】\n期間限定★5概念礼装へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1597051800,
+    "closedAt": 1604156399
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      5
+    ],
+    "targetIds": [
+      9570300
+    ],
+    "script": {},
+    "id": 11180,
+    "baseShopId": 11180,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 2048,
+    "priority": 17,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 30,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "【期間限定】英霊結晶・星のフォウくん",
+    "detail": "【5周年記念】\n★3ALLのHPアップカード1枚へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 80290,
+    "bgImageId": 0,
+    "openedAt": 1597051800,
+    "closedAt": 1598241599
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      5
+    ],
+    "targetIds": [
+      9670300
+    ],
+    "script": {},
+    "id": 11181,
+    "baseShopId": 11181,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 2048,
+    "priority": 18,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 30,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "【期間限定】英霊結晶・太陽のフォウくん",
+    "detail": "【5周年記念】\n★3ALLのATKアップカード1枚へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 80291,
+    "bgImageId": 0,
+    "openedAt": 1597051800,
+    "closedAt": 1598241599
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
       15
     ],
     "targetIds": [
@@ -9885,6 +9986,72 @@
       0
     ],
     "prices": [
+      10
+    ],
+    "targetIds": [
+      4001
+    ],
+    "script": {},
+    "id": 14139,
+    "baseShopId": 14139,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 2048,
+    "priority": 15,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 10,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "【期間限定】呼符",
+    "detail": "【5周年記念】\n聖晶石召喚1回可能な呼符1枚へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 80288,
+    "bgImageId": 0,
+    "openedAt": 1597051800,
+    "closedAt": 1598241599
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      20
+    ],
+    "targetIds": [
+      11011
+    ],
+    "script": {},
+    "id": 14140,
+    "baseShopId": 14140,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 2048,
+    "priority": 16,
+    "purchaseType": 5,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 10,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "【期間限定】経験値カードセット",
+    "detail": "【5周年記念】\n★4ALLの経験値カード10枚へ交換",
+    "infoMessage": "「経験値カード」のセットと交換できます。",
+    "warningMessage": "",
+    "imageId": 80289,
+    "bgImageId": 0,
+    "openedAt": 1597051800,
+    "closedAt": 1598241599
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
       20
     ],
     "targetIds": [
@@ -12915,6 +13082,138 @@
     "bgImageId": 0,
     "openedAt": 1593529200,
     "closedAt": 1596207599
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      50
+    ],
+    "targetIds": [
+      5000
+    ],
+    "script": {},
+    "id": 18091,
+    "baseShopId": 18091,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 2048,
+    "priority": 11,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 3,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "【期間限定】クイック・コード・オープナー",
+    "detail": "【5周年記念】\n【コマンドコードスロット開放素材】へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 80284,
+    "bgImageId": 0,
+    "openedAt": 1597051800,
+    "closedAt": 1598241599
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      50
+    ],
+    "targetIds": [
+      5001
+    ],
+    "script": {},
+    "id": 18092,
+    "baseShopId": 18092,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 2048,
+    "priority": 12,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 3,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "【期間限定】アーツ・コード・オープナー",
+    "detail": "【5周年記念】\n【コマンドコードスロット開放素材】へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 80285,
+    "bgImageId": 0,
+    "openedAt": 1597051800,
+    "closedAt": 1598241599
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      50
+    ],
+    "targetIds": [
+      5002
+    ],
+    "script": {},
+    "id": 18093,
+    "baseShopId": 18093,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 2048,
+    "priority": 13,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 3,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "【期間限定】バスター・コード・オープナー",
+    "detail": "【5周年記念】\n【コマンドコードスロット開放素材】へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 80286,
+    "bgImageId": 0,
+    "openedAt": 1597051800,
+    "closedAt": 1598241599
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      100
+    ],
+    "targetIds": [
+      5003
+    ],
+    "script": {},
+    "id": 18094,
+    "baseShopId": 18094,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 2048,
+    "priority": 14,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 3,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "【期間限定】コード・リムーバー",
+    "detail": "【5周年記念】\n【コマンドコードスロット削除アイテム】へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 80287,
+    "bgImageId": 0,
+    "openedAt": 1597051800,
+    "closedAt": 1598241599
   },
   {
     "itemIds": [
@@ -29550,6 +29849,237 @@
   },
   {
     "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      504500
+    ],
+    "script": {},
+    "id": 4000503,
+    "baseShopId": 4000503,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 810,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "アルトリア・キャスター",
+    "detail": "期間限定★5サーヴァントへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1597051800,
+    "closedAt": 1597244399
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      403500
+    ],
+    "script": {},
+    "id": 4000504,
+    "baseShopId": 4000358,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 809,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "レオナルド・ダ・ヴィンチ",
+    "detail": "期間限定★5サーヴァントへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1597244400,
+    "closedAt": 1597417199
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      504500
+    ],
+    "script": {},
+    "id": 4000505,
+    "baseShopId": 4000503,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 810,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "アルトリア・キャスター",
+    "detail": "期間限定★5サーヴァントへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1597417200,
+    "closedAt": 1597589999
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      403500
+    ],
+    "script": {},
+    "id": 4000506,
+    "baseShopId": 4000358,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 809,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "レオナルド・ダ・ヴィンチ",
+    "detail": "期間限定★5サーヴァントへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1597590000,
+    "closedAt": 1597676399
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      504500
+    ],
+    "script": {},
+    "id": 4000507,
+    "baseShopId": 4000503,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 810,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "アルトリア・キャスター",
+    "detail": "期間限定★5サーヴァントへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1597676400,
+    "closedAt": 1598108399
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      403500
+    ],
+    "script": {},
+    "id": 4000508,
+    "baseShopId": 4000358,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 809,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "レオナルド・ダ・ヴィンチ",
+    "detail": "期間限定★5サーヴァントへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1598108400,
+    "closedAt": 1598194799
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      504500
+    ],
+    "script": {},
+    "id": 4000509,
+    "baseShopId": 4000503,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 810,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "アルトリア・キャスター",
+    "detail": "期間限定★5サーヴァントへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1598194800,
+    "closedAt": 1598241599
+  },
+  {
+    "itemIds": [
       16
     ],
     "prices": [
@@ -38772,7 +39302,7 @@
     "eventId": 0,
     "slot": 0,
     "flag": 256,
-    "priority": 50,
+    "priority": 45,
     "purchaseType": 5,
     "setNum": 1,
     "payType": 10,
@@ -39433,7 +39963,7 @@
     "eventId": 0,
     "slot": 0,
     "flag": 256,
-    "priority": 49,
+    "priority": 44,
     "purchaseType": 9,
     "setNum": 1,
     "payType": 10,
@@ -39866,7 +40396,7 @@
     "eventId": 0,
     "slot": 0,
     "flag": 0,
-    "priority": 21,
+    "priority": 46,
     "purchaseType": 6,
     "setNum": 0,
     "payType": 10,
@@ -39899,7 +40429,7 @@
     "eventId": 0,
     "slot": 0,
     "flag": 256,
-    "priority": 22,
+    "priority": 47,
     "purchaseType": 4,
     "setNum": 1,
     "payType": 10,
@@ -39932,7 +40462,7 @@
     "eventId": 0,
     "slot": 0,
     "flag": 256,
-    "priority": 23,
+    "priority": 48,
     "purchaseType": 4,
     "setNum": 1,
     "payType": 10,
@@ -39965,7 +40495,7 @@
     "eventId": 0,
     "slot": 0,
     "flag": 256,
-    "priority": 24,
+    "priority": 49,
     "purchaseType": 4,
     "setNum": 1,
     "payType": 10,
@@ -39998,7 +40528,7 @@
     "eventId": 0,
     "slot": 0,
     "flag": 256,
-    "priority": 25,
+    "priority": 50,
     "purchaseType": 4,
     "setNum": 1,
     "payType": 10,
@@ -40031,7 +40561,7 @@
     "eventId": 0,
     "slot": 0,
     "flag": 4096,
-    "priority": 30,
+    "priority": 31,
     "purchaseType": 1,
     "setNum": 1,
     "payType": 10,
@@ -40064,7 +40594,7 @@
     "eventId": 0,
     "slot": 0,
     "flag": 4096,
-    "priority": 31,
+    "priority": 32,
     "purchaseType": 1,
     "setNum": 1,
     "payType": 10,
@@ -40073,7 +40603,7 @@
     "defaultLv": 0,
     "defaultLimitCount": 0,
     "name": "コード・リムーバー",
-    "detail": "【コマンドコード分離アイテム】へ交換",
+    "detail": "【コマンドコードスロット削除アイテム】へ交換",
     "infoMessage": "",
     "warningMessage": "",
     "imageId": 0,
@@ -40097,7 +40627,7 @@
     "eventId": 0,
     "slot": 0,
     "flag": 4096,
-    "priority": 32,
+    "priority": 33,
     "purchaseType": 1,
     "setNum": 1,
     "payType": 10,
@@ -40130,7 +40660,7 @@
     "eventId": 0,
     "slot": 0,
     "flag": 4096,
-    "priority": 33,
+    "priority": 34,
     "purchaseType": 4,
     "setNum": 1,
     "payType": 10,
@@ -40163,7 +40693,7 @@
     "eventId": 0,
     "slot": 0,
     "flag": 4096,
-    "priority": 34,
+    "priority": 35,
     "purchaseType": 4,
     "setNum": 1,
     "payType": 10,
@@ -40196,7 +40726,7 @@
     "eventId": 0,
     "slot": 0,
     "flag": 4096,
-    "priority": 35,
+    "priority": 36,
     "purchaseType": 1,
     "setNum": 20000,
     "payType": 10,
@@ -40211,6 +40741,237 @@
     "imageId": 0,
     "bgImageId": 0,
     "openedAt": 1594738800,
+    "closedAt": 1597417199
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      3
+    ],
+    "targetIds": [
+      1000
+    ],
+    "script": {},
+    "id": 6000431,
+    "baseShopId": 6000431,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 2048,
+    "priority": 20,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "【期間限定】カルデアの夢火",
+    "detail": "【5周年記念】\n【絆上限開放素材】へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 80292,
+    "bgImageId": 0,
+    "openedAt": 1597051800,
+    "closedAt": 1598241599
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      5003
+    ],
+    "script": {},
+    "id": 6000432,
+    "baseShopId": 6000432,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 2048,
+    "priority": 21,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 3,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "【期間限定】コード・リムーバー",
+    "detail": "【5周年記念】\n【コマンドコードスロット削除アイテム】へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 80293,
+    "bgImageId": 0,
+    "openedAt": 1597051800,
+    "closedAt": 1598241599
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      5
+    ],
+    "targetIds": [
+      6999
+    ],
+    "script": {},
+    "id": 6000433,
+    "baseShopId": 6000433,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 2048,
+    "priority": 22,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "【期間限定】伝承結晶",
+    "detail": "【5周年記念】\n【スキル強化素材】へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 80294,
+    "bgImageId": 0,
+    "openedAt": 1597051800,
+    "closedAt": 1598241599
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      3
+    ],
+    "targetIds": [
+      9570400
+    ],
+    "script": {},
+    "id": 6000434,
+    "baseShopId": 6000434,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 2048,
+    "priority": 23,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "【期間限定】英霊結晶・流星のフォウくん",
+    "detail": "【5周年記念】\n★4ALLのHPアップカード1枚へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 80295,
+    "bgImageId": 0,
+    "openedAt": 1597051800,
+    "closedAt": 1598241599
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      3
+    ],
+    "targetIds": [
+      9670400
+    ],
+    "script": {},
+    "id": 6000435,
+    "baseShopId": 6000435,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 2048,
+    "priority": 24,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "【期間限定】英霊結晶・日輪のフォウくん",
+    "detail": "【5周年記念】\n★4ALLのATKアップカード1枚へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 80296,
+    "bgImageId": 0,
+    "openedAt": 1597051800,
+    "closedAt": 1598241599
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      4
+    ],
+    "script": {},
+    "id": 6000436,
+    "baseShopId": 6000436,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 2048,
+    "priority": 25,
+    "purchaseType": 1,
+    "setNum": 20000,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 5,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "【期間限定】フレンドポイント",
+    "detail": "【5周年記念】\nフレンドポイント20,000へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 80297,
+    "bgImageId": 0,
+    "openedAt": 1597051800,
+    "closedAt": 1598241599
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      2000
+    ],
+    "script": {},
+    "id": 6000437,
+    "baseShopId": 6000437,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 30,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "獣の足跡",
+    "detail": "【コマンドカード強化素材】へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 2000,
+    "bgImageId": 0,
+    "openedAt": 1597051800,
     "closedAt": 1597417199
   },
   {
@@ -60133,7 +60894,7 @@
     "setNum": 5,
     "payType": 4,
     "shopType": 4,
-    "limitNum": 100,
+    "limitNum": 140,
     "defaultLv": 0,
     "defaultLimitCount": 0,
     "name": "サーヴァント保管枠の拡張",
@@ -60142,7 +60903,7 @@
     "warningMessage": "",
     "imageId": 20,
     "bgImageId": 0,
-    "openedAt": 1564912800,
+    "openedAt": 1597051800,
     "closedAt": 1901199599
   },
   {
@@ -60166,7 +60927,7 @@
     "setNum": 5,
     "payType": 4,
     "shopType": 5,
-    "limitNum": 100,
+    "limitNum": 140,
     "defaultLv": 0,
     "defaultLimitCount": 0,
     "name": "概念礼装保管枠の拡張",
@@ -60175,7 +60936,7 @@
     "warningMessage": "",
     "imageId": 21,
     "bgImageId": 0,
-    "openedAt": 1564912800,
+    "openedAt": 1597051800,
     "closedAt": 1901199599
   },
   {
