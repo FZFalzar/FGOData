@@ -592,7 +592,10 @@
       326
     ],
     "actIndividuality": [],
-    "script": {},
+    "script": {
+      "OverwriteMotion_601000": 1001,
+      "OverwriteMotion_201200": 1001
+    },
     "id": 22350,
     "type": 1,
     "name": "吸血 C",
@@ -3048,7 +3051,10 @@
   {
     "effectList": [],
     "actIndividuality": [],
-    "script": {},
+    "script": {
+      "OverwriteMotion_601000": 1002,
+      "OverwriteMotion_201200": 1002
+    },
     "id": 91550,
     "type": 1,
     "name": "魅惑の美声 A",
@@ -5486,7 +5492,9 @@
   {
     "effectList": [],
     "actIndividuality": [],
-    "script": {},
+    "script": {
+      "OverwriteMotion_201200": 1003
+    },
     "id": 230550,
     "type": 1,
     "name": "女神のきまぐれ A",
@@ -5498,7 +5506,9 @@
   {
     "effectList": [],
     "actIndividuality": [],
-    "script": {},
+    "script": {
+      "OverwriteMotion_601000": 1003
+    },
     "id": 230800,
     "type": 1,
     "name": "女神のきまぐれ A",
@@ -85668,6 +85678,54 @@
     "maxLv": 1,
     "iconId": 600,
     "motion": 103
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 992177,
+    "type": 2,
+    "name": "徒なる影",
+    "ruby": "",
+    "maxLv": 1,
+    "iconId": 202,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 992178,
+    "type": 2,
+    "name": "夢に見し路",
+    "ruby": "",
+    "maxLv": 1,
+    "iconId": 202,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 992179,
+    "type": 2,
+    "name": "茨の種",
+    "ruby": "",
+    "maxLv": 1,
+    "iconId": 202,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 992180,
+    "type": 2,
+    "name": "天に挿頭す",
+    "ruby": "",
+    "maxLv": 1,
+    "iconId": 202,
+    "motion": 101
   },
   {
     "effectList": [],
