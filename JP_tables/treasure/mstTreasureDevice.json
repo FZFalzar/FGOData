@@ -7757,12 +7757,36 @@
       4007
     ],
     "script": {
+      "limitSeqId_11": 103301,
       "limitSeqId_1": 103300,
       "limitSeqId_3": 103301,
       "limitSeqId_4": 103301,
       "limitSeqId_2": 103300
     },
     "id": 103301,
+    "seqId": 103300,
+    "name": "壊劫の天輪",
+    "ruby": "ベルヴェルク・グラム",
+    "rank": "A+",
+    "maxLv": 5,
+    "typeText": "対城宝具",
+    "attackAttri": 1,
+    "effectFlag": 2
+  },
+  {
+    "individuality": [
+      3000,
+      4002,
+      4007
+    ],
+    "script": {
+      "limitSeqId_11": 103301,
+      "limitSeqId_1": 103300,
+      "limitSeqId_3": 103301,
+      "limitSeqId_4": 103301,
+      "limitSeqId_2": 103300
+    },
+    "id": 103302,
     "seqId": 103300,
     "name": "壊劫の天輪",
     "ruby": "ベルヴェルク・グラム",
@@ -7817,7 +7841,56 @@
       4001,
       4007
     ],
-    "script": {},
+    "script": {
+      "randomSeqIds_1": [
+        103600,
+        103600
+      ],
+      "randomSeqIds": [
+        103600,
+        103600
+      ],
+      "randomSeqIds_3": [
+        103600,
+        103600
+      ],
+      "randomSeqIds_2": [
+        103600,
+        103600
+      ],
+      "randomWeights_3": [
+        60,
+        40
+      ],
+      "randomSeqIds_11": [
+        103610,
+        103611
+      ],
+      "randomWeights_1": [
+        60,
+        40
+      ],
+      "randomWeights_2": [
+        60,
+        40
+      ],
+      "randomWeights": [
+        60,
+        40
+      ],
+      "randomWeights_4": [
+        60,
+        40
+      ],
+      "randomSeqIds_4": [
+        103600,
+        103600
+      ],
+      "randomWeights_11": [
+        60,
+        40
+      ]
+    },
     "id": 103601,
     "seqId": 103600,
     "name": "蘭陵王入陣曲",
@@ -9121,6 +9194,24 @@
   },
   {
     "individuality": [
+      3002,
+      4003,
+      4007,
+      4101
+    ],
+    "script": {},
+    "id": 204201,
+    "seqId": 204200,
+    "name": "少女よ虹になれ",
+    "ruby": "プリズマ☆スプラッシュレインボー！",
+    "rank": "A",
+    "maxLv": 5,
+    "typeText": "対軍宝具",
+    "attackAttri": 1,
+    "effectFlag": 1
+  },
+  {
+    "individuality": [
       3000,
       4003,
       4007
@@ -10077,6 +10168,23 @@
     "individuality": [
       3002,
       4003,
+      4007
+    ],
+    "script": {},
+    "id": 304401,
+    "seqId": 304400,
+    "name": "夏魔必滅槍舞",
+    "ruby": "アンチフリング・ロンド",
+    "rank": "A",
+    "maxLv": 5,
+    "typeText": "対軍宝具",
+    "attackAttri": 1,
+    "effectFlag": 2
+  },
+  {
+    "individuality": [
+      3002,
+      4003,
       4007,
       4101
     ],
@@ -11026,6 +11134,23 @@
       4007
     ],
     "script": {},
+    "id": 404101,
+    "seqId": 404100,
+    "name": "衣通郎姫・蜘蛛行",
+    "ruby": "そとおりひめ・くものおこない",
+    "rank": "B",
+    "maxLv": 5,
+    "typeText": "対人宝具",
+    "attackAttri": 1,
+    "effectFlag": 2
+  },
+  {
+    "individuality": [
+      3002,
+      4001,
+      4007
+    ],
+    "script": {},
     "id": 500101,
     "seqId": 500100,
     "name": "破戒すべき全ての符",
@@ -11221,7 +11346,12 @@
       4001,
       4007
     ],
-    "script": {},
+    "script": {
+      "limitSeqId_1": 500500,
+      "limitSeqId_3": 500502,
+      "limitSeqId_4": 500502,
+      "limitSeqId_2": 500500
+    },
     "id": 500501,
     "seqId": 500500,
     "name": "貴方のための物語",
@@ -11238,7 +11368,12 @@
       4001,
       4007
     ],
-    "script": {},
+    "script": {
+      "limitSeqId_1": 500500,
+      "limitSeqId_3": 500502,
+      "limitSeqId_4": 500502,
+      "limitSeqId_2": 500500
+    },
     "id": 500502,
     "seqId": 500500,
     "name": "貴方のための物語",
@@ -14250,6 +14385,65 @@
   },
   {
     "individuality": [
+      3000,
+      4002,
+      4007,
+      4101
+    ],
+    "script": {
+      "randomSeqIds_1": [
+        703800,
+        703801
+      ],
+      "randomSeqIds": [
+        703800,
+        703801
+      ],
+      "randomSeqIds_3": [
+        703800,
+        703801
+      ],
+      "randomSeqIds_2": [
+        703800,
+        703801
+      ],
+      "randomWeights_3": [
+        60,
+        40
+      ],
+      "randomWeights_1": [
+        60,
+        40
+      ],
+      "randomWeights_2": [
+        60,
+        40
+      ],
+      "randomWeights": [
+        60,
+        40
+      ],
+      "randomWeights_4": [
+        60,
+        40
+      ],
+      "randomSeqIds_4": [
+        703800,
+        703801
+      ]
+    },
+    "id": 703801,
+    "seqId": 703800,
+    "name": "せめて、死の刹那までは",
+    "ruby": "ブリュンヒルデ・シグルテイン",
+    "rank": "B",
+    "maxLv": 5,
+    "typeText": "対人宝具／対軍宝具",
+    "attackAttri": 1,
+    "effectFlag": 1
+  },
+  {
+    "individuality": [
       3002,
       4001,
       4007
@@ -15383,6 +15577,94 @@
     "rank": "C",
     "maxLv": 5,
     "typeText": "対人宝具",
+    "attackAttri": 1,
+    "effectFlag": 1
+  },
+  {
+    "individuality": [
+      3002,
+      4001,
+      4007,
+      4101
+    ],
+    "script": {
+      "randomWeights_1": [
+        34,
+        33,
+        33
+      ],
+      "randomWeights_2": [
+        34,
+        33,
+        33
+      ],
+      "randomWeights": [
+        34,
+        33,
+        33
+      ],
+      "randomSeqIds_4": [
+        2300420,
+        2300421
+      ],
+      "randomSeqIds": [
+        2300400,
+        2300401,
+        2300402
+      ],
+      "randomSeqIds_2": [
+        2300410,
+        2300411,
+        2300412
+      ],
+      "randomSeqIds_1": [
+        2300410,
+        2300411,
+        2300412
+      ],
+      "groupSeqIDs": [
+        2300400,
+        2300401,
+        2300402
+      ],
+      "randomSeqIds_3": [
+        2300420,
+        2300421
+      ],
+      "randomWeights_3": [
+        50,
+        50
+      ],
+      "groupSeqIDs_4": [
+        2300420,
+        2300421
+      ],
+      "groupSeqIDs_1": [
+        2300410,
+        2300411,
+        2300412
+      ],
+      "groupSeqIDs_3": [
+        2300420,
+        2300421
+      ],
+      "groupSeqIDs_2": [
+        2300410,
+        2300411,
+        2300412
+      ],
+      "randomWeights_4": [
+        50,
+        50
+      ]
+    },
+    "id": 2300401,
+    "seqId": 2300400,
+    "name": "化楽天・蛟蛤曼荼羅",
+    "ruby": "ニルマーナラティ・ヘブンズフォーム",
+    "rank": "A",
+    "maxLv": 5,
+    "typeText": "対界宝具",
     "attackAttri": 1,
     "effectFlag": 1
   },

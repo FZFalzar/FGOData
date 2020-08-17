@@ -17952,6 +17952,39 @@
     "displayType": 1
   },
   {
+    "questId": 94051402,
+    "phase": 3,
+    "idx": 1,
+    "message": "このクエストでは\nパーティ編成はバトルの直前に行います。\n\nクエストを開始しますか？",
+    "condType": 0,
+    "targetId": 0,
+    "targetNum": 0,
+    "frequencyType": 3,
+    "displayType": 1
+  },
+  {
+    "questId": 94051404,
+    "phase": 1,
+    "idx": 1,
+    "message": "メインクエストを進めると\nマップの時間帯(昼・夜)が\n変化する可能性があります。\n\n時間帯(昼・夜)が変化すると、\nフリークエストの内容が変化します。",
+    "condType": 0,
+    "targetId": 0,
+    "targetNum": 0,
+    "frequencyType": 3,
+    "displayType": 1
+  },
+  {
+    "questId": 94051512,
+    "phase": 1,
+    "idx": 1,
+    "message": "このクエストでは\nパーティ編成はバトルの直前に行います。\n\nクエストを開始しますか？",
+    "condType": 0,
+    "targetId": 0,
+    "targetNum": 0,
+    "frequencyType": 3,
+    "displayType": 1
+  },
+  {
     "questId": 94052202,
     "phase": 1,
     "idx": 0,
@@ -18091,6 +18124,28 @@
     "condType": 25,
     "targetId": 94052320,
     "targetNum": 1,
+    "frequencyType": 3,
+    "displayType": 1
+  },
+  {
+    "questId": 94052502,
+    "phase": 1,
+    "idx": 0,
+    "message": "このクエストでは\nパーティ編成はバトルの直前に行います。\n\nクエストを開始しますか？",
+    "condType": 0,
+    "targetId": 0,
+    "targetNum": 0,
+    "frequencyType": 3,
+    "displayType": 1
+  },
+  {
+    "questId": 94052502,
+    "phase": 2,
+    "idx": 0,
+    "message": "このクエストでは\nパーティ編成はバトルの直前に行います。\n\nクエストを開始しますか？",
+    "condType": 0,
+    "targetId": 0,
+    "targetNum": 0,
     "frequencyType": 3,
     "displayType": 1
   }

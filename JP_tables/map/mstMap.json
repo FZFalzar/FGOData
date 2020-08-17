@@ -1490,9 +1490,42 @@
   },
   {
     "script": {},
+    "id": 9091,
+    "warId": 9091,
+    "mapImageId": 9091,
+    "mapImageW": 2048,
+    "mapImageH": 1440,
+    "headerImageId": 0,
+    "bgmId": 414
+  },
+  {
+    "script": {
+      "firstEffectTime": 3000,
+      "firstEffectType": "fadeIn"
+    },
+    "id": 9093,
+    "warId": 9091,
+    "mapImageId": 9091,
+    "mapImageW": 2048,
+    "mapImageH": 1440,
+    "headerImageId": 0,
+    "bgmId": 414
+  },
+  {
+    "script": {},
     "id": 9097,
     "warId": 9097,
     "mapImageId": 9097,
+    "mapImageW": 0,
+    "mapImageH": 0,
+    "headerImageId": 0,
+    "bgmId": 0
+  },
+  {
+    "script": {},
+    "id": 9098,
+    "warId": 9098,
+    "mapImageId": 9098,
     "mapImageW": 0,
     "mapImageH": 0,
     "headerImageId": 0,

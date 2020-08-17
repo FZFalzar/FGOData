@@ -2988,7 +2988,7 @@
     "bgId": 95500,
     "bgmId": 411,
     "afterBgmId": 411,
-    "flag": 2
+    "flag": 6
   },
   {
     "guideImageIds": [
@@ -3231,6 +3231,54 @@
     "bgId": 41330,
     "bgmId": 164,
     "afterBgmId": 164,
+    "flag": 0
+  },
+  {
+    "guideImageIds": [
+      109819830
+    ],
+    "guideLimitCounts": [
+      0
+    ],
+    "guideFaceIds": [
+      10
+    ],
+    "guideDisplayNames": [],
+    "guideWeights": [],
+    "guideUnselectedMax": [],
+    "eventId": 80294,
+    "slot": 0,
+    "groupId": 0,
+    "type": 4,
+    "tabImageId": 0,
+    "imageId": 0,
+    "bgId": 99900,
+    "bgmId": 417,
+    "afterBgmId": 417,
+    "flag": 2
+  },
+  {
+    "guideImageIds": [
+      304400
+    ],
+    "guideLimitCounts": [
+      0
+    ],
+    "guideFaceIds": [
+      0
+    ],
+    "guideDisplayNames": [],
+    "guideWeights": [],
+    "guideUnselectedMax": [],
+    "eventId": 80294,
+    "slot": 1,
+    "groupId": 0,
+    "type": 1,
+    "tabImageId": 1,
+    "imageId": 0,
+    "bgId": 99900,
+    "bgmId": 417,
+    "afterBgmId": 417,
     "flag": 0
   }
 ]

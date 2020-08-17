@@ -3968,7 +3968,8 @@
       3018,
       3024,
       3030,
-      3032
+      3032,
+      3019
     ],
     "script": {},
     "id": 314,
@@ -10514,7 +10515,8 @@
       3018,
       3024,
       3030,
-      3032
+      3032,
+      3019
     ],
     "script": {},
     "id": 887,
@@ -13702,7 +13704,8 @@
       3018,
       3024,
       3030,
-      3032
+      3032,
+      3019
     ],
     "script": {},
     "id": 1076,
@@ -36205,6 +36208,36 @@
     "effectId": 0
   },
   {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2914,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "サバキャンパー",
+    "detail": "『サーヴァント・サマーキャンプ！ ～カルデア・スリラーナイト～』において与えるダメージをアップ",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2915,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "威力アップ",
+    "detail": "『サーヴァント・サマーキャンプ！ ～カルデア・スリラーナイト～』において与えるダメージをアップ",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
     "vals": [
       3004
     ],
@@ -36561,6 +36594,98 @@
     "effectId": 0
   },
   {
+    "vals": [
+      3004,
+      3065
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2937,
+    "buffGroup": 0,
+    "type": 154,
+    "name": "スキルランクアップ",
+    "detail": "スキルのランクをアップする",
+    "iconId": 367,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005,
+      3008,
+      3010,
+      3038
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "missText": "クリティカル MISS"
+    },
+    "id": 2938,
+    "buffGroup": 0,
+    "type": 71,
+    "name": "幻惑",
+    "detail": "クリティカル発生率をダウン(精神異常扱い)",
+    "iconId": 520,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005,
+      3010
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2939,
+    "buffGroup": 0,
+    "type": 4,
+    "name": "幻惑",
+    "detail": "スター発生率をダウン(精神異常扱い)",
+    "iconId": 520,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2941,
+    "buffGroup": 0,
+    "type": 17,
+    "name": "NP獲得アップ：水辺",
+    "detail": "〔水辺〕のあるフィールドにおいてのみ、NP獲得量をアップ",
+    "iconId": 303,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2942,
+    "buffGroup": 0,
+    "type": 17,
+    "name": "NP獲得アップ：陽射し",
+    "detail": "〔陽射し〕のあるフィールドにおいてのみ、NP獲得量をアップ",
+    "iconId": 303,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
     "vals": [],
     "tvals": [],
     "ckSelfIndv": [],
@@ -36575,6 +36700,94 @@
     "detail": "",
     "iconId": 302,
     "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006,
+      3028
+    ],
+    "tvals": [
+      3015
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      3015
+    ],
+    "script": {},
+    "id": 2945,
+    "buffGroup": 0,
+    "type": 112,
+    "name": "威力アップ〔やけど〕",
+    "detail": "〔やけど〕状態の敵に与えるダメージをアップ",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3024
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2946,
+    "buffGroup": 0,
+    "type": 104,
+    "name": "ガッツ",
+    "detail": "HPが0になった時、HPを回復して耐える(他のガッツ状態と重複可能)",
+    "iconId": 304,
+    "maxRate": 1000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2957,
+    "buffGroup": 0,
+    "type": 149,
+    "name": "",
+    "detail": "",
+    "iconId": 365,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2962,
+    "buffGroup": 0,
+    "type": 85,
+    "name": "人魚の滋養",
+    "detail": "毎ターン〔スキルランクアップ〕状態を付与する",
+    "iconId": 343,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2963,
+    "buffGroup": 0,
+    "type": 4,
+    "name": "？？？",
+    "detail": "スター発生率をダウン",
+    "iconId": 510,
+    "maxRate": 5000,
     "effectId": 0
   }
 ]
