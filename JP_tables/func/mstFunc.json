@@ -91286,6 +91286,25 @@
   },
   {
     "vals": [
+      2940
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 5637,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 525,
+    "popupText": "夜更かし",
+    "categoryId": 0
+  },
+  {
+    "vals": [
       101
     ],
     "tvals": [
@@ -91682,6 +91701,48 @@
   },
   {
     "vals": [
+      2669
+    ],
+    "tvals": [
+      601300
+    ],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 1,
+    "id": 5658,
+    "cond": 0,
+    "funcType": 2,
+    "targetType": 8,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "悦楽の殺人鬼解除",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2670
+    ],
+    "tvals": [
+      601300
+    ],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 1,
+    "id": 5659,
+    "cond": 0,
+    "funcType": 2,
+    "targetType": 8,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "殺人鬼の法則解除",
+    "categoryId": 0
+  },
+  {
+    "vals": [
       219
     ],
     "tvals": [],
@@ -91722,6 +91783,99 @@
   },
   {
     "vals": [
+      2947
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 5662,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 334,
+    "popupText": "悦楽の殺人鬼",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2948
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 5663,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 20202
+  },
+  {
+    "vals": [
+      2949
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      338
+    ],
+    "popupTextColor": 3,
+    "id": 5664,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 503,
+    "popupText": "攻撃力ダウン",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2950
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      341
+    ],
+    "popupTextColor": 3,
+    "id": 5665,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 504,
+    "popupText": "防御力ダウン",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2670
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 1,
+    "id": 5666,
+    "cond": 0,
+    "funcType": 2,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "殺人鬼の法則解除",
+    "categoryId": 0
+  },
+  {
+    "vals": [
       2952
     ],
     "tvals": [],
@@ -91738,6 +91892,80 @@
     "popupIconId": 304,
     "popupText": "",
     "categoryId": 20205
+  },
+  {
+    "vals": [
+      2953
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 5668,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 334,
+    "popupText": "怨念",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2954
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 5669,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 20202
+  },
+  {
+    "vals": [
+      2955
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 1,
+    "id": 5670,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 8,
+    "applyTarget": 3,
+    "popupIconId": 520,
+    "popupText": "特性付与〔安珍様〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2956
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 5671,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 302,
+    "popupText": "威力アップ・安珍様",
+    "categoryId": 10205
   },
   {
     "vals": [
@@ -91791,6 +92019,109 @@
     "popupIconId": 0,
     "popupText": "",
     "categoryId": 0
+  },
+  {
+    "vals": [
+      2702
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 1,
+    "id": 5675,
+    "cond": 0,
+    "funcType": 2,
+    "targetType": 4,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "怨念解除",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2958
+    ],
+    "tvals": [
+      304400
+    ],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 5676,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 7,
+    "applyTarget": 3,
+    "popupIconId": 302,
+    "popupText": "威力アップ・幽霊",
+    "categoryId": 10205
+  },
+  {
+    "vals": [
+      2958
+    ],
+    "tvals": [
+      2701
+    ],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 5677,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 302,
+    "popupText": "威力アップ・幽霊",
+    "categoryId": 10205
+  },
+  {
+    "vals": [
+      2959
+    ],
+    "tvals": [
+      304400
+    ],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 5678,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 7,
+    "applyTarget": 3,
+    "popupIconId": 301,
+    "popupText": "防御力アップ〔幽霊〕",
+    "categoryId": 20201
+  },
+  {
+    "vals": [
+      2959
+    ],
+    "tvals": [
+      2701
+    ],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 5679,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 301,
+    "popupText": "防御力アップ〔幽霊〕",
+    "categoryId": 20201
   },
   {
     "vals": [
@@ -91883,6 +92214,23 @@
     "applyTarget": 3,
     "popupIconId": 0,
     "popupText": "スキルランクアップ解除",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1850
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 2,
+    "id": 5693,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 8,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
     "categoryId": 0
   },
   {

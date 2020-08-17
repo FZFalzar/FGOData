@@ -36659,6 +36659,23 @@
     "ckSelfIndv": [],
     "ckOpIndv": [],
     "script": {},
+    "id": 2940,
+    "buffGroup": 0,
+    "type": 76,
+    "name": "夜更かし",
+    "detail": "3ターン後に自身にスタン状態(1ターン)を付与する",
+    "iconId": 525,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
     "id": 2941,
     "buffGroup": 0,
     "type": 17,
@@ -36744,6 +36761,186 @@
     "effectId": 0
   },
   {
+    "vals": [
+      2669
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2947,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "悦楽の殺人鬼",
+    "detail": "全ての攻撃に対する耐性を得る＆被ダメージを減らす",
+    "iconId": 334,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2669
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2948,
+    "buffGroup": 0,
+    "type": 23,
+    "name": "ダメージカット",
+    "detail": "被ダメージを減らす",
+    "iconId": 301,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      2701
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      2701
+    ],
+    "script": {},
+    "id": 2949,
+    "buffGroup": 0,
+    "type": 10,
+    "name": "攻撃力ダウン",
+    "detail": "〔イリヤ(アーチャー)〕に対する攻撃力をダウン",
+    "iconId": 503,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      2701
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      2701
+    ],
+    "script": {},
+    "id": 2950,
+    "buffGroup": 0,
+    "type": 43,
+    "name": "防御力ダウン",
+    "detail": "〔イリヤ(アーチャー)〕に対する防御力をダウン",
+    "iconId": 504,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2670
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2951,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "殺人鬼の法則",
+    "detail": "全ての攻撃に対する耐性を得る",
+    "iconId": 334,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2670
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2952,
+    "buffGroup": 600,
+    "type": 104,
+    "name": "殺人鬼の法則",
+    "detail": "HPが0になった時、HPを回復して耐える",
+    "iconId": 304,
+    "maxRate": 1000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2702
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2953,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "怨念",
+    "detail": "全ての攻撃に対する耐性を得る＆被ダメージを減らす",
+    "iconId": 334,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2702
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2954,
+    "buffGroup": 0,
+    "type": 23,
+    "name": "ダメージカット",
+    "detail": "被ダメージを減らす",
+    "iconId": 301,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2955,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "特性付与〔安珍様〕",
+    "detail": "〔安珍様〕特性を付与する",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006,
+      3028
+    ],
+    "tvals": [
+      2703
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      2703
+    ],
+    "script": {},
+    "id": 2956,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "威力アップ〔安珍様〕",
+    "detail": "〔安珍様〕特性に与えるダメージをアップ",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
     "vals": [],
     "tvals": [],
     "ckSelfIndv": [],
@@ -36756,6 +36953,53 @@
     "detail": "",
     "iconId": 365,
     "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006,
+      3028
+    ],
+    "tvals": [
+      2705
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      2705
+    ],
+    "script": {},
+    "id": 2958,
+    "buffGroup": 0,
+    "type": 112,
+    "name": "威力アップ〔幽霊〕",
+    "detail": "〔幽霊〕特性に与えるダメージをアップ",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3007,
+      3040,
+      3058
+    ],
+    "tvals": [
+      2705
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      2705
+    ],
+    "script": {},
+    "id": 2959,
+    "buffGroup": 0,
+    "type": 42,
+    "name": "防御力アップ〔幽霊〕",
+    "detail": "〔幽霊〕特性に対する防御力をアップ",
+    "iconId": 301,
+    "maxRate": 5000,
     "effectId": 0
   },
   {
