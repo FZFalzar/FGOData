@@ -37004,6 +37004,44 @@
   },
   {
     "vals": [
+      2708,
+      3018,
+      3021
+    ],
+    "tvals": [
+      304400
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2960,
+    "buffGroup": 0,
+    "type": 24,
+    "name": "回避",
+    "detail": "攻撃によるダメージを0にする",
+    "iconId": 305,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2707
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2961,
+    "buffGroup": 0,
+    "type": 37,
+    "name": "ガッツ",
+    "detail": "HPが0になった時、HPを回復して耐える(他のガッツ状態と重複可能)",
+    "iconId": 304,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
       3004
     ],
     "tvals": [],
@@ -37032,6 +37070,68 @@
     "detail": "スター発生率をダウン",
     "iconId": 510,
     "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2971,
+    "buffGroup": 0,
+    "type": 37,
+    "name": "とてもしぶといゾンビ",
+    "detail": "HPが0になった時、HPを回復して耐える",
+    "iconId": 304,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2972,
+    "buffGroup": 700,
+    "type": 38,
+    "name": "存在感",
+    "detail": "自身にターゲットを固定する",
+    "iconId": 323,
+    "maxRate": 50000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2973,
+    "buffGroup": 0,
+    "type": 89,
+    "name": "攻撃時追加効果(即死付与)",
+    "detail": "攻撃時に敵単体の即死効果が発生する",
+    "iconId": 528,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      4007
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2975,
+    "buffGroup": 0,
+    "type": 130,
+    "name": "",
+    "detail": "",
+    "iconId": 528,
+    "maxRate": 0,
     "effectId": 0
   }
 ]
