@@ -28245,7 +28245,8 @@
   },
   {
     "targetIds": [
-      1002
+      1002,
+      2675
     ],
     "addTargetIds": [],
     "targetQuestIndividualities": [],
@@ -28275,10 +28276,10 @@
   },
   {
     "targetIds": [
+      94051713,
+      94051714,
       94051715,
-      94051716,
-      94051745,
-      94051746
+      94051716
     ],
     "addTargetIds": [],
     "targetQuestIndividualities": [],
@@ -28378,7 +28379,8 @@
   },
   {
     "targetIds": [
-      1001
+      1001,
+      2679
     ],
     "addTargetIds": [],
     "targetQuestIndividualities": [],
@@ -28747,6 +28749,40 @@
     "id": 80294045,
     "missionTargetId": 80294,
     "missionCondType": 23,
+    "logicType": 1,
+    "conditionLinkType": 2
+  },
+  {
+    "targetIds": [
+      94051721,
+      94051722,
+      94051723,
+      94051724
+    ],
+    "addTargetIds": [],
+    "targetQuestIndividualities": [],
+    "targetEventIds": [
+      80294
+    ],
+    "id": 80294046,
+    "missionTargetId": 80294,
+    "missionCondType": 10,
+    "logicType": 1,
+    "conditionLinkType": 2
+  },
+  {
+    "targetIds": [
+      94051729,
+      94051730
+    ],
+    "addTargetIds": [],
+    "targetQuestIndividualities": [],
+    "targetEventIds": [
+      80294
+    ],
+    "id": 80294047,
+    "missionTargetId": 80294,
+    "missionCondType": 10,
     "logicType": 1,
     "conditionLinkType": 2
   }
