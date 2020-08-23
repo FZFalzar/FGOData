@@ -1029,5 +1029,23 @@
     "name": "特定メンバーのみ出撃",
     "type": 11,
     "rangeType": 1
+  },
+  {
+    "targetVals": [
+      6
+    ],
+    "id": 94051407,
+    "name": "6騎まで出撃可能",
+    "type": 10,
+    "rangeType": 4
+  },
+  {
+    "targetVals": [
+      4
+    ],
+    "id": 94051408,
+    "name": "編成制限あり",
+    "type": 11,
+    "rangeType": 4
   }
 ]

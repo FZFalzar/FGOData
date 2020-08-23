@@ -91210,6 +91210,44 @@
   },
   {
     "vals": [
+      2935
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      3002001
+    ],
+    "popupTextColor": 3,
+    "id": 5631,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 4,
+    "applyTarget": 1,
+    "popupIconId": 557,
+    "popupText": "睡眠",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2936
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      3002001
+    ],
+    "popupTextColor": 3,
+    "id": 5632,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 4,
+    "applyTarget": 2,
+    "popupIconId": 557,
+    "popupText": "睡眠",
+    "categoryId": 0
+  },
+  {
+    "vals": [
       2937
     ],
     "tvals": [],
@@ -92402,6 +92440,82 @@
   },
   {
     "vals": [
+      2964
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      341
+    ],
+    "popupTextColor": 3,
+    "id": 5695,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 4,
+    "applyTarget": 3,
+    "popupIconId": 504,
+    "popupText": "防御力ダウン〔睡眠〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2965
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 5696,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 304,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1905
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      334
+    ],
+    "popupTextColor": 2,
+    "id": 5697,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 305,
+    "popupText": "回避",
+    "categoryId": 20203
+  },
+  {
+    "vals": [
+      2966
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      334
+    ],
+    "popupTextColor": 2,
+    "id": 5698,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 305,
+    "popupText": "蜃の衣",
+    "categoryId": 0
+  },
+  {
+    "vals": [
       1135
     ],
     "tvals": [],
@@ -92456,6 +92570,28 @@
     "popupIconId": 553,
     "popupText": "バスター封印",
     "categoryId": 0
+  },
+  {
+    "vals": [
+      140
+    ],
+    "tvals": [
+      6010,
+      304400
+    ],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 5729,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 7,
+    "applyTarget": 1,
+    "popupIconId": 303,
+    "popupText": "NP獲得アップ",
+    "categoryId": 10604
   },
   {
     "vals": [
@@ -92535,6 +92671,25 @@
   },
   {
     "vals": [
+      2974
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 5734,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 304,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
       183
     ],
     "tvals": [],
@@ -92548,6 +92703,63 @@
     "applyTarget": 3,
     "popupIconId": 0,
     "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1086
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      333
+    ],
+    "popupTextColor": 2,
+    "id": 5741,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 334,
+    "popupText": "特殊耐性アップ",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1086
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      334
+    ],
+    "popupTextColor": 2,
+    "id": 5742,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 334,
+    "popupText": "特殊耐性アップ",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1086
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 5743,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 334,
+    "popupText": "特殊耐性アップ",
     "categoryId": 0
   }
 ]

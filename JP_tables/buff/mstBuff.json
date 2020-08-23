@@ -36595,6 +36595,52 @@
   },
   {
     "vals": [
+      3005,
+      3045,
+      3010,
+      3066
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "ReleaseText": "睡眠解除",
+      "DamageRelease": 1
+    },
+    "id": 2935,
+    "buffGroup": 503,
+    "type": 32,
+    "name": "睡眠",
+    "detail": "行動不能になる(攻撃を受けると解除)",
+    "iconId": 557,
+    "maxRate": 0,
+    "effectId": 2001001
+  },
+  {
+    "vals": [
+      3005,
+      3045,
+      3010,
+      3066
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "ReleaseText": "睡眠解除",
+      "DamageRelease": 1
+    },
+    "id": 2936,
+    "buffGroup": 503,
+    "type": 32,
+    "name": "睡眠",
+    "detail": "行動不能になる(攻撃を受けると解除)",
+    "iconId": 557,
+    "maxRate": 0,
+    "effectId": 2001002
+  },
+  {
+    "vals": [
       3004,
       3065
     ],
@@ -37073,6 +37119,62 @@
     "effectId": 0
   },
   {
+    "vals": [
+      3005,
+      3009
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "INDIVIDUALITIE": 3066
+    },
+    "id": 2964,
+    "buffGroup": 0,
+    "type": 43,
+    "name": "防御力ダウン〔睡眠〕",
+    "detail": "〔睡眠〕状態の時に防御力をダウン",
+    "iconId": 504,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2710
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2965,
+    "buffGroup": 0,
+    "type": 104,
+    "name": "ガッツ",
+    "detail": "HPが0になった時、HPを回復して耐える",
+    "iconId": 304,
+    "maxRate": 1000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      -4101
+    ],
+    "script": {
+      "avoidanceText": "当たらない"
+    },
+    "id": 2966,
+    "buffGroup": 410,
+    "type": 155,
+    "name": "蜃の衣",
+    "detail": "広範囲の攻撃であれば…",
+    "iconId": 305,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
     "vals": [],
     "tvals": [],
     "ckSelfIndv": [],
@@ -37115,6 +37217,21 @@
     "detail": "攻撃時に敵単体の即死効果が発生する",
     "iconId": 528,
     "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2974,
+    "buffGroup": 0,
+    "type": 104,
+    "name": "深淵を覗き込む者",
+    "detail": "HPが0になった時、HPを回復して耐える",
+    "iconId": 304,
+    "maxRate": 1000,
     "effectId": 0
   },
   {

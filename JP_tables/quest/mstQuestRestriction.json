@@ -4520,6 +4520,38 @@
     "noticeMessage": "虞美人(ランサー)のみ選択可能"
   },
   {
+    "questId": 94051419,
+    "phase": 1,
+    "restrictionId": 2000301,
+    "frequencyType": 0,
+    "dialogMessage": "",
+    "noticeMessage": ""
+  },
+  {
+    "questId": 94051419,
+    "phase": 4,
+    "restrictionId": 94051401,
+    "frequencyType": 3,
+    "dialogMessage": "制限対象サーヴァントはサブメンバーとして出撃できません。",
+    "noticeMessage": "虞美人(ランサー)をスターティングメンバーに設定してください。"
+  },
+  {
+    "questId": 94051419,
+    "phase": 4,
+    "restrictionId": 94051407,
+    "frequencyType": 3,
+    "dialogMessage": "このクエストを開始するには\nスターティングメンバーに\n3騎のサーヴァントが必要です。",
+    "noticeMessage": "6騎まで出撃可能"
+  },
+  {
+    "questId": 94051419,
+    "phase": 4,
+    "restrictionId": 94051408,
+    "frequencyType": 0,
+    "dialogMessage": "",
+    "noticeMessage": ""
+  },
+  {
     "questId": 94051499,
     "phase": 1,
     "restrictionId": 2000302,
