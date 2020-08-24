@@ -1047,5 +1047,50 @@
     "name": "編成制限あり",
     "type": 11,
     "rangeType": 4
+  },
+  {
+    "targetVals": [
+      1
+    ],
+    "id": 94051409,
+    "name": "1騎のみ出撃可能",
+    "type": 10,
+    "rangeType": 1
+  },
+  {
+    "targetVals": [
+      2
+    ],
+    "id": 94051410,
+    "name": "2騎のみ出撃可能",
+    "type": 10,
+    "rangeType": 1
+  },
+  {
+    "targetVals": [
+      3
+    ],
+    "id": 94051412,
+    "name": "3騎のみ出撃可能",
+    "type": 10,
+    "rangeType": 1
+  },
+  {
+    "targetVals": [
+      2
+    ],
+    "id": 94051413,
+    "name": "編成制限あり",
+    "type": 11,
+    "rangeType": 1
+  },
+  {
+    "targetVals": [
+      3
+    ],
+    "id": 94051414,
+    "name": "編成条件あり",
+    "type": 7,
+    "rangeType": 1
   }
 ]

@@ -119988,7 +119988,7 @@
     "condGroup": 1,
     "condType": 1,
     "targetNum": 1,
-    "conditionMessage": "『サーヴァント・サマーキャンプⅡ』をクリアせよ",
+    "conditionMessage": "『サーヴァント・サマーキャンプⅡ』をクリアせよ\n【ミッション達成でクエスト開放】",
     "closedMessage": "",
     "flag": 0
   },
@@ -122970,20 +122970,7 @@
   },
   {
     "targetIds": [
-      94051701,
-      94051703,
-      94051705,
-      94051707,
-      94051709,
-      94051711,
-      94051713,
-      94051715,
-      94051717,
-      94051719,
-      94051721,
-      94051723,
-      94051725,
-      94051727
+      80294040
     ],
     "missionId": 80294078,
     "missionProgressType": 4,
@@ -122991,9 +122978,9 @@
     "id": 80294209,
     "missionTargetId": 80294,
     "condGroup": 1,
-    "condType": 1,
-    "targetNum": 14,
-    "conditionMessage": "『A』のフリークエストをすべてクリアせよ\n【ミッション達成でクエスト\n『ねえ、この森から帰れなくなくない？』を開放】",
+    "condType": 22,
+    "targetNum": 30,
+    "conditionMessage": "『昼』のフリークエストを合計30回クリアせよ\n【ミッション達成でクエスト\n『ねえ、この森から帰れなくなくない？』を開放】",
     "closedMessage": "",
     "flag": 0
   },
@@ -123031,20 +123018,7 @@
   },
   {
     "targetIds": [
-      94051702,
-      94051704,
-      94051706,
-      94051708,
-      94051710,
-      94051712,
-      94051714,
-      94051716,
-      94051718,
-      94051720,
-      94051722,
-      94051724,
-      94051726,
-      94051728
+      80294041
     ],
     "missionId": 80294079,
     "missionProgressType": 4,
@@ -123052,9 +123026,9 @@
     "id": 80294212,
     "missionTargetId": 80294,
     "condGroup": 1,
-    "condType": 1,
-    "targetNum": 14,
-    "conditionMessage": "『B』のフリークエストをすべてクリアせよ",
+    "condType": 22,
+    "targetNum": 20,
+    "conditionMessage": "『夜』のフリークエストを合計20回クリアせよ",
     "closedMessage": "",
     "flag": 0
   },
@@ -123534,7 +123508,7 @@
     "condGroup": 1,
     "condType": 9,
     "targetNum": 3,
-    "conditionMessage": "『虞美人（ランサー）』の絆レベルが3になる\n【ミッション達成でクエスト開放】",
+    "conditionMessage": "『虞美人（ランサー）』の絆レベルが3になる",
     "closedMessage": "",
     "flag": 0
   },

@@ -37180,6 +37180,67 @@
     "ckSelfIndv": [],
     "ckOpIndv": [],
     "script": {},
+    "id": 2967,
+    "buffGroup": 0,
+    "type": 76,
+    "name": "遅延発動(強化)",
+    "detail": "2ターン経過後に「自身の攻撃時に即死効果が発生する状態」を付与",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006,
+      3028
+    ],
+    "tvals": [
+      103600
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      103600
+    ],
+    "script": {},
+    "id": 2968,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "威力アップ〔ダーク・ラン〕",
+    "detail": "〔ダーク・ラン〕に与えるダメージをアップ",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3007,
+      3040
+    ],
+    "tvals": [
+      103600
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      103600
+    ],
+    "script": {},
+    "id": 2969,
+    "buffGroup": 0,
+    "type": 42,
+    "name": "防御力アップ〔ダーク・ラン〕",
+    "detail": "〔ダーク・ラン〕に対する防御力をアップ",
+    "iconId": 301,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
     "id": 2971,
     "buffGroup": 0,
     "type": 37,
@@ -37248,6 +37309,21 @@
     "name": "",
     "detail": "",
     "iconId": 528,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2984,
+    "buffGroup": 0,
+    "type": 37,
+    "name": "ガッツ",
+    "detail": "HPが0になった時、HPを回復して耐える",
+    "iconId": 304,
     "maxRate": 0,
     "effectId": 0
   }

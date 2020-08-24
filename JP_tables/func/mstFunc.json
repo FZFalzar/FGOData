@@ -92516,6 +92516,286 @@
   },
   {
     "vals": [
+      2967
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 5699,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 331,
+    "popupText": "遅延発動(強化)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      143
+    ],
+    "tvals": [
+      304400
+    ],
+    "questTvals": [],
+    "effectList": [
+      336
+    ],
+    "popupTextColor": 3,
+    "id": 5700,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 514,
+    "popupText": "クリティカル威力ダウン",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      118
+    ],
+    "tvals": [
+      304400
+    ],
+    "questTvals": [],
+    "effectList": [
+      336
+    ],
+    "popupTextColor": 3,
+    "id": 5701,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 6,
+    "applyTarget": 1,
+    "popupIconId": 510,
+    "popupText": "スター発生ダウン",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      304400
+    ],
+    "questTvals": [],
+    "effectList": [
+      326
+    ],
+    "popupTextColor": 2,
+    "id": 5702,
+    "cond": 0,
+    "funcType": 7,
+    "targetType": 6,
+    "applyTarget": 1,
+    "popupIconId": 0,
+    "popupText": "NP増加",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      304400
+    ],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 5703,
+    "cond": 0,
+    "funcType": 7,
+    "targetType": 6,
+    "applyTarget": 1,
+    "popupIconId": 0,
+    "popupText": "NP増加",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      148
+    ],
+    "tvals": [
+      304400
+    ],
+    "questTvals": [],
+    "effectList": [
+      339
+    ],
+    "popupTextColor": 3,
+    "id": 5704,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 504,
+    "popupText": "防御力ダウン",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      149
+    ],
+    "tvals": [
+      304400
+    ],
+    "questTvals": [],
+    "effectList": [
+      333
+    ],
+    "popupTextColor": 2,
+    "id": 5705,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 301,
+    "popupText": "ダメージカット",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      138
+    ],
+    "tvals": [
+      304400
+    ],
+    "questTvals": [],
+    "effectList": [
+      330
+    ],
+    "popupTextColor": 2,
+    "id": 5706,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 310,
+    "popupText": "宝具威力アップ",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2968
+    ],
+    "tvals": [
+      304400
+    ],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 5707,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 302,
+    "popupText": "威力アップ〔ダーク・ラン〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2969
+    ],
+    "tvals": [
+      304400
+    ],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 5708,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 301,
+    "popupText": "防御力アップ〔ダーク・ラン〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      304400
+    ],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 5709,
+    "cond": 0,
+    "funcType": 5,
+    "targetType": 6,
+    "applyTarget": 1,
+    "popupIconId": 0,
+    "popupText": "スター獲得",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      304400
+    ],
+    "questTvals": [],
+    "effectList": [
+      325
+    ],
+    "popupTextColor": 1,
+    "id": 5710,
+    "cond": 0,
+    "funcType": 6,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3018
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 1,
+    "id": 5711,
+    "cond": 0,
+    "funcType": 2,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "無敵解除",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3021
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 1,
+    "id": 5712,
+    "cond": 0,
+    "funcType": 2,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "回避状態解除",
+    "categoryId": 0
+  },
+  {
+    "vals": [
       1135
     ],
     "tvals": [],
@@ -92569,6 +92849,208 @@
     "applyTarget": 3,
     "popupIconId": 553,
     "popupText": "バスター封印",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2968
+    ],
+    "tvals": [
+      304400
+    ],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 5716,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 302,
+    "popupText": "威力アップ〔ダーク・ラン〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      126
+    ],
+    "tvals": [
+      304400
+    ],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 5717,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 300,
+    "popupText": "攻撃力アップ",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      142
+    ],
+    "tvals": [
+      304400
+    ],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 5718,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 324,
+    "popupText": "クリティカル威力アップ",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      136
+    ],
+    "tvals": [
+      304400
+    ],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 5719,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 302,
+    "popupText": "アタックプラス",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      304400
+    ],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 5720,
+    "cond": 0,
+    "funcType": 5,
+    "targetType": 3,
+    "applyTarget": 1,
+    "popupIconId": 0,
+    "popupText": "スター獲得",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2984
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 5721,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 1,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 20205
+  },
+  {
+    "vals": [],
+    "tvals": [
+      304400
+    ],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 5722,
+    "cond": 0,
+    "funcType": 7,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 0,
+    "popupText": "NP増加",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      341
+    ],
+    "tvals": [
+      304400
+    ],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 5723,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 340,
+    "popupText": "即死無効",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      199
+    ],
+    "tvals": [
+      304400
+    ],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 5725,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 330,
+    "popupText": "最大HPアップ",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      227
+    ],
+    "tvals": [
+      304400
+    ],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 5726,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 336,
+    "popupText": "オーバーチャージ段階UP",
     "categoryId": 0
   },
   {
@@ -92761,5 +93243,62 @@
     "popupIconId": 334,
     "popupText": "特殊耐性アップ",
     "categoryId": 0
+  },
+  {
+    "vals": [
+      2973
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 5763,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 528,
+    "popupText": "攻撃時追加効果(即死付与)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2957
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 5774,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 1,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      122
+    ],
+    "tvals": [
+      304400
+    ],
+    "questTvals": [],
+    "effectList": [
+      325
+    ],
+    "popupTextColor": 1,
+    "id": 5775,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 318,
+    "popupText": "毎ターンHP回復",
+    "categoryId": 20402
   }
 ]

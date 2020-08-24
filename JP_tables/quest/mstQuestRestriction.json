@@ -4556,24 +4556,24 @@
     "phase": 3,
     "restrictionId": 94051412,
     "frequencyType": 3,
-    "dialogMessage": "このクエストを開始するには\nスターティングメンバーに\n3騎のサーヴァントが必要です。",
-    "noticeMessage": "3騎のみ出撃可能"
-  },
-  {
-    "questId": 94051421,
-    "phase": 3,
-    "restrictionId": 94051413,
-    "frequencyType": 0,
     "dialogMessage": "このクエストを開始するには\n所持サーヴァントから2騎\nサポートサーヴァントから1騎\n編成してください。",
     "noticeMessage": "3騎のみ出撃可能"
   },
   {
     "questId": 94051421,
-    "phase": 3,
-    "restrictionId": 94051414,
+    "phase": 4,
+    "restrictionId": 94051401,
     "frequencyType": 3,
-    "dialogMessage": "サポートサーヴァントをスターティングメンバ―に設定してください。",
-    "noticeMessage": "サポートはサブメンバーとして出撃できません"
+    "dialogMessage": "制限対象サーヴァントはサブメンバーとして出撃できません。",
+    "noticeMessage": "虞美人(ランサー)をスターティングメンバーに設定してください。"
+  },
+  {
+    "questId": 94051421,
+    "phase": 5,
+    "restrictionId": 94051401,
+    "frequencyType": 3,
+    "dialogMessage": "制限対象サーヴァントはサブメンバーとして出撃できません。",
+    "noticeMessage": "虞美人(ランサー)をスターティングメンバーに設定してください。"
   },
   {
     "questId": 94051421,
@@ -4582,6 +4582,14 @@
     "frequencyType": 0,
     "dialogMessage": "",
     "noticeMessage": ""
+  },
+  {
+    "questId": 94051421,
+    "phase": 7,
+    "restrictionId": 94051401,
+    "frequencyType": 3,
+    "dialogMessage": "制限対象サーヴァントはサブメンバーとして出撃できません。",
+    "noticeMessage": "虞美人(ランサー)をスターティングメンバーに設定してください。"
   },
   {
     "questId": 94051499,
