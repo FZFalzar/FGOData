@@ -1533,7 +1533,7 @@
     "eventId": 0,
     "slot": 0,
     "flag": 0,
-    "priority": 20,
+    "priority": 40,
     "purchaseType": 4,
     "setNum": 1,
     "payType": 4,
@@ -1547,7 +1547,7 @@
     "warningMessage": "",
     "imageId": 0,
     "bgImageId": 0,
-    "openedAt": 1594080000,
+    "openedAt": 1594094400,
     "closedAt": 1604203199
   },
   {
@@ -1615,6 +1615,138 @@
     "bgImageId": 0,
     "openedAt": 1596240000,
     "closedAt": 1598918399
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      15
+    ],
+    "targetIds": [
+      9570300
+    ],
+    "script": {},
+    "id": 11101,
+    "baseShopId": 11101,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 2048,
+    "priority": 18,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 20,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "[Limited Time] Hero Crystal: Star Fou",
+    "detail": "[11 Million Downloads Campaign]\nExchange for one ★3 ALL HP Up card",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 80082,
+    "bgImageId": 0,
+    "openedAt": 1598241600,
+    "closedAt": 1598846399
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      15
+    ],
+    "targetIds": [
+      9670300
+    ],
+    "script": {},
+    "id": 11102,
+    "baseShopId": 11102,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 2048,
+    "priority": 19,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 20,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "[Limited Time] Hero Crystal: Sun Fou",
+    "detail": "[11 Million Downloads Campaign]\nExchange for one ★3 ALL ATK Up card",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 80083,
+    "bgImageId": 0,
+    "openedAt": 1598241600,
+    "closedAt": 1598846399
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      15
+    ],
+    "targetIds": [
+      9570300
+    ],
+    "script": {},
+    "id": 11103,
+    "baseShopId": 11103,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 1000,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 20,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Hero Crystal: Star Fou",
+    "detail": "Exchange for one ★3 ALL HP Up card",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1598918400,
+    "closedAt": 1601510399
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      15
+    ],
+    "targetIds": [
+      9670300
+    ],
+    "script": {},
+    "id": 11104,
+    "baseShopId": 11104,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 2000,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 20,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Hero Crystal: Sun Fou",
+    "detail": "Exchange for one ★3 ALL ATK Up card",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1598918400,
+    "closedAt": 1601510399
   },
   {
     "itemIds": [
@@ -2968,6 +3100,336 @@
     "bgImageId": 0,
     "openedAt": 1596240000,
     "closedAt": 1598918399
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      20
+    ],
+    "targetIds": [
+      4001
+    ],
+    "script": {},
+    "id": 14081,
+    "baseShopId": 14081,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 2048,
+    "priority": 16,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 5,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "[Limited Time] Summon Ticket",
+    "detail": "[11 Million Downloads Campaign]\nExchange for one Summon Ticket that can perform one Saint Quartz summon",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 80080,
+    "bgImageId": 0,
+    "openedAt": 1598241600,
+    "closedAt": 1598846399
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      40
+    ],
+    "targetIds": [
+      11011
+    ],
+    "script": {},
+    "id": 14082,
+    "baseShopId": 14082,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 2048,
+    "priority": 17,
+    "purchaseType": 5,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 5,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "[Limited Time] EXP Card Set",
+    "detail": "[11 Million Downloads Campaign]\nExchange for 10 ★4 ALL EXP cards",
+    "infoMessage": "Exchange for 10 ★4 ALL EXP cards",
+    "warningMessage": "",
+    "imageId": 80081,
+    "bgImageId": 0,
+    "openedAt": 1598241600,
+    "closedAt": 1598846399
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      20
+    ],
+    "targetIds": [
+      4001
+    ],
+    "script": {},
+    "id": 14083,
+    "baseShopId": 14083,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 100,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 5,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Summon Ticket",
+    "detail": "Exchange for one Summon Ticket that can perform one Saint Quartz summon",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1598918400,
+    "closedAt": 1601510399
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      40
+    ],
+    "targetIds": [
+      11011
+    ],
+    "script": {},
+    "id": 14084,
+    "baseShopId": 14084,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 200,
+    "purchaseType": 5,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 5,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "EXP Card Set",
+    "detail": "Exchange for 10 ★4 ALL EXP cards",
+    "infoMessage": "Exchange for 10 ★4 ALL EXP cards",
+    "warningMessage": "",
+    "imageId": 14,
+    "bgImageId": 0,
+    "openedAt": 1598918400,
+    "closedAt": 1601510399
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      100
+    ],
+    "targetIds": [
+      5000
+    ],
+    "script": {},
+    "id": 18001,
+    "baseShopId": 18001,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 2048,
+    "priority": 13,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 3,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "[Limited Time] Quick Code Opener",
+    "detail": "[11 Million Downloads Campaign]\nExchange for [Command Code Slot Release Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 80077,
+    "bgImageId": 0,
+    "openedAt": 1598241600,
+    "closedAt": 1598846399
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      100
+    ],
+    "targetIds": [
+      5001
+    ],
+    "script": {},
+    "id": 18002,
+    "baseShopId": 18002,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 2048,
+    "priority": 14,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 3,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "[Limited Time] Arts Code Opener",
+    "detail": "[11 Million Downloads Campaign]\nExchange for [Command Code Slot Release Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 80078,
+    "bgImageId": 0,
+    "openedAt": 1598241600,
+    "closedAt": 1598846399
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      100
+    ],
+    "targetIds": [
+      5002
+    ],
+    "script": {},
+    "id": 18003,
+    "baseShopId": 18003,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 2048,
+    "priority": 15,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 3,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "[Limited Time] Buster Code Opener",
+    "detail": "[11 Million Downloads Campaign]\nExchange for [Command Code Slot Release Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 80079,
+    "bgImageId": 0,
+    "openedAt": 1598241600,
+    "closedAt": 1598846399
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      100
+    ],
+    "targetIds": [
+      5000
+    ],
+    "script": {},
+    "id": 18004,
+    "baseShopId": 18004,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 30,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Quick Code Opener",
+    "detail": "Exchange for [Command Code Slot Release Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1598918400,
+    "closedAt": 1601510399
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      100
+    ],
+    "targetIds": [
+      5001
+    ],
+    "script": {},
+    "id": 18005,
+    "baseShopId": 18005,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 31,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Arts Code Opener",
+    "detail": "Exchange for [Command Code Slot Release Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1598918400,
+    "closedAt": 1601510399
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      100
+    ],
+    "targetIds": [
+      5002
+    ],
+    "script": {},
+    "id": 18006,
+    "baseShopId": 18006,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 32,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Buster Code Opener",
+    "detail": "Exchange for [Command Code Slot Release Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1598918400,
+    "closedAt": 1601510399
   },
   {
     "itemIds": [
@@ -9997,6 +10459,39 @@
     "bgImageId": 0,
     "openedAt": 1597032000,
     "closedAt": 1598155199
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      202600
+    ],
+    "script": {},
+    "id": 4000300,
+    "baseShopId": 4000081,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 91,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Altria Pendragon",
+    "detail": "Exchange for Limited Time ★5 Servant",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1598241600,
+    "closedAt": 1599451199
   },
   {
     "itemIds": [
@@ -22999,6 +23494,336 @@
     "bgImageId": 0,
     "openedAt": 1594080000,
     "closedAt": 1598918399
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      5003
+    ],
+    "script": {},
+    "id": 6000235,
+    "baseShopId": 6000235,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 2048,
+    "priority": 10,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 3,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "[Limited Time] Code Remover",
+    "detail": "[11 Million Downloads Campaign]\nExchange for [Command Code Detach Item]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 80084,
+    "bgImageId": 0,
+    "openedAt": 1598241600,
+    "closedAt": 1598846399
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      5
+    ],
+    "targetIds": [
+      6999
+    ],
+    "script": {},
+    "id": 6000236,
+    "baseShopId": 6000236,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 2048,
+    "priority": 11,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "[Limited Time] Crystallized Lore",
+    "detail": "[11 Million Downloads Campaign]\nExchange for [Skill up Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 80085,
+    "bgImageId": 0,
+    "openedAt": 1598241600,
+    "closedAt": 1598846399
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      3
+    ],
+    "targetIds": [
+      9570400
+    ],
+    "script": {},
+    "id": 6000237,
+    "baseShopId": 6000237,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 2048,
+    "priority": 12,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "[Limited Time] Hero Crystal: Meteor Fou",
+    "detail": "[11 Million Downloads Campaign]\nExchange for one ★4 ALL HP Up card",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 80086,
+    "bgImageId": 0,
+    "openedAt": 1598241600,
+    "closedAt": 1598846399
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      3
+    ],
+    "targetIds": [
+      9670400
+    ],
+    "script": {},
+    "id": 6000238,
+    "baseShopId": 6000238,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 2048,
+    "priority": 13,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "[Limited Time] Hero Crystal: Corona Fou",
+    "detail": "[11 Million Downloads Campaign]\nExchange for one ★4 ALL ATK Up card",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 80087,
+    "bgImageId": 0,
+    "openedAt": 1598241600,
+    "closedAt": 1598846399
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      4
+    ],
+    "script": {},
+    "id": 6000239,
+    "baseShopId": 6000239,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 2048,
+    "priority": 14,
+    "purchaseType": 1,
+    "setNum": 20000,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 5,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "[Limited Time] Friend Points",
+    "detail": "[11 Million Downloads Campaign]\nExchange for 20,000 Friend Points",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 80088,
+    "bgImageId": 0,
+    "openedAt": 1598241600,
+    "closedAt": 1598846399
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      5003
+    ],
+    "script": {},
+    "id": 6000240,
+    "baseShopId": 6000240,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 30,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 3,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Code Remover",
+    "detail": "Exchange for [Command Code Detach Item]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1600128000,
+    "closedAt": 1602719999
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      5
+    ],
+    "targetIds": [
+      6999
+    ],
+    "script": {},
+    "id": 6000241,
+    "baseShopId": 6000241,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 31,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Crystallized Lore",
+    "detail": "Exchange for [Skill up Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1600128000,
+    "closedAt": 1602719999
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      3
+    ],
+    "targetIds": [
+      9570400
+    ],
+    "script": {},
+    "id": 6000242,
+    "baseShopId": 6000242,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 32,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Hero Crystal: Meteor Fou",
+    "detail": "Exchange for one ★4 ALL HP Up card",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1600128000,
+    "closedAt": 1602719999
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      3
+    ],
+    "targetIds": [
+      9670400
+    ],
+    "script": {},
+    "id": 6000243,
+    "baseShopId": 6000243,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 33,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Hero Crystal: Corona Fou",
+    "detail": "Exchange for one ★4 ALL ATK Up card",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1600128000,
+    "closedAt": 1602719999
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      4
+    ],
+    "script": {},
+    "id": 6000244,
+    "baseShopId": 6000244,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 34,
+    "purchaseType": 1,
+    "setNum": 20000,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 5,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Friend Points",
+    "detail": "Exchange for 20,000 Friend Points",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1600128000,
+    "closedAt": 1602719999
   },
   {
     "itemIds": [

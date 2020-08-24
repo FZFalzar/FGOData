@@ -2155,6 +2155,26 @@
   },
   {
     "individuality": [],
+    "script": {},
+    "eventId": 0,
+    "eventGroupId": 0,
+    "id": 10013,
+    "name": "Exchange Ticket (SEP 2020)",
+    "detail": "Can be exchanged for one Homunculus Baby, Seed of Yggdrasil, or Mystic Gunpowder",
+    "imageId": 10000,
+    "bgImageId": 2,
+    "type": 24,
+    "unit": "",
+    "value": 0,
+    "sellQp": -1,
+    "isSell": false,
+    "priority": 200,
+    "dropPriority": 9001,
+    "startedAt": 1443657600,
+    "endedAt": 1609459199
+  },
+  {
+    "individuality": [],
     "script": {
       "GLOBAL_THANKSGIVING": 1
     },
