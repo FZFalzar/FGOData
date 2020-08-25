@@ -2309,6 +2309,30 @@
   },
   {
     "condValues": [
+      1000011
+    ],
+    "shopId": 6000446,
+    "condType": 1,
+    "condNum": 1,
+    "priority": 100,
+    "isClosedDisp": true,
+    "closedMessage": "特異点Fクリア後に交換可能",
+    "closedItemName": ""
+  },
+  {
+    "condValues": [
+      94014310
+    ],
+    "shopId": 6000446,
+    "condType": 36,
+    "condNum": 1,
+    "priority": 0,
+    "isClosedDisp": true,
+    "closedMessage": "※クエストクリア履歴がない場合でのみ、交換可能となります",
+    "closedItemName": ""
+  },
+  {
+    "condValues": [
       94005608
     ],
     "shopId": 8002305,
@@ -30965,7 +30989,7 @@
   },
   {
     "condValues": [
-      94051423
+      94051422
     ],
     "shopId": 80294004,
     "condType": 1,
@@ -30977,7 +31001,7 @@
   },
   {
     "condValues": [
-      94051423
+      94051422
     ],
     "shopId": 80294005,
     "condType": 1,
@@ -30989,7 +31013,7 @@
   },
   {
     "condValues": [
-      94051423
+      94051422
     ],
     "shopId": 80294006,
     "condType": 1,
@@ -31001,7 +31025,7 @@
   },
   {
     "condValues": [
-      94051423
+      94051422
     ],
     "shopId": 80294007,
     "condType": 1,

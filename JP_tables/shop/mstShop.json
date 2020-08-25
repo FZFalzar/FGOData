@@ -39897,7 +39897,7 @@
     "eventId": 0,
     "slot": 0,
     "flag": 256,
-    "priority": 17,
+    "priority": 41,
     "purchaseType": 6,
     "setNum": 0,
     "payType": 10,
@@ -39930,7 +39930,7 @@
     "eventId": 0,
     "slot": 0,
     "flag": 256,
-    "priority": 18,
+    "priority": 42,
     "purchaseType": 6,
     "setNum": 0,
     "payType": 10,
@@ -41188,7 +41188,7 @@
     "eventId": 0,
     "slot": 0,
     "flag": 0,
-    "priority": 19,
+    "priority": 43,
     "purchaseType": 6,
     "setNum": 0,
     "payType": 10,
@@ -41435,6 +41435,39 @@
     "bgImageId": 0,
     "openedAt": 1597417200,
     "closedAt": 1600095599
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      5
+    ],
+    "targetIds": [
+      94014310
+    ],
+    "script": {},
+    "id": 6000446,
+    "baseShopId": 6000446,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 256,
+    "priority": 20,
+    "purchaseType": 6,
+    "setNum": 0,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "霊衣「常夏の水着」開放権獲得クエスト",
+    "detail": "マシュ・キリエライト霊衣\n「常夏の水着」開放権獲得クエストへ交換",
+    "infoMessage": "霊衣「常夏の水着」開放権獲得クエストを開放できます。",
+    "warningMessage": "",
+    "imageId": 80300,
+    "bgImageId": 0,
+    "openedAt": 1598346000,
+    "closedAt": 1901199599
   },
   {
     "itemIds": [
