@@ -47565,6 +47565,59 @@
     "infoText": ""
   },
   {
+    "vals": [
+      6001
+    ],
+    "avals": [
+      94051639,
+      0
+    ],
+    "script": {},
+    "id": 94051638,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 94051467,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94051638,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94051639,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
     "vals": [],
     "avals": [
       0,
@@ -47668,6 +47721,606 @@
     "probability": 100,
     "cond": 0,
     "aiActId": 1009,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      4
+    ],
+    "avals": [
+      94051986,
+      0
+    ],
+    "script": {},
+    "id": 94051985,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 100,
+    "probability": 100,
+    "cond": 84,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      94051989,
+      0
+    ],
+    "script": {},
+    "id": 94051985,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      94051987,
+      0
+    ],
+    "script": {},
+    "id": 94051986,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      702800
+    ],
+    "avals": [
+      94051989,
+      0
+    ],
+    "script": {},
+    "id": 94051986,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 100,
+    "probability": 100,
+    "cond": -96,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      3
+    ],
+    "avals": [
+      94051988,
+      0
+    ],
+    "script": {},
+    "id": 94051987,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 100,
+    "probability": 100,
+    "cond": 31,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      94051985,
+      0
+    ],
+    "script": {},
+    "id": 94051987,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      702800
+    ],
+    "avals": [
+      94051985,
+      0
+    ],
+    "script": {},
+    "id": 94051988,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 200,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 94051921,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      702800
+    ],
+    "avals": [
+      94051985,
+      0
+    ],
+    "script": {},
+    "id": 94051988,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 100,
+    "probability": 100,
+    "cond": -53,
+    "aiActId": 94051922,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      94051985,
+      0
+    ],
+    "script": {},
+    "id": 94051988,
+    "idx": 3,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94051989,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      94051991,
+      0
+    ],
+    "script": {},
+    "id": 94051990,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 94051923,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      11
+    ],
+    "avals": [
+      94051992,
+      0
+    ],
+    "script": {},
+    "id": 94051991,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 100,
+    "probability": 100,
+    "cond": 85,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94051991,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      702800
+    ],
+    "avals": [
+      94051993,
+      0
+    ],
+    "script": {},
+    "id": 94051992,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 94051924,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94051992,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      6
+    ],
+    "avals": [
+      94051994,
+      0
+    ],
+    "script": {},
+    "id": 94051993,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 100,
+    "probability": 100,
+    "cond": 85,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94051993,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      702800
+    ],
+    "avals": [
+      94051995,
+      0
+    ],
+    "script": {},
+    "id": 94051994,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 94051925,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94051994,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94051995,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      701500
+    ],
+    "avals": [
+      94051998,
+      0
+    ],
+    "script": {},
+    "id": 94051997,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 94051919,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94051997,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94051998,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      94052005,
+      0
+    ],
+    "script": {
+      "forcedSkillSpeed": 1
+    },
+    "id": 94052004,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 94051912,
+    "infoText": "世界を救って早四年－－"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94052005,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      94052008,
+      0
+    ],
+    "script": {},
+    "id": 94052007,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 94051927,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94052008,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      94052011,
+      0
+    ],
+    "script": {},
+    "id": 94052010,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 94051913,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      94052012,
+      0
+    ],
+    "script": {},
+    "id": 94052011,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 94051914,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      94052013,
+      0
+    ],
+    "script": {},
+    "id": 94052012,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 94051915,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      94052014,
+      0
+    ],
+    "script": {},
+    "id": 94052013,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 94051916,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      94052015,
+      0
+    ],
+    "script": {},
+    "id": 94052014,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 94051917,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      94052016,
+      0
+    ],
+    "script": {},
+    "id": 94052015,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 94051918,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94052016,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
     "infoText": ""
   },
   {

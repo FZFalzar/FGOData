@@ -37236,6 +37236,23 @@
     "effectId": 0
   },
   {
+    "vals": [
+      2711
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2970,
+    "buffGroup": 0,
+    "type": 42,
+    "name": "狂乱の乙女",
+    "detail": "防御力をアップ",
+    "iconId": 301,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
     "vals": [],
     "tvals": [],
     "ckSelfIndv": [],
@@ -37313,6 +37330,132 @@
     "effectId": 0
   },
   {
+    "vals": [
+      2712
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2976,
+    "buffGroup": 0,
+    "type": 37,
+    "name": "無限の体力(キッズ)",
+    "detail": "HPが0になった時、HPを回復して耐える",
+    "iconId": 304,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2977,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "時間経過",
+    "detail": "HPが0になった時、暴れん坊キッズの「無限の体力(キッズ)」の回数を2減らす",
+    "iconId": 543,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2978,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "時間経過",
+    "detail": "HPが0になった時、暴れん坊キッズの「無限の体力(キッズ)」の回数を5減らす",
+    "iconId": 543,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2713
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2979,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "コスモデフレクター",
+    "detail": "全ての攻撃に対する耐性を得る＆クリティカル攻撃に対する耐性をダウン【デメリット】",
+    "iconId": 334,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005,
+      3008,
+      3037
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2980,
+    "buffGroup": 0,
+    "type": 19,
+    "name": "サンタ化",
+    "detail": "ターン毎に効果量が大きくなるクリティカル威力ダウン＆ターン毎に効果量が大きくなる攻撃力ダウン",
+    "iconId": 514,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005,
+      3008,
+      3033
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2981,
+    "buffGroup": 0,
+    "type": 10,
+    "name": "",
+    "detail": "",
+    "iconId": 503,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005,
+      3010,
+      3049,
+      3063
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2982,
+    "buffGroup": 0,
+    "type": 85,
+    "name": "恐怖",
+    "detail": "毎ターン確率でスタン状態を付与",
+    "iconId": 525,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
     "vals": [],
     "tvals": [],
     "ckSelfIndv": [],
@@ -37324,6 +37467,59 @@
     "name": "ガッツ",
     "detail": "HPが0になった時、HPを回復して耐える",
     "iconId": 304,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2985,
+    "buffGroup": 0,
+    "type": 114,
+    "name": "毎ターンチャージプラス",
+    "detail": "毎ターンチャージを最大にする",
+    "iconId": 319,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2713
+    ],
+    "tvals": [
+      4100
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4100
+    ],
+    "script": {},
+    "id": 2986,
+    "buffGroup": 0,
+    "type": 92,
+    "name": "",
+    "detail": "",
+    "iconId": 529,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2987,
+    "buffGroup": 0,
+    "type": 85,
+    "name": "毎ターンチャージプラス",
+    "detail": "毎ターンチャージを最大にする",
+    "iconId": 343,
     "maxRate": 0,
     "effectId": 0
   }

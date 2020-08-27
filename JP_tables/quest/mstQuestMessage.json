@@ -18458,8 +18458,52 @@
     "displayType": 2
   },
   {
+    "questId": 94051502,
+    "phase": 1,
+    "idx": 1,
+    "message": "このクエストでは\nパーティ編成はバトルの直前に行います。\n\nクエストを開始しますか？",
+    "condType": 0,
+    "targetId": 0,
+    "targetNum": 0,
+    "frequencyType": 3,
+    "displayType": 1
+  },
+  {
     "questId": 94051504,
     "phase": 1,
+    "idx": 1,
+    "message": "このクエストでは\nパーティ編成はバトルの直前に行います。\n\nクエストを開始しますか？",
+    "condType": 0,
+    "targetId": 0,
+    "targetNum": 0,
+    "frequencyType": 3,
+    "displayType": 1
+  },
+  {
+    "questId": 94051505,
+    "phase": 1,
+    "idx": 1,
+    "message": "このクエストでは\nパーティ編成はバトルの直前に行います。\n\nクエストを開始しますか？",
+    "condType": 0,
+    "targetId": 0,
+    "targetNum": 0,
+    "frequencyType": 3,
+    "displayType": 1
+  },
+  {
+    "questId": 94051506,
+    "phase": 1,
+    "idx": 1,
+    "message": "このクエストでは\nパーティ編成はバトルの直前に行います。\n\nクエストを開始しますか？",
+    "condType": 0,
+    "targetId": 0,
+    "targetNum": 0,
+    "frequencyType": 3,
+    "displayType": 1
+  },
+  {
+    "questId": 94051506,
+    "phase": 2,
     "idx": 1,
     "message": "このクエストでは\nパーティ編成はバトルの直前に行います。\n\nクエストを開始しますか？",
     "condType": 0,
@@ -18542,6 +18586,17 @@
     "condType": 0,
     "targetId": 0,
     "targetNum": 0,
+    "frequencyType": 3,
+    "displayType": 1
+  },
+  {
+    "questId": 94051901,
+    "phase": 1,
+    "idx": 0,
+    "message": "～ 注意 ～\n\n「【高難易度】炎天下の暴れん坊！」は\n繰り返し挑戦可能なクエストですが、\n絆ポイント、EXP、戦利品、クリア報酬を\n獲得できるのは1回目のクリア時のみとなります。\n\nそれでも挑戦しますか？",
+    "condType": 25,
+    "targetId": 94051901,
+    "targetNum": 1,
     "frequencyType": 3,
     "displayType": 1
   },
