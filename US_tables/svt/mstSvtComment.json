@@ -2200,6 +2200,90 @@
     "condValues": [
       0
     ],
+    "svtId": 103500,
+    "id": 1,
+    "priority": 0,
+    "condMessage": "",
+    "comment": "A powerful knight and man of unparalleled beauty who wields two demonic swords and demonic spears. He was raised by Aengus, the fairy king and god of love, and Manannán, the god of the sea. Diarmuid was a member of Fionn mac Cumhaill's Knights of Fianna, and is said to have performed great feats when the knightly order fought alongside the fairy king Abarthach.\n\nAs he was a master of the sword as well as the spear, he was able to manifest here as a Saber. His Saber Spirit Origin emphasizes his aspect as a hero of myth and legend. It is much more costly and difficult to summon him as a Saber than as a Lancer, presumably because he possesses multiple Noble Phantasms of almost godly power.",
+    "condType": 0,
+    "condValue2": 0
+  },
+  {
+    "condValues": [
+      1
+    ],
+    "svtId": 103500,
+    "id": 2,
+    "priority": 0,
+    "condMessage": "",
+    "comment": "Height/Weight: 184cm, 85kg\nOrigin: Celtic Mythology, Knights of Fianna\nRegion: Ireland\nAlignment: Lawful-Balanced\nGender: Male\nThe skill \"Love Spot\" is typically not used by this Spirit Origin, and is instead sealed.",
+    "condType": 9,
+    "condValue2": 0
+  },
+  {
+    "condValues": [
+      2
+    ],
+    "svtId": 103500,
+    "id": 3,
+    "priority": 0,
+    "condMessage": "",
+    "comment": "A virtuous Heroic Spirit who is both loyal and cordial. More or less the same person as his Lancer self, his Saber self nonetheless more knightly. Whether consciously or not, he also tends more toward self-affirmations.\n\nHis Spirit Origin and performance have both improved over his Lancer iteration, but this has also made him more difficult to summon. This Spirit Origin cannot manifest until certain conditions are met, regardless of how skilled the summoner may be, and the opportunity to do so may fade away like so much mist.",
+    "condType": 9,
+    "condValue2": 0
+  },
+  {
+    "condValues": [
+      3
+    ],
+    "svtId": 103500,
+    "id": 4,
+    "priority": 0,
+    "condMessage": "",
+    "comment": "Mana Burst (Jump): A\nAs Diarmuid was raised by the gods, he gained a superhuman ability to leap great heights and distances. In consequence of this, his agility is lower than when he is summoned as a Lancer. This Mana Burst allows him to increase his mobility in short, explosive bursts while also increasing his overall offensive ability.\n\nThe Knights of Fianna's Honor: B\nDiarmuid's extraordinary resolve. His knightly gallantry made manifest.",
+    "condType": 9,
+    "condValue2": 0
+  },
+  {
+    "condValues": [
+      4
+    ],
+    "svtId": 103500,
+    "id": 5,
+    "priority": 0,
+    "condMessage": "",
+    "comment": "『Móralltach』\nRank: B\nNP Type: Anti-Personnel\nRange: 1 - 20\nMaximum Target: 1\n\nWaves of Fury.\nOf all the powerful armaments in Diarmuid Ua Duibhne's possession, none can match this fearsome demonic sword.\n\nThe Single Stroke Lethal Blow:\nThe First Strike Sure Victory.\n\nThe unleashed demonic blade ensures a definitive victory for Diarmuid and casts his enemies down in death and defeat.",
+    "condType": 9,
+    "condValue2": 0
+  },
+  {
+    "condValues": [
+      5
+    ],
+    "svtId": 103500,
+    "id": 6,
+    "priority": 0,
+    "condMessage": "",
+    "comment": "The demonic blade Móralltach, so powerful that it seemingly commands even fate, was given to Diarmuid by Manannán, the Celtic god of the sea and the otherworld. Manannán also bestowed the Noble Phantasm Fragarach to the sun deity Lugh, and was known to possess and give away many other Noble Phantasms.\n\nOnce its True Name is revealed, Diarmuid executes a superhuman leap at his enemy. At that moment, Móralltach takes a guise similar to that in the legend of \"Manannán's Legs,\" becoming a triple blade to dispatch Diarmuid's enemies.",
+    "condType": 9,
+    "condValue2": 0
+  },
+  {
+    "condValues": [
+      91103501
+    ],
+    "svtId": 103500,
+    "id": 7,
+    "priority": 0,
+    "condMessage": "Unlock after clearing Arrival of Twin Swords and reach Bond Level 5",
+    "comment": "According to legend, whenever Diarmuid went on a life-or-death adventure, he took the demonic blade Móralltach and demonic spear Gáe Dearg. For any less dangerous expeditions, he instead brought the demonic blade Beagalltach and demonic spear Gáe Buidhe.\n\nWhen Diarmuid died, he was wielding the latter set of weapons.\n\nHad he ventured into the mountains with his more powerful weapons, the demon boar would have been defeated, and the strongest of the Knights of Fianna may have lived a longer life.",
+    "condType": 1,
+    "condValue2": 0
+  },
+  {
+    "condValues": [
+      0
+    ],
     "svtId": 200100,
     "id": 1,
     "priority": 0,
@@ -8434,7 +8518,7 @@
     "id": 7,
     "priority": 0,
     "condMessage": "",
-    "comment": "Despite all that, since his Master interacts with Kintoki bereft of pressure from the past, he feels free to let loose the side of him that says, \"Makes me just want to go riding on this bad boy (Golden Bear) and forget everything!\"\nWell, whatever you do, Kintoki, make sure you wear a helmet, okay?",
+    "comment": "Despite all that, since his Master interacts with Kintoki bereft of pressure from the past, he feels free to let loose the side of him that says, \"\"Makes me just want to go riding on this bad boy (Golden Bear) and forget everything!\"\"\nWell, whatever you do, Kintoki, make sure you wear a helmet, okay?",
     "condType": 1,
     "condValue2": 0
   },
@@ -10529,12 +10613,13 @@
   },
   {
     "condValues": [
-      94003118
+      94003118,
+      94028618
     ],
     "svtId": 502000,
     "id": 7,
     "priority": 0,
-    "condMessage": "",
+    "condMessage": "Unlocked after completing Act-18 \"The Fallen Grail\"",
     "comment": "Why did she manifest? What would happen to her as a Grail when she comes in contact with the worthy?\nThere is still no answer for both of these mysteries.",
     "condType": 1,
     "condValue2": 0
@@ -13574,7 +13659,7 @@
     "id": 7,
     "priority": 0,
     "condMessage": "",
-    "comment": "It will be revealed when you complete a certain quest.",
+    "comment": "Revealed after completing a certain quest.",
     "condType": 1,
     "condValue2": 0
   },
@@ -22265,6 +22350,18 @@
     "priority": 0,
     "condMessage": "",
     "comment": "Dear Master of Earth,\n\nServant Space is full of shooting stars as usual. I am busy every day, solving crimes that threaten space order...whether it be galactic idol units forming, Dark Rounds reuniting, or evil goddesses of ancient civilizations resurrecting. But I'm fine.\n\nI'm sorry. That's a lie. I made all that up. I'm just a little tired because I've been busy working nonstop. But whenever I feel discouraged, I look at this picture to cheer myself up. I'll never forget the time loop that was both never-ending and somehow over so quickly, or how super cool I looked during my tropical getaway.\n\nNow that I'm on a long-term mission, I won't be able to stop by Earth anytime soon, but everything should be back to normal by the time I visit again. And even if it hasn't, I'll solve that problem with brute force if I have to, so please don't worry.\n\nUntil next time!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nP.S.\nI hear that this is the third crisis humanity is facing. Just how many close calls with extinction does humanity have to have?",
+    "condType": 0,
+    "condValue2": 0
+  },
+  {
+    "condValues": [
+      0
+    ],
+    "svtId": 9303390,
+    "id": 1,
+    "priority": 0,
+    "condMessage": "",
+    "comment": "When embarking on an adventure where life and death hang in the balance, take the demonic blade Móralltach and the demonic spear Gáe Dearg. Should the risk appear nothing more than in days of peace, take the demonic blade Beagalltach and demonic spear Gáe Buidhe. It is in this way that Diarmuid was said to have used his equipment for different occasions during his life as a Knight of Fianna. Now that he wields both demonic swords, what must he think of his manifestation?\n\nThe answer is quite clear. He must simply continue to behave as a knight should.\n\nIf he cannot wield both blade and spear as he did while he lived, then all he must do is serve his Master and always be prepared for battle. No matter his Spirit Origin, he must simply dedicate himself to discharging his duty.",
     "condType": 0,
     "condValue2": 0
   },

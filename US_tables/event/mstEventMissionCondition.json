@@ -14687,7 +14687,8 @@
       94026511,
       94026512,
       94026513,
-      94026514
+      94026514,
+      94030601
     ],
     "missionId": 10015,
     "missionProgressType": 4,
@@ -14803,7 +14804,8 @@
       94026511,
       94026512,
       94026513,
-      94026514
+      94026514,
+      94030601
     ],
     "missionId": 10016,
     "missionProgressType": 4,
@@ -14919,7 +14921,8 @@
       94026511,
       94026512,
       94026513,
-      94026514
+      94026514,
+      94030601
     ],
     "missionId": 10017,
     "missionProgressType": 4,
@@ -15035,7 +15038,8 @@
       94026511,
       94026512,
       94026513,
-      94026514
+      94026514,
+      94030601
     ],
     "missionId": 10018,
     "missionProgressType": 4,
@@ -15151,7 +15155,8 @@
       94026511,
       94026512,
       94026513,
-      94026514
+      94026514,
+      94030601
     ],
     "missionId": 10019,
     "missionProgressType": 4,
@@ -15267,7 +15272,8 @@
       94026511,
       94026512,
       94026513,
-      94026514
+      94026514,
+      94030601
     ],
     "missionId": 10020,
     "missionProgressType": 4,
@@ -15383,7 +15389,8 @@
       94026511,
       94026512,
       94026513,
-      94026514
+      94026514,
+      94030601
     ],
     "missionId": 10021,
     "missionProgressType": 4,
@@ -15499,7 +15506,8 @@
       94026511,
       94026512,
       94026513,
-      94026514
+      94026514,
+      94030601
     ],
     "missionId": 10022,
     "missionProgressType": 4,
@@ -54448,6 +54456,4111 @@
     "condType": 23,
     "targetNum": 99,
     "conditionMessage": "Complete all missions",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94028601
+    ],
+    "missionId": 80115101,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115001,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "Investigate the Residential Area",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115112
+    ],
+    "missionId": 80115102,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115002,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94028706
+    ],
+    "missionId": 80115102,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115003,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "Clear quest \"BRIDGE BATTLE Rank D\"\n[Completing the mission will unlock \"ACT-2 Military Intervention\"]",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115102
+    ],
+    "missionId": 80115103,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115004,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94028602
+    ],
+    "missionId": 80115103,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115005,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "Clear quest \"ACT-2 Military Intervention\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115103
+    ],
+    "missionId": 80115104,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115006,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94028712
+    ],
+    "missionId": 80115104,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115007,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "Clear quest \"Fiend Infested Harbor Rank C\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115127
+    ],
+    "missionId": 80115105,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115008,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94028607
+    ],
+    "missionId": 80115105,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115009,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "Clear quest \"ACT-7 Hunting for Bluebeard\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115149
+    ],
+    "missionId": 80115106,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115010,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94028608
+    ],
+    "missionId": 80115106,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115011,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "Clear quest \"ACT-8 Irregular\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115123
+    ],
+    "missionId": 80115107,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115012,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94028610
+    ],
+    "missionId": 80115107,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115013,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "Clear quest \"ACT-10 The Mysterious Assassin\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115133
+    ],
+    "missionId": 80115108,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115014,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94028613
+    ],
+    "missionId": 80115108,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115015,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "Clear quest \"ACT-13 Battle Royale\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115114
+    ],
+    "missionId": 80115109,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115016,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94028614
+    ],
+    "missionId": 80115109,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115017,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "Clear quest \"ACT-14 The Shadow Chasing Irisviel\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115191
+    ],
+    "missionId": 80115110,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115018,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94028615
+    ],
+    "missionId": 80115110,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115019,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "Clear quest \"ACT-15 To the Greater Grail\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115134
+    ],
+    "missionId": 80115111,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115020,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94028618
+    ],
+    "missionId": 80115111,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115021,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "Clear quest \"ACT-18 The Fallen Grail\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115101
+    ],
+    "missionId": 80115112,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115039,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "Defeat 5 Hassans\n* Unlocks after completing No.1 \"Investigate the Residential Area\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      8011519
+    ],
+    "missionId": 80115112,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115040,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 5,
+    "conditionMessage": "Defeat 5 Hassans\nCompleting this mission will unlock \"BRIDGE BATTLE Rank D\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115112
+    ],
+    "missionId": 80115113,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115041,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      8011519
+    ],
+    "missionId": 80115113,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115042,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 50,
+    "conditionMessage": "Defeat 50 Hassans",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115108
+    ],
+    "missionId": 80115114,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115043,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???\n* Unlock when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      8011519
+    ],
+    "missionId": 80115114,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115044,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 100,
+    "conditionMessage": "Defeat 100 Hassans\nCompleting this mission will unlock \"ACT-14 The Shadow Chasing Irisviel\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115111
+    ],
+    "missionId": 80115115,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115045,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      8011527
+    ],
+    "missionId": 80115115,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115046,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 20,
+    "conditionMessage": "Defeat 20 Gozul the Strong",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115103
+    ],
+    "missionId": 80115116,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115047,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      8011520
+    ],
+    "missionId": 80115116,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115048,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 20,
+    "conditionMessage": "Defeat 20 Bladed Wing Insect-type enemies",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94028736
+    ],
+    "missionId": 80115117,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115049,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???\n* Unlock when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      8011520
+    ],
+    "missionId": 80115117,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115050,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 70,
+    "conditionMessage": "Defeat 70 Bladed Wing Insect-type enemies\nCompleting this mission will unlock \"ACT-12 Discussing the Holy Grail\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115117
+    ],
+    "missionId": 80115118,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115051,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      8011520
+    ],
+    "missionId": 80115118,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115052,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 100,
+    "conditionMessage": "Defeat 100 Bladed Wing Insect-type enemies",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115111
+    ],
+    "missionId": 80115119,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115053,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      8011541
+    ],
+    "missionId": 80115119,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115054,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 20,
+    "conditionMessage": "Defeat 20 Bladed Wing Swarms",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94028603
+    ],
+    "missionId": 80115120,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115055,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      8011521
+    ],
+    "missionId": 80115120,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115056,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 20,
+    "conditionMessage": "Defeat 20 Spell Book-type enemies\nCompleting this mission will unlock \"ACT-4 Those Who Lurk in the Dark\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115120
+    ],
+    "missionId": 80115121,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115057,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      8011521
+    ],
+    "missionId": 80115121,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115058,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 100,
+    "conditionMessage": "Defeat 100 Spell Book-type enemies",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115111
+    ],
+    "missionId": 80115122,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115059,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      8011528
+    ],
+    "missionId": 80115122,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115060,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "Defeat 15 Grimoires",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94028609
+    ],
+    "missionId": 80115123,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115061,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      8011525
+    ],
+    "missionId": 80115123,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115062,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 30,
+    "conditionMessage": "Defeat 30 Automata-type enemies\nCompleting this mission will unlock \"ACT-10 The Mysterious Assassin\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115123
+    ],
+    "missionId": 80115124,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115063,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      8011525
+    ],
+    "missionId": 80115124,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115064,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 100,
+    "conditionMessage": "Defeat 100 Automata-type enemies",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115111
+    ],
+    "missionId": 80115125,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115065,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      8011529
+    ],
+    "missionId": 80115125,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115066,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "Defeat 15 Old Gears",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94028604
+    ],
+    "missionId": 80115126,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115067,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      8011522
+    ],
+    "missionId": 80115126,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115068,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 30,
+    "conditionMessage": "Defeat 30 Sea Fiend-type enemies",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94028606
+    ],
+    "missionId": 80115127,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115069,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???\n* Unlock when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      8011522
+    ],
+    "missionId": 80115127,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115070,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 50,
+    "conditionMessage": "Defeat 50 Sea Fiend-type enemies\nCompleting this mission will unlock \"ACT-7 Hunting for Bluebeard\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115127
+    ],
+    "missionId": 80115128,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115071,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      8011522
+    ],
+    "missionId": 80115128,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115072,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 100,
+    "conditionMessage": "Defeat 100 Sea Fiend-type enemies",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115111
+    ],
+    "missionId": 80115129,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115073,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      8011530
+    ],
+    "missionId": 80115129,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115074,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "Defeat 15 Gluttonous Sea Fiends",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115106
+    ],
+    "missionId": 80115130,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115075,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      8011523
+    ],
+    "missionId": 80115130,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115076,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 20,
+    "conditionMessage": "Defeat 20 Golem-type enemies\nCompleting this mission will unlock \"ACT-9 The King of Knights Returns\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115130
+    ],
+    "missionId": 80115131,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115077,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      8011523
+    ],
+    "missionId": 80115131,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115078,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 100,
+    "conditionMessage": "Defeat 100 Golem-type enemies",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115111
+    ],
+    "missionId": 80115132,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115079,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      8011531
+    ],
+    "missionId": 80115132,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115080,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "Defeat 15 Crystal Golems",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94028612
+    ],
+    "missionId": 80115133,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115081,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      8011526
+    ],
+    "missionId": 80115133,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115082,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 30,
+    "conditionMessage": "Defeat 30 Homunculus-type enemies\nCompleting this mission will unlock \"ACT-13 Battle Royale\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94028617
+    ],
+    "missionId": 80115134,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115083,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???\n* Unlock when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      8011526
+    ],
+    "missionId": 80115134,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115084,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 100,
+    "conditionMessage": "Defeat 100 Homunculus-type enemies\nCompleting this mission will unlock \"ACT-18 The Fallen Grail\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115111
+    ],
+    "missionId": 80115135,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115085,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      8011532
+    ],
+    "missionId": 80115135,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115086,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "Defeat 15 Proto-Homunculus",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115110
+    ],
+    "missionId": 80115136,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115087,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      8011524
+    ],
+    "missionId": 80115136,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115088,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 5,
+    "conditionMessage": "Defeat 5 Shadow Servants",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115136
+    ],
+    "missionId": 80115137,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115089,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      8011524
+    ],
+    "missionId": 80115137,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115090,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 10,
+    "conditionMessage": "Defeat 10 Shadow Servants",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115137
+    ],
+    "missionId": 80115138,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115091,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      8011524
+    ],
+    "missionId": 80115138,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115092,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "Defeat 15 Shadow Servants",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94028606
+    ],
+    "missionId": 80115139,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115093,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94028721,
+      94028722,
+      94028723,
+      94028724,
+      94028725
+    ],
+    "missionId": 80115139,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115094,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 25,
+    "targetNum": 10,
+    "conditionMessage": "Clear any quest in Fuyuki Church 10 times",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94028611
+    ],
+    "missionId": 80115140,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115095,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94028731,
+      94028732,
+      94028733,
+      94028734,
+      94028735
+    ],
+    "missionId": 80115140,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115096,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 25,
+    "targetNum": 10,
+    "conditionMessage": "Clear any quest in Tohsaka Residence 10 times",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94028611
+    ],
+    "missionId": 80115141,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115097,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94028746,
+      94028747,
+      94028748,
+      94028749,
+      94028750
+    ],
+    "missionId": 80115141,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115098,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 25,
+    "targetNum": 10,
+    "conditionMessage": "Clear any quest in Samurai Residence 10 times",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94028731
+    ],
+    "missionId": 80115142,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115099,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94028736,
+      94028737,
+      94028738,
+      94028739
+    ],
+    "missionId": 80115142,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115100,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 25,
+    "targetNum": 10,
+    "conditionMessage": "Clear any quest in Homurahara Academy 10 times",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115103
+    ],
+    "missionId": 80115143,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115101,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94028701,
+      94028706,
+      94028711,
+      94028716,
+      94028721,
+      94028726,
+      94028731,
+      94028746
+    ],
+    "missionId": 80115143,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115102,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 25,
+    "targetNum": 10,
+    "conditionMessage": "Clear Rank D quests 10 times",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94028604
+    ],
+    "missionId": 80115144,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115103,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94028702,
+      94028707,
+      94028712,
+      94028717,
+      94028722,
+      94028727,
+      94028732,
+      94028736,
+      94028740,
+      94028747
+    ],
+    "missionId": 80115144,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115104,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 25,
+    "targetNum": 8,
+    "conditionMessage": "Clear Rank C quests 8 times\nCompleting this mission will unlock \"ACT-5 The Meeting of El-Melloi\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94028615
+    ],
+    "missionId": 80115145,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115105,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???\n* Unlock when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94028703,
+      94028708,
+      94028713,
+      94028718,
+      94028723,
+      94028728,
+      94028733,
+      94028737,
+      94028741,
+      94028748
+    ],
+    "missionId": 80115145,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115106,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 25,
+    "targetNum": 10,
+    "conditionMessage": "Clear Rank B quests 10 times\nCompleting this mission will unlock \"ACT-16 The King's Pride\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115110
+    ],
+    "missionId": 80115146,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115107,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94028704,
+      94028709,
+      94028714,
+      94028719,
+      94028724,
+      94028729,
+      94028734,
+      94028738,
+      94028742,
+      94028744,
+      94028749
+    ],
+    "missionId": 80115146,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115108,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 25,
+    "targetNum": 10,
+    "conditionMessage": "Clear Rank A quests 10 times",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115111
+    ],
+    "missionId": 80115147,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115109,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94028705,
+      94028710,
+      94028715,
+      94028720,
+      94028725,
+      94028730,
+      94028735,
+      94028739,
+      94028743,
+      94028745,
+      94028750
+    ],
+    "missionId": 80115147,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115110,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 25,
+    "targetNum": 10,
+    "conditionMessage": "Clear Rank EX quests 10 times",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94028603
+    ],
+    "missionId": 80115148,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115111,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94028701,
+      94028706,
+      94028711,
+      94028716,
+      94028721,
+      94028726,
+      94028731,
+      94028746
+    ],
+    "missionId": 80115148,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115112,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 5,
+    "conditionMessage": "Clear 5 different Rank D quests",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115105
+    ],
+    "missionId": 80115149,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115113,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???\n* Unlock when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94028702,
+      94028707,
+      94028712,
+      94028717,
+      94028722,
+      94028727,
+      94028732,
+      94028736,
+      94028740,
+      94028747
+    ],
+    "missionId": 80115149,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115114,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 5,
+    "conditionMessage": "Clear 5 different Rank C quests\nCompleting the mission will unlock \"ACT-8 Irregular\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115105
+    ],
+    "missionId": 80115150,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115115,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94028703,
+      94028708,
+      94028713,
+      94028718,
+      94028723,
+      94028728,
+      94028733,
+      94028737,
+      94028741,
+      94028748
+    ],
+    "missionId": 80115150,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115116,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 5,
+    "conditionMessage": "Clear 5 different Rank B quests",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115110
+    ],
+    "missionId": 80115151,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115117,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94028704,
+      94028709,
+      94028714,
+      94028719,
+      94028724,
+      94028729,
+      94028734,
+      94028738,
+      94028742,
+      94028744,
+      94028749
+    ],
+    "missionId": 80115151,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115118,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 5,
+    "conditionMessage": "Clear 5 different Rank A quests",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115111
+    ],
+    "missionId": 80115152,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115119,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94028705,
+      94028710,
+      94028715,
+      94028720,
+      94028725,
+      94028730,
+      94028735,
+      94028739,
+      94028743,
+      94028745,
+      94028750
+    ],
+    "missionId": 80115152,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115120,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 5,
+    "conditionMessage": "Clear 5 different Rank EX quests",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94028612
+    ],
+    "missionId": 80115153,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115121,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94028702,
+      94028707,
+      94028712,
+      94028717,
+      94028722,
+      94028727,
+      94028732,
+      94028736,
+      94028740,
+      94028747
+    ],
+    "missionId": 80115153,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115122,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 10,
+    "conditionMessage": "Clear all Rank C quests",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94028616
+    ],
+    "missionId": 80115154,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115123,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???\n* Unlock when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94028703,
+      94028708,
+      94028713,
+      94028718,
+      94028723,
+      94028728,
+      94028733,
+      94028737,
+      94028741,
+      94028748
+    ],
+    "missionId": 80115154,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115124,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 10,
+    "conditionMessage": "Clear all Rank B quests\nCompleting this mission will unlock \"ACT-17 Wish of the Three Founding Families\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115110
+    ],
+    "missionId": 80115155,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115125,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94028704,
+      94028709,
+      94028714,
+      94028719,
+      94028724,
+      94028729,
+      94028734,
+      94028738,
+      94028742,
+      94028744,
+      94028749
+    ],
+    "missionId": 80115155,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115126,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 11,
+    "conditionMessage": "Clear all Rank A quests",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115111
+    ],
+    "missionId": 80115156,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115127,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94028701,
+      94028702,
+      94028703,
+      94028704,
+      94028705
+    ],
+    "missionId": 80115156,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115128,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 5,
+    "conditionMessage": "Clear all Residential Area quests from Rank D to Rank EX",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115111
+    ],
+    "missionId": 80115157,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115129,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94028706,
+      94028707,
+      94028708,
+      94028709,
+      94028710
+    ],
+    "missionId": 80115157,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115130,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 5,
+    "conditionMessage": "Clear all Fuyuki Bridge quests from Rank D to Rank EX",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115111
+    ],
+    "missionId": 80115158,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115131,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94028711,
+      94028712,
+      94028713,
+      94028714,
+      94028715
+    ],
+    "missionId": 80115158,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115132,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 5,
+    "conditionMessage": "Clear all Wharf quests from Rank D to Rank EX",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115111
+    ],
+    "missionId": 80115159,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115133,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94028716,
+      94028717,
+      94028718,
+      94028719,
+      94028720
+    ],
+    "missionId": 80115159,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115134,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 5,
+    "conditionMessage": "Clear all New Fuyuki quests from Rank D to Rank EX",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115111
+    ],
+    "missionId": 80115160,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115135,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94028721,
+      94028722,
+      94028723,
+      94028724,
+      94028725
+    ],
+    "missionId": 80115160,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115136,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 5,
+    "conditionMessage": "Clear all Fuyuki Church quests from Rank D to Rank EX",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115111
+    ],
+    "missionId": 80115161,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115137,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94028726,
+      94028727,
+      94028728,
+      94028729,
+      94028730
+    ],
+    "missionId": 80115161,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115138,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 5,
+    "conditionMessage": "Clear all Reservoir quests from Rank D to Rank EX",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115111
+    ],
+    "missionId": 80115162,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115139,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94028731,
+      94028732,
+      94028733,
+      94028734,
+      94028735
+    ],
+    "missionId": 80115162,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115140,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 5,
+    "conditionMessage": "Clear all Tohsaka Residence quests from Rank D to Rank EX",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115111
+    ],
+    "missionId": 80115163,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115141,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94028746,
+      94028747,
+      94028748,
+      94028749,
+      94028750
+    ],
+    "missionId": 80115163,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115142,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 5,
+    "conditionMessage": "Clear all Samurai Residence quests from Rank D to Rank EX",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115111
+    ],
+    "missionId": 80115164,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115143,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94028736,
+      94028737,
+      94028738,
+      94028739
+    ],
+    "missionId": 80115164,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115144,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 4,
+    "conditionMessage": "Clear all Homurahara Academy quests from Rank C to Rank EX",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115111
+    ],
+    "missionId": 80115165,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115145,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94028740,
+      94028741,
+      94028742,
+      94028743
+    ],
+    "missionId": 80115165,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115146,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 4,
+    "conditionMessage": "Clear all Einzbern Castle quests from Rank C to Rank EX",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115111
+    ],
+    "missionId": 80115166,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115147,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94028744,
+      94028745
+    ],
+    "missionId": 80115166,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115148,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 2,
+    "conditionMessage": "Clear all Massive Cavern quests from Rank A to Rank EX",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80115167,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80115149,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1599451200,
+    "conditionMessage": "???\n* Unlocks after 9/6 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115196
+    ],
+    "missionId": 80115167,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115150,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94028601,
+      94028602,
+      94028603,
+      94028604,
+      94028605,
+      94028606,
+      94028607,
+      94028608,
+      94028609,
+      94028610,
+      94028611,
+      94028612,
+      94028613,
+      94028614,
+      94028615,
+      94028616,
+      94028617,
+      94028618,
+      94028620,
+      94028701,
+      94028702,
+      94028703,
+      94028704,
+      94028705,
+      94028706,
+      94028707,
+      94028708,
+      94028709,
+      94028710,
+      94028711,
+      94028712,
+      94028713,
+      94028714,
+      94028715,
+      94028716,
+      94028717,
+      94028718,
+      94028719,
+      94028720,
+      94028721,
+      94028722,
+      94028723,
+      94028724,
+      94028725,
+      94028726,
+      94028727,
+      94028728,
+      94028729,
+      94028730,
+      94028731,
+      94028732,
+      94028733,
+      94028734,
+      94028735,
+      94028736,
+      94028737,
+      94028738,
+      94028739,
+      94028740,
+      94028741,
+      94028742,
+      94028743,
+      94028744,
+      94028745,
+      94028746,
+      94028747,
+      94028748,
+      94028749,
+      94028750,
+      94028801,
+      94028802,
+      94028803,
+      94028804,
+      94028805,
+      94028806,
+      94028807,
+      94028808,
+      94028809,
+      94028810,
+      94028811,
+      94028812
+    ],
+    "missionId": 80115167,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115151,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 81,
+    "conditionMessage": "Clear all quests",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94028606
+    ],
+    "missionId": 80115168,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115152,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      8011533
+    ],
+    "missionId": 80115168,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115153,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 100,
+    "conditionMessage": "Acquire 100 Seals of Saber",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115168
+    ],
+    "missionId": 80115169,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115154,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      8011533
+    ],
+    "missionId": 80115169,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115155,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 300,
+    "conditionMessage": "Acquire 300 Seals of Saber",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94028604
+    ],
+    "missionId": 80115170,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115156,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      8011534
+    ],
+    "missionId": 80115170,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115157,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 100,
+    "conditionMessage": "Acquire 100 Seals of Archer",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115170
+    ],
+    "missionId": 80115171,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115158,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      8011534
+    ],
+    "missionId": 80115171,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115159,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 300,
+    "conditionMessage": "Acquire 300 Seals of Archer",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94028612
+    ],
+    "missionId": 80115172,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115160,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      8011535
+    ],
+    "missionId": 80115172,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115161,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 100,
+    "conditionMessage": "Acquire 100 Seals of Lancer",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115172
+    ],
+    "missionId": 80115173,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115162,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      8011535
+    ],
+    "missionId": 80115173,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115163,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 300,
+    "conditionMessage": "Acquire 300 Seals of Lancer",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115103
+    ],
+    "missionId": 80115174,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115164,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      8011536
+    ],
+    "missionId": 80115174,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115165,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 50,
+    "conditionMessage": "Acquire 50 Seals of Rider\nCompleting this mission will unlock \"ACT-3 Second Owner\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115174
+    ],
+    "missionId": 80115175,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115166,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      8011536
+    ],
+    "missionId": 80115175,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115167,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 300,
+    "conditionMessage": "Acquire 300 Seals of Rider",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115105
+    ],
+    "missionId": 80115176,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115168,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      8011537
+    ],
+    "missionId": 80115176,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115169,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 100,
+    "conditionMessage": "Acquire 100 Seals of Caster",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115176
+    ],
+    "missionId": 80115177,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115170,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      8011537
+    ],
+    "missionId": 80115177,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115171,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 300,
+    "conditionMessage": "Acquire 300 Seals of Caster",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115101
+    ],
+    "missionId": 80115178,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115172,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      8011538
+    ],
+    "missionId": 80115178,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115173,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 100,
+    "conditionMessage": "Acquire 100 Seals of Assassin",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115178
+    ],
+    "missionId": 80115179,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115174,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      8011538
+    ],
+    "missionId": 80115179,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115175,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 300,
+    "conditionMessage": "Acquire 300 Seals of Assassin",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94028603
+    ],
+    "missionId": 80115180,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115176,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      8011539
+    ],
+    "missionId": 80115180,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115177,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 100,
+    "conditionMessage": "Acquire 100 Seals of Berserker",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115180
+    ],
+    "missionId": 80115181,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115178,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      8011539
+    ],
+    "missionId": 80115181,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115179,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 300,
+    "conditionMessage": "Acquire 300 Seals of Berserker",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115101
+    ],
+    "missionId": 80115182,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115180,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      8011540
+    ],
+    "missionId": 80115182,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115181,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 500,
+    "conditionMessage": "Acquire 500 Seals",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115182
+    ],
+    "missionId": 80115183,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115182,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      8011540
+    ],
+    "missionId": 80115183,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115183,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 1000,
+    "conditionMessage": "Acquire 1,000 Seals",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115183
+    ],
+    "missionId": 80115184,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115184,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      8011540
+    ],
+    "missionId": 80115184,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115185,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 1500,
+    "conditionMessage": "Acquire 1,500 Seals",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115184
+    ],
+    "missionId": 80115185,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115186,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      8011540
+    ],
+    "missionId": 80115185,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115187,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 2000,
+    "conditionMessage": "Acquire 2,000 Seals",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115111
+    ],
+    "missionId": 80115186,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115188,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???\n* Unlock when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      502000
+    ],
+    "missionId": 80115186,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115189,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 7,
+    "targetNum": 1,
+    "conditionMessage": "Ascend Irisviel to 1st Stage",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115186
+    ],
+    "missionId": 80115187,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115190,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???\n* Unlock when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      502000
+    ],
+    "missionId": 80115187,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115191,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 7,
+    "targetNum": 2,
+    "conditionMessage": "Ascend Irisviel to 2nd Stage",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115111
+    ],
+    "missionId": 80115188,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115192,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???\n* Unlock when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      502000
+    ],
+    "missionId": 80115188,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115193,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 9,
+    "targetNum": 3,
+    "conditionMessage": "Raise Irisviel to Bond Level 3",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115101
+    ],
+    "missionId": 80115189,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115194,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115101,
+      80115102,
+      80115103,
+      80115104,
+      80115105,
+      80115106,
+      80115107,
+      80115108,
+      80115109,
+      80115110,
+      80115111,
+      80115112,
+      80115113,
+      80115114,
+      80115115,
+      80115116,
+      80115117,
+      80115118,
+      80115119,
+      80115120,
+      80115121,
+      80115122,
+      80115123,
+      80115124,
+      80115125,
+      80115126,
+      80115127,
+      80115128,
+      80115129,
+      80115130,
+      80115131,
+      80115132,
+      80115133,
+      80115134,
+      80115135,
+      80115136,
+      80115137,
+      80115138,
+      80115139,
+      80115140,
+      80115141,
+      80115142,
+      80115143,
+      80115144,
+      80115145,
+      80115146,
+      80115147,
+      80115148,
+      80115149,
+      80115150,
+      80115151,
+      80115152,
+      80115153,
+      80115154,
+      80115155,
+      80115156,
+      80115157,
+      80115158,
+      80115159,
+      80115160,
+      80115161,
+      80115162,
+      80115163,
+      80115164,
+      80115165,
+      80115166,
+      80115167,
+      80115168,
+      80115169,
+      80115170,
+      80115171,
+      80115172,
+      80115173,
+      80115174,
+      80115175,
+      80115176,
+      80115177,
+      80115178,
+      80115179,
+      80115180,
+      80115181,
+      80115182,
+      80115183,
+      80115184,
+      80115185,
+      80115186,
+      80115187,
+      80115188,
+      80115195,
+      80115196,
+      80115197,
+      80115198,
+      80115199,
+      80115200
+    ],
+    "missionId": 80115189,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115195,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 10,
+    "conditionMessage": "Complete 10 missions",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115107
+    ],
+    "missionId": 80115190,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115196,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???\n* Unlock when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115101,
+      80115102,
+      80115103,
+      80115104,
+      80115105,
+      80115106,
+      80115107,
+      80115108,
+      80115109,
+      80115110,
+      80115111,
+      80115112,
+      80115113,
+      80115114,
+      80115115,
+      80115116,
+      80115117,
+      80115118,
+      80115119,
+      80115120,
+      80115121,
+      80115122,
+      80115123,
+      80115124,
+      80115125,
+      80115126,
+      80115127,
+      80115128,
+      80115129,
+      80115130,
+      80115131,
+      80115132,
+      80115133,
+      80115134,
+      80115135,
+      80115136,
+      80115137,
+      80115138,
+      80115139,
+      80115140,
+      80115141,
+      80115142,
+      80115143,
+      80115144,
+      80115145,
+      80115146,
+      80115147,
+      80115148,
+      80115149,
+      80115150,
+      80115151,
+      80115152,
+      80115153,
+      80115154,
+      80115155,
+      80115156,
+      80115157,
+      80115158,
+      80115159,
+      80115160,
+      80115161,
+      80115162,
+      80115163,
+      80115164,
+      80115165,
+      80115166,
+      80115167,
+      80115168,
+      80115169,
+      80115170,
+      80115171,
+      80115172,
+      80115173,
+      80115174,
+      80115175,
+      80115176,
+      80115177,
+      80115178,
+      80115179,
+      80115180,
+      80115181,
+      80115182,
+      80115183,
+      80115184,
+      80115185,
+      80115186,
+      80115187,
+      80115188,
+      80115189,
+      80115195,
+      80115196,
+      80115197,
+      80115198,
+      80115199,
+      80115200
+    ],
+    "missionId": 80115190,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115197,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 30,
+    "conditionMessage": "Complete 30 missions\nCompleting this mission will unlock \"ACT-11 Strategist's Trap\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115109
+    ],
+    "missionId": 80115191,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115198,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???\n* Unlock when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115101,
+      80115102,
+      80115103,
+      80115104,
+      80115105,
+      80115106,
+      80115107,
+      80115108,
+      80115109,
+      80115110,
+      80115111,
+      80115112,
+      80115113,
+      80115114,
+      80115115,
+      80115116,
+      80115117,
+      80115118,
+      80115119,
+      80115120,
+      80115121,
+      80115122,
+      80115123,
+      80115124,
+      80115125,
+      80115126,
+      80115127,
+      80115128,
+      80115129,
+      80115130,
+      80115131,
+      80115132,
+      80115133,
+      80115134,
+      80115135,
+      80115136,
+      80115137,
+      80115138,
+      80115139,
+      80115140,
+      80115141,
+      80115142,
+      80115143,
+      80115144,
+      80115145,
+      80115146,
+      80115147,
+      80115148,
+      80115149,
+      80115150,
+      80115151,
+      80115152,
+      80115153,
+      80115154,
+      80115155,
+      80115156,
+      80115157,
+      80115158,
+      80115159,
+      80115160,
+      80115161,
+      80115162,
+      80115163,
+      80115164,
+      80115165,
+      80115166,
+      80115167,
+      80115168,
+      80115169,
+      80115170,
+      80115171,
+      80115172,
+      80115173,
+      80115174,
+      80115175,
+      80115176,
+      80115177,
+      80115178,
+      80115179,
+      80115180,
+      80115181,
+      80115182,
+      80115183,
+      80115184,
+      80115185,
+      80115186,
+      80115187,
+      80115188,
+      80115189,
+      80115190,
+      80115195,
+      80115196,
+      80115197,
+      80115198,
+      80115199,
+      80115200
+    ],
+    "missionId": 80115191,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115199,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 50,
+    "conditionMessage": "Complete 50 missions\nCompleting the mission will unlock \"ACT-15 To the Greater Grail\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115191
+    ],
+    "missionId": 80115192,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115200,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115101,
+      80115102,
+      80115103,
+      80115104,
+      80115105,
+      80115106,
+      80115107,
+      80115108,
+      80115109,
+      80115110,
+      80115111,
+      80115112,
+      80115113,
+      80115114,
+      80115115,
+      80115116,
+      80115117,
+      80115118,
+      80115119,
+      80115120,
+      80115121,
+      80115122,
+      80115123,
+      80115124,
+      80115125,
+      80115126,
+      80115127,
+      80115128,
+      80115129,
+      80115130,
+      80115131,
+      80115132,
+      80115133,
+      80115134,
+      80115135,
+      80115136,
+      80115137,
+      80115138,
+      80115139,
+      80115140,
+      80115141,
+      80115142,
+      80115143,
+      80115144,
+      80115145,
+      80115146,
+      80115147,
+      80115148,
+      80115149,
+      80115150,
+      80115151,
+      80115152,
+      80115153,
+      80115154,
+      80115155,
+      80115156,
+      80115157,
+      80115158,
+      80115159,
+      80115160,
+      80115161,
+      80115162,
+      80115163,
+      80115164,
+      80115165,
+      80115166,
+      80115167,
+      80115168,
+      80115169,
+      80115170,
+      80115171,
+      80115172,
+      80115173,
+      80115174,
+      80115175,
+      80115176,
+      80115177,
+      80115178,
+      80115179,
+      80115180,
+      80115181,
+      80115182,
+      80115183,
+      80115184,
+      80115185,
+      80115186,
+      80115187,
+      80115188,
+      80115189,
+      80115190,
+      80115191,
+      80115195,
+      80115196,
+      80115197,
+      80115198,
+      80115199,
+      80115200
+    ],
+    "missionId": 80115192,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115201,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 70,
+    "conditionMessage": "Complete 70 missions",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115192
+    ],
+    "missionId": 80115193,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115202,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115101,
+      80115102,
+      80115103,
+      80115104,
+      80115105,
+      80115106,
+      80115107,
+      80115108,
+      80115109,
+      80115110,
+      80115111,
+      80115112,
+      80115113,
+      80115114,
+      80115115,
+      80115116,
+      80115117,
+      80115118,
+      80115119,
+      80115120,
+      80115121,
+      80115122,
+      80115123,
+      80115124,
+      80115125,
+      80115126,
+      80115127,
+      80115128,
+      80115129,
+      80115130,
+      80115131,
+      80115132,
+      80115133,
+      80115134,
+      80115135,
+      80115136,
+      80115137,
+      80115138,
+      80115139,
+      80115140,
+      80115141,
+      80115142,
+      80115143,
+      80115144,
+      80115145,
+      80115146,
+      80115147,
+      80115148,
+      80115149,
+      80115150,
+      80115151,
+      80115152,
+      80115153,
+      80115154,
+      80115155,
+      80115156,
+      80115157,
+      80115158,
+      80115159,
+      80115160,
+      80115161,
+      80115162,
+      80115163,
+      80115164,
+      80115165,
+      80115166,
+      80115167,
+      80115168,
+      80115169,
+      80115170,
+      80115171,
+      80115172,
+      80115173,
+      80115174,
+      80115175,
+      80115176,
+      80115177,
+      80115178,
+      80115179,
+      80115180,
+      80115181,
+      80115182,
+      80115183,
+      80115184,
+      80115185,
+      80115186,
+      80115187,
+      80115188,
+      80115189,
+      80115190,
+      80115191,
+      80115192,
+      80115195,
+      80115196,
+      80115197,
+      80115198,
+      80115199,
+      80115200
+    ],
+    "missionId": 80115193,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115203,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 90,
+    "conditionMessage": "Complete 90 missions",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115101
+    ],
+    "missionId": 80115194,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115204,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115101,
+      80115102,
+      80115103,
+      80115104,
+      80115105,
+      80115106,
+      80115107,
+      80115108,
+      80115109,
+      80115110,
+      80115111,
+      80115112,
+      80115113,
+      80115114,
+      80115115,
+      80115116,
+      80115117,
+      80115118,
+      80115119,
+      80115120,
+      80115121,
+      80115122,
+      80115123,
+      80115124,
+      80115125,
+      80115126,
+      80115127,
+      80115128,
+      80115129,
+      80115130,
+      80115131,
+      80115132,
+      80115133,
+      80115134,
+      80115135,
+      80115136,
+      80115137,
+      80115138,
+      80115139,
+      80115140,
+      80115141,
+      80115142,
+      80115143,
+      80115144,
+      80115145,
+      80115146,
+      80115147,
+      80115148,
+      80115149,
+      80115150,
+      80115151,
+      80115152,
+      80115153,
+      80115154,
+      80115155,
+      80115156,
+      80115157,
+      80115158,
+      80115159,
+      80115160,
+      80115161,
+      80115162,
+      80115163,
+      80115164,
+      80115165,
+      80115166,
+      80115167,
+      80115168,
+      80115169,
+      80115170,
+      80115171,
+      80115172,
+      80115173,
+      80115174,
+      80115175,
+      80115176,
+      80115177,
+      80115178,
+      80115179,
+      80115180,
+      80115181,
+      80115182,
+      80115183,
+      80115184,
+      80115185,
+      80115186,
+      80115187,
+      80115188,
+      80115189,
+      80115190,
+      80115191,
+      80115192,
+      80115193,
+      80115195,
+      80115196,
+      80115197,
+      80115198,
+      80115199,
+      80115200
+    ],
+    "missionId": 80115194,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115205,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 99,
+    "conditionMessage": "Complete all missions",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80115195,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115022,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1599451200,
+    "conditionMessage": "???\n* Unlocks after 9/6 21:00 PDT",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115111
+    ],
+    "missionId": 80115195,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115023,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "Complete Mission No.11\nCompleting this mission will unlock ???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80115196,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80115024,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1599451200,
+    "conditionMessage": "???\n* Unlocks after 9/6 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115195
+    ],
+    "missionId": 80115196,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115025,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94028620
+    ],
+    "missionId": 80115196,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115026,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "Clear quest \"ACT-EX Retrieving the Holy Grail\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80115197,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80115027,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1599451200,
+    "conditionMessage": "???\n* Unlocks after 9/6 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115196
+    ],
+    "missionId": 80115197,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115028,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94028803
+    ],
+    "missionId": 80115197,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115029,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "Find the Fire Iri",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80115198,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80115030,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1599451200,
+    "conditionMessage": "???\n* Unlocks after 9/6 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115196
+    ],
+    "missionId": 80115198,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115031,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94028802
+    ],
+    "missionId": 80115198,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115032,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "Find the Water Iri",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80115199,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80115033,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1599451200,
+    "conditionMessage": "???\n* Unlocks after 9/6 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115196
+    ],
+    "missionId": 80115199,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115034,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94028804
+    ],
+    "missionId": 80115199,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115035,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "Find the Wind Iri",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80115200,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80115036,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1599451200,
+    "conditionMessage": "???\n* Unlocks after 9/6 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80115196
+    ],
+    "missionId": 80115200,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80115037,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94028801
+    ],
+    "missionId": 80115200,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80115038,
+    "missionTargetId": 80115,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "Find the Earth Iri",
     "closedMessage": "",
     "flag": 0
   }

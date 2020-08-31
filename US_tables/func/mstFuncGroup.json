@@ -300,6 +300,16 @@
     "isDispValue": true
   },
   {
+    "funcId": 94,
+    "eventId": 80115,
+    "baseFuncId": 0,
+    "nameTotal": "{0}\nTotal Bonus Amount",
+    "name": "{0} acquired",
+    "iconId": 0,
+    "priority": 1,
+    "isDispValue": true
+  },
+  {
     "funcId": 95,
     "eventId": 80005,
     "baseFuncId": 0,
@@ -2817,6 +2827,106 @@
     "name": "{0} acquired",
     "iconId": 94027506,
     "priority": 4000,
+    "isDispValue": true
+  },
+  {
+    "funcId": 2584,
+    "eventId": 80115,
+    "baseFuncId": 94,
+    "nameTotal": "{0}\nTotal Bonus Amount",
+    "name": "{0} acquired",
+    "iconId": 94003101,
+    "priority": 7000,
+    "isDispValue": true
+  },
+  {
+    "funcId": 2585,
+    "eventId": 80115,
+    "baseFuncId": 94,
+    "nameTotal": "{0}\nTotal Bonus Amount",
+    "name": "{0} acquired",
+    "iconId": 94003102,
+    "priority": 6000,
+    "isDispValue": true
+  },
+  {
+    "funcId": 2586,
+    "eventId": 80115,
+    "baseFuncId": 94,
+    "nameTotal": "{0}\nTotal Bonus Amount",
+    "name": "{0} acquired",
+    "iconId": 94003103,
+    "priority": 5000,
+    "isDispValue": true
+  },
+  {
+    "funcId": 2587,
+    "eventId": 80115,
+    "baseFuncId": 94,
+    "nameTotal": "{0}\nTotal Bonus Amount",
+    "name": "{0} acquired",
+    "iconId": 94003104,
+    "priority": 4000,
+    "isDispValue": true
+  },
+  {
+    "funcId": 2588,
+    "eventId": 80115,
+    "baseFuncId": 94,
+    "nameTotal": "{0}\nTotal Bonus Amount",
+    "name": "{0} acquired",
+    "iconId": 94003105,
+    "priority": 3000,
+    "isDispValue": true
+  },
+  {
+    "funcId": 2589,
+    "eventId": 80115,
+    "baseFuncId": 94,
+    "nameTotal": "{0}\nTotal Bonus Amount",
+    "name": "{0} acquired",
+    "iconId": 94003106,
+    "priority": 2000,
+    "isDispValue": true
+  },
+  {
+    "funcId": 2590,
+    "eventId": 80115,
+    "baseFuncId": 94,
+    "nameTotal": "{0}\nTotal Bonus Amount",
+    "name": "{0} acquired",
+    "iconId": 94003107,
+    "priority": 1000,
+    "isDispValue": true
+  },
+  {
+    "funcId": 2591,
+    "eventId": 80115,
+    "baseFuncId": 94,
+    "nameTotal": "{0}\nTotal Bonus Amount",
+    "name": "{0} acquired",
+    "iconId": 0,
+    "priority": 800,
+    "isDispValue": true
+  },
+  {
+    "funcId": 2592,
+    "eventId": 80115,
+    "baseFuncId": 94,
+    "nameTotal": "{0}\nTotal Bonus Amount",
+    "name": "{0} acquired",
+    "iconId": 0,
+    "priority": 600,
+    "isDispValue": true
+  },
+  {
+    "funcId": 2593,
+    "eventId": 80115,
+    "baseFuncId": 94,
+    "nameTotal": "{0}\nTotal Bonus Amount",
+    "name": "{0} acquired",
+    "iconId": 0,
+    "priority": 400,
     "isDispValue": true
   },
   {

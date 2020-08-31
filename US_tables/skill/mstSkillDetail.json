@@ -3675,6 +3675,21 @@
     "detailShort": "Apply Burn Immune to yourself"
   },
   {
+    "id": 525550,
+    "detail": "Apply Evade (1 turn) & increase Quick Card effectiveness [{0}] (1 turn) & increase ATK [{0}] (1 turn) for yourself",
+    "detailShort": "Apply Evade (1 turn) & increase Quick Card effectiveness [{0}] (1 turn) & increase ATK [{0}] (1 turn) for yourself"
+  },
+  {
+    "id": 526450,
+    "detail": "Increase C. Star Gather Rate [{0}] (3 turns) & gain Critical Stars [{0}] for yourself",
+    "detailShort": "Increase C. Star Gather Rate [{0}] (3 turns) & gain Critical Stars [{0}] for yourself"
+  },
+  {
+    "id": 527451,
+    "detail": "Increase DEF [{0}] (3 times) & increase NP Gain [{0}] (3 turns) for yourself",
+    "detailShort": "Increase DEF [{0}] (3 times) & increase NP Gain [{0}] (3 turns) for yourself"
+  },
+  {
     "id": 940001,
     "detail": "Increase Honnoji Point Gain by 20% [\"GUDAGUDA Honnoji\" Limited Event]",
     "detailShort": "Increase Honnoji Point Gain by 20% [\"GUDAGUDA Honnoji\" Limited Event]"
@@ -3751,43 +3766,43 @@
   },
   {
     "id": 940016,
-    "detail": "Increase Seal of Saber drops by 3 [\"Fate/Accel Zero Order\" only]",
-    "detailShort": "Increase Seal of Saber drops by 3 [\"Fate/Accel Zero Order\" only]"
+    "detail": "Increase amount of Seal of Saber per drop by 3 [Event Only]",
+    "detailShort": "Increase amount of Seal of Saber per drop by 3 [Event Only]"
   },
   {
     "id": 940017,
-    "detail": "Increase Seal of Lancer drops by 3 [\"Fate/Accel Zero Order\" only]",
-    "detailShort": "Increase Seal of Lancer drops by 3 [\"Fate/Accel Zero Order\" only]"
+    "detail": "Increase amount of Seal of Lancer per drop by 3 [Event Only]",
+    "detailShort": "Increase amount of Seal of Lancer per drop by 3 [Event Only]"
   },
   {
     "id": 940018,
-    "detail": "Increase Seal of Archer drops by 3 [\"Fate/Accel Zero Order\" only]",
-    "detailShort": "Increase Seal of Archer drops by 3 [\"Fate/Accel Zero Order\" only]"
+    "detail": "Increase amount of Seal of Archer per drop by 3 [Event Only]",
+    "detailShort": "Increase amount of Seal of Archer per drop by 3 [Event Only]"
   },
   {
     "id": 940019,
-    "detail": "Increase Seal of Rider drops by 3 [\"Fate/Accel Zero Order\" only]",
-    "detailShort": "Increase Seal of Rider drops by 3 [\"Fate/Accel Zero Order\" only]"
+    "detail": "Increase amount of Seal of Rider per drop by 3 [Event Only]",
+    "detailShort": "Increase amount of Seal of Rider per drop by 3 [Event Only]"
   },
   {
     "id": 940020,
-    "detail": "Increase Seal of Caster drops by 3 [\"Fate/Accel Zero Order\" only]",
-    "detailShort": "Increase Seal of Caster drops by 3 [\"Fate/Accel Zero Order\" only]"
+    "detail": "Increase amount of Seal of Caster per drop by 3 [Event Only]",
+    "detailShort": "Increase amount of Seal of Caster per drop by 3 [Event Only]"
   },
   {
     "id": 940021,
-    "detail": "Increase Seal of Assassin drops by 3 [\"Fate/Accel Zero Order\" only]",
-    "detailShort": "Increase Seal of Assassin drops by 3 [\"Fate/Accel Zero Order\" only]"
+    "detail": "Increase amount of Seal of Assassin per drop by 3 [Event Only]",
+    "detailShort": "Increase amount of Seal of Assassin per drop by 3 [Event Only]"
   },
   {
     "id": 940022,
-    "detail": "Increase Seal of Berserker drops by 3 [\"Fate/Accel Zero Order\" only]",
-    "detailShort": "Increase Seal of Berserker drops by 3 [\"Fate/Accel Zero Order\" only]"
+    "detail": "Increase amount of Seal of Berserker per drop by 3 [Event Only]",
+    "detailShort": "Increase amount of Seal of Berserker per drop by 3 [Event Only]"
   },
   {
     "id": 940023,
-    "detail": "Increase all Seal drops by 3 [\"Fate/Accel Zero Order\" only]",
-    "detailShort": "Increase all Seal drops by 3 [\"Fate/Accel Zero Order\" only]"
+    "detail": "Increase amount of all Seals per drop by 3 [Event Only]",
+    "detailShort": "Increase amount of all Seals per drop by 3 [Event Only]"
   },
   {
     "id": 940024,
@@ -5961,53 +5976,53 @@
   },
   {
     "id": 990326,
-    "detail": "Apply Invincible 3 times & apply Damage Plus 200 for yourself",
-    "detailShort": "Apply Invincible 3 times & apply Damage Plus 200 for yourself"
+    "detail": "Apply Invincible 3 times & apply Damage Plus 200 for yourself + Increase amount of Seals per drop of the class over which the equipped Servant has advantage by 3 [Event Only]",
+    "detailShort": "Apply Invincible 3 times & apply Damage Plus 200 for yourself + Increase amount of Seals per drop of the class over which the equipped Servant has advantage by 3 [Event Only]"
   },
   {
     "id": 990327,
-    "detail": "Apply Invincible 3 times & apply Damage Plus 500 [MAX] for yourself",
-    "detailShort": "Apply Invincible 3 times & apply Damage Plus 500 [MAX] for yourself"
+    "detail": "Apply Invincible 3 times & apply Damage Plus 500 for yourself [MAX] + Increase amount of Seals per drop of the class over which the equipped Servant has advantage by 4 [MAX] [Event Only]",
+    "detailShort": "Apply Invincible 3 times & apply Damage Plus 500 for yourself [MAX] + Increase amount of Seals per drop of the class over which the equipped Servant has advantage by 4 [MAX] [Event Only]"
   },
   {
     "id": 990328,
-    "detail": "Increase NP Gauge by 4% per turn & increase Quick Card effectiveness by 10% for yourself",
-    "detailShort": "Increase NP Gauge by 4% per turn & increase Quick Card effectiveness by 10% for yourself"
+    "detail": "Increase NP Gauge by 4% per turn & increase Quick Card effectiveness by 10% for yourself + Increase amount of Seals per drop of the class over which the equipped Servant has advantage by 2 [Event Only]",
+    "detailShort": "Increase NP Gauge by 4% per turn & increase Quick Card effectiveness by 10% for yourself + Increase amount of Seals per drop of the class over which the equipped Servant has advantage by 2 [Event Only]"
   },
   {
     "id": 990329,
-    "detail": "Increase NP Gauge by 5% per turn & increase Quick Card effectiveness by 12% [MAX] for yourself",
-    "detailShort": "Increase NP Gauge by 5% per turn & increase Quick Card effectiveness by 12% [MAX] for yourself"
+    "detail": "Increase NP Gauge by 5% per turn & increase Quick Card effectiveness by 12% for yourself [MAX] + Increase amount of Seals per drop of the class over which the equipped Servant has advantage by 3 [MAX] [Event Only]",
+    "detailShort": "Increase NP Gauge by 5% per turn & increase Quick Card effectiveness by 12% for yourself [MAX] + Increase amount of Seals per drop of the class over which the equipped Servant has advantage by 3 [MAX] [Event Only]"
   },
   {
     "id": 990330,
-    "detail": "Increase your Stun Success Rate by 12%",
-    "detailShort": "Increase your Stun Success Rate by 12%"
+    "detail": "Increase your Stun Success Rate by 12% + Increase amount of Seals per drop of the class over which the equipped Servant has advantage by 1 [Event Only]",
+    "detailShort": "Increase your Stun Success Rate by 12% + Increase amount of Seals per drop of the class over which the equipped Servant has advantage by 1 [Event Only]"
   },
   {
     "id": 990331,
-    "detail": "Increase your Stun Success Rate by 15% [MAX]",
-    "detailShort": "Increase your Stun Success Rate by 15% [MAX]"
+    "detail": "Increase your Stun Success Rate by 15% [MAX] + Increase amount of Seals per drop of the class over which the equipped Servant has advantage by 2 [MAX] [Event Only]",
+    "detailShort": "Increase your Stun Success Rate by 15% [MAX] + Increase amount of Seals per drop of the class over which the equipped Servant has advantage by 2 [MAX] [Event Only]"
   },
   {
     "id": 990332,
-    "detail": "Increase DEF by 8% & Quick Card effectiveness by 8% & Arts Card effectiveness by 8% & Buster Card effectiveness by 8% for yourself",
-    "detailShort": "Increase DEF by 8% & Quick Card effectiveness by 8% & Arts Card effectiveness by 8% & Buster Card effectiveness by 8% for yourself"
+    "detail": "Increase DEF by 8% & Quick Card effectiveness by 8% & Arts Card effectiveness by 8% & Buster Card effectiveness by 8% for yourself + Increase amount of Seals per drop of the class over which the equipped Servant has advantage by 3 [Event Only]",
+    "detailShort": "Increase DEF by 8% & Quick Card effectiveness by 8% & Arts Card effectiveness by 8% & Buster Card effectiveness by 8% for yourself + Increase amount of Seals per drop of the class over which the equipped Servant has advantage by 3 [Event Only]"
   },
   {
     "id": 990333,
-    "detail": "Increase DEF by 10% & Quick Card effectiveness by 10% & Arts Card effectiveness by 10% & Buster Card effectiveness by 10% [MAX] for yourself",
-    "detailShort": "Increase DEF by 10% & Quick Card effectiveness by 10% & Arts Card effectiveness by 10% & Buster Card effectiveness by 10% [MAX] for yourself"
+    "detail": "Increase DEF by 10% & Quick Card effectiveness by 10% & Arts Card effectiveness by 10% & Buster Card effectiveness by 10% for yourself [MAX] + Increase amount of Seals per drop of the class over which the equipped Servant has advantage by 4 [MAX] [Event Only]",
+    "detailShort": "Increase DEF by 10% & Quick Card effectiveness by 10% & Arts Card effectiveness by 10% & Buster Card effectiveness by 10% for yourself [MAX] + Increase amount of Seals per drop of the class over which the equipped Servant has advantage by 4 [MAX] [Event Only]"
   },
   {
     "id": 990334,
-    "detail": "Gain 3 C. Stars per turn & charge NP by 30% for yourself",
-    "detailShort": "Gain 3 C. Stars per turn & charge NP by 30% for yourself"
+    "detail": "Gain 3 C. Stars per turn & begin battle with NP charged at 30% for yourself + Increase amount of Seals per drop of all the classes by 2 [Event Only]",
+    "detailShort": "Gain 3 C. Stars per turn & begin battle with NP charged at 30% for yourself + Increase amount of Seals per drop of all the classes by 2 [Event Only]"
   },
   {
     "id": 990335,
-    "detail": "Gain 4 C. Stars per turn & charge NP by 50% [MAX] for yourself",
-    "detailShort": "Gain 4 C. Stars per turn & charge NP by 50% [MAX] for yourself"
+    "detail": "Gain 4 C. Stars per turn & begin battle with NP charged at 50% for yourself [MAX] + Increase amount of Seals per drop of all the classes by 3 [MAX] [Event Only]",
+    "detailShort": "Gain 4 C. Stars per turn & begin battle with NP charged at 50% for yourself [MAX] + Increase amount of Seals per drop of all the classes by 3 [MAX] [Event Only]"
   },
   {
     "id": 990337,
@@ -11038,6 +11053,11 @@
     "id": 991443,
     "detail": "Apply Damage Cut 300 (1 time, 1 turn) for yourself when the engraved Card is used to attack",
     "detailShort": "Apply Damage Cut 300 (1 time, 1 turn) for yourself when the engraved Card is used to attack"
+  },
+  {
+    "id": 991451,
+    "detail": "Increase all allies' Quick & Buster Card effectiveness by 10% only if [servantName 103500] (Saber) is equipped with this Craft Essence when he is on the field.",
+    "detailShort": "Increase all allies' Quick & Buster Card effectiveness by 10% only if [servantName 103500] (Saber) is equipped with this Craft Essence when he is on the field."
   },
   {
     "id": 991945,

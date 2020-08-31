@@ -2727,7 +2727,7 @@
   },
   {
     "vals": [
-      3005
+      3004
     ],
     "tvals": [],
     "ckSelfIndv": [],
@@ -2737,8 +2737,8 @@
     "buffGroup": 0,
     "type": 85,
     "name": "Triggers Each Turn (Death)",
-    "detail": "Chance to trigger Death each turn",
-    "iconId": 525,
+    "detail": "Chance to apply Death for all enemies each turn",
+    "iconId": 343,
     "maxRate": 0,
     "effectId": 0
   },
@@ -2761,7 +2761,7 @@
   },
   {
     "vals": [
-      3005
+      3004
     ],
     "tvals": [],
     "ckSelfIndv": [],
@@ -2771,14 +2771,14 @@
     "buffGroup": 0,
     "type": 85,
     "name": "Triggers Each Turn (Damage)",
-    "detail": "Chance to take damage each turn",
-    "iconId": 525,
+    "detail": "Chance to decrease HP for all enemies each turn",
+    "iconId": 343,
     "maxRate": 0,
     "effectId": 0
   },
   {
     "vals": [
-      3005
+      3004
     ],
     "tvals": [],
     "ckSelfIndv": [],
@@ -2788,14 +2788,14 @@
     "buffGroup": 0,
     "type": 85,
     "name": "Triggers Each Turn (Remove Buff)",
-    "detail": "Chance to remove buffs each turn",
-    "iconId": 525,
+    "detail": "Chance to remove buffs for all enemies each turn",
+    "iconId": 343,
     "maxRate": 0,
     "effectId": 0
   },
   {
     "vals": [
-      3005
+      3004
     ],
     "tvals": [],
     "ckSelfIndv": [],
@@ -2805,14 +2805,14 @@
     "buffGroup": 0,
     "type": 85,
     "name": "Triggers Each Turn (Stun)",
-    "detail": "Chance to be stunned each turn",
-    "iconId": 525,
+    "detail": "Chance to apply Stun for all enemies each turn",
+    "iconId": 343,
     "maxRate": 0,
     "effectId": 0
   },
   {
     "vals": [
-      3005
+      3004
     ],
     "tvals": [],
     "ckSelfIndv": [],
@@ -2822,8 +2822,8 @@
     "buffGroup": 0,
     "type": 85,
     "name": "Triggers Each Turn (NP Decrease)",
-    "detail": "Chance to decrease NP each turn",
-    "iconId": 525,
+    "detail": "Chance to decrease NP for all enemies each turn",
+    "iconId": 343,
     "maxRate": 0,
     "effectId": 0
   },
@@ -15045,6 +15045,38 @@
     "detail": "Decrease Buster Card effectiveness",
     "iconId": 517,
     "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1132,
+    "buffGroup": 0,
+    "type": 76,
+    "name": "Time Alter, Square Accel",
+    "detail": "Increase Charge by 3 each turn & Stun after 3 turns ",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2283
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1133,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "Add Individuality",
+    "detail": "Add Individuality",
+    "iconId": 520,
+    "maxRate": 0,
     "effectId": 0
   },
   {
