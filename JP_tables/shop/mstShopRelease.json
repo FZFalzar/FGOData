@@ -133,6 +133,18 @@
   },
   {
     "condValues": [
+      6000447
+    ],
+    "shopId": 11132,
+    "condType": 35,
+    "condNum": 1,
+    "priority": 0,
+    "isClosedDisp": false,
+    "closedMessage": "※レアプリズムショップ「パーソナル・コーチング」購入後に交換可能",
+    "closedItemName": ""
+  },
+  {
+    "condValues": [
       91603601
     ],
     "shopId": 11135,
@@ -2329,6 +2341,18 @@
     "priority": 0,
     "isClosedDisp": true,
     "closedMessage": "※クエストクリア履歴がない場合でのみ、交換可能となります",
+    "closedItemName": ""
+  },
+  {
+    "condValues": [
+      11132
+    ],
+    "shopId": 6000447,
+    "condType": 37,
+    "condNum": 5,
+    "priority": 0,
+    "isClosedDisp": true,
+    "closedMessage": "※すべての「パーソナル・コーチング」取得履歴が\nない場合でのみ、交換可能となります",
     "closedItemName": ""
   },
   {

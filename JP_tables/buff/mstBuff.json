@@ -3757,7 +3757,7 @@
     "buffGroup": 0,
     "type": 9,
     "name": "攻撃力アップ",
-    "detail": "攻撃力をアップ【強化解除無効】",
+    "detail": "攻撃力をアップ",
     "iconId": 300,
     "maxRate": 5000,
     "effectId": 0
@@ -3772,7 +3772,7 @@
     "buffGroup": 0,
     "type": 42,
     "name": "防御力アップ",
-    "detail": "防御力をアップ【強化解除無効】",
+    "detail": "防御力をアップ",
     "iconId": 301,
     "maxRate": 5000,
     "effectId": 0
@@ -3787,7 +3787,7 @@
     "buffGroup": 0,
     "type": 70,
     "name": "クリティカル発生アップ",
-    "detail": "クリティカルの発生率をアップ【強化解除無効】",
+    "detail": "クリティカルの発生率をアップ",
     "iconId": 327,
     "maxRate": 5000,
     "effectId": 0
@@ -3802,7 +3802,7 @@
     "buffGroup": 0,
     "type": 18,
     "name": "クリティカル威力アップ",
-    "detail": "クリティカル時のダメージをアップ【強化解除無効】",
+    "detail": "クリティカル時のダメージをアップ",
     "iconId": 324,
     "maxRate": 5000,
     "effectId": 0
@@ -3851,7 +3851,7 @@
     "buffGroup": 0,
     "type": 15,
     "name": "宝具威力アップ",
-    "detail": "宝具で与えるダメージをアップ【強化解除無効】",
+    "detail": "宝具で与えるダメージをアップ",
     "iconId": 310,
     "maxRate": 5000,
     "effectId": 0
@@ -4117,7 +4117,7 @@
     "buffGroup": 0,
     "type": 26,
     "name": "無敵",
-    "detail": "必中を無視して、攻撃によるダメージを0にする【強化解除無効】",
+    "detail": "必中を無視して、攻撃によるダメージを0にする",
     "iconId": 311,
     "maxRate": 0,
     "effectId": 0
@@ -4139,7 +4139,7 @@
     "buffGroup": 0,
     "type": 105,
     "name": "Quickカード耐性",
-    "detail": "Quickカードの攻撃による被ダメージ、被NP発生量、被スター発生率が90%減少する【強化解除無効】",
+    "detail": "Quickカードの攻撃による被ダメージ、被NP発生量、被スター発生率が90%減少する",
     "iconId": 345,
     "maxRate": 5000,
     "effectId": 0
@@ -4161,7 +4161,7 @@
     "buffGroup": 0,
     "type": 105,
     "name": "Artsカード耐性",
-    "detail": "Artsカードの攻撃による被ダメージ、被NP発生量、被スター発生率が90%減少する【強化解除無効】",
+    "detail": "Artsカードの攻撃による被ダメージ、被NP発生量、被スター発生率が90%減少する",
     "iconId": 346,
     "maxRate": 5000,
     "effectId": 0
@@ -4183,7 +4183,7 @@
     "buffGroup": 0,
     "type": 105,
     "name": "Busterカード耐性",
-    "detail": "Busterカードの攻撃による被ダメージ、被NP発生量、被スター発生率が90%減少する【強化解除無効】",
+    "detail": "Busterカードの攻撃による被ダメージ、被NP発生量、被スター発生率が90%減少する",
     "iconId": 347,
     "maxRate": 5000,
     "effectId": 0
@@ -4200,7 +4200,7 @@
     "buffGroup": 0,
     "type": 42,
     "name": "防御力アップ",
-    "detail": "防御力をアップ【強化解除無効】",
+    "detail": "防御力をアップ",
     "iconId": 301,
     "maxRate": 5000,
     "effectId": 0
@@ -4217,7 +4217,7 @@
     "buffGroup": 0,
     "type": 42,
     "name": "防御力アップ",
-    "detail": "防御力をアップ【強化解除無効】",
+    "detail": "防御力をアップ",
     "iconId": 301,
     "maxRate": 5000,
     "effectId": 0
@@ -4234,7 +4234,7 @@
     "buffGroup": 0,
     "type": 42,
     "name": "防御力アップ",
-    "detail": "防御力をアップ【強化解除無効】",
+    "detail": "防御力をアップ",
     "iconId": 301,
     "maxRate": 5000,
     "effectId": 0
@@ -4285,7 +4285,7 @@
     "buffGroup": 0,
     "type": 16,
     "name": "宝具の攻撃威力ダウン",
-    "detail": "宝具による攻撃の威力を大幅ダウン【弱体解除無効】",
+    "detail": "宝具による攻撃の威力を大幅ダウン",
     "iconId": 508,
     "maxRate": 5000,
     "effectId": 0
@@ -4318,7 +4318,7 @@
     "buffGroup": 0,
     "type": 114,
     "name": "毎ターンチャージプラス",
-    "detail": "毎ターンチャージを2増やす【強化解除無効】",
+    "detail": "毎ターンチャージを2増やす",
     "iconId": 319,
     "maxRate": 0,
     "effectId": 0
@@ -4333,7 +4333,7 @@
     "buffGroup": 600,
     "type": 104,
     "name": "ガッツ",
-    "detail": "HPが0になった時、HPを回復して耐える【強化解除無効】",
+    "detail": "HPが0になった時、HPを回復して耐える",
     "iconId": 304,
     "maxRate": 1000,
     "effectId": 0
@@ -4365,7 +4365,7 @@
     "buffGroup": 0,
     "type": 7,
     "name": "毎ターンHP回復",
-    "detail": "ターン終了時にHPが回復する【強化解除無効】",
+    "detail": "ターン終了時にHPが回復する",
     "iconId": 318,
     "maxRate": 0,
     "effectId": 0
@@ -4722,7 +4722,7 @@
     "buffGroup": 0,
     "type": 7,
     "name": "自己回復",
-    "detail": "ターン終了時にHPが回復する【強化解除無効】",
+    "detail": "ターン終了時にHPが回復する",
     "iconId": 318,
     "maxRate": 0,
     "effectId": 0
@@ -4774,7 +4774,7 @@
     "buffGroup": 0,
     "type": 31,
     "name": "精神異常無効",
-    "detail": "魅了を受けなくなる【強化解除無効】",
+    "detail": "魅了を受けなくなる",
     "iconId": 322,
     "maxRate": 0,
     "effectId": 0
@@ -5221,7 +5221,7 @@
     "buffGroup": 0,
     "type": 29,
     "name": "魅了耐性アップ",
-    "detail": "魅了耐性をアップ【強化解除無効】",
+    "detail": "魅了耐性をアップ",
     "iconId": 306,
     "maxRate": 5000,
     "effectId": 0
@@ -5364,7 +5364,7 @@
     "buffGroup": 0,
     "type": 31,
     "name": "幸せの花冠",
-    "detail": "スタン無効【強化解除無効】",
+    "detail": "スタン無効",
     "iconId": 322,
     "maxRate": 0,
     "effectId": 0
@@ -5977,7 +5977,7 @@
     "buffGroup": 0,
     "type": 31,
     "name": "スタン無効",
-    "detail": "スタン無効【強化解除無効】",
+    "detail": "スタン無効",
     "iconId": 322,
     "maxRate": 0,
     "effectId": 0
@@ -6347,7 +6347,7 @@
     "buffGroup": 0,
     "type": 70,
     "name": "雪降る街",
-    "detail": "クリティカルの発生率をアップ【強化解除無効】",
+    "detail": "クリティカルの発生率をアップ",
     "iconId": 327,
     "maxRate": 5000,
     "effectId": 0
@@ -6857,7 +6857,7 @@
     "buffGroup": 0,
     "type": 104,
     "name": "巨大なる十二の試練",
-    "detail": "HPが0になった時、HPを回復して耐える【強化解除無効】",
+    "detail": "HPが0になった時、HPを回復して耐える",
     "iconId": 304,
     "maxRate": 1000,
     "effectId": 0
@@ -6876,7 +6876,7 @@
     "buffGroup": 0,
     "type": 91,
     "name": "巨大なる十二の試練",
-    "detail": "HPが0になった時、HPを回復して耐える【強化解除無効】",
+    "detail": "HPが0になった時、HPを回復して耐える",
     "iconId": 304,
     "maxRate": 5000,
     "effectId": 0
@@ -6895,7 +6895,7 @@
     "buffGroup": 0,
     "type": 31,
     "name": "女戦士の咆哮",
-    "detail": "弱体無効【強化解除無効】",
+    "detail": "弱体無効",
     "iconId": 322,
     "maxRate": 0,
     "effectId": 0
@@ -6910,7 +6910,7 @@
     "buffGroup": 0,
     "type": 9,
     "name": "女戦士の咆哮",
-    "detail": "攻撃力をアップ【強化解除無効】",
+    "detail": "攻撃力をアップ",
     "iconId": 300,
     "maxRate": 5000,
     "effectId": 0
@@ -7005,7 +7005,7 @@
     "buffGroup": 0,
     "type": 9,
     "name": "激昂",
-    "detail": "攻撃力をアップ【強化解除無効】",
+    "detail": "攻撃力をアップ",
     "iconId": 300,
     "maxRate": 5000,
     "effectId": 0
@@ -7039,7 +7039,7 @@
     "buffGroup": 0,
     "type": 91,
     "name": "千と一夜の果て",
-    "detail": "〔王〕特性の敵からの攻撃に対する耐性をアップ【強化解除無効】",
+    "detail": "〔王〕特性の敵からの攻撃に対する耐性をアップ",
     "iconId": 334,
     "maxRate": 5000,
     "effectId": 0
@@ -7058,7 +7058,7 @@
     "buffGroup": 0,
     "type": 91,
     "name": "対英雄",
-    "detail": "〔王〕特性の敵からの攻撃に対する耐性をアップ【強化解除無効】",
+    "detail": "〔王〕特性の敵からの攻撃に対する耐性をアップ",
     "iconId": 334,
     "maxRate": 5000,
     "effectId": 0
@@ -7075,7 +7075,7 @@
     "buffGroup": 0,
     "type": 104,
     "name": "死と再生の魔神",
-    "detail": "HPが0になった時、HPを回復して耐える【強化解除無効】",
+    "detail": "HPが0になった時、HPを回復して耐える",
     "iconId": 304,
     "maxRate": 1000,
     "effectId": 0
@@ -7096,7 +7096,7 @@
     "buffGroup": 0,
     "type": 91,
     "name": "死と再生の魔神",
-    "detail": "HPが0になった時、HPを回復して耐える【強化解除無効】",
+    "detail": "HPが0になった時、HPを回復して耐える",
     "iconId": 304,
     "maxRate": 5000,
     "effectId": 0
@@ -7205,7 +7205,7 @@
     "buffGroup": 0,
     "type": 104,
     "name": "死と再生の魔神",
-    "detail": "HPが0になった時、HPを回復して耐える【強化解除無効】",
+    "detail": "HPが0になった時、HPを回復して耐える",
     "iconId": 304,
     "maxRate": 1000,
     "effectId": 0
@@ -7222,7 +7222,7 @@
     "buffGroup": 0,
     "type": 104,
     "name": "死と再生の魔神",
-    "detail": "HPが0になった時、HPを回復して耐える【強化解除無効】",
+    "detail": "HPが0になった時、HPを回復して耐える",
     "iconId": 304,
     "maxRate": 1000,
     "effectId": 0
@@ -7330,7 +7330,7 @@
     "buffGroup": 0,
     "type": 89,
     "name": "追加効果(弱体)",
-    "detail": "通常攻撃時、対象に弱体効果が発生する【強化解除無効】",
+    "detail": "通常攻撃時、対象に弱体効果が発生する",
     "iconId": 528,
     "maxRate": 0,
     "effectId": 0
@@ -7345,7 +7345,7 @@
     "buffGroup": 0,
     "type": 89,
     "name": "追加効果(弱体)",
-    "detail": "通常攻撃時、対象に弱体効果が発生する【強化解除無効】",
+    "detail": "通常攻撃時、対象に弱体効果が発生する",
     "iconId": 528,
     "maxRate": 0,
     "effectId": 0
@@ -7575,7 +7575,7 @@
     "buffGroup": 0,
     "type": 15,
     "name": "膨張超蠕動",
-    "detail": "HPが80%以下の場合、宝具で与えるダメージをアップ【強化解除無効】",
+    "detail": "HPが80%以下の場合、宝具で与えるダメージをアップ",
     "iconId": 310,
     "maxRate": 5000,
     "effectId": 0
@@ -7592,7 +7592,7 @@
     "buffGroup": 0,
     "type": 15,
     "name": "膨張超蠕動",
-    "detail": "HPが60%以下の場合、宝具で与えるダメージをアップ【強化解除無効】",
+    "detail": "HPが60%以下の場合、宝具で与えるダメージをアップ",
     "iconId": 310,
     "maxRate": 5000,
     "effectId": 0
@@ -7609,7 +7609,7 @@
     "buffGroup": 0,
     "type": 15,
     "name": "膨張超蠕動",
-    "detail": "HPが40%以下の場合、宝具で与えるダメージをアップ【強化解除無効】",
+    "detail": "HPが40%以下の場合、宝具で与えるダメージをアップ",
     "iconId": 310,
     "maxRate": 5000,
     "effectId": 0
@@ -7626,7 +7626,7 @@
     "buffGroup": 0,
     "type": 15,
     "name": "膨張超蠕動",
-    "detail": "HPが20%以下の場合、宝具で与えるダメージをアップ【強化解除無効】",
+    "detail": "HPが20%以下の場合、宝具で与えるダメージをアップ",
     "iconId": 310,
     "maxRate": 5000,
     "effectId": 0
@@ -7660,7 +7660,7 @@
     "buffGroup": 0,
     "type": 15,
     "name": "宝具威力アップ",
-    "detail": "宝具で与えるダメージをアップ【強化解除無効】",
+    "detail": "宝具で与えるダメージをアップ",
     "iconId": 310,
     "maxRate": 5000,
     "effectId": 0
@@ -7695,7 +7695,7 @@
     "buffGroup": 600,
     "type": 37,
     "name": "ガッツ",
-    "detail": "HPが0になった時、HPを回復して耐える【強化解除不可】",
+    "detail": "HPが0になった時、HPを回復して耐える",
     "iconId": 304,
     "maxRate": 0,
     "effectId": 0
@@ -7710,7 +7710,7 @@
     "buffGroup": 0,
     "type": 42,
     "name": "防御力アップ",
-    "detail": "防御力をアップ【強化解除無効】",
+    "detail": "防御力をアップ",
     "iconId": 301,
     "maxRate": 5000,
     "effectId": 0
@@ -9551,7 +9551,7 @@
     "type": 89,
     "name": "宿業・一切穿通",
     "detail": "自身の通常攻撃時にクリティカル発生率がアップする",
-    "iconId": 528,
+    "iconId": 333,
     "maxRate": 0,
     "effectId": 0
   },
@@ -9655,7 +9655,7 @@
     "buffGroup": 0,
     "type": 7,
     "name": "捲土重来",
-    "detail": "ターン終了時にHPが回復する【強化解除無効】",
+    "detail": "ターン終了時にHPが回復する",
     "iconId": 318,
     "maxRate": 0,
     "effectId": 0
@@ -9670,7 +9670,7 @@
     "buffGroup": 0,
     "type": 85,
     "name": "蜿蜿長蛇",
-    "detail": "毎ターン終了時、敵1体をスタン状態にする【強化解除無効】",
+    "detail": "毎ターン終了時、敵1体をスタン状態にする",
     "iconId": 343,
     "maxRate": 0,
     "effectId": 0
@@ -9689,7 +9689,7 @@
     "buffGroup": 0,
     "type": 31,
     "name": "呑花臥酒",
-    "detail": "弱体を受けなくなる【強化解除無効】",
+    "detail": "弱体を受けなくなる",
     "iconId": 322,
     "maxRate": 0,
     "effectId": 0
@@ -9704,7 +9704,7 @@
     "buffGroup": 0,
     "type": 18,
     "name": "鉤縄規矩",
-    "detail": "クリティカル時のダメージをアップ【強化解除無効】",
+    "detail": "クリティカル時のダメージをアップ",
     "iconId": 324,
     "maxRate": 5000,
     "effectId": 0
@@ -9719,7 +9719,7 @@
     "buffGroup": 0,
     "type": 9,
     "name": "心堅石穿",
-    "detail": "攻撃力をアップ【解除不可】",
+    "detail": "攻撃力をアップ",
     "iconId": 300,
     "maxRate": 5000,
     "effectId": 0
@@ -9739,7 +9739,7 @@
     "buffGroup": 0,
     "type": 105,
     "name": "無念無想",
-    "detail": "通常攻撃の性能を100%減衰する【解除不可】",
+    "detail": "通常攻撃の性能を100%減衰する",
     "iconId": 334,
     "maxRate": 5000,
     "effectId": 0
@@ -9758,7 +9758,7 @@
     "buffGroup": 0,
     "type": 30,
     "name": "弱体耐性ダウン",
-    "detail": "弱体耐性をダウン【解除不可】",
+    "detail": "弱体耐性をダウン",
     "iconId": 506,
     "maxRate": 5000,
     "effectId": 0
@@ -9790,7 +9790,7 @@
     "buffGroup": 0,
     "type": 17,
     "name": "NP獲得アップ",
-    "detail": "NP獲得量をアップ【解除不可】",
+    "detail": "NP獲得量をアップ",
     "iconId": 303,
     "maxRate": 5000,
     "effectId": 0
@@ -9885,7 +9885,7 @@
     "buffGroup": 0,
     "type": 31,
     "name": "精神異常無効",
-    "detail": "精神異常を受けなくなる【解除不可】",
+    "detail": "精神異常を受けなくなる",
     "iconId": 322,
     "maxRate": 0,
     "effectId": 0
@@ -10085,7 +10085,7 @@
     "buffGroup": 0,
     "type": 105,
     "name": "師匠の護り",
-    "detail": "サンタアイランド仮面がフィールドにいる間、ジャンヌオルタサンタリリィのQuickカード耐性をアップ【強化解除無効】",
+    "detail": "サンタアイランド仮面がフィールドにいる間、ジャンヌオルタサンタリリィのQuickカード耐性をアップ",
     "iconId": 345,
     "maxRate": 5000,
     "effectId": 0
@@ -10105,7 +10105,7 @@
     "buffGroup": 0,
     "type": 91,
     "name": "師匠の護り",
-    "detail": "サンタアイランド仮面がフィールドにいる間、ジャンヌオルタサンタリリィのQuickカード耐性をアップ【強化解除無効】",
+    "detail": "サンタアイランド仮面がフィールドにいる間、ジャンヌオルタサンタリリィのQuickカード耐性をアップ",
     "iconId": 345,
     "maxRate": 5000,
     "effectId": 0
@@ -10125,7 +10125,7 @@
     "buffGroup": 0,
     "type": 105,
     "name": "信者の護り",
-    "detail": "ジルがフィールドにいる間、ジャンヌ・オルタのBusterカード耐性をアップ【強化解除無効】",
+    "detail": "ジルがフィールドにいる間、ジャンヌ・オルタのBusterカード耐性をアップ",
     "iconId": 347,
     "maxRate": 5000,
     "effectId": 0
@@ -10145,7 +10145,7 @@
     "buffGroup": 0,
     "type": 91,
     "name": "信者の護り",
-    "detail": "ジルがフィールドにいる間、ジャンヌ・オルタのBusterカード耐性をアップ【強化解除無効】",
+    "detail": "ジルがフィールドにいる間、ジャンヌ・オルタのBusterカード耐性をアップ",
     "iconId": 347,
     "maxRate": 5000,
     "effectId": 0
@@ -10165,7 +10165,7 @@
     "buffGroup": 0,
     "type": 105,
     "name": "従者の護り",
-    "detail": "ジルがフィールドにいる間、ジャンヌのArtsカード耐性をアップ【強化解除無効】",
+    "detail": "ジルがフィールドにいる間、ジャンヌのArtsカード耐性をアップ",
     "iconId": 346,
     "maxRate": 5000,
     "effectId": 0
@@ -10185,7 +10185,7 @@
     "buffGroup": 0,
     "type": 91,
     "name": "従者の護り",
-    "detail": "ジルがフィールドにいる間、ジャンヌのArtsカード耐性をアップ【強化解除無効】",
+    "detail": "ジルがフィールドにいる間、ジャンヌのArtsカード耐性をアップ",
     "iconId": 346,
     "maxRate": 5000,
     "effectId": 0
@@ -10200,7 +10200,7 @@
     "buffGroup": 0,
     "type": 91,
     "name": "すいつけ！",
-    "detail": "自身にすべての攻撃に対する耐性を付与【強化解除無効】",
+    "detail": "自身にすべての攻撃に対する耐性を付与",
     "iconId": 334,
     "maxRate": 5000,
     "effectId": 0
@@ -10671,7 +10671,7 @@
     "buffGroup": 0,
     "type": 70,
     "name": "オレの前で輝け",
-    "detail": "クリティカルの発生率をアップ【強化解除無効】",
+    "detail": "クリティカルの発生率をアップ",
     "iconId": 327,
     "maxRate": 5000,
     "effectId": 0
@@ -10686,7 +10686,7 @@
     "buffGroup": 0,
     "type": 9,
     "name": "俺が手伝ってやるよ",
-    "detail": "攻撃力をアップ【強化解除無効】",
+    "detail": "攻撃力をアップ",
     "iconId": 300,
     "maxRate": 5000,
     "effectId": 0
@@ -10701,7 +10701,7 @@
     "buffGroup": 0,
     "type": 18,
     "name": "オレの前でもっと輝け",
-    "detail": "クリティカル時のダメージをアップ【強化解除無効】",
+    "detail": "クリティカル時のダメージをアップ",
     "iconId": 324,
     "maxRate": 5000,
     "effectId": 0
@@ -10716,7 +10716,7 @@
     "buffGroup": 0,
     "type": 42,
     "name": "いいぞ、頑張り屋だな！",
-    "detail": "防御力をアップ【強化解除無効】",
+    "detail": "防御力をアップ",
     "iconId": 300,
     "maxRate": 5000,
     "effectId": 0
@@ -10746,7 +10746,7 @@
     "buffGroup": 0,
     "type": 85,
     "name": "画凶人",
-    "detail": "毎ターン終了時、徐々にクリティカル発生率がアップする状態を付与【強化解除無効】",
+    "detail": "毎ターン終了時、徐々にクリティカル発生率がアップする状態を付与",
     "iconId": 343,
     "maxRate": 0,
     "effectId": 0
@@ -10761,7 +10761,7 @@
     "buffGroup": 0,
     "type": 85,
     "name": "好物のワイン",
-    "detail": "毎ターン終了時、自身の攻撃力アップまたは防御力アップまたはクリティカル威力アップ【強化解除無効】",
+    "detail": "毎ターン終了時、自身の攻撃力アップまたは防御力アップまたはクリティカル威力アップ",
     "iconId": 343,
     "maxRate": 0,
     "effectId": 0
@@ -10950,7 +10950,7 @@
     "buffGroup": 0,
     "type": 85,
     "name": "じゃんじゃん酒もってきな",
-    "detail": "毎ターン終了時、味方全体のクリティカル威力アップ【強化解除無効】",
+    "detail": "毎ターン終了時、味方全体のクリティカル威力アップ",
     "iconId": 343,
     "maxRate": 0,
     "effectId": 0
@@ -11431,7 +11431,7 @@
     "buffGroup": 0,
     "type": 8,
     "name": "呪い",
-    "detail": "ターン終了時にHPが減る【解除不可】",
+    "detail": "ターン終了時にHPが減る",
     "iconId": 521,
     "maxRate": 0,
     "effectId": 17123
@@ -11614,7 +11614,7 @@
     "buffGroup": 0,
     "type": 114,
     "name": "加速航路",
-    "detail": "毎ターンチャージを2増やす【強化解除無効】",
+    "detail": "毎ターンチャージを2増やす",
     "iconId": 319,
     "maxRate": 0,
     "effectId": 0
@@ -11672,7 +11672,7 @@
     "buffGroup": 400,
     "type": 26,
     "name": "非常大権",
-    "detail": "必中を無視して、攻撃によるダメージを0にする【強化解除無効】",
+    "detail": "必中を無視して、攻撃によるダメージを0にする",
     "iconId": 311,
     "maxRate": 0,
     "effectId": 0
@@ -11687,7 +11687,7 @@
     "buffGroup": 0,
     "type": 89,
     "name": "攻撃時スタン",
-    "detail": "自身の通常攻撃時に敵単体にスタン状態(1ターン)を付与【強化解除無効】",
+    "detail": "自身の通常攻撃時に敵単体にスタン状態(1ターン)を付与",
     "iconId": 528,
     "maxRate": 0,
     "effectId": 0
@@ -11704,7 +11704,7 @@
     "buffGroup": 0,
     "type": 104,
     "name": "ガッツ",
-    "detail": "HPが0になった時、HPを回復して耐える【強化解除無効】",
+    "detail": "HPが0になった時、HPを回復して耐える",
     "iconId": 304,
     "maxRate": 1000,
     "effectId": 0
@@ -11758,7 +11758,7 @@
     "buffGroup": 0,
     "type": 18,
     "name": "クリティカル威力アップ",
-    "detail": "クリティカル時のダメージをアップ【強化解除無効】",
+    "detail": "クリティカル時のダメージをアップ",
     "iconId": 324,
     "maxRate": 5000,
     "effectId": 0
@@ -11773,7 +11773,7 @@
     "buffGroup": 0,
     "type": 70,
     "name": "クリティカル発生アップ",
-    "detail": "クリティカルの発生率をアップ【強化解除無効】",
+    "detail": "クリティカルの発生率をアップ",
     "iconId": 327,
     "maxRate": 5000,
     "effectId": 0
@@ -13148,7 +13148,7 @@
     "buffGroup": 0,
     "type": 78,
     "name": "死亡時発動(強化)",
-    "detail": "HPが0になった時に強化効果が発生する【強化解除無効】",
+    "detail": "HPが0になった時に強化効果が発生する",
     "iconId": 350,
     "maxRate": 0,
     "effectId": 0
@@ -13451,7 +13451,7 @@
     "buffGroup": 0,
     "type": 27,
     "name": "毎ターン発動(スター減少)",
-    "detail": "毎ターン開始時、敵軍のスターを10減らす【強化解除不可】",
+    "detail": "毎ターン開始時、敵軍のスターを10減らす",
     "iconId": 343,
     "maxRate": 5000,
     "effectId": 0
@@ -13466,7 +13466,7 @@
     "buffGroup": 0,
     "type": 89,
     "name": "追加効果(弱体)",
-    "detail": "通常攻撃時に敵単体に防御力ダウン(3ターン)を発動する【強化解除無効】",
+    "detail": "通常攻撃時に敵単体に防御力ダウン(3ターン)を発動する",
     "iconId": 528,
     "maxRate": 0,
     "effectId": 0
@@ -13481,7 +13481,7 @@
     "buffGroup": 0,
     "type": 8,
     "name": "毒",
-    "detail": "ターン終了時にHPが減る【解除不可】",
+    "detail": "ターン終了時にHPが減る",
     "iconId": 500,
     "maxRate": 0,
     "effectId": 17119
@@ -13498,7 +13498,7 @@
     "buffGroup": 0,
     "type": 126,
     "name": "蝕毒",
-    "detail": "毒の効果量アップ【解除不可】",
+    "detail": "毒の効果量アップ",
     "iconId": 545,
     "maxRate": 5000,
     "effectId": 0
@@ -13603,7 +13603,7 @@
     "buffGroup": 0,
     "type": 43,
     "name": "防御力ダウン",
-    "detail": "防御力をダウン【解除不可】",
+    "detail": "防御力をダウン",
     "iconId": 504,
     "maxRate": 5000,
     "effectId": 0
@@ -13618,7 +13618,7 @@
     "buffGroup": 600,
     "type": 37,
     "name": "ガッツ",
-    "detail": "HPが0になった時、HPを回復して耐える【強化解除無効】",
+    "detail": "HPが0になった時、HPを回復して耐える",
     "iconId": 304,
     "maxRate": 0,
     "effectId": 0
@@ -13906,7 +13906,7 @@
     "buffGroup": 0,
     "type": 17,
     "name": "NP獲得アップ",
-    "detail": "NP獲得量をアップ【解除不可】",
+    "detail": "NP獲得量をアップ",
     "iconId": 303,
     "maxRate": 5000,
     "effectId": 0
@@ -13923,7 +13923,7 @@
     "buffGroup": 0,
     "type": 10,
     "name": "攻撃力ダウン",
-    "detail": "攻撃力をダウン【解除不可】",
+    "detail": "攻撃力をダウン",
     "iconId": 503,
     "maxRate": 5000,
     "effectId": 0
@@ -14008,7 +14008,7 @@
     "buffGroup": 1000,
     "type": 31,
     "name": "強化無効",
-    "detail": "強化を受けなくなる【解除不可】",
+    "detail": "強化を受けなくなる",
     "iconId": 531,
     "maxRate": 0,
     "effectId": 0
@@ -14028,7 +14028,7 @@
     "buffGroup": 0,
     "type": 52,
     "name": "Quickアップ",
-    "detail": "Quickカードの性能をアップ【解除不可】",
+    "detail": "Quickカードの性能をアップ",
     "iconId": 312,
     "maxRate": 5000,
     "effectId": 0
@@ -14043,7 +14043,7 @@
     "buffGroup": 0,
     "type": 18,
     "name": "クリティカル威力アップ",
-    "detail": "クリティカル時のダメージをアップ【解除不可】",
+    "detail": "クリティカル時のダメージをアップ",
     "iconId": 324,
     "maxRate": 5000,
     "effectId": 0
@@ -14058,7 +14058,7 @@
     "buffGroup": 0,
     "type": 7,
     "name": "毎ターンHP回復",
-    "detail": "ターン終了時にHPが回復する【解除不可】",
+    "detail": "ターン終了時にHPが回復する",
     "iconId": 318,
     "maxRate": 0,
     "effectId": 0
@@ -14075,7 +14075,7 @@
     "buffGroup": 0,
     "type": 63,
     "name": "NP獲得ダウン",
-    "detail": "NP獲得量をダウン【解除不可】",
+    "detail": "NP獲得量をダウン",
     "iconId": 509,
     "maxRate": 5000,
     "effectId": 0
@@ -14097,7 +14097,7 @@
     "buffGroup": 0,
     "type": 42,
     "name": "防御力アップ",
-    "detail": "宝具に対する防御力をアップ【解除不可】",
+    "detail": "宝具に対する防御力をアップ",
     "iconId": 301,
     "maxRate": 5000,
     "effectId": 0
@@ -14296,7 +14296,7 @@
     "buffGroup": 0,
     "type": 29,
     "name": "絶縁天蓋",
-    "detail": "弱体耐性をアップ【解除不可】",
+    "detail": "弱体耐性をアップ",
     "iconId": 306,
     "maxRate": 5000,
     "effectId": 0
@@ -14366,7 +14366,7 @@
     "buffGroup": 700,
     "type": 38,
     "name": "タゲ集中アップ",
-    "detail": "敵からの狙われやすさがアップ(弱体扱い)【解除不可】",
+    "detail": "敵からの狙われやすさがアップ(弱体扱い)",
     "iconId": 323,
     "maxRate": 50000,
     "effectId": 0
@@ -14383,7 +14383,7 @@
     "buffGroup": 0,
     "type": 42,
     "name": "防御力アップ",
-    "detail": "宝具に対する防御力をアップ【解除不可】",
+    "detail": "宝具に対する防御力をアップ",
     "iconId": 301,
     "maxRate": 5000,
     "effectId": 0
@@ -14549,7 +14549,7 @@
     "buffGroup": 0,
     "type": 19,
     "name": "クリティカル威力ダウン",
-    "detail": "クリティカル時のダメージをダウン【解除不可】",
+    "detail": "クリティカル時のダメージをダウン",
     "iconId": 514,
     "maxRate": 5000,
     "effectId": 0
@@ -14566,7 +14566,7 @@
     "buffGroup": 0,
     "type": 42,
     "name": "防御力アップ",
-    "detail": "防御力をアップ【解除不可】",
+    "detail": "防御力をアップ",
     "iconId": 301,
     "maxRate": 5000,
     "effectId": 0
@@ -19696,7 +19696,8 @@
     "vals": [
       3004,
       3006,
-      3027
+      3027,
+      2716
     ],
     "tvals": [],
     "ckSelfIndv": [],
@@ -19715,7 +19716,8 @@
     "vals": [
       3004,
       3006,
-      3027
+      3027,
+      2716
     ],
     "tvals": [],
     "ckSelfIndv": [],
@@ -25980,7 +25982,7 @@
     "buffGroup": 0,
     "type": 70,
     "name": "クリティカル発生アップ",
-    "detail": "クリティカルの発生率をアップ【強化解除無効】",
+    "detail": "クリティカルの発生率をアップ",
     "iconId": 327,
     "maxRate": 5000,
     "effectId": 0
@@ -25997,7 +25999,7 @@
     "buffGroup": 0,
     "type": 70,
     "name": "クリティカル発生アップ",
-    "detail": "クリティカルの発生率をアップ【強化解除無効】",
+    "detail": "クリティカルの発生率をアップ",
     "iconId": 327,
     "maxRate": 5000,
     "effectId": 0
@@ -26014,7 +26016,7 @@
     "buffGroup": 0,
     "type": 70,
     "name": "クリティカル発生アップ",
-    "detail": "クリティカルの発生率をアップ【強化解除無効】",
+    "detail": "クリティカルの発生率をアップ",
     "iconId": 327,
     "maxRate": 5000,
     "effectId": 0

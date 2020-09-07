@@ -3907,15 +3907,13 @@
     "targetIds": [
       9403870
     ],
-    "script": {
-      "remainDays": 14
-    },
+    "script": {},
     "id": 11132,
     "baseShopId": 11132,
     "eventId": 0,
     "slot": 0,
     "flag": 2048,
-    "priority": 30,
+    "priority": 8,
     "purchaseType": 4,
     "setNum": 1,
     "payType": 4,
@@ -3924,13 +3922,13 @@
     "defaultLv": 1,
     "defaultLimitCount": 0,
     "name": "パーソナル・コーチング",
-    "detail": "【マナプリズム交換限定】\n期間限定★5概念礼装へ交換",
+    "detail": "マナプリズム交換限定★5概念礼装へ交換",
     "infoMessage": "",
     "warningMessage": "",
     "imageId": 0,
     "bgImageId": 0,
-    "openedAt": 1557738000,
-    "closedAt": 1564585199
+    "openedAt": 1599469200,
+    "closedAt": 1901199599
   },
   {
     "itemIds": [
@@ -5558,6 +5556,39 @@
     "bgImageId": 0,
     "openedAt": 1596207600,
     "closedAt": 1598885999
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      300
+    ],
+    "targetIds": [
+      8400150
+    ],
+    "script": {},
+    "id": 11184,
+    "baseShopId": 11184,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 7,
+    "purchaseType": 19,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "赤き宝石嬢の令印",
+    "detail": "★3コマンドコードへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1599469200,
+    "closedAt": 1901199599
   },
   {
     "itemIds": [
@@ -30443,6 +30474,39 @@
   },
   {
     "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      900600
+    ],
+    "script": {},
+    "id": 4000513,
+    "baseShopId": 4000287,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 805,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "始皇帝",
+    "detail": "期間限定★5サーヴァントへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1599469200,
+    "closedAt": 1600660799
+  },
+  {
+    "itemIds": [
       16
     ],
     "prices": [
@@ -40128,7 +40192,7 @@
     "eventId": 0,
     "slot": 0,
     "flag": 256,
-    "priority": 41,
+    "priority": 13,
     "purchaseType": 6,
     "setNum": 0,
     "payType": 10,
@@ -40161,7 +40225,7 @@
     "eventId": 0,
     "slot": 0,
     "flag": 256,
-    "priority": 42,
+    "priority": 14,
     "purchaseType": 6,
     "setNum": 0,
     "payType": 10,
@@ -41683,7 +41747,7 @@
     "eventId": 0,
     "slot": 0,
     "flag": 256,
-    "priority": 20,
+    "priority": 40,
     "purchaseType": 6,
     "setNum": 0,
     "payType": 10,
@@ -41698,6 +41762,72 @@
     "imageId": 80300,
     "bgImageId": 0,
     "openedAt": 1598346000,
+    "closedAt": 1901199599
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      0
+    ],
+    "script": {},
+    "id": 6000447,
+    "baseShopId": 6000447,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 256,
+    "priority": 15,
+    "purchaseType": 9,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "マナプリズム交換「パーソナル・コーチング」",
+    "detail": "マナプリズム交換限定★5概念礼装を「マナプリズムを交換」に開放",
+    "infoMessage": "「マナプリズムを交換」で「パーソナル・コーチング」を交換できるようになります。",
+    "warningMessage": "",
+    "imageId": 80301,
+    "bgImageId": 0,
+    "openedAt": 1599469200,
+    "closedAt": 1901199599
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      2
+    ],
+    "targetIds": [
+      8400160
+    ],
+    "script": {},
+    "id": 6000448,
+    "baseShopId": 6000448,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 16,
+    "purchaseType": 19,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "神縫いの鎖",
+    "detail": "★4コマンドコードへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1599469200,
     "closedAt": 1901199599
   },
   {
