@@ -36353,6 +36353,139 @@
   },
   {
     "targetIds": [
+      2001170,
+      2001171,
+      2001172,
+      2001173,
+      2001174,
+      2001175
+    ],
+    "missionId": 2001169,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2000818,
+    "missionTargetId": 100170,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 6,
+    "conditionMessage": "Complete all of this week's Master Missions",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2000975
+    ],
+    "missionId": 2001170,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2000819,
+    "missionTargetId": 100170,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 20,
+    "conditionMessage": "Defeat 20 enemies (excluding Servants and certain bosses)",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001170
+    ],
+    "missionId": 2001171,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 2000820,
+    "missionTargetId": 100170,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 1,
+    "conditionMessage": "Defeat 40 enemies (excluding Servants and certain bosses)",
+    "closedMessage": "",
+    "flag": 64
+  },
+  {
+    "targetIds": [
+      2000975
+    ],
+    "missionId": 2001171,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2000821,
+    "missionTargetId": 100170,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 40,
+    "conditionMessage": "Defeat 40 enemies (excluding Servants and certain bosses)",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2000976
+    ],
+    "missionId": 2001172,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2000822,
+    "missionTargetId": 100170,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "Defeat 15 enemies with the Heaven attribute",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2000977
+    ],
+    "missionId": 2001173,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2000823,
+    "missionTargetId": 100170,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "Defeat 15 enemies with the Earth attribute",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2000978
+    ],
+    "missionId": 2001174,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2000824,
+    "missionTargetId": 100170,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 5,
+    "conditionMessage": "Put one or more Saber-class Servants in your Party and complete any quest(s) 5 times",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2000979
+    ],
+    "missionId": 2001175,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2000825,
+    "missionTargetId": 100170,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 10,
+    "conditionMessage": "Complete 10 \"Revival: Fate/Accel Zero Order - LAP_2\" quests",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
       94011901
     ],
     "missionId": 80054001,
