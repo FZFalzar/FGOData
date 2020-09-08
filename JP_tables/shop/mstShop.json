@@ -38847,7 +38847,7 @@
     "defaultLv": 0,
     "defaultLimitCount": 0,
     "name": "霊衣「ホワイトローズ」開放権",
-    "detail": "アーサー・ペンドラゴン〔プロトタイプ〕霊衣\n「ホワイトローズ」開放権へ交換",
+    "detail": "「CBC2018」限定アーサー・ペンドラゴン〔プロトタイプ〕霊衣「ホワイトローズ」開放権へ交換",
     "infoMessage": "霊衣「ホワイトローズ」開放権を獲得できます。",
     "warningMessage": "",
     "imageId": 80057,
@@ -40192,7 +40192,7 @@
     "eventId": 0,
     "slot": 0,
     "flag": 256,
-    "priority": 13,
+    "priority": 12,
     "purchaseType": 6,
     "setNum": 0,
     "payType": 10,
@@ -40225,7 +40225,7 @@
     "eventId": 0,
     "slot": 0,
     "flag": 256,
-    "priority": 14,
+    "priority": 13,
     "purchaseType": 6,
     "setNum": 0,
     "payType": 10,
@@ -41828,6 +41828,39 @@
     "imageId": 0,
     "bgImageId": 0,
     "openedAt": 1599469200,
+    "closedAt": 1901199599
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      5
+    ],
+    "targetIds": [
+      8400120
+    ],
+    "script": {},
+    "id": 6000449,
+    "baseShopId": 6000449,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 256,
+    "priority": 14,
+    "purchaseType": 19,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "ファーストサーヴァント",
+    "detail": "「サーヴァント･サマー･フェスティバル！」限定★5コマンドコードへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1599555600,
     "closedAt": 1901199599
   },
   {
