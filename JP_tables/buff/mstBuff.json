@@ -37524,5 +37524,145 @@
     "iconId": 343,
     "maxRate": 0,
     "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "relationId": 124
+    },
+    "id": 2989,
+    "buffGroup": 0,
+    "type": 144,
+    "name": "クラス相性変更",
+    "detail": "〔ライダー〕クラスに対する相性不利を打ち消す",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006,
+      3028
+    ],
+    "tvals": [
+      500400
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      500400
+    ],
+    "script": {},
+    "id": 2990,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "威力アップ〔ナーサリー・ライム〕",
+    "detail": "〔ナーサリー・ライム〕に与えるダメージをアップ",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2991,
+    "buffGroup": 0,
+    "type": 90,
+    "name": "撃破時追加効果(スター獲得)",
+    "detail": "敵を倒したときにスターを獲得する",
+    "iconId": 342,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2992,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "死亡時発動",
+    "detail": "HPが0になった時、味方全体の防御力をダウン状態を付与",
+    "iconId": 543,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2993,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "死亡時発動",
+    "detail": "HPが0になった時、味方全体の防御力をダウン状態を付与",
+    "iconId": 543,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2994,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "死亡時発動",
+    "detail": "HPが0になった時、味方全体の攻撃力をダウン＆防御力をダウン状態を付与",
+    "iconId": 543,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2995,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "死亡時発動",
+    "detail": "HPが0になった時、味方全体の攻撃力をダウン＆防御力をダウン状態を付与",
+    "iconId": 543,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2996,
+    "buffGroup": 0,
+    "type": 85,
+    "name": "毎ターン発動(スキルターン減少)",
+    "detail": "毎ターン自身のスキルチャージを1進める",
+    "iconId": 343,
+    "maxRate": 0,
+    "effectId": 0
   }
 ]

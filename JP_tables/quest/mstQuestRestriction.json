@@ -624,6 +624,14 @@
     "noticeMessage": "ブラダマンテをスターティングメンバーに設定してください。"
   },
   {
+    "questId": 91403101,
+    "phase": 1,
+    "restrictionId": 91000041,
+    "frequencyType": 3,
+    "dialogMessage": "制限対象サーヴァントはサブメンバーとして出撃できません。",
+    "noticeMessage": "赤兎馬をスターティングメンバーに設定してください。"
+  },
+  {
     "questId": 91403201,
     "phase": 1,
     "restrictionId": 91000031,
@@ -656,6 +664,30 @@
     "noticeMessage": ""
   },
   {
+    "questId": 91503601,
+    "phase": 1,
+    "restrictionId": 91000038,
+    "frequencyType": 0,
+    "dialogMessage": "",
+    "noticeMessage": ""
+  },
+  {
+    "questId": 91503601,
+    "phase": 2,
+    "restrictionId": 91000038,
+    "frequencyType": 0,
+    "dialogMessage": "",
+    "noticeMessage": ""
+  },
+  {
+    "questId": 91503601,
+    "phase": 3,
+    "restrictionId": 91000038,
+    "frequencyType": 0,
+    "dialogMessage": "",
+    "noticeMessage": ""
+  },
+  {
     "questId": 91600502,
     "phase": 1,
     "restrictionId": 91000016,
@@ -678,6 +710,22 @@
     "frequencyType": 3,
     "dialogMessage": "制限対象サーヴァントはサブメンバーとして出撃できません。",
     "noticeMessage": "謎のヒロインXをスターティングメンバーに設定してください。"
+  },
+  {
+    "questId": 91602102,
+    "phase": 1,
+    "restrictionId": 91000040,
+    "frequencyType": 0,
+    "dialogMessage": "0",
+    "noticeMessage": "酒呑童子出撃不可"
+  },
+  {
+    "questId": 91602102,
+    "phase": 3,
+    "restrictionId": 91000040,
+    "frequencyType": 0,
+    "dialogMessage": "0",
+    "noticeMessage": "酒呑童子出撃不可"
   },
   {
     "questId": 91603101,
@@ -726,6 +774,30 @@
     "frequencyType": 0,
     "dialogMessage": "",
     "noticeMessage": ""
+  },
+  {
+    "questId": 91603701,
+    "phase": 1,
+    "restrictionId": 91000039,
+    "frequencyType": 3,
+    "dialogMessage": "制限対象サーヴァントはサブメンバーとして出撃できません。",
+    "noticeMessage": "カーマをスターティングメンバーに設定してください。"
+  },
+  {
+    "questId": 91603701,
+    "phase": 2,
+    "restrictionId": 91000039,
+    "frequencyType": 3,
+    "dialogMessage": "制限対象サーヴァントはサブメンバーとして出撃できません。",
+    "noticeMessage": "カーマをスターティングメンバーに設定してください。"
+  },
+  {
+    "questId": 91603701,
+    "phase": 3,
+    "restrictionId": 91000039,
+    "frequencyType": 3,
+    "dialogMessage": "制限対象サーヴァントはサブメンバーとして出撃できません。",
+    "noticeMessage": "カーマをスターティングメンバーに設定してください。"
   },
   {
     "questId": 91702501,
