@@ -5870,5 +5870,94 @@
     "condValue": 0,
     "condValue2": 0,
     "condValue3": 0
+  },
+  {
+    "targetIds": [
+      "[]"
+    ],
+    "condIds": [],
+    "imageIds": [
+      657
+    ],
+    "textJson": [],
+    "eventId": 80116,
+    "flagType": 1,
+    "num": 1,
+    "openType": 4,
+    "condType": 0,
+    "condValue": 0,
+    "condValue2": 0,
+    "condValue3": 0
+  },
+  {
+    "targetIds": [
+      "[94029050,1]",
+      "[94029051,1]",
+      "[94029052,1]",
+      "[94029053,1]",
+      "[94029054,1]",
+      "[94029055,1]",
+      "[94029056,1]"
+    ],
+    "condIds": [],
+    "imageIds": [],
+    "textJson": [
+      {
+        "text": "- About Exhibition Quests -\n\nExhibition Quests are [FF0000]Ultra High Difficulty Quests[-] for advanced players.\n\nTo clear them, you will have to carefully analyze the enemy and consider Party Formation, Mystic Code, Skills, Noble Phantasms, and all other factors.\n\n[FF9800]Try not to be discouraged, and keep trying until you can defeat the enemy![-]",
+        "rects": [],
+        "textPos": [
+          0,
+          24
+        ],
+        "ptPos": [
+          0,
+          0
+        ]
+      }
+    ],
+    "eventId": 80116,
+    "flagType": 2,
+    "num": 1,
+    "openType": 13,
+    "condType": 0,
+    "condValue": 0,
+    "condValue2": 0,
+    "condValue3": 0
+  },
+  {
+    "targetIds": [
+      "[]"
+    ],
+    "condIds": [],
+    "imageIds": [
+      657
+    ],
+    "textJson": [],
+    "eventId": 80116,
+    "flagType": 21,
+    "num": 1,
+    "openType": 23,
+    "condType": 0,
+    "condValue": 0,
+    "condValue2": 0,
+    "condValue3": 0
+  },
+  {
+    "targetIds": [
+      "[]"
+    ],
+    "condIds": [],
+    "imageIds": [
+      657
+    ],
+    "textJson": [],
+    "eventId": 80116,
+    "flagType": 22,
+    "num": 1,
+    "openType": 24,
+    "condType": 0,
+    "condValue": 0,
+    "condValue2": 0,
+    "condValue3": 0
   }
 ]

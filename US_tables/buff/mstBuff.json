@@ -16,7 +16,8 @@
   },
   {
     "vals": [
-      3004
+      3004,
+      3006
     ],
     "tvals": [
       5000,
@@ -38,7 +39,8 @@
   },
   {
     "vals": [
-      3004
+      3004,
+      3006
     ],
     "tvals": [
       5000,
@@ -60,7 +62,8 @@
   },
   {
     "vals": [
-      3004
+      3004,
+      3006
     ],
     "tvals": [
       5000,
@@ -82,7 +85,8 @@
   },
   {
     "vals": [
-      3004
+      3004,
+      3006
     ],
     "tvals": [
       5000,
@@ -104,7 +108,8 @@
   },
   {
     "vals": [
-      3004
+      3004,
+      3006
     ],
     "tvals": [
       5000,
@@ -126,7 +131,8 @@
   },
   {
     "vals": [
-      3004
+      3004,
+      3006
     ],
     "tvals": [
       5000,
@@ -148,7 +154,8 @@
   },
   {
     "vals": [
-      3004
+      3004,
+      3006
     ],
     "tvals": [
       5000,
@@ -170,7 +177,8 @@
   },
   {
     "vals": [
-      3004
+      3004,
+      3006
     ],
     "tvals": [
       5000,
@@ -192,7 +200,8 @@
   },
   {
     "vals": [
-      3004
+      3004,
+      3006
     ],
     "tvals": [
       5000,
@@ -214,7 +223,8 @@
   },
   {
     "vals": [
-      3004
+      3004,
+      3006
     ],
     "tvals": [
       5000,
@@ -236,7 +246,8 @@
   },
   {
     "vals": [
-      3004
+      3004,
+      3006
     ],
     "tvals": [
       5000,
@@ -258,7 +269,8 @@
   },
   {
     "vals": [
-      3004
+      3004,
+      3006
     ],
     "tvals": [
       5000,
@@ -280,7 +292,8 @@
   },
   {
     "vals": [
-      3005
+      3005,
+      3008
     ],
     "tvals": [
       5000,
@@ -302,7 +315,8 @@
   },
   {
     "vals": [
-      3005
+      3005,
+      3008
     ],
     "tvals": [
       5000,
@@ -324,7 +338,8 @@
   },
   {
     "vals": [
-      3005
+      3005,
+      3008
     ],
     "tvals": [
       5000,
@@ -3655,7 +3670,8 @@
   },
   {
     "vals": [
-      3004
+      3004,
+      3006
     ],
     "tvals": [
       5000,
@@ -15053,6 +15069,21 @@
     "ckSelfIndv": [],
     "ckOpIndv": [],
     "script": {},
+    "id": 1131,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "Strength Up",
+    "detail": "Increase damage dealt during \"Battle in New York 2020\"",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
     "id": 1132,
     "buffGroup": 0,
     "type": 76,
@@ -15075,6 +15106,4221 @@
     "type": 40,
     "name": "Add Individuality",
     "detail": "Add Individuality",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006,
+      3028
+    ],
+    "tvals": [
+      2008
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      2008
+    ],
+    "script": {},
+    "id": 1134,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "Strength Up [Servant]",
+    "detail": "Increase damage dealt to [Servants] (Servants with Power of the Star are immune to the Special Attack)",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005,
+      3056,
+      3045
+    ],
+    "tvals": [
+      5000,
+      4003
+    ],
+    "ckSelfIndv": [
+      4003
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1135,
+    "buffGroup": 40,
+    "type": 134,
+    "name": "Quick Seal",
+    "detail": "Unable to use Quick Cards",
+    "iconId": 551,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005,
+      3056,
+      3045
+    ],
+    "tvals": [
+      5000,
+      4001
+    ],
+    "ckSelfIndv": [
+      4001
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1136,
+    "buffGroup": 41,
+    "type": 134,
+    "name": "Arts Seal",
+    "detail": "Unable to use Arts Cards",
+    "iconId": 552,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005,
+      3056,
+      3045
+    ],
+    "tvals": [
+      5000,
+      4002
+    ],
+    "ckSelfIndv": [
+      4002
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1137,
+    "buffGroup": 42,
+    "type": 134,
+    "name": "Buster Seal",
+    "detail": "Unable to use Buster Cards",
+    "iconId": 553,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005,
+      3009,
+      2285,
+      2286,
+      3043
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1138,
+    "buffGroup": 0,
+    "type": 81,
+    "name": "Increase Max HP",
+    "detail": "Increase Max HP",
+    "iconId": 330,
+    "maxRate": 50000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005,
+      3009,
+      2285,
+      2287,
+      3043
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1139,
+    "buffGroup": 0,
+    "type": 81,
+    "name": "Increase Max HP",
+    "detail": "Increase Max HP",
+    "iconId": 330,
+    "maxRate": 50000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005,
+      3009,
+      2285,
+      2288,
+      3043
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1140,
+    "buffGroup": 0,
+    "type": 81,
+    "name": "Increase Max HP",
+    "detail": "Increase Max HP",
+    "iconId": 330,
+    "maxRate": 50000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005,
+      3009,
+      2285,
+      2286,
+      3045
+    ],
+    "tvals": [
+      5000,
+      4003
+    ],
+    "ckSelfIndv": [
+      4003
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1141,
+    "buffGroup": 0,
+    "type": 134,
+    "name": "Agility-Zooming Apple Rice Ball",
+    "detail": "Seal Quick Cards & decrease DEF & increase Max HP & speed up digestion with normal attacks & increase NP Strength when digested",
+    "iconId": 551,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005,
+      3009,
+      2285,
+      2287,
+      3045
+    ],
+    "tvals": [
+      5000,
+      4001
+    ],
+    "ckSelfIndv": [
+      4001
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1142,
+    "buffGroup": 0,
+    "type": 134,
+    "name": "Wisdom-Brimming Salmon Rice Ball",
+    "detail": "Seal Arts Cards & decrease DEF & increase Max HP & speed up digestion with normal attacks & increase all Card strength when digested",
+    "iconId": 552,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005,
+      3009,
+      2285,
+      2288,
+      3045
+    ],
+    "tvals": [
+      5000,
+      4002
+    ],
+    "ckSelfIndv": [
+      4002
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1143,
+    "buffGroup": 0,
+    "type": 134,
+    "name": "Muscle-Ripping BBQ Rice Ball",
+    "detail": "Seal Buster Cards & decrease DEF & Increase Max HP & speed up digestion with normal attacks & increase ATK when digested",
+    "iconId": 553,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005,
+      3009,
+      2285,
+      2286
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1144,
+    "buffGroup": 0,
+    "type": 76,
+    "name": "Delayed Effect (Buff)",
+    "detail": "Buff occurs after several turns",
+    "iconId": 306,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005,
+      3009,
+      2285,
+      2287
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1145,
+    "buffGroup": 0,
+    "type": 76,
+    "name": "Delayed Effect (Buff)",
+    "detail": "Buff occurs after several turns",
+    "iconId": 306,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005,
+      3009,
+      2285,
+      2288
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1146,
+    "buffGroup": 0,
+    "type": 76,
+    "name": "Delayed Effect (Buff)",
+    "detail": "Buff occurs after several turns",
+    "iconId": 306,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2284
+    ],
+    "tvals": [
+      5000,
+      4002
+    ],
+    "ckSelfIndv": [
+      4002
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1147,
+    "buffGroup": 0,
+    "type": 89,
+    "name": "Prepare Apple Rice Balls",
+    "detail": "Normal Buster Card attacks inflict Debuffs to the target",
+    "iconId": 528,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2284
+    ],
+    "tvals": [
+      5000,
+      4002
+    ],
+    "ckSelfIndv": [
+      4002
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1148,
+    "buffGroup": 0,
+    "type": 89,
+    "name": "Prepare Salmon Rice Balls",
+    "detail": "Normal Buster Card attacks inflict Debuffs to the target",
+    "iconId": 528,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2284
+    ],
+    "tvals": [
+      5000,
+      4002
+    ],
+    "ckSelfIndv": [
+      4002
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1149,
+    "buffGroup": 0,
+    "type": 89,
+    "name": "Prepare BBQ Rice Balls",
+    "detail": "Normal Buster Card attacks inflict Debuffs to the target",
+    "iconId": 528,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2290
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1150,
+    "buffGroup": 0,
+    "type": 89,
+    "name": "Bonus Effect (Buff)",
+    "detail": "Target receives buff with normal attacks",
+    "iconId": 333,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2290
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1151,
+    "buffGroup": 0,
+    "type": 89,
+    "name": "Bonus Effect (Buff)",
+    "detail": "Target receives buff with normal attacks",
+    "iconId": 333,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2290
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1152,
+    "buffGroup": 0,
+    "type": 89,
+    "name": "Bonus Effect (Buff)",
+    "detail": "Target receives buff with normal attacks",
+    "iconId": 333,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005,
+      3009,
+      2285,
+      2286
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1153,
+    "buffGroup": 0,
+    "type": 43,
+    "name": "DEF Down",
+    "detail": "Decrease DEF",
+    "iconId": 504,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005,
+      3009,
+      2285,
+      2287
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1154,
+    "buffGroup": 0,
+    "type": 43,
+    "name": "DEF Down",
+    "detail": "Decrease DEF",
+    "iconId": 504,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005,
+      3009,
+      2285,
+      2288
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1155,
+    "buffGroup": 0,
+    "type": 43,
+    "name": "DEF Down",
+    "detail": "Decrease DEF",
+    "iconId": 504,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005,
+      3009,
+      2289,
+      2285,
+      2286
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "HP_LOWER": 100
+    },
+    "id": 1156,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "",
+    "detail": "Add Individuality",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005,
+      3009,
+      2289,
+      2285,
+      2287
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "HP_LOWER": 100
+    },
+    "id": 1157,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "",
+    "detail": "Add Individuality",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005,
+      3009,
+      2289,
+      2285,
+      2288
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "HP_LOWER": 100
+    },
+    "id": 1158,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "",
+    "detail": "Add Individuality",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3044
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1159,
+    "buffGroup": 0,
+    "type": 82,
+    "name": "Reduce Max HP",
+    "detail": "Decrease Max HP",
+    "iconId": 522,
+    "maxRate": 50000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      3008
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      3008
+    ],
+    "script": {},
+    "id": 1160,
+    "buffGroup": 0,
+    "type": 31,
+    "name": "ATK Debuff Immune",
+    "detail": "Immune to all ATK debuffs",
+    "iconId": 322,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4002
+    ],
+    "ckSelfIndv": [
+      4002
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1161,
+    "buffGroup": 0,
+    "type": 52,
+    "name": "Buster Up",
+    "detail": "Increase Buster Card effectiveness",
+    "iconId": 314,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006,
+      2291
+    ],
+    "tvals": [
+      5000,
+      4003,
+      4001,
+      4002
+    ],
+    "ckSelfIndv": [
+      4003,
+      4001,
+      4002
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1162,
+    "buffGroup": 0,
+    "type": 1,
+    "name": "Card Up <ATK>",
+    "detail": "Increase Quick, Arts, and Buster Card Strength",
+    "iconId": 302,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006,
+      2291,
+      3027
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1163,
+    "buffGroup": 0,
+    "type": 9,
+    "name": "ATK Up",
+    "detail": "Increase ATK",
+    "iconId": 300,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006,
+      2291,
+      3030
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1164,
+    "buffGroup": 0,
+    "type": 15,
+    "name": "NP Strength Up",
+    "detail": "Increase NP damage",
+    "iconId": 310,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1165,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "Hungry",
+    "detail": "Decrease Max HP each turn",
+    "iconId": 537,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "HP_LOWER": 100
+    },
+    "id": 1166,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "Rapid Rice Ball Digestion",
+    "detail": "When HP is less than 10%, Rice Balls are rapidly digested to gain a large amount of NP",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2293
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1167,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "Molon Labe",
+    "detail": "Increase resistance against various attacks & increase DEF (defeating Spartan Soldiers gradually decreases this effect)",
+    "iconId": 334,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2294
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1168,
+    "buffGroup": 0,
+    "type": 42,
+    "name": "",
+    "detail": "",
+    "iconId": 301,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1169,
+    "buffGroup": 0,
+    "type": 9,
+    "name": "ATK Up",
+    "detail": "Increase ATK",
+    "iconId": 300,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1170,
+    "buffGroup": 0,
+    "type": 18,
+    "name": "Critical Up",
+    "detail": "Increase Critical Hit damage",
+    "iconId": 324,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1171,
+    "buffGroup": 0,
+    "type": 70,
+    "name": "Critical Hit Rate Up",
+    "detail": "Increase Critical Hit rate",
+    "iconId": 327,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "INDIVIDUALITIE": 2295
+    },
+    "id": 1172,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "Spartan Willpower",
+    "detail": "<Activates when the Flaming Man's HP Gauge is broken>\nWhen HP reaches 0, inflict Skill Seal to a single enemy",
+    "iconId": 350,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "INDIVIDUALITIE": 2295
+    },
+    "id": 1173,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "Spartan Tenacity",
+    "detail": "<Activates when the Flaming Man's HP Gauge is broken>\nWhen HP reaches 0, nullify a single enemy's DEF Buff",
+    "iconId": 350,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "INDIVIDUALITIE": 2295
+    },
+    "id": 1174,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "Spartan Pride",
+    "detail": "<Activates when the Flaming Man's HP Gauge is broken>\nWhen HP reaches 0, decrease ATK for all enemies",
+    "iconId": 350,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "INDIVIDUALITIE": 2295
+    },
+    "id": 1175,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "Spartan Madness",
+    "detail": "<Activates when the Flaming Man's HP Gauge is broken>\nWhen HP reaches 0, decrease DEF of a single enemy",
+    "iconId": 350,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1176,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "Activate on Defeat (Debuff)",
+    "detail": "When HP reaches 0, the effect of the Flaming Man's \"Molon Labe\" decreases",
+    "iconId": 543,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1177,
+    "buffGroup": 0,
+    "type": 10,
+    "name": "ATK Down",
+    "detail": "Decrease ATK",
+    "iconId": 503,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1178,
+    "buffGroup": 800,
+    "type": 33,
+    "name": "Skill Seal",
+    "detail": "Unable to use skills",
+    "iconId": 511,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      3007
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      3007
+    ],
+    "script": {},
+    "id": 1179,
+    "buffGroup": 0,
+    "type": 31,
+    "name": "Nullify DEF Buff",
+    "detail": "Immune to DEF buffs",
+    "iconId": 531,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1180,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "",
+    "detail": "Add Individuality",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4003
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4003
+    ],
+    "script": {},
+    "id": 1183,
+    "buffGroup": 0,
+    "type": 86,
+    "name": "\"That Blade's Mine Now\"",
+    "detail": "Tremendously increase resistance to the Card type that inflicted attack (2 turns) <Resistance is reset if sustaining a different Card type attack>",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4001
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4001
+    ],
+    "script": {},
+    "id": 1184,
+    "buffGroup": 0,
+    "type": 86,
+    "name": "Activate when Damaged (Arts)",
+    "detail": "Effect activates when receiving Arts attack",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4002
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4002
+    ],
+    "script": {},
+    "id": 1185,
+    "buffGroup": 0,
+    "type": 86,
+    "name": "Activate when Damaged (Buster)",
+    "detail": "Effect activates when receiving Buster attack",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2297
+    ],
+    "tvals": [
+      5000,
+      4003
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4003
+    ],
+    "script": {},
+    "id": 1186,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "Special Resist Up (Quick)",
+    "detail": "Increase resistance against Quick attacks",
+    "iconId": 345,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2298
+    ],
+    "tvals": [
+      5000,
+      4001
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4001
+    ],
+    "script": {},
+    "id": 1187,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "Special Resist Up (Arts)",
+    "detail": "Increase resistance against Arts attacks",
+    "iconId": 346,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2299
+    ],
+    "tvals": [
+      5000,
+      4002
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4002
+    ],
+    "script": {},
+    "id": 1188,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "Special Resist Up (Buster)",
+    "detail": "Increase resistance against Buster attacks",
+    "iconId": 347,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1189,
+    "buffGroup": 0,
+    "type": 85,
+    "name": "Hyper Man-Slaying State",
+    "detail": "Increase ATK Strength against [Humanoids] each turn",
+    "iconId": 343,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4007
+    ],
+    "script": {},
+    "id": 1190,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "NP Resist Up",
+    "detail": "Gain resistance to NP Damage",
+    "iconId": 334,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1191,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "Activate on Defeat",
+    "detail": "Remove the enemy's Strength Up [Humanoid] when defeated",
+    "iconId": 350,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006,
+      3031
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1192,
+    "buffGroup": 0,
+    "type": 18,
+    "name": "Critical Up",
+    "detail": "Increase Critical Hit damage",
+    "iconId": 324,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006,
+      3027
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1193,
+    "buffGroup": 0,
+    "type": 9,
+    "name": "\"Execute Divine Punishment!\"",
+    "detail": "[Activates when last damage taken was by an Arts Card] Increase ATK & remove resistance against Arts Cards [Demerit]",
+    "iconId": 300,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006,
+      3029
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1194,
+    "buffGroup": 0,
+    "type": 13,
+    "name": "\"Your Pain'll Get Worse!\"",
+    "detail": "[Activates when last damage taken was by a Buster Card] Increase damage & remove resistance against Buster Cards [Demerit]",
+    "iconId": 302,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1195,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "\"Your Weakness Is Exposed!\"",
+    "detail": "<Activates when Special Resist Up [Quick] is applied>\nAt the beginning of the turn, increase Critical Strength for yourself ",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1196,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "\"Your Pain'll Get Worse!\"",
+    "detail": "<Activates when Special Resist Up [Arts] is applied>\nAt the beginning of the turn, decrease C. Stars for all enemies",
+    "iconId": 525,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1197,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "\"Execute Divine Punishment!\"",
+    "detail": "<Activates when Special Resist Up [Buster] is applied>\nAt the beginning of the turn, apply Stun to one random enemy",
+    "iconId": 525,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3057,
+      2038
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1198,
+    "buffGroup": 220,
+    "type": 133,
+    "name": "Apply Field Characteristics [Sunlight]",
+    "detail": "Add [Sunlight] to the field",
+    "iconId": 352,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3057,
+      2121
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1199,
+    "buffGroup": 220,
+    "type": 133,
+    "name": "Apply Field Characteristics [Burning]",
+    "detail": "Add [Burning] to the field",
+    "iconId": 353,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3057,
+      2039
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1200,
+    "buffGroup": 220,
+    "type": 133,
+    "name": "Apply Field Characteristics [Near Water]",
+    "detail": "Add [Near Water] to the field",
+    "iconId": 354,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3057,
+      2073
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1201,
+    "buffGroup": 220,
+    "type": 133,
+    "name": "Apply Field Characteristics [Forest]",
+    "detail": "Add [Forest] to the field",
+    "iconId": 355,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1202,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "The City's a Jungle (Self-Interpretation)",
+    "detail": "When the field is [Forest] at the beginning of your turn, activate the effect \"increase Special Resistance & increase ATK & increase NP Strength for yourself\"",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1203,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "Mischievous Orleans",
+    "detail": "When the field is [Near Water] at the beginning of your turn, activate the effect \"increase Special Resistance & increase ATK & increase NP Strength for yourself\"",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1204,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "It's Burning! Honnoji!",
+    "detail": "When the field is [Burning] at the beginning of your turn, activate the effect \"increase Special Resistance & increase ATK & increase NP Strength for yourself\"",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2310
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1205,
+    "buffGroup": 0,
+    "type": 9,
+    "name": "ATK Up [Forest]",
+    "detail": "Increase ATK when the field is [Forest]",
+    "iconId": 300,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2310
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1206,
+    "buffGroup": 0,
+    "type": 9,
+    "name": "ATK Up [Near Water]",
+    "detail": "Increase ATK when the field is [Near Water]",
+    "iconId": 300,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2310
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1207,
+    "buffGroup": 0,
+    "type": 9,
+    "name": "ATK Up [Burning]",
+    "detail": "Increase ATK when the field is [Burning]",
+    "iconId": 300,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2310
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1208,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "Special Resist Up [Forest]",
+    "detail": "Gain resistance to all attacks when the field is [Forest]",
+    "iconId": 334,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2310
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1209,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "Special Resist Up [Near Water]",
+    "detail": "Gain resistance to all attacks when the field is [Near Water]",
+    "iconId": 334,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2310
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1210,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "Special Resist Up [Burning]",
+    "detail": "Gain resistance to all attacks when the field is [Burning]",
+    "iconId": 334,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2310
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1211,
+    "buffGroup": 0,
+    "type": 70,
+    "name": "Critical Hit Rate Up",
+    "detail": "Increase Critical Hit rate",
+    "iconId": 327,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4008,
+      4007
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4008,
+      4007
+    ],
+    "script": {},
+    "id": 1212,
+    "buffGroup": 0,
+    "type": 86,
+    "name": "Field Change [Forest]",
+    "detail": "When the final attack is executed during the enemy's turn, change the field to [Forest] at the beginning of your turn",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4008,
+      4007
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4008,
+      4007
+    ],
+    "script": {},
+    "id": 1213,
+    "buffGroup": 0,
+    "type": 86,
+    "name": "Field Change [Near Water]",
+    "detail": "When the final attack is executed during the enemy's turn, change the field to [Near Water] at the beginning of your turn",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4008,
+      4007
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4008,
+      4007
+    ],
+    "script": {},
+    "id": 1214,
+    "buffGroup": 0,
+    "type": 86,
+    "name": "Field Change [Burning]",
+    "detail": "When the final attack is executed during the enemy's turn, change the field to [Burning] at the beginning of your turn",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3057,
+      2121
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1215,
+    "buffGroup": 0,
+    "type": 133,
+    "name": "Field Set [Burning]",
+    "detail": "Change the field to [Burning]",
+    "iconId": 353,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3057,
+      2039
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1216,
+    "buffGroup": 0,
+    "type": 133,
+    "name": "Field Set [Near Water]",
+    "detail": "Change the field to [Near Water]",
+    "iconId": 354,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3057,
+      2073
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1217,
+    "buffGroup": 0,
+    "type": 133,
+    "name": "Field Set [Forest]",
+    "detail": "Change the field to [Forest]",
+    "iconId": 355,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2300,
+      2301
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1218,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "",
+    "detail": "Add Individuality",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2300,
+      2302
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1219,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "",
+    "detail": "Add Individuality",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2300,
+      2303
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1220,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "",
+    "detail": "Add Individuality",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3018,
+      3021,
+      3007,
+      2310
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1221,
+    "buffGroup": 200,
+    "type": 24,
+    "name": "Evade",
+    "detail": "Reduce ATK damage taken to 0",
+    "iconId": 305,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1222,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "Law of the Jungle",
+    "detail": "When the field is [Forest] at the beginning of your turn, activate the effect \"increase Special Resistance & increase ATK & increase NP Strength & apply Debuff Immune (1 time) for yourself\"",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1223,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "Killer Dolphins",
+    "detail": "When the field is [Near Water] at the beginning of your turn, activate the effect \"increase Special Resistance & increase ATK & increase NP Strength & increase Critical Rate for yourself\"",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1224,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "Let's Hype This Up!",
+    "detail": "When the field is [Burning] at the beginning of your turn, activate the effect \"increase Special Resistance & increase ATK & increase NP Strength for yourself + apply Burn to all enemies\"",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2310
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1225,
+    "buffGroup": 0,
+    "type": 15,
+    "name": "NP Strength Up [Forest]",
+    "detail": "Increase NP damage when the field is [Forest]",
+    "iconId": 310,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2310
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1226,
+    "buffGroup": 0,
+    "type": 15,
+    "name": "NP Strength Up [Near Water]",
+    "detail": "Increase NP damage when the field is [Near Water]",
+    "iconId": 310,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2310
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1227,
+    "buffGroup": 0,
+    "type": 15,
+    "name": "NP Strength Up [Burning]",
+    "detail": "Increase NP damage when the field is [Burning]",
+    "iconId": 310,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005,
+      3015,
+      2310
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1228,
+    "buffGroup": 0,
+    "type": 8,
+    "name": "Burn",
+    "detail": "Lose HP at end of each turn",
+    "iconId": 513,
+    "maxRate": 0,
+    "effectId": 17122
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4008,
+      4007
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4008,
+      4007
+    ],
+    "script": {},
+    "id": 1229,
+    "buffGroup": 0,
+    "type": 86,
+    "name": "Super Field Change [Forest, Near Water]",
+    "detail": "When the final attack is executed during the enemy's turn, change the field to [Forest] and [Near Water] at the beginning of your turn",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4008,
+      4007
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4008,
+      4007
+    ],
+    "script": {},
+    "id": 1230,
+    "buffGroup": 0,
+    "type": 86,
+    "name": "Super Field Change [Near Water, Burning]",
+    "detail": "When the final attack is executed during the enemy's turn, change the field to [Near Water] and [Burning] at the beginning of your turn",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4008,
+      4007
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4008,
+      4007
+    ],
+    "script": {},
+    "id": 1231,
+    "buffGroup": 0,
+    "type": 86,
+    "name": "Super Field Change [Burning, Forest]",
+    "detail": "When the final attack is executed during the enemy's turn, change the field to [Burning] and [Forest] at the beginning of your turn",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [
+      5000,
+      4003
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4003
+    ],
+    "script": {},
+    "id": 1232,
+    "buffGroup": 0,
+    "type": 105,
+    "name": "Special Resist Up [Quick]",
+    "detail": "Increase resistance against Quick attacks",
+    "iconId": 345,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [
+      5000,
+      4001
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4001
+    ],
+    "script": {},
+    "id": 1233,
+    "buffGroup": 0,
+    "type": 105,
+    "name": "Special Resist Up [Arts]",
+    "detail": "Increase resistance against Arts attacks",
+    "iconId": 346,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [
+      5000,
+      4002
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4002
+    ],
+    "script": {},
+    "id": 1234,
+    "buffGroup": 0,
+    "type": 105,
+    "name": "Special Resist Up [Buster]",
+    "detail": "Increase resistance against Buster attacks",
+    "iconId": 347,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1235,
+    "buffGroup": 0,
+    "type": 16,
+    "name": "Harshness of the Big City",
+    "detail": "Tremendously decrease NP damage",
+    "iconId": 508,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2310
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1237,
+    "buffGroup": 0,
+    "type": 5,
+    "name": "NP Gain Per Turn ",
+    "detail": "Gain NP at end of each turn",
+    "iconId": 319,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      2310
+    ],
+    "tvals": [
+      3005
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      3005
+    ],
+    "script": {},
+    "id": 1238,
+    "buffGroup": 0,
+    "type": 31,
+    "name": "Debuff Immune",
+    "detail": "Immune to all debuffs",
+    "iconId": 322,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2312
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1239,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "Paywall",
+    "detail": "Gain resistance to all attacks",
+    "iconId": 334,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2324
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1240,
+    "buffGroup": 220,
+    "type": 40,
+    "name": "",
+    "detail": "Add Individuality",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2325,
+      2328,
+      2313,
+      2328
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1241,
+    "buffGroup": 0,
+    "type": 9,
+    "name": "Late Fee Payment: Attack Surge",
+    "detail": "Increase ATK & while this effect is active, Late Fee Payment \"decrease DEF + increase the DEF of the Lender\" will be activated at the end of each turn & remove one of the Lender's Paywall when this effect is used",
+    "iconId": 300,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2325,
+      2328,
+      2314
+    ],
+    "tvals": [
+      5000,
+      4008,
+      4007
+    ],
+    "ckSelfIndv": [
+      4008,
+      4007
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1242,
+    "buffGroup": 0,
+    "type": 3,
+    "name": "Late Fee Payment: Stars Galore",
+    "detail": "Increase C. Star drop rate & while this effect is active, Late Fee Payment \"decrease your HP + recover the Lender's HP\" will be activated at the end of each turn & remove one of the Lender's Paywall when this effect is used during a normal attack",
+    "iconId": 321,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2325,
+      2328,
+      2315
+    ],
+    "tvals": [
+      5000,
+      4008,
+      4007
+    ],
+    "ckSelfIndv": [
+      4008,
+      4007
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1243,
+    "buffGroup": 0,
+    "type": 17,
+    "name": "Late Fee Payment: NP Stockpile",
+    "detail": "Increase NP Gain during normal attacks & while this effect is active, Late Fee Payment \"decrease your Critical Strength + increase the Lender's Critical Strength\" will be activated at the end of each turn & remove one of the Lender's Paywall when this effect is used during a normal attack",
+    "iconId": 303,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2325,
+      2328,
+      2316
+    ],
+    "tvals": [
+      5000,
+      4007
+    ],
+    "ckSelfIndv": [
+      4007
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1244,
+    "buffGroup": 0,
+    "type": 15,
+    "name": "Late Fee Payment: NP Amazing",
+    "detail": "Increase NP damage & while this effect is active, Late Fee Payment \"decrease your C. Star drop rate + increase the Lender's Critical Hit Rate\" will be activated at the end of each turn",
+    "iconId": 310,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2325,
+      2317
+    ],
+    "tvals": [
+      4100
+    ],
+    "ckSelfIndv": [
+      4100
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1245,
+    "buffGroup": 0,
+    "type": 18,
+    "name": "Late Fee Payment: Critical Ouchie",
+    "detail": "Increase Critical Hit damage & while this effect is active, Late Fee Payment \"decrease your NP Strength + increase the Lender's NP Strength\" will be activated at the end of each turn & remove one of the Lender's Paywall when this effect is used",
+    "iconId": 324,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2325,
+      2329,
+      2318
+    ],
+    "tvals": [
+      5000,
+      4003
+    ],
+    "ckSelfIndv": [
+      4003
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1246,
+    "buffGroup": 0,
+    "type": 52,
+    "name": "Late Fee Payment: Quick So Fast",
+    "detail": "Increase Quick Card effectiveness & while this effect is active, Late Fee Payment \"decrease your Arts Card effectiveness + increase the Lender's Arts Card effectiveness\" will be activated at the end of each turn & remove one of the Lender's Paywall when this effect is used during a normal attack",
+    "iconId": 312,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2325,
+      2330,
+      2319
+    ],
+    "tvals": [
+      5000,
+      4001
+    ],
+    "ckSelfIndv": [
+      4001
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1247,
+    "buffGroup": 0,
+    "type": 52,
+    "name": "Late Fee Payment: Art-tack Me",
+    "detail": "Increase Arts Card effectiveness & while this effect is active, Late Fee Payment \"decrease your Buster Card effectiveness + increase the Lender's Buster Card effectiveness\" will be activated at the end of each turn & remove one of the Lender's Paywall when this effect is used during a normal attack",
+    "iconId": 313,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2325,
+      2331,
+      2320
+    ],
+    "tvals": [
+      5000,
+      4002
+    ],
+    "ckSelfIndv": [
+      4002
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1248,
+    "buffGroup": 0,
+    "type": 52,
+    "name": "Late Fee Payment: Buster Dynamic",
+    "detail": "Increase Buster Card effectiveness & while this effect is active, Late Fee Payment \"decrease your Quick Card effectiveness + increase the Lender's Quick Card effectiveness\" will be activated at the end of each turn & remove one of the Lender's Paywall when this effect is used during a normal attack",
+    "iconId": 314,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2325,
+      2321
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1249,
+    "buffGroup": 0,
+    "type": 42,
+    "name": "Late Fee Payment: Hard Defense",
+    "detail": "Increase DEF & while this effect is active, Late Fee Payment \"decrease your ATK + increase the Lender's ATK\" will be activated at the end of each turn & remove one of the Lender's Paywall when this effect is used during a normal attack ",
+    "iconId": 301,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2325,
+      2322
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1250,
+    "buffGroup": 0,
+    "type": 26,
+    "name": "Late Fee Payment: Invincibly Ripped",
+    "detail": "Reduce damage taken to 0 & while this effect is active, Late Fee Payment \"remove your Buffs + remove the Lender's Debuffs\" will be activated at the end of each turn & remove one of the Lender's Paywall when this effect is used",
+    "iconId": 311,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2325,
+      2328,
+      2313
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1251,
+    "buffGroup": 0,
+    "type": 85,
+    "name": "",
+    "detail": "",
+    "iconId": 537,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2325,
+      2328,
+      2314
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1252,
+    "buffGroup": 0,
+    "type": 85,
+    "name": "",
+    "detail": "",
+    "iconId": 537,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2325,
+      2328,
+      2315
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1253,
+    "buffGroup": 0,
+    "type": 85,
+    "name": "",
+    "detail": "",
+    "iconId": 537,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2325,
+      2328,
+      2316
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1254,
+    "buffGroup": 0,
+    "type": 85,
+    "name": "",
+    "detail": "",
+    "iconId": 537,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2325,
+      2317
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1255,
+    "buffGroup": 0,
+    "type": 85,
+    "name": "",
+    "detail": "",
+    "iconId": 537,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2325,
+      2329,
+      2318
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1256,
+    "buffGroup": 0,
+    "type": 85,
+    "name": "",
+    "detail": "",
+    "iconId": 537,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2325,
+      2330,
+      2319
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1257,
+    "buffGroup": 0,
+    "type": 85,
+    "name": "",
+    "detail": "",
+    "iconId": 537,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2325,
+      2331,
+      2320
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1258,
+    "buffGroup": 0,
+    "type": 85,
+    "name": "",
+    "detail": "",
+    "iconId": 537,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2325,
+      2321
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1259,
+    "buffGroup": 0,
+    "type": 85,
+    "name": "",
+    "detail": "",
+    "iconId": 537,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2325,
+      2322
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1260,
+    "buffGroup": 0,
+    "type": 85,
+    "name": "",
+    "detail": "",
+    "iconId": 537,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1261,
+    "buffGroup": 0,
+    "type": 43,
+    "name": "DEF Down",
+    "detail": "Decrease DEF",
+    "iconId": 504,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1262,
+    "buffGroup": 0,
+    "type": 19,
+    "name": "Critical Down",
+    "detail": "Decrease Critical Hit damage",
+    "iconId": 514,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1263,
+    "buffGroup": 0,
+    "type": 4,
+    "name": "C. Star Drop Rate Down",
+    "detail": "Decrease C. Star drop rate",
+    "iconId": 510,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1264,
+    "buffGroup": 0,
+    "type": 16,
+    "name": "NP Strength Down",
+    "detail": "Tremendously decrease NP damage",
+    "iconId": 508,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4003
+    ],
+    "ckSelfIndv": [
+      4003
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1265,
+    "buffGroup": 0,
+    "type": 60,
+    "name": "Quick Down",
+    "detail": "Decrease Quick Card effectiveness",
+    "iconId": 515,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4001
+    ],
+    "ckSelfIndv": [
+      4001
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1266,
+    "buffGroup": 0,
+    "type": 60,
+    "name": "Arts Down",
+    "detail": "Decrease Arts Card effectiveness",
+    "iconId": 516,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4002
+    ],
+    "ckSelfIndv": [
+      4002
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1267,
+    "buffGroup": 0,
+    "type": 60,
+    "name": "Buster Down",
+    "detail": "Decrease Buster Card effectiveness",
+    "iconId": 517,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1268,
+    "buffGroup": 0,
+    "type": 10,
+    "name": "ATK Down",
+    "detail": "Decrease ATK",
+    "iconId": 503,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1269,
+    "buffGroup": 0,
+    "type": 42,
+    "name": "DEF Up",
+    "detail": "Increase DEF",
+    "iconId": 301,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1270,
+    "buffGroup": 0,
+    "type": 18,
+    "name": "Critical Up",
+    "detail": "Increase Critical Hit damage",
+    "iconId": 324,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1271,
+    "buffGroup": 0,
+    "type": 70,
+    "name": "Critical Hit Rate Up",
+    "detail": "Increase Critical Hit rate",
+    "iconId": 327,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1272,
+    "buffGroup": 0,
+    "type": 15,
+    "name": "NP Strength Up",
+    "detail": "Increase NP damage",
+    "iconId": 310,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4003
+    ],
+    "ckSelfIndv": [
+      4003
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1273,
+    "buffGroup": 0,
+    "type": 52,
+    "name": "Quick Up",
+    "detail": "Increase Quick Card effectiveness",
+    "iconId": 312,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4001
+    ],
+    "ckSelfIndv": [
+      4001
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1274,
+    "buffGroup": 0,
+    "type": 52,
+    "name": "Arts Up",
+    "detail": "Increase Arts Card effectiveness",
+    "iconId": 313,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4002
+    ],
+    "ckSelfIndv": [
+      4002
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1275,
+    "buffGroup": 0,
+    "type": 52,
+    "name": "Buster Up",
+    "detail": "Increase Buster Card effectiveness",
+    "iconId": 314,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1276,
+    "buffGroup": 0,
+    "type": 9,
+    "name": "ATK Up",
+    "detail": "Increase ATK",
+    "iconId": 300,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2328,
+      2325
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1277,
+    "buffGroup": 0,
+    "type": 89,
+    "name": "",
+    "detail": "",
+    "iconId": 333,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2328,
+      2325
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1278,
+    "buffGroup": 0,
+    "type": 89,
+    "name": "",
+    "detail": "",
+    "iconId": 333,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2325
+    ],
+    "tvals": [
+      5000,
+      4008,
+      4007,
+      4005,
+      4006
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4008,
+      4007,
+      4005,
+      4006
+    ],
+    "script": {},
+    "id": 1279,
+    "buffGroup": 0,
+    "type": 86,
+    "name": "",
+    "detail": "",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2325
+    ],
+    "tvals": [
+      5000,
+      4008,
+      4007,
+      4005,
+      4006
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4008,
+      4007,
+      4005,
+      4006
+    ],
+    "script": {},
+    "id": 1280,
+    "buffGroup": 0,
+    "type": 86,
+    "name": "",
+    "detail": "",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1281,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "Marking",
+    "detail": "When HP reaches 0, apply Target Focus on a single enemy & remove all Late Fee Payments of a single enemy [Demerit]",
+    "iconId": 543,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1282,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "Asset Seizure",
+    "detail": "When HP reaches 0, nullify Buff of a single enemy & remove all Late Fee Payments of a single enemy [Demerit]",
+    "iconId": 543,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      3004
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      3004
+    ],
+    "script": {},
+    "id": 1283,
+    "buffGroup": 1000,
+    "type": 31,
+    "name": "Nullify Buff",
+    "detail": "Unremovable",
+    "iconId": 531,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4007
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4007
+    ],
+    "script": {},
+    "id": 1284,
+    "buffGroup": 0,
+    "type": 86,
+    "name": "",
+    "detail": "",
+    "iconId": 543,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4003
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4003
+    ],
+    "script": {},
+    "id": 1285,
+    "buffGroup": 0,
+    "type": 86,
+    "name": "",
+    "detail": "",
+    "iconId": 543,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4001
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4001
+    ],
+    "script": {},
+    "id": 1286,
+    "buffGroup": 0,
+    "type": 86,
+    "name": "",
+    "detail": "",
+    "iconId": 543,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4002
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4002
+    ],
+    "script": {},
+    "id": 1287,
+    "buffGroup": 0,
+    "type": 86,
+    "name": "",
+    "detail": "",
+    "iconId": 543,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2325
+    ],
+    "tvals": [
+      4100
+    ],
+    "ckSelfIndv": [
+      4100
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1288,
+    "buffGroup": 0,
+    "type": 89,
+    "name": "",
+    "detail": "",
+    "iconId": 333,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2325
+    ],
+    "tvals": [
+      4100
+    ],
+    "ckSelfIndv": [
+      4100
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1289,
+    "buffGroup": 0,
+    "type": 89,
+    "name": "",
+    "detail": "",
+    "iconId": 333,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2329,
+      2325
+    ],
+    "tvals": [
+      5000,
+      4003
+    ],
+    "ckSelfIndv": [
+      4003
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1290,
+    "buffGroup": 0,
+    "type": 89,
+    "name": "",
+    "detail": "",
+    "iconId": 333,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2329,
+      2325
+    ],
+    "tvals": [
+      5000,
+      4003
+    ],
+    "ckSelfIndv": [
+      4003
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1291,
+    "buffGroup": 0,
+    "type": 89,
+    "name": "",
+    "detail": "",
+    "iconId": 333,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2330,
+      2325
+    ],
+    "tvals": [
+      5000,
+      4001
+    ],
+    "ckSelfIndv": [
+      4001
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1292,
+    "buffGroup": 0,
+    "type": 89,
+    "name": "",
+    "detail": "",
+    "iconId": 333,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2330,
+      2325
+    ],
+    "tvals": [
+      5000,
+      4001
+    ],
+    "ckSelfIndv": [
+      4001
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1293,
+    "buffGroup": 0,
+    "type": 89,
+    "name": "",
+    "detail": "",
+    "iconId": 333,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2331,
+      2325
+    ],
+    "tvals": [
+      5000,
+      4002
+    ],
+    "ckSelfIndv": [
+      4002
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1294,
+    "buffGroup": 0,
+    "type": 89,
+    "name": "",
+    "detail": "",
+    "iconId": 333,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2331,
+      2325
+    ],
+    "tvals": [
+      5000,
+      4002
+    ],
+    "ckSelfIndv": [
+      4002
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1295,
+    "buffGroup": 0,
+    "type": 89,
+    "name": "",
+    "detail": "",
+    "iconId": 333,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1296,
+    "buffGroup": 0,
+    "type": 9,
+    "name": "Do Not Impede My Snacking",
+    "detail": "Increase ATK & increase Critical Hit Rate & increase Critical Strength & increase Charge by 1 each turn",
+    "iconId": 300,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1297,
+    "buffGroup": 0,
+    "type": 70,
+    "name": "",
+    "detail": "",
+    "iconId": 327,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1298,
+    "buffGroup": 0,
+    "type": 18,
+    "name": "",
+    "detail": "",
+    "iconId": 324,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1299,
+    "buffGroup": 0,
+    "type": 114,
+    "name": "",
+    "detail": "",
+    "iconId": 319,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2333
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1300,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "",
+    "detail": "",
+    "iconId": 525,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4003
+    ],
+    "ckSelfIndv": [
+      4003
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1301,
+    "buffGroup": 0,
+    "type": 52,
+    "name": "Quick Up",
+    "detail": "Increase Quick Card effectiveness",
+    "iconId": 312,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4001
+    ],
+    "ckSelfIndv": [
+      4001
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1302,
+    "buffGroup": 0,
+    "type": 52,
+    "name": "Arts Up",
+    "detail": "Increase Arts Card effectiveness",
+    "iconId": 313,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4002
+    ],
+    "ckSelfIndv": [
+      4002
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1303,
+    "buffGroup": 0,
+    "type": 52,
+    "name": "Buster Up",
+    "detail": "Increase Buster Card effectiveness",
+    "iconId": 314,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1304,
+    "buffGroup": 0,
+    "type": 9,
+    "name": "ATK Up",
+    "detail": "Increase ATK",
+    "iconId": 300,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1305,
+    "buffGroup": 0,
+    "type": 42,
+    "name": "DEF Up",
+    "detail": "Increase DEF",
+    "iconId": 301,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1306,
+    "buffGroup": 0,
+    "type": 18,
+    "name": "Critical Up",
+    "detail": "Increase Critical Hit damage",
+    "iconId": 324,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1307,
+    "buffGroup": 0,
+    "type": 70,
+    "name": "Critical Hit Rate Up",
+    "detail": "Increase Critical Hit rate",
+    "iconId": 327,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1308,
+    "buffGroup": 0,
+    "type": 2,
+    "name": "C. Star Gather Up",
+    "detail": "Increase C. Star gather rate",
+    "iconId": 325,
+    "maxRate": 100000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1309,
+    "buffGroup": 0,
+    "type": 71,
+    "name": "Critical Hit Rate Down",
+    "detail": "Decrease Critical Hit rate",
+    "iconId": 523,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1310,
+    "buffGroup": 0,
+    "type": 61,
+    "name": "C. Star Gather Down",
+    "detail": "Decrease C. Star gather rate",
+    "iconId": 518,
+    "maxRate": 100000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005,
+      3025
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1311,
+    "buffGroup": 800,
+    "type": 33,
+    "name": "Skill Seal",
+    "detail": "Unable to use skills",
+    "iconId": 511,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005,
+      3014,
+      3045
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1312,
+    "buffGroup": 500,
+    "type": 32,
+    "name": "Stun",
+    "detail": "Unable to act",
+    "iconId": 501,
+    "maxRate": 0,
+    "effectId": 17120
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1313,
+    "buffGroup": 0,
+    "type": 7,
+    "name": "HP Recovery Per Turn",
+    "detail": "Recover HP at end of each turn",
+    "iconId": 318,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1314,
+    "buffGroup": 0,
+    "type": 6,
+    "name": "C. Star Gain Per Turn",
+    "detail": "Gain C. Stars at end of each turn",
+    "iconId": 320,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005,
+      3010,
+      3012
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1315,
+    "buffGroup": 501,
+    "type": 32,
+    "name": "Charm",
+    "detail": "Unable to act",
+    "iconId": 502,
+    "maxRate": 0,
+    "effectId": 17121
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1316,
+    "buffGroup": 0,
+    "type": 82,
+    "name": "Reduce Max HP",
+    "detail": "Decrease Max HP",
+    "iconId": 522,
+    "maxRate": 50000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1317,
+    "buffGroup": 0,
+    "type": 89,
+    "name": "Altereactor: Full Power",
+    "detail": "Remove Buffs of a single enemy during your normal attacks",
+    "iconId": 528,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2334
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1318,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "Snack Effect: Quick Up",
+    "detail": "When HP reaches 0, increase the Quick card effectiveness of whoever defeated you (5 turns)",
+    "iconId": 350,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2334
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1319,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "Snack Effect: Arts Up",
+    "detail": "When HP reaches 0, increase the Arts card effectiveness of whoever defeated you (5 turns)",
+    "iconId": 350,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2334
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1320,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "Snack Effect: Buster Up",
+    "detail": "When HP reaches 0, increase the Buster card effectiveness of whoever defeated you (5 turns)",
+    "iconId": 350,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2334
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1321,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "Snack Effect: NP Charge",
+    "detail": "When HP reaches 0, increase NP or Charge of whoever defeated you",
+    "iconId": 350,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2334
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1322,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "Snack Effect: ATK Up",
+    "detail": "When HP reaches 0, increase ATK of whoever defeated you (5 turns)",
+    "iconId": 350,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2334
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1323,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "Snack Effect: DEF Up",
+    "detail": "When HP reaches 0, increase DEF of whoever defeated you (5 turns)",
+    "iconId": 350,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2334
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1324,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "Snack Effect: Critical Up & HP Recovery",
+    "detail": "When HP reaches 0, increase Critical Strength (5 turns) & increase C. Star Gain per turn or increase Critical Rate (5 turns) & recover HP of whoever defeated you",
+    "iconId": 350,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2334
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1325,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "Snack Effect: Skill Seal",
+    "detail": "When HP reaches 0, inflict Skill Seal (2 turns) on whoever defeated you",
+    "iconId": 543,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2334
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1326,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "Snack Effect: Inflict Poison & NP Charge",
+    "detail": "When HP reaches 0, inflict Poison (5 turns) & increase NP or Charge to whoever defeated you",
+    "iconId": 543,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2334
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1327,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "Snack Effect: A Feeling of Bliss",
+    "detail": "When HP reaches 0, inflict Death on whoever defeated you, and decrease Critical Hit Rate (5 turns) if the Snack Meister defeated you",
+    "iconId": 543,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2334
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1328,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "Snack Effect: HP Recovery & Inflict Stun",
+    "detail": "When HP reaches 0, recover HP & inflict Stun (2 turns) to whoever defeated you",
+    "iconId": 543,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2334
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1329,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "Snack Effect: HP Recovery Each Turn & DEF Down",
+    "detail": "When HP reaches 0, apply HP recovery per turn (5 turns) & decrease DEF (5 turns) to whoever defeated you",
+    "iconId": 543,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2334
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1330,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "Snack Effect: Debuff Removal & Inflict Charm",
+    "detail": "When HP reaches 0, remove Debuffs & apply Charm (2 turns) to whoever defeated you",
+    "iconId": 543,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2334
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1331,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "Snack Effect: ATK Up & Inflict Burn",
+    "detail": "When HP reaches 0, increase ATK (5 turns) & inflict Burn (5 turns) to whoever defeated you",
+    "iconId": 350,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2334
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1332,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "Snack Effect: Packing Alternium",
+    "detail": "When HP reaches 0, decrease maximum HP of whoever defeated you, and apply Altereactor: Full Power \"remove Buffs of a single enemy during your normal attacks\" if defeated by the Snack Meister",
+    "iconId": 350,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1333,
+    "buffGroup": 0,
+    "type": 76,
+    "name": "Hunger Meter",
+    "detail": "After a certain number of turns, apply Out of Energy \"tremendously decrease HP per turn\" (Before this goes into effect, the number of snacks taken away decreases the number of turns to activate the effect)",
+    "iconId": 525,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1334,
+    "buffGroup": 0,
+    "type": 85,
+    "name": "Out of Energy",
+    "detail": "Tremendously decrease HP per turn",
+    "iconId": 537,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2351
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4007
+    ],
+    "script": {},
+    "id": 1340,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "",
+    "detail": "",
+    "iconId": 334,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1341,
+    "buffGroup": 450,
+    "type": 121,
+    "name": "",
+    "detail": "",
+    "iconId": 351,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      3006
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      3006
+    ],
+    "script": {},
+    "id": 1342,
+    "buffGroup": 0,
+    "type": 31,
+    "name": "",
+    "detail": "",
+    "iconId": 531,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1343,
+    "buffGroup": 0,
+    "type": 9,
+    "name": "",
+    "detail": "",
+    "iconId": 300,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "INDIVIDUALITIE": 600700
+    },
+    "id": 1344,
+    "buffGroup": 0,
+    "type": 85,
+    "name": "Obsession",
+    "detail": "Before your Noble Phantasm is activated and when you are on the field, add 1 Charge to all allies at the end of each turn",
+    "iconId": 343,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1345,
+    "buffGroup": 0,
+    "type": 65,
+    "name": "",
+    "detail": "",
+    "iconId": 527,
+    "maxRate": 50000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1346,
+    "buffGroup": 0,
+    "type": 70,
+    "name": "",
+    "detail": "",
+    "iconId": 327,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1347,
+    "buffGroup": 0,
+    "type": 19,
+    "name": "",
+    "detail": "",
+    "iconId": 514,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2351
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1348,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "Flower of the Stadium",
+    "detail": "Increase all allies' NP Damage Resist + When all allies' HP, excluding yours, reaches 0, activate Rose's Encore \"maximize the Bride of Babylon's NP Charge & increase NP Strength (1 time)\" when you are on the field",
+    "iconId": 334,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1349,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "Gunplay",
+    "detail": "Apply Ignore DEF to all allies when you are on the field",
+    "iconId": 351,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1350,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "City Redevelopment!",
+    "detail": "Apply Nullify ATK Buff to all enemies when you are on the field",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1351,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "The Gutsy Pirates",
+    "detail": "Apply \"As HP gets lower, ATK increases\" to all allies when you are on the field.",
+    "iconId": 300,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1352,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "Immortal-Killing Scythe",
+    "detail": "Decrease all enemies' HP Recovery Amount when you are on the field",
+    "iconId": 527,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1353,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "Use My Wealth!",
+    "detail": "Increase all allies' Critical Hit Rate + Decrease all enemies' Critical Strength when you are on the field",
+    "iconId": 327,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1354,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "",
+    "detail": "",
+    "iconId": 514,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2351,
+      2353
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1355,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "",
+    "detail": "",
+    "iconId": 350,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1356,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "Activate on Exit (Apply Sure Hit)",
+    "detail": "When HP reaches 0, apply Sure Hit (Permanent) to all allies (Including sub-members)",
+    "iconId": 350,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1357,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "Activate on Exit (Apply Guts)",
+    "detail": "When HP reaches 0, apply Guts (3 times) to all allies (Including sub-members)",
+    "iconId": 350,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1358,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "Activate on Exit (Remove DEF Buff)",
+    "detail": "When HP reaches 0, remove all enemies' DEF Buffs",
+    "iconId": 350,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1359,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "Activate on Exit (DEF Down & Decrease HP)",
+    "detail": "When HP reaches 0, decrease DEF (5 turns) & decrease HP of whoever defeated you",
+    "iconId": 350,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "INDIVIDUALITIE": 600710
+    },
+    "id": 1360,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "Activate on Exit (ATK Down)",
+    "detail": "After Noble Phantasm is used and when HP reaches 0, decrease all enemies' ATK (5 turns)",
+    "iconId": 350,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1361,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "Activate on Exit (Apply Stun)",
+    "detail": "When HP reaches 0, inflict Stun (3 turns) to whoever defeated you",
+    "iconId": 350,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1362,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "Activate on Exit (Recover 100% HP)",
+    "detail": "When HP reaches 0, recover all allies' HP by 100% + recover all enemies' HP by 100%",
+    "iconId": 350,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1363,
+    "buffGroup": 0,
+    "type": 10,
+    "name": "ATK Down",
+    "detail": "Decrease ATK",
+    "iconId": 503,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1364,
+    "buffGroup": 0,
+    "type": 89,
+    "name": "Activate when Attacking (Inflict Burn)",
+    "detail": "Inflict Burn (Permanent) to a single enemy during your normal attacks",
+    "iconId": 528,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1365,
+    "buffGroup": 0,
+    "type": 7,
+    "name": "HP Recovery Per Turn",
+    "detail": "Recover HP at end of each turn",
+    "iconId": 318,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1366,
+    "buffGroup": 0,
+    "type": 70,
+    "name": "Critical Hit Rate Up",
+    "detail": "Increase Critical Hit rate",
+    "iconId": 327,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4002
+    ],
+    "ckSelfIndv": [
+      4002
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1367,
+    "buffGroup": 0,
+    "type": 52,
+    "name": "Buster Up",
+    "detail": "Increase Buster Card effectiveness",
+    "iconId": 314,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1368,
+    "buffGroup": 0,
+    "type": 89,
+    "name": "Activate when Attacking (Nullify Buff)",
+    "detail": "Apply Nullify Buff (1 time) to a single enemy during your normal attacks",
+    "iconId": 528,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1369,
+    "buffGroup": 0,
+    "type": 9,
+    "name": "ATK Up",
+    "detail": "Increase ATK",
+    "iconId": 300,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1370,
+    "buffGroup": 0,
+    "type": 25,
+    "name": "Sure Hit",
+    "detail": "Ignore Evade and deal ATK damage",
+    "iconId": 309,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1371,
+    "buffGroup": 600,
+    "type": 104,
+    "name": "Guts",
+    "detail": "When HP reaches 0, recover HP and survive",
+    "iconId": 304,
+    "maxRate": 1000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "HP_LOWER": 0
+    },
+    "id": 1372,
+    "buffGroup": 0,
+    "type": 41,
+    "name": "",
+    "detail": "",
     "iconId": 520,
     "maxRate": 0,
     "effectId": 0

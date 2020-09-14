@@ -2930,6 +2930,16 @@
     "isDispValue": true
   },
   {
+    "funcId": 2606,
+    "eventId": 80116,
+    "baseFuncId": 0,
+    "nameTotal": "{1}\nTotal ATK Strength Up",
+    "name": "Increase ATK Strength",
+    "iconId": 302,
+    "priority": 1,
+    "isDispValue": true
+  },
+  {
     "funcId": 3028,
     "eventId": 0,
     "baseFuncId": 0,
@@ -2947,6 +2957,46 @@
     "name": "Increase Bond gained for all",
     "iconId": 1023,
     "priority": 1,
+    "isDispValue": true
+  },
+  {
+    "funcId": 4039,
+    "eventId": 80116,
+    "baseFuncId": 0,
+    "nameTotal": "{0}\nTotal Bonus Amount",
+    "name": "{0} acquired",
+    "iconId": 94029003,
+    "priority": 1000,
+    "isDispValue": true
+  },
+  {
+    "funcId": 4040,
+    "eventId": 80116,
+    "baseFuncId": 0,
+    "nameTotal": "{0}\nTotal Bonus Amount",
+    "name": "{0} acquired",
+    "iconId": 94029002,
+    "priority": 2000,
+    "isDispValue": true
+  },
+  {
+    "funcId": 4041,
+    "eventId": 80116,
+    "baseFuncId": 0,
+    "nameTotal": "{0}\nTotal Bonus Amount",
+    "name": "{0} acquired",
+    "iconId": 94029001,
+    "priority": 3000,
+    "isDispValue": true
+  },
+  {
+    "funcId": 4042,
+    "eventId": 80116,
+    "baseFuncId": 0,
+    "nameTotal": "{0}\nTotal Bonus Amount",
+    "name": "{0} acquired",
+    "iconId": 94029005,
+    "priority": 4000,
     "isDispValue": true
   },
   {
