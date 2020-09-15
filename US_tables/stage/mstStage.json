@@ -185724,6 +185724,34 @@
   },
   {
     "npcDeckIds": [
+      94029052,
+      1000
+    ],
+    "script": {
+      "aiFieldIds": [
+        {
+          "day": 0,
+          "id": 94029195
+        },
+        {
+          "day": 0,
+          "id": 94029200
+        },
+        {
+          "day": 0,
+          "id": 94029205
+        }
+      ]
+    },
+    "questId": 94029050,
+    "questPhase": 1,
+    "wave": 1,
+    "enemyInfo": 1,
+    "bgmId": 286,
+    "startEffectId": 2
+  },
+  {
+    "npcDeckIds": [
       94030602,
       1000
     ],

@@ -726,5 +726,13 @@
     "frequencyType": 3,
     "dialogMessage": "Please set the Support Servant as a Starting Member",
     "noticeMessage": "Support Servant cannot be set as a Sub Member"
+  },
+  {
+    "questId": 94029050,
+    "phase": 1,
+    "restrictionId": 94016101,
+    "frequencyType": 0,
+    "dialogMessage": "No Duplicate Servants",
+    "noticeMessage": "No Duplicate Servants"
   }
 ]
