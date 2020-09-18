@@ -4798,5 +4798,75 @@
     "iconId": 1010,
     "priority": 6000,
     "isDispValue": true
+  },
+  {
+    "funcId": 5785,
+    "eventId": 80301,
+    "baseFuncId": 0,
+    "nameTotal": "{1} \n攻撃の威力アップ合計",
+    "name": "攻撃の威力アップ合計",
+    "iconId": 302,
+    "priority": 1,
+    "isDispValue": true
+  },
+  {
+    "funcId": 5786,
+    "eventId": 80301,
+    "baseFuncId": 5785,
+    "nameTotal": "{1} \n攻撃の威力アップ合計",
+    "name": "攻撃の威力アップ合計",
+    "iconId": 302,
+    "priority": 1,
+    "isDispValue": true
+  },
+  {
+    "funcId": 5787,
+    "eventId": 80301,
+    "baseFuncId": 5785,
+    "nameTotal": "{1} \n攻撃の威力アップ合計",
+    "name": "攻撃の威力アップ合計",
+    "iconId": 302,
+    "priority": 1,
+    "isDispValue": true
+  },
+  {
+    "funcId": 5807,
+    "eventId": 80301,
+    "baseFuncId": 0,
+    "nameTotal": "{0}\n獲得数ボーナス合計",
+    "name": "{0}獲得数アップ",
+    "iconId": 94052601,
+    "priority": 1000,
+    "isDispValue": true
+  },
+  {
+    "funcId": 5808,
+    "eventId": 80301,
+    "baseFuncId": 0,
+    "nameTotal": "{0}\n獲得数ボーナス合計",
+    "name": "{0}獲得数アップ",
+    "iconId": 94052602,
+    "priority": 2000,
+    "isDispValue": true
+  },
+  {
+    "funcId": 5809,
+    "eventId": 80301,
+    "baseFuncId": 0,
+    "nameTotal": "{0}\n獲得数ボーナス合計",
+    "name": "{0}獲得数アップ",
+    "iconId": 94052603,
+    "priority": 3000,
+    "isDispValue": true
+  },
+  {
+    "funcId": 5810,
+    "eventId": 80301,
+    "baseFuncId": 0,
+    "nameTotal": "{0}\n獲得数ボーナス合計",
+    "name": "{0}獲得数アップ",
+    "iconId": 94052605,
+    "priority": 4000,
+    "isDispValue": true
   }
 ]

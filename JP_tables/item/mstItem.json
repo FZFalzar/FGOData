@@ -2052,6 +2052,28 @@
   {
     "individuality": [],
     "script": {
+      "effectId": 1
+    },
+    "eventId": 0,
+    "eventGroupId": 0,
+    "id": 7998,
+    "name": "聖杯の雫",
+    "detail": "【交換アイテム】\n聖杯から零れ落ちた\n魔力リソースのカケラ。",
+    "imageId": 7998,
+    "bgImageId": 3,
+    "type": 12,
+    "unit": "",
+    "value": 0,
+    "sellQp": 10000,
+    "isSell": true,
+    "priority": 399,
+    "dropPriority": 5500,
+    "startedAt": 1600419600,
+    "endedAt": 1910876400
+  },
+  {
+    "individuality": [],
+    "script": {
       "effectId": 2
     },
     "eventId": 0,
@@ -16575,5 +16597,115 @@
     "dropPriority": 2004,
     "startedAt": 1597654800,
     "endedAt": 1910876400
+  },
+  {
+    "individuality": [
+      10561
+    ],
+    "script": {},
+    "eventId": 0,
+    "eventGroupId": 0,
+    "id": 94052601,
+    "name": "スカサハコイン〔銅〕",
+    "detail": "【イベント収集アイテム】\n『影の国の舞闘会』\nで手に入れた、\nスカサハ先生のクールフェイスが\nあしらわれた古風な銅のコイン。",
+    "imageId": 94052601,
+    "bgImageId": 1,
+    "type": 15,
+    "unit": "",
+    "value": 0,
+    "sellQp": -1,
+    "isSell": false,
+    "priority": 94052601,
+    "dropPriority": 2001,
+    "startedAt": 1600419600,
+    "endedAt": 1602215999
+  },
+  {
+    "individuality": [
+      10562
+    ],
+    "script": {},
+    "eventId": 0,
+    "eventGroupId": 0,
+    "id": 94052602,
+    "name": "スカサハコイン〔銀〕",
+    "detail": "【イベント収集アイテム】\n『影の国の舞闘会』\nで手に入れた、\nスカサハ先生のクールフェイスが\nあしらわれた古風な銀のコイン。",
+    "imageId": 94052602,
+    "bgImageId": 2,
+    "type": 15,
+    "unit": "",
+    "value": 0,
+    "sellQp": -1,
+    "isSell": false,
+    "priority": 94052602,
+    "dropPriority": 2002,
+    "startedAt": 1600419600,
+    "endedAt": 1602215999
+  },
+  {
+    "individuality": [
+      10563
+    ],
+    "script": {},
+    "eventId": 0,
+    "eventGroupId": 0,
+    "id": 94052603,
+    "name": "スカサハコイン〔金〕",
+    "detail": "【イベント収集アイテム】\n『影の国の舞闘会』\nで手に入れた、\nスカサハ先生のクールフェイスが\nあしらわれた古風な金のコイン。",
+    "imageId": 94052603,
+    "bgImageId": 3,
+    "type": 15,
+    "unit": "",
+    "value": 0,
+    "sellQp": -1,
+    "isSell": false,
+    "priority": 94052603,
+    "dropPriority": 2003,
+    "startedAt": 1600419600,
+    "endedAt": 1602215999
+  },
+  {
+    "individuality": [
+      10564
+    ],
+    "script": {},
+    "eventId": 0,
+    "eventGroupId": 0,
+    "id": 94052604,
+    "name": "魔猪ぐるみ",
+    "detail": "【イベント収集アイテム】\n『影の国の舞闘会』\nで手に入れた、\n呪いの魔獣のぬいぐるみ。\n抱きかかえるのに丁度良いサイズ。",
+    "imageId": 94052604,
+    "bgImageId": 3,
+    "type": 15,
+    "unit": "",
+    "value": 0,
+    "sellQp": -1,
+    "isSell": false,
+    "priority": 94052604,
+    "dropPriority": 2004,
+    "startedAt": 1600419600,
+    "endedAt": 1602215999
+  },
+  {
+    "individuality": [
+      10565
+    ],
+    "script": {},
+    "eventId": 0,
+    "eventGroupId": 0,
+    "id": 94052605,
+    "name": "戦士の名札",
+    "detail": "【イベント収集アイテム】\n『影の国の舞闘会』\nで手に入れた、\n人知れぬ戦士の名札。",
+    "imageId": 94052605,
+    "bgImageId": 3,
+    "type": 15,
+    "unit": "",
+    "value": 0,
+    "sellQp": -1,
+    "isSell": false,
+    "priority": 94052605,
+    "dropPriority": 2005,
+    "startedAt": 1600419600,
+    "endedAt": 1602215999
   }
 ]

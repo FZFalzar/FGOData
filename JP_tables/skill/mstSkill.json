@@ -3668,7 +3668,9 @@
   {
     "effectList": [],
     "actIndividuality": [],
-    "script": {},
+    "script": {
+      "OverwriteMotion_301300": 1001
+    },
     "id": 123551,
     "type": 1,
     "name": "魔境の智慧 A+",
@@ -3680,7 +3682,9 @@
   {
     "effectList": [],
     "actIndividuality": [],
-    "script": {},
+    "script": {
+      "OverwriteMotion_301300": 1003
+    },
     "id": 124450,
     "type": 1,
     "name": "神殺し B",
@@ -3716,7 +3720,9 @@
   {
     "effectList": [],
     "actIndividuality": [],
-    "script": {},
+    "script": {
+      "OverwriteMotion_301300": 1002
+    },
     "id": 127000,
     "type": 1,
     "name": "原初のルーン",
@@ -3772,6 +3778,20 @@
     "maxLv": 10,
     "iconId": 601,
     "motion": 104
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {
+      "OverwriteMotion_301300": 1002
+    },
+    "id": 127025,
+    "type": 1,
+    "name": "原初のルーン",
+    "ruby": "げんしょのるーん",
+    "maxLv": 10,
+    "iconId": 304,
+    "motion": 102
   },
   {
     "effectList": [],
@@ -14492,6 +14512,66 @@
     "maxLv": 1,
     "iconId": 301,
     "motion": 102
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 940166,
+    "type": 2,
+    "name": "特訓サポーター EX",
+    "ruby": "とっくんさぽーたー",
+    "maxLv": 1,
+    "iconId": 301,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 940167,
+    "type": 2,
+    "name": "特訓サポーター A",
+    "ruby": "とっくんさぽーたー",
+    "maxLv": 1,
+    "iconId": 301,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 940168,
+    "type": 2,
+    "name": "特訓サポーター B",
+    "ruby": "とっくんさぽーたー",
+    "maxLv": 1,
+    "iconId": 301,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 940169,
+    "type": 2,
+    "name": "特訓サポーター C",
+    "ruby": "とっくんさぽーたー",
+    "maxLv": 1,
+    "iconId": 301,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 940170,
+    "type": 2,
+    "name": "特訓サポーター D",
+    "ruby": "とっくんさぽーたー",
+    "maxLv": 1,
+    "iconId": 301,
+    "motion": 101
   },
   {
     "effectList": [],
@@ -61707,6 +61787,30 @@
     "effectList": [],
     "actIndividuality": [],
     "script": {},
+    "id": 964746,
+    "type": 2,
+    "name": "",
+    "ruby": "-",
+    "maxLv": 1,
+    "iconId": 600,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 964747,
+    "type": 2,
+    "name": "",
+    "ruby": "-",
+    "maxLv": 1,
+    "iconId": 600,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
     "id": 980001,
     "type": 1,
     "name": "応急手当",
@@ -90321,6 +90425,270 @@
     "ruby": "",
     "maxLv": 1,
     "iconId": 600,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 992346,
+    "type": 2,
+    "name": "ミニクーちゃん",
+    "ruby": "ミニクーちゃん",
+    "maxLv": 1,
+    "iconId": 512,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 992347,
+    "type": 2,
+    "name": "二万里を征く鸚鵡貝",
+    "ruby": "にまんりをゆくおうむがい",
+    "maxLv": 1,
+    "iconId": 603,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 992348,
+    "type": 2,
+    "name": "みんなの少女ダ・ヴィンチちゃん",
+    "ruby": "みんなのしょうじょダ・ヴィンチちゃん",
+    "maxLv": 1,
+    "iconId": 302,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 992349,
+    "type": 2,
+    "name": "真紅の教槍",
+    "ruby": "-",
+    "maxLv": 1,
+    "iconId": 304,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 992350,
+    "type": 2,
+    "name": "真紅の教槍",
+    "ruby": "-",
+    "maxLv": 1,
+    "iconId": 304,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 992351,
+    "type": 2,
+    "name": "ヘルズキッチン",
+    "ruby": "-",
+    "maxLv": 1,
+    "iconId": 305,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 992352,
+    "type": 2,
+    "name": "ヘルズキッチン",
+    "ruby": "-",
+    "maxLv": 1,
+    "iconId": 305,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 992353,
+    "type": 2,
+    "name": "青き空の学び舎",
+    "ruby": "-",
+    "maxLv": 1,
+    "iconId": 605,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 992354,
+    "type": 2,
+    "name": "青き空の学び舎",
+    "ruby": "-",
+    "maxLv": 1,
+    "iconId": 605,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 992355,
+    "type": 2,
+    "name": "掲げるは我が心",
+    "ruby": "-",
+    "maxLv": 1,
+    "iconId": 404,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 992356,
+    "type": 2,
+    "name": "掲げるは我が心",
+    "ruby": "-",
+    "maxLv": 1,
+    "iconId": 404,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 992379,
+    "type": 2,
+    "name": "",
+    "ruby": "",
+    "maxLv": 1,
+    "iconId": 512,
+    "motion": 103
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 992380,
+    "type": 2,
+    "name": "",
+    "ruby": "",
+    "maxLv": 1,
+    "iconId": 603,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 992381,
+    "type": 2,
+    "name": "",
+    "ruby": "",
+    "maxLv": 1,
+    "iconId": 302,
+    "motion": 102
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 992382,
+    "type": 2,
+    "name": "スカサハコイン〔金〕のドロップ獲得数アップ",
+    "ruby": "-",
+    "maxLv": 1,
+    "iconId": 200,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 992383,
+    "type": 2,
+    "name": "スカサハコイン〔金〕のドロップ獲得数アップ",
+    "ruby": "-",
+    "maxLv": 1,
+    "iconId": 200,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 992384,
+    "type": 2,
+    "name": "スカサハコイン〔銀〕のドロップ獲得数アップ",
+    "ruby": "-",
+    "maxLv": 1,
+    "iconId": 200,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 992385,
+    "type": 2,
+    "name": "スカサハコイン〔銀〕のドロップ獲得数アップ",
+    "ruby": "-",
+    "maxLv": 1,
+    "iconId": 200,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 992386,
+    "type": 2,
+    "name": "スカサハコイン〔銅〕のドロップ獲得数アップ",
+    "ruby": "-",
+    "maxLv": 1,
+    "iconId": 200,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 992387,
+    "type": 2,
+    "name": "スカサハコイン〔銅〕のドロップ獲得数アップ",
+    "ruby": "-",
+    "maxLv": 1,
+    "iconId": 200,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 992388,
+    "type": 2,
+    "name": "戦士の名札のドロップ獲得数アップ",
+    "ruby": "-",
+    "maxLv": 1,
+    "iconId": 200,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 992389,
+    "type": 2,
+    "name": "戦士の名札のドロップ獲得数アップ",
+    "ruby": "-",
+    "maxLv": 1,
+    "iconId": 200,
     "motion": 101
   }
 ]

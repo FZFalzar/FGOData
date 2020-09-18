@@ -1128,5 +1128,91 @@
     "name": "編成条件あり",
     "type": 7,
     "rangeType": 1
+  },
+  {
+    "targetVals": [
+      100
+    ],
+    "id": 94052680,
+    "name": "セイバークラスのみ出撃可能",
+    "type": 1,
+    "rangeType": 1
+  },
+  {
+    "targetVals": [
+      102
+    ],
+    "id": 94052681,
+    "name": "アーチャークラスのみ出撃可能",
+    "type": 1,
+    "rangeType": 1
+  },
+  {
+    "targetVals": [
+      101
+    ],
+    "id": 94052682,
+    "name": "ランサークラスのみ出撃可能",
+    "type": 1,
+    "rangeType": 1
+  },
+  {
+    "targetVals": [
+      103
+    ],
+    "id": 94052683,
+    "name": "ライダークラスのみ出撃可能",
+    "type": 1,
+    "rangeType": 1
+  },
+  {
+    "targetVals": [
+      104
+    ],
+    "id": 94052684,
+    "name": "キャスタークラスのみ出撃可能",
+    "type": 1,
+    "rangeType": 1
+  },
+  {
+    "targetVals": [
+      105
+    ],
+    "id": 94052685,
+    "name": "アサシンクラスのみ出撃可能",
+    "type": 1,
+    "rangeType": 1
+  },
+  {
+    "targetVals": [
+      106
+    ],
+    "id": 94052686,
+    "name": "バーサーカークラスのみ出撃可能",
+    "type": 1,
+    "rangeType": 1
+  },
+  {
+    "targetVals": [
+      107,
+      108,
+      110,
+      117,
+      115,
+      109
+    ],
+    "id": 94052687,
+    "name": "エクストラクラスのみ出撃可能",
+    "type": 1,
+    "rangeType": 1
+  },
+  {
+    "targetVals": [
+      117
+    ],
+    "id": 94052688,
+    "name": "フォーリナークラスのみ出撃可能",
+    "type": 1,
+    "rangeType": 1
   }
 ]
