@@ -1000,6 +1000,353 @@
   },
   {
     "conditionIds": [
+      24
+    ],
+    "actionTypeIds": [],
+    "id": 165,
+    "viewPoint": 0,
+    "addType": 0,
+    "attackValue": 0,
+    "moveValue": 0
+  },
+  {
+    "conditionIds": [
+      1,
+      86,
+      84
+    ],
+    "actionTypeIds": [
+      1
+    ],
+    "id": 166,
+    "viewPoint": 0,
+    "addType": 0,
+    "attackValue": 1000,
+    "moveValue": 50
+  },
+  {
+    "conditionIds": [
+      1,
+      86,
+      85
+    ],
+    "actionTypeIds": [],
+    "id": 167,
+    "viewPoint": 0,
+    "addType": 0,
+    "attackValue": 600,
+    "moveValue": 1000
+  },
+  {
+    "conditionIds": [
+      1,
+      92,
+      84
+    ],
+    "actionTypeIds": [
+      1
+    ],
+    "id": 168,
+    "viewPoint": 0,
+    "addType": 0,
+    "attackValue": 1000,
+    "moveValue": 50
+  },
+  {
+    "conditionIds": [
+      1,
+      92,
+      85
+    ],
+    "actionTypeIds": [],
+    "id": 169,
+    "viewPoint": 0,
+    "addType": 0,
+    "attackValue": 600,
+    "moveValue": 1000
+  },
+  {
+    "conditionIds": [
+      78,
+      96,
+      29
+    ],
+    "actionTypeIds": [],
+    "id": 170,
+    "viewPoint": 0,
+    "addType": 0,
+    "attackValue": 100,
+    "moveValue": 400
+  },
+  {
+    "conditionIds": [
+      78,
+      96,
+      44
+    ],
+    "actionTypeIds": [],
+    "id": 171,
+    "viewPoint": 0,
+    "addType": 0,
+    "attackValue": 100,
+    "moveValue": 250
+  },
+  {
+    "conditionIds": [
+      79,
+      87,
+      29
+    ],
+    "actionTypeIds": [],
+    "id": 172,
+    "viewPoint": 0,
+    "addType": 0,
+    "attackValue": 100,
+    "moveValue": 900
+  },
+  {
+    "conditionIds": [
+      79,
+      87,
+      44
+    ],
+    "actionTypeIds": [],
+    "id": 173,
+    "viewPoint": 0,
+    "addType": 0,
+    "attackValue": 100,
+    "moveValue": 1000
+  },
+  {
+    "conditionIds": [
+      79,
+      97,
+      29
+    ],
+    "actionTypeIds": [],
+    "id": 174,
+    "viewPoint": 0,
+    "addType": 0,
+    "attackValue": 100,
+    "moveValue": 100
+  },
+  {
+    "conditionIds": [
+      86,
+      87
+    ],
+    "actionTypeIds": [],
+    "id": 175,
+    "viewPoint": 0,
+    "addType": 0,
+    "attackValue": 100,
+    "moveValue": 800
+  },
+  {
+    "conditionIds": [
+      86,
+      94
+    ],
+    "actionTypeIds": [],
+    "id": 176,
+    "viewPoint": 0,
+    "addType": 0,
+    "attackValue": 100,
+    "moveValue": 800
+  },
+  {
+    "conditionIds": [
+      86,
+      88
+    ],
+    "actionTypeIds": [],
+    "id": 177,
+    "viewPoint": 0,
+    "addType": 0,
+    "attackValue": 100,
+    "moveValue": -200
+  },
+  {
+    "conditionIds": [
+      92
+    ],
+    "actionTypeIds": [],
+    "id": 178,
+    "viewPoint": 0,
+    "addType": 0,
+    "attackValue": 100,
+    "moveValue": 100
+  },
+  {
+    "conditionIds": [
+      1,
+      89,
+      84
+    ],
+    "actionTypeIds": [
+      1
+    ],
+    "id": 179,
+    "viewPoint": 0,
+    "addType": 0,
+    "attackValue": 1000,
+    "moveValue": 50
+  },
+  {
+    "conditionIds": [
+      1,
+      89,
+      85
+    ],
+    "actionTypeIds": [],
+    "id": 180,
+    "viewPoint": 0,
+    "addType": 0,
+    "attackValue": 600,
+    "moveValue": 1000
+  },
+  {
+    "conditionIds": [
+      1,
+      93,
+      84
+    ],
+    "actionTypeIds": [
+      1
+    ],
+    "id": 181,
+    "viewPoint": 0,
+    "addType": 0,
+    "attackValue": 1000,
+    "moveValue": 50
+  },
+  {
+    "conditionIds": [
+      1,
+      93,
+      85
+    ],
+    "actionTypeIds": [],
+    "id": 182,
+    "viewPoint": 0,
+    "addType": 0,
+    "attackValue": 600,
+    "moveValue": 1000
+  },
+  {
+    "conditionIds": [
+      78,
+      98,
+      29
+    ],
+    "actionTypeIds": [],
+    "id": 183,
+    "viewPoint": 0,
+    "addType": 0,
+    "attackValue": 100,
+    "moveValue": 400
+  },
+  {
+    "conditionIds": [
+      78,
+      98,
+      44
+    ],
+    "actionTypeIds": [],
+    "id": 184,
+    "viewPoint": 0,
+    "addType": 0,
+    "attackValue": 100,
+    "moveValue": 250
+  },
+  {
+    "conditionIds": [
+      79,
+      90,
+      29
+    ],
+    "actionTypeIds": [],
+    "id": 185,
+    "viewPoint": 0,
+    "addType": 0,
+    "attackValue": 100,
+    "moveValue": 900
+  },
+  {
+    "conditionIds": [
+      79,
+      90,
+      44
+    ],
+    "actionTypeIds": [],
+    "id": 186,
+    "viewPoint": 0,
+    "addType": 0,
+    "attackValue": 100,
+    "moveValue": 1000
+  },
+  {
+    "conditionIds": [
+      79,
+      99,
+      29
+    ],
+    "actionTypeIds": [],
+    "id": 187,
+    "viewPoint": 0,
+    "addType": 0,
+    "attackValue": 100,
+    "moveValue": 100
+  },
+  {
+    "conditionIds": [
+      89,
+      90
+    ],
+    "actionTypeIds": [],
+    "id": 188,
+    "viewPoint": 0,
+    "addType": 0,
+    "attackValue": 100,
+    "moveValue": 800
+  },
+  {
+    "conditionIds": [
+      89,
+      95
+    ],
+    "actionTypeIds": [],
+    "id": 189,
+    "viewPoint": 0,
+    "addType": 0,
+    "attackValue": 100,
+    "moveValue": 800
+  },
+  {
+    "conditionIds": [
+      89,
+      91
+    ],
+    "actionTypeIds": [],
+    "id": 190,
+    "viewPoint": 0,
+    "addType": 0,
+    "attackValue": 100,
+    "moveValue": -200
+  },
+  {
+    "conditionIds": [
+      93
+    ],
+    "actionTypeIds": [],
+    "id": 191,
+    "viewPoint": 0,
+    "addType": 0,
+    "attackValue": 100,
+    "moveValue": 100
+  },
+  {
+    "conditionIds": [
       1,
       84
     ],
