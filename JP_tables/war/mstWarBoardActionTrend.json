@@ -1001,6 +1001,64 @@
   {
     "conditionIds": [
       1,
+      24,
+      84
+    ],
+    "actionTypeIds": [
+      1
+    ],
+    "id": 160,
+    "viewPoint": 0,
+    "addType": 0,
+    "attackValue": 200,
+    "moveValue": 50
+  },
+  {
+    "conditionIds": [
+      1,
+      24,
+      85
+    ],
+    "actionTypeIds": [],
+    "id": 161,
+    "viewPoint": 0,
+    "addType": 0,
+    "attackValue": 100,
+    "moveValue": 200
+  },
+  {
+    "conditionIds": [
+      1,
+      25,
+      84
+    ],
+    "actionTypeIds": [
+      1
+    ],
+    "id": 162,
+    "viewPoint": 0,
+    "addType": 0,
+    "attackValue": 200,
+    "moveValue": 50
+  },
+  {
+    "conditionIds": [
+      1,
+      25,
+      85
+    ],
+    "actionTypeIds": [
+      1
+    ],
+    "id": 163,
+    "viewPoint": 0,
+    "addType": 0,
+    "attackValue": 200,
+    "moveValue": 50
+  },
+  {
+    "conditionIds": [
+      1,
       25,
       85
     ],
