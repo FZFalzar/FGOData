@@ -59223,6 +59223,139 @@
   },
   {
     "targetIds": [
+      2001513,
+      2001514,
+      2001515,
+      2001516,
+      2001517,
+      2001518
+    ],
+    "missionId": 2001512,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001703,
+    "missionTargetId": 100219,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 6,
+    "conditionMessage": "今週のマスターミッションをすべてクリアせよ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001159
+    ],
+    "missionId": 2001513,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001704,
+    "missionTargetId": 100219,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 20,
+    "conditionMessage": "敵を20体倒せ(サーヴァント及び一部ボスなどは除く)",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001513
+    ],
+    "missionId": 2001514,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 2001705,
+    "missionTargetId": 100219,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 1,
+    "conditionMessage": "敵を40体倒せ(サーヴァント及び一部ボスなどは除く)",
+    "closedMessage": "",
+    "flag": 64
+  },
+  {
+    "targetIds": [
+      2001159
+    ],
+    "missionId": 2001514,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001706,
+    "missionTargetId": 100219,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 40,
+    "conditionMessage": "敵を40体倒せ(サーヴァント及び一部ボスなどは除く)",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001160
+    ],
+    "missionId": 2001515,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001707,
+    "missionTargetId": 100219,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "『魔性』特性を持つ敵を15体倒せ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001161
+    ],
+    "missionId": 2001516,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001708,
+    "missionTargetId": 100219,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "『男性』特性を持つ敵を15体倒せ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001162
+    ],
+    "missionId": 2001517,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001709,
+    "missionTargetId": 100219,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "『女性』特性を持つ敵を15体倒せ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001163
+    ],
+    "missionId": 2001518,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001710,
+    "missionTargetId": 100219,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "『人型』特性を持つ敵を15体倒せ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
       3000001
     ],
     "missionId": 30000001,
