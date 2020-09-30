@@ -14688,7 +14688,8 @@
       94026512,
       94026513,
       94026514,
-      94030601
+      94030601,
+      94030001
     ],
     "missionId": 10015,
     "missionProgressType": 4,
@@ -14805,7 +14806,8 @@
       94026512,
       94026513,
       94026514,
-      94030601
+      94030601,
+      94030001
     ],
     "missionId": 10016,
     "missionProgressType": 4,
@@ -14922,7 +14924,8 @@
       94026512,
       94026513,
       94026514,
-      94030601
+      94030601,
+      94030001
     ],
     "missionId": 10017,
     "missionProgressType": 4,
@@ -15039,7 +15042,8 @@
       94026512,
       94026513,
       94026514,
-      94030601
+      94030601,
+      94030001
     ],
     "missionId": 10018,
     "missionProgressType": 4,
@@ -15156,7 +15160,8 @@
       94026512,
       94026513,
       94026514,
-      94030601
+      94030601,
+      94030001
     ],
     "missionId": 10019,
     "missionProgressType": 4,
@@ -15273,7 +15278,8 @@
       94026512,
       94026513,
       94026514,
-      94030601
+      94030601,
+      94030001
     ],
     "missionId": 10020,
     "missionProgressType": 4,
@@ -15390,7 +15396,8 @@
       94026512,
       94026513,
       94026514,
-      94030601
+      94030601,
+      94030001
     ],
     "missionId": 10021,
     "missionProgressType": 4,
@@ -15507,7 +15514,8 @@
       94026512,
       94026513,
       94026514,
-      94030601
+      94030601,
+      94030001
     ],
     "missionId": 10022,
     "missionProgressType": 4,
@@ -43618,7 +43626,7 @@
     "condGroup": 1,
     "condType": 1,
     "targetNum": 1,
-    "conditionMessage": "Complete \"Soldiers' Corridor\"\n",
+    "conditionMessage": "Complete \"Soldiers' Corridor\"",
     "closedMessage": "",
     "flag": 0
   },
@@ -44098,7 +44106,7 @@
     "condGroup": 1,
     "condType": 22,
     "targetNum": 20,
-    "conditionMessage": "Defeat 20 Metal Pumpkin Skeletons\nCompleting this mission will unlock \"Food Storehouse\"",
+    "conditionMessage": "Defeat 20 Metal Pumpkin Skeletons\nCompleting this mission will unlock \"Larder\"",
     "closedMessage": "",
     "flag": 0
   },
@@ -59093,6 +59101,4837 @@
     "condType": 1,
     "targetNum": 1,
     "conditionMessage": "Find the Earth Iri",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94029602
+    ],
+    "missionId": 80118001,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118001,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "Complete \"Section 2: A Fortissimo Start\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118026
+    ],
+    "missionId": 80118002,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118002,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94029624
+    ],
+    "missionId": 80118002,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118003,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "Complete \"Prayer Room\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94029605
+    ],
+    "missionId": 80118003,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118006,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94029606
+    ],
+    "missionId": 80118003,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118007,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "Complete \"Section 6: Mecha Eli-chan Strikes Back\" ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94029604
+    ],
+    "missionId": 80118004,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118004,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94029627
+    ],
+    "missionId": 80118004,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118005,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "Complete \"Soldiers' Corridor\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80118005,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80118008,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1601697600,
+    "conditionMessage": "???\n* Unlocks after 10/2 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118065
+    ],
+    "missionId": 80118005,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118009,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94029636
+    ],
+    "missionId": 80118005,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118010,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "Complete \"Ventilation Shaft\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80118006,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80118017,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1601697600,
+    "conditionMessage": "???\n* Unlocks after 10/2 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94029614
+    ],
+    "missionId": 80118006,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118018,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94029615
+    ],
+    "missionId": 80118006,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118019,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "Complete \"Section 15: Final Explosion Coaster\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80118007,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80118020,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1601697600,
+    "conditionMessage": "???\n* Unlocks after 10/2 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94029615
+    ],
+    "missionId": 80118007,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118021,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94029647
+    ],
+    "missionId": 80118007,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118022,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "Find the Old Well",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94029624
+    ],
+    "missionId": 80118008,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118023,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118001
+    ],
+    "missionId": 80118008,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118024,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 25,
+    "conditionMessage": "Defeat 25 [Pumpkin] enemies\nCompleting this mission will unlock Section 4",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118008
+    ],
+    "missionId": 80118009,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118025,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118001
+    ],
+    "missionId": 80118009,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118026,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 60,
+    "conditionMessage": "Defeat 60 [Pumpkin] enemies",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118009
+    ],
+    "missionId": 80118010,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118027,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118001
+    ],
+    "missionId": 80118010,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118028,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 120,
+    "conditionMessage": "Defeat 120 [Pumpkin] enemies",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118010
+    ],
+    "missionId": 80118011,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118029,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118001
+    ],
+    "missionId": 80118011,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118030,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 220,
+    "conditionMessage": "Defeat 220 [Pumpkin] enemies",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80118012,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80118031,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1601697600,
+    "conditionMessage": "???\n* Unlocks after 10/2 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94029607
+    ],
+    "missionId": 80118012,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118032,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118002
+    ],
+    "missionId": 80118012,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118033,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 30,
+    "conditionMessage": "Defeat 30 [Mech] enemies\nCompleting this mission will unlock Section 8",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80118013,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80118034,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1601697600,
+    "conditionMessage": "???\n* Unlocks after 10/2 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118012
+    ],
+    "missionId": 80118013,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118035,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118002
+    ],
+    "missionId": 80118013,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118036,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 60,
+    "conditionMessage": "Defeat 60 [Mech] enemies",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80118014,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80118037,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1601697600,
+    "conditionMessage": "???\n* Unlocks after 10/2 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118013
+    ],
+    "missionId": 80118014,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118038,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118002
+    ],
+    "missionId": 80118014,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118039,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 120,
+    "conditionMessage": "Defeat 120 [Mech] enemies",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80118015,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80118040,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1601697600,
+    "conditionMessage": "???\n* Unlocks after 10/2 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94029612
+    ],
+    "missionId": 80118015,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118041,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118002
+    ],
+    "missionId": 80118015,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118042,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 280,
+    "conditionMessage": "Defeat 280 [Mech] enemies\nCompleting this mission will unlock Section 13",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94029624
+    ],
+    "missionId": 80118016,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118043,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118003
+    ],
+    "missionId": 80118016,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118044,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 20,
+    "conditionMessage": "Defeat 20 Pumpkin Skeletons",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94029605
+    ],
+    "missionId": 80118017,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118045,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118003
+    ],
+    "missionId": 80118017,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118046,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 60,
+    "conditionMessage": "Defeat 60 Pumpkin Skeletons\nCompleting this mission will unlock \"Ambush Point\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118017
+    ],
+    "missionId": 80118018,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118047,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118003
+    ],
+    "missionId": 80118018,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118048,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 120,
+    "conditionMessage": "Defeat 120 Pumpkin Skeletons",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80118019,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80118049,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1601697600,
+    "conditionMessage": "???\n* Unlocks after 10/2 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94029607
+    ],
+    "missionId": 80118019,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118050,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118004
+    ],
+    "missionId": 80118019,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118051,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 20,
+    "conditionMessage": "Defeat 20 Metal Pumpkin Skeletons\nCompleting this mission will unlock \"Larder\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80118020,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80118052,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1601697600,
+    "conditionMessage": "???\n* Unlocks after 10/2 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118019
+    ],
+    "missionId": 80118020,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118053,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118004
+    ],
+    "missionId": 80118020,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118054,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 80,
+    "conditionMessage": "Defeat 80 Metal Pumpkin Skeletons",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118001
+    ],
+    "missionId": 80118021,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118055,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118005
+    ],
+    "missionId": 80118021,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118056,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 6,
+    "conditionMessage": "Defeat 6 Pumpkin Knights\nCompleting this mission will unlock Section 3",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118021
+    ],
+    "missionId": 80118022,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118057,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118005
+    ],
+    "missionId": 80118022,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118058,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 60,
+    "conditionMessage": "Defeat 60 Pumpkin Knights",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80118023,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80118059,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1601697600,
+    "conditionMessage": "???\n* Unlocks after 10/2 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94029615
+    ],
+    "missionId": 80118023,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118060,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118005
+    ],
+    "missionId": 80118023,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118061,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 120,
+    "conditionMessage": "Defeat 120 Pumpkin Knights\nCompleting this mission will unlock \"Left Shachi\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80118024,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80118062,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1601697600,
+    "conditionMessage": "???\n* Unlocks after 10/2 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94029639
+    ],
+    "missionId": 80118024,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118063,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118006
+    ],
+    "missionId": 80118024,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118064,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 45,
+    "conditionMessage": "Defeat 45 Metal Pumpkin Knights\nCompleting this mission will unlock Section 10",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80118025,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80118065,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1601697600,
+    "conditionMessage": "???\n* Unlocks after 10/2 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118024
+    ],
+    "missionId": 80118025,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118066,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118006
+    ],
+    "missionId": 80118025,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118067,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 80,
+    "conditionMessage": "Defeat 80 Metal Pumpkin Knights",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94029603
+    ],
+    "missionId": 80118026,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118068,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118007
+    ],
+    "missionId": 80118026,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118069,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 8,
+    "conditionMessage": "Defeat 8 Scarecrows\nCompleting this mission will unlock \"Prayer Room\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118026
+    ],
+    "missionId": 80118027,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118070,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118007
+    ],
+    "missionId": 80118027,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118071,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 60,
+    "conditionMessage": "Defeat 60 Scarecrows",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118027
+    ],
+    "missionId": 80118028,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118072,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118007
+    ],
+    "missionId": 80118028,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118073,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 120,
+    "conditionMessage": "Defeat 120 Scarecrows",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80118029,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80118074,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1601697600,
+    "conditionMessage": "???\n* Unlocks after 10/2 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94029638
+    ],
+    "missionId": 80118029,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118075,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118008
+    ],
+    "missionId": 80118029,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118076,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 40,
+    "conditionMessage": "Defeat 40 Metal Scarecrows",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80118030,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80118077,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1601697600,
+    "conditionMessage": "???\n* Unlocks after 10/2 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118029
+    ],
+    "missionId": 80118030,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118078,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118008
+    ],
+    "missionId": 80118030,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118079,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 80,
+    "conditionMessage": "Defeat 80 Metal Scarecrows",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80118031,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80118080,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1601697600,
+    "conditionMessage": "???\n* Unlocks after 10/2 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94029636
+    ],
+    "missionId": 80118031,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118081,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118009
+    ],
+    "missionId": 80118031,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118082,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 25,
+    "conditionMessage": "Defeat 25 [Drone] enemies\nCompleting this mission will unlock Section 9",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80118032,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80118083,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1601697600,
+    "conditionMessage": "???\n* Unlocks after 10/2 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118031
+    ],
+    "missionId": 80118032,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118084,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118009
+    ],
+    "missionId": 80118032,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118085,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 50,
+    "conditionMessage": "Defeat 50 [Drone] enemies",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80118033,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80118086,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1601697600,
+    "conditionMessage": "???\n* Unlocks after 10/2 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118032
+    ],
+    "missionId": 80118033,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118087,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118009
+    ],
+    "missionId": 80118033,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118088,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 100,
+    "conditionMessage": "Defeat 100 [Drone] enemies",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94029627
+    ],
+    "missionId": 80118034,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118089,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118010
+    ],
+    "missionId": 80118034,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118090,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 20,
+    "conditionMessage": "Defeat 20 [Homunculus] enemies\nCompleting this mission will unlock Section 5",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118034
+    ],
+    "missionId": 80118035,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118091,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118010
+    ],
+    "missionId": 80118035,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118092,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 50,
+    "conditionMessage": "Defeat 50 [Homunculus] enemies",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118035
+    ],
+    "missionId": 80118036,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118093,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118010
+    ],
+    "missionId": 80118036,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118094,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 80,
+    "conditionMessage": "Defeat 80 [Homunculus] enemies",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80118037,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80118095,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1601697600,
+    "conditionMessage": "???\n* Unlocks after 10/2 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94029638
+    ],
+    "missionId": 80118037,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118096,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118011
+    ],
+    "missionId": 80118037,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118097,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 30,
+    "conditionMessage": "Defeat 30 [Automata] enemies\nCompleting this mission will unlock \"Lookout Post\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80118038,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80118098,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1601697600,
+    "conditionMessage": "???\n* Unlocks after 10/2 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118037
+    ],
+    "missionId": 80118038,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118099,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118011
+    ],
+    "missionId": 80118038,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118100,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 50,
+    "conditionMessage": "Defeat 50 [Automata] enemies",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80118039,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80118101,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1601697600,
+    "conditionMessage": "???\n* Unlocks after 10/2 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118038
+    ],
+    "missionId": 80118039,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118102,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118011
+    ],
+    "missionId": 80118039,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118103,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 80,
+    "conditionMessage": "Defeat 80 [Automata] enemies",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80118040,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80118104,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1601697600,
+    "conditionMessage": "???\n* Unlocks after 10/2 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94029636
+    ],
+    "missionId": 80118040,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118105,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118012
+    ],
+    "missionId": 80118040,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118106,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 10,
+    "conditionMessage": "Defeat 10 Pumpkin Gazers",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80118041,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80118107,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1601697600,
+    "conditionMessage": "???\n* Unlocks after 10/2 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94029615
+    ],
+    "missionId": 80118041,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118108,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118012
+    ],
+    "missionId": 80118041,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118109,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 20,
+    "conditionMessage": "Defeat 20 Pumpkin Gazers\nCompleting this mission will unlock \"Burial Chamber\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80118042,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80118110,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1601697600,
+    "conditionMessage": "???\n* Unlocks after 10/2 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118077
+    ],
+    "missionId": 80118042,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118111,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118013
+    ],
+    "missionId": 80118042,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118112,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 30,
+    "conditionMessage": "Defeat 30 Mass Production Mk.IIs",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80118043,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80118113,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1601697600,
+    "conditionMessage": "???\n* Unlocks after 10/2 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118042
+    ],
+    "missionId": 80118043,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118114,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118013
+    ],
+    "missionId": 80118043,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118115,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 60,
+    "conditionMessage": "Defeat 60 Mass Production Mk.IIs",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94029627
+    ],
+    "missionId": 80118044,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118116,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118014
+    ],
+    "missionId": 80118044,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118117,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 50,
+    "conditionMessage": "Defeat 50 \"Demonic\" enemies\nCompleting this mission will unlock \"Double Doors\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118044
+    ],
+    "missionId": 80118045,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118118,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118014
+    ],
+    "missionId": 80118045,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118119,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 100,
+    "conditionMessage": "Defeat 100 \"Demonic\" enemies",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80118046,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80118120,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1601697600,
+    "conditionMessage": "???\n* Unlocks after 10/2 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94029615
+    ],
+    "missionId": 80118046,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118121,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118015
+    ],
+    "missionId": 80118046,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118122,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 10,
+    "conditionMessage": "Defeat 10 \"Super Giant\" enemies",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80118047,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80118011,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1601697600,
+    "conditionMessage": "???\n* Unlocks after 10/2 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118059
+    ],
+    "missionId": 80118047,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118012,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94029638
+    ],
+    "missionId": 80118047,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118013,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "Complete \"Stone Drop Window\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80118048,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80118123,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1601697600,
+    "conditionMessage": "???\n* Unlocks after 10/2 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118046
+    ],
+    "missionId": 80118048,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118124,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118015
+    ],
+    "missionId": 80118048,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118125,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 20,
+    "conditionMessage": "Defeat 20 \"Super Giant\" enemies\nCompleting this mission will unlock \"Great Chidori Gable\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80118049,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80118126,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1601697600,
+    "conditionMessage": "???\n* Unlocks after 10/2 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94029608
+    ],
+    "missionId": 80118049,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118127,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118016
+    ],
+    "missionId": 80118049,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118128,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 10,
+    "conditionMessage": "Defeat 10 Archer-class Servants",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80118050,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80118129,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1601697600,
+    "conditionMessage": "???\n* Unlocks after 10/2 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118049
+    ],
+    "missionId": 80118050,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118130,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118016
+    ],
+    "missionId": 80118050,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118131,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "Defeat 15 Archer-class Servants",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80118051,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80118132,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1601697600,
+    "conditionMessage": "???\n* Unlocks after 10/2 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118050
+    ],
+    "missionId": 80118051,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118133,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118016
+    ],
+    "missionId": 80118051,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118134,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 20,
+    "conditionMessage": "Defeat 20 Archer-class Servants",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80118052,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80118135,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1601697600,
+    "conditionMessage": "???\n* Unlocks after 10/2 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94029636
+    ],
+    "missionId": 80118052,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118136,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118017
+    ],
+    "missionId": 80118052,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118137,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 10,
+    "conditionMessage": "Defeat 10 Rider-class Servants\nCompleting this mission will unlock \"Hidden Corridor\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80118053,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80118138,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1601697600,
+    "conditionMessage": "???\n* Unlocks after 10/2 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118052
+    ],
+    "missionId": 80118053,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118139,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118017
+    ],
+    "missionId": 80118053,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118140,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "Defeat 15 Rider-class Servants",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80118054,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80118141,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1601697600,
+    "conditionMessage": "???\n* Unlocks after 10/2 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94029615
+    ],
+    "missionId": 80118054,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118142,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118017
+    ],
+    "missionId": 80118054,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118143,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 20,
+    "conditionMessage": "Defeat 20 Rider-class Servants\nCompleting this mission will unlock \"Gable Room\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94029605
+    ],
+    "missionId": 80118055,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118144,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118018
+    ],
+    "missionId": 80118055,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118145,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 10,
+    "conditionMessage": "Defeat 10 Berserker-class Servants\nCompleting this mission will unlock \"High Windows\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118055
+    ],
+    "missionId": 80118056,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118146,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118018
+    ],
+    "missionId": 80118056,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118147,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "Defeat 15 Berserker-class Servants",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118056
+    ],
+    "missionId": 80118057,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118148,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118018
+    ],
+    "missionId": 80118057,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118149,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 20,
+    "conditionMessage": "Defeat 20 Berserker-class Servants",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80118058,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80118150,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1601697600,
+    "conditionMessage": "???\n* Unlocks after 10/2 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94029607
+    ],
+    "missionId": 80118058,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118151,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118019
+    ],
+    "missionId": 80118058,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118152,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 10,
+    "conditionMessage": "Defeat 10 \"Divine\" Servants",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80118059,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80118153,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1601697600,
+    "conditionMessage": "???\n* Unlocks after 10/2 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94029609
+    ],
+    "missionId": 80118059,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118154,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118019
+    ],
+    "missionId": 80118059,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118155,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "Defeat 15 \"Divine\" Servants\nCompleting this mission will unlock \"Stone Drop Window\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80118060,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80118156,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1601697600,
+    "conditionMessage": "???\n* Unlocks after 10/2 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118059
+    ],
+    "missionId": 80118060,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118157,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118019
+    ],
+    "missionId": 80118060,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118158,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 20,
+    "conditionMessage": "Defeat 20 \"Divine\" Servants",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94029627
+    ],
+    "missionId": 80118061,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118159,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118020
+    ],
+    "missionId": 80118061,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118160,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 10,
+    "conditionMessage": "Defeat 10 \"Chaotic\" Servants\nCompleting this mission will unlock \"Armory\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118061
+    ],
+    "missionId": 80118062,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118161,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118020
+    ],
+    "missionId": 80118062,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118162,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "Defeat 15 \"Chaotic\" Servants",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80118063,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80118163,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1601697600,
+    "conditionMessage": "???\n* Unlocks after 10/2 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94029615
+    ],
+    "missionId": 80118063,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118164,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118020
+    ],
+    "missionId": 80118063,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118165,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 20,
+    "conditionMessage": "Defeat 20 \"Chaotic\" Servants\nCompleting this mission will unlock \"Right Shachi\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94029633
+    ],
+    "missionId": 80118064,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118166,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118021
+    ],
+    "missionId": 80118064,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118167,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 10,
+    "conditionMessage": "Defeat 10 \"Evil\" Servants",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80118065,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80118168,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1601697600,
+    "conditionMessage": "???\n* Unlocks after 10/2 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94029608
+    ],
+    "missionId": 80118065,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118169,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118021
+    ],
+    "missionId": 80118065,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118170,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "Defeat 15 \"Evil\" Servants\nCompleting this mission will unlock \"Ventilation Shaft\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80118066,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80118171,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1601697600,
+    "conditionMessage": "???\n* Unlocks after 10/2 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118065
+    ],
+    "missionId": 80118066,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118172,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118021
+    ],
+    "missionId": 80118066,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118173,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 20,
+    "conditionMessage": "Defeat 20 \"Evil\" Servants",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94029605
+    ],
+    "missionId": 80118067,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118174,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118022
+    ],
+    "missionId": 80118067,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118175,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 10,
+    "conditionMessage": "Defeat 10 \"Lawful\" Servants",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118067
+    ],
+    "missionId": 80118068,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118176,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118022
+    ],
+    "missionId": 80118068,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118177,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "Defeat 15 \"Lawful\" Servants",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118068
+    ],
+    "missionId": 80118069,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118178,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118022
+    ],
+    "missionId": 80118069,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118179,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 20,
+    "conditionMessage": "Defeat 20 \"Lawful\" Servants",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94029605
+    ],
+    "missionId": 80118070,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118180,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118023
+    ],
+    "missionId": 80118070,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118181,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 10,
+    "conditionMessage": "Defeat 10 \"Japanese\" Servants",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80118071,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80118182,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1601697600,
+    "conditionMessage": "???\n* Unlocks after 10/2 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94029638
+    ],
+    "missionId": 80118071,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118183,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118024
+    ],
+    "missionId": 80118071,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118184,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 10,
+    "conditionMessage": "Defeat 10 Servants who are 170cm or Taller",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94029605
+    ],
+    "missionId": 80118072,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118185,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118025
+    ],
+    "missionId": 80118072,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118186,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 10,
+    "conditionMessage": "Defeat 10 Servants with \"AGL A or Higher\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80118073,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80118187,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1601697600,
+    "conditionMessage": "???\n* Unlocks after 10/2 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94029609
+    ],
+    "missionId": 80118073,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118188,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118026
+    ],
+    "missionId": 80118073,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118189,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 10,
+    "conditionMessage": "Defeat 10 Servants with \"MP A or Higher\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118001
+    ],
+    "missionId": 80118074,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118190,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94029602,
+      94029603,
+      94029607,
+      94029608,
+      94029635,
+      94029621,
+      94029622,
+      94029640,
+      94029634
+    ],
+    "missionId": 80118074,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118191,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 25,
+    "targetNum": 10,
+    "conditionMessage": "Complete Quests in Castle Csejte 10 times\nCompleting this mission will unlock \"Watchtower\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94029625
+    ],
+    "missionId": 80118075,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118192,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94029604,
+      94029609,
+      94029623,
+      94029624,
+      94029626,
+      94029625,
+      94029636,
+      94029637,
+      94029641
+    ],
+    "missionId": 80118075,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118193,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 25,
+    "targetNum": 10,
+    "conditionMessage": "Complete Quests in the Pyramid 10 times\nCompleting this mission will unlock \"Great Corridor\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94029605
+    ],
+    "missionId": 80118076,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118194,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94029605,
+      94029606,
+      94029610,
+      94029611,
+      94029612,
+      94029627,
+      94029628,
+      94029629,
+      94029631,
+      94029630,
+      94029632,
+      94029644,
+      94029633,
+      94029645,
+      94029638,
+      94029639,
+      94029642,
+      94029643
+    ],
+    "missionId": 80118076,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118195,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 25,
+    "targetNum": 10,
+    "conditionMessage": "Complete Quests in Himeji Castle 10 times\nCompleting this mission will unlock \"Great West Pillar\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80118077,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80118196,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1601697600,
+    "conditionMessage": "???\n* Unlocks after 10/2 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94029615
+    ],
+    "missionId": 80118077,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118197,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94029622,
+      94029640,
+      94029624,
+      94029626,
+      94029637,
+      94029629,
+      94029638,
+      94029631,
+      94029643,
+      94029633,
+      94029645
+    ],
+    "missionId": 80118077,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118198,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 11,
+    "conditionMessage": "Complete all Quests on the right side of Csejte Pyramid Himeji Castle\nCompleting this mission will unlock \"Underground Factory\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80118078,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80118199,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1601697600,
+    "conditionMessage": "???\n* Unlocks after 10/2 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94029615
+    ],
+    "missionId": 80118078,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118200,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94029603,
+      94029604,
+      94029605,
+      94029606,
+      94029607,
+      94029608,
+      94029609,
+      94029610,
+      94029611,
+      94029612,
+      94029641,
+      94029628,
+      94029634,
+      94029602
+    ],
+    "missionId": 80118078,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118201,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 14,
+    "conditionMessage": "Complete all Quests in the center of Csejte Pyramid Himeji Castle",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80118079,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80118202,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1601697600,
+    "conditionMessage": "???\n* Unlocks after 10/2 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94029615
+    ],
+    "missionId": 80118079,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118203,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94029635,
+      94029621,
+      94029623,
+      94029636,
+      94029625,
+      94029642,
+      94029627,
+      94029639,
+      94029630,
+      94029632,
+      94029644
+    ],
+    "missionId": 80118079,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118204,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 11,
+    "conditionMessage": "Complete all Quests on the left side of Csejte Pyramid Himeji Castle",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80118080,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80118205,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1601697600,
+    "conditionMessage": "???\n* Unlocks after 10/2 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94029615
+    ],
+    "missionId": 80118080,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118206,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94029602,
+      94029603,
+      94029607,
+      94029608,
+      94029635,
+      94029621,
+      94029622,
+      94029640,
+      94029634
+    ],
+    "missionId": 80118080,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118207,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 9,
+    "conditionMessage": "Complete all Quests in Csejte Castle\nCompleting this mission will unlock \"Old Well\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80118081,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80118208,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1601697600,
+    "conditionMessage": "???\n* Unlocks after 10/2 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94029615
+    ],
+    "missionId": 80118081,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118209,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94029604,
+      94029609,
+      94029623,
+      94029624,
+      94029626,
+      94029625,
+      94029636,
+      94029637,
+      94029641
+    ],
+    "missionId": 80118081,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118210,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 9,
+    "conditionMessage": "Complete all Quests in the Pyramid",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80118082,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80118211,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1601697600,
+    "conditionMessage": "???\n* Unlocks after 10/2 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94029615
+    ],
+    "missionId": 80118082,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118212,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94029605,
+      94029606,
+      94029610,
+      94029611,
+      94029612,
+      94029627,
+      94029628,
+      94029629,
+      94029631,
+      94029630,
+      94029632,
+      94029644,
+      94029633,
+      94029645,
+      94029638,
+      94029639,
+      94029642,
+      94029643
+    ],
+    "missionId": 80118082,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118213,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 18,
+    "conditionMessage": "Complete all Quests in Himeji Castle",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80118083,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80118214,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1601697600,
+    "conditionMessage": "???\n* Unlocks after 10/2 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94029615
+    ],
+    "missionId": 80118083,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118215,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94029601,
+      94029602,
+      94029634,
+      94029603,
+      94029607,
+      94029608,
+      94029613,
+      94029614,
+      94029615,
+      94029621,
+      94029622,
+      94029635,
+      94029640,
+      94029604,
+      94029609,
+      94029623,
+      94029624,
+      94029626,
+      94029625,
+      94029636,
+      94029637,
+      94029641,
+      94029605,
+      94029606,
+      94029610,
+      94029611,
+      94029612,
+      94029627,
+      94029628,
+      94029629,
+      94029631,
+      94029630,
+      94029632,
+      94029644,
+      94029633,
+      94029645,
+      94029638,
+      94029639,
+      94029642,
+      94029643,
+      94029647,
+      94029646
+    ],
+    "missionId": 80118083,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118216,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 42,
+    "conditionMessage": "Clear all quests",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118001
+    ],
+    "missionId": 80118084,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118217,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118027
+    ],
+    "missionId": 80118084,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118218,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 200,
+    "conditionMessage": "Obtain 200 Drill Gummies as battle drops",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118084
+    ],
+    "missionId": 80118085,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118219,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118027
+    ],
+    "missionId": 80118085,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118220,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 400,
+    "conditionMessage": "Obtain 400 Drill Gummies as battle drops",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94029603
+    ],
+    "missionId": 80118086,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118221,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118028
+    ],
+    "missionId": 80118086,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118222,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 200,
+    "conditionMessage": "Obtain 200 Missile Ramunes as battle drops",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118086
+    ],
+    "missionId": 80118087,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118223,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118028
+    ],
+    "missionId": 80118087,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118224,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 400,
+    "conditionMessage": "Obtain 400 Missile Ramunes as battle drops",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94029603
+    ],
+    "missionId": 80118088,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118225,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118029
+    ],
+    "missionId": 80118088,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118226,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 200,
+    "conditionMessage": "Obtain 200 Beam Cookies as battle drops",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118088
+    ],
+    "missionId": 80118089,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118227,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118029
+    ],
+    "missionId": 80118089,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118228,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 400,
+    "conditionMessage": "Obtain 400 Beam Cookies as battle drops",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80118090,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80118014,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1601697600,
+    "conditionMessage": "???\n* Unlocks after 10/2 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118037
+    ],
+    "missionId": 80118090,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118015,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94029639
+    ],
+    "missionId": 80118090,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118016,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "Complete \"Lookout Post\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80118091,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80118229,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1601697600,
+    "conditionMessage": "???\n* Unlocks after 10/2 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94029651
+    ],
+    "missionId": 80118091,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118230,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      1000400,
+      1000500
+    ],
+    "missionId": 80118091,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118231,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 7,
+    "targetNum": 3,
+    "conditionMessage": "Ascend Mecha Eli-chan or Mecha Eli-chan Mk.II to 3rd Stage Ascension",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80118092,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80118232,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1601697600,
+    "conditionMessage": "???\n* Unlocks after 10/2 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94029651
+    ],
+    "missionId": 80118092,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118233,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      1000400,
+      1000500
+    ],
+    "missionId": 80118092,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118234,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 9,
+    "targetNum": 3,
+    "conditionMessage": "Raise Mecha Eli-chan or Mecha Eli-chan Mk.II to Bond Level 3",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80118093,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80118235,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1601697600,
+    "conditionMessage": "???\n* Unlocks after 10/2 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94029651
+    ],
+    "missionId": 80118093,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118236,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118030
+    ],
+    "missionId": 80118093,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118237,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 10,
+    "conditionMessage": "Put Mecha Eli-chan or Mecha Eli-chan Mk.II in your Party and complete Quests 10 times",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80118094,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80118238,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1601697600,
+    "conditionMessage": "???\n* Unlocks after 10/2 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118093
+    ],
+    "missionId": 80118094,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118239,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118030
+    ],
+    "missionId": 80118094,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118240,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "Put Mecha Eli-chan or Mecha Eli-chan Mk.II in your Party and complete Quests 15 times",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94029624
+    ],
+    "missionId": 80118095,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118241,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118001,
+      80118002,
+      80118004,
+      80118003,
+      80118005,
+      80118047,
+      80118090,
+      80118006,
+      80118007,
+      80118008,
+      80118009,
+      80118010,
+      80118011,
+      80118012,
+      80118013,
+      80118014,
+      80118015,
+      80118016,
+      80118017,
+      80118018,
+      80118019,
+      80118020,
+      80118021,
+      80118022,
+      80118023,
+      80118024,
+      80118025,
+      80118026,
+      80118027,
+      80118028,
+      80118029,
+      80118030,
+      80118031,
+      80118032,
+      80118033,
+      80118034,
+      80118035,
+      80118036,
+      80118037,
+      80118038,
+      80118039,
+      80118040,
+      80118041,
+      80118042,
+      80118043,
+      80118044,
+      80118045,
+      80118046,
+      80118048,
+      80118049,
+      80118050,
+      80118051,
+      80118052,
+      80118053,
+      80118054,
+      80118055,
+      80118056,
+      80118057,
+      80118058,
+      80118059,
+      80118060,
+      80118061,
+      80118062,
+      80118063,
+      80118064,
+      80118065,
+      80118066,
+      80118067,
+      80118068,
+      80118069,
+      80118070,
+      80118071,
+      80118072,
+      80118073,
+      80118074,
+      80118075,
+      80118076,
+      80118077,
+      80118078,
+      80118079,
+      80118080,
+      80118081,
+      80118082,
+      80118083,
+      80118084,
+      80118085,
+      80118086,
+      80118087,
+      80118088,
+      80118089,
+      80118091,
+      80118092,
+      80118093,
+      80118094,
+      80118095,
+      80118096,
+      80118097,
+      80118098,
+      80118099,
+      80118100
+    ],
+    "missionId": 80118095,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118242,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 10,
+    "conditionMessage": "Complete 10 missions\nCompleting this mission will unlock \"Great Staircase\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118095
+    ],
+    "missionId": 80118096,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118243,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118001,
+      80118002,
+      80118004,
+      80118003,
+      80118005,
+      80118047,
+      80118090,
+      80118006,
+      80118007,
+      80118008,
+      80118009,
+      80118010,
+      80118011,
+      80118012,
+      80118013,
+      80118014,
+      80118015,
+      80118016,
+      80118017,
+      80118018,
+      80118019,
+      80118020,
+      80118021,
+      80118022,
+      80118023,
+      80118024,
+      80118025,
+      80118026,
+      80118027,
+      80118028,
+      80118029,
+      80118030,
+      80118031,
+      80118032,
+      80118033,
+      80118034,
+      80118035,
+      80118036,
+      80118037,
+      80118038,
+      80118039,
+      80118040,
+      80118041,
+      80118042,
+      80118043,
+      80118044,
+      80118045,
+      80118046,
+      80118048,
+      80118049,
+      80118050,
+      80118051,
+      80118052,
+      80118053,
+      80118054,
+      80118055,
+      80118056,
+      80118057,
+      80118058,
+      80118059,
+      80118060,
+      80118061,
+      80118062,
+      80118063,
+      80118064,
+      80118065,
+      80118066,
+      80118067,
+      80118068,
+      80118069,
+      80118070,
+      80118071,
+      80118072,
+      80118073,
+      80118074,
+      80118075,
+      80118076,
+      80118077,
+      80118078,
+      80118079,
+      80118080,
+      80118081,
+      80118082,
+      80118083,
+      80118084,
+      80118085,
+      80118086,
+      80118087,
+      80118088,
+      80118089,
+      80118091,
+      80118092,
+      80118093,
+      80118094,
+      80118095,
+      80118096,
+      80118097,
+      80118098,
+      80118099,
+      80118100
+    ],
+    "missionId": 80118096,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118244,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 30,
+    "conditionMessage": "Complete 30 missions",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80118097,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80118245,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1601697600,
+    "conditionMessage": "???\n* Unlocks after 10/2 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94029611
+    ],
+    "missionId": 80118097,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118246,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118001,
+      80118002,
+      80118004,
+      80118003,
+      80118005,
+      80118047,
+      80118090,
+      80118006,
+      80118007,
+      80118008,
+      80118009,
+      80118010,
+      80118011,
+      80118012,
+      80118013,
+      80118014,
+      80118015,
+      80118016,
+      80118017,
+      80118018,
+      80118019,
+      80118020,
+      80118021,
+      80118022,
+      80118023,
+      80118024,
+      80118025,
+      80118026,
+      80118027,
+      80118028,
+      80118029,
+      80118030,
+      80118031,
+      80118032,
+      80118033,
+      80118034,
+      80118035,
+      80118036,
+      80118037,
+      80118038,
+      80118039,
+      80118040,
+      80118041,
+      80118042,
+      80118043,
+      80118044,
+      80118045,
+      80118046,
+      80118048,
+      80118049,
+      80118050,
+      80118051,
+      80118052,
+      80118053,
+      80118054,
+      80118055,
+      80118056,
+      80118057,
+      80118058,
+      80118059,
+      80118060,
+      80118061,
+      80118062,
+      80118063,
+      80118064,
+      80118065,
+      80118066,
+      80118067,
+      80118068,
+      80118069,
+      80118070,
+      80118071,
+      80118072,
+      80118073,
+      80118074,
+      80118075,
+      80118076,
+      80118077,
+      80118078,
+      80118079,
+      80118080,
+      80118081,
+      80118082,
+      80118083,
+      80118084,
+      80118085,
+      80118086,
+      80118087,
+      80118088,
+      80118089,
+      80118091,
+      80118092,
+      80118093,
+      80118094,
+      80118095,
+      80118096,
+      80118097,
+      80118098,
+      80118099,
+      80118100
+    ],
+    "missionId": 80118097,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118247,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 50,
+    "conditionMessage": "Complete 50 missions\nCompleting this mission will unlock Section 12",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80118098,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80118248,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1601697600,
+    "conditionMessage": "???\n* Unlocks after 10/2 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94029615
+    ],
+    "missionId": 80118098,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118249,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118001,
+      80118002,
+      80118004,
+      80118003,
+      80118005,
+      80118047,
+      80118090,
+      80118006,
+      80118007,
+      80118008,
+      80118009,
+      80118010,
+      80118011,
+      80118012,
+      80118013,
+      80118014,
+      80118015,
+      80118016,
+      80118017,
+      80118018,
+      80118019,
+      80118020,
+      80118021,
+      80118022,
+      80118023,
+      80118024,
+      80118025,
+      80118026,
+      80118027,
+      80118028,
+      80118029,
+      80118030,
+      80118031,
+      80118032,
+      80118033,
+      80118034,
+      80118035,
+      80118036,
+      80118037,
+      80118038,
+      80118039,
+      80118040,
+      80118041,
+      80118042,
+      80118043,
+      80118044,
+      80118045,
+      80118046,
+      80118048,
+      80118049,
+      80118050,
+      80118051,
+      80118052,
+      80118053,
+      80118054,
+      80118055,
+      80118056,
+      80118057,
+      80118058,
+      80118059,
+      80118060,
+      80118061,
+      80118062,
+      80118063,
+      80118064,
+      80118065,
+      80118066,
+      80118067,
+      80118068,
+      80118069,
+      80118070,
+      80118071,
+      80118072,
+      80118073,
+      80118074,
+      80118075,
+      80118076,
+      80118077,
+      80118078,
+      80118079,
+      80118080,
+      80118081,
+      80118082,
+      80118083,
+      80118084,
+      80118085,
+      80118086,
+      80118087,
+      80118088,
+      80118089,
+      80118091,
+      80118092,
+      80118093,
+      80118094,
+      80118095,
+      80118096,
+      80118097,
+      80118098,
+      80118099,
+      80118100
+    ],
+    "missionId": 80118098,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118250,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 70,
+    "conditionMessage": "Complete 70 missions\nCompleting this mission will unlock \"Treasury\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80118099,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80118251,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1601697600,
+    "conditionMessage": "???\n* Unlocks after 10/2 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118098
+    ],
+    "missionId": 80118099,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118252,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118001,
+      80118002,
+      80118004,
+      80118003,
+      80118005,
+      80118047,
+      80118090,
+      80118006,
+      80118007,
+      80118008,
+      80118009,
+      80118010,
+      80118011,
+      80118012,
+      80118013,
+      80118014,
+      80118015,
+      80118016,
+      80118017,
+      80118018,
+      80118019,
+      80118020,
+      80118021,
+      80118022,
+      80118023,
+      80118024,
+      80118025,
+      80118026,
+      80118027,
+      80118028,
+      80118029,
+      80118030,
+      80118031,
+      80118032,
+      80118033,
+      80118034,
+      80118035,
+      80118036,
+      80118037,
+      80118038,
+      80118039,
+      80118040,
+      80118041,
+      80118042,
+      80118043,
+      80118044,
+      80118045,
+      80118046,
+      80118048,
+      80118049,
+      80118050,
+      80118051,
+      80118052,
+      80118053,
+      80118054,
+      80118055,
+      80118056,
+      80118057,
+      80118058,
+      80118059,
+      80118060,
+      80118061,
+      80118062,
+      80118063,
+      80118064,
+      80118065,
+      80118066,
+      80118067,
+      80118068,
+      80118069,
+      80118070,
+      80118071,
+      80118072,
+      80118073,
+      80118074,
+      80118075,
+      80118076,
+      80118077,
+      80118078,
+      80118079,
+      80118080,
+      80118081,
+      80118082,
+      80118083,
+      80118084,
+      80118085,
+      80118086,
+      80118087,
+      80118088,
+      80118089,
+      80118091,
+      80118092,
+      80118093,
+      80118094,
+      80118095,
+      80118096,
+      80118097,
+      80118098,
+      80118099,
+      80118100
+    ],
+    "missionId": 80118099,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118253,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 90,
+    "conditionMessage": "Complete 90 missions",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80118100,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80118254,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1601697600,
+    "conditionMessage": "???\n* Unlocks after 10/2 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118099
+    ],
+    "missionId": 80118100,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80118255,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80118001,
+      80118002,
+      80118004,
+      80118003,
+      80118005,
+      80118047,
+      80118090,
+      80118006,
+      80118007,
+      80118008,
+      80118009,
+      80118010,
+      80118011,
+      80118012,
+      80118013,
+      80118014,
+      80118015,
+      80118016,
+      80118017,
+      80118018,
+      80118019,
+      80118020,
+      80118021,
+      80118022,
+      80118023,
+      80118024,
+      80118025,
+      80118026,
+      80118027,
+      80118028,
+      80118029,
+      80118030,
+      80118031,
+      80118032,
+      80118033,
+      80118034,
+      80118035,
+      80118036,
+      80118037,
+      80118038,
+      80118039,
+      80118040,
+      80118041,
+      80118042,
+      80118043,
+      80118044,
+      80118045,
+      80118046,
+      80118048,
+      80118049,
+      80118050,
+      80118051,
+      80118052,
+      80118053,
+      80118054,
+      80118055,
+      80118056,
+      80118057,
+      80118058,
+      80118059,
+      80118060,
+      80118061,
+      80118062,
+      80118063,
+      80118064,
+      80118065,
+      80118066,
+      80118067,
+      80118068,
+      80118069,
+      80118070,
+      80118071,
+      80118072,
+      80118073,
+      80118074,
+      80118075,
+      80118076,
+      80118077,
+      80118078,
+      80118079,
+      80118080,
+      80118081,
+      80118082,
+      80118083,
+      80118084,
+      80118085,
+      80118086,
+      80118087,
+      80118088,
+      80118089,
+      80118091,
+      80118092,
+      80118093,
+      80118094,
+      80118095,
+      80118096,
+      80118097,
+      80118098,
+      80118099
+    ],
+    "missionId": 80118100,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80118256,
+    "missionTargetId": 80118,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 99,
+    "conditionMessage": "Complete all missions\nCompleting this mission will unlock a new quest",
     "closedMessage": "",
     "flag": 0
   }

@@ -2170,8 +2170,28 @@
     "isDispValue": true
   },
   {
+    "funcId": 1950,
+    "eventId": 80118,
+    "baseFuncId": 0,
+    "nameTotal": "{1}\nTotal ATK Strength Up",
+    "name": "Increase ATK Strength",
+    "iconId": 302,
+    "priority": 1,
+    "isDispValue": true
+  },
+  {
     "funcId": 1951,
     "eventId": 80073,
+    "baseFuncId": 0,
+    "nameTotal": "[Knight][Gazer][Mass Production] Appearance Rate Up",
+    "name": "[Knight][Gazer][Mass Production] Appearance Rate Up",
+    "iconId": 1010,
+    "priority": 7000,
+    "isDispValue": true
+  },
+  {
+    "funcId": 1951,
+    "eventId": 80118,
     "baseFuncId": 0,
     "nameTotal": "[Knight][Gazer][Mass Production] Appearance Rate Up",
     "name": "[Knight][Gazer][Mass Production] Appearance Rate Up",
@@ -2190,8 +2210,28 @@
     "isDispValue": true
   },
   {
+    "funcId": 1952,
+    "eventId": 80118,
+    "baseFuncId": 0,
+    "nameTotal": "[Drone][Homunculus][Automata] Appearance Rate Up",
+    "name": "[Drone][Homunculus][Automata] Appearance Rate Up",
+    "iconId": 1011,
+    "priority": 8000,
+    "isDispValue": true
+  },
+  {
     "funcId": 1953,
     "eventId": 80073,
+    "baseFuncId": 0,
+    "nameTotal": "[Skeleton][Scarecrow] Appearance Rate Up",
+    "name": "[Skeleton][Scarecrow] Appearance Rate Up",
+    "iconId": 1012,
+    "priority": 9000,
+    "isDispValue": true
+  },
+  {
+    "funcId": 1953,
+    "eventId": 80118,
     "baseFuncId": 0,
     "nameTotal": "[Skeleton][Scarecrow] Appearance Rate Up",
     "name": "[Skeleton][Scarecrow] Appearance Rate Up",
@@ -2956,6 +2996,36 @@
     "nameTotal": "{1}\nTotal Bond Gain Bonus",
     "name": "Increase Bond gained for all",
     "iconId": 1023,
+    "priority": 1,
+    "isDispValue": true
+  },
+  {
+    "funcId": 3200,
+    "eventId": 80118,
+    "baseFuncId": 0,
+    "nameTotal": "{0}\nTotal Bonus Amount",
+    "name": "{0} acquired",
+    "iconId": 94017501,
+    "priority": 1,
+    "isDispValue": true
+  },
+  {
+    "funcId": 3201,
+    "eventId": 80118,
+    "baseFuncId": 0,
+    "nameTotal": "{0}\nTotal Bonus Amount",
+    "name": "{0} acquired",
+    "iconId": 94017502,
+    "priority": 1,
+    "isDispValue": true
+  },
+  {
+    "funcId": 3202,
+    "eventId": 80118,
+    "baseFuncId": 0,
+    "nameTotal": "{0}\nTotal Bonus Amount",
+    "name": "{0} acquired",
+    "iconId": 94017503,
     "priority": 1,
     "isDispValue": true
   },
