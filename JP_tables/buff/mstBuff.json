@@ -37688,6 +37688,29 @@
   {
     "vals": [
       3004,
+      3006
+    ],
+    "tvals": [
+      5000,
+      4008
+    ],
+    "ckSelfIndv": [
+      4008
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2998,
+    "buffGroup": 0,
+    "type": 148,
+    "name": "通常攻撃ダメージ前追加効果(攻撃力アップ)",
+    "detail": "通常攻撃時ダメージ前に、自身の攻撃力をアップ ",
+    "iconId": 333,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
       3059,
       3006
     ],
@@ -37720,6 +37743,24 @@
     "name": "礼装効果：必中",
     "detail": "回避を無視して、攻撃によるダメージを与える",
     "iconId": 309,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3024
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3002,
+    "buffGroup": 601,
+    "type": 37,
+    "name": "ガッツ",
+    "detail": "HPが0になった時、HPを回復して耐える(他のガッツ状態と重複可能)",
+    "iconId": 304,
     "maxRate": 0,
     "effectId": 0
   }

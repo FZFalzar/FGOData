@@ -94726,6 +94726,25 @@
   },
   {
     "vals": [
+      2998
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 5827,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 333,
+    "popupText": "通常攻撃ダメージ前追加効果(攻撃力アップ)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
       100
     ],
     "tvals": [],
@@ -94780,5 +94799,24 @@
     "popupIconId": 309,
     "popupText": "必中",
     "categoryId": 0
+  },
+  {
+    "vals": [
+      3002
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 5835,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 304,
+    "popupText": "ガッツ",
+    "categoryId": 20205
   }
 ]
