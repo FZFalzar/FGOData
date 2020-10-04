@@ -59384,6 +59384,139 @@
   },
   {
     "targetIds": [
+      2001520,
+      2001521,
+      2001522,
+      2001523,
+      2001524,
+      2001525
+    ],
+    "missionId": 2001519,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001711,
+    "missionTargetId": 100220,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 6,
+    "conditionMessage": "今週のマスターミッションをすべてクリアせよ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001164
+    ],
+    "missionId": 2001520,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001712,
+    "missionTargetId": 100220,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "『セイバー』『アーチャー』『バーサーカー』クラスの敵をどれか15体倒せ(サーヴァント及び一部ボスなどは除く)",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001165
+    ],
+    "missionId": 2001521,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001713,
+    "missionTargetId": 100220,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "『ランサー』『キャスター』クラスの敵をどれか15体倒せ(サーヴァント及び一部ボスなどは除く)",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001166
+    ],
+    "missionId": 2001522,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001714,
+    "missionTargetId": 100220,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "『ライダー』『アサシン』クラスの敵をどれか15体倒せ(サーヴァント及び一部ボスなどは除く)",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001167
+    ],
+    "missionId": 2001523,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001715,
+    "missionTargetId": 100220,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 5,
+    "conditionMessage": "『超巨大』特性を持つ敵を5体倒せ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001168
+    ],
+    "missionId": 2001524,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001716,
+    "missionTargetId": 100220,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "戦利品で「叡智の猛火」「叡智の大火」「叡智の灯火」「叡智の種火」をどれか15枚獲得せよ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001524
+    ],
+    "missionId": 2001525,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 2001717,
+    "missionTargetId": 100220,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 1,
+    "conditionMessage": "戦利品で「叡智の猛火」「叡智の大火」「叡智の灯火」「叡智の種火」をどれか30枚獲得せよ",
+    "closedMessage": "",
+    "flag": 64
+  },
+  {
+    "targetIds": [
+      2001168
+    ],
+    "missionId": 2001525,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001718,
+    "missionTargetId": 100220,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 30,
+    "conditionMessage": "戦利品で「叡智の猛火」「叡智の大火」「叡智の灯火」「叡智の種火」をどれか30枚獲得せよ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
       3000001
     ],
     "missionId": 30000001,
