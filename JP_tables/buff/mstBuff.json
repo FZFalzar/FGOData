@@ -37468,6 +37468,21 @@
     "ckSelfIndv": [],
     "ckOpIndv": [],
     "script": {},
+    "id": 2983,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "威力アップ",
+    "detail": "『超古代新選組列伝 ぐだぐだ邪馬台国2020』において与えるダメージをアップ",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
     "id": 2984,
     "buffGroup": 0,
     "type": 37,
@@ -37747,6 +37762,21 @@
     "effectId": 0
   },
   {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3001,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "邪馬台パワー！",
+    "detail": "『超古代新選組列伝 ぐだぐだ邪馬台国2020』において与えるダメージをアップ",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
     "vals": [
       3004,
       3024
@@ -37761,6 +37791,100 @@
     "name": "ガッツ",
     "detail": "HPが0になった時、HPを回復して耐える(他のガッツ状態と重複可能)",
     "iconId": 304,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3003,
+    "buffGroup": 0,
+    "type": 95,
+    "name": "登場時発動",
+    "detail": "フィールドに登場した時、効果が発生する",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3007,
+    "buffGroup": 0,
+    "type": 114,
+    "name": "古き神々の怨念",
+    "detail": "毎ターンチャージを1増やす",
+    "iconId": 319,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006,
+      3031
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "INDIVIDUALITIE": 2121
+    },
+    "id": 3015,
+    "buffGroup": 0,
+    "type": 18,
+    "name": "クリティカル威力アップ",
+    "detail": "〔炎上〕しているフィールドでクリティカル時のダメージをアップ",
+    "iconId": 324,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3016,
+    "buffGroup": 602,
+    "type": 78,
+    "name": "死亡時発動(戦乱の徒花)",
+    "detail": "死亡時に味方全体のHPを回復する",
+    "iconId": 350,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3061
+    ],
+    "tvals": [
+      3011,
+      3026
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      3011,
+      3026
+    ],
+    "script": {},
+    "id": 3017,
+    "buffGroup": 0,
+    "type": 31,
+    "name": "毒＆呪い無効",
+    "detail": "毒と呪いを受けなくなる",
+    "iconId": 322,
     "maxRate": 0,
     "effectId": 0
   }
