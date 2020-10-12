@@ -37218,6 +37218,155 @@
   },
   {
     "targetIds": [
+      2001205,
+      2001206,
+      2001207,
+      2001208,
+      2001209,
+      2001210
+    ],
+    "missionId": 2001204,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2000858,
+    "missionTargetId": 100175,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 6,
+    "conditionMessage": "Complete all of this week's Master Missions",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001000
+    ],
+    "missionId": 2001205,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2000859,
+    "missionTargetId": 100175,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 20,
+    "conditionMessage": "Defeat 20 enemies (excluding Servants and certain bosses)",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001205
+    ],
+    "missionId": 2001206,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 2000860,
+    "missionTargetId": 100175,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 1,
+    "conditionMessage": "Defeat 40 enemies (excluding Servants and certain bosses)",
+    "closedMessage": "",
+    "flag": 64
+  },
+  {
+    "targetIds": [
+      2001000
+    ],
+    "missionId": 2001206,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2000861,
+    "missionTargetId": 100175,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 40,
+    "conditionMessage": "Defeat 40 enemies (excluding Servants and certain bosses)",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001001
+    ],
+    "missionId": 2001207,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2000862,
+    "missionTargetId": 100175,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "Defeat 15 enemies with the Heaven attribute",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001002
+    ],
+    "missionId": 2001208,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2000863,
+    "missionTargetId": 100175,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "Defeat 15 enemies with the Human attribute",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001003
+    ],
+    "missionId": 2001209,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2000864,
+    "missionTargetId": 100175,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 2,
+    "conditionMessage": "Acquire 2 Gems, Magic Gems, Secret Gems, Pieces or Monuments through battles",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001209
+    ],
+    "missionId": 2001210,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 2000865,
+    "missionTargetId": 100175,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 1,
+    "conditionMessage": "Acquire 4 Gems, Magic Gems, Secret Gems, Pieces or Monuments through battles",
+    "closedMessage": "",
+    "flag": 64
+  },
+  {
+    "targetIds": [
+      2001003
+    ],
+    "missionId": 2001210,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2000866,
+    "missionTargetId": 100175,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 4,
+    "conditionMessage": "Acquire 4 Gems, Magic Gems, Secret Gems, Pieces or Monuments through battles",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
       94011901
     ],
     "missionId": 80054001,
