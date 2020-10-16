@@ -11484,6 +11484,17 @@
     "displayType": 1
   },
   {
+    "questId": 94049128,
+    "phase": 1,
+    "idx": 1,
+    "message": "このクエストでは\nパーティ編成はバトルの直前に行います。\n\nクエストを開始しますか？",
+    "condType": 0,
+    "targetId": 0,
+    "targetNum": 0,
+    "frequencyType": 3,
+    "displayType": 1
+  },
+  {
     "questId": 94049202,
     "phase": 1,
     "idx": 1,
@@ -11590,6 +11601,17 @@
     "condType": 0,
     "targetId": 0,
     "targetNum": 0,
+    "frequencyType": 3,
+    "displayType": 1
+  },
+  {
+    "questId": 94049499,
+    "phase": 1,
+    "idx": 1,
+    "message": "～ 注意 ～\n\n「【高難易度】魔天を開けよ」は\n繰り返し挑戦可能なクエストですが、\n絆ポイント、EXP、戦利品、クリア報酬を\n獲得できるのは1回目のクリア時のみとなります。\n\nそれでも挑戦しますか？",
+    "condType": 25,
+    "targetId": 94049499,
+    "targetNum": 1,
     "frequencyType": 3,
     "displayType": 1
   },

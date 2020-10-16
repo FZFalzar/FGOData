@@ -37829,6 +37829,113 @@
   {
     "vals": [
       3004,
+      3007,
+      3040,
+      3058
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3008,
+    "buffGroup": 0,
+    "type": 42,
+    "name": "カッチンカッチンのお米",
+    "detail": "防御力をアップ＆〔やけど〕状態の時に防御力をダウン【デメリット】",
+    "iconId": 301,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005,
+      3009
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "INDIVIDUALITIE": 3015
+    },
+    "id": 3009,
+    "buffGroup": 0,
+    "type": 43,
+    "name": "",
+    "detail": "",
+    "iconId": 504,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2521,
+      2513
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3010,
+    "buffGroup": 0,
+    "type": 76,
+    "name": "遅延発動(攻撃力ダウン＆防御力ダウン)",
+    "detail": "2ターン経過後に自身の攻撃力をダウンする【デメリット】＆防御力をダウンする【デメリット】",
+    "iconId": 525,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3011,
+    "buffGroup": 0,
+    "type": 76,
+    "name": "遅延発動(攻撃力アップ＆チャージ増加)",
+    "detail": "1ターン経過後に自身の攻撃力をアップする＆チャージを2増やす",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2354
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3012,
+    "buffGroup": 0,
+    "type": 85,
+    "name": "ビタミン不足",
+    "detail": "毎ターンHPが減少する",
+    "iconId": 537,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2719
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3014,
+    "buffGroup": 0,
+    "type": 42,
+    "name": "「我こそ第六天魔王、信長なり！」",
+    "detail": "防御力をアップ",
+    "iconId": 301,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
       3006,
       3031
     ],
@@ -37885,6 +37992,23 @@
     "name": "毒＆呪い無効",
     "detail": "毒と呪いを受けなくなる",
     "iconId": 322,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2722
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3018,
+    "buffGroup": 900,
+    "type": 34,
+    "name": "「姉上あるところ信勝あり！」",
+    "detail": "宝具を使用できなくなる",
+    "iconId": 512,
     "maxRate": 0,
     "effectId": 0
   }
