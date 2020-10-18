@@ -59650,6 +59650,139 @@
   },
   {
     "targetIds": [
+      2001534,
+      2001535,
+      2001536,
+      2001537,
+      2001538,
+      2001539
+    ],
+    "missionId": 2001533,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001727,
+    "missionTargetId": 100222,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 6,
+    "conditionMessage": "今週のマスターミッションをすべてクリアせよ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001174
+    ],
+    "missionId": 2001534,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001728,
+    "missionTargetId": 100222,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 3,
+    "conditionMessage": "『中立』属性を持つサーヴァントを3騎倒せ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001175
+    ],
+    "missionId": 2001535,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001729,
+    "missionTargetId": 100222,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 3,
+    "conditionMessage": "『秩序』属性を持つサーヴァントを3騎倒せ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001176
+    ],
+    "missionId": 2001536,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001730,
+    "missionTargetId": 100222,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "『魔性』特性を持つ敵を15体倒せ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001177
+    ],
+    "missionId": 2001537,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001731,
+    "missionTargetId": 100222,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "『猛獣』特性を持つ敵を15体倒せ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001178
+    ],
+    "missionId": 2001538,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001732,
+    "missionTargetId": 100222,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 2,
+    "conditionMessage": "戦利品で「輝石」「魔石」「秘石」「ピース」「モニュメント」をどれか2個獲得せよ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001538
+    ],
+    "missionId": 2001539,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 2001733,
+    "missionTargetId": 100222,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 1,
+    "conditionMessage": "戦利品で「輝石」「魔石」「秘石」「ピース」「モニュメント」をどれか4個獲得せよ",
+    "closedMessage": "",
+    "flag": 64
+  },
+  {
+    "targetIds": [
+      2001178
+    ],
+    "missionId": 2001539,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001734,
+    "missionTargetId": 100222,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 4,
+    "conditionMessage": "戦利品で「輝石」「魔石」「秘石」「ピース」「モニュメント」をどれか4個獲得せよ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
       3000001
     ],
     "missionId": 30000001,
