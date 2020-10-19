@@ -6057,5 +6057,140 @@
     "condValue": 0,
     "condValue2": 0,
     "condValue3": 0
+  },
+  {
+    "targetIds": [
+      "[]"
+    ],
+    "condIds": [],
+    "imageIds": [
+      660
+    ],
+    "textJson": [],
+    "eventId": 80119,
+    "flagType": 1,
+    "num": 1,
+    "openType": 4,
+    "condType": 0,
+    "condValue": 0,
+    "condValue2": 0,
+    "condValue3": 0
+  },
+  {
+    "targetIds": [
+      "[9050]"
+    ],
+    "condIds": [
+      94030301,
+      94030302,
+      94030303
+    ],
+    "imageIds": [
+      662,
+      663
+    ],
+    "textJson": [],
+    "eventId": 80119,
+    "flagType": 2,
+    "num": 1,
+    "openType": 1,
+    "condType": 50,
+    "condValue": 0,
+    "condValue2": 0,
+    "condValue3": 0
+  },
+  {
+    "targetIds": [
+      "[94030301]",
+      "[94030302]",
+      "[94030303]"
+    ],
+    "condIds": [],
+    "imageIds": [],
+    "textJson": [
+      {
+        "text": "Even if you defeat the Great Oni Vermilion Dragon, they will resurrect as long as the gauge remains.\n\nThe gauge at the top of the screen shows how many times they have been defeated. The gauge will decrease each time they are defeated.\nThe number of times other Masters have defeated them will also be reflected in real time.\n\nLet's all work together to defeat the Great Oni Vermilion Dragon until the gauge reaches zero!",
+        "rects": [
+          {
+            "x": -512,
+            "y": 200,
+            "w": 580,
+            "h": 120
+          }
+        ],
+        "textPos": [
+          0,
+          -40
+        ],
+        "ptPos": [
+          0,
+          0
+        ]
+      }
+    ],
+    "eventId": 80119,
+    "flagType": 8,
+    "num": 1,
+    "openType": 5,
+    "condType": 0,
+    "condValue": 0,
+    "condValue2": 0,
+    "condValue3": 0
+  },
+  {
+    "targetIds": [
+      "[9403490]",
+      "[9403500]",
+      "[9403510]"
+    ],
+    "condIds": [],
+    "imageIds": [
+      661
+    ],
+    "textJson": [],
+    "eventId": 80119,
+    "flagType": 14,
+    "num": 1,
+    "openType": 11,
+    "condType": 0,
+    "condValue": 0,
+    "condValue2": 0,
+    "condValue3": 0
+  },
+  {
+    "targetIds": [
+      "[]"
+    ],
+    "condIds": [],
+    "imageIds": [
+      660
+    ],
+    "textJson": [],
+    "eventId": 80119,
+    "flagType": 21,
+    "num": 1,
+    "openType": 23,
+    "condType": 0,
+    "condValue": 0,
+    "condValue2": 0,
+    "condValue3": 0
+  },
+  {
+    "targetIds": [
+      "[]"
+    ],
+    "condIds": [],
+    "imageIds": [
+      660
+    ],
+    "textJson": [],
+    "eventId": 80119,
+    "flagType": 22,
+    "num": 1,
+    "openType": 24,
+    "condType": 0,
+    "condValue": 0,
+    "condValue2": 0,
+    "condValue3": 0
   }
 ]

@@ -2486,8 +2486,8 @@
   },
   {
     "id": 292452,
-    "detail": "Increase NP Gauge [{0}] & C. Star Drop Rate for yourself [{0}] (3 turns) + Increase Illya's Buff Success Rate for all allies [g][o]▲[/o][/g] (3 turns)",
-    "detailShort": "Increase NP Gauge [{0}] & C. Star Drop Rate for yourself [{0}] (3 turns) + Increase Illya's Buff Success Rate for all allies [g][o]▲[/o][/g] (3 turns)"
+    "detail": "Increase NP Gauge [{0}] & increase C. Star Drop Rate for yourself [{0}] (3 turns) + increase [Illya] Buff Success Rate for all allies [g][o]▲[/o][/g] (3 turns)",
+    "detailShort": "Increase NP Gauge [{0}] & increase C. Star Drop Rate for yourself [{0}] (3 turns) + increase [Illya] Buff Success Rate for all allies [g][o]▲[/o][/g] (3 turns)"
   },
   {
     "id": 293550,
@@ -3690,6 +3690,36 @@
     "detailShort": "Increase DEF [{0}] (3 times) & increase NP Gain [{0}] (3 turns) for yourself"
   },
   {
+    "id": 530650,
+    "detail": "Apply Invincible (1 turn) + apply Damage Cut to all allies [{0}] (3 times, 3 turns)",
+    "detailShort": "Apply Invincible (1 turn) + apply Damage Cut to all allies [{0}] (3 times, 3 turns)"
+  },
+  {
+    "id": 531450,
+    "detail": "Increase Arts Card effectiveness [{0}] (3 turns) & apply Debuff Immune (1 time, 3 turns) for yourself",
+    "detailShort": "Increase Arts Card effectiveness [{0}] (3 turns) & apply Debuff Immune (1 time, 3 turns) for yourself"
+  },
+  {
+    "id": 532550,
+    "detail": "Apply random effects to yourself [{0}]",
+    "detailShort": "Apply random effects to yourself [{0}]"
+  },
+  {
+    "id": 533551,
+    "detail": "Inflict NP Seal (1 turn) & decrease Critical Rate [{0}] (3 turns) to a single enemy",
+    "detailShort": "Inflict NP Seal (1 turn) & decrease Critical Rate [{0}] (3 turns) to a single enemy"
+  },
+  {
+    "id": 534450,
+    "detail": "Increase Arts Card [{0}] (1 turn) & Buster Card effectiveness [{0}] (1 turn) & apply C. Star Gather [{0}] (1 turn) for yourself",
+    "detailShort": "Increase Arts Card [{0}] (1 turn) & Buster Card effectiveness [{0}] (1 turn) & apply C. Star Gather [{0}] (1 turn) for yourself"
+  },
+  {
+    "id": 535550,
+    "detail": "Increase ATK [{0}] (3 turns) for all allies + apply Special Attack [Demonic] for yourself [{0}] (3 turns)",
+    "detailShort": "Increase ATK [{0}] (3 turns) for all allies + apply Special Attack [Demonic] for yourself [{0}] (3 turns)"
+  },
+  {
     "id": 940001,
     "detail": "Increase Honnoji Point Gain by 20% [\"GUDAGUDA Honnoji\" Limited Event]",
     "detailShort": "Increase Honnoji Point Gain by 20% [\"GUDAGUDA Honnoji\" Limited Event]"
@@ -4048,6 +4078,26 @@
     "id": 940076,
     "detail": "Increase Doujin Motivation & Doujin Technique & Doujin Imagination amount per drop by 10% [Event Only]",
     "detailShort": "Increase Doujin Motivation & Doujin Technique & Doujin Imagination amount per drop by 10% [Event Only]"
+  },
+  {
+    "id": 940077,
+    "detail": "Increase Magifender Points amount per drop by 30% [Event Only]",
+    "detailShort": "Increase Magifender Points amount per drop by 30% [Event Only]"
+  },
+  {
+    "id": 940078,
+    "detail": "Increase Magifender Points amount per drop by 20% [Event Only]",
+    "detailShort": "Increase Magifender Points amount per drop by 20% [Event Only]"
+  },
+  {
+    "id": 940079,
+    "detail": "Increase Magifender Points amount per drop by 10% [Event Only]",
+    "detailShort": "Increase Magifender Points amount per drop by 10% [Event Only]"
+  },
+  {
+    "id": 940084,
+    "detail": "Begin battle with NP charged at 50% during main quests and raids in \"The Land of Mystique, Oniland!\" [Event Only]",
+    "detailShort": "Begin battle with NP charged at 50% during main quests and raids in \"The Land of Mystique, Oniland!\" [Event Only]"
   },
   {
     "id": 960502,
@@ -11238,6 +11288,151 @@
     "id": 991487,
     "detail": "Increase appearance rate of [Skeleton] [Scarecrow] enemies by 100% in Free Quests [MAX] [Event Only]",
     "detailShort": "Increase appearance rate of [Skeleton] [Scarecrow] enemies by 100% in Free Quests [MAX] [Event Only]"
+  },
+  {
+    "id": 991489,
+    "detail": "Increase Arts Card effectiveness by 10% & Buster Card Effectiveness by 10% & begin battle with NP charged at 40%",
+    "detailShort": "Increase Arts Card effectiveness by 10% & Buster Card Effectiveness by 10% & begin battle with NP charged at 40%"
+  },
+  {
+    "id": 991490,
+    "detail": "Increase Arts Card effectiveness by 12% & Buster Card Effectiveness by 12% & begin battle with NP charged at 50% [MAX]",
+    "detailShort": "Increase Arts Card effectiveness by 12% & Buster Card Effectiveness by 12% & begin battle with NP charged at 50% [MAX]"
+  },
+  {
+    "id": 991491,
+    "detail": "Increase amount of Mallet Sundae per drop by 1 [Event Only]",
+    "detailShort": "Increase amount of Mallet Sundae per drop by 1 [Event Only]"
+  },
+  {
+    "id": 991492,
+    "detail": "Increase amount of Mallet Sundae per drop by 2 [MAX] [Event Only]",
+    "detailShort": "Increase amount of Mallet Sundae per drop by 2 [MAX] [Event Only]"
+  },
+  {
+    "id": 991493,
+    "detail": "Increase Buster Card effectiveness by 8% & Critical Strength by 8% & NP Gain by 8% for yourself",
+    "detailShort": "Increase Buster Card effectiveness by 8% & Critical Strength by 8% & NP Gain by 8% for yourself"
+  },
+  {
+    "id": 991494,
+    "detail": "Increase Buster Card effectiveness by 10% & Critical Strength by 10% & NP Gain by 10% for yourself [MAX]",
+    "detailShort": "Increase Buster Card effectiveness by 10% & Critical Strength by 10% & NP Gain by 10% for yourself [MAX]"
+  },
+  {
+    "id": 991495,
+    "detail": "Increase amount of Kanabou Churro per drop by 1 [Event Only]",
+    "detailShort": "Increase amount of Kanabou Churro per drop by 1 [Event Only]"
+  },
+  {
+    "id": 991496,
+    "detail": "Increase amount of Kanabou Churro per drop by 2 [MAX] [Event Only]",
+    "detailShort": "Increase amount of Kanabou Churro per drop by 2 [MAX] [Event Only]"
+  },
+  {
+    "id": 991497,
+    "detail": "Increase Quick Card effectiveness by 3% & C. Star Drop Rate by 5%",
+    "detailShort": "Increase Quick Card effectiveness by 3% & C. Star Drop Rate by 5%"
+  },
+  {
+    "id": 991498,
+    "detail": "Increase Quick Card effectiveness by 5% & C. Star Drop Rate by 10% [MAX]",
+    "detailShort": "Increase Quick Card effectiveness by 5% & C. Star Drop Rate by 10% [MAX]"
+  },
+  {
+    "id": 991499,
+    "detail": "Increase amount of Skull Corn per drop by 1 [Event Only]",
+    "detailShort": "Increase amount of Skull Corn per drop by 1 [Event Only]"
+  },
+  {
+    "id": 991500,
+    "detail": "Increase amount of Skull Corn per drop by 2 [MAX] [Event Only]",
+    "detailShort": "Increase amount of Skull Corn per drop by 2 [MAX] [Event Only]"
+  },
+  {
+    "id": 991501,
+    "detail": "Increase Arts Card effectiveness by 10% & NP Strength by 20% for yourself",
+    "detailShort": "Increase Arts Card effectiveness by 10% & NP Strength by 20% for yourself"
+  },
+  {
+    "id": 991502,
+    "detail": "Increase Arts Card effectiveness by 15% & NP Strength by 25% for yourself [MAX]",
+    "detailShort": "Increase Arts Card effectiveness by 15% & NP Strength by 25% for yourself [MAX]"
+  },
+  {
+    "id": 991503,
+    "detail": "Increase Arts ATK Strength by 100-500% <rate changes based on Magifender Points amount> during \"The Land of Mystique, Oniland!\" & increase amount of Magifender Points per drop by 30% [Event Only]",
+    "detailShort": "Increase Arts ATK Strength by 100-500% <rate changes based on Magifender Points amount> during \"The Land of Mystique, Oniland!\" & increase amount of Magifender Points per drop by 30% [Event Only]"
+  },
+  {
+    "id": 991504,
+    "detail": "Increase Arts ATK Strength by 100-500% <rate changes based on Magifender Points amount> during \"The Land of Mystique, Oniland!\" & increase amount of Magifender Points per drop by 60% [MAX] [Event Only]",
+    "detailShort": "Increase Arts ATK Strength by 100-500% <rate changes based on Magifender Points amount> during \"The Land of Mystique, Oniland!\" & increase amount of Magifender Points per drop by 60% [MAX] [Event Only]"
+  },
+  {
+    "id": 991505,
+    "detail": "Increase Quick Card effectiveness by 10% & NP Strength by 10% & Critical Strength by 10% for yourself",
+    "detailShort": "Increase Quick Card effectiveness by 10% & NP Strength by 10% & Critical Strength by 10% for yourself"
+  },
+  {
+    "id": 991506,
+    "detail": "Increase Quick Card effectiveness by 15% & NP Strength by 15% & Critical Strength by 15% for yourself [MAX]",
+    "detailShort": "Increase Quick Card effectiveness by 15% & NP Strength by 15% & Critical Strength by 15% for yourself [MAX]"
+  },
+  {
+    "id": 991507,
+    "detail": "Increase Quick ATK Strength by 100-500% <rate changes based on Magifender Points amount> during \"The Land of Mystique, Oniland!\" & increase amount of Magifender Points per drop by 30% [Event Only]",
+    "detailShort": "Increase Quick ATK Strength by 100-500% <rate changes based on Magifender Points amount> during \"The Land of Mystique, Oniland!\" & increase amount of Magifender Points per drop by 30% [Event Only]"
+  },
+  {
+    "id": 991508,
+    "detail": "Increase Quick ATK Strength by 100-500% <rate changes based on Magifender Points amount> during \"The Land of Mystique, Oniland!\" & increase amount of Magifender Points per drop by 60% [MAX] [Event Only]",
+    "detailShort": "Increase Quick ATK Strength by 100-500% <rate changes based on Magifender Points amount> during \"The Land of Mystique, Oniland!\" & increase amount of Magifender Points per drop by 60% [MAX] [Event Only]"
+  },
+  {
+    "id": 991509,
+    "detail": "Apply Ignore Invincible & increase Buster Card effectiveness by 8% for yourself",
+    "detailShort": "Apply Ignore Invincible & increase Buster Card effectiveness by 8% for yourself"
+  },
+  {
+    "id": 991510,
+    "detail": "Apply Ignore Invincible & increase Buster Card effectiveness by 10% for yourself [MAX]",
+    "detailShort": "Apply Ignore Invincible & increase Buster Card effectiveness by 10% for yourself [MAX]"
+  },
+  {
+    "id": 991511,
+    "detail": "Increase Buster ATK Strength by 100-500% <rate changes based on Magifender Points amount> during \"The Land of Mystique, Oniland!\" & increase amount of Magifender Points per drop by 30% [Event Only]",
+    "detailShort": "Increase Buster ATK Strength by 100-500% <rate changes based on Magifender Points amount> during \"The Land of Mystique, Oniland!\" & increase amount of Magifender Points per drop by 30% [Event Only]"
+  },
+  {
+    "id": 991512,
+    "detail": "Increase Buster ATK Strength by 100-500% <rate changes based on Magifender Points amount> during \"The Land of Mystique, Oniland!\" & increase amount of Magifender Points per drop by 60% [MAX] [Event Only]",
+    "detailShort": "Increase Buster ATK Strength by 100-500% <rate changes based on Magifender Points amount> during \"The Land of Mystique, Oniland!\" & increase amount of Magifender Points per drop by 60% [MAX] [Event Only]"
+  },
+  {
+    "id": 991513,
+    "detail": "Increase all allies' Arts Card effectiveness & NP Strength by 10% only if [servantName 1000800] (Alter Ego) is equipped with this Craft Essence when she is on the field",
+    "detailShort": "Increase all allies' Arts Card effectiveness & NP Strength by 10% only if [servantName 1000800] (Alter Ego) is equipped with this Craft Essence when she is on the field"
+  },
+  {
+    "id": 991514,
+    "detail": "Increase all allies' Buster Card effectiveness & NP Gain by 10% only if [servantName 504000] is equipped with this Craft Essence when she is on the field.",
+    "detailShort": "Increase all allies' Buster Card effectiveness & NP Gain by 10% only if [servantName 504000] is equipped with this Craft Essence when she is on the field."
+  },
+  {
+    "id": 991515,
+    "detail": "Remove 1 Debuff from yourself when attacking with the engraved Card",
+    "detailShort": "Remove 1 Debuff from yourself when attacking with the engraved Card"
+  },
+  {
+    "id": 991517,
+    "detail": "Increase the engraved Card's Critical Strength against [Dragon] enemies by 25% ",
+    "detailShort": "Increase the engraved Card's Critical Strength against [Dragon] enemies by 25% "
+  },
+  {
+    "id": 991518,
+    "detail": "Apply 20% Special Attack [Dragon] effect to the engraved Card",
+    "detailShort": "Apply 20% Special Attack [Dragon] effect to the engraved Card"
   },
   {
     "id": 991945,

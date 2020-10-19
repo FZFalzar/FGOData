@@ -29543,7 +29543,7 @@
       159
     ],
     "tvals": [
-      502800
+      2355
     ],
     "questTvals": [],
     "effectList": [
@@ -29564,7 +29564,7 @@
       159
     ],
     "tvals": [
-      502800
+      2355
     ],
     "questTvals": [],
     "effectList": [
@@ -29585,7 +29585,7 @@
       159
     ],
     "tvals": [
-      502800
+      2355
     ],
     "questTvals": [],
     "effectList": [
@@ -50886,6 +50886,566 @@
   {
     "vals": [],
     "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 2987,
+    "cond": 0,
+    "funcType": 105,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "None",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 2988,
+    "cond": 0,
+    "funcType": 105,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "None",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 2989,
+    "cond": 0,
+    "funcType": 105,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "None",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 2990,
+    "cond": 0,
+    "funcType": 107,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "None",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1380
+    ],
+    "tvals": [],
+    "questTvals": [
+      94000078
+    ],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 2991,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 356,
+    "popupText": "Strength Up: Quick",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1381
+    ],
+    "tvals": [],
+    "questTvals": [
+      94000078
+    ],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 2992,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 357,
+    "popupText": "Strength Up: Arts",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1382
+    ],
+    "tvals": [],
+    "questTvals": [
+      94000078
+    ],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 2993,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 358,
+    "popupText": "Strength Up: Buster",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3005
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      329
+    ],
+    "popupTextColor": 1,
+    "id": 2994,
+    "cond": 0,
+    "funcType": 2,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "Remove Debuff",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1383
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 2995,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 324,
+    "popupText": "Critical Up",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1384
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 2996,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 334,
+    "popupText": "Special Resist\nUp",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1385
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 2997,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 322,
+    "popupText": "Debuff Immune",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1386
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 2998,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 322,
+    "popupText": "Debuff Immune",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1387
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      333
+    ],
+    "popupTextColor": 2,
+    "id": 2999,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 520,
+    "popupText": "Change DEF Affinity",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1387
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      334
+    ],
+    "popupTextColor": 2,
+    "id": 3000,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 520,
+    "popupText": "Change DEF Affinity",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1387
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 3001,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 520,
+    "popupText": "Change DEF Affinity",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      182
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 1,
+    "id": 3002,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 13,
+    "applyTarget": 3,
+    "popupIconId": 511,
+    "popupText": "Skill Seal",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      2002
+    ],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 3,
+    "id": 3003,
+    "cond": 0,
+    "funcType": 8,
+    "targetType": 4,
+    "applyTarget": 1,
+    "popupIconId": 0,
+    "popupText": "NP Loss vs. Dragons",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      2002
+    ],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 3,
+    "id": 3004,
+    "cond": 0,
+    "funcType": 20,
+    "targetType": 4,
+    "applyTarget": 2,
+    "popupIconId": 0,
+    "popupText": "Charge Loss vs. Dragons",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1388
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      345
+    ],
+    "popupTextColor": 3,
+    "id": 3005,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 4,
+    "applyTarget": 3,
+    "popupIconId": 525,
+    "popupText": "Decrease NP Gauge After 1 Turn",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [
+      94000079
+    ],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 3006,
+    "cond": 0,
+    "funcType": 7,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 0,
+    "popupText": "NP Gain",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1389
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 3007,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 8,
+    "applyTarget": 1,
+    "popupIconId": 321,
+    "popupText": "C. Star\nDrop Rate Up",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1390
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 3008,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 324,
+    "popupText": "Critical Up",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      142
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      330
+    ],
+    "popupTextColor": 2,
+    "id": 3009,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 324,
+    "popupText": "Critical Up",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      142
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 3010,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 324,
+    "popupText": "Critical Up",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      146
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      333
+    ],
+    "popupTextColor": 2,
+    "id": 3011,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 301,
+    "popupText": "DEF Up",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      146
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      334
+    ],
+    "popupTextColor": 2,
+    "id": 3012,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 301,
+    "popupText": "DEF Up",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      146
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 3013,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 301,
+    "popupText": "DEF Up",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1391
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      330
+    ],
+    "popupTextColor": 2,
+    "id": 3014,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 520,
+    "popupText": "Change ATK Affinity",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1391
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 3015,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 520,
+    "popupText": "Change ATK Affinity",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1391
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 3016,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 520,
+    "popupText": "Change ATK Affinity",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
     "questTvals": [
       94000081
     ],
@@ -51297,6 +51857,44 @@
     "applyTarget": 3,
     "popupIconId": 0,
     "popupText": "None",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2580
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 4860,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 520,
+    "popupText": "Change DEF Affinity",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2581
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 4861,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 520,
+    "popupText": "Change ATK Affinity",
     "categoryId": 0
   },
   {

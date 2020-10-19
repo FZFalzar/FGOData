@@ -900,7 +900,7 @@
     "value": 0,
     "sellQp": 2500,
     "isSell": true,
-    "priority": 228,
+    "priority": 230,
     "dropPriority": 8501,
     "startedAt": 946684800,
     "endedAt": 1910908800
@@ -920,7 +920,7 @@
     "value": 0,
     "sellQp": 2500,
     "isSell": true,
-    "priority": 226,
+    "priority": 228,
     "dropPriority": 8400,
     "startedAt": 946684800,
     "endedAt": 1910908800
@@ -1120,7 +1120,7 @@
     "value": 0,
     "sellQp": 2500,
     "isSell": true,
-    "priority": 227,
+    "priority": 229,
     "dropPriority": 8500,
     "startedAt": 946684800,
     "endedAt": 1910908800
@@ -1140,7 +1140,7 @@
     "value": 0,
     "sellQp": 2500,
     "isSell": true,
-    "priority": 229,
+    "priority": 231,
     "dropPriority": 8502,
     "startedAt": 946684800,
     "endedAt": 1910908800
@@ -1160,7 +1160,7 @@
     "value": 0,
     "sellQp": 2500,
     "isSell": true,
-    "priority": 230,
+    "priority": 232,
     "dropPriority": 8401,
     "startedAt": 946684800,
     "endedAt": 1910908800
@@ -1180,7 +1180,7 @@
     "value": 0,
     "sellQp": 2500,
     "isSell": true,
-    "priority": 231,
+    "priority": 233,
     "dropPriority": 8402,
     "startedAt": 946684800,
     "endedAt": 1910908800
@@ -1200,7 +1200,7 @@
     "value": 0,
     "sellQp": 2500,
     "isSell": true,
-    "priority": 232,
+    "priority": 234,
     "dropPriority": 8403,
     "startedAt": 946684800,
     "endedAt": 1910908800
@@ -1240,7 +1240,7 @@
     "value": 0,
     "sellQp": 2500,
     "isSell": true,
-    "priority": 233,
+    "priority": 235,
     "dropPriority": 8404,
     "startedAt": 946684800,
     "endedAt": 1910908800
@@ -1280,7 +1280,7 @@
     "value": 0,
     "sellQp": 2500,
     "isSell": true,
-    "priority": 234,
+    "priority": 236,
     "dropPriority": 8503,
     "startedAt": 946684800,
     "endedAt": 1910908800
@@ -1342,7 +1342,7 @@
     "value": 0,
     "sellQp": 2500,
     "isSell": true,
-    "priority": 235,
+    "priority": 237,
     "dropPriority": 8405,
     "startedAt": 946684800,
     "endedAt": 1910908800
@@ -1362,7 +1362,7 @@
     "value": 0,
     "sellQp": 2500,
     "isSell": true,
-    "priority": 236,
+    "priority": 238,
     "dropPriority": 8504,
     "startedAt": 946684800,
     "endedAt": 1910908800
@@ -1402,7 +1402,7 @@
     "value": 0,
     "sellQp": 2500,
     "isSell": true,
-    "priority": 237,
+    "priority": 239,
     "dropPriority": 8505,
     "startedAt": 946684800,
     "endedAt": 1910908800
@@ -2192,6 +2192,26 @@
     "dropPriority": 9001,
     "startedAt": 1443657600,
     "endedAt": 1612137599
+  },
+  {
+    "individuality": [],
+    "script": {},
+    "eventId": 0,
+    "eventGroupId": 0,
+    "id": 10015,
+    "name": "Exchange Ticket (NOV 2020)",
+    "detail": "Can be exchanged for one Octuplet Crystal, Stake of Wailing Night, or Deadly Poisonous Needle.",
+    "imageId": 10000,
+    "bgImageId": 2,
+    "type": 24,
+    "unit": "",
+    "value": 0,
+    "sellQp": -1,
+    "isSell": false,
+    "priority": 200,
+    "dropPriority": 9001,
+    "startedAt": 1443657600,
+    "endedAt": 1614556799
   },
   {
     "individuality": [],
@@ -10145,6 +10165,116 @@
     "dropPriority": 2006,
     "startedAt": 1601438400,
     "endedAt": 1603252799
+  },
+  {
+    "individuality": [
+      10338
+    ],
+    "script": {},
+    "eventId": 0,
+    "eventGroupId": 0,
+    "id": 94030101,
+    "name": "Skull Corn",
+    "detail": "\"Event Item\"\nCaramel popcorn acquired from \"The Land of Mystique, Oniland!\"\n\nThe popcorn seems to be skull-shaped.",
+    "imageId": 94030101,
+    "bgImageId": 1,
+    "type": 15,
+    "unit": "",
+    "value": 0,
+    "sellQp": -1,
+    "isSell": false,
+    "priority": 94030101,
+    "dropPriority": 2001,
+    "startedAt": 1603080000,
+    "endedAt": 1604894399
+  },
+  {
+    "individuality": [
+      10339
+    ],
+    "script": {},
+    "eventId": 0,
+    "eventGroupId": 0,
+    "id": 94030102,
+    "name": "Kanabou Churro",
+    "detail": "\"Event Item\"\nChocolate-coated churro acquired from \"The Land of Mystique, Oniland!\"\n\nThe crushed nuts make it look like the spiky war club that oni carry.",
+    "imageId": 94030102,
+    "bgImageId": 2,
+    "type": 15,
+    "unit": "",
+    "value": 0,
+    "sellQp": -1,
+    "isSell": false,
+    "priority": 94030102,
+    "dropPriority": 2002,
+    "startedAt": 1603080000,
+    "endedAt": 1604894399
+  },
+  {
+    "individuality": [
+      10340
+    ],
+    "script": {},
+    "eventId": 0,
+    "eventGroupId": 0,
+    "id": 94030103,
+    "name": "Mallet Sundae",
+    "detail": "\"Event Item\"\nIce cream sundae acquired from \"The Land of Mystique, Oniland!\"\n\nEating the popular mallet-shaped cookie is said to shatter misfortune and remake it into good luck.",
+    "imageId": 94030103,
+    "bgImageId": 3,
+    "type": 15,
+    "unit": "",
+    "value": 0,
+    "sellQp": -1,
+    "isSell": false,
+    "priority": 94030103,
+    "dropPriority": 2003,
+    "startedAt": 1603080000,
+    "endedAt": 1604894399
+  },
+  {
+    "individuality": [
+      10341
+    ],
+    "script": {},
+    "eventId": 0,
+    "eventGroupId": 0,
+    "id": 94030104,
+    "name": "Magifender Points",
+    "detail": "\"Event Point\"\nThe power of those who cheer for the Magifender Girls, acquired from \"The Land of Mystique, Oniland!\"",
+    "imageId": 94030104,
+    "bgImageId": 2,
+    "type": 14,
+    "unit": "",
+    "value": 0,
+    "sellQp": -1,
+    "isSell": false,
+    "priority": 94030104,
+    "dropPriority": 3004,
+    "startedAt": 1603080000,
+    "endedAt": 1604894399
+  },
+  {
+    "individuality": [
+      10342
+    ],
+    "script": {},
+    "eventId": 0,
+    "eventGroupId": 0,
+    "id": 94030105,
+    "name": "Magifender Wand",
+    "detail": "\"Ascension Material\"\nA toy replica of the wand wielded by Magifender Girls, acquired from \"The Land of Mystique, Oniland!\"",
+    "imageId": 94030105,
+    "bgImageId": 3,
+    "type": 15,
+    "unit": "",
+    "value": 0,
+    "sellQp": -1,
+    "isSell": false,
+    "priority": 94030105,
+    "dropPriority": 2005,
+    "startedAt": 1603080000,
+    "endedAt": 1910908800
   },
   {
     "individuality": [],

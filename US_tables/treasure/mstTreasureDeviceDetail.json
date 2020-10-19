@@ -1105,6 +1105,11 @@
     "detailShort": "Increase Critical Strength [{0}] (3 times, 5 turns) & apply Evade (1 time, 3 turns) & Death Immune (1 time, 3 turns) & Damage Cut (3 turns) <effect increases with Overcharge> for all allies "
   },
   {
+    "id": 504001,
+    "detail": "Apply Sure Hit to yourself (1 turn) + deal significant damage [{0}] & inflict Poison (5 turns) <effect increases with Overcharge> to a single enemy",
+    "detailShort": "Apply Sure Hit to yourself (1 turn) + deal significant damage [{0}] & inflict Poison (5 turns) <effect increases with Overcharge> to a single enemy"
+  },
+  {
     "id": 600101,
     "detail": "Deal significant damage to a single enemy [{0}] + gain large amount of C. Stars <effect increases with Overcharge>",
     "detailShort": "Deal significant damage to a single enemy [{0}] + gain large amount of C. Stars <effect increases with Overcharge>"
@@ -1158,6 +1163,11 @@
     "id": 600712,
     "detail": "Not Usable",
     "detailShort": "Not Usable"
+  },
+  {
+    "id": 600798,
+    "detail": "Unknown",
+    "detailShort": "Unknown"
   },
   {
     "id": 600801,
@@ -1613,6 +1623,11 @@
     "id": 1000701,
     "detail": "Deal heavy damage to all enemies [{0}] & decrease Buster Card Resistance (3 turns) for all enemies <effect increases with Overcharge>",
     "detailShort": "Deal heavy damage to all enemies [{0}] & decrease Buster Card Resistance (3 turns) for all enemies <effect increases with Overcharge>"
+  },
+  {
+    "id": 1000801,
+    "detail": "Deal significant damage [{0}] & decrease DEF (3 turns) <effect increases with Overcharge> & decrease Critical Rate (3 turns) <effect increases with Overcharge> to a single enemy & decrease Charge for a single [Dragon] enemy",
+    "detailShort": "Deal significant damage [{0}] & decrease DEF (3 turns) <effect increases with Overcharge> & decrease Critical Rate (3 turns) <effect increases with Overcharge> to a single enemy & decrease Charge for a single [Dragon] enemy"
   },
   {
     "id": 1100101,

@@ -19327,6 +19327,237 @@
   },
   {
     "vals": [],
+    "tvals": [
+      5000,
+      4003
+    ],
+    "ckSelfIndv": [
+      4003
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1380,
+    "buffGroup": 0,
+    "type": 135,
+    "name": "Quick ATK Strength Up",
+    "detail": "Increase Quick ATK Strength",
+    "iconId": 356,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4001
+    ],
+    "ckSelfIndv": [
+      4001
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1381,
+    "buffGroup": 0,
+    "type": 135,
+    "name": "Arts ATK Strength Up",
+    "detail": "Increase Arts ATK Strength",
+    "iconId": 357,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4002
+    ],
+    "ckSelfIndv": [
+      4002
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1382,
+    "buffGroup": 0,
+    "type": 135,
+    "name": "Buster ATK Strength Up",
+    "detail": "Increase Buster ATK Strength",
+    "iconId": 358,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006,
+      3031
+    ],
+    "tvals": [
+      2002
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      2002
+    ],
+    "script": {},
+    "id": 1383,
+    "buffGroup": 0,
+    "type": 18,
+    "name": "Critical Strengh Up [Dragon]",
+    "detail": "Increase Critical Hit damage against [Dragon]",
+    "iconId": 324,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      4007
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4007
+    ],
+    "script": {},
+    "id": 1384,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "Solo Concert in the Storm",
+    "detail": "Gain resistance against Noble Phantasm attacks",
+    "iconId": 334,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      3015
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      3015
+    ],
+    "script": {},
+    "id": 1385,
+    "buffGroup": 0,
+    "type": 31,
+    "name": "Solo Concert in the Storm",
+    "detail": "Immune to Burn",
+    "iconId": 322,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      3026
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      3026
+    ],
+    "script": {},
+    "id": 1386,
+    "buffGroup": 0,
+    "type": 31,
+    "name": "Solo Concert in the Storm",
+    "detail": "Immune to Curse",
+    "iconId": 322,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3007
+    ],
+    "tvals": [
+      100
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      100
+    ],
+    "script": {},
+    "id": 1387,
+    "buffGroup": 0,
+    "type": 109,
+    "name": "Change DEF Affinity",
+    "detail": "Negate Class disadvantages from Saber Class attributes",
+    "iconId": 520,
+    "maxRate": 2000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1388,
+    "buffGroup": 1100,
+    "type": 76,
+    "name": "I'll Only Take the Delicious Parts",
+    "detail": "Decrease NP Gauge after 1 turn",
+    "iconId": 525,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1389,
+    "buffGroup": 0,
+    "type": 3,
+    "name": "C. Star Drop Rate Up",
+    "detail": "Increase C. Star drop rate",
+    "iconId": 321,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1390,
+    "buffGroup": 0,
+    "type": 18,
+    "name": "Critical Up",
+    "detail": "Increase Critical Hit damage",
+    "iconId": 324,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006
+    ],
+    "tvals": [
+      100
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      100
+    ],
+    "script": {},
+    "id": 1391,
+    "buffGroup": 0,
+    "type": 108,
+    "name": "Change ATK Affinity",
+    "detail": "Negate Class disadvantages from Saber Class attributes",
+    "iconId": 520,
+    "maxRate": 2000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
     "tvals": [],
     "ckSelfIndv": [],
     "ckOpIndv": [],
@@ -19337,6 +19568,46 @@
     "name": "Command Code Bonus Attack Effect",
     "detail": "An additional effect is granted when attacking with the engraved Command Card.",
     "iconId": 333,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3007
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "relationId": 110
+    },
+    "id": 2580,
+    "buffGroup": 0,
+    "type": 144,
+    "name": "Change DEF Affinity",
+    "detail": "Negate Class disadvantages from Saber Class attributes",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "relationId": 111
+    },
+    "id": 2581,
+    "buffGroup": 0,
+    "type": 144,
+    "name": "Change ATK Affinity",
+    "detail": "Negate Class disadvantages from Saber Class attributes",
+    "iconId": 520,
     "maxRate": 0,
     "effectId": 0
   }
