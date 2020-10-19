@@ -37367,6 +37367,139 @@
   },
   {
     "targetIds": [
+      2001212,
+      2001213,
+      2001214,
+      2001215,
+      2001216,
+      2001217
+    ],
+    "missionId": 2001211,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2000867,
+    "missionTargetId": 100176,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 6,
+    "conditionMessage": "Complete all of this week's Master Missions",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001004
+    ],
+    "missionId": 2001212,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2000868,
+    "missionTargetId": 100176,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 30,
+    "conditionMessage": "Perform 30 Friend Point Summons",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001005
+    ],
+    "missionId": 2001213,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2000869,
+    "missionTargetId": 100176,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 5,
+    "conditionMessage": "Defeat 5 Servants",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001213
+    ],
+    "missionId": 2001214,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 2000870,
+    "missionTargetId": 100176,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 1,
+    "conditionMessage": "Defeat 10 Servants",
+    "closedMessage": "",
+    "flag": 64
+  },
+  {
+    "targetIds": [
+      2001005
+    ],
+    "missionId": 2001214,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2000871,
+    "missionTargetId": 100176,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 10,
+    "conditionMessage": "Defeat 10 Servants",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001006
+    ],
+    "missionId": 2001215,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2000872,
+    "missionTargetId": 100176,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "Defeat 15 Saber or Rider-class enemies",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001007
+    ],
+    "missionId": 2001216,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2000873,
+    "missionTargetId": 100176,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "Defeat 15 Archer or Caster-class enemies",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001008
+    ],
+    "missionId": 2001217,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2000874,
+    "missionTargetId": 100176,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "Defeat 15 Lancer, Assassin, or Berserker-class enemies",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
       94011901
     ],
     "missionId": 80054001,
