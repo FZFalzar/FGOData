@@ -59019,6 +59019,37 @@
   {
     "beforeActionVals": [],
     "afterActionVals": [],
+    "boardMessage": {
+      "text": {
+        "textString": "サポートのみ出撃",
+        "offset": [
+          -1,
+          -25
+        ],
+        "fontSize": 12,
+        "gradation": [
+          "#FFEC00",
+          "#FFEC00"
+        ]
+      },
+      "image": {
+        "bannerSp": "img_quest_formlimit_01",
+        "offset": [
+          3,
+          -25
+        ]
+      }
+    },
+    "questId": 94052705,
+    "phase": 1,
+    "spotId": 835701,
+    "consumeType": 1,
+    "actConsume": 5,
+    "flag": 30068965376
+  },
+  {
+    "beforeActionVals": [],
+    "afterActionVals": [],
     "boardMessage": {},
     "questId": 912500101,
     "phase": 1,
