@@ -59783,6 +59783,139 @@
   },
   {
     "targetIds": [
+      2001541,
+      2001542,
+      2001543,
+      2001544,
+      2001545,
+      2001546
+    ],
+    "missionId": 2001540,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001735,
+    "missionTargetId": 100223,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 6,
+    "conditionMessage": "今週のマスターミッションをすべてクリアせよ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001179
+    ],
+    "missionId": 2001541,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001736,
+    "missionTargetId": 100223,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 20,
+    "conditionMessage": "敵を20体倒せ(サーヴァント及び一部ボスなどは除く)",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001541
+    ],
+    "missionId": 2001542,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 2001737,
+    "missionTargetId": 100223,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 1,
+    "conditionMessage": "敵を40体倒せ(サーヴァント及び一部ボスなどは除く)",
+    "closedMessage": "",
+    "flag": 64
+  },
+  {
+    "targetIds": [
+      2001179
+    ],
+    "missionId": 2001542,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001738,
+    "missionTargetId": 100223,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 40,
+    "conditionMessage": "敵を40体倒せ(サーヴァント及び一部ボスなどは除く)",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001180
+    ],
+    "missionId": 2001543,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001739,
+    "missionTargetId": 100223,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 50,
+    "conditionMessage": "「復刻:クリスマス2019 ナイチンゲールのクリスマス・キャロル ライト版」の戦利品で「慈愛の包帯」を新たに50個獲得せよ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001181
+    ],
+    "missionId": 2001544,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001740,
+    "missionTargetId": 100223,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 50,
+    "conditionMessage": "「復刻:クリスマス2019 ナイチンゲールのクリスマス・キャロル ライト版」の戦利品で「奉仕の体温計」を新たに50個獲得せよ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001182
+    ],
+    "missionId": 2001545,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001741,
+    "missionTargetId": 100223,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 50,
+    "conditionMessage": "「復刻:クリスマス2019 ナイチンゲールのクリスマス・キャロル ライト版」の戦利品で「真心の枕」を新たに50個獲得せよ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001183
+    ],
+    "missionId": 2001546,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001742,
+    "missionTargetId": 100223,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 5,
+    "conditionMessage": "『アーチャー』クラスのサーヴァントを1騎以上編成して、いずれかのクエストを5回クリアせよ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
       3000001
     ],
     "missionId": 30000001,
