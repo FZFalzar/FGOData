@@ -209026,6 +209026,15 @@
   },
   {
     "questId": 94052707,
+    "type": 0,
+    "targetId": 0,
+    "value": 0,
+    "openLimit": 0,
+    "closedMessageId": 0,
+    "imagePriority": 8000
+  },
+  {
+    "questId": 94052707,
     "type": 1,
     "targetId": 94052706,
     "value": 0,
@@ -209043,12 +209052,30 @@
     "imagePriority": 9000
   },
   {
-    "questId": 94052707,
+    "questId": 94052708,
+    "type": 1,
+    "targetId": 94052707,
+    "value": 0,
+    "openLimit": 0,
+    "closedMessageId": 0,
+    "imagePriority": 10000
+  },
+  {
+    "questId": 94052708,
+    "type": 12,
+    "targetId": 0,
+    "value": 0,
+    "openLimit": 0,
+    "closedMessageId": 4,
+    "imagePriority": 9000
+  },
+  {
+    "questId": 94052708,
     "type": 92,
     "targetId": 0,
     "value": 0,
     "openLimit": 0,
-    "closedMessageId": 94052825,
+    "closedMessageId": 94052826,
     "imagePriority": 8000
   },
   {
@@ -209241,6 +209268,33 @@
     "imagePriority": 9000
   },
   {
+    "questId": 94052809,
+    "type": 1,
+    "targetId": 94052707,
+    "value": 0,
+    "openLimit": 0,
+    "closedMessageId": 0,
+    "imagePriority": 10000
+  },
+  {
+    "questId": 94052809,
+    "type": 1,
+    "targetId": 94052808,
+    "value": 0,
+    "openLimit": 0,
+    "closedMessageId": 94052824,
+    "imagePriority": 8000
+  },
+  {
+    "questId": 94052809,
+    "type": 12,
+    "targetId": 0,
+    "value": 0,
+    "openLimit": 0,
+    "closedMessageId": 0,
+    "imagePriority": 9000
+  },
+  {
     "questId": 94052810,
     "type": 1,
     "targetId": 94052702,
@@ -209257,6 +209311,33 @@
     "openLimit": 0,
     "closedMessageId": 0,
     "imagePriority": 9000
+  },
+  {
+    "questId": 94052901,
+    "type": 1,
+    "targetId": 1000822,
+    "value": 0,
+    "openLimit": 0,
+    "closedMessageId": 94023301,
+    "imagePriority": 8000
+  },
+  {
+    "questId": 94052901,
+    "type": 1,
+    "targetId": 94052707,
+    "value": 0,
+    "openLimit": 0,
+    "closedMessageId": 0,
+    "imagePriority": 9000
+  },
+  {
+    "questId": 94052901,
+    "type": 12,
+    "targetId": 0,
+    "value": 0,
+    "openLimit": 0,
+    "closedMessageId": 0,
+    "imagePriority": 10000
   },
   {
     "questId": 94053001,
