@@ -5733,6 +5733,72 @@
       9570300
     ],
     "script": {},
+    "id": 11190,
+    "baseShopId": 11190,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 1000,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 20,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "英霊結晶・星のフォウくん",
+    "detail": "★3ALLのHPアップカード1枚へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1604156400,
+    "closedAt": 1606748399
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      15
+    ],
+    "targetIds": [
+      9670300
+    ],
+    "script": {},
+    "id": 11191,
+    "baseShopId": 11191,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 2000,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 20,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "英霊結晶・太陽のフォウくん",
+    "detail": "★3ALLのATKアップカード1枚へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1604156400,
+    "closedAt": 1606748399
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      15
+    ],
+    "targetIds": [
+      9570300
+    ],
+    "script": {},
     "id": 14004,
     "baseShopId": 14004,
     "eventId": 0,
@@ -10446,6 +10512,72 @@
       0
     ],
     "prices": [
+      20
+    ],
+    "targetIds": [
+      4001
+    ],
+    "script": {},
+    "id": 14147,
+    "baseShopId": 14147,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 100,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 5,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "呼符",
+    "detail": "聖晶石召喚1回可能な呼符1枚へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1604156400,
+    "closedAt": 1606748399
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      40
+    ],
+    "targetIds": [
+      11011
+    ],
+    "script": {},
+    "id": 14148,
+    "baseShopId": 14148,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 200,
+    "purchaseType": 5,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 5,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "経験値カードセット",
+    "detail": "★4ALLの経験値カード10枚へ交換",
+    "infoMessage": "「経験値カード」のセットと交換できます。",
+    "warningMessage": "",
+    "imageId": 14,
+    "bgImageId": 0,
+    "openedAt": 1604156400,
+    "closedAt": 1606748399
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
       100
     ],
     "targetIds": [
@@ -13839,6 +13971,105 @@
     "bgImageId": 0,
     "openedAt": 1601478000,
     "closedAt": 1604156399
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      100
+    ],
+    "targetIds": [
+      5000
+    ],
+    "script": {},
+    "id": 18104,
+    "baseShopId": 18104,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 20,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "クイック・コード・オープナー",
+    "detail": "【コマンドコードスロット開放素材】へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1604156400,
+    "closedAt": 1606748399
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      100
+    ],
+    "targetIds": [
+      5001
+    ],
+    "script": {},
+    "id": 18105,
+    "baseShopId": 18105,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 21,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "アーツ・コード・オープナー",
+    "detail": "【コマンドコードスロット開放素材】へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1604156400,
+    "closedAt": 1606748399
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      100
+    ],
+    "targetIds": [
+      5002
+    ],
+    "script": {},
+    "id": 18106,
+    "baseShopId": 18106,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 22,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "バスター・コード・オープナー",
+    "detail": "【コマンドコードスロット開放素材】へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1604156400,
+    "closedAt": 1606748399
   },
   {
     "itemIds": [
