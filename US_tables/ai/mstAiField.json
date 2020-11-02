@@ -3471,6 +3471,438 @@
     "infoText": ""
   },
   {
+    "vals": [
+      600800
+    ],
+    "avals": [
+      802031,
+      0
+    ],
+    "script": {},
+    "id": 802030,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 100,
+    "probability": 100,
+    "cond": 56,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 802030,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      600800
+    ],
+    "avals": [
+      802032,
+      0
+    ],
+    "script": {},
+    "id": 802030,
+    "idx": 3,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 100,
+    "probability": 100,
+    "cond": 56,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 802030,
+    "idx": 4,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2354
+    ],
+    "avals": [
+      802030,
+      0
+    ],
+    "script": {},
+    "id": 802031,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 100,
+    "probability": 100,
+    "cond": -59,
+    "aiActId": 800037,
+    "infoText": "\"I'm Gonna Dazzle Even More!\""
+  },
+  {
+    "vals": [],
+    "avals": [
+      802030,
+      0
+    ],
+    "script": {},
+    "id": 802031,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2354
+    ],
+    "avals": [
+      802030,
+      0
+    ],
+    "script": {},
+    "id": 802032,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 100,
+    "probability": 100,
+    "cond": -59,
+    "aiActId": 800037,
+    "infoText": "\"I'm Gonna Dazzle Even More!\""
+  },
+  {
+    "vals": [],
+    "avals": [
+      802030,
+      0
+    ],
+    "script": {},
+    "id": 802032,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      603000
+    ],
+    "avals": [
+      802041,
+      0
+    ],
+    "script": {},
+    "id": 802040,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 100,
+    "probability": 100,
+    "cond": 56,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 802040,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      603000
+    ],
+    "avals": [
+      802042,
+      0
+    ],
+    "script": {},
+    "id": 802040,
+    "idx": 3,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 100,
+    "probability": 100,
+    "cond": 56,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 802040,
+    "idx": 4,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2354
+    ],
+    "avals": [
+      802040,
+      0
+    ],
+    "script": {},
+    "id": 802041,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 100,
+    "probability": 100,
+    "cond": -59,
+    "aiActId": 800039,
+    "infoText": "Out of Control Engine (Overload) "
+  },
+  {
+    "vals": [],
+    "avals": [
+      802040,
+      0
+    ],
+    "script": {},
+    "id": 802041,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2354
+    ],
+    "avals": [
+      802040,
+      0
+    ],
+    "script": {},
+    "id": 802042,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 100,
+    "probability": 100,
+    "cond": -59,
+    "aiActId": 800039,
+    "infoText": "Out of Control Engine (Overload) "
+  },
+  {
+    "vals": [],
+    "avals": [
+      802040,
+      0
+    ],
+    "script": {},
+    "id": 802042,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      602900
+    ],
+    "avals": [
+      802051,
+      0
+    ],
+    "script": {},
+    "id": 802050,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 100,
+    "probability": 100,
+    "cond": 56,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 802050,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      602900
+    ],
+    "avals": [
+      802052,
+      0
+    ],
+    "script": {},
+    "id": 802050,
+    "idx": 3,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 100,
+    "probability": 100,
+    "cond": 56,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 802050,
+    "idx": 4,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2354
+    ],
+    "avals": [
+      802050,
+      0
+    ],
+    "script": {},
+    "id": 802051,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 100,
+    "probability": 100,
+    "cond": -59,
+    "aiActId": 800040,
+    "infoText": "\"Chiyome Will Do It!\""
+  },
+  {
+    "vals": [],
+    "avals": [
+      802050,
+      0
+    ],
+    "script": {},
+    "id": 802051,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2354
+    ],
+    "avals": [
+      802050,
+      0
+    ],
+    "script": {},
+    "id": 802052,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 100,
+    "probability": 100,
+    "cond": -59,
+    "aiActId": 800040,
+    "infoText": "\"Chiyome Will Do It!\""
+  },
+  {
+    "vals": [],
+    "avals": [
+      802050,
+      0
+    ],
+    "script": {},
+    "id": 802052,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
     "vals": [],
     "avals": [
       0,
