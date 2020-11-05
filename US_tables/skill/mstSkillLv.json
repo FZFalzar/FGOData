@@ -186931,6 +186931,56 @@
   },
   {
     "funcId": [
+      288
+    ],
+    "svals": [
+      "[1000,-1,-1,ShowState:1]"
+    ],
+    "script": {},
+    "skillId": 991519,
+    "lv": 1,
+    "chargeTurn": 0,
+    "skillDetailId": 991519,
+    "priority": 0
+  },
+  {
+    "funcId": [
+      97
+    ],
+    "svals": [
+      "[2,10,0]"
+    ],
+    "script": {
+      "followerVals": [
+        "[2,30,0]"
+      ]
+    },
+    "skillId": 991520,
+    "lv": 1,
+    "chargeTurn": 0,
+    "skillDetailId": 991520,
+    "priority": 0
+  },
+  {
+    "funcId": [
+      97
+    ],
+    "svals": [
+      "[2,50,0]"
+    ],
+    "script": {
+      "followerVals": [
+        "[2,150,0]"
+      ]
+    },
+    "skillId": 991521,
+    "lv": 1,
+    "chargeTurn": 0,
+    "skillDetailId": 991521,
+    "priority": 0
+  },
+  {
+    "funcId": [
       90
     ],
     "svals": [
