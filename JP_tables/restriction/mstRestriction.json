@@ -1221,5 +1221,25 @@
     "name": "サポートのみ出撃",
     "type": 5,
     "rangeType": 0
+  },
+  {
+    "targetVals": [
+      6
+    ],
+    "id": 94053402,
+    "name": "6騎のみ出撃可能",
+    "type": 10,
+    "rangeType": 1
+  },
+  {
+    "targetVals": [
+      1,
+      2,
+      3
+    ],
+    "id": 94053403,
+    "name": "編成条件あり",
+    "type": 7,
+    "rangeType": 1
   }
 ]
