@@ -564,7 +564,10 @@
       326
     ],
     "actIndividuality": [],
-    "script": {},
+    "script": {
+      "OverwriteMotion_601000": 1001,
+      "OverwriteMotion_201200": 1001
+    },
     "id": 22350,
     "type": 1,
     "name": "Vampirism C",
@@ -2257,7 +2260,7 @@
     "ruby": "Journey of the Flowers",
     "maxLv": 10,
     "iconId": 602,
-    "motion": 102
+    "motion": 1001
   },
   {
     "effectList": [],
@@ -2906,7 +2909,10 @@
   {
     "effectList": [],
     "actIndividuality": [],
-    "script": {},
+    "script": {
+      "OverwriteMotion_601000": 1002,
+      "OverwriteMotion_201200": 1002
+    },
     "id": 91550,
     "type": 1,
     "name": "Siren Song A",
@@ -5186,7 +5192,9 @@
   {
     "effectList": [],
     "actIndividuality": [],
-    "script": {},
+    "script": {
+      "OverwriteMotion_201200": 1003
+    },
     "id": 230550,
     "type": 1,
     "name": "Whim of the Goddess A",
@@ -5198,7 +5206,9 @@
   {
     "effectList": [],
     "actIndividuality": [],
-    "script": {},
+    "script": {
+      "OverwriteMotion_601000": 1003
+    },
     "id": 230800,
     "type": 1,
     "name": "Whim of the Goddess A",
@@ -9997,12 +10007,72 @@
     "effectList": [],
     "actIndividuality": [],
     "script": {},
+    "id": 940080,
+    "type": 2,
+    "name": "Hollow Candle Collector",
+    "ruby": "",
+    "maxLv": 1,
+    "iconId": 200,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 940081,
+    "type": 2,
+    "name": "Corpse Bell Collector",
+    "ruby": "",
+    "maxLv": 1,
+    "iconId": 200,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 940082,
+    "type": 2,
+    "name": "Snow Baby Collector",
+    "ruby": "",
+    "maxLv": 1,
+    "iconId": 200,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 940083,
+    "type": 2,
+    "name": "Sand of the Underworld Collector",
+    "ruby": "",
+    "maxLv": 1,
+    "iconId": 200,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
     "id": 940084,
     "type": 2,
     "name": "Shining Magifender Power",
     "ruby": "Shining Magifender Power",
     "maxLv": 1,
     "iconId": 601,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 940088,
+    "type": 2,
+    "name": "Santa in Abyss",
+    "ruby": "Santa in Abyss",
+    "maxLv": 1,
+    "iconId": 301,
     "motion": 101
   },
   {
@@ -24727,7 +24797,7 @@
     "ruby": "-",
     "maxLv": 1,
     "iconId": 600,
-    "motion": 103
+    "motion": 1002
   },
   {
     "effectList": [],
@@ -33620,6 +33690,18 @@
     "maxLv": 1,
     "iconId": 205,
     "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 962208,
+    "type": 1,
+    "name": "\"Sorry I'm a Pushover!\"",
+    "ruby": "-",
+    "maxLv": 1,
+    "iconId": 600,
+    "motion": 102
   },
   {
     "effectList": [],
@@ -52155,6 +52237,174 @@
     "effectList": [],
     "actIndividuality": [],
     "script": {},
+    "id": 991522,
+    "type": 2,
+    "name": "Increase Snow Baby amount per drop",
+    "ruby": "-",
+    "maxLv": 1,
+    "iconId": 200,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 991523,
+    "type": 2,
+    "name": "Increase Snow Baby amount per drop",
+    "ruby": "-",
+    "maxLv": 1,
+    "iconId": 200,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 991524,
+    "type": 2,
+    "name": "Increase Corpse Bell amount per drop",
+    "ruby": "-",
+    "maxLv": 1,
+    "iconId": 200,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 991525,
+    "type": 2,
+    "name": "Increase Corpse Bell amount per drop",
+    "ruby": "-",
+    "maxLv": 1,
+    "iconId": 200,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 991526,
+    "type": 2,
+    "name": "Increase Hollow Candle amount per drop",
+    "ruby": "-",
+    "maxLv": 1,
+    "iconId": 200,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 991527,
+    "type": 2,
+    "name": "Increase Hollow Candle amount per drop",
+    "ruby": "-",
+    "maxLv": 1,
+    "iconId": 200,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 991528,
+    "type": 2,
+    "name": "Increase Sand of the Underworld amount per drop",
+    "ruby": "-",
+    "maxLv": 1,
+    "iconId": 200,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 991529,
+    "type": 2,
+    "name": "Increase Sand of the Underworld amount per drop",
+    "ruby": "-",
+    "maxLv": 1,
+    "iconId": 200,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 991595,
+    "type": 2,
+    "name": "The Noble Sword and Shield",
+    "ruby": "The Noble Sword and Shield",
+    "maxLv": 1,
+    "iconId": 202,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 991596,
+    "type": 2,
+    "name": "An Encounter in the Dark Night",
+    "ruby": "An Encounter in the Dark Night",
+    "maxLv": 1,
+    "iconId": 202,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 991597,
+    "type": 2,
+    "name": "Perfect Destruction",
+    "ruby": "Perfect Destruction",
+    "maxLv": 1,
+    "iconId": 202,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 991598,
+    "type": 2,
+    "name": "Contest of Speed",
+    "ruby": "Contest of Speed",
+    "maxLv": 1,
+    "iconId": 202,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 991602,
+    "type": 2,
+    "name": "The Disillusioned Blossom's Command Seal",
+    "ruby": "The Disillusioned Blossom's Command Seal",
+    "maxLv": 1,
+    "iconId": 512,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 991603,
+    "type": 2,
+    "name": "",
+    "ruby": "",
+    "maxLv": 1,
+    "iconId": 512,
+    "motion": 104
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
     "id": 991945,
     "type": 2,
     "name": "Absolute Demonic Front: Babylonia",
@@ -52183,6 +52433,54 @@
     "type": 2,
     "name": "Elegant Heavens, Generous Earth",
     "ruby": "Elegant Heavens, Generous Earth",
+    "maxLv": 1,
+    "iconId": 202,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 992177,
+    "type": 2,
+    "name": "Shadow of Vanity",
+    "ruby": "",
+    "maxLv": 1,
+    "iconId": 202,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 992178,
+    "type": 2,
+    "name": "The Dreaming Path",
+    "ruby": "",
+    "maxLv": 1,
+    "iconId": 202,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 992179,
+    "type": 2,
+    "name": "Seed of Thorns",
+    "ruby": "",
+    "maxLv": 1,
+    "iconId": 202,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 992180,
+    "type": 2,
+    "name": "Held up to the Heavens",
+    "ruby": "",
     "maxLv": 1,
     "iconId": 202,
     "motion": 101

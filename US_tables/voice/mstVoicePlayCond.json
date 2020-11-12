@@ -51,6 +51,30 @@
     "condValues": [
       0
     ],
+    "svtId": 201200,
+    "voicePrefix": -1,
+    "voiceId": "H230",
+    "idx": 1,
+    "condGroup": 1,
+    "condType": 40,
+    "targetId": 503300
+  },
+  {
+    "condValues": [
+      0
+    ],
+    "svtId": 201200,
+    "voicePrefix": -1,
+    "voiceId": "H230",
+    "idx": 2,
+    "condGroup": 1,
+    "condType": 1,
+    "targetId": 2000403
+  },
+  {
+    "condValues": [
+      0
+    ],
     "svtId": 202100,
     "voicePrefix": -1,
     "voiceId": "P010",
@@ -118,6 +142,78 @@
     "condGroup": 1,
     "condType": 66,
     "targetId": 1
+  },
+  {
+    "condValues": [
+      0
+    ],
+    "svtId": 202200,
+    "voicePrefix": -1,
+    "voiceId": "H020",
+    "idx": 1,
+    "condGroup": 1,
+    "condType": 1,
+    "targetId": 94018808
+  },
+  {
+    "condValues": [
+      0
+    ],
+    "svtId": 202200,
+    "voicePrefix": -1,
+    "voiceId": "H020",
+    "idx": 2,
+    "condGroup": 2,
+    "condType": 1,
+    "targetId": 94030808
+  },
+  {
+    "condValues": [
+      0
+    ],
+    "svtId": 202200,
+    "voicePrefix": -1,
+    "voiceId": "H040",
+    "idx": 1,
+    "condGroup": 1,
+    "condType": 81,
+    "targetId": 1
+  },
+  {
+    "condValues": [
+      0
+    ],
+    "svtId": 202200,
+    "voicePrefix": -1,
+    "voiceId": "H130",
+    "idx": 1,
+    "condGroup": 1,
+    "condType": 1,
+    "targetId": 94018808
+  },
+  {
+    "condValues": [
+      0
+    ],
+    "svtId": 202200,
+    "voicePrefix": -1,
+    "voiceId": "H130",
+    "idx": 2,
+    "condGroup": 2,
+    "condType": 1,
+    "targetId": 94030808
+  },
+  {
+    "condValues": [
+      0
+    ],
+    "svtId": 202200,
+    "voicePrefix": -1,
+    "voiceId": "H5040",
+    "idx": 1,
+    "condGroup": 1,
+    "condType": 81,
+    "targetId": 2
   },
   {
     "condValues": [
@@ -154,6 +250,54 @@
     "condGroup": 1,
     "condType": 1,
     "targetId": 3000218
+  },
+  {
+    "condValues": [
+      0
+    ],
+    "svtId": 303200,
+    "voicePrefix": -1,
+    "voiceId": "H180",
+    "idx": 1,
+    "condGroup": 1,
+    "condType": 8,
+    "targetId": 303200
+  },
+  {
+    "condValues": [
+      0
+    ],
+    "svtId": 303200,
+    "voicePrefix": -1,
+    "voiceId": "H180",
+    "idx": 2,
+    "condGroup": 1,
+    "condType": 8,
+    "targetId": 401800
+  },
+  {
+    "condValues": [
+      0
+    ],
+    "svtId": 303200,
+    "voicePrefix": -1,
+    "voiceId": "H190",
+    "idx": 1,
+    "condGroup": 1,
+    "condType": 8,
+    "targetId": 303200
+  },
+  {
+    "condValues": [
+      0
+    ],
+    "svtId": 303200,
+    "voicePrefix": -1,
+    "voiceId": "H190",
+    "idx": 2,
+    "condGroup": 1,
+    "condType": 8,
+    "targetId": 202200
   },
   {
     "condValues": [

@@ -2250,8 +2250,28 @@
     "isDispValue": true
   },
   {
+    "funcId": 2058,
+    "eventId": 80221,
+    "baseFuncId": 0,
+    "nameTotal": "{0}\nTotal Bonus Amount",
+    "name": "{0} acquired",
+    "iconId": 94018801,
+    "priority": 1,
+    "isDispValue": true
+  },
+  {
     "funcId": 2059,
     "eventId": 80084,
+    "baseFuncId": 0,
+    "nameTotal": "{0}\nTotal Bonus Amount",
+    "name": "{0} acquired",
+    "iconId": 94018802,
+    "priority": 1,
+    "isDispValue": true
+  },
+  {
+    "funcId": 2059,
+    "eventId": 80221,
     "baseFuncId": 0,
     "nameTotal": "{0}\nTotal Bonus Amount",
     "name": "{0} acquired",
@@ -2270,8 +2290,28 @@
     "isDispValue": true
   },
   {
+    "funcId": 2060,
+    "eventId": 80221,
+    "baseFuncId": 0,
+    "nameTotal": "{0}\nTotal Bonus Amount",
+    "name": "{0} acquired",
+    "iconId": 94018803,
+    "priority": 1,
+    "isDispValue": true
+  },
+  {
     "funcId": 2061,
     "eventId": 80084,
+    "baseFuncId": 0,
+    "nameTotal": "{0}\nTotal Bonus Amount",
+    "name": "{0} acquired",
+    "iconId": 94018805,
+    "priority": 1,
+    "isDispValue": true
+  },
+  {
+    "funcId": 2061,
+    "eventId": 80221,
     "baseFuncId": 0,
     "nameTotal": "{0}\nTotal Bonus Amount",
     "name": "{0} acquired",
@@ -3046,6 +3086,16 @@
     "nameTotal": "{1}\nTotal Buster ATK Strength Up",
     "name": "Increase Buster ATK Strength",
     "iconId": 358,
+    "priority": 1,
+    "isDispValue": true
+  },
+  {
+    "funcId": 3022,
+    "eventId": 80221,
+    "baseFuncId": 0,
+    "nameTotal": "{1}\nTotal ATK Strength Up",
+    "name": "Increase ATK Strength",
+    "iconId": 302,
     "priority": 1,
     "isDispValue": true
   },

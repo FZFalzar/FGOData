@@ -20,6 +20,23 @@
     "vals": [],
     "tvals": [],
     "questTvals": [],
+    "effectList": [
+      355
+    ],
+    "popupTextColor": 1,
+    "id": 1,
+    "cond": 0,
+    "funcType": 0,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "None",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
     "effectList": [],
     "popupTextColor": 1,
     "id": 5,
@@ -51669,6 +51686,46 @@
     "categoryId": 0
   },
   {
+    "vals": [
+      1394
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 3021,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 3,
+    "applyTarget": 2,
+    "popupIconId": 327,
+    "popupText": "Critical Rate\nUp",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1395
+    ],
+    "tvals": [],
+    "questTvals": [
+      94000070
+    ],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 3022,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 302,
+    "popupText": "STR Up: Merry Christmas in the Underworld",
+    "categoryId": 0
+  },
+  {
     "vals": [],
     "tvals": [],
     "questTvals": [
@@ -51745,6 +51802,25 @@
     "applyTarget": 3,
     "popupIconId": 0,
     "popupText": "None",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3027
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 1,
+    "id": 3270,
+    "cond": 0,
+    "funcType": 2,
+    "targetType": 4,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "Remove ATK Up",
     "categoryId": 0
   },
   {

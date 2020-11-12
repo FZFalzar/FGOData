@@ -1728,6 +1728,72 @@
   },
   {
     "targetIds": [
+      7
+    ],
+    "addTargetIds": [
+      1
+    ],
+    "targetQuestIndividualities": [],
+    "id": 1000042,
+    "missionTargetId": 200060,
+    "missionCondType": 18,
+    "logicType": 1,
+    "conditionLinkType": 3
+  },
+  {
+    "targetIds": [
+      4
+    ],
+    "addTargetIds": [
+      1
+    ],
+    "targetQuestIndividualities": [],
+    "id": 1000043,
+    "missionTargetId": 200060,
+    "missionCondType": 18,
+    "logicType": 1,
+    "conditionLinkType": 3
+  },
+  {
+    "targetIds": [
+      2005
+    ],
+    "addTargetIds": [],
+    "targetQuestIndividualities": [],
+    "id": 1000044,
+    "missionTargetId": 200060,
+    "missionCondType": 2,
+    "logicType": 1,
+    "conditionLinkType": 3
+  },
+  {
+    "targetIds": [
+      1000,
+      301
+    ],
+    "addTargetIds": [],
+    "targetQuestIndividualities": [],
+    "id": 1000045,
+    "missionTargetId": 200060,
+    "missionCondType": 13,
+    "logicType": 1,
+    "conditionLinkType": 3
+  },
+  {
+    "targetIds": [
+      1000,
+      300
+    ],
+    "addTargetIds": [],
+    "targetQuestIndividualities": [],
+    "id": 1000046,
+    "missionTargetId": 200060,
+    "missionCondType": 13,
+    "logicType": 1,
+    "conditionLinkType": 3
+  },
+  {
+    "targetIds": [
       6512
     ],
     "addTargetIds": [],
@@ -18703,7 +18769,7 @@
     "addTargetIds": [],
     "targetQuestIndividualities": [],
     "id": 2001017,
-    "missionTargetId": 100178,
+    "missionTargetId": 100179,
     "missionCondType": 24,
     "logicType": 1,
     "conditionLinkType": 3
@@ -18799,6 +18865,131 @@
     "id": 2001022,
     "missionTargetId": 100179,
     "missionCondType": 12,
+    "logicType": 1,
+    "conditionLinkType": 3
+  },
+  {
+    "targetIds": [
+      2,
+      4
+    ],
+    "addTargetIds": [
+      1000
+    ],
+    "targetQuestIndividualities": [],
+    "id": 2001023,
+    "missionTargetId": 100180,
+    "missionCondType": 15,
+    "logicType": 1,
+    "conditionLinkType": 3
+  },
+  {
+    "targetIds": [
+      3,
+      6
+    ],
+    "addTargetIds": [
+      1000
+    ],
+    "targetQuestIndividualities": [],
+    "id": 2001024,
+    "missionTargetId": 100180,
+    "missionCondType": 15,
+    "logicType": 1,
+    "conditionLinkType": 3
+  },
+  {
+    "targetIds": [
+      1,
+      5,
+      7
+    ],
+    "addTargetIds": [
+      1000
+    ],
+    "targetQuestIndividualities": [],
+    "id": 2001025,
+    "missionTargetId": 100180,
+    "missionCondType": 15,
+    "logicType": 1,
+    "conditionLinkType": 3
+  },
+  {
+    "targetIds": [
+      2
+    ],
+    "addTargetIds": [
+      1
+    ],
+    "targetQuestIndividualities": [],
+    "id": 2001026,
+    "missionTargetId": 100180,
+    "missionCondType": 18,
+    "logicType": 1,
+    "conditionLinkType": 3
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "addTargetIds": [],
+    "targetQuestIndividualities": [],
+    "id": 2001027,
+    "missionTargetId": 100180,
+    "missionCondType": 24,
+    "logicType": 1,
+    "conditionLinkType": 3
+  },
+  {
+    "targetIds": [
+      1
+    ],
+    "addTargetIds": [],
+    "targetQuestIndividualities": [],
+    "id": 2001028,
+    "missionTargetId": 100181,
+    "missionCondType": 21,
+    "logicType": 1,
+    "conditionLinkType": 3
+  },
+  {
+    "targetIds": [
+      1000
+    ],
+    "addTargetIds": [],
+    "targetQuestIndividualities": [],
+    "id": 2001029,
+    "missionTargetId": 100181,
+    "missionCondType": 2,
+    "logicType": 1,
+    "conditionLinkType": 3
+  },
+  {
+    "targetIds": [
+      1,
+      2,
+      3
+    ],
+    "addTargetIds": [],
+    "targetQuestIndividualities": [],
+    "id": 2001030,
+    "missionTargetId": 100181,
+    "missionCondType": 16,
+    "logicType": 1,
+    "conditionLinkType": 3
+  },
+  {
+    "targetIds": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "addTargetIds": [],
+    "targetQuestIndividualities": [],
+    "id": 2001031,
+    "missionTargetId": 100181,
+    "missionCondType": 16,
     "logicType": 1,
     "conditionLinkType": 3
   },

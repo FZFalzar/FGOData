@@ -1501,6 +1501,30 @@
   },
   {
     "condValues": [
+      94017501
+    ],
+    "shopId": 6000399,
+    "condType": 36,
+    "condNum": 1,
+    "priority": 0,
+    "isClosedDisp": true,
+    "closedMessage": "Cannot be exchanged (quest already cleared).",
+    "closedItemName": ""
+  },
+  {
+    "condValues": [
+      94017401
+    ],
+    "shopId": 6000400,
+    "condType": 36,
+    "condNum": 1,
+    "priority": 0,
+    "isClosedDisp": true,
+    "closedMessage": "Cannot be exchanged (quest already cleared).",
+    "closedItemName": ""
+  },
+  {
+    "condValues": [
       1000011
     ],
     "shopId": 7501701,
@@ -2889,6 +2913,330 @@
     "priority": 0,
     "isClosedDisp": true,
     "closedMessage": "Exchangeable after completing the Main Quest",
+    "closedItemName": ""
+  },
+  {
+    "condValues": [
+      94000505
+    ],
+    "shopId": 9000000,
+    "condType": 2,
+    "condNum": 1,
+    "priority": 1,
+    "isClosedDisp": false,
+    "closedMessage": "Unable to exchange, requirements not met",
+    "closedItemName": ""
+  },
+  {
+    "condValues": [
+      502600
+    ],
+    "shopId": 9000000,
+    "condType": 93,
+    "condNum": 1,
+    "priority": 0,
+    "isClosedDisp": false,
+    "closedMessage": "Unable to exchange, requirements not met",
+    "closedItemName": ""
+  },
+  {
+    "condValues": [
+      94000905
+    ],
+    "shopId": 9000001,
+    "condType": 2,
+    "condNum": 1,
+    "priority": 1,
+    "isClosedDisp": false,
+    "closedMessage": "Unable to exchange, requirements not met",
+    "closedItemName": ""
+  },
+  {
+    "condValues": [
+      202400
+    ],
+    "shopId": 9000001,
+    "condType": 93,
+    "condNum": 1,
+    "priority": 0,
+    "isClosedDisp": false,
+    "closedMessage": "Unable to exchange, requirements not met",
+    "closedItemName": ""
+  },
+  {
+    "condValues": [
+      94001205
+    ],
+    "shopId": 9000002,
+    "condType": 2,
+    "condNum": 1,
+    "priority": 1,
+    "isClosedDisp": false,
+    "closedMessage": "Unable to exchange, requirements not met",
+    "closedItemName": ""
+  },
+  {
+    "condValues": [
+      402200
+    ],
+    "shopId": 9000002,
+    "condType": 93,
+    "condNum": 1,
+    "priority": 0,
+    "isClosedDisp": false,
+    "closedMessage": "Unable to exchange, requirements not met",
+    "closedItemName": ""
+  },
+  {
+    "condValues": [
+      94002005
+    ],
+    "shopId": 9000003,
+    "condType": 2,
+    "condNum": 1,
+    "priority": 1,
+    "isClosedDisp": false,
+    "closedMessage": "Unable to exchange, requirements not met",
+    "closedItemName": ""
+  },
+  {
+    "condValues": [
+      602300
+    ],
+    "shopId": 9000003,
+    "condType": 93,
+    "condNum": 1,
+    "priority": 0,
+    "isClosedDisp": false,
+    "closedMessage": "Unable to exchange, requirements not met",
+    "closedItemName": ""
+  },
+  {
+    "condValues": [
+      94003112
+    ],
+    "shopId": 9000004,
+    "condType": 2,
+    "condNum": 1,
+    "priority": 1,
+    "isClosedDisp": false,
+    "closedMessage": "Unable to exchange, requirements not met",
+    "closedItemName": ""
+  },
+  {
+    "condValues": [
+      502000
+    ],
+    "shopId": 9000004,
+    "condType": 93,
+    "condNum": 1,
+    "priority": 0,
+    "isClosedDisp": false,
+    "closedMessage": "Unable to exchange, requirements not met",
+    "closedItemName": ""
+  },
+  {
+    "condValues": [
+      94004509
+    ],
+    "shopId": 9000005,
+    "condType": 2,
+    "condNum": 1,
+    "priority": 1,
+    "isClosedDisp": false,
+    "closedMessage": "Unable to exchange, requirements not met",
+    "closedItemName": ""
+  },
+  {
+    "condValues": [
+      402300
+    ],
+    "shopId": 9000005,
+    "condType": 93,
+    "condNum": 1,
+    "priority": 0,
+    "isClosedDisp": false,
+    "closedMessage": "Unable to exchange, requirements not met",
+    "closedItemName": ""
+  },
+  {
+    "condValues": [
+      94005606
+    ],
+    "shopId": 9000006,
+    "condType": 2,
+    "condNum": 1,
+    "priority": 1,
+    "isClosedDisp": false,
+    "closedMessage": "Unable to exchange, requirements not met",
+    "closedItemName": ""
+  },
+  {
+    "condValues": [
+      602400
+    ],
+    "shopId": 9000006,
+    "condType": 93,
+    "condNum": 1,
+    "priority": 0,
+    "isClosedDisp": false,
+    "closedMessage": "Unable to exchange, requirements not met",
+    "closedItemName": ""
+  },
+  {
+    "condValues": [
+      94007704
+    ],
+    "shopId": 9000007,
+    "condType": 2,
+    "condNum": 1,
+    "priority": 1,
+    "isClosedDisp": false,
+    "closedMessage": "Unable to exchange, requirements not met",
+    "closedItemName": ""
+  },
+  {
+    "condValues": [
+      101000
+    ],
+    "shopId": 9000007,
+    "condType": 93,
+    "condNum": 1,
+    "priority": 0,
+    "isClosedDisp": false,
+    "closedMessage": "Unable to exchange, requirements not met",
+    "closedItemName": ""
+  },
+  {
+    "condValues": [
+      94009006
+    ],
+    "shopId": 9000008,
+    "condType": 2,
+    "condNum": 1,
+    "priority": 1,
+    "isClosedDisp": false,
+    "closedMessage": "Unable to exchange, requirements not met",
+    "closedItemName": ""
+  },
+  {
+    "condValues": [
+      302600
+    ],
+    "shopId": 9000008,
+    "condType": 93,
+    "condNum": 1,
+    "priority": 0,
+    "isClosedDisp": false,
+    "closedMessage": "Unable to exchange, requirements not met",
+    "closedItemName": ""
+  },
+  {
+    "condValues": [
+      94011306
+    ],
+    "shopId": 9000009,
+    "condType": 2,
+    "condNum": 1,
+    "priority": 1,
+    "isClosedDisp": false,
+    "closedMessage": "Unable to exchange, requirements not met",
+    "closedItemName": ""
+  },
+  {
+    "condValues": [
+      702600
+    ],
+    "shopId": 9000009,
+    "condType": 93,
+    "condNum": 1,
+    "priority": 0,
+    "isClosedDisp": false,
+    "closedMessage": "Unable to exchange, requirements not met",
+    "closedItemName": ""
+  },
+  {
+    "condValues": [
+      94015007
+    ],
+    "shopId": 9000010,
+    "condType": 2,
+    "condNum": 1,
+    "priority": 1,
+    "isClosedDisp": false,
+    "closedMessage": "Unable to exchange, requirements not met",
+    "closedItemName": ""
+  },
+  {
+    "condValues": [
+      402600
+    ],
+    "shopId": 9000010,
+    "condType": 93,
+    "condNum": 1,
+    "priority": 0,
+    "isClosedDisp": false,
+    "closedMessage": "Unable to exchange, requirements not met",
+    "closedItemName": ""
+  },
+  {
+    "condValues": [
+      94017504
+    ],
+    "shopId": 9000011,
+    "condType": 2,
+    "condNum": 1,
+    "priority": 2,
+    "isClosedDisp": false,
+    "closedMessage": "Unable to exchange, requirements not met",
+    "closedItemName": ""
+  },
+  {
+    "condValues": [
+      1000400
+    ],
+    "shopId": 9000011,
+    "condType": 93,
+    "condNum": 1,
+    "priority": 0,
+    "isClosedDisp": false,
+    "closedMessage": "Unable to exchange, requirements not met",
+    "closedItemName": ""
+  },
+  {
+    "condValues": [
+      1000500
+    ],
+    "shopId": 9000011,
+    "condType": 93,
+    "condNum": 1,
+    "priority": 1,
+    "isClosedDisp": false,
+    "closedMessage": "Unable to exchange, requirements not met",
+    "closedItemName": ""
+  },
+  {
+    "condValues": [
+      94018806
+    ],
+    "shopId": 9000012,
+    "condType": 2,
+    "condNum": 1,
+    "priority": 1,
+    "isClosedDisp": false,
+    "closedMessage": "Unable to exchange, requirements not met",
+    "closedItemName": ""
+  },
+  {
+    "condValues": [
+      202200
+    ],
+    "shopId": 9000012,
+    "condType": 93,
+    "condNum": 1,
+    "priority": 0,
+    "isClosedDisp": false,
+    "closedMessage": "Unable to exchange, requirements not met",
     "closedItemName": ""
   },
   {
@@ -17369,6 +17717,102 @@
     "priority": 50,
     "isClosedDisp": true,
     "closedMessage": "Unable to exchange, requirements not met",
+    "closedItemName": ""
+  },
+  {
+    "condValues": [
+      94030808
+    ],
+    "shopId": 80221002,
+    "condType": 1,
+    "condNum": 1,
+    "priority": 0,
+    "isClosedDisp": true,
+    "closedMessage": "Exchangeable after completing the Main Quest",
+    "closedItemName": ""
+  },
+  {
+    "condValues": [
+      94030808
+    ],
+    "shopId": 80221010,
+    "condType": 1,
+    "condNum": 1,
+    "priority": 0,
+    "isClosedDisp": true,
+    "closedMessage": "Exchangeable after completing the Main Quest",
+    "closedItemName": ""
+  },
+  {
+    "condValues": [
+      94030808
+    ],
+    "shopId": 80221017,
+    "condType": 1,
+    "condNum": 1,
+    "priority": 0,
+    "isClosedDisp": true,
+    "closedMessage": "Exchangeable after completing the Main Quest",
+    "closedItemName": ""
+  },
+  {
+    "condValues": [
+      80221030
+    ],
+    "shopId": 80221023,
+    "condType": 14,
+    "condNum": 1,
+    "priority": 0,
+    "isClosedDisp": true,
+    "closedMessage": "Exchangeable up to 4 times after Attila the San(ta) officially joins the party",
+    "closedItemName": ""
+  },
+  {
+    "condValues": [
+      94030808
+    ],
+    "shopId": 80221027,
+    "condType": 1,
+    "condNum": 1,
+    "priority": 0,
+    "isClosedDisp": true,
+    "closedMessage": "Exchangeable after completing the Main Quest",
+    "closedItemName": ""
+  },
+  {
+    "condValues": [
+      94030808
+    ],
+    "shopId": 80221030,
+    "condType": 1,
+    "condNum": 1,
+    "priority": 0,
+    "isClosedDisp": true,
+    "closedMessage": "Exchangeable after completing the Main Quest",
+    "closedItemName": ""
+  },
+  {
+    "condValues": [
+      94030807
+    ],
+    "shopId": 80221031,
+    "condType": 2,
+    "condNum": 1,
+    "priority": 0,
+    "isClosedDisp": true,
+    "closedMessage": "Exchangeable with \"War God Exchange Ticket\"",
+    "closedItemName": ""
+  },
+  {
+    "condValues": [
+      94030807
+    ],
+    "shopId": 80221032,
+    "condType": 2,
+    "condNum": 1,
+    "priority": 0,
+    "isClosedDisp": true,
+    "closedMessage": "Exchangeable with \"War God Exchange Ticket\"",
     "closedItemName": ""
   },
   {
