@@ -19292,5 +19292,27 @@
     "targetNum": 0,
     "frequencyType": 3,
     "displayType": 1
+  },
+  {
+    "questId": 94053413,
+    "phase": 1,
+    "idx": 1,
+    "message": "このクエストでは\nパーティ編成はバトルの直前に行います。\n\nクエストを開始しますか？",
+    "condType": 0,
+    "targetId": 0,
+    "targetNum": 0,
+    "frequencyType": 3,
+    "displayType": 1
+  },
+  {
+    "questId": 94053414,
+    "phase": 3,
+    "idx": 1,
+    "message": "～ 注意 ～\n\n「第三幕 極静域の鯨波(6/6)進行度3」は\nサポートとして選択した\n源頼光が\n撃破された場合敗北となります。\n\nクエストを開始しますか？",
+    "condType": 47,
+    "targetId": 94053414,
+    "targetNum": 3,
+    "frequencyType": 3,
+    "displayType": 1
   }
 ]
