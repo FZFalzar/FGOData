@@ -100579,5 +100579,244 @@
     "popupIconId": 0,
     "popupText": "宝具準備完了",
     "categoryId": 0
+  },
+  {
+    "vals": [
+      3118
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 2,
+    "id": 6131,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 350,
+    "popupText": "死亡時発動(攻撃力アップ)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3119
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 2,
+    "id": 6132,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 350,
+    "popupText": "死亡時発動(NP獲得ダウン)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3120
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 2,
+    "id": 6133,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 350,
+    "popupText": "死亡時発動(攻撃力ダウン)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3121
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 2,
+    "id": 6134,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 350,
+    "popupText": "死亡時発動(スター発生ダウン＋クリティカル威力アップ)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3122
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 2,
+    "id": 6135,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 350,
+    "popupText": "死亡時発動(呪い付与＆スキルターン減少)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3123
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 2,
+    "id": 6136,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 350,
+    "popupText": "死亡時発動(チャージ増加)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      329
+    ],
+    "tvals": [
+      500200
+    ],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 6137,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 334,
+    "popupText": "特殊耐性アップ",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      126
+    ],
+    "tvals": [
+      500200
+    ],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 6138,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 300,
+    "popupText": "攻撃力アップ",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3124
+    ],
+    "tvals": [
+      500200
+    ],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 1,
+    "id": 6139,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 3,
+    "applyTarget": 2,
+    "popupIconId": 323,
+    "popupText": "タゲ集中アップ",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 6140,
+    "cond": 0,
+    "funcType": 19,
+    "targetType": 11,
+    "applyTarget": 2,
+    "popupIconId": 0,
+    "popupText": "チャージ増加",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      142
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      330
+    ],
+    "popupTextColor": 2,
+    "id": 6141,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 324,
+    "popupText": "クリティカル威力アップ",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      142
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 6142,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 324,
+    "popupText": "クリティカル威力アップ",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      142
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 6143,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 324,
+    "popupText": "クリティカル威力アップ",
+    "categoryId": 0
   }
 ]

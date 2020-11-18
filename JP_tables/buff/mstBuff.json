@@ -39766,5 +39766,125 @@
     "iconId": 501,
     "maxRate": 0,
     "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3118,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "死亡時発動(攻撃力アップ)",
+    "detail": "HPが0になった時、ジルの攻撃力をアップ",
+    "iconId": 350,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3119,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "死亡時発動(NP獲得ダウン)",
+    "detail": "HPが0になった時、敵全体のNP獲得量ダウン",
+    "iconId": 350,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3120,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "死亡時発動(攻撃力ダウン)",
+    "detail": "HPが0になった時、敵全体の攻撃力ダウン",
+    "iconId": 350,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3121,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "死亡時発動(スター発生ダウン＋クリティカル威力アップ)",
+    "detail": "HPが0になった時、敵全体のスター発生率ダウン＋味方全体のクリティカル威力アップ",
+    "iconId": 350,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3122,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "死亡時発動(呪い付与＆スキルターン減少)",
+    "detail": "HPが0になった時、敵全体に呪い状態を3個付与＆スキルターンを2進める【デメリット】",
+    "iconId": 350,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3123,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "死亡時発動(チャージ増加)",
+    "detail": "HPが0になった時、味方単体のチャージをMAXにする",
+    "iconId": 350,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3023
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3124,
+    "buffGroup": 700,
+    "type": 38,
+    "name": "タゲ集中アップ",
+    "detail": "自身にターゲットを固定する",
+    "iconId": 323,
+    "maxRate": 50000,
+    "effectId": 0
   }
 ]
