@@ -187177,6 +187177,34 @@
   },
   {
     "funcId": [
+      0
+    ],
+    "svals": [
+      "[]"
+    ],
+    "script": {},
+    "skillId": 991572,
+    "lv": 1,
+    "chargeTurn": 0,
+    "skillDetailId": 991572,
+    "priority": 0
+  },
+  {
+    "funcId": [
+      3600
+    ],
+    "svals": [
+      "[1000,-1,-1,991599,Value2:1,ShowState:-1]"
+    ],
+    "script": {},
+    "skillId": 991591,
+    "lv": 1,
+    "chargeTurn": 0,
+    "skillDetailId": 991591,
+    "priority": 0
+  },
+  {
+    "funcId": [
       90
     ],
     "svals": [
@@ -187229,6 +187257,20 @@
     "lv": 1,
     "chargeTurn": 0,
     "skillDetailId": 991598,
+    "priority": 0
+  },
+  {
+    "funcId": [
+      320
+    ],
+    "svals": [
+      "[1000,3,-1,500]"
+    ],
+    "script": {},
+    "skillId": 991599,
+    "lv": 1,
+    "chargeTurn": 0,
+    "skillDetailId": 1,
     "priority": 0
   },
   {
