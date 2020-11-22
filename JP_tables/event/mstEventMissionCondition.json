@@ -60451,6 +60451,139 @@
   },
   {
     "targetIds": [
+      2001569,
+      2001570,
+      2001571,
+      2001572,
+      2001573,
+      2001574
+    ],
+    "missionId": 2001568,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001768,
+    "missionTargetId": 100227,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 6,
+    "conditionMessage": "今週のマスターミッションをすべてクリアせよ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001198
+    ],
+    "missionId": 2001569,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001769,
+    "missionTargetId": 100227,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 30,
+    "conditionMessage": "フレンドポイント召喚を30回実行せよ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001199
+    ],
+    "missionId": 2001570,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001770,
+    "missionTargetId": 100227,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 3,
+    "conditionMessage": "『王』特性を持つサーヴァントを3騎倒せ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001200
+    ],
+    "missionId": 2001571,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001771,
+    "missionTargetId": 100227,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "『猛獣』特性を持つ敵を15体倒せ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001201
+    ],
+    "missionId": 2001572,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001772,
+    "missionTargetId": 100227,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 5,
+    "conditionMessage": "『超巨大』特性を持つ敵を5体倒せ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001202
+    ],
+    "missionId": 2001573,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001773,
+    "missionTargetId": 100227,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "戦利品で「叡智の猛火」「叡智の大火」「叡智の灯火」「叡智の種火」をどれか15枚獲得せよ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001573
+    ],
+    "missionId": 2001574,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 2001774,
+    "missionTargetId": 100227,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 1,
+    "conditionMessage": "戦利品で「叡智の猛火」「叡智の大火」「叡智の灯火」「叡智の種火」をどれか30枚獲得せよ",
+    "closedMessage": "",
+    "flag": 64
+  },
+  {
+    "targetIds": [
+      2001202
+    ],
+    "missionId": 2001574,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001775,
+    "missionTargetId": 100227,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 30,
+    "conditionMessage": "戦利品で「叡智の猛火」「叡智の大火」「叡智の灯火」「叡智の種火」をどれか30枚獲得せよ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
       3000001
     ],
     "missionId": 30000001,
