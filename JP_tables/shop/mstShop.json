@@ -4212,7 +4212,7 @@
     "eventId": 0,
     "slot": 0,
     "flag": 2048,
-    "priority": 23,
+    "priority": 4987,
     "purchaseType": 4,
     "setNum": 1,
     "payType": 4,
@@ -4221,13 +4221,13 @@
     "defaultLv": 1,
     "defaultLimitCount": 0,
     "name": "名探偵フォウムズ",
-    "detail": "【マナプリズム交換限定】\n期間限定★5概念礼装へ交換",
+    "detail": "マナプリズム交換限定★5概念礼装へ交換",
     "infoMessage": "",
     "warningMessage": "",
     "imageId": 0,
     "bgImageId": 0,
     "openedAt": 1564912800,
-    "closedAt": 1572533999
+    "closedAt": 1901199599
   },
   {
     "itemIds": [
@@ -5787,6 +5787,41 @@
     "bgImageId": 0,
     "openedAt": 1604156400,
     "closedAt": 1606748399
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      1000
+    ],
+    "targetIds": [
+      9404870
+    ],
+    "script": {
+      "remainDays": 14
+    },
+    "id": 11192,
+    "baseShopId": 11192,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 2048,
+    "priority": 10,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 5,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "テイク・ロマンス",
+    "detail": "【マナプリズム交換限定】\n期間限定★5概念礼装へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1606294800,
+    "closedAt": 1614524399
   },
   {
     "itemIds": [
@@ -31676,7 +31711,7 @@
     "eventId": 0,
     "slot": 0,
     "flag": 0,
-    "priority": 799,
+    "priority": 2012,
     "purchaseType": 4,
     "setNum": 1,
     "payType": 9,
@@ -31692,6 +31727,39 @@
     "bgImageId": 0,
     "openedAt": 1606057200,
     "closedAt": 1893423600
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      504200
+    ],
+    "script": {},
+    "id": 4000536,
+    "baseShopId": 4000315,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 798,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "紫式部",
+    "detail": "期間限定★5サーヴァントへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1606294800,
+    "closedAt": 1607486399
   },
   {
     "itemIds": [
@@ -43529,7 +43597,7 @@
     "eventId": 0,
     "slot": 0,
     "flag": 4096,
-    "priority": 30,
+    "priority": 15,
     "purchaseType": 1,
     "setNum": 1,
     "payType": 10,
@@ -43562,7 +43630,7 @@
     "eventId": 0,
     "slot": 0,
     "flag": 4096,
-    "priority": 31,
+    "priority": 16,
     "purchaseType": 1,
     "setNum": 1,
     "payType": 10,
@@ -43595,7 +43663,7 @@
     "eventId": 0,
     "slot": 0,
     "flag": 4096,
-    "priority": 32,
+    "priority": 17,
     "purchaseType": 1,
     "setNum": 1,
     "payType": 10,
@@ -43628,7 +43696,7 @@
     "eventId": 0,
     "slot": 0,
     "flag": 4096,
-    "priority": 33,
+    "priority": 18,
     "purchaseType": 1,
     "setNum": 1,
     "payType": 10,
@@ -43661,7 +43729,7 @@
     "eventId": 0,
     "slot": 0,
     "flag": 4096,
-    "priority": 34,
+    "priority": 19,
     "purchaseType": 4,
     "setNum": 1,
     "payType": 10,
@@ -43694,7 +43762,7 @@
     "eventId": 0,
     "slot": 0,
     "flag": 4096,
-    "priority": 35,
+    "priority": 20,
     "purchaseType": 4,
     "setNum": 1,
     "payType": 10,
@@ -43727,7 +43795,7 @@
     "eventId": 0,
     "slot": 0,
     "flag": 4096,
-    "priority": 36,
+    "priority": 21,
     "purchaseType": 1,
     "setNum": 20000,
     "payType": 10,
@@ -43760,7 +43828,7 @@
     "eventId": 0,
     "slot": 0,
     "flag": 256,
-    "priority": 20,
+    "priority": 36,
     "purchaseType": 14,
     "setNum": 1,
     "payType": 10,
@@ -43775,6 +43843,39 @@
     "imageId": 80302,
     "bgImageId": 0,
     "openedAt": 1605094200,
+    "closedAt": 1901199599
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      0
+    ],
+    "script": {},
+    "id": 6000472,
+    "baseShopId": 6000472,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 256,
+    "priority": 14,
+    "purchaseType": 9,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "マナプリズム交換「名探偵フォウムズ」",
+    "detail": "マナプリズム交換限定★5概念礼装を「マナプリズムを交換」に開放",
+    "infoMessage": "「マナプリズムを交換」で「名探偵フォウムズ」を交換できるようになります。",
+    "warningMessage": "",
+    "imageId": 80303,
+    "bgImageId": 0,
+    "openedAt": 1606294800,
     "closedAt": 1901199599
   },
   {

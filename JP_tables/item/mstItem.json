@@ -17038,6 +17038,30 @@
   },
   {
     "individuality": [
+      10579
+    ],
+    "script": {
+      "overwritePresentboxDetail": "混沌の爪、鳳凰の羽根、巨人の指輪の中から一つと交換ができます。"
+    },
+    "eventId": 0,
+    "eventGroupId": 0,
+    "id": 94052708,
+    "name": "クリスマス2019交換券(補填)",
+    "detail": "【イベント交換アイテム】\n『復刻:クリスマス2019\nナイチンゲールのクリスマス・キャロル ライト版』\nで手に入れた、特別な交換券。",
+    "imageId": 94043007,
+    "bgImageId": 3,
+    "type": 24,
+    "unit": "",
+    "value": 0,
+    "sellQp": -1,
+    "isSell": false,
+    "priority": 94052706,
+    "dropPriority": 9001,
+    "startedAt": 1606294800,
+    "endedAt": 1606921199
+  },
+  {
+    "individuality": [
       10566
     ],
     "script": {},
@@ -17189,5 +17213,25 @@
     "dropPriority": 3007,
     "startedAt": 1605094200,
     "endedAt": 1606881599
+  },
+  {
+    "individuality": [],
+    "script": {},
+    "eventId": 0,
+    "eventGroupId": 0,
+    "id": 94054401,
+    "name": "霊脈石",
+    "detail": "【2200万DLキャンペーン限定\nコンティニューアイテム】\nメインストーリー\n(第1部 序章 から 第2部 第5章 オリュンポス まで)\nのバトルにおいてパーティ全滅時に使用することで、\nパーティを全員復活させることができる。\n\n※使用期限 2020/12/31(木) 23:59",
+    "imageId": 94054401,
+    "bgImageId": 3,
+    "type": 27,
+    "unit": "",
+    "value": 0,
+    "sellQp": -1,
+    "isSell": false,
+    "priority": 94054401,
+    "dropPriority": 9001,
+    "startedAt": 1606294800,
+    "endedAt": 1609426799
   }
 ]
