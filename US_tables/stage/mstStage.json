@@ -18837,6 +18837,871 @@
   },
   {
     "npcDeckIds": [
+      3000500,
+      1000
+    ],
+    "script": {},
+    "questId": 3000305,
+    "questPhase": 1,
+    "wave": 1,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      3000503,
+      1000
+    ],
+    "script": {},
+    "questId": 3000305,
+    "questPhase": 2,
+    "wave": 1,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      3000504,
+      1000
+    ],
+    "script": {},
+    "questId": 3000305,
+    "questPhase": 2,
+    "wave": 2,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      3000506,
+      1000
+    ],
+    "script": {
+      "enemyMasterBattleId": 7100300
+    },
+    "questId": 3000306,
+    "questPhase": 1,
+    "wave": 1,
+    "enemyInfo": 1,
+    "bgmId": 233,
+    "startEffectId": 2
+  },
+  {
+    "npcDeckIds": [
+      3000509,
+      1000
+    ],
+    "script": {},
+    "questId": 3000306,
+    "questPhase": 2,
+    "wave": 1,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      3000510,
+      1000
+    ],
+    "script": {
+      "enemyMasterBattleId": 7100300,
+      "aiFieldIds": [
+        {
+          "day": 0,
+          "id": 301680
+        }
+      ]
+    },
+    "questId": 3000306,
+    "questPhase": 2,
+    "wave": 2,
+    "enemyInfo": 1,
+    "bgmId": 233,
+    "startEffectId": 2
+  },
+  {
+    "npcDeckIds": [
+      3000512,
+      1000
+    ],
+    "script": {},
+    "questId": 3000307,
+    "questPhase": 1,
+    "wave": 1,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      3000515,
+      1000
+    ],
+    "script": {},
+    "questId": 3000308,
+    "questPhase": 1,
+    "wave": 1,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      3000516,
+      1000
+    ],
+    "script": {},
+    "questId": 3000308,
+    "questPhase": 1,
+    "wave": 2,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      3000518,
+      1000
+    ],
+    "script": {},
+    "questId": 3000308,
+    "questPhase": 2,
+    "wave": 1,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      3000519,
+      1000
+    ],
+    "script": {},
+    "questId": 3000308,
+    "questPhase": 2,
+    "wave": 2,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      3000521,
+      1000
+    ],
+    "script": {},
+    "questId": 3000308,
+    "questPhase": 3,
+    "wave": 1,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      3000522,
+      1000
+    ],
+    "script": {},
+    "questId": 3000308,
+    "questPhase": 3,
+    "wave": 2,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      3000523,
+      1000
+    ],
+    "script": {},
+    "questId": 3000308,
+    "questPhase": 3,
+    "wave": 3,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      3000524,
+      1000
+    ],
+    "script": {},
+    "questId": 3000308,
+    "questPhase": 4,
+    "wave": 1,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      3000527,
+      1000
+    ],
+    "script": {},
+    "questId": 3000308,
+    "questPhase": 5,
+    "wave": 1,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      3000530,
+      1000
+    ],
+    "script": {},
+    "questId": 3000310,
+    "questPhase": 1,
+    "wave": 1,
+    "enemyInfo": 1,
+    "bgmId": 233,
+    "startEffectId": 2
+  },
+  {
+    "npcDeckIds": [
+      3000533,
+      1000
+    ],
+    "script": {
+      "enemyMasterBattleId": 7100310,
+      "aiFieldIds": [
+        {
+          "day": 0,
+          "id": 301710
+        }
+      ]
+    },
+    "questId": 3000310,
+    "questPhase": 2,
+    "wave": 1,
+    "enemyInfo": 1,
+    "bgmId": 233,
+    "startEffectId": 2
+  },
+  {
+    "npcDeckIds": [
+      3000536,
+      1000
+    ],
+    "script": {},
+    "questId": 3000311,
+    "questPhase": 1,
+    "wave": 1,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      3000537,
+      1000
+    ],
+    "script": {},
+    "questId": 3000311,
+    "questPhase": 1,
+    "wave": 2,
+    "enemyInfo": 1,
+    "bgmId": 233,
+    "startEffectId": 2
+  },
+  {
+    "npcDeckIds": [
+      3000539,
+      1000
+    ],
+    "script": {},
+    "questId": 3000313,
+    "questPhase": 1,
+    "wave": 1,
+    "enemyInfo": 1,
+    "bgmId": 233,
+    "startEffectId": 2
+  },
+  {
+    "npcDeckIds": [
+      3000542,
+      1000
+    ],
+    "script": {},
+    "questId": 3000313,
+    "questPhase": 2,
+    "wave": 1,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      3000543,
+      1000
+    ],
+    "script": {},
+    "questId": 3000313,
+    "questPhase": 2,
+    "wave": 2,
+    "enemyInfo": 1,
+    "bgmId": 233,
+    "startEffectId": 2
+  },
+  {
+    "npcDeckIds": [
+      3000545,
+      1000
+    ],
+    "script": {},
+    "questId": 3000313,
+    "questPhase": 3,
+    "wave": 1,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      3000546,
+      1000
+    ],
+    "script": {},
+    "questId": 3000313,
+    "questPhase": 3,
+    "wave": 2,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      3000547,
+      1000
+    ],
+    "script": {
+      "enemyMasterBattleId": 7100310,
+      "aiFieldIds": [
+        {
+          "day": 0,
+          "id": 301690
+        }
+      ]
+    },
+    "questId": 3000313,
+    "questPhase": 3,
+    "wave": 3,
+    "enemyInfo": 1,
+    "bgmId": 233,
+    "startEffectId": 2
+  },
+  {
+    "npcDeckIds": [
+      3000548,
+      1000
+    ],
+    "script": {},
+    "questId": 3000314,
+    "questPhase": 1,
+    "wave": 1,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      3000549,
+      1000
+    ],
+    "script": {},
+    "questId": 3000314,
+    "questPhase": 1,
+    "wave": 2,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      3000551,
+      1000
+    ],
+    "script": {
+      "aiFieldIds": [
+        {
+          "day": 0,
+          "id": 302220
+        }
+      ]
+    },
+    "questId": 3000314,
+    "questPhase": 2,
+    "wave": 1,
+    "enemyInfo": 1,
+    "bgmId": 233,
+    "startEffectId": 2
+  },
+  {
+    "npcDeckIds": [
+      3000554,
+      1000
+    ],
+    "script": {},
+    "questId": 3000314,
+    "questPhase": 3,
+    "wave": 1,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      3000555,
+      1000
+    ],
+    "script": {},
+    "questId": 3000314,
+    "questPhase": 3,
+    "wave": 2,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      3000557,
+      1000
+    ],
+    "script": {},
+    "questId": 3000315,
+    "questPhase": 1,
+    "wave": 1,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      3000558,
+      1000
+    ],
+    "script": {},
+    "questId": 3000315,
+    "questPhase": 1,
+    "wave": 2,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      3000560,
+      1000
+    ],
+    "script": {},
+    "questId": 3000315,
+    "questPhase": 2,
+    "wave": 1,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      3000561,
+      1000
+    ],
+    "script": {},
+    "questId": 3000315,
+    "questPhase": 2,
+    "wave": 2,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      3000562,
+      1000
+    ],
+    "script": {},
+    "questId": 3000315,
+    "questPhase": 2,
+    "wave": 3,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      3000563,
+      1000
+    ],
+    "script": {},
+    "questId": 3000315,
+    "questPhase": 3,
+    "wave": 1,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      3000564,
+      1000
+    ],
+    "script": {
+      "enemyMasterBattleId": 7100320,
+      "aiFieldIds": [
+        {
+          "day": 0,
+          "id": 301700
+        }
+      ]
+    },
+    "questId": 3000315,
+    "questPhase": 3,
+    "wave": 2,
+    "enemyInfo": 1,
+    "bgmId": 233,
+    "startEffectId": 2
+  },
+  {
+    "npcDeckIds": [
+      3000566,
+      1000
+    ],
+    "script": {
+      "aiFieldIds": [
+        {
+          "day": 0,
+          "id": 302215
+        }
+      ]
+    },
+    "questId": 3000316,
+    "questPhase": 1,
+    "wave": 1,
+    "enemyInfo": 1,
+    "bgmId": 233,
+    "startEffectId": 2
+  },
+  {
+    "npcDeckIds": [
+      3000569,
+      1000
+    ],
+    "script": {},
+    "questId": 3000317,
+    "questPhase": 1,
+    "wave": 1,
+    "enemyInfo": 1,
+    "bgmId": 80,
+    "startEffectId": 2
+  },
+  {
+    "npcDeckIds": [
+      3000572,
+      1000
+    ],
+    "script": {},
+    "questId": 3000317,
+    "questPhase": 2,
+    "wave": 1,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      3000575,
+      1000
+    ],
+    "script": {},
+    "questId": 3000317,
+    "questPhase": 3,
+    "wave": 1,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      3000576,
+      1000
+    ],
+    "script": {},
+    "questId": 3000317,
+    "questPhase": 3,
+    "wave": 2,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      3000577,
+      1000
+    ],
+    "script": {},
+    "questId": 3000317,
+    "questPhase": 3,
+    "wave": 3,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      3000578,
+      1000
+    ],
+    "script": {},
+    "questId": 3000317,
+    "questPhase": 4,
+    "wave": 1,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      3000579,
+      1000
+    ],
+    "script": {},
+    "questId": 3000317,
+    "questPhase": 4,
+    "wave": 2,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      3000580,
+      1000
+    ],
+    "script": {},
+    "questId": 3000317,
+    "questPhase": 4,
+    "wave": 3,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      3000581,
+      1000
+    ],
+    "script": {},
+    "questId": 3000318,
+    "questPhase": 1,
+    "wave": 1,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      3000582,
+      1000
+    ],
+    "script": {},
+    "questId": 3000318,
+    "questPhase": 1,
+    "wave": 2,
+    "enemyInfo": 1,
+    "bgmId": 233,
+    "startEffectId": 2
+  },
+  {
+    "npcDeckIds": [
+      3000584,
+      1000
+    ],
+    "script": {},
+    "questId": 3000318,
+    "questPhase": 2,
+    "wave": 1,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      3000585,
+      1000
+    ],
+    "script": {},
+    "questId": 3000318,
+    "questPhase": 2,
+    "wave": 2,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      3000587,
+      1000
+    ],
+    "script": {},
+    "questId": 3000318,
+    "questPhase": 3,
+    "wave": 1,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      3000588,
+      1000
+    ],
+    "script": {},
+    "questId": 3000318,
+    "questPhase": 3,
+    "wave": 2,
+    "enemyInfo": 1,
+    "bgmId": 233,
+    "startEffectId": 2
+  },
+  {
+    "npcDeckIds": [
+      3000590,
+      1000
+    ],
+    "script": {},
+    "questId": 3000318,
+    "questPhase": 4,
+    "wave": 1,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      3000591,
+      1000
+    ],
+    "script": {},
+    "questId": 3000318,
+    "questPhase": 4,
+    "wave": 2,
+    "enemyInfo": 1,
+    "bgmId": 233,
+    "startEffectId": 2
+  },
+  {
+    "npcDeckIds": [
+      3000593,
+      1000
+    ],
+    "script": {
+      "aiFieldIds": [
+        {
+          "day": 0,
+          "id": 302375
+        }
+      ]
+    },
+    "questId": 3000319,
+    "questPhase": 2,
+    "wave": 1,
+    "enemyInfo": 1,
+    "bgmId": 233,
+    "startEffectId": 2
+  },
+  {
+    "npcDeckIds": [
+      3000596,
+      1000
+    ],
+    "script": {
+      "aiFieldIds": [
+        {
+          "day": 0,
+          "id": 302380
+        }
+      ]
+    },
+    "questId": 3000319,
+    "questPhase": 3,
+    "wave": 1,
+    "enemyInfo": 1,
+    "bgmId": 233,
+    "startEffectId": 2
+  },
+  {
+    "npcDeckIds": [
+      3000599,
+      1000
+    ],
+    "script": {},
+    "questId": 3000320,
+    "questPhase": 1,
+    "wave": 1,
+    "enemyInfo": 1,
+    "bgmId": 233,
+    "startEffectId": 2
+  },
+  {
+    "npcDeckIds": [
+      3000602,
+      1000
+    ],
+    "script": {
+      "aiFieldIds": [
+        {
+          "day": 0,
+          "id": 302225
+        }
+      ]
+    },
+    "questId": 3000320,
+    "questPhase": 2,
+    "wave": 1,
+    "enemyInfo": 1,
+    "bgmId": 232,
+    "startEffectId": 3
+  },
+  {
+    "npcDeckIds": [
+      3000605,
+      1000
+    ],
+    "script": {},
+    "questId": 3000320,
+    "questPhase": 3,
+    "wave": 1,
+    "enemyInfo": 1,
+    "bgmId": 233,
+    "startEffectId": 2
+  },
+  {
+    "npcDeckIds": [
+      3000608,
+      1000
+    ],
+    "script": {
+      "fov": 70.1,
+      "battleStartFadeType": 2
+    },
+    "questId": 3000320,
+    "questPhase": 4,
+    "wave": 1,
+    "enemyInfo": 1,
+    "bgmId": 298,
+    "startEffectId": 103
+  },
+  {
+    "npcDeckIds": [
       91000001,
       1000
     ],
@@ -50374,6 +51239,1293 @@
     "enemyInfo": 1,
     "bgmId": 233,
     "startEffectId": 2
+  },
+  {
+    "npcDeckIds": [
+      93030401,
+      1000
+    ],
+    "script": {},
+    "questId": 93030401,
+    "questPhase": 1,
+    "wave": 1,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      93030402,
+      1000
+    ],
+    "script": {},
+    "questId": 93030401,
+    "questPhase": 1,
+    "wave": 2,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      93030403,
+      1000
+    ],
+    "script": {},
+    "questId": 93030401,
+    "questPhase": 1,
+    "wave": 3,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      93030401,
+      1000
+    ],
+    "script": {},
+    "questId": 93030401,
+    "questPhase": 2,
+    "wave": 1,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      93030402,
+      1000
+    ],
+    "script": {},
+    "questId": 93030401,
+    "questPhase": 2,
+    "wave": 2,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      93030403,
+      1000
+    ],
+    "script": {},
+    "questId": 93030401,
+    "questPhase": 2,
+    "wave": 3,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      93030401,
+      1000
+    ],
+    "script": {},
+    "questId": 93030401,
+    "questPhase": 3,
+    "wave": 1,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      93030402,
+      1000
+    ],
+    "script": {},
+    "questId": 93030401,
+    "questPhase": 3,
+    "wave": 2,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      93030403,
+      1000
+    ],
+    "script": {},
+    "questId": 93030401,
+    "questPhase": 3,
+    "wave": 3,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      93030404,
+      1000
+    ],
+    "script": {},
+    "questId": 93030402,
+    "questPhase": 1,
+    "wave": 1,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      93030405,
+      1000
+    ],
+    "script": {},
+    "questId": 93030402,
+    "questPhase": 1,
+    "wave": 2,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      93030406,
+      1000
+    ],
+    "script": {},
+    "questId": 93030402,
+    "questPhase": 1,
+    "wave": 3,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      93030404,
+      1000
+    ],
+    "script": {},
+    "questId": 93030402,
+    "questPhase": 2,
+    "wave": 1,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      93030405,
+      1000
+    ],
+    "script": {},
+    "questId": 93030402,
+    "questPhase": 2,
+    "wave": 2,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      93030406,
+      1000
+    ],
+    "script": {},
+    "questId": 93030402,
+    "questPhase": 2,
+    "wave": 3,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      93030404,
+      1000
+    ],
+    "script": {},
+    "questId": 93030402,
+    "questPhase": 3,
+    "wave": 1,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      93030405,
+      1000
+    ],
+    "script": {},
+    "questId": 93030402,
+    "questPhase": 3,
+    "wave": 2,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      93030406,
+      1000
+    ],
+    "script": {},
+    "questId": 93030402,
+    "questPhase": 3,
+    "wave": 3,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      93030407,
+      1000
+    ],
+    "script": {},
+    "questId": 93030403,
+    "questPhase": 1,
+    "wave": 1,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      93030408,
+      1000
+    ],
+    "script": {},
+    "questId": 93030403,
+    "questPhase": 1,
+    "wave": 2,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      93030409,
+      1000
+    ],
+    "script": {},
+    "questId": 93030403,
+    "questPhase": 1,
+    "wave": 3,
+    "enemyInfo": 1,
+    "bgmId": 233,
+    "startEffectId": 2
+  },
+  {
+    "npcDeckIds": [
+      93030407,
+      1000
+    ],
+    "script": {},
+    "questId": 93030403,
+    "questPhase": 2,
+    "wave": 1,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      93030408,
+      1000
+    ],
+    "script": {},
+    "questId": 93030403,
+    "questPhase": 2,
+    "wave": 2,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      93030409,
+      1000
+    ],
+    "script": {},
+    "questId": 93030403,
+    "questPhase": 2,
+    "wave": 3,
+    "enemyInfo": 1,
+    "bgmId": 233,
+    "startEffectId": 2
+  },
+  {
+    "npcDeckIds": [
+      93030407,
+      1000
+    ],
+    "script": {},
+    "questId": 93030403,
+    "questPhase": 3,
+    "wave": 1,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      93030408,
+      1000
+    ],
+    "script": {},
+    "questId": 93030403,
+    "questPhase": 3,
+    "wave": 2,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      93030409,
+      1000
+    ],
+    "script": {},
+    "questId": 93030403,
+    "questPhase": 3,
+    "wave": 3,
+    "enemyInfo": 1,
+    "bgmId": 233,
+    "startEffectId": 2
+  },
+  {
+    "npcDeckIds": [
+      93030410,
+      1000
+    ],
+    "script": {},
+    "questId": 93030404,
+    "questPhase": 1,
+    "wave": 1,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      93030411,
+      1000
+    ],
+    "script": {},
+    "questId": 93030404,
+    "questPhase": 1,
+    "wave": 2,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      93030412,
+      1000
+    ],
+    "script": {},
+    "questId": 93030404,
+    "questPhase": 1,
+    "wave": 3,
+    "enemyInfo": 1,
+    "bgmId": 233,
+    "startEffectId": 2
+  },
+  {
+    "npcDeckIds": [
+      93030410,
+      1000
+    ],
+    "script": {},
+    "questId": 93030404,
+    "questPhase": 2,
+    "wave": 1,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      93030411,
+      1000
+    ],
+    "script": {},
+    "questId": 93030404,
+    "questPhase": 2,
+    "wave": 2,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      93030412,
+      1000
+    ],
+    "script": {},
+    "questId": 93030404,
+    "questPhase": 2,
+    "wave": 3,
+    "enemyInfo": 1,
+    "bgmId": 233,
+    "startEffectId": 2
+  },
+  {
+    "npcDeckIds": [
+      93030410,
+      1000
+    ],
+    "script": {},
+    "questId": 93030404,
+    "questPhase": 3,
+    "wave": 1,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      93030411,
+      1000
+    ],
+    "script": {},
+    "questId": 93030404,
+    "questPhase": 3,
+    "wave": 2,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      93030412,
+      1000
+    ],
+    "script": {},
+    "questId": 93030404,
+    "questPhase": 3,
+    "wave": 3,
+    "enemyInfo": 1,
+    "bgmId": 233,
+    "startEffectId": 2
+  },
+  {
+    "npcDeckIds": [
+      93030413,
+      1000
+    ],
+    "script": {},
+    "questId": 93030405,
+    "questPhase": 1,
+    "wave": 1,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      93030414,
+      1000
+    ],
+    "script": {},
+    "questId": 93030405,
+    "questPhase": 1,
+    "wave": 2,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      93030415,
+      1000
+    ],
+    "script": {},
+    "questId": 93030405,
+    "questPhase": 1,
+    "wave": 3,
+    "enemyInfo": 1,
+    "bgmId": 233,
+    "startEffectId": 2
+  },
+  {
+    "npcDeckIds": [
+      93030413,
+      1000
+    ],
+    "script": {},
+    "questId": 93030405,
+    "questPhase": 2,
+    "wave": 1,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      93030414,
+      1000
+    ],
+    "script": {},
+    "questId": 93030405,
+    "questPhase": 2,
+    "wave": 2,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      93030415,
+      1000
+    ],
+    "script": {},
+    "questId": 93030405,
+    "questPhase": 2,
+    "wave": 3,
+    "enemyInfo": 1,
+    "bgmId": 233,
+    "startEffectId": 2
+  },
+  {
+    "npcDeckIds": [
+      93030413,
+      1000
+    ],
+    "script": {},
+    "questId": 93030405,
+    "questPhase": 3,
+    "wave": 1,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      93030414,
+      1000
+    ],
+    "script": {},
+    "questId": 93030405,
+    "questPhase": 3,
+    "wave": 2,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      93030415,
+      1000
+    ],
+    "script": {},
+    "questId": 93030405,
+    "questPhase": 3,
+    "wave": 3,
+    "enemyInfo": 1,
+    "bgmId": 233,
+    "startEffectId": 2
+  },
+  {
+    "npcDeckIds": [
+      93030416,
+      1000
+    ],
+    "script": {},
+    "questId": 93030406,
+    "questPhase": 1,
+    "wave": 1,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      93030417,
+      1000
+    ],
+    "script": {},
+    "questId": 93030406,
+    "questPhase": 1,
+    "wave": 2,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      93030418,
+      1000
+    ],
+    "script": {},
+    "questId": 93030406,
+    "questPhase": 1,
+    "wave": 3,
+    "enemyInfo": 1,
+    "bgmId": 233,
+    "startEffectId": 2
+  },
+  {
+    "npcDeckIds": [
+      93030416,
+      1000
+    ],
+    "script": {},
+    "questId": 93030406,
+    "questPhase": 2,
+    "wave": 1,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      93030417,
+      1000
+    ],
+    "script": {},
+    "questId": 93030406,
+    "questPhase": 2,
+    "wave": 2,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      93030418,
+      1000
+    ],
+    "script": {},
+    "questId": 93030406,
+    "questPhase": 2,
+    "wave": 3,
+    "enemyInfo": 1,
+    "bgmId": 233,
+    "startEffectId": 2
+  },
+  {
+    "npcDeckIds": [
+      93030416,
+      1000
+    ],
+    "script": {},
+    "questId": 93030406,
+    "questPhase": 3,
+    "wave": 1,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      93030417,
+      1000
+    ],
+    "script": {},
+    "questId": 93030406,
+    "questPhase": 3,
+    "wave": 2,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      93030418,
+      1000
+    ],
+    "script": {},
+    "questId": 93030406,
+    "questPhase": 3,
+    "wave": 3,
+    "enemyInfo": 1,
+    "bgmId": 233,
+    "startEffectId": 2
+  },
+  {
+    "npcDeckIds": [
+      93030419,
+      1000
+    ],
+    "script": {},
+    "questId": 93030407,
+    "questPhase": 1,
+    "wave": 1,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      93030420,
+      1000
+    ],
+    "script": {},
+    "questId": 93030407,
+    "questPhase": 1,
+    "wave": 2,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      93030421,
+      1000
+    ],
+    "script": {},
+    "questId": 93030407,
+    "questPhase": 1,
+    "wave": 3,
+    "enemyInfo": 1,
+    "bgmId": 233,
+    "startEffectId": 2
+  },
+  {
+    "npcDeckIds": [
+      93030419,
+      1000
+    ],
+    "script": {},
+    "questId": 93030407,
+    "questPhase": 2,
+    "wave": 1,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      93030420,
+      1000
+    ],
+    "script": {},
+    "questId": 93030407,
+    "questPhase": 2,
+    "wave": 2,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      93030421,
+      1000
+    ],
+    "script": {},
+    "questId": 93030407,
+    "questPhase": 2,
+    "wave": 3,
+    "enemyInfo": 1,
+    "bgmId": 233,
+    "startEffectId": 2
+  },
+  {
+    "npcDeckIds": [
+      93030419,
+      1000
+    ],
+    "script": {},
+    "questId": 93030407,
+    "questPhase": 3,
+    "wave": 1,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      93030420,
+      1000
+    ],
+    "script": {},
+    "questId": 93030407,
+    "questPhase": 3,
+    "wave": 2,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      93030421,
+      1000
+    ],
+    "script": {},
+    "questId": 93030407,
+    "questPhase": 3,
+    "wave": 3,
+    "enemyInfo": 1,
+    "bgmId": 233,
+    "startEffectId": 2
+  },
+  {
+    "npcDeckIds": [
+      93030422,
+      1000
+    ],
+    "script": {},
+    "questId": 93030408,
+    "questPhase": 1,
+    "wave": 1,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      93030423,
+      1000
+    ],
+    "script": {},
+    "questId": 93030408,
+    "questPhase": 1,
+    "wave": 2,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      93030424,
+      1000
+    ],
+    "script": {},
+    "questId": 93030408,
+    "questPhase": 1,
+    "wave": 3,
+    "enemyInfo": 1,
+    "bgmId": 233,
+    "startEffectId": 2
+  },
+  {
+    "npcDeckIds": [
+      93030422,
+      1000
+    ],
+    "script": {},
+    "questId": 93030408,
+    "questPhase": 2,
+    "wave": 1,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      93030423,
+      1000
+    ],
+    "script": {},
+    "questId": 93030408,
+    "questPhase": 2,
+    "wave": 2,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      93030424,
+      1000
+    ],
+    "script": {},
+    "questId": 93030408,
+    "questPhase": 2,
+    "wave": 3,
+    "enemyInfo": 1,
+    "bgmId": 233,
+    "startEffectId": 2
+  },
+  {
+    "npcDeckIds": [
+      93030422,
+      1000
+    ],
+    "script": {},
+    "questId": 93030408,
+    "questPhase": 3,
+    "wave": 1,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      93030423,
+      1000
+    ],
+    "script": {},
+    "questId": 93030408,
+    "questPhase": 3,
+    "wave": 2,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      93030424,
+      1000
+    ],
+    "script": {},
+    "questId": 93030408,
+    "questPhase": 3,
+    "wave": 3,
+    "enemyInfo": 1,
+    "bgmId": 233,
+    "startEffectId": 2
+  },
+  {
+    "npcDeckIds": [
+      93030425,
+      1000
+    ],
+    "script": {},
+    "questId": 93030409,
+    "questPhase": 1,
+    "wave": 1,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      93030426,
+      1000
+    ],
+    "script": {},
+    "questId": 93030409,
+    "questPhase": 1,
+    "wave": 2,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      93030427,
+      1000
+    ],
+    "script": {},
+    "questId": 93030409,
+    "questPhase": 1,
+    "wave": 3,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      93030425,
+      1000
+    ],
+    "script": {},
+    "questId": 93030409,
+    "questPhase": 2,
+    "wave": 1,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      93030426,
+      1000
+    ],
+    "script": {},
+    "questId": 93030409,
+    "questPhase": 2,
+    "wave": 2,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      93030427,
+      1000
+    ],
+    "script": {},
+    "questId": 93030409,
+    "questPhase": 2,
+    "wave": 3,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      93030425,
+      1000
+    ],
+    "script": {},
+    "questId": 93030409,
+    "questPhase": 3,
+    "wave": 1,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      93030426,
+      1000
+    ],
+    "script": {},
+    "questId": 93030409,
+    "questPhase": 3,
+    "wave": 2,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      93030427,
+      1000
+    ],
+    "script": {},
+    "questId": 93030409,
+    "questPhase": 3,
+    "wave": 3,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      93030428,
+      1000
+    ],
+    "script": {},
+    "questId": 93030410,
+    "questPhase": 1,
+    "wave": 1,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      93030429,
+      1000
+    ],
+    "script": {},
+    "questId": 93030410,
+    "questPhase": 1,
+    "wave": 2,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      93030430,
+      1000
+    ],
+    "script": {},
+    "questId": 93030410,
+    "questPhase": 1,
+    "wave": 3,
+    "enemyInfo": 1,
+    "bgmId": 233,
+    "startEffectId": 2
+  },
+  {
+    "npcDeckIds": [
+      93030428,
+      1000
+    ],
+    "script": {},
+    "questId": 93030410,
+    "questPhase": 2,
+    "wave": 1,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      93030429,
+      1000
+    ],
+    "script": {},
+    "questId": 93030410,
+    "questPhase": 2,
+    "wave": 2,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      93030430,
+      1000
+    ],
+    "script": {},
+    "questId": 93030410,
+    "questPhase": 2,
+    "wave": 3,
+    "enemyInfo": 1,
+    "bgmId": 233,
+    "startEffectId": 2
+  },
+  {
+    "npcDeckIds": [
+      93030428,
+      1000
+    ],
+    "script": {},
+    "questId": 93030410,
+    "questPhase": 3,
+    "wave": 1,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      93030429,
+      1000
+    ],
+    "script": {},
+    "questId": 93030410,
+    "questPhase": 3,
+    "wave": 2,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      93030430,
+      1000
+    ],
+    "script": {},
+    "questId": 93030410,
+    "questPhase": 3,
+    "wave": 3,
+    "enemyInfo": 1,
+    "bgmId": 233,
+    "startEffectId": 2
+  },
+  {
+    "npcDeckIds": [
+      93030431,
+      1000
+    ],
+    "script": {},
+    "questId": 93030411,
+    "questPhase": 1,
+    "wave": 1,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      93030432,
+      1000
+    ],
+    "script": {},
+    "questId": 93030411,
+    "questPhase": 1,
+    "wave": 2,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      93030433,
+      1000
+    ],
+    "script": {},
+    "questId": 93030411,
+    "questPhase": 1,
+    "wave": 3,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      93030431,
+      1000
+    ],
+    "script": {},
+    "questId": 93030411,
+    "questPhase": 2,
+    "wave": 1,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      93030432,
+      1000
+    ],
+    "script": {},
+    "questId": 93030411,
+    "questPhase": 2,
+    "wave": 2,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      93030433,
+      1000
+    ],
+    "script": {},
+    "questId": 93030411,
+    "questPhase": 2,
+    "wave": 3,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      93030431,
+      1000
+    ],
+    "script": {},
+    "questId": 93030411,
+    "questPhase": 3,
+    "wave": 1,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      93030432,
+      1000
+    ],
+    "script": {},
+    "questId": 93030411,
+    "questPhase": 3,
+    "wave": 2,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
+  },
+  {
+    "npcDeckIds": [
+      93030433,
+      1000
+    ],
+    "script": {},
+    "questId": 93030411,
+    "questPhase": 3,
+    "wave": 3,
+    "enemyInfo": 1,
+    "bgmId": 296,
+    "startEffectId": 1
   },
   {
     "npcDeckIds": [

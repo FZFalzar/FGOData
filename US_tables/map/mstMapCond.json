@@ -180,6 +180,46 @@
     "condNum": 2
   },
   {
+    "id": 3000301,
+    "mapId": 30301,
+    "priority": 1,
+    "changeType": 4,
+    "targetId": 22,
+    "condType": 1,
+    "condTargetId": 3000303,
+    "condNum": 1
+  },
+  {
+    "id": 3000302,
+    "mapId": 30301,
+    "priority": 2,
+    "changeType": 3,
+    "targetId": 297,
+    "condType": 1,
+    "condTargetId": 3000304,
+    "condNum": 1
+  },
+  {
+    "id": 3000303,
+    "mapId": 30301,
+    "priority": 3,
+    "changeType": 5,
+    "targetId": 1322,
+    "condType": 1,
+    "condTargetId": 3000304,
+    "condNum": 0
+  },
+  {
+    "id": 3000304,
+    "mapId": 30301,
+    "priority": 4,
+    "changeType": 6,
+    "targetId": 933,
+    "condType": 1,
+    "condTargetId": 3000304,
+    "condNum": 0
+  },
+  {
     "id": 94011301,
     "mapId": 8113,
     "priority": 1,

@@ -3100,11 +3100,21 @@
     "isDispValue": true
   },
   {
+    "funcId": 3023,
+    "eventId": 0,
+    "baseFuncId": 0,
+    "nameTotal": "{1}\nTotal Overall Bond Bonus",
+    "name": "Increase Overall Bond gained",
+    "iconId": 1023,
+    "priority": 1,
+    "isDispValue": true
+  },
+  {
     "funcId": 3028,
     "eventId": 0,
     "baseFuncId": 0,
-    "nameTotal": "{1}\nTotal Bond Gain Bonus",
-    "name": "Increase Bond gained for all",
+    "nameTotal": "{1}\nTotal Overall Bond Bonus",
+    "name": "Increase Overall Bond gained",
     "iconId": 1023,
     "priority": 1,
     "isDispValue": true
@@ -3113,8 +3123,8 @@
     "funcId": 3029,
     "eventId": 0,
     "baseFuncId": 0,
-    "nameTotal": "{1}\nTotal Bond Gain Bonus",
-    "name": "Increase Bond gained for all",
+    "nameTotal": "{1}\nTotal Overall Bond Bonus",
+    "name": "Increase Overall Bond gained",
     "iconId": 1023,
     "priority": 1,
     "isDispValue": true

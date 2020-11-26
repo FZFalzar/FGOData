@@ -3111,8 +3111,8 @@
   },
   {
     "id": 414450,
-    "detail": "Apply C. Star Gather Rate [{0}] (3 turns) for yourself + Increase C. Star Drop Rate [{0}] (3 turns) for all allies",
-    "detailShort": "Apply C. Star Gather to yourself [{0}] (3 turns) + Increase C. Star Drop Rate for all allies [{0}] (3 turns)"
+    "detail": "Increase C. Star Gather Rate [{0}] (3 turns) for yourself + Increase C. Star Drop Rate [{0}] (3 turns) for all allies",
+    "detailShort": "Increase C. Star Gather Rate [{0}] (3 turns) for yourself + Increase C. Star Drop Rate [{0}] (3 turns) for all allies"
   },
   {
     "id": 415550,
@@ -3201,8 +3201,8 @@
   },
   {
     "id": 432650,
-    "detail": "Apply Ignore Invincible (3 turns) & Increase C. Star Gather [{0}] (3 turns) & DEF [{0}] (3 turns) for yourself & Inflict Stun (1 turn) 3 turns later [Demerit] to yourself",
-    "detailShort": "Apply Ignore Invincible (3 turns) & Increase C. Star Gather [{0}] (3 turns) & DEF [{0}] (3 turns) for yourself & Inflict Stun (1 turn) 3 turns later [Demerit] to yourself"
+    "detail": "Apply Ignore Invincible (3 turns) & Increase C. Star Gather Rate [{0}] (3 turns) & DEF [{0}] (3 turns) for yourself & Inflict Stun (1 turn) 3 turns later [Demerit] to yourself",
+    "detailShort": "Apply Ignore Invincible (3 turns) & Increase C. Star Gather Rate [{0}] (3 turns) & DEF [{0}] (3 turns) for yourself & Inflict Stun (1 turn) 3 turns later [Demerit] to yourself"
   },
   {
     "id": 433650,
@@ -3531,8 +3531,8 @@
   },
   {
     "id": 496450,
-    "detail": "Increase NP Gain each turn [{0}] (3 turns) & restore HP each turn [{0}] (3 turns) & gain C. Stars each turn [{0}] (3 turns) for yourself",
-    "detailShort": "Increase NP Gain each turn [{0}] (3 turns) & restore HP each turn [{0}] (3 turns) & gain C. Stars each turn [{0}] (3 turns) for yourself"
+    "detail": "Increase NP Gauge each turn [{0}] (3 turns) & restore HP each turn [{0}] (3 turns) & gain C. Stars each turn [{0}] (3 turns) for yourself",
+    "detailShort": "Increase NP Gauge each turn [{0}] (3 turns) & restore HP each turn [{0}] (3 turns) & gain C. Stars each turn [{0}] (3 turns) for yourself"
   },
   {
     "id": 497450,
@@ -3728,6 +3728,91 @@
     "id": 535550,
     "detail": "Increase ATK [{0}] (3 turns) for all allies + apply Special Attack [Demonic] for yourself [{0}] (3 turns)",
     "detailShort": "Increase ATK [{0}] (3 turns) for all allies + apply Special Attack [Demonic] for yourself [{0}] (3 turns)"
+  },
+  {
+    "id": 536550,
+    "detail": "Decrease Charge & DEF for all enemies [{0}] (3 turns)",
+    "detailShort": "Decrease Charge & DEF for all enemies [{0}] (3 turns)"
+  },
+  {
+    "id": 537550,
+    "detail": "Chance to inflict Stun [{0}] (1 turn) for all enemies + increase ATK for yourself [{0}] (3 turns)",
+    "detailShort": "Chance to inflict Stun [{0}] (1 turn) for all enemies + increase ATK for yourself [{0}] (3 turns)"
+  },
+  {
+    "id": 538550,
+    "detail": "Increase NP gauge [{0}] & remove Debuffs & restore HP [{0}] for yourself",
+    "detailShort": "Increase NP gauge [{0}] & remove Debuffs & restore HP [{0}] for yourself"
+  },
+  {
+    "id": 539550,
+    "detail": "Apply Evade (1 turn) & increase Critical Strength [{0}] (1 turn) for yourself",
+    "detailShort": "Apply Evade (1 turn) & increase Critical Strength [{0}] (1 turn) for yourself"
+  },
+  {
+    "id": 540450,
+    "detail": "Increase Quick Card effectiveness [{0}] (3 turns) & Buster Card effectiveness [{0}] (3 turns) & Critical Strength [{0}] (1 turn) for yourself",
+    "detailShort": "Increase Quick Card effectiveness [{0}] (3 turns) & Buster Card effectiveness [{0}] (3 turns) & Critical Strength [{0}] (1 turn) for yourself"
+  },
+  {
+    "id": 541550,
+    "detail": "Gain C. Stars each turn [{0}] (3 turns) & apply Invincible (3 turns) for yourself",
+    "detailShort": "Gain C. Stars each turn [{0}] (3 turns) & apply Invincible (3 turns) for yourself"
+  },
+  {
+    "id": 542550,
+    "detail": "Apply Invicible (2 times, 3 turns) for yourself + increase ATK [{0}] (3 turns) for all allies",
+    "detailShort": "Apply Invicible (2 times, 3 turns) for yourself + increase ATK [{0}] (3 turns) for all allies"
+  },
+  {
+    "id": 543350,
+    "detail": "Increase NP Gauge [{0}] & Buff Success Rate [{0}] (1 turn) for one ally",
+    "detailShort": "Increase NP Gauge [{0}] & Buff Success Rate [{0}] (1 turn) for one ally"
+  },
+  {
+    "id": 544650,
+    "detail": "Increase Arts Card effectiveness [{0}] (3 turns) & chance to increase C. Star Drop Rate [{0}] (3 turns) & chance to increase Critical Strength [{0}] (3 turns) for all allies",
+    "detailShort": "Increase Arts Card effectiveness [{0}] (3 turns) & chance to increase C. Star Drop Rate [{0}] (3 turns) & chance to increase Critical Strength [{0}] (3 turns) for all allies"
+  },
+  {
+    "id": 545450,
+    "detail": "Increase Quick Card effectiveness [{0}] (3 turns) & Arts Card effectiveness [{0}] (3 turns) & Critical Strength [{0}] (3 turns) for yourself",
+    "detailShort": "Increase Quick Card effectiveness [{0}] (3 turns) & Arts Card effectiveness [{0}] (3 turns) & Critical Strength [{0}] (3 turns) for yourself"
+  },
+  {
+    "id": 546450,
+    "detail": "Increase C. Star Gather Rate [{0}] (1 turn) & apply Debuff Immune (3 times, 3 turns) & increase Buff Removal Resist [{0}] (3 times, 3 turns) for yourself",
+    "detailShort": "Increase C. Star Gather Rate [{0}] (1 turn) & apply Debuff Immune (3 times, 3 turns) & increase Buff Removal Resist [{0}] (3 times, 3 turns) for yourself"
+  },
+  {
+    "id": 547450,
+    "detail": "Apply Guts (2 times, 3 turns) & increase NP Gauge [{0}] for yourself",
+    "detailShort": "Apply Guts (2 times, 3 turns) & increase NP Gauge [{0}] for yourself"
+  },
+  {
+    "id": 550650,
+    "detail": "Increase Quick Card effectiveness [{0}] (3 times, 5 turns) & C. Star Drop Rate [{0}] (3 times, 5 turns) for yourself",
+    "detailShort": "Increase Quick Card effectiveness [{0}] (3 times, 5 turns) & C. Star Drop Rate [{0}] (3 times, 5 turns) for yourself"
+  },
+  {
+    "id": 551550,
+    "detail": "Apply random effects to yourself [{0}]",
+    "detailShort": "Apply random effects to yourself [{0}]"
+  },
+  {
+    "id": 552450,
+    "detail": "Increase Critical Strength [{0}] (3 times, 5 turns) & ATK [{0}] (3 times, 5 turns) for yourself",
+    "detailShort": "Increase Critical Strength [{0}] (3 times, 5 turns) & ATK [{0}] (3 times, 5 turns) for yourself"
+  },
+  {
+    "id": 556551,
+    "detail": "Increase Buster Card effectiveness & Critical Strength for yourself",
+    "detailShort": "Increase Buster Card effectiveness & Critical Strength for yourself"
+  },
+  {
+    "id": 557551,
+    "detail": "Increase Arts Card effectiveness & C. Star Drop Rate for yourself",
+    "detailShort": "Increase Arts Card effectiveness & C. Star Drop Rate for yourself"
   },
   {
     "id": 940001,
@@ -4301,13 +4386,18 @@
   },
   {
     "id": 962095,
-    "detail": "Bond gained upon clearing Part 2's main quests increased by 20% for all allies <including sub-members> (No effect when equipped as Support)",
-    "detailShort": "Bond gained upon clearing Part 2's main quests increased by 20% for all allies <including sub-members> (No effect when equipped as Support)"
+    "detail": "Increase Bond gained by 20% when completing a Main Quest in Part 2 <including sub-members> (no effect when Support)",
+    "detailShort": "Increase Bond gained by 20% when completing a Main Quest in Part 2 <including sub-members> (no effect when Support)"
   },
   {
     "id": 962096,
-    "detail": "Bond gained upon clearing Part 2's main quests increased by 20% for all allies <including sub-members> (No effect when equipped as Support)",
-    "detailShort": "Bond gained upon clearing Part 2's main quests increased by 20% for all allies <including sub-members> (No effect when equipped as Support)"
+    "detail": "Increase Bond gained by 20% when completing a Main Quest in Part 2 <including sub-members> (no effect when Support)",
+    "detailShort": "Increase Bond gained by 20% when completing a Main Quest in Part 2 <including sub-members> (no effect when Support)"
+  },
+  {
+    "id": 962097,
+    "detail": "Increase Bond gained by 20% when completing a Main Quest in Part 2 <including sub-members> (no effect when Support)",
+    "detailShort": "Increase Bond gained by 20% when completing a Main Quest in Part 2 <including sub-members> (no effect when Support)"
   },
   {
     "id": 980001,
@@ -11523,6 +11613,61 @@
     "id": 991529,
     "detail": "Increase Sand of the Underworld amount per drop by 2 [MAX] [Event Only]",
     "detailShort": "Increase Sand of the Underworld amount per drop by 2 [MAX] [Event Only]"
+  },
+  {
+    "id": 991530,
+    "detail": "Increase NP Strength by 20% & increase NP Charge by 2 levels when using NP (1 time) for yourself",
+    "detailShort": "Increase NP Strength by 20% & increase NP Charge by 2 levels when using NP (1 time) for yourself"
+  },
+  {
+    "id": 991531,
+    "detail": "Increase NP Strength by 25% & increase NP Charge by 2 levels when using NP (1 time) [MAX] for yourself",
+    "detailShort": "Increase NP Strength by 25% & increase NP Charge by 2 levels when using NP (1 time) [MAX] for yourself"
+  },
+  {
+    "id": 991532,
+    "detail": "Increase NP Gauge by 4% each turn & Buster Card effectiveness by 10% for yourself",
+    "detailShort": "Increase NP Gauge by 4% each turn & Buster Card effectiveness by 10% for yourself"
+  },
+  {
+    "id": 991533,
+    "detail": "Increase NP Gauge by 5% each turn & Buster Card effectiveness by 12% for yourself [MAX]",
+    "detailShort": "Increase NP Gauge by 5% each turn & Buster Card effectiveness by 12% for yourself [MAX]"
+  },
+  {
+    "id": 991534,
+    "detail": "Increase your Buff Success Rate by 10%",
+    "detailShort": "Increase your Buff Success Rate by 10%"
+  },
+  {
+    "id": 991535,
+    "detail": "Increase your Buff Success Rate by 15% [MAX]",
+    "detailShort": "Increase your Buff Success Rate by 15% [MAX]"
+  },
+  {
+    "id": 991536,
+    "detail": "Increase NP Gauge by 4% each turn & NP Gain by 10% for yourself",
+    "detailShort": "Increase NP Gauge by 4% each turn & NP Gain by 10% for yourself"
+  },
+  {
+    "id": 991537,
+    "detail": "Increase NP Gauge by 5% each turn & NP Gain by 15% for yourself [MAX]",
+    "detailShort": "Increase NP Gauge by 5% each turn & NP Gain by 15% for yourself [MAX]"
+  },
+  {
+    "id": 991538,
+    "detail": "Increase Quick & Buster Card effectiveness by 10% for all allies only if [servantName 703200] (Berserker) is equipped with this Craft Essence when he is on the field",
+    "detailShort": "Increase Quick & Buster Card effectiveness by 10% for all allies only if [servantName 703200] (Berserker) is equipped with this Craft Essence when he is on the field"
+  },
+  {
+    "id": 991539,
+    "detail": "Increase Arts Card effectiveness by 10% & NP Gain by 10% for all allies only if [servantName 103600] (Saber) is equipped with this Craft Essence when he is on the field",
+    "detailShort": "Increase Arts Card effectiveness by 10% & NP Gain by 10% for all allies only if [servantName 103600] (Saber) is equipped with this Craft Essence when he is on the field"
+  },
+  {
+    "id": 991540,
+    "detail": "Increase Quick & Arts Card effectiveness by 10% for all allies only if [servantName 303500] (Lancer) is equipped with this Craft Essence when she is on the field",
+    "detailShort": "Increase Quick & Arts Card effectiveness by 10% for all allies only if [servantName 303500] (Lancer) is equipped with this Craft Essence when she is on the field"
   },
   {
     "id": 991572,

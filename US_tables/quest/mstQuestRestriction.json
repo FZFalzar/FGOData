@@ -120,6 +120,38 @@
     "noticeMessage": "Support Servant cannot be set as a Sub Member"
   },
   {
+    "questId": 3000305,
+    "phase": 1,
+    "restrictionId": 3000301,
+    "frequencyType": 1,
+    "dialogMessage": "Please set Mash as a Starting Member.",
+    "noticeMessage": ""
+  },
+  {
+    "questId": 3000305,
+    "phase": 1,
+    "restrictionId": 3000302,
+    "frequencyType": 1,
+    "dialogMessage": "To begin this Quest, please set one of your own Servants and one Support Servant.",
+    "noticeMessage": "Only 2 Servants can be deployed."
+  },
+  {
+    "questId": 3000305,
+    "phase": 2,
+    "restrictionId": 3000301,
+    "frequencyType": 1,
+    "dialogMessage": "Please set Mash as a Starting Member.",
+    "noticeMessage": ""
+  },
+  {
+    "questId": 3000305,
+    "phase": 2,
+    "restrictionId": 3000302,
+    "frequencyType": 1,
+    "dialogMessage": "To begin this Quest, please set one of your own Servants and one Support Servant.",
+    "noticeMessage": "Only 2 Servants can be deployed."
+  },
+  {
     "questId": 94007901,
     "phase": 0,
     "restrictionId": 94007701,

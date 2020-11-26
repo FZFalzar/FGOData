@@ -200,6 +200,11 @@
     "detailShort": "Deal significant damage [{0}] & remove DEF Buffs & medium chance to inflict Death <chance increases with Overcharge> to a single enemy"
   },
   {
+    "id": 103601,
+    "detail": "Decrease Charge by 1 & Critical Rate (3 turns) for all enemies + increase ATK (3 turns) <effect increases with Overcharge> & apply Incoming Damage Cut [{0}] (3 turns) to all allies",
+    "detailShort": "Decrease Charge by 1 & Critical Rate (3 turns) for all enemies + increase ATK (3 turns) <effect increases with Overcharge> & apply Incoming Damage Cut [{0}] (3 turns) to all allies"
+  },
+  {
     "id": 200101,
     "detail": "Deal heavy DEF-ignoring damage to all enemies [{0}] & decrease ATK (3 turns) <effect increases with Overcharge> for all enemies",
     "detailShort": "Deal heavy DEF-ignoring damage to all enemies [{0}] & decrease ATK (3 turns) <effect increases with Overcharge> for all enemies"
@@ -620,6 +625,11 @@
     "detailShort": "Deal significant DEF-ignoring damage to a single enemy [{0}] + Gain a large amount of C. Stars <effect increases with Overcharge> + Decrease your C. Star Drop Rate (3 turns) [Demerit]"
   },
   {
+    "id": 303501,
+    "detail": "Apply the following states to yourself: Decrease DEF of a single enemy (3 turns) during normal attacks (3 times, 5 turns) & remove Buff of a single enemy during Critical attacks (3 times, 5 turns) & decrease Critical Strength of a single enemy (3 turns) when attacked (3 times, 5 turns) & recover all allies' HP when receiving a Critical Hit <recovery effect increases with Overcharge; no recovery if target's HP has reached 0> & greatly increase your ATK [{0}] (3 turns)",
+    "detailShort": "Apply the following states to yourself: Decrease DEF of a single enemy (3 turns) during normal attacks (3 times, 5 turns) & remove Buff of a single enemy during Critical attacks (3 times, 5 turns) & decrease Critical Strength of a single enemy (3 turns) when attacked (3 times, 5 turns) & recover all allies' HP when receiving a Critical Hit <recovery effect increases with Overcharge; no recovery if target's HP has reached 0> & greatly increase your ATK [{0}] (3 turns)"
+  },
+  {
     "id": 400101,
     "detail": "Deal heavy damage to all enemies [{0}] + increase C. Star Drop Rate (3 turns) <effect increases with Overcharge> for all allies",
     "detailShort": "Deal heavy damage to all enemies [{0}] + increase C. Star Drop Rate (3 turns) <effect increases with Overcharge> for all allies"
@@ -828,6 +838,11 @@
     "id": 403001,
     "detail": "Deal significant damage to a single enemy [{0}] & chance to decrease Charge for a single enemy <chance increases with Overcharge>",
     "detailShort": "Deal significant damage to a single enemy [{0}] & chance to decrease Charge for a single enemy <chance increases with Overcharge>"
+  },
+  {
+    "id": 403199,
+    "detail": "Deal heavy DEF-ignoring damage [{0}] & chance to apply Skill Seal (1 turn) <chance increases with Overcharge> to all enemies",
+    "detailShort": "Deal heavy DEF-ignoring damage [{0}] & chance to apply Skill Seal (1 turn) <chance increases with Overcharge> to all enemies"
   },
   {
     "id": 500101,
@@ -1540,6 +1555,11 @@
     "detailShort": "Deal significant damage [{0}] & inflict Burn (3 turns) <effect increases with Overcharge> to a single enemy"
   },
   {
+    "id": 703201,
+    "detail": "Increase your NP Strength (1 turn) <effect increases with Overcharge> + deal heavy damage to all enemies [{0}]",
+    "detailShort": "Increase your NP Strength (1 turn) <effect increases with Overcharge> + deal heavy damage to all enemies [{0}]"
+  },
+  {
     "id": 800100,
     "detail": "Unknown",
     "detailShort": "Unknown"
@@ -1598,6 +1618,11 @@
     "id": 900501,
     "detail": "Decrease DEF for all enemies [{0}] (3 turns) + Apply Ignore Invincible (3 turns) & Ignore DEF (3 turns) & increase Critical Strength (3 turns) <effect increases with Overcharge> for all allies",
     "detailShort": "Decrease DEF for all enemies [{0}] (3 turns) + Apply Ignore Invincible (3 turns) & Ignore DEF (3 turns) & increase Critical Strength (3 turns) <effect increases with Overcharge> for all allies"
+  },
+  {
+    "id": 900601,
+    "detail": "Apply Invincible (1 turn) & apply Target Focus (1 turn) & increase ATK strength (3 turns) <effect increases with Overcharge> & increase Critical Strength [{0}] (3 turns) & increase C. Star Gather Rate (3 turns) for yourself",
+    "detailShort": "Apply Invincible (1 turn) & apply Target Focus (1 turn) & increase ATK strength (3 turns) <effect increases with Overcharge> & increase Critical Strength [{0}] (3 turns) & increase C. Star Gather Rate (3 turns) for yourself"
   },
   {
     "id": 1000101,

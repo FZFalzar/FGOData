@@ -717,6 +717,32 @@
   {
     "script": {},
     "warId": 303,
+    "type": 6,
+    "priority": 5,
+    "overwriteId": 130,
+    "overwriteStr": "",
+    "condType": 1,
+    "targetId": 3000304,
+    "value": 0,
+    "startedAt": 1543356000,
+    "endedAt": 1893456000
+  },
+  {
+    "script": {},
+    "warId": 303,
+    "type": 7,
+    "priority": 6,
+    "overwriteId": 30301,
+    "overwriteStr": "",
+    "condType": 1,
+    "targetId": 3000304,
+    "value": 0,
+    "startedAt": 1543356000,
+    "endedAt": 1893456000
+  },
+  {
+    "script": {},
+    "warId": 303,
     "type": 9,
     "priority": 3,
     "overwriteId": 0,
@@ -733,11 +759,24 @@
     "type": 9,
     "priority": 4,
     "overwriteId": 0,
-    "overwriteStr": "Lostbelt No.3 \nThe Synchronized Intellect Nation, SIN",
+    "overwriteStr": "Lostbelt No.3\nThe Synchronized Intellect Nation, SIN",
     "condType": 1,
     "targetId": 3000303,
     "value": 0,
     "startedAt": 1605758400,
+    "endedAt": 1893456000
+  },
+  {
+    "script": {},
+    "warId": 303,
+    "type": 9,
+    "priority": 7,
+    "overwriteId": 0,
+    "overwriteStr": "Lostbelt No.3\nThe Synchronized Intellect Nation, SIN",
+    "condType": 1,
+    "targetId": 3000300,
+    "value": 0,
+    "startedAt": 1543356000,
     "endedAt": 1893456000
   },
   {

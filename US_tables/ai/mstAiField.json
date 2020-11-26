@@ -2667,7 +2667,7 @@
     "probability": 100,
     "cond": 0,
     "aiActId": 1000146,
-    "infoText": "Insulating Covering"
+    "infoText": "Go, Saber. \"Insulating Covering\"!"
   },
   {
     "vals": [
@@ -2690,7 +2690,7 @@
     "probability": 100,
     "cond": 53,
     "aiActId": 1000145,
-    "infoText": "Barrier Break"
+    "infoText": "Backup is likely unnecessary. \"Bulwark of Cessation\"!"
   },
   {
     "vals": [],
@@ -2819,7 +2819,7 @@
     "probability": 100,
     "cond": -59,
     "aiActId": 1000147,
-    "infoText": "I Do Not See Its Brilliance"
+    "infoText": "\"I Do Not See Its Brilliance\"!"
   },
   {
     "vals": [],
@@ -2859,7 +2859,7 @@
     "probability": 100,
     "cond": -59,
     "aiActId": 1000147,
-    "infoText": "I Do Not See Its Brilliance"
+    "infoText": "\"I Do Not See Its Brilliance\"!"
   },
   {
     "vals": [],
@@ -2937,7 +2937,7 @@
     "probability": 100,
     "cond": 65,
     "aiActId": 1000148,
-    "infoText": "Instant Strengthening"
+    "infoText": "There. \"Instant Strengthening\"!"
   },
   {
     "vals": [],
@@ -3032,7 +3032,7 @@
     "probability": 100,
     "cond": 65,
     "aiActId": 1000148,
-    "infoText": "Instant Strengthening"
+    "infoText": "There. \"Instant Strengthening\"!"
   },
   {
     "vals": [],
@@ -3108,7 +3108,7 @@
     "probability": 100,
     "cond": 56,
     "aiActId": 1000149,
-    "infoText": "Vine Shackles"
+    "infoText": "Hold back, Saber. \"Vine Shackles\"!"
   },
   {
     "vals": [],
@@ -3167,7 +3167,7 @@
     "probability": 100,
     "cond": 56,
     "aiActId": 1000150,
-    "infoText": "Dried Thorn Handcuffs"
+    "infoText": "Do not kill. \"Dried Thorn Handcuffs\"!"
   },
   {
     "vals": [],
@@ -3441,6 +3441,569 @@
     "cond": 0,
     "aiActId": 1,
     "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      301681,
+      0
+    ],
+    "script": {
+      "forcedSkillSpeed": 1,
+      "voicePlay": "ChrVoice_7100300:0_E200",
+      "enemyMasterEffectType": 2
+    },
+    "id": 301680,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000187,
+    "infoText": "I order you with my Command Spell...\nRelease your Noble Phantasm!"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 301681,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2357
+    ],
+    "avals": [
+      301691,
+      0
+    ],
+    "script": {
+      "forcedSkillSpeed": 1,
+      "voicePlay": "ChrVoice_7100300:0_E210",
+      "enemyMasterEffectType": 2
+    },
+    "id": 301690,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 1000188,
+    "infoText": "I order you with my Command Spell...\nProtect Lord Xiang Yu!"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 301690,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 301691,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2357
+    ],
+    "avals": [
+      301701,
+      0
+    ],
+    "script": {
+      "forcedSkillSpeed": 1,
+      "voicePlay": "ChrVoice_7100300:0_E130",
+      "enemyMasterEffectType": 1
+    },
+    "id": 301700,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 1000216,
+    "infoText": "Don't give me any trouble. \"Aerial Disciplinary Formation\""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 301700,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      103600
+    ],
+    "avals": [
+      301702,
+      0
+    ],
+    "script": {
+      "forcedSkillSpeed": 1,
+      "voicePlay": "ChrVoice_7100300:0_E220",
+      "enemyMasterEffectType": 2
+    },
+    "id": 301701,
+    "idx": 1,
+    "actNum": -1,
+    "timing": -6,
+    "priority": 100,
+    "probability": 100,
+    "cond": -53,
+    "aiActId": 1000182,
+    "infoText": "I order you with my Command Spell...\nGet up!"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 301701,
+    "idx": 2,
+    "actNum": -1,
+    "timing": -6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 301702,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1009,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 301702,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1009,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2357
+    ],
+    "avals": [
+      301711,
+      0
+    ],
+    "script": {
+      "forcedSkillSpeed": 1,
+      "voicePlay": "ChrVoice_7100300:0_E120",
+      "enemyMasterEffectType": 1
+    },
+    "id": 301710,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 1000215,
+    "infoText": "Don't get a big head! \"Heaven's Collapse\""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 301710,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 301711,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      1000
+    ],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 302215,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 100,
+    "probability": 100,
+    "cond": 56,
+    "aiActId": 1000214,
+    "infoText": "Koyanskaya's Backing\n\"Bedchamber Arts/Xuanyuan Mausoleum\""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 302215,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2366
+    ],
+    "avals": [
+      302221,
+      0
+    ],
+    "script": {},
+    "id": 302220,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2366
+    ],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 302220,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 1,
+    "probability": 100,
+    "cond": -53,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      650
+    ],
+    "avals": [
+      302222,
+      0
+    ],
+    "script": {},
+    "id": 302221,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 100,
+    "probability": 100,
+    "cond": 65,
+    "aiActId": 1000197,
+    "infoText": "Chen Gong's Plan \"Right There. Self-Destruct\""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 302221,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 302222,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      302226,
+      0
+    ],
+    "script": {},
+    "id": 302225,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000217,
+    "infoText": "Supreme World"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 302226,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      302376,
+      0
+    ],
+    "script": {},
+    "id": 302375,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000219,
+    "infoText": "Han Xin's Plan \"Stratagem...Distraction\""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 302376,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      302381,
+      0
+    ],
+    "script": {},
+    "id": 302380,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000220,
+    "infoText": "Han Xin's Plan \"Fight like There's No Tomorrow\""
+  },
+  {
+    "vals": [],
+    "avals": [
+      302382,
+      0
+    ],
+    "script": {},
+    "id": 302381,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000221,
+    "infoText": "Han Xin's Plan \"Stratagem...Get the Commander\""
+  },
+  {
+    "vals": [],
+    "avals": [
+      302383,
+      0
+    ],
+    "script": {},
+    "id": 302382,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000222,
+    "infoText": "Han Xin's Plan \"Stratagem...Create Confusion\""
+  },
+  {
+    "vals": [],
+    "avals": [
+      302384,
+      0
+    ],
+    "script": {},
+    "id": 302383,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000223,
+    "infoText": "Han Xin's Plan \"Stratagem...Create an Illusion\""
+  },
+  {
+    "vals": [],
+    "avals": [
+      302385,
+      0
+    ],
+    "script": {},
+    "id": 302384,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000224,
+    "infoText": "Han Xin's Plan \"Stratagem...Eradicate the Source of Power\""
+  },
+  {
+    "vals": [],
+    "avals": [
+      302381,
+      0
+    ],
+    "script": {},
+    "id": 302385,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000225,
+    "infoText": "Han Xin's Plan \"Stratagem...Attack when Vulnerable\""
   },
   {
     "vals": [

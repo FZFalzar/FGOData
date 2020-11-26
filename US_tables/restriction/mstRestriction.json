@@ -57,6 +57,24 @@
   },
   {
     "targetVals": [
+      800100
+    ],
+    "id": 3000301,
+    "name": "Certain Members Only",
+    "type": 8,
+    "rangeType": 0
+  },
+  {
+    "targetVals": [
+      2
+    ],
+    "id": 3000302,
+    "name": "Only 2 Servants can be deployed.",
+    "type": 10,
+    "rangeType": 1
+  },
+  {
+    "targetVals": [
       2,
       3
     ],
