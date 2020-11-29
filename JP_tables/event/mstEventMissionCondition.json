@@ -61297,6 +61297,123 @@
   },
   {
     "targetIds": [
+      2001576,
+      2001577,
+      2001578,
+      2001579,
+      2001580,
+      2001581
+    ],
+    "missionId": 2001575,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001776,
+    "missionTargetId": 100228,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 6,
+    "conditionMessage": "今週のマスターミッションをすべてクリアせよ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001203
+    ],
+    "missionId": 2001576,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001777,
+    "missionTargetId": 100228,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 3,
+    "conditionMessage": "『善』属性を持つサーヴァントを3騎倒せ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001204
+    ],
+    "missionId": 2001577,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001778,
+    "missionTargetId": 100228,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 3,
+    "conditionMessage": "『悪』属性を持つサーヴァントを3騎倒せ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001205
+    ],
+    "missionId": 2001578,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001779,
+    "missionTargetId": 100228,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "『セイバー』『キャスター』クラスの敵をどれか15体倒せ(サーヴァント及び一部ボスなどは除く)",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001206
+    ],
+    "missionId": 2001579,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001780,
+    "missionTargetId": 100228,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "『ランサー』『アサシン』『バーサーカー』クラスの敵をどれか15体倒せ(サーヴァント及び一部ボスなどは除く)",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001207
+    ],
+    "missionId": 2001580,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001781,
+    "missionTargetId": 100228,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "『アーチャー』『ライダー』クラスの敵をどれか15体倒せ(サーヴァント及び一部ボスなどは除く)",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001208
+    ],
+    "missionId": 2001581,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001782,
+    "missionTargetId": 100228,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "『死霊』特性を持つ敵を15体倒せ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
       3000001
     ],
     "missionId": 30000001,
