@@ -38632,6 +38632,155 @@
   },
   {
     "targetIds": [
+      2001254,
+      2001255,
+      2001256,
+      2001257,
+      2001258,
+      2001259
+    ],
+    "missionId": 2001253,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2000917,
+    "missionTargetId": 100182,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 6,
+    "conditionMessage": "Complete all of this week's Master Missions",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001032
+    ],
+    "missionId": 2001254,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2000918,
+    "missionTargetId": 100182,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 30,
+    "conditionMessage": "Defeat 30 enemies (excluding Servants and certain bosses)",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001033
+    ],
+    "missionId": 2001255,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2000919,
+    "missionTargetId": 100182,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "Defeat 15 \"Humanoid\" enemies",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001034
+    ],
+    "missionId": 2001256,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2000920,
+    "missionTargetId": 100182,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 2,
+    "conditionMessage": "Acquire 2 Gems, Magic Gems, Secret Gems, Pieces or Monuments through battles",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001256
+    ],
+    "missionId": 2001257,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 2000921,
+    "missionTargetId": 100182,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 1,
+    "conditionMessage": "Acquire 4 Gems, Magic Gems, Secret Gems, Pieces or Monuments through battles",
+    "closedMessage": "",
+    "flag": 64
+  },
+  {
+    "targetIds": [
+      2001034
+    ],
+    "missionId": 2001257,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2000922,
+    "missionTargetId": 100182,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 4,
+    "conditionMessage": "Acquire 4 Gems, Magic Gems, Secret Gems, Pieces or Monuments through battles",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001035
+    ],
+    "missionId": 2001258,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2000923,
+    "missionTargetId": 100182,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 5,
+    "conditionMessage": "Complete Quests 5 times",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001258
+    ],
+    "missionId": 2001259,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 2000924,
+    "missionTargetId": 100182,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 1,
+    "conditionMessage": "Complete Quests 10 times",
+    "closedMessage": "",
+    "flag": 64
+  },
+  {
+    "targetIds": [
+      2001035
+    ],
+    "missionId": 2001259,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2000925,
+    "missionTargetId": 100182,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 10,
+    "conditionMessage": "Complete Quests 10 times",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
       94011901
     ],
     "missionId": 80054001,
