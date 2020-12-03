@@ -1725,7 +1725,7 @@
     "condValue": 30,
     "voicePlayedValue": 30,
     "firstPlayPriority": 0,
-    "closedType": 2,
+    "closedType": 1,
     "flag": 0
   },
   {
@@ -6597,6 +6597,19 @@
     "name": "Limited Time Contract",
     "nameDefault": "Unlocks when a Limited Time Servant joins",
     "condType": 21,
+    "condValue": 0,
+    "voicePlayedValue": 0,
+    "firstPlayPriority": 0,
+    "closedType": 1,
+    "flag": 0
+  },
+  {
+    "id": "S110",
+    "priority": 8089,
+    "svtVoiceType": 3,
+    "name": "Summon",
+    "nameDefault": "Unlocks when summoned ",
+    "condType": 8,
     "condValue": 0,
     "voicePlayedValue": 0,
     "firstPlayPriority": 0,

@@ -4631,6 +4631,17 @@
     "closedType": 1
   },
   {
+    "svtId": 403100,
+    "voicePrefix": -1,
+    "voiceId": "B800",
+    "condType": 92,
+    "targetId": 0,
+    "condGroup": 0,
+    "condValue": 0,
+    "priority": 1,
+    "closedType": 2
+  },
+  {
     "svtId": 500300,
     "voicePrefix": -1,
     "voiceId": "H4010",
@@ -7216,6 +7227,116 @@
     "closedType": 2
   },
   {
+    "svtId": 603500,
+    "voicePrefix": -1,
+    "voiceId": "H090",
+    "condType": 1,
+    "targetId": 3000320,
+    "condGroup": 0,
+    "condValue": 0,
+    "priority": 1,
+    "closedType": 1
+  },
+  {
+    "svtId": 603500,
+    "voicePrefix": -1,
+    "voiceId": "H090",
+    "condType": 9,
+    "targetId": 603500,
+    "condGroup": 0,
+    "condValue": 1,
+    "priority": 1,
+    "closedType": 1
+  },
+  {
+    "svtId": 603500,
+    "voicePrefix": -1,
+    "voiceId": "H100",
+    "condType": 1,
+    "targetId": 3000320,
+    "condGroup": 0,
+    "condValue": 0,
+    "priority": 1,
+    "closedType": 1
+  },
+  {
+    "svtId": 603500,
+    "voicePrefix": -1,
+    "voiceId": "H100",
+    "condType": 9,
+    "targetId": 603500,
+    "condGroup": 0,
+    "condValue": 2,
+    "priority": 1,
+    "closedType": 1
+  },
+  {
+    "svtId": 603500,
+    "voicePrefix": -1,
+    "voiceId": "H110",
+    "condType": 1,
+    "targetId": 3000320,
+    "condGroup": 0,
+    "condValue": 0,
+    "priority": 1,
+    "closedType": 1
+  },
+  {
+    "svtId": 603500,
+    "voicePrefix": -1,
+    "voiceId": "H110",
+    "condType": 9,
+    "targetId": 603500,
+    "condGroup": 0,
+    "condValue": 3,
+    "priority": 1,
+    "closedType": 1
+  },
+  {
+    "svtId": 603500,
+    "voicePrefix": -1,
+    "voiceId": "H120",
+    "condType": 1,
+    "targetId": 3000320,
+    "condGroup": 0,
+    "condValue": 0,
+    "priority": 1,
+    "closedType": 1
+  },
+  {
+    "svtId": 603500,
+    "voicePrefix": -1,
+    "voiceId": "H120",
+    "condType": 9,
+    "targetId": 603500,
+    "condGroup": 0,
+    "condValue": 4,
+    "priority": 1,
+    "closedType": 1
+  },
+  {
+    "svtId": 603500,
+    "voicePrefix": -1,
+    "voiceId": "H130",
+    "condType": 1,
+    "targetId": 3000320,
+    "condGroup": 0,
+    "condValue": 0,
+    "priority": 1,
+    "closedType": 1
+  },
+  {
+    "svtId": 603500,
+    "voicePrefix": -1,
+    "voiceId": "H130",
+    "condType": 9,
+    "targetId": 603500,
+    "condGroup": 0,
+    "condValue": 5,
+    "priority": 1,
+    "closedType": 1
+  },
+  {
     "svtId": 701400,
     "voicePrefix": -1,
     "voiceId": "B440",
@@ -8028,6 +8149,50 @@
     "condValue": 80024,
     "priority": -1,
     "closedType": 1
+  },
+  {
+    "svtId": 900600,
+    "voicePrefix": -1,
+    "voiceId": "H1000",
+    "condType": 1,
+    "targetId": 3000320,
+    "condGroup": 0,
+    "condValue": 0,
+    "priority": -1,
+    "closedType": 1
+  },
+  {
+    "svtId": 900600,
+    "voicePrefix": -1,
+    "voiceId": "S010",
+    "condType": 36,
+    "targetId": 3000320,
+    "condGroup": 0,
+    "condValue": 0,
+    "priority": 1,
+    "closedType": 2
+  },
+  {
+    "svtId": 900600,
+    "voicePrefix": -1,
+    "voiceId": "S110",
+    "condType": 1,
+    "targetId": 3000320,
+    "condGroup": 0,
+    "condValue": 0,
+    "priority": 1,
+    "closedType": 2
+  },
+  {
+    "svtId": 900600,
+    "voicePrefix": -1,
+    "voiceId": "S900",
+    "condType": 1,
+    "targetId": 3000320,
+    "condGroup": 0,
+    "condValue": 0,
+    "priority": 1,
+    "closedType": 2
   },
   {
     "svtId": 1000100,

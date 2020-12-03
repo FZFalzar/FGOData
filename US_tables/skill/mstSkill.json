@@ -9131,6 +9131,30 @@
     "effectList": [],
     "actIndividuality": [],
     "script": {},
+    "id": 548550,
+    "type": 1,
+    "name": "Incarnated Elemental A",
+    "ruby": "Incarnated Elemental",
+    "maxLv": 10,
+    "iconId": 607,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 549550,
+    "type": 1,
+    "name": "Taoist Winged Sage A",
+    "ruby": "Taoist Winged Sage",
+    "maxLv": 10,
+    "iconId": 606,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
     "id": 550650,
     "type": 1,
     "name": "Running a Thousand Li (Horse) EX",
@@ -34073,7 +34097,7 @@
     "ruby": "-",
     "maxLv": 1,
     "iconId": 600,
-    "motion": 102
+    "motion": 501
   },
   {
     "effectList": [],
@@ -34085,7 +34109,7 @@
     "ruby": "-",
     "maxLv": 1,
     "iconId": 600,
-    "motion": 102
+    "motion": 501
   },
   {
     "effectList": [],
@@ -53533,6 +53557,48 @@
     "ruby": "Ash Tree",
     "maxLv": 1,
     "iconId": 314,
+    "motion": 102
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [
+      900600
+    ],
+    "script": {},
+    "id": 991541,
+    "type": 2,
+    "name": "Epang Palace Model",
+    "ruby": "Epang Palace Model",
+    "maxLv": 1,
+    "iconId": 404,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [
+      603500
+    ],
+    "script": {},
+    "id": 991542,
+    "type": 2,
+    "name": "Half-Read Book",
+    "ruby": "Half-Read Book",
+    "maxLv": 1,
+    "iconId": 316,
+    "motion": 102
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [
+      403100
+    ],
+    "script": {},
+    "id": 991543,
+    "type": 2,
+    "name": "The Wonderful Fodder Bucket",
+    "ruby": "The Wonderful Fodder Bucket",
+    "maxLv": 1,
+    "iconId": 304,
     "motion": 102
   },
   {
