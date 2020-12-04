@@ -100877,5 +100877,3188 @@
     "popupIconId": 0,
     "popupText": "チャージ増加",
     "categoryId": 0
+  },
+  {
+    "vals": [
+      3156
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 6185,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 365,
+    "popupText": "鬼の大笑い",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3151
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 6186,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 528,
+    "popupText": "攻撃時発動(毒付与)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3152
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 6187,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 528,
+    "popupText": "クリティカル攻撃時発動(様々な弱体効果)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3153
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 6188,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 331,
+    "popupText": "被ダメージ時発動(攻撃力ダウン)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      127
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      336
+    ],
+    "popupTextColor": 3,
+    "id": 6189,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 4,
+    "applyTarget": 3,
+    "popupIconId": 503,
+    "popupText": "攻撃力ダウン",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      127
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      337
+    ],
+    "popupTextColor": 3,
+    "id": 6190,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 4,
+    "applyTarget": 3,
+    "popupIconId": 503,
+    "popupText": "攻撃力ダウン",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      127
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      338
+    ],
+    "popupTextColor": 3,
+    "id": 6191,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 4,
+    "applyTarget": 3,
+    "popupIconId": 503,
+    "popupText": "攻撃力ダウン",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3154
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 6192,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 333,
+    "popupText": "安綱への誓い",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3155
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 6193,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 528,
+    "popupText": "攻撃時発動(やけど付与)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3005
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      329
+    ],
+    "popupTextColor": 1,
+    "id": 6194,
+    "cond": 0,
+    "funcType": 2,
+    "targetType": 4,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "弱体解除",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      887
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      333
+    ],
+    "popupTextColor": 2,
+    "id": 6195,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 4,
+    "applyTarget": 3,
+    "popupIconId": 348,
+    "popupText": "強化解除耐性アップ",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      887
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      334
+    ],
+    "popupTextColor": 2,
+    "id": 6196,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 4,
+    "applyTarget": 3,
+    "popupIconId": 348,
+    "popupText": "強化解除耐性アップ",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      887
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 6197,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 4,
+    "applyTarget": 3,
+    "popupIconId": 348,
+    "popupText": "強化解除耐性アップ",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3158
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 6198,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 304,
+    "popupText": "鬼の矜持",
+    "categoryId": 20205
+  },
+  {
+    "vals": [
+      3159
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 6199,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 304,
+    "popupText": "鬼の大笑い",
+    "categoryId": 20205
+  },
+  {
+    "vals": [
+      3160
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 6200,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 304,
+    "popupText": "晴明の式神",
+    "categoryId": 20205
+  },
+  {
+    "vals": [
+      3150
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 6201,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 365,
+    "popupText": "鬼の矜持",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3157
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 6202,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 365,
+    "popupText": "晴明の式神",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3161
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 2,
+    "id": 6203,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 350,
+    "popupText": "夢想の軍勢",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      126
+    ],
+    "tvals": [
+      501100
+    ],
+    "questTvals": [],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 6204,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 300,
+    "popupText": "攻撃力アップ",
+    "categoryId": 10201
+  },
+  {
+    "vals": [
+      3162
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 6205,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 331,
+    "popupText": "被ダメージ時発動(毒付与)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3163
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 6206,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 528,
+    "popupText": "攻撃時発動(攻撃力ダウン)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3164
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 6207,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 307,
+    "popupText": "弱体付与アップ",
+    "categoryId": 30203
+  },
+  {
+    "vals": [
+      3005
+    ],
+    "tvals": [
+      6010
+    ],
+    "questTvals": [],
+    "effectList": [
+      329
+    ],
+    "popupTextColor": 1,
+    "id": 6208,
+    "cond": 0,
+    "funcType": 2,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "弱体解除",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      171
+    ],
+    "tvals": [
+      6010
+    ],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 6209,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 322,
+    "popupText": "弱体無効",
+    "categoryId": 30202
+  },
+  {
+    "vals": [
+      3005,
+      104700
+    ],
+    "tvals": [
+      104700
+    ],
+    "questTvals": [],
+    "effectList": [
+      329
+    ],
+    "popupTextColor": 1,
+    "id": 6210,
+    "cond": 0,
+    "funcType": 2,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "弱体解除",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      104700
+    ],
+    "questTvals": [],
+    "effectList": [
+      325
+    ],
+    "popupTextColor": 1,
+    "id": 6211,
+    "cond": 0,
+    "funcType": 6,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      149
+    ],
+    "tvals": [
+      501100
+    ],
+    "questTvals": [],
+    "effectList": [
+      334
+    ],
+    "popupTextColor": 2,
+    "id": 6212,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 301,
+    "popupText": "ダメージカット",
+    "categoryId": 20202
+  },
+  {
+    "vals": [
+      171
+    ],
+    "tvals": [
+      501100
+    ],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 6213,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 322,
+    "popupText": "弱体無効",
+    "categoryId": 30202
+  },
+  {
+    "vals": [
+      887
+    ],
+    "tvals": [
+      501100
+    ],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 6214,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 348,
+    "popupText": "強化解除耐性アップ",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3165
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 6215,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 365,
+    "popupText": "ガッツ時発動(回避)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3166
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 6216,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 365,
+    "popupText": "ガッツ時発動(宝具チャージ増加)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      329
+    ],
+    "tvals": [
+      104700
+    ],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 6217,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 334,
+    "popupText": "特殊耐性アップ",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3167
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 6218,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 528,
+    "popupText": "骨抜き",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5010
+    ],
+    "questTvals": [],
+    "effectList": [
+      325
+    ],
+    "popupTextColor": 1,
+    "id": 6219,
+    "cond": 0,
+    "funcType": 17,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3005
+    ],
+    "tvals": [
+      5010
+    ],
+    "questTvals": [],
+    "effectList": [
+      329
+    ],
+    "popupTextColor": 1,
+    "id": 6220,
+    "cond": 0,
+    "funcType": 2,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "弱体解除",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      329
+    ],
+    "tvals": [
+      104700
+    ],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 6221,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 1,
+    "applyTarget": 3,
+    "popupIconId": 334,
+    "popupText": "特殊耐性アップ",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3168
+    ],
+    "tvals": [
+      1000
+    ],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 1,
+    "id": 6222,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 512,
+    "popupText": "宝具封印",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      6021
+    ],
+    "tvals": [
+      2
+    ],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 1,
+    "id": 6223,
+    "cond": 0,
+    "funcType": 2,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "宝具封印解除",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3005
+    ],
+    "tvals": [
+      2
+    ],
+    "questTvals": [],
+    "effectList": [
+      329
+    ],
+    "popupTextColor": 1,
+    "id": 6224,
+    "cond": 0,
+    "funcType": 2,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "弱体解除",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      2
+    ],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 6225,
+    "cond": 0,
+    "funcType": 19,
+    "targetType": 6,
+    "applyTarget": 2,
+    "popupIconId": 0,
+    "popupText": "チャージ増加",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      178
+    ],
+    "tvals": [
+      -2
+    ],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 6226,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3169
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 6227,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 334,
+    "popupText": "僅かな間隙",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3170
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 2,
+    "id": 6228,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3171
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 6229,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 343,
+    "popupText": "毎ターン発動(クリティカル発生率アップ)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      148
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      341
+    ],
+    "popupTextColor": 3,
+    "id": 6230,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 504,
+    "popupText": "防御力ダウン",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1125
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      326
+    ],
+    "popupTextColor": 1,
+    "id": 6231,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 319,
+    "popupText": "毎ターンチャージプラス",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1125
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      327
+    ],
+    "popupTextColor": 1,
+    "id": 6232,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 319,
+    "popupText": "毎ターンチャージプラス",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1125
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 1,
+    "id": 6233,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 319,
+    "popupText": "毎ターンチャージプラス",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3172
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 6234,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 302,
+    "popupText": "威力アップ・対源氏",
+    "categoryId": 10205
+  },
+  {
+    "vals": [],
+    "tvals": [
+      2736
+    ],
+    "questTvals": [],
+    "effectList": [
+      345
+    ],
+    "popupTextColor": 1,
+    "id": 6235,
+    "cond": 0,
+    "funcType": 13,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "即死",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3173
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      341
+    ],
+    "popupTextColor": 3,
+    "id": 6236,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 504,
+    "popupText": "防御力ダウン〔源氏〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      6023
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      329
+    ],
+    "popupTextColor": 1,
+    "id": 6237,
+    "cond": 0,
+    "funcType": 2,
+    "targetType": 7,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "源氏毒解除",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3174
+    ],
+    "tvals": [
+      2735
+    ],
+    "questTvals": [],
+    "effectList": [
+      338
+    ],
+    "popupTextColor": 3,
+    "id": 6238,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 7,
+    "applyTarget": 3,
+    "popupIconId": 503,
+    "popupText": "景清の源氏毒",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3175
+    ],
+    "tvals": [
+      2735
+    ],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 3,
+    "id": 6239,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 7,
+    "applyTarget": 3,
+    "popupIconId": 512,
+    "popupText": "景清の源氏毒",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      174
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 6240,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 8,
+    "applyTarget": 3,
+    "popupIconId": 322,
+    "popupText": "精神異常無効",
+    "categoryId": 30202
+  },
+  {
+    "vals": [
+      199
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 6241,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 7,
+    "applyTarget": 3,
+    "popupIconId": 330,
+    "popupText": "最大HPアップ",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      199
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 6242,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 8,
+    "applyTarget": 3,
+    "popupIconId": 330,
+    "popupText": "最大HPアップ",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3176
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 6243,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 302,
+    "popupText": "威力アップ・対悪魔",
+    "categoryId": 10205
+  },
+  {
+    "vals": [
+      360
+    ],
+    "tvals": [
+      2735
+    ],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 1,
+    "id": 6244,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 6,
+    "applyTarget": 1,
+    "popupIconId": 323,
+    "popupText": "タゲ集中アップ",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3177
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 6245,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 342,
+    "popupText": "撃破時追加効果(回復)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3178
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      342
+    ],
+    "popupTextColor": 1,
+    "id": 6246,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 520,
+    "popupText": "源氏特性付与",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3179
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      341
+    ],
+    "popupTextColor": 3,
+    "id": 6247,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 504,
+    "popupText": "防御力ダウン〔宝具〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3180
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 6248,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 300,
+    "popupText": "錯乱状態",
+    "categoryId": 10201
+  },
+  {
+    "vals": [
+      3182
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 6249,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "あらがうのを、許す。",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3181
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 6250,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "この剣、抜かせてみよ。",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      6021
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      329
+    ],
+    "popupTextColor": 1,
+    "id": 6251,
+    "cond": 0,
+    "funcType": 2,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "この剣、抜かせてみよ。解除",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3183
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 6252,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 528,
+    "popupText": "大瘴気の糸",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3184
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 6253,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 334,
+    "popupText": "鉄囲山の外鎧",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3185
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 6254,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 334,
+    "popupText": "僧佉の大風",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      6021
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 1,
+    "id": 6255,
+    "cond": 0,
+    "funcType": 2,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "鉄囲山の外鎧解除",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      6022
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 1,
+    "id": 6256,
+    "cond": 0,
+    "funcType": 2,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "僧佉の大風解除",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      102
+    ],
+    "tvals": [
+      201
+    ],
+    "questTvals": [],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 6257,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 7,
+    "applyTarget": 3,
+    "popupIconId": 314,
+    "popupText": "バスターアップ",
+    "categoryId": 10204
+  },
+  {
+    "vals": [
+      138
+    ],
+    "tvals": [
+      301
+    ],
+    "questTvals": [],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 6258,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 7,
+    "applyTarget": 3,
+    "popupIconId": 310,
+    "popupText": "宝具威力アップ",
+    "categoryId": 10601
+  },
+  {
+    "vals": [
+      138
+    ],
+    "tvals": [
+      304
+    ],
+    "questTvals": [],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 6259,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 7,
+    "applyTarget": 3,
+    "popupIconId": 310,
+    "popupText": "宝具威力アップ",
+    "categoryId": 10601
+  },
+  {
+    "vals": [
+      3186
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 6260,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 7,
+    "applyTarget": 3,
+    "popupIconId": 302,
+    "popupText": "威力アップ・対鬼",
+    "categoryId": 10205
+  },
+  {
+    "vals": [
+      3187
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 6261,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 331,
+    "popupText": "被ダメージ時発動(毒付与)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      256
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 3,
+    "id": 6262,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 7,
+    "applyTarget": 3,
+    "popupIconId": 525,
+    "popupText": "混乱",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      123
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      343
+    ],
+    "popupTextColor": 1,
+    "id": 6263,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 4,
+    "applyTarget": 3,
+    "popupIconId": 500,
+    "popupText": "毒",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3188
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 6264,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 311,
+    "popupText": "蛇神の翠鱗〔Quick〕",
+    "categoryId": 20204
+  },
+  {
+    "vals": [
+      3189
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 6265,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 311,
+    "popupText": "蛇神の藍鱗〔Arts〕",
+    "categoryId": 20204
+  },
+  {
+    "vals": [
+      3190
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 6266,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 311,
+    "popupText": "蛇神の緋鱗〔Buster〕",
+    "categoryId": 20204
+  },
+  {
+    "vals": [
+      3191
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 6267,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 311,
+    "popupText": "蛇神の輝鱗〔クリティカル＆宝具〕",
+    "categoryId": 20204
+  },
+  {
+    "vals": [
+      6022
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 1,
+    "id": 6268,
+    "cond": 0,
+    "funcType": 2,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "蛇神の鱗解除",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3192
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 6269,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 330,
+    "popupText": "蛇神変生 （全力）",
+    "categoryId": 20403
+  },
+  {
+    "vals": [
+      3193
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 6270,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 330,
+    "popupText": "蛇神変生",
+    "categoryId": 20403
+  },
+  {
+    "vals": [
+      201
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 2,
+    "id": 6271,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 20403
+  },
+  {
+    "vals": [
+      6022
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 6272,
+    "cond": 0,
+    "funcType": 2,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3194
+    ],
+    "tvals": [
+      2740
+    ],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 3,
+    "id": 6273,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 549,
+    "popupText": "カード燃焼",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3195
+    ],
+    "tvals": [
+      2740
+    ],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 3,
+    "id": 6274,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 549,
+    "popupText": "カード燃焼",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3196
+    ],
+    "tvals": [
+      2740
+    ],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 3,
+    "id": 6275,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 549,
+    "popupText": "カード燃焼",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3197
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 1,
+    "id": 6276,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 319,
+    "popupText": "毎ターンチャージプラス",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3198
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 3,
+    "id": 6277,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 4,
+    "applyTarget": 3,
+    "popupIconId": 525,
+    "popupText": "遅延発動(即死)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2884
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      330
+    ],
+    "popupTextColor": 2,
+    "id": 6278,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 9,
+    "applyTarget": 3,
+    "popupIconId": 302,
+    "popupText": "威力アップ〔呪い〕",
+    "categoryId": 10201
+  },
+  {
+    "vals": [
+      2884
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 6279,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 9,
+    "applyTarget": 3,
+    "popupIconId": 302,
+    "popupText": "威力アップ〔呪い〕",
+    "categoryId": 10201
+  },
+  {
+    "vals": [
+      2884
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 6280,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 9,
+    "applyTarget": 3,
+    "popupIconId": 302,
+    "popupText": "威力アップ〔呪い〕",
+    "categoryId": 10201
+  },
+  {
+    "vals": [
+      3199
+    ],
+    "tvals": [
+      1001000
+    ],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 2,
+    "id": 6281,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3200
+    ],
+    "tvals": [
+      1001000
+    ],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 2,
+    "id": 6282,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3201
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 6283,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3201
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 6284,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3202
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 6285,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "チャージ2倍",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3203
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 2,
+    "id": 6286,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3204
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 6287,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      6023
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 6288,
+    "cond": 0,
+    "funcType": 2,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3205
+    ],
+    "tvals": [
+      6025
+    ],
+    "questTvals": [],
+    "effectList": [
+      342
+    ],
+    "popupTextColor": 1,
+    "id": 6289,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 520,
+    "popupText": "呪殺の符",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3206
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 6290,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 1,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      6024
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 6291,
+    "cond": 0,
+    "funcType": 2,
+    "targetType": 1,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3207
+    ],
+    "tvals": [
+      2741
+    ],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 3,
+    "id": 6292,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 549,
+    "popupText": "カード燃焼",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3208
+    ],
+    "tvals": [
+      2741
+    ],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 3,
+    "id": 6293,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 549,
+    "popupText": "カード燃焼",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3209
+    ],
+    "tvals": [
+      2741
+    ],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 3,
+    "id": 6294,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 549,
+    "popupText": "カード燃焼",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3210
+    ],
+    "tvals": [
+      2742
+    ],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 3,
+    "id": 6295,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 549,
+    "popupText": "カード燃焼",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3211
+    ],
+    "tvals": [
+      2742
+    ],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 3,
+    "id": 6296,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 549,
+    "popupText": "カード燃焼",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3212
+    ],
+    "tvals": [
+      2742
+    ],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 3,
+    "id": 6297,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 549,
+    "popupText": "カード燃焼",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3213
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 6298,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 1,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      126
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      330
+    ],
+    "popupTextColor": 2,
+    "id": 6299,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 8,
+    "applyTarget": 3,
+    "popupIconId": 300,
+    "popupText": "攻撃力アップ",
+    "categoryId": 10201
+  },
+  {
+    "vals": [
+      126
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 6301,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 8,
+    "applyTarget": 3,
+    "popupIconId": 300,
+    "popupText": "攻撃力アップ",
+    "categoryId": 10201
+  },
+  {
+    "vals": [
+      3215
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 6302,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 7,
+    "applyTarget": 3,
+    "popupIconId": 304,
+    "popupText": "ガッツ",
+    "categoryId": 20205
+  },
+  {
+    "vals": [
+      3214
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      330
+    ],
+    "popupTextColor": 2,
+    "id": 6303,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 2,
+    "popupIconId": 327,
+    "popupText": "クリティカル発生アップ:Arts",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3214
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 6304,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 2,
+    "popupIconId": 327,
+    "popupText": "クリティカル発生アップ:Arts",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3214
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 6305,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 2,
+    "popupIconId": 327,
+    "popupText": "クリティカル発生アップ:Arts",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1135
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      346
+    ],
+    "popupTextColor": 1,
+    "id": 6306,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 551,
+    "popupText": "クイック封印",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1136
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      346
+    ],
+    "popupTextColor": 1,
+    "id": 6307,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 552,
+    "popupText": "アーツ封印",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1137
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      346
+    ],
+    "popupTextColor": 1,
+    "id": 6308,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 553,
+    "popupText": "バスター封印",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      515
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      345
+    ],
+    "popupTextColor": 3,
+    "id": 6309,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 4,
+    "applyTarget": 3,
+    "popupIconId": 525,
+    "popupText": "帯電",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3217
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      341
+    ],
+    "popupTextColor": 3,
+    "id": 6310,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 529,
+    "popupText": "特殊耐性ダウン",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      142
+    ],
+    "tvals": [
+      304
+    ],
+    "questTvals": [],
+    "effectList": [
+      330
+    ],
+    "popupTextColor": 2,
+    "id": 6311,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 324,
+    "popupText": "クリティカル威力アップ",
+    "categoryId": 10401
+  },
+  {
+    "vals": [
+      142
+    ],
+    "tvals": [
+      304
+    ],
+    "questTvals": [],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 6312,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 324,
+    "popupText": "クリティカル威力アップ",
+    "categoryId": 10401
+  },
+  {
+    "vals": [
+      142
+    ],
+    "tvals": [
+      304
+    ],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 6313,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 324,
+    "popupText": "クリティカル威力アップ",
+    "categoryId": 10401
+  },
+  {
+    "vals": [
+      142
+    ],
+    "tvals": [
+      301
+    ],
+    "questTvals": [],
+    "effectList": [
+      330
+    ],
+    "popupTextColor": 2,
+    "id": 6314,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 324,
+    "popupText": "クリティカル威力アップ",
+    "categoryId": 10401
+  },
+  {
+    "vals": [
+      142
+    ],
+    "tvals": [
+      301
+    ],
+    "questTvals": [],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 6315,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 324,
+    "popupText": "クリティカル威力アップ",
+    "categoryId": 10401
+  },
+  {
+    "vals": [
+      142
+    ],
+    "tvals": [
+      301
+    ],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 6316,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 324,
+    "popupText": "クリティカル威力アップ",
+    "categoryId": 10401
+  },
+  {
+    "vals": [
+      126
+    ],
+    "tvals": [
+      304
+    ],
+    "questTvals": [],
+    "effectList": [
+      330
+    ],
+    "popupTextColor": 2,
+    "id": 6317,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 300,
+    "popupText": "攻撃力アップ",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      126
+    ],
+    "tvals": [
+      304
+    ],
+    "questTvals": [],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 6318,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 300,
+    "popupText": "攻撃力アップ",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      126
+    ],
+    "tvals": [
+      304
+    ],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 6319,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 300,
+    "popupText": "攻撃力アップ",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      126
+    ],
+    "tvals": [
+      301
+    ],
+    "questTvals": [],
+    "effectList": [
+      330
+    ],
+    "popupTextColor": 2,
+    "id": 6320,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 300,
+    "popupText": "攻撃力アップ",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      126
+    ],
+    "tvals": [
+      301
+    ],
+    "questTvals": [],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 6321,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 300,
+    "popupText": "攻撃力アップ",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      126
+    ],
+    "tvals": [
+      301
+    ],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 6322,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 300,
+    "popupText": "攻撃力アップ",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 6323,
+    "cond": 0,
+    "funcType": 46,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      182
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 1,
+    "id": 6324,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 511,
+    "popupText": "スキル封印",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3218
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 3,
+    "id": 6325,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3219
+    ],
+    "tvals": [
+      -6021
+    ],
+    "questTvals": [],
+    "effectList": [
+      336
+    ],
+    "popupTextColor": 3,
+    "id": 6326,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 7,
+    "applyTarget": 3,
+    "popupIconId": 503,
+    "popupText": "攻撃力ダウン",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      487
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 1,
+    "id": 6327,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 1,
+    "applyTarget": 2,
+    "popupIconId": 323,
+    "popupText": "タゲ集中アップ",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      171
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 6328,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 1,
+    "applyTarget": 3,
+    "popupIconId": 322,
+    "popupText": "弱体無効",
+    "categoryId": 30202
+  },
+  {
+    "vals": [
+      6025
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 6329,
+    "cond": 0,
+    "funcType": 2,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3220
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 6330,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 330,
+    "popupText": "最大HPプラス",
+    "categoryId": 20403
+  },
+  {
+    "vals": [
+      3221
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 6331,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 307,
+    "popupText": "スタン付与アップ",
+    "categoryId": 30203
+  },
+  {
+    "vals": [
+      3222
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 1,
+    "id": 6332,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 319,
+    "popupText": "毎ターンNP獲得",
+    "categoryId": 10603
+  },
+  {
+    "vals": [
+      3223
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 6333,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 310,
+    "popupText": "宝具威力アップ",
+    "categoryId": 10601
+  },
+  {
+    "vals": [
+      3224
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      327
+    ],
+    "popupTextColor": 1,
+    "id": 6334,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 320,
+    "popupText": "毎ターンスター獲得",
+    "categoryId": 10405
+  },
+  {
+    "vals": [
+      3225
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 6335,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 321,
+    "popupText": "スター発生アップ",
+    "categoryId": 10402
+  },
+  {
+    "vals": [
+      3226
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 2,
+    "id": 6336,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3227
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 2,
+    "id": 6337,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3228
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 2,
+    "id": 6338,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3229
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 2,
+    "id": 6339,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3230
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 2,
+    "id": 6340,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3231
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 2,
+    "id": 6341,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3232
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 2,
+    "id": 6342,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      6021
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 6343,
+    "cond": 0,
+    "funcType": 2,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      6022
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 6344,
+    "cond": 0,
+    "funcType": 2,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      6023
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 6345,
+    "cond": 0,
+    "funcType": 2,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3233
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 1,
+    "id": 6346,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 8,
+    "applyTarget": 3,
+    "popupIconId": 543,
+    "popupText": "髑髏地獄陣",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3234
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 3,
+    "id": 6347,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 543,
+    "popupText": "呪詛返し",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      183
+    ],
+    "tvals": [
+      1001000
+    ],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 1,
+    "id": 6348,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 512,
+    "popupText": "宝具封印",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3235
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 2,
+    "id": 6349,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 10601
+  },
+  {
+    "vals": [
+      3227
+    ],
+    "tvals": [
+      -6021
+    ],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 2,
+    "id": 6350,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3229
+    ],
+    "tvals": [
+      -6022
+    ],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 2,
+    "id": 6351,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
   }
 ]

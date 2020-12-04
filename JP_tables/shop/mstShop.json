@@ -5806,7 +5806,7 @@
     "eventId": 0,
     "slot": 0,
     "flag": 2048,
-    "priority": 10,
+    "priority": 36,
     "purchaseType": 4,
     "setNum": 1,
     "payType": 4,
@@ -5888,6 +5888,39 @@
     "bgImageId": 0,
     "openedAt": 1606748400,
     "closedAt": 1609426799
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      1000
+    ],
+    "targetIds": [
+      10120011
+    ],
+    "script": {},
+    "id": 11195,
+    "baseShopId": 11195,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 9,
+    "purchaseType": 14,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "霊衣「シルバー・バトラー」開放権",
+    "detail": "ベディヴィエール霊衣\n「シルバー・バトラー」開放権へ交換",
+    "infoMessage": "霊衣「シルバー・バトラー」の開放権を\n獲得できます。",
+    "warningMessage": "",
+    "imageId": 80304,
+    "bgImageId": 0,
+    "openedAt": 1607072400,
+    "closedAt": 1901199599
   },
   {
     "itemIds": [
@@ -32189,6 +32222,39 @@
     "bgImageId": 0,
     "openedAt": 1607526000,
     "closedAt": 1607659199
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      1001000
+    ],
+    "script": {},
+    "id": 4000543,
+    "baseShopId": 4000543,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 795,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "蘆屋道満",
+    "detail": "期間限定★5サーヴァントへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1607072400,
+    "closedAt": 1608263999
   },
   {
     "itemIds": [

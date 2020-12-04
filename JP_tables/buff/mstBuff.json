@@ -39886,5 +39886,1573 @@
     "iconId": 323,
     "maxRate": 50000,
     "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3150,
+    "buffGroup": 0,
+    "type": 149,
+    "name": "鬼の矜持",
+    "detail": "ガッツ発動時、攻撃力をアップ",
+    "iconId": 365,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3151,
+    "buffGroup": 0,
+    "type": 137,
+    "name": "鬼種の気まぐれ",
+    "detail": "攻撃時に毒状態(5ターン)を付与する",
+    "iconId": 528,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [
+      5000,
+      4100
+    ],
+    "ckSelfIndv": [
+      4100
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3152,
+    "buffGroup": 0,
+    "type": 137,
+    "name": "鬼種の気まぐれ",
+    "detail": "自身のクリティカル攻撃時にランダムで様々な弱体効果を付与",
+    "iconId": 528,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3153,
+    "buffGroup": 0,
+    "type": 86,
+    "name": "被ダメージ時発動(攻撃力ダウン)",
+    "detail": "攻撃を受けると敵単体の攻撃力をダウン",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3154,
+    "buffGroup": 0,
+    "type": 137,
+    "name": "安綱への誓い",
+    "detail": "攻撃時、自身のクリティカル発生率アップまたはダメージカット状態を付与",
+    "iconId": 333,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3155,
+    "buffGroup": 0,
+    "type": 137,
+    "name": "攻撃時発動(やけど付与)",
+    "detail": "攻撃時にやけど状態(3ターン)を付与する",
+    "iconId": 528,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3156,
+    "buffGroup": 0,
+    "type": 149,
+    "name": "鬼の大笑い",
+    "detail": "ガッツ発動時、攻撃力をアップ",
+    "iconId": 365,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3157,
+    "buffGroup": 0,
+    "type": 149,
+    "name": "晴明の式神",
+    "detail": "ガッツ発動時、敵単体に呪い状態を付与",
+    "iconId": 365,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3024
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3158,
+    "buffGroup": 601,
+    "type": 37,
+    "name": "鬼の矜持",
+    "detail": "HPが0になった時、HPを回復して耐える(他のガッツ状態と重複可能)",
+    "iconId": 304,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3024
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3159,
+    "buffGroup": 600,
+    "type": 37,
+    "name": "鬼の大笑い",
+    "detail": "HPが0になった時、HPを回復して耐える",
+    "iconId": 304,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3024
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3160,
+    "buffGroup": 600,
+    "type": 37,
+    "name": "晴明の式神",
+    "detail": "HPが0になった時、HPを回復して耐える",
+    "iconId": 304,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3161,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "夢想の軍勢",
+    "detail": "HPが0になった時、バベッジの攻撃力をアップ",
+    "iconId": 350,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [
+      5000
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3162,
+    "buffGroup": 0,
+    "type": 86,
+    "name": "鬼の地酒",
+    "detail": "攻撃を受けると敵単体に毒状態(3ターン)を付与する",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3163,
+    "buffGroup": 0,
+    "type": 137,
+    "name": "鬼の地酒",
+    "detail": "自身の攻撃時に敵単体に攻撃力ダウンを付与する",
+    "iconId": 528,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [
+      3005
+    ],
+    "ckSelfIndv": [
+      3005
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3164,
+    "buffGroup": 0,
+    "type": 27,
+    "name": "鬼の地酒",
+    "detail": "弱体付与率をアップ",
+    "iconId": 307,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3165,
+    "buffGroup": 0,
+    "type": 149,
+    "name": "ガッツ時発動(回避)",
+    "detail": "ガッツ発動時、回避を付与",
+    "iconId": 365,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3166,
+    "buffGroup": 0,
+    "type": 149,
+    "name": "ガッツ時発動(宝具チャージ増加)",
+    "detail": "ガッツ発動時、宝具チャージをMAXにする",
+    "iconId": 365,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3167,
+    "buffGroup": 0,
+    "type": 137,
+    "name": "骨抜き",
+    "detail": "攻撃時、敵単体の攻撃力ダウン＆NP減少",
+    "iconId": 528,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6021
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3168,
+    "buffGroup": 900,
+    "type": 34,
+    "name": "宝具封印",
+    "detail": "宝具を使用できなくなる【デメリット】",
+    "iconId": 512,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3169,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "僅かな間隙",
+    "detail": "全ての攻撃に対する耐性を得る＆宝具で攻撃時、自身の特殊耐性が大ダウンする状態を付与【デメリット】",
+    "iconId": 334,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [
+      5000,
+      4007
+    ],
+    "ckSelfIndv": [
+      4007
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3170,
+    "buffGroup": 0,
+    "type": 137,
+    "name": "",
+    "detail": "",
+    "iconId": 528,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3171,
+    "buffGroup": 0,
+    "type": 85,
+    "name": "毎ターン発動(クリティカル発生率アップ)",
+    "detail": "毎ターン終了時に自身のクリティカル発生率をアップ",
+    "iconId": 343,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006,
+      3028
+    ],
+    "tvals": [
+      2735
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      2735
+    ],
+    "script": {},
+    "id": 3172,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "威力アップ〔源氏〕",
+    "detail": "〔源氏〕特性に与えるダメージをアップ",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      2735
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      2735
+    ],
+    "script": {},
+    "id": 3173,
+    "buffGroup": 0,
+    "type": 43,
+    "name": "防御力ダウン〔源氏〕",
+    "detail": "〔源氏〕に対する防御力をダウン【デメリット】",
+    "iconId": 504,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6023
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3174,
+    "buffGroup": 0,
+    "type": 10,
+    "name": "景清の源氏毒",
+    "detail": "攻撃力をダウン",
+    "iconId": 503,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6023
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3175,
+    "buffGroup": 900,
+    "type": 34,
+    "name": "景清の源氏毒",
+    "detail": "宝具を使用できなくなる",
+    "iconId": 512,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006,
+      3028
+    ],
+    "tvals": [
+      1119
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      1119
+    ],
+    "script": {},
+    "id": 3176,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "威力アップ〔悪魔〕",
+    "detail": "〔悪魔〕特性に与えるダメージをアップ",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      5000
+    ],
+    "script": {},
+    "id": 3177,
+    "buffGroup": 0,
+    "type": 90,
+    "name": "撃破時追加効果(回復)",
+    "detail": "敵を倒したときに自身のHPを回復する",
+    "iconId": 342,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3178,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "特性付与〔源氏〕",
+    "detail": "〔源氏〕特性を付与する",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005,
+      3009
+    ],
+    "tvals": [
+      4007
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4007
+    ],
+    "script": {},
+    "id": 3179,
+    "buffGroup": 0,
+    "type": 43,
+    "name": "防御力ダウン〔宝具〕",
+    "detail": "宝具攻撃に対する防御力をダウン【デメリット】",
+    "iconId": 504,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006,
+      3027
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3180,
+    "buffGroup": 0,
+    "type": 9,
+    "name": "錯乱状態",
+    "detail": "攻撃力をアップ＆防御力ダウン【デメリット】",
+    "iconId": 300,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6021
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3181,
+    "buffGroup": 900,
+    "type": 34,
+    "name": "この剣、抜かせてみよ。",
+    "detail": "宝具を使用できなくなる【デメリット】",
+    "iconId": 512,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6025
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3182,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "あらがうのを、許す。",
+    "detail": "5ターン以内に、2回ゲージブレイクされたら全力を出す状態を付与",
+    "iconId": 350,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3183,
+    "buffGroup": 0,
+    "type": 137,
+    "name": "大瘴気の糸",
+    "detail": "攻撃時、敵全体に確率でスタンを付与する",
+    "iconId": 528,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6021
+    ],
+    "tvals": [
+      4007
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4007
+    ],
+    "script": {},
+    "id": 3184,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "鉄囲山の外鎧",
+    "detail": "宝具による攻撃への耐性を得る",
+    "iconId": 334,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6022
+    ],
+    "tvals": [
+      4100
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4100
+    ],
+    "script": {},
+    "id": 3185,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "僧佉の大風",
+    "detail": "クリティカル攻撃への耐性を得る",
+    "iconId": 334,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006,
+      3028
+    ],
+    "tvals": [
+      1132
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      1132
+    ],
+    "script": {},
+    "id": 3186,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "威力アップ〔鬼〕",
+    "detail": "〔鬼〕特性に与えるダメージをアップ",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [
+      5000
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3187,
+    "buffGroup": 0,
+    "type": 86,
+    "name": "被ダメージ時発動(毒付与)",
+    "detail": "攻撃を受けると敵単体に毒状態(3ターン)を付与する",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6022
+    ],
+    "tvals": [
+      5000,
+      4003
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4003
+    ],
+    "script": {},
+    "id": 3188,
+    "buffGroup": 0,
+    "type": 26,
+    "name": "蛇神の翠鱗〔Quick〕",
+    "detail": "必中を無視して、Quick攻撃によるダメージを0にする",
+    "iconId": 311,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6022
+    ],
+    "tvals": [
+      5000,
+      4001
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4001
+    ],
+    "script": {},
+    "id": 3189,
+    "buffGroup": 0,
+    "type": 26,
+    "name": "蛇神の藍鱗〔Arts〕",
+    "detail": "必中を無視して、Arts攻撃によるダメージを0にする",
+    "iconId": 311,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6022
+    ],
+    "tvals": [
+      5000,
+      4002
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4002
+    ],
+    "script": {},
+    "id": 3190,
+    "buffGroup": 0,
+    "type": 26,
+    "name": "蛇神の緋鱗〔Buster〕",
+    "detail": "必中を無視して、Buster攻撃によるダメージを0にする",
+    "iconId": 311,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6022
+    ],
+    "tvals": [
+      5000,
+      4007,
+      4100
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4007,
+      4100
+    ],
+    "script": {},
+    "id": 3191,
+    "buffGroup": 0,
+    "type": 26,
+    "name": "蛇神の輝鱗〔クリティカル＆宝具〕",
+    "detail": "必中を無視して、クリティカル攻撃と宝具攻撃によるダメージを0にする",
+    "iconId": 311,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3192,
+    "buffGroup": 0,
+    "type": 81,
+    "name": "蛇神変生 （全力）",
+    "detail": "解除した「蛇神の鱗」の数だけHPを増やす",
+    "iconId": 330,
+    "maxRate": 50000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3193,
+    "buffGroup": 0,
+    "type": 81,
+    "name": "蛇神変生",
+    "detail": "解除した「蛇神の鱗」の数だけHPを増やす",
+    "iconId": 330,
+    "maxRate": 50000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005,
+      2743
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "CardEffectId": 2001004
+    },
+    "id": 3194,
+    "buffGroup": 0,
+    "type": 159,
+    "name": "カード燃焼",
+    "detail": "コマンドカードを１枚燃焼状態にし、燃焼状態のカードで攻撃時、自身のHP減少",
+    "iconId": 549,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005,
+      2743
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "CardEffectId": 2001004
+    },
+    "id": 3195,
+    "buffGroup": 0,
+    "type": 159,
+    "name": "カード燃焼",
+    "detail": "コマンドカードを１枚燃焼状態にし、燃焼状態のカードで攻撃時、自身のHP減少",
+    "iconId": 549,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005,
+      2743
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "CardEffectId": 2001004
+    },
+    "id": 3196,
+    "buffGroup": 0,
+    "type": 159,
+    "name": "カード燃焼",
+    "detail": "コマンドカードを１枚燃焼状態にし、燃焼状態のカードで攻撃時、自身のHP減少",
+    "iconId": 549,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2310
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3197,
+    "buffGroup": 0,
+    "type": 114,
+    "name": "毎ターンチャージプラス",
+    "detail": "毎ターン終了時に宝具チャージがMAXになる",
+    "iconId": 319,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3198,
+    "buffGroup": 0,
+    "type": 76,
+    "name": "遅延発動(即死)",
+    "detail": "3ターン経過後に即死を付与する",
+    "iconId": 525,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3199,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "髑髏守護陣",
+    "detail": "フィールドに存在する召喚したエネミーの数だけ特殊耐性を付与",
+    "iconId": 334,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3200,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "",
+    "detail": "",
+    "iconId": 334,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6022
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3201,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "",
+    "detail": "",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "INDIVIDUALITIE": 6022
+    },
+    "id": 3202,
+    "buffGroup": 0,
+    "type": 142,
+    "name": "チャージ2倍",
+    "detail": "",
+    "iconId": 343,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3203,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "",
+    "detail": "",
+    "iconId": 350,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6023
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3204,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "",
+    "detail": "",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2736
+    ],
+    "tvals": [
+      4007
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4007
+    ],
+    "script": {},
+    "id": 3205,
+    "buffGroup": 1557,
+    "type": 91,
+    "name": "呪殺の符",
+    "detail": "『八熱地獄巡り』を受けた時に、自身に即死効果が発動する",
+    "iconId": 520,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6024
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3206,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "",
+    "detail": "",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005,
+      2744
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "CardEffectId": 2001004
+    },
+    "id": 3207,
+    "buffGroup": 0,
+    "type": 159,
+    "name": "カード燃焼",
+    "detail": "コマンドカードを１枚燃焼状態にし、燃焼状態のカードで攻撃時、自身のHP減少",
+    "iconId": 549,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005,
+      2744
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "CardEffectId": 2001004
+    },
+    "id": 3208,
+    "buffGroup": 0,
+    "type": 159,
+    "name": "カード燃焼",
+    "detail": "コマンドカードを１枚燃焼状態にし、燃焼状態のカードで攻撃時、自身のHP減少",
+    "iconId": 549,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005,
+      2744
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "CardEffectId": 2001004
+    },
+    "id": 3209,
+    "buffGroup": 0,
+    "type": 159,
+    "name": "カード燃焼",
+    "detail": "コマンドカードを１枚燃焼状態にし、燃焼状態のカードで攻撃時、自身のHP減少",
+    "iconId": 549,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005,
+      2745
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "CardEffectId": 2001004
+    },
+    "id": 3210,
+    "buffGroup": 0,
+    "type": 159,
+    "name": "カード燃焼",
+    "detail": "コマンドカードを１枚燃焼状態にし、燃焼状態のカードで攻撃時、自身のHP減少",
+    "iconId": 549,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005,
+      2745
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "CardEffectId": 2001004
+    },
+    "id": 3211,
+    "buffGroup": 0,
+    "type": 159,
+    "name": "カード燃焼",
+    "detail": "コマンドカードを１枚燃焼状態にし、燃焼状態のカードで攻撃時、自身のHP減少",
+    "iconId": 549,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005,
+      2745
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "CardEffectId": 2001004
+    },
+    "id": 3212,
+    "buffGroup": 0,
+    "type": 159,
+    "name": "カード燃焼",
+    "detail": "コマンドカードを１枚燃焼状態にし、燃焼状態のカードで攻撃時、自身のHP減少",
+    "iconId": 549,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6025
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3213,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "",
+    "detail": "",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006,
+      3032
+    ],
+    "tvals": [],
+    "ckSelfIndv": [
+      4001
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3214,
+    "buffGroup": 0,
+    "type": 70,
+    "name": "クリティカル発生アップ:Arts",
+    "detail": "Artsカードのクリティカルの発生率をアップ",
+    "iconId": 327,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3024
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3215,
+    "buffGroup": 0,
+    "type": 37,
+    "name": "ガッツ",
+    "detail": "HPが0になった時、HPを回復して耐える(他のガッツ状態と重複可能)",
+    "iconId": 304,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005,
+      3063
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3216,
+    "buffGroup": 0,
+    "type": 76,
+    "name": "帯電",
+    "detail": "ターン終了時に自身を除く味方全体に確率でスタン",
+    "iconId": 525,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005,
+      3017
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3217,
+    "buffGroup": 0,
+    "type": 92,
+    "name": "特殊耐性ダウン",
+    "detail": "全ての攻撃に対する耐性をダウン",
+    "iconId": 529,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3218,
+    "buffGroup": 0,
+    "type": 43,
+    "name": "",
+    "detail": "",
+    "iconId": 504,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6021
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3219,
+    "buffGroup": 0,
+    "type": 10,
+    "name": "攻撃力ダウン",
+    "detail": "攻撃力をダウン",
+    "iconId": 503,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3043
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3220,
+    "buffGroup": 0,
+    "type": 81,
+    "name": "赤龍の子",
+    "detail": "最大HPを増やす",
+    "iconId": 330,
+    "maxRate": 50000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [
+      3014
+    ],
+    "ckSelfIndv": [
+      3014
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3221,
+    "buffGroup": 0,
+    "type": 27,
+    "name": "赤龍の子",
+    "detail": "スタン付与率をアップ",
+    "iconId": 307,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3222,
+    "buffGroup": 0,
+    "type": 5,
+    "name": "髭切安綱",
+    "detail": "ターン終了時にNPが増える",
+    "iconId": 319,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006,
+      3030
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3223,
+    "buffGroup": 0,
+    "type": 15,
+    "name": "髭切安綱",
+    "detail": "宝具で与えるダメージをアップ",
+    "iconId": 310,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3224,
+    "buffGroup": 0,
+    "type": 6,
+    "name": "天雷の子",
+    "detail": "ターン終了時にスターを獲得する",
+    "iconId": 320,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3225,
+    "buffGroup": 0,
+    "type": 3,
+    "name": "天雷の子",
+    "detail": "スター発生率をアップ",
+    "iconId": 321,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3226,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "攻律令",
+    "detail": "自身が召喚されたとき、味方全体に攻撃力アップを付与＆死亡時に付与した状態を解除【デメリット】",
+    "iconId": 300,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6021,
+      6024
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3227,
+    "buffGroup": 0,
+    "type": 9,
+    "name": "攻撃力アップ",
+    "detail": "攻撃力をアップ",
+    "iconId": 300,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3228,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "殺律令",
+    "detail": "自身が召喚されたとき、味方全体のクリティカル発生率をアップ＆死亡時に付与した状態を解除【デメリット】",
+    "iconId": 327,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6022,
+      6024
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3229,
+    "buffGroup": 0,
+    "type": 70,
+    "name": "クリティカル発生アップ",
+    "detail": "クリティカルの発生率をアップ",
+    "iconId": 327,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3230,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "滅律令(防御無視)",
+    "detail": "自身が召喚されたとき、味方全体に防御無視を付与＆死亡時に付与した状態を解除【デメリット】",
+    "iconId": 351,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6023
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3231,
+    "buffGroup": 450,
+    "type": 121,
+    "name": "防御無視",
+    "detail": "防御力アップを無視してダメージを与える",
+    "iconId": 351,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6023,
+      6024
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3232,
+    "buffGroup": 0,
+    "type": 15,
+    "name": "宝具威力アップ",
+    "detail": "宝具で与えるダメージをアップ",
+    "iconId": 310,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3233,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "髑髏地獄陣",
+    "detail": "〔カード燃焼〕状態が6つ以上になると〔呪殺の符〕を付与する",
+    "iconId": 543,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6021,
+      6024
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3234,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "呪詛返し",
+    "detail": "HPが0になった時に蘆屋道満に宝具封印(1ターン)を付与する【デメリット】",
+    "iconId": 543,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6022,
+      6024
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3235,
+    "buffGroup": 0,
+    "type": 15,
+    "name": "滅律令(宝具威力アップ)",
+    "detail": "自身が召喚されたとき、味方全体に宝具威力アップを付与＆死亡時に付与した状態を解除【デメリット】",
+    "iconId": 310,
+    "maxRate": 5000,
+    "effectId": 0
   }
 ]
