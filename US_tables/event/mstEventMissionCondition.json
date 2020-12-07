@@ -38781,6 +38781,139 @@
   },
   {
     "targetIds": [
+      2001261,
+      2001262,
+      2001263,
+      2001264,
+      2001265,
+      2001266
+    ],
+    "missionId": 2001260,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2000926,
+    "missionTargetId": 100183,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 6,
+    "conditionMessage": "Complete all of this week's Master Missions",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001036
+    ],
+    "missionId": 2001261,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2000927,
+    "missionTargetId": 100183,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 5,
+    "conditionMessage": "Defeat 5 Servants",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001261
+    ],
+    "missionId": 2001262,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 2000928,
+    "missionTargetId": 100183,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 1,
+    "conditionMessage": "Defeat 10 Servants",
+    "closedMessage": "",
+    "flag": 64
+  },
+  {
+    "targetIds": [
+      2001036
+    ],
+    "missionId": 2001262,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2000929,
+    "missionTargetId": 100183,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 10,
+    "conditionMessage": "Defeat 10 Servants",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001037
+    ],
+    "missionId": 2001263,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2000930,
+    "missionTargetId": 100183,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "Defeat 15 Saber, Archer, or Lancer-class enemies (excluding Servants and certain bosses)",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001038
+    ],
+    "missionId": 2001264,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2000931,
+    "missionTargetId": 100183,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "Defeat 15 Rider, Caster, Assassin, or Berserker-class enemies (excluding Servants and certain bosses)",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001039
+    ],
+    "missionId": 2001265,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2000932,
+    "missionTargetId": 100183,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 5,
+    "conditionMessage": "Put one or more Lancer-class Servants in your Party and complete any quest(s) 5 times",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001040
+    ],
+    "missionId": 2001266,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2000933,
+    "missionTargetId": 100183,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 5,
+    "conditionMessage": "Put one or more Rider-class Servants in your Party and complete any quest(s) 5 times",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
       94011901
     ],
     "missionId": 80054001,
