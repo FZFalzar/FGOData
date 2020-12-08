@@ -1657,7 +1657,7 @@
   },
   {
     "shopId": 6000313,
-    "message": "Fate/EXTELLA LINK獲得クエスト\nへの交換は1回まで可能です。\n\n交換後、カルデアゲートに\n概念礼装獲得クエストが出現します。\n\n交換しますか？",
+    "message": "「Fate/EXTELLA LINK」獲得クエスト\nへの交換は1回まで可能です。\n\n交換後、カルデアゲートに\n概念礼装獲得クエストが出現します。\n\n交換しますか？",
     "frequencyType": 3,
     "presentMessageId": 0,
     "afterMessage": "",
@@ -1849,7 +1849,7 @@
   },
   {
     "shopId": 6000337,
-    "message": "Fate/Grand Order Memories始動記念クエスト\nへの交換は1回まで可能です。\n\n交換後、カルデアゲートに\n概念礼装獲得クエストが出現します。\n\n交換しますか？",
+    "message": "「Fate/Grand Order Memories」\n始動記念クエスト\nへの交換は1回まで可能です。\n\n交換後、カルデアゲートに\n概念礼装獲得クエストが出現します。\n\n交換しますか？",
     "frequencyType": 3,
     "presentMessageId": 0,
     "afterMessage": "",
@@ -2922,6 +2922,14 @@
   {
     "shopId": 6000472,
     "message": "マナプリズム交換「名探偵フォウムズ」\nへの交換は1回まで可能です。\n\n交換後、ダ・ヴィンチ工房の\n「マナプリズムを交換」に\n★5概念礼装が出現します。\n\n[FFFF00]出現した★5概念礼装はマナプリズムで交換できます。[-]\n[FFFF00]既に交換済みの概念礼装については再交換できません。[-]\n\n交換しますか？",
+    "frequencyType": 3,
+    "presentMessageId": 0,
+    "afterMessage": "",
+    "okTextImageId": 0
+  },
+  {
+    "shopId": 6000473,
+    "message": "「Waltz in the MOONLIGHT/LOSTROOM」配信記念クエスト\nへの交換は1回まで可能です。\n\n交換後、カルデアゲートに\n概念礼装獲得クエストが出現します。\n\n交換しますか？",
     "frequencyType": 3,
     "presentMessageId": 0,
     "afterMessage": "",

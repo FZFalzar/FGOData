@@ -39938,7 +39938,7 @@
     "defaultLv": 0,
     "defaultLimitCount": 0,
     "name": "「Fate/Grand Order Memories」始動記念クエスト",
-    "detail": "「Fate/Grand Order Memories」始動記念クエストを開放\n",
+    "detail": "「Fate/Grand Order Memories始動記念」限定概念礼装獲得クエストを開放",
     "infoMessage": "「Fate/Grand Order Memories」始動記念クエストを開放できます。",
     "warningMessage": "※クエストクリア履歴がない場合でのみ、交換可能となります",
     "imageId": 80254,
@@ -44371,6 +44371,39 @@
     "imageId": 80303,
     "bgImageId": 0,
     "openedAt": 1606294800,
+    "closedAt": 1901199599
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      3
+    ],
+    "targetIds": [
+      94052401
+    ],
+    "script": {},
+    "id": 6000473,
+    "baseShopId": 6000473,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 256,
+    "priority": 13,
+    "purchaseType": 6,
+    "setNum": 0,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "「Waltz in the MOONLIGHT/LOSTROOM」配信記念クエスト",
+    "detail": "「Waltz in the MOONLIGHT/LOSTROOM配信記念」限定概念礼装獲得クエストを開放",
+    "infoMessage": "「Waltz in the MOONLIGHT/LOSTROOM」配信記念クエストを開放できます。",
+    "warningMessage": "",
+    "imageId": 80305,
+    "bgImageId": 0,
+    "openedAt": 1607418000,
     "closedAt": 1901199599
   },
   {
