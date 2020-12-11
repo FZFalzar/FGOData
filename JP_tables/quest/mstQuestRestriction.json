@@ -4750,5 +4750,13 @@
     "frequencyType": 1,
     "dialogMessage": "このクエストを開始するには\nサーヴァントを6騎\n編成してください",
     "noticeMessage": "6騎のみ出撃可能"
+  },
+  {
+    "questId": 94054498,
+    "phase": 1,
+    "restrictionId": 3000201,
+    "frequencyType": 3,
+    "dialogMessage": "サポートサーヴァントをスターティングメンバ―に設定してください。",
+    "noticeMessage": "サポートはサブメンバーとして出撃できません"
   }
 ]

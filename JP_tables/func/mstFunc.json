@@ -104028,7 +104028,7 @@
       3227
     ],
     "tvals": [
-      -6021
+      -6024
     ],
     "questTvals": [],
     "effectList": [],
@@ -104047,7 +104047,7 @@
       3229
     ],
     "tvals": [
-      -6022
+      -6024
     ],
     "questTvals": [],
     "effectList": [],
@@ -104060,5 +104060,26 @@
     "popupIconId": 0,
     "popupText": "",
     "categoryId": 0
+  },
+  {
+    "vals": [
+      102
+    ],
+    "tvals": [
+      2000
+    ],
+    "questTvals": [],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 6372,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 7,
+    "applyTarget": 3,
+    "popupIconId": 314,
+    "popupText": "バスターアップ",
+    "categoryId": 10204
   }
 ]
