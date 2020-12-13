@@ -3090,6 +3090,36 @@
     "isDispValue": true
   },
   {
+    "funcId": 3018,
+    "eventId": 80223,
+    "baseFuncId": 0,
+    "nameTotal": "{1}\nTotal ATK Strength Up",
+    "name": "Total ATK Strength Up",
+    "iconId": 302,
+    "priority": 100,
+    "isDispValue": true
+  },
+  {
+    "funcId": 3019,
+    "eventId": 80223,
+    "baseFuncId": 3018,
+    "nameTotal": "{1}\nTotal ATK Strength Up",
+    "name": "Total ATK Strength Up",
+    "iconId": 302,
+    "priority": 100,
+    "isDispValue": true
+  },
+  {
+    "funcId": 3020,
+    "eventId": 80223,
+    "baseFuncId": 3018,
+    "nameTotal": "{1}\nTotal ATK Strength Up",
+    "name": "Total ATK Strength Up",
+    "iconId": 302,
+    "priority": 100,
+    "isDispValue": true
+  },
+  {
     "funcId": 3022,
     "eventId": 80221,
     "baseFuncId": 0,
@@ -3110,6 +3140,46 @@
     "isDispValue": true
   },
   {
+    "funcId": 3024,
+    "eventId": 80223,
+    "baseFuncId": 0,
+    "nameTotal": "{0}\nTotal Bonus Amount",
+    "name": "{0} acquired",
+    "iconId": 94031303,
+    "priority": 1000,
+    "isDispValue": true
+  },
+  {
+    "funcId": 3025,
+    "eventId": 80223,
+    "baseFuncId": 0,
+    "nameTotal": "{0}\nTotal Bonus Amount",
+    "name": "{0} acquired",
+    "iconId": 94031302,
+    "priority": 1000,
+    "isDispValue": true
+  },
+  {
+    "funcId": 3026,
+    "eventId": 80223,
+    "baseFuncId": 0,
+    "nameTotal": "{0}\nTotal Bonus Amount",
+    "name": "{0} acquired",
+    "iconId": 94031301,
+    "priority": 1000,
+    "isDispValue": true
+  },
+  {
+    "funcId": 3027,
+    "eventId": 80223,
+    "baseFuncId": 0,
+    "nameTotal": "{0}\nTotal Bonus Amount",
+    "name": "{0} acquired",
+    "iconId": 94031305,
+    "priority": 1000,
+    "isDispValue": true
+  },
+  {
     "funcId": 3028,
     "eventId": 0,
     "baseFuncId": 0,
@@ -3126,6 +3196,16 @@
     "nameTotal": "{1}\nTotal Overall Bond Bonus",
     "name": "Increase Overall Bond gained",
     "iconId": 1023,
+    "priority": 1,
+    "isDispValue": true
+  },
+  {
+    "funcId": 3123,
+    "eventId": 80223,
+    "baseFuncId": 0,
+    "nameTotal": "{1}\nTotal Bond Bonus",
+    "name": "Increase Bond gained",
+    "iconId": 1009,
     "priority": 1,
     "isDispValue": true
   },

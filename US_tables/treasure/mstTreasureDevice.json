@@ -7738,6 +7738,22 @@
   },
   {
     "individuality": [
+      3000,
+      4003,
+      4007
+    ],
+    "script": {},
+    "id": 303601,
+    "seqId": 303600,
+    "name": "Bouclier d'Atlante",
+    "ruby": " ",
+    "rank": "B",
+    "maxLv": 5,
+    "typeText": "Anti-Army",
+    "attackAttri": 1
+  },
+  {
+    "individuality": [
       3002,
       4003,
       4007
@@ -11150,6 +11166,31 @@
       4002,
       4007
     ],
+    "script": {
+      "randomSeqIds": [
+        900700,
+        900701
+      ],
+      "randomWeights": [
+        80,
+        20
+      ]
+    },
+    "id": 900701,
+    "seqId": 900700,
+    "name": "Yucatán Regalo de Navidad",
+    "ruby": " ",
+    "rank": "A",
+    "maxLv": 5,
+    "typeText": "Anti-Personnel",
+    "attackAttri": 1
+  },
+  {
+    "individuality": [
+      3000,
+      4002,
+      4007
+    ],
     "script": {},
     "id": 1000101,
     "seqId": 1000100,
@@ -12476,6 +12517,22 @@
     "name": "Báthory Erzsébet",
     "ruby": " ",
     "rank": "E-",
+    "maxLv": 5,
+    "typeText": "Anti-Personnel",
+    "attackAttri": 1
+  },
+  {
+    "individuality": [
+      3000,
+      4002,
+      4007
+    ],
+    "script": {},
+    "id": 9941671,
+    "seqId": 9941670,
+    "name": "Yucatán Regalo de Navidad",
+    "ruby": " ",
+    "rank": "A",
     "maxLv": 5,
     "typeText": "Anti-Personnel",
     "attackAttri": 1

@@ -951,7 +951,8 @@
     "vals": [
       3004,
       3007,
-      3040
+      3040,
+      3058
     ],
     "tvals": [],
     "ckSelfIndv": [],
@@ -970,7 +971,8 @@
     "vals": [
       3004,
       3007,
-      3040
+      3040,
+      3058
     ],
     "tvals": [
       2002
@@ -1717,7 +1719,8 @@
     "vals": [
       3004,
       3007,
-      3040
+      3040,
+      3058
     ],
     "tvals": [
       1
@@ -2435,7 +2438,8 @@
     "vals": [
       3004,
       3007,
-      3040
+      3040,
+      3058
     ],
     "tvals": [
       2000
@@ -2515,7 +2519,8 @@
     "vals": [
       3004,
       3007,
-      3040
+      3040,
+      3058
     ],
     "tvals": [
       2001
@@ -4163,7 +4168,8 @@
     "vals": [
       3004,
       3007,
-      3040
+      3040,
+      3058
     ],
     "tvals": [],
     "ckSelfIndv": [],
@@ -4173,7 +4179,7 @@
     "buffGroup": 0,
     "type": 42,
     "name": "Blood Armor of Fafnir",
-    "detail": "Tremendously increase DEF & increase enemy's NP generation when hit [Demerit]",
+    "detail": "Tremendously increase DEF & increase resistance against various attacks & increase enemy's NP generation when hit [Demerit]",
     "iconId": 301,
     "maxRate": 5000,
     "effectId": 0
@@ -12004,7 +12010,8 @@
     "vals": [
       3004,
       3007,
-      3040
+      3040,
+      3058
     ],
     "tvals": [],
     "ckSelfIndv": [],
@@ -12730,7 +12737,8 @@
       3004,
       3007,
       3054,
-      3040
+      3040,
+      3058
     ],
     "tvals": [],
     "ckSelfIndv": [],
@@ -13224,7 +13232,8 @@
     "vals": [
       3004,
       3007,
-      3040
+      3040,
+      3058
     ],
     "tvals": [],
     "ckSelfIndv": [],
@@ -13243,7 +13252,8 @@
     "vals": [
       3004,
       3007,
-      3040
+      3040,
+      3058
     ],
     "tvals": [],
     "ckSelfIndv": [],
@@ -13262,7 +13272,8 @@
     "vals": [
       3004,
       3007,
-      3040
+      3040,
+      3058
     ],
     "tvals": [],
     "ckSelfIndv": [],
@@ -14450,7 +14461,8 @@
     "vals": [
       3004,
       3007,
-      3040
+      3040,
+      3058
     ],
     "tvals": [],
     "ckSelfIndv": [],
@@ -19664,6 +19676,21 @@
     "effectId": 0
   },
   {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1392,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "Muscle Power",
+    "detail": "Increase damage dealt during \"Christmas 2020: Samba Night, Holy Night\"",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
     "vals": [
       3004
     ],
@@ -20405,6 +20432,149 @@
     "detail": "",
     "iconId": 520,
     "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2369
+    ],
+    "tvals": [
+      401800,
+      900700
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      401800,
+      900700
+    ],
+    "script": {},
+    "id": 1434,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "Winged Serpent (Holy Night)",
+    "detail": "Gain resistance to attacks from Quetzalcoatl (Samba/Santa)",
+    "iconId": 334,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006,
+      3032
+    ],
+    "tvals": [],
+    "ckSelfIndv": [
+      4002
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1436,
+    "buffGroup": 0,
+    "type": 70,
+    "name": "Critical Rate Up: Buster",
+    "detail": "Increase the Buster Cards' Critical Rate",
+    "iconId": 327,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4003
+    ],
+    "ckSelfIndv": [
+      4003
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1437,
+    "buffGroup": 0,
+    "type": 89,
+    "name": "Electric Current Death Match",
+    "detail": "When attacking with a Quick Card, you have a chance to inflict Stun (1 turn) to yourself at the end of each turn",
+    "iconId": 503,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1438,
+    "buffGroup": 0,
+    "type": 76,
+    "name": "Electrocution",
+    "detail": "Chance to inflict Stun at the end of each turn",
+    "iconId": 525,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1439,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "Activated when Exiting",
+    "detail": "When HP reaches 0, increase all allies' Critical Rate (Including sub-members)",
+    "iconId": 350,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1440,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "Activated when Exiting",
+    "detail": "When HP reaches 0, increase all allies' Critical Up (Including sub-members)",
+    "iconId": 350,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1441,
+    "buffGroup": 0,
+    "type": 37,
+    "name": "Pride on the Mat",
+    "detail": "An unconquerable spirit placed upon the ring",
+    "iconId": 304,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      108
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      108
+    ],
+    "script": {},
+    "id": 1442,
+    "buffGroup": 0,
+    "type": 108,
+    "name": "Class Affinity Change when Attacking",
+    "detail": "Increase ATK against Black Quetzal Mask",
+    "iconId": 520,
+    "maxRate": 2000,
     "effectId": 0
   },
   {
