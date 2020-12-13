@@ -61821,6 +61821,139 @@
   },
   {
     "targetIds": [
+      2001590,
+      2001591,
+      2001592,
+      2001593,
+      2001594,
+      2001595
+    ],
+    "missionId": 2001589,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001791,
+    "missionTargetId": 100230,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 6,
+    "conditionMessage": "今週のマスターミッションをすべてクリアせよ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001214
+    ],
+    "missionId": 2001590,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001792,
+    "missionTargetId": 100230,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 30,
+    "conditionMessage": "フレンドポイント召喚を30回実行せよ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001215
+    ],
+    "missionId": 2001591,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001793,
+    "missionTargetId": 100230,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 3,
+    "conditionMessage": "『王』特性を持つサーヴァントを3騎倒せ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001216
+    ],
+    "missionId": 2001592,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001794,
+    "missionTargetId": 100230,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "『魔性』特性を持つ敵を15体倒せ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001217
+    ],
+    "missionId": 2001593,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001795,
+    "missionTargetId": 100230,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 20,
+    "conditionMessage": "敵を20体倒せ(サーヴァント及び一部ボスなどは除く)",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001593
+    ],
+    "missionId": 2001594,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 2001796,
+    "missionTargetId": 100230,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 1,
+    "conditionMessage": "敵を40体倒せ(サーヴァント及び一部ボスなどは除く)",
+    "closedMessage": "",
+    "flag": 64
+  },
+  {
+    "targetIds": [
+      2001217
+    ],
+    "missionId": 2001594,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001797,
+    "missionTargetId": 100230,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 40,
+    "conditionMessage": "敵を40体倒せ(サーヴァント及び一部ボスなどは除く)",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001218
+    ],
+    "missionId": 2001595,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001798,
+    "missionTargetId": 100230,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 3,
+    "conditionMessage": "戦利品で「輝石」「魔石」「秘石」「ピース」「モニュメント」をどれか3個獲得せよ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
       3000001
     ],
     "missionId": 30000001,
