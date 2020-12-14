@@ -6994,6 +6994,48 @@
   {
     "beforeActionVals": [],
     "afterActionVals": [],
+    "boardMessage": {
+      "text": {
+        "textString": "Only Two Servants",
+        "offset": [
+          4,
+          -18
+        ],
+        "fontSize": 14,
+        "gradation": [
+          "#FFEC00",
+          "#FFEC00"
+        ]
+      },
+      "image": {
+        "bannerSp": "img_quest_formlimit_01",
+        "offset": [
+          4,
+          -18
+        ]
+      }
+    },
+    "questId": 94031304,
+    "phase": 1,
+    "spotId": 831301,
+    "consumeType": 1,
+    "actConsume": 5,
+    "flag": 16777216
+  },
+  {
+    "beforeActionVals": [],
+    "afterActionVals": [],
+    "boardMessage": {},
+    "questId": 94031304,
+    "phase": 2,
+    "spotId": 831301,
+    "consumeType": 1,
+    "actConsume": 0,
+    "flag": 2
+  },
+  {
+    "beforeActionVals": [],
+    "afterActionVals": [],
     "boardMessage": {},
     "questId": 912500101,
     "phase": 1,
