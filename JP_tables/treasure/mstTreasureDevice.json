@@ -7438,6 +7438,22 @@
   },
   {
     "individuality": [
+      3000,
+      4007
+    ],
+    "script": {},
+    "id": 700,
+    "seqId": 9941230,
+    "name": "魔力大暴走",
+    "ruby": "-",
+    "rank": "なし",
+    "maxLv": 5,
+    "typeText": "",
+    "attackAttri": 1,
+    "effectFlag": 0
+  },
+  {
+    "individuality": [
       3002,
       4002,
       4007,
@@ -14061,6 +14077,26 @@
   },
   {
     "individuality": [
+      3000,
+      4001,
+      4007
+    ],
+    "script": {
+      "limitSeqId_12": 603600,
+      "limitSeqId_11": 603600
+    },
+    "id": 603602,
+    "seqId": 603600,
+    "name": "无二打",
+    "ruby": "にのうちいらず",
+    "rank": "－",
+    "maxLv": 5,
+    "typeText": "対人宝具",
+    "attackAttri": 1,
+    "effectFlag": 2
+  },
+  {
+    "individuality": [
       3002,
       4003,
       4007
@@ -15414,6 +15450,23 @@
     "name": "裁きの時はいま。汝の名を告げよ",
     "ruby": "クストス・モルム",
     "rank": "A+",
+    "maxLv": 5,
+    "typeText": "対罪宝具",
+    "attackAttri": 1,
+    "effectFlag": 2
+  },
+  {
+    "individuality": [
+      3000,
+      4001,
+      4007
+    ],
+    "script": {},
+    "id": 900802,
+    "seqId": 900800,
+    "name": "裁きの時はいま。汝の名を告げよ",
+    "ruby": "クストス・モルム",
+    "rank": "EX",
     "maxLv": 5,
     "typeText": "対罪宝具",
     "attackAttri": 1,

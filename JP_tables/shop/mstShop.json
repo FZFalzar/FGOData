@@ -44389,7 +44389,7 @@
     "eventId": 0,
     "slot": 0,
     "flag": 256,
-    "priority": 14,
+    "priority": 35,
     "purchaseType": 9,
     "setNum": 1,
     "payType": 10,
@@ -44422,7 +44422,7 @@
     "eventId": 0,
     "slot": 0,
     "flag": 256,
-    "priority": 13,
+    "priority": 9,
     "purchaseType": 6,
     "setNum": 0,
     "payType": 10,
@@ -44438,6 +44438,237 @@
     "bgImageId": 0,
     "openedAt": 1607418000,
     "closedAt": 1901199599
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      2000
+    ],
+    "script": {},
+    "id": 6000474,
+    "baseShopId": 6000474,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 10,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "獣の足跡",
+    "detail": "【コマンドカード強化素材】へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 2000,
+    "bgImageId": 0,
+    "openedAt": 1607958000,
+    "closedAt": 1610636399
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      3
+    ],
+    "targetIds": [
+      1000
+    ],
+    "script": {},
+    "id": 6000475,
+    "baseShopId": 6000475,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 11,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "カルデアの夢火",
+    "detail": "【絆上限開放素材】へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1607958000,
+    "closedAt": 1610636399
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      5003
+    ],
+    "script": {},
+    "id": 6000476,
+    "baseShopId": 6000476,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 12,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 3,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "コード・リムーバー",
+    "detail": "【コマンドコードスロット削除アイテム】へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1607958000,
+    "closedAt": 1610636399
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      5
+    ],
+    "targetIds": [
+      6999
+    ],
+    "script": {},
+    "id": 6000477,
+    "baseShopId": 6000477,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 13,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "伝承結晶",
+    "detail": "【スキル強化素材】へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1607958000,
+    "closedAt": 1610636399
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      3
+    ],
+    "targetIds": [
+      9570400
+    ],
+    "script": {},
+    "id": 6000478,
+    "baseShopId": 6000478,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 14,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "英霊結晶・流星のフォウくん",
+    "detail": "★4ALLのHPアップカード1枚へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1607958000,
+    "closedAt": 1610636399
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      3
+    ],
+    "targetIds": [
+      9670400
+    ],
+    "script": {},
+    "id": 6000479,
+    "baseShopId": 6000479,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 15,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "英霊結晶・日輪のフォウくん",
+    "detail": "★4ALLのATKアップカード1枚へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1607958000,
+    "closedAt": 1610636399
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      4
+    ],
+    "script": {},
+    "id": 6000480,
+    "baseShopId": 6000480,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 16,
+    "purchaseType": 1,
+    "setNum": 20000,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 5,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "フレンドポイント",
+    "detail": "フレンドポイント20,000へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1607958000,
+    "closedAt": 1610636399
   },
   {
     "itemIds": [

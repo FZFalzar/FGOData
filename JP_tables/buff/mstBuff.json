@@ -39888,6 +39888,336 @@
     "effectId": 0
   },
   {
+    "vals": [],
+    "tvals": [
+      5000,
+      4001
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4001
+    ],
+    "script": {},
+    "id": 3125,
+    "buffGroup": 0,
+    "type": 105,
+    "name": "多勢無勢",
+    "detail": "Arts、Busterカードの攻撃による被ダメージ、被NP発生量、被スター発生率が減少する＆Quickカードの攻撃による被ダメージ、被NP発生量、被スター発生率が増加する【デメリット】",
+    "iconId": 346,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4002
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4002
+    ],
+    "script": {},
+    "id": 3126,
+    "buffGroup": 0,
+    "type": 105,
+    "name": "",
+    "detail": "",
+    "iconId": 347,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005,
+      3009
+    ],
+    "tvals": [
+      5000,
+      4003
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4003
+    ],
+    "script": {},
+    "id": 3127,
+    "buffGroup": 0,
+    "type": 106,
+    "name": "",
+    "detail": "",
+    "iconId": 539,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005,
+      3008,
+      3033
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3128,
+    "buffGroup": 0,
+    "type": 10,
+    "name": "攻撃力ダウン",
+    "detail": "ターン毎に効果量が大きくなる攻撃力ダウン",
+    "iconId": 503,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005,
+      3009
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3129,
+    "buffGroup": 0,
+    "type": 43,
+    "name": "防御力ダウン",
+    "detail": "ターン毎に効果量が大きくなる防御力ダウン",
+    "iconId": 504,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3130,
+    "buffGroup": 0,
+    "type": 95,
+    "name": "登場時発動",
+    "detail": "フィールドに登場した時、効果が発生する",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4008
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4008
+    ],
+    "script": {},
+    "id": 3131,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "通常攻撃耐性アップ",
+    "detail": "通常攻撃による被ダメージが減少する",
+    "iconId": 334,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      4100
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4100
+    ],
+    "script": {},
+    "id": 3132,
+    "buffGroup": 0,
+    "type": 92,
+    "name": "クリティカル攻撃耐性ダウン",
+    "detail": "クリティカル攻撃による被ダメージが増加する",
+    "iconId": 529,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      4007
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4007
+    ],
+    "script": {},
+    "id": 3133,
+    "buffGroup": 0,
+    "type": 92,
+    "name": "宝具攻撃耐性ダウン",
+    "detail": "宝具攻撃による被ダメージが増加する",
+    "iconId": 529,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3134,
+    "buffGroup": 0,
+    "type": 149,
+    "name": "",
+    "detail": "",
+    "iconId": 365,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "relationId": 131
+    },
+    "id": 3135,
+    "buffGroup": 0,
+    "type": 144,
+    "name": "クラス相性変更",
+    "detail": "〔ランサー〕に対する相性不利を打ち消す",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3061
+    ],
+    "tvals": [
+      3005
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      3005
+    ],
+    "script": {},
+    "id": 3136,
+    "buffGroup": 0,
+    "type": 31,
+    "name": "状態異常無効",
+    "detail": "状態異常を受けなくなる",
+    "iconId": 322,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "relationId": 132
+    },
+    "id": 3137,
+    "buffGroup": 0,
+    "type": 144,
+    "name": "クラス相性変更",
+    "detail": "〔アサシン〕に対する相性不利を打ち消す",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3007,
+      3040,
+      3058
+    ],
+    "tvals": [
+      105
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      105
+    ],
+    "script": {},
+    "id": 3138,
+    "buffGroup": 0,
+    "type": 42,
+    "name": "防御力アップ〔アサシン〕",
+    "detail": "〔アサシン〕に対する防御力をアップ",
+    "iconId": 301,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3007,
+      3040,
+      3058
+    ],
+    "tvals": [
+      100
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      100
+    ],
+    "script": {},
+    "id": 3139,
+    "buffGroup": 0,
+    "type": 42,
+    "name": "防御力アップ〔セイバー〕",
+    "detail": "〔セイバー〕に対する防御力をアップ",
+    "iconId": 301,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3140,
+    "buffGroup": 0,
+    "type": 85,
+    "name": "毎ターン発動(Artsアップ)",
+    "detail": "ターン終了時に「自身のArtsカードの性能をアップ(1回・3ターン)する」効果を発動する",
+    "iconId": 343,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3141,
+    "buffGroup": 0,
+    "type": 84,
+    "name": "登場時発動",
+    "detail": "フィールドに登場した時、効果が発生する",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
     "vals": [
       3004
     ],
@@ -41452,6 +41782,225 @@
     "name": "滅律令(宝具威力アップ)",
     "detail": "自身が召喚されたとき、味方全体に宝具威力アップを付与＆死亡時に付与した状態を解除【デメリット】",
     "iconId": 310,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3024
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3239,
+    "buffGroup": 603,
+    "type": 104,
+    "name": "ガッツ",
+    "detail": "HPが0になった時、HPを回復して耐える",
+    "iconId": 304,
+    "maxRate": 1000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006,
+      3027
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3240,
+    "buffGroup": 0,
+    "type": 9,
+    "name": "攻撃力アップ",
+    "detail": "自身にだんだん効果が高くなる攻撃力アップを付与",
+    "iconId": 300,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4002
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4002
+    ],
+    "script": {},
+    "id": 3241,
+    "buffGroup": 0,
+    "type": 105,
+    "name": "Busterカード耐性",
+    "detail": "Busterカードの攻撃による被ダメージ、被NP発生量、被スター発生率が減少する",
+    "iconId": 347,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4003
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4003
+    ],
+    "script": {},
+    "id": 3242,
+    "buffGroup": 0,
+    "type": 105,
+    "name": "Quickカード耐性",
+    "detail": "Quickカードの攻撃による被ダメージ、被NP発生量、被スター発生率が減少する",
+    "iconId": 345,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3061
+    ],
+    "tvals": [
+      3014
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      3014
+    ],
+    "script": {},
+    "id": 3245,
+    "buffGroup": 0,
+    "type": 31,
+    "name": "スタン無効",
+    "detail": "スタンを受けなくなる",
+    "iconId": 322,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [
+      3005
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      3005
+    ],
+    "script": {},
+    "id": 3246,
+    "buffGroup": 0,
+    "type": 29,
+    "name": "",
+    "detail": "",
+    "iconId": 306,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3247,
+    "buffGroup": 501,
+    "type": 32,
+    "name": "魅了",
+    "detail": "行動不能になる",
+    "iconId": 502,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3248,
+    "buffGroup": 0,
+    "type": 10,
+    "name": "攻撃力ダウン",
+    "detail": "攻撃力をダウン",
+    "iconId": 503,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3249,
+    "buffGroup": 0,
+    "type": 43,
+    "name": "防御力ダウン",
+    "detail": "防御力をダウン",
+    "iconId": 504,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3250,
+    "buffGroup": 500,
+    "type": 32,
+    "name": "スタン",
+    "detail": "行動不能になる",
+    "iconId": 501,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006,
+      3027
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3261,
+    "buffGroup": 0,
+    "type": 9,
+    "name": "攻撃力アップ",
+    "detail": "攻撃力をアップ",
+    "iconId": 300,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4001
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4001
+    ],
+    "script": {},
+    "id": 3279,
+    "buffGroup": 0,
+    "type": 105,
+    "name": "Artsカード耐性",
+    "detail": "Artsカードの攻撃による被ダメージ、被NP発生量、被スター発生率が減少する",
+    "iconId": 346,
     "maxRate": 5000,
     "effectId": 0
   }

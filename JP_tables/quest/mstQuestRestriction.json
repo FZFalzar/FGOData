@@ -512,6 +512,30 @@
     "noticeMessage": ""
   },
   {
+    "questId": 91104201,
+    "phase": 1,
+    "restrictionId": 91000045,
+    "frequencyType": 0,
+    "dialogMessage": "0",
+    "noticeMessage": "ディオスクロイ出撃不可"
+  },
+  {
+    "questId": 91104201,
+    "phase": 2,
+    "restrictionId": 91000045,
+    "frequencyType": 0,
+    "dialogMessage": "0",
+    "noticeMessage": "ディオスクロイ出撃不可"
+  },
+  {
+    "questId": 91104201,
+    "phase": 3,
+    "restrictionId": 91000046,
+    "frequencyType": 3,
+    "dialogMessage": "制限対象サーヴァントはサブメンバーとして出撃できません。",
+    "noticeMessage": "ディオスクロイをスターティングメンバーに設定してください。"
+  },
+  {
     "questId": 91201102,
     "phase": 1,
     "restrictionId": 91000012,
@@ -592,6 +616,22 @@
     "noticeMessage": ""
   },
   {
+    "questId": 91203501,
+    "phase": 1,
+    "restrictionId": 91000043,
+    "frequencyType": 3,
+    "dialogMessage": "制限対象サーヴァントはサブメンバーとして出撃できません。",
+    "noticeMessage": "パリスをスターティングメンバーに設定してください。"
+  },
+  {
+    "questId": 91203501,
+    "phase": 2,
+    "restrictionId": 91000044,
+    "frequencyType": 0,
+    "dialogMessage": "",
+    "noticeMessage": ""
+  },
+  {
     "questId": 91303001,
     "phase": 3,
     "restrictionId": 91000013,
@@ -630,6 +670,38 @@
     "frequencyType": 3,
     "dialogMessage": "制限対象サーヴァントはサブメンバーとして出撃できません。",
     "noticeMessage": "ブラダマンテをスターティングメンバーに設定してください。"
+  },
+  {
+    "questId": 91304201,
+    "phase": 1,
+    "restrictionId": 91000047,
+    "frequencyType": 3,
+    "dialogMessage": "制限対象サーヴァントはサブメンバーとして出撃できません。",
+    "noticeMessage": "ロムルス＝クィリヌスをスターティングメンバーに設定してください。"
+  },
+  {
+    "questId": 91304201,
+    "phase": 2,
+    "restrictionId": 91000047,
+    "frequencyType": 3,
+    "dialogMessage": "制限対象サーヴァントはサブメンバーとして出撃できません。",
+    "noticeMessage": "ロムルス＝クィリヌスをスターティングメンバーに設定してください。"
+  },
+  {
+    "questId": 91304201,
+    "phase": 3,
+    "restrictionId": 91000048,
+    "frequencyType": 0,
+    "dialogMessage": "",
+    "noticeMessage": ""
+  },
+  {
+    "questId": 91304201,
+    "phase": 4,
+    "restrictionId": 91000047,
+    "frequencyType": 3,
+    "dialogMessage": "制限対象サーヴァントはサブメンバーとして出撃できません。",
+    "noticeMessage": "ロムルス＝クィリヌスをスターティングメンバーに設定してください。"
   },
   {
     "questId": 91403101,
@@ -784,6 +856,86 @@
     "noticeMessage": ""
   },
   {
+    "questId": 91603602,
+    "phase": 1,
+    "restrictionId": 91000049,
+    "frequencyType": 0,
+    "dialogMessage": "0",
+    "noticeMessage": "李書文(アサシン)出撃不可"
+  },
+  {
+    "questId": 91603602,
+    "phase": 1,
+    "restrictionId": 91000050,
+    "frequencyType": 3,
+    "dialogMessage": "サポートサーヴァントをスターティングメンバ―に設定してください。",
+    "noticeMessage": "サポートはサブメンバーとして出撃できません"
+  },
+  {
+    "questId": 91603602,
+    "phase": 2,
+    "restrictionId": 91000049,
+    "frequencyType": 0,
+    "dialogMessage": "0",
+    "noticeMessage": "李書文(アサシン)出撃不可"
+  },
+  {
+    "questId": 91603602,
+    "phase": 2,
+    "restrictionId": 91000050,
+    "frequencyType": 3,
+    "dialogMessage": "サポートサーヴァントをスターティングメンバ―に設定してください。",
+    "noticeMessage": "サポートはサブメンバーとして出撃できません"
+  },
+  {
+    "questId": 91603602,
+    "phase": 3,
+    "restrictionId": 91000049,
+    "frequencyType": 0,
+    "dialogMessage": "0",
+    "noticeMessage": "李書文(アサシン)出撃不可"
+  },
+  {
+    "questId": 91603602,
+    "phase": 3,
+    "restrictionId": 91000050,
+    "frequencyType": 3,
+    "dialogMessage": "サポートサーヴァントをスターティングメンバ―に設定してください。",
+    "noticeMessage": "サポートはサブメンバーとして出撃できません"
+  },
+  {
+    "questId": 91603602,
+    "phase": 4,
+    "restrictionId": 91000049,
+    "frequencyType": 0,
+    "dialogMessage": "0",
+    "noticeMessage": "李書文(アサシン)出撃不可"
+  },
+  {
+    "questId": 91603602,
+    "phase": 4,
+    "restrictionId": 91000050,
+    "frequencyType": 3,
+    "dialogMessage": "サポートサーヴァントをスターティングメンバ―に設定してください。",
+    "noticeMessage": "サポートはサブメンバーとして出撃できません"
+  },
+  {
+    "questId": 91603602,
+    "phase": 5,
+    "restrictionId": 91000049,
+    "frequencyType": 0,
+    "dialogMessage": "0",
+    "noticeMessage": "李書文(アサシン)出撃不可"
+  },
+  {
+    "questId": 91603602,
+    "phase": 5,
+    "restrictionId": 91000050,
+    "frequencyType": 3,
+    "dialogMessage": "サポートサーヴァントをスターティングメンバ―に設定してください。",
+    "noticeMessage": "サポートはサブメンバーとして出撃できません"
+  },
+  {
     "questId": 91603701,
     "phase": 1,
     "restrictionId": 91000039,
@@ -854,6 +1006,14 @@
     "frequencyType": 3,
     "dialogMessage": "制限対象サーヴァントはサブメンバーとして出撃できません。",
     "noticeMessage": "始皇帝をスターティングメンバーに設定してください。"
+  },
+  {
+    "questId": 91900801,
+    "phase": 4,
+    "restrictionId": 91000042,
+    "frequencyType": 3,
+    "dialogMessage": "制限対象サーヴァントはサブメンバーとして出撃できません。",
+    "noticeMessage": "アストライアをスターティングメンバーに設定してください。"
   },
   {
     "questId": 94007901,
