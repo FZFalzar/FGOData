@@ -11700,9 +11700,7 @@
     "effectId": 0
   },
   {
-    "vals": [
-      3024
-    ],
+    "vals": [],
     "tvals": [],
     "ckSelfIndv": [],
     "ckOpIndv": [],
@@ -41787,6 +41785,57 @@
   },
   {
     "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3236,
+    "buffGroup": 0,
+    "type": 137,
+    "name": "攻撃時発動(Quickカード性能ダウン)",
+    "detail": "自身の攻撃時に敵単体にQuickカード性能ダウンを付与する",
+    "iconId": 528,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3237,
+    "buffGroup": 0,
+    "type": 137,
+    "name": "攻撃時発動(Busterカード性能ダウン)",
+    "detail": "自身の攻撃時に敵単体にBusterカード性能ダウンを付与する",
+    "iconId": 528,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3238,
+    "buffGroup": 0,
+    "type": 137,
+    "name": "攻撃時発動(Artsカード性能ダウン)",
+    "detail": "自身の攻撃時に敵単体にArtsカード性能ダウンを付与する",
+    "iconId": 528,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
       3004,
       3024
     ],
@@ -41966,6 +42015,154 @@
     "effectId": 0
   },
   {
+    "vals": [],
+    "tvals": [
+      3005
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      3005
+    ],
+    "script": {},
+    "id": 3251,
+    "buffGroup": 0,
+    "type": 31,
+    "name": "堰界の核",
+    "detail": "弱体を受けなくなる",
+    "iconId": 322,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3252,
+    "buffGroup": 0,
+    "type": 85,
+    "name": "堰界の核",
+    "detail": "毎ターン終了時に自身の防御力をアップ",
+    "iconId": 343,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3007,
+      3040
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3253,
+    "buffGroup": 0,
+    "type": 23,
+    "name": "堰界の核（借用中）",
+    "detail": "被ダメージを減らす",
+    "iconId": 301,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3007
+    ],
+    "tvals": [
+      5000,
+      4002
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4002
+    ],
+    "script": {},
+    "id": 3254,
+    "buffGroup": 0,
+    "type": 105,
+    "name": "堰界の核",
+    "detail": "Busterカードの攻撃による被ダメージ、被NP発生量、被スター発生率が減少する",
+    "iconId": 347,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      4100
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4100
+    ],
+    "script": {},
+    "id": 3255,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "堰界の核",
+    "detail": "クリティカル攻撃への耐性を得る",
+    "iconId": 334,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3016
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3256,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "？？？",
+    "detail": "全ての攻撃に対する耐性を得る＜攻撃を受けると効果量アップ＞＆弱体無効状態を付与",
+    "iconId": 334,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3257,
+    "buffGroup": 0,
+    "type": 86,
+    "name": "",
+    "detail": "",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3016
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3258,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "",
+    "detail": "",
+    "iconId": 334,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
     "vals": [
       3004,
       3006,
@@ -41986,6 +42183,219 @@
   },
   {
     "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3262,
+    "buffGroup": 0,
+    "type": 89,
+    "name": "攻撃時発動(魅了付与)",
+    "detail": "自身の通常攻撃時、敵単体に確率で魅了状態(1ターン)を付与する",
+    "iconId": 528,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005,
+      3008,
+      3033
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3264,
+    "buffGroup": 0,
+    "type": 10,
+    "name": "攻撃力ダウン",
+    "detail": "攻撃力をダウン【デメリット】",
+    "iconId": 503,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3265,
+    "buffGroup": 0,
+    "type": 70,
+    "name": "ひたむきな煌めき",
+    "detail": "クリティカルの発生率をアップ",
+    "iconId": 327,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3266,
+    "buffGroup": 0,
+    "type": 137,
+    "name": "俊足トラッキング",
+    "detail": "攻撃時、確率で敵単体の防御力をダウン(3ターン)",
+    "iconId": 528,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3267,
+    "buffGroup": 0,
+    "type": 85,
+    "name": "頑健ブロッキング",
+    "detail": "毎ターン自身にダメージカット状態を付与",
+    "iconId": 343,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3268,
+    "buffGroup": 0,
+    "type": 9,
+    "name": "二刀インファイト",
+    "detail": "攻撃力をアップ",
+    "iconId": 300,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3269,
+    "buffGroup": 0,
+    "type": 43,
+    "name": "二刀インファイト",
+    "detail": "防御力をダウン【デメリット】",
+    "iconId": 504,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      4100
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4100
+    ],
+    "script": {},
+    "id": 3270,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "無想スリッピングアウェー",
+    "detail": "クリティカル攻撃への耐性を得る",
+    "iconId": 334,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3271,
+    "buffGroup": 700,
+    "type": 38,
+    "name": "強制スパーリングモード",
+    "detail": "自身にターゲットを固定する",
+    "iconId": 323,
+    "maxRate": 50000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4003
+    ],
+    "ckSelfIndv": [
+      4003
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3272,
+    "buffGroup": 0,
+    "type": 52,
+    "name": "燕青拳",
+    "detail": "Quickカードの性能をアップ",
+    "iconId": 312,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4001
+    ],
+    "ckSelfIndv": [
+      4001
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3273,
+    "buffGroup": 0,
+    "type": 52,
+    "name": "八極拳",
+    "detail": "Artsカードの性能をアップ",
+    "iconId": 313,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3274,
+    "buffGroup": 0,
+    "type": 85,
+    "name": "変幻自在の武技",
+    "detail": "毎ターン自身のQuickカードの性能をアップまたはArtsカードの性能をアップまたはBusterカードの性能をアップ",
+    "iconId": 343,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3278,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "スパーリング・キャロル",
+    "detail": "『栄光のサンタクロース・ロード ～封じられたクリスマスプレゼント～』において与えるダメージをアップ",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
     "tvals": [
       5000,
       4001
@@ -42002,6 +42412,56 @@
     "detail": "Artsカードの攻撃による被ダメージ、被NP発生量、被スター発生率が減少する",
     "iconId": 346,
     "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006,
+      3031
+    ],
+    "tvals": [
+      5000,
+      4002,
+      2002
+    ],
+    "ckSelfIndv": [
+      4002
+    ],
+    "ckOpIndv": [
+      2002
+    ],
+    "script": {},
+    "id": 3280,
+    "buffGroup": 0,
+    "type": 18,
+    "name": "クリティカル威力アップ〔竜〕",
+    "detail": "Busterカードの〔竜〕特性に与えるクリティカル時のダメージをアップ",
+    "iconId": 324,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006,
+      3028
+    ],
+    "tvals": [
+      2666
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      2666
+    ],
+    "script": {},
+    "id": 3281,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "威力アップ〔巨人〕",
+    "detail": "〔巨人〕特性に与えるダメージをアップ",
+    "iconId": 302,
+    "maxRate": 10000,
     "effectId": 0
   }
 ]
