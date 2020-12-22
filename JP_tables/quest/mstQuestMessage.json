@@ -19666,5 +19666,27 @@
     "targetNum": 0,
     "frequencyType": 3,
     "displayType": 1
+  },
+  {
+    "questId": 94054350,
+    "phase": 1,
+    "idx": 0,
+    "message": "～ 注意 ～\n\n「【高難易度】エキシビションマッチ 伝説の拳」は\n繰り返し挑戦可能なクエストですが、\n絆ポイント、EXP、戦利品、クリア報酬を\n獲得できるのは1回目のクリア時のみとなります。\n\nそれでも挑戦しますか？",
+    "condType": 25,
+    "targetId": 94054350,
+    "targetNum": 1,
+    "frequencyType": 3,
+    "displayType": 1
+  },
+  {
+    "questId": 94054350,
+    "phase": 1,
+    "idx": 1,
+    "message": "～ 注意 ～\n\n「【高難易度】エキシビションマッチ 伝説の拳」は\nパーティ編成の「1st」と「2nd」に\n配置されたサーヴァントが「選手」となり戦います。\n「3rd」に配置されたサーヴァントは\n「セコンド」となりスキルのみ使用可能です。\n\n「選手」が2騎とも撃破された場合敗北となります。\n※本クエストはコンティニュー不可となります。\n\nクエストを開始しますか？",
+    "condType": 0,
+    "targetId": 0,
+    "targetNum": 0,
+    "frequencyType": 3,
+    "displayType": 1
   }
 ]

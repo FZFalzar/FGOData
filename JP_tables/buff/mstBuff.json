@@ -36173,7 +36173,9 @@
     "effectId": 0
   },
   {
-    "vals": [],
+    "vals": [
+      3067
+    ],
     "tvals": [],
     "ckSelfIndv": [],
     "ckOpIndv": [],
@@ -42165,6 +42167,41 @@
   {
     "vals": [
       3004,
+      3016
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "INDIVIDUALITIE": 6022
+    },
+    "id": 3259,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "伝承防御",
+    "detail": "全ての攻撃に対する耐性を得る＜攻撃を受けると効果量アップ＞＆弱体無効状態を付与",
+    "iconId": 334,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3260,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "特性付与〔泡〕",
+    "detail": "〔泡〕特性を付与する",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
       3006,
       3027
     ],
@@ -42193,6 +42230,23 @@
     "name": "攻撃時発動(魅了付与)",
     "detail": "自身の通常攻撃時、敵単体に確率で魅了状態(1ターン)を付与する",
     "iconId": 528,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6021
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3263,
+    "buffGroup": 504,
+    "type": 32,
+    "name": "魅了",
+    "detail": "行動不能になる【デメリット】",
+    "iconId": 502,
     "maxRate": 0,
     "effectId": 0
   },
@@ -42381,6 +42435,56 @@
   },
   {
     "vals": [],
+    "tvals": [
+      5000,
+      4002
+    ],
+    "ckSelfIndv": [
+      4002
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3275,
+    "buffGroup": 0,
+    "type": 148,
+    "name": "豪腕ストレート",
+    "detail": "Busterカードで攻撃時ダメージ前に、自身のクリティカル発生率をアップ",
+    "iconId": 333,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3276,
+    "buffGroup": 0,
+    "type": 86,
+    "name": "反逆カウンター",
+    "detail": "攻撃を受けると自身の攻撃力をアップ",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3277,
+    "buffGroup": 0,
+    "type": 149,
+    "name": "ガッツ時発動(クリティカル発生アップ)",
+    "detail": "ガッツ発動時、味方全体のクリティカル発生率をアップ",
+    "iconId": 365,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
     "tvals": [],
     "ckSelfIndv": [],
     "ckOpIndv": [],
@@ -42462,6 +42566,288 @@
     "detail": "〔巨人〕特性に与えるダメージをアップ",
     "iconId": 302,
     "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2746
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3282,
+    "buffGroup": 0,
+    "type": 89,
+    "name": "スウォーマー",
+    "detail": "自身の通常攻撃時、自身の攻撃力をアップ＆自身の通常攻撃時、自身のクリティカル発生率をアップ",
+    "iconId": 333,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2746
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3283,
+    "buffGroup": 0,
+    "type": 89,
+    "name": "",
+    "detail": "",
+    "iconId": 333,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2747
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3284,
+    "buffGroup": 0,
+    "type": 24,
+    "name": "アウトボクサー",
+    "detail": "確率で攻撃によるダメージを0にする＆防御力をアップ",
+    "iconId": 305,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2747
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3285,
+    "buffGroup": 0,
+    "type": 42,
+    "name": "",
+    "detail": "",
+    "iconId": 301,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3286,
+    "buffGroup": 0,
+    "type": 86,
+    "name": "スラッガー",
+    "detail": "攻撃を受けると確率で自身の宝具チャージを1増やす",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3287,
+    "buffGroup": 0,
+    "type": 15,
+    "name": "",
+    "detail": "",
+    "iconId": 310,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3023
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3288,
+    "buffGroup": 0,
+    "type": 38,
+    "name": "選手",
+    "detail": "敵からの狙われやすさをアップ＆手札固定効果を無効にする",
+    "iconId": 323,
+    "maxRate": 50000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3289,
+    "buffGroup": 0,
+    "type": 34,
+    "name": "セコンド",
+    "detail": "宝具を使用できなくなる",
+    "iconId": 512,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3290,
+    "buffGroup": 0,
+    "type": 140,
+    "name": "",
+    "detail": "",
+    "iconId": 555,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3291,
+    "buffGroup": 0,
+    "type": 34,
+    "name": "セコンド",
+    "detail": "宝具を使用できなくなる＆コマンドカードが選出できなくなる＆毎ターン自身のスキルチャージを1進める",
+    "iconId": 512,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3292,
+    "buffGroup": 0,
+    "type": 85,
+    "name": "",
+    "detail": "",
+    "iconId": 343,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2748
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3293,
+    "buffGroup": 900,
+    "type": 34,
+    "name": "宝具封印",
+    "detail": "宝具を使用できなくなる",
+    "iconId": 512,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3023
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3304,
+    "buffGroup": 0,
+    "type": 38,
+    "name": "選手",
+    "detail": "自身にターゲットを固定する",
+    "iconId": 323,
+    "maxRate": 50000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3067
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3305,
+    "buffGroup": 0,
+    "type": 140,
+    "name": "",
+    "detail": "",
+    "iconId": 555,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      3055
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      3055
+    ],
+    "script": {},
+    "id": 3306,
+    "buffGroup": 0,
+    "type": 31,
+    "name": "",
+    "detail": "",
+    "iconId": 531,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3307,
+    "buffGroup": 451,
+    "type": 121,
+    "name": "防御無視",
+    "detail": "防御力アップを無視してダメージを与える",
+    "iconId": 351,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      3067
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      3067
+    ],
+    "script": {},
+    "id": 3309,
+    "buffGroup": 0,
+    "type": 31,
+    "name": "",
+    "detail": "",
+    "iconId": 531,
+    "maxRate": 0,
     "effectId": 0
   }
 ]
