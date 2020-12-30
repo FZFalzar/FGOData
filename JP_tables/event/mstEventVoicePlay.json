@@ -5084,6 +5084,21 @@
   },
   {
     "voiceIds": [
+      "0_N060",
+      "0_N070"
+    ],
+    "confirmVoiceIds": [],
+    "eventId": 80306,
+    "slot": 0,
+    "idx": 1,
+    "guideImageId": 104800,
+    "condType": 20,
+    "condValue": 80306,
+    "startedAt": 1609300800,
+    "endedAt": 1901199599
+  },
+  {
+    "voiceIds": [
       "0_N1010",
       "0_N1020",
       "0_N1030",
@@ -5102,6 +5117,21 @@
   },
   {
     "voiceIds": [
+      "0_N1060",
+      "0_N1070"
+    ],
+    "confirmVoiceIds": [],
+    "eventId": 80306,
+    "slot": 1,
+    "idx": 1,
+    "guideImageId": 104800,
+    "condType": 20,
+    "condValue": 80306,
+    "startedAt": 1609300800,
+    "endedAt": 1901199599
+  },
+  {
+    "voiceIds": [
       "0_I010",
       "0_I020",
       "0_I030"
@@ -5114,6 +5144,21 @@
     "condType": 11,
     "condValue": 80306,
     "startedAt": 1608109200,
+    "endedAt": 1901199599
+  },
+  {
+    "voiceIds": [
+      "0_I070",
+      "0_I080"
+    ],
+    "confirmVoiceIds": [],
+    "eventId": 80306,
+    "slot": 2,
+    "idx": 1,
+    "guideImageId": 304600,
+    "condType": 20,
+    "condValue": 80306,
+    "startedAt": 1609300800,
     "endedAt": 1901199599
   }
 ]
