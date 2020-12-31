@@ -42849,5 +42849,77 @@
     "iconId": 531,
     "maxRate": 0,
     "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006,
+      3031
+    ],
+    "tvals": [
+      3021,
+      3022,
+      3018
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      3021,
+      3022,
+      3018
+    ],
+    "script": {},
+    "id": 3313,
+    "buffGroup": 0,
+    "type": 18,
+    "name": "クリティカル威力アップ",
+    "detail": "回避または無敵状態に対するクリティカル時のダメージをアップ",
+    "iconId": 324,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [
+      5000,
+      4008
+    ],
+    "ckSelfIndv": [
+      4008
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3314,
+    "buffGroup": 0,
+    "type": 89,
+    "name": "焔",
+    "detail": "通常攻撃時に自身のNPを増やす",
+    "iconId": 333,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006,
+      3028
+    ],
+    "tvals": [
+      2113
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      2113
+    ],
+    "script": {},
+    "id": 3316,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "威力アップ〔王〕",
+    "detail": "〔王〕特性に与えるダメージをアップ",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
   }
 ]
