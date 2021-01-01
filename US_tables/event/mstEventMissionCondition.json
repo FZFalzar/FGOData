@@ -14689,7 +14689,11 @@
       94026513,
       94026514,
       94030601,
-      94030001
+      94030001,
+      94032701,
+      94032702,
+      94032703,
+      94032704
     ],
     "missionId": 10015,
     "missionProgressType": 4,
@@ -14807,7 +14811,11 @@
       94026513,
       94026514,
       94030601,
-      94030001
+      94030001,
+      94032701,
+      94032702,
+      94032703,
+      94032704
     ],
     "missionId": 10016,
     "missionProgressType": 4,
@@ -14925,7 +14933,11 @@
       94026513,
       94026514,
       94030601,
-      94030001
+      94030001,
+      94032701,
+      94032702,
+      94032703,
+      94032704
     ],
     "missionId": 10017,
     "missionProgressType": 4,
@@ -15043,7 +15055,11 @@
       94026513,
       94026514,
       94030601,
-      94030001
+      94030001,
+      94032701,
+      94032702,
+      94032703,
+      94032704
     ],
     "missionId": 10018,
     "missionProgressType": 4,
@@ -15161,7 +15177,11 @@
       94026513,
       94026514,
       94030601,
-      94030001
+      94030001,
+      94032701,
+      94032702,
+      94032703,
+      94032704
     ],
     "missionId": 10019,
     "missionProgressType": 4,
@@ -15279,7 +15299,11 @@
       94026513,
       94026514,
       94030601,
-      94030001
+      94030001,
+      94032701,
+      94032702,
+      94032703,
+      94032704
     ],
     "missionId": 10020,
     "missionProgressType": 4,
@@ -15397,7 +15421,11 @@
       94026513,
       94026514,
       94030601,
-      94030001
+      94030001,
+      94032701,
+      94032702,
+      94032703,
+      94032704
     ],
     "missionId": 10021,
     "missionProgressType": 4,
@@ -15515,7 +15543,11 @@
       94026513,
       94026514,
       94030601,
-      94030001
+      94030001,
+      94032701,
+      94032702,
+      94032703,
+      94032704
     ],
     "missionId": 10022,
     "missionProgressType": 4,
@@ -66368,6 +66400,1430 @@
     "condType": 23,
     "targetNum": 99,
     "conditionMessage": "Complete all missions\nCompleting this mission will unlock a new quest",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80225001,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80225001,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 85,
+    "targetNum": 500,
+    "conditionMessage": "Obtain a total of 500 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80225001
+    ],
+    "missionId": 80225002,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80225002,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "Obtain a total of 1,000 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80225002,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80225003,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 85,
+    "targetNum": 1000,
+    "conditionMessage": "Obtain a total of 1,000 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80225002
+    ],
+    "missionId": 80225003,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80225004,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "Obtain a total of 1,500 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80225003,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80225005,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 85,
+    "targetNum": 1500,
+    "conditionMessage": "Obtain a total of 1,500 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80225003
+    ],
+    "missionId": 80225004,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80225006,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "Obtain a total of 2,000 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80225004,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80225007,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 85,
+    "targetNum": 2000,
+    "conditionMessage": "Obtain a total of 2,000 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80225004
+    ],
+    "missionId": 80225005,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80225008,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "Obtain a total of 2,500 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80225005,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80225009,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 85,
+    "targetNum": 2500,
+    "conditionMessage": "Obtain a total of 2,500 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80225005
+    ],
+    "missionId": 80225006,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80225010,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "Obtain a total of 3,500 \"Tribute Points\"\n[Unlocks \"Section 7\"]",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80225006,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80225011,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 85,
+    "targetNum": 3500,
+    "conditionMessage": "Obtain a total of 3,500 \"Tribute Points\"\n[Unlocks \"Section 7\"]",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80225006
+    ],
+    "missionId": 80225007,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80225012,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "Obtain a total of 4,000 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80225007,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80225013,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 85,
+    "targetNum": 4000,
+    "conditionMessage": "Obtain a total of 4,000 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80225007
+    ],
+    "missionId": 80225008,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80225014,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "Obtain a total of 5,000 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80225008,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80225015,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 85,
+    "targetNum": 5000,
+    "conditionMessage": "Obtain a total of 5,000 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80225008
+    ],
+    "missionId": 80225009,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80225016,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "Obtain a total of 8,000 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80225009,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80225017,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 85,
+    "targetNum": 8000,
+    "conditionMessage": "Obtain a total of 8,000 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80225009
+    ],
+    "missionId": 80225010,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80225018,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "Obtain a total of 11,000 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80225010,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80225019,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 85,
+    "targetNum": 11000,
+    "conditionMessage": "Obtain a total of 11,000 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80225010
+    ],
+    "missionId": 80225011,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80225020,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "Obtain a total of 14,000 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80225011,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80225021,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 85,
+    "targetNum": 14000,
+    "conditionMessage": "Obtain a total of 14,000 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80225011
+    ],
+    "missionId": 80225012,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80225022,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "Obtain a total of 17,000 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80225012,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80225023,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 85,
+    "targetNum": 17000,
+    "conditionMessage": "Obtain a total of 17,000 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80225012
+    ],
+    "missionId": 80225013,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80225024,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "Obtain a total of 22,000 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80225013,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80225025,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 85,
+    "targetNum": 22000,
+    "conditionMessage": "Obtain a total of 22,000 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80225013
+    ],
+    "missionId": 80225014,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80225026,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "Obtain a total of 27,000 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80225014,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80225027,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 85,
+    "targetNum": 27000,
+    "conditionMessage": "Obtain a total of 27,000 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80225014
+    ],
+    "missionId": 80225015,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80225028,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "Obtain a total of 32,000 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80225015,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80225029,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 85,
+    "targetNum": 32000,
+    "conditionMessage": "Obtain a total of 32,000 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80225015
+    ],
+    "missionId": 80225016,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80225030,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "Obtain a total of 40,000 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80225016,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80225031,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 85,
+    "targetNum": 40000,
+    "conditionMessage": "Obtain a total of 40,000 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80225016
+    ],
+    "missionId": 80225017,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80225032,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "Obtain a total of 50,000 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80225017,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80225033,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 85,
+    "targetNum": 50000,
+    "conditionMessage": "Obtain a total of 50,000 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80225017
+    ],
+    "missionId": 80225018,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80225034,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "Obtain a total of 60,000 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80225018,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80225035,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 85,
+    "targetNum": 60000,
+    "conditionMessage": "Obtain a total of 60,000 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80225018
+    ],
+    "missionId": 80225019,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80225036,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "Obtain a total of 75,000 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80225019,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80225037,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 85,
+    "targetNum": 75000,
+    "conditionMessage": "Obtain a total of 75,000 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80225019
+    ],
+    "missionId": 80225020,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80225038,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "Obtain a total of 90,000 \"Tribute Points\"\n[Unlocks \"Section 9\"]",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80225020,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80225039,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 85,
+    "targetNum": 90000,
+    "conditionMessage": "Obtain a total of 90,000 \"Tribute Points\"\n[Unlocks \"Section 9\"]",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80225020
+    ],
+    "missionId": 80225021,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80225040,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "Obtain a total of 105,000 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80225021,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80225041,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 85,
+    "targetNum": 105000,
+    "conditionMessage": "Obtain a total of 105,000 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80225021
+    ],
+    "missionId": 80225022,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80225042,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "Obtain a total of 120,000 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80225022,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80225043,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 85,
+    "targetNum": 120000,
+    "conditionMessage": "Obtain a total of 120,000 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80225022
+    ],
+    "missionId": 80225023,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80225044,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "Obtain a total of 135,000 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80225023,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80225045,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 85,
+    "targetNum": 135000,
+    "conditionMessage": "Obtain a total of 135,000 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80225023
+    ],
+    "missionId": 80225024,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80225046,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "Obtain a total of 155,000 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80225024,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80225047,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 85,
+    "targetNum": 155000,
+    "conditionMessage": "Obtain a total of 155,000 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80225024
+    ],
+    "missionId": 80225025,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80225048,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "Obtain a total of 175,000 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80225025,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80225049,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 85,
+    "targetNum": 175000,
+    "conditionMessage": "Obtain a total of 175,000 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80225025
+    ],
+    "missionId": 80225026,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80225050,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "Obtain a total of 200,000 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80225026,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80225051,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 85,
+    "targetNum": 200000,
+    "conditionMessage": "Obtain a total of 200,000 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80225026
+    ],
+    "missionId": 80225027,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80225052,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "Obtain a total of 230,000 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80225027,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80225053,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 85,
+    "targetNum": 230000,
+    "conditionMessage": "Obtain a total of 230,000 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80225027
+    ],
+    "missionId": 80225028,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80225054,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "Obtain a total of 260,000 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80225028,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80225055,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 85,
+    "targetNum": 260000,
+    "conditionMessage": "Obtain a total of 260,000 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80225028
+    ],
+    "missionId": 80225029,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80225056,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "Obtain a total of 300,000 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80225029,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80225057,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 85,
+    "targetNum": 300000,
+    "conditionMessage": "Obtain a total of 300,000 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80225029
+    ],
+    "missionId": 80225030,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80225058,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "Obtain a total of 350,000 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80225030,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80225059,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 85,
+    "targetNum": 350000,
+    "conditionMessage": "Obtain a total of 350,000 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80225030
+    ],
+    "missionId": 80225031,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80225060,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "Obtain a total of 400,000 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80225031,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80225061,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 85,
+    "targetNum": 400000,
+    "conditionMessage": "Obtain a total of 400,000 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80225031
+    ],
+    "missionId": 80225032,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80225062,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "Obtain a total of 450,000 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80225032,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80225063,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 85,
+    "targetNum": 450000,
+    "conditionMessage": "Obtain a total of 450,000 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80225032
+    ],
+    "missionId": 80225033,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80225064,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "Obtain a total of 500,000 \"Tribute Points\"\n[Unlocks \"Section 12\"]",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80225033,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80225065,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 85,
+    "targetNum": 500000,
+    "conditionMessage": "Obtain a total of 500,000 \"Tribute Points\"\n[Unlocks \"Section 12\"]",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80225033
+    ],
+    "missionId": 80225034,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80225066,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "Obtain a total of 800,000 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80225034,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80225067,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 85,
+    "targetNum": 800000,
+    "conditionMessage": "Obtain a total of 800,000 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80225034
+    ],
+    "missionId": 80225035,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80225068,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "Obtain a total of 1,100,000 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80225035,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80225069,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 85,
+    "targetNum": 1100000,
+    "conditionMessage": "Obtain a total of 1,100,000 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80225035
+    ],
+    "missionId": 80225036,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80225070,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "Obtain a total of 1,400,000 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80225036,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80225071,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 85,
+    "targetNum": 1400000,
+    "conditionMessage": "Obtain a total of 1,400,000 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80225036
+    ],
+    "missionId": 80225037,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80225072,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "Obtain a total of 1,800,000 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80225037,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80225073,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 85,
+    "targetNum": 1800000,
+    "conditionMessage": "Obtain a total of 1,800,000 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80225037
+    ],
+    "missionId": 80225038,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80225074,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "Obtain a total of 2,200,000 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80225038,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80225075,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 85,
+    "targetNum": 2200000,
+    "conditionMessage": "Obtain a total of 2,200,000 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80225038
+    ],
+    "missionId": 80225039,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80225076,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "Obtain a total of 2,600,000 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80225039,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80225077,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 85,
+    "targetNum": 2600000,
+    "conditionMessage": "Obtain a total of 2,600,000 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80225039
+    ],
+    "missionId": 80225040,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80225078,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "Obtain a total of 3,000,000 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80225040,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80225079,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 85,
+    "targetNum": 3000000,
+    "conditionMessage": "Obtain a total of 3,000,000 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80225040
+    ],
+    "missionId": 80225041,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80225080,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "Obtain a total of 3,400,000 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80225041,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80225081,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 85,
+    "targetNum": 3400000,
+    "conditionMessage": "Obtain a total of 3,400,000 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80225041
+    ],
+    "missionId": 80225042,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80225082,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "Obtain a total of 3,800,000 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80225042,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80225083,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 85,
+    "targetNum": 3800000,
+    "conditionMessage": "Obtain a total of 3,800,000 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80225042
+    ],
+    "missionId": 80225043,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80225084,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "Obtain a total of 4,200,000 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80225043,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80225085,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 85,
+    "targetNum": 4200000,
+    "conditionMessage": "Obtain a total of 4,200,000 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80225043
+    ],
+    "missionId": 80225044,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80225086,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "Obtain a total of 4,600,000 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80225044,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80225087,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 85,
+    "targetNum": 4600000,
+    "conditionMessage": "Obtain a total of 4,600,000 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80225044
+    ],
+    "missionId": 80225045,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80225088,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "Obtain a total of 5,000,000 \"Tribute Points\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80225045,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80225089,
+    "missionTargetId": 80225,
+    "condGroup": 1,
+    "condType": 85,
+    "targetNum": 5000000,
+    "conditionMessage": "Obtain a total of 5,000,000 \"Tribute Points\"",
     "closedMessage": "",
     "flag": 0
   }

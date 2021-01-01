@@ -263,5 +263,73 @@
     "name": "Only 2 Servants can be deployed.",
     "type": 10,
     "rangeType": 1
+  },
+  {
+    "targetVals": [],
+    "id": 94032201,
+    "name": "Support Only",
+    "type": 5,
+    "rangeType": 0
+  },
+  {
+    "targetVals": [
+      800100
+    ],
+    "id": 94032202,
+    "name": "Formation Limited",
+    "type": 8,
+    "rangeType": 0
+  },
+  {
+    "targetVals": [
+      5
+    ],
+    "id": 94032203,
+    "name": "4 Set NPC Servants",
+    "type": 10,
+    "rangeType": 4
+  },
+  {
+    "targetVals": [
+      1
+    ],
+    "id": 94032204,
+    "name": "1 Servant Only",
+    "type": 11,
+    "rangeType": 1
+  },
+  {
+    "targetVals": [
+      2,
+      900600,
+      300800,
+      102600
+    ],
+    "id": 94032205,
+    "name": "Female Only",
+    "type": 1,
+    "rangeType": 1
+  },
+  {
+    "targetVals": [
+      1,
+      900600,
+      300800,
+      102600,
+      400400
+    ],
+    "id": 94032206,
+    "name": "Male Only",
+    "type": 1,
+    "rangeType": 1
+  },
+  {
+    "targetVals": [
+      3
+    ],
+    "id": 94032207,
+    "name": "2 Set NPC Servants",
+    "type": 10,
+    "rangeType": 1
   }
 ]

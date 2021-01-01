@@ -942,5 +942,77 @@
     "frequencyType": 1,
     "dialogMessage": "To begin this quest, please select one Servant from your party and one Support Servant.",
     "noticeMessage": "Only 2 Servants can be deployed."
+  },
+  {
+    "questId": 94032205,
+    "phase": 1,
+    "restrictionId": 94032204,
+    "frequencyType": 1,
+    "dialogMessage": "To begin this quest, please select one Servant from your party",
+    "noticeMessage": "Only 1 Servant Selectable"
+  },
+  {
+    "questId": 94032205,
+    "phase": 1,
+    "restrictionId": 94032207,
+    "frequencyType": 0,
+    "dialogMessage": "To begin this quest, please select one Servant from your party",
+    "noticeMessage": "NPC Set"
+  },
+  {
+    "questId": 94032209,
+    "phase": 1,
+    "restrictionId": 94032202,
+    "frequencyType": 3,
+    "dialogMessage": "Certain Servants cannot be selected as Sub Members",
+    "noticeMessage": "Please set Mash as a Starting Member"
+  },
+  {
+    "questId": 94032209,
+    "phase": 1,
+    "restrictionId": 94032203,
+    "frequencyType": 0,
+    "dialogMessage": "To begin this quest, please select one Servant from your party",
+    "noticeMessage": "NPC Set"
+  },
+  {
+    "questId": 94032209,
+    "phase": 1,
+    "restrictionId": 94032204,
+    "frequencyType": 1,
+    "dialogMessage": "To begin this quest, please select one Servant from your party",
+    "noticeMessage": "Mash Only"
+  },
+  {
+    "questId": 94032211,
+    "phase": 1,
+    "restrictionId": 94032201,
+    "frequencyType": 0,
+    "dialogMessage": "",
+    "noticeMessage": ""
+  },
+  {
+    "questId": 94032213,
+    "phase": 1,
+    "restrictionId": 94032201,
+    "frequencyType": 0,
+    "dialogMessage": "",
+    "noticeMessage": ""
+  },
+  {
+    "questId": 94032504,
+    "phase": 1,
+    "restrictionId": 94032205,
+    "frequencyType": 0,
+    "dialogMessage": "Female Servants Only",
+    "noticeMessage": "Female Servants Only"
+  },
+  {
+    "questId": 94032505,
+    "phase": 1,
+    "restrictionId": 94032206,
+    "frequencyType": 0,
+    "dialogMessage": "Male Servants Only",
+    "noticeMessage": "Male Servants Only"
   }
 ]

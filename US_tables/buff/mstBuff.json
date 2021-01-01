@@ -1540,7 +1540,8 @@
     "vals": [
       3005,
       3010,
-      3012
+      3012,
+      3045
     ],
     "tvals": [],
     "ckSelfIndv": [],
@@ -1803,6 +1804,7 @@
   {
     "vals": [
       3004,
+      3059,
       3006
     ],
     "tvals": [],
@@ -4600,7 +4602,8 @@
   },
   {
     "vals": [
-      3004
+      3004,
+      3027
     ],
     "tvals": [],
     "ckSelfIndv": [],
@@ -5658,7 +5661,8 @@
   },
   {
     "vals": [
-      3004
+      3004,
+      3027
     ],
     "tvals": [],
     "ckSelfIndv": [],
@@ -11483,7 +11487,8 @@
       3005,
       3010,
       3012,
-      2191
+      2191,
+      3045
     ],
     "tvals": [],
     "ckSelfIndv": [],
@@ -20575,6 +20580,420 @@
     "detail": "Increase ATK against Black Quetzal Mask",
     "iconId": 520,
     "maxRate": 2000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2374
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1443,
+    "buffGroup": 0,
+    "type": 37,
+    "name": "Man-Eating Bath Guardian",
+    "detail": "When HP reaches 0, recover HP and survive & when HP is less than 1%, apply a state to yourself where Guts is removed when sustaining an attack from Diarmuid (Saber) [Demerit] ",
+    "iconId": 304,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      103500
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      103500
+    ],
+    "script": {
+      "HP_LOWER": 10
+    },
+    "id": 1444,
+    "buffGroup": 0,
+    "type": 86,
+    "name": "",
+    "detail": "",
+    "iconId": 543,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1445,
+    "buffGroup": 0,
+    "type": 89,
+    "name": "Activate when Attacking (Demon of the Heaven's Malignant Cycle)",
+    "detail": "Chance to decrease a single enemy's NP Gauge during your normal attacks",
+    "iconId": 528,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1446,
+    "buffGroup": 0,
+    "type": 114,
+    "name": "Delightful and Exciting Big Rotation",
+    "detail": "Increase Charge by 1 each turn",
+    "iconId": 319,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1447,
+    "buffGroup": 0,
+    "type": 89,
+    "name": "Activate when Attacking (Tiger's Wrath)",
+    "detail": "Decrease the ATK & Max HP of a single enemy during your normal attacks",
+    "iconId": 528,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [
+      5000
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1448,
+    "buffGroup": 0,
+    "type": 86,
+    "name": "Activate when Damaged (Monkey's Wrath)",
+    "detail": "Decrease NP Gain & C. Star drop rate of a single enemy when attacked",
+    "iconId": 543,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2375
+    ],
+    "tvals": [
+      5000,
+      4003
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4003
+    ],
+    "script": {},
+    "id": 1449,
+    "buffGroup": 200,
+    "type": 24,
+    "name": "Night of the Thrush [Quick]",
+    "detail": "Reduce Quick ATK damage taken to 0",
+    "iconId": 305,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2375
+    ],
+    "tvals": [
+      5000,
+      4001
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4001
+    ],
+    "script": {},
+    "id": 1450,
+    "buffGroup": 200,
+    "type": 24,
+    "name": "Night of the Thrush [Arts]",
+    "detail": "Reduce Arts ATK damage taken to 0",
+    "iconId": 305,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2375
+    ],
+    "tvals": [
+      5000,
+      4002
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4002
+    ],
+    "script": {},
+    "id": 1451,
+    "buffGroup": 200,
+    "type": 24,
+    "name": "Night of the Thrush [Buster]",
+    "detail": "Reduce Buster ATK damage taken to 0",
+    "iconId": 305,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4003
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4003
+    ],
+    "script": {},
+    "id": 1452,
+    "buffGroup": 400,
+    "type": 26,
+    "name": "Night of No Return [Quick]",
+    "detail": "Ignore Sure Hit and reduce Quick ATK damage taken to 0",
+    "iconId": 311,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4001
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4001
+    ],
+    "script": {},
+    "id": 1453,
+    "buffGroup": 400,
+    "type": 26,
+    "name": "Night of No Return [Arts]",
+    "detail": "Ignore Sure Hit and reduce Arts ATK damage taken to 0",
+    "iconId": 311,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4002
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4002
+    ],
+    "script": {},
+    "id": 1454,
+    "buffGroup": 400,
+    "type": 26,
+    "name": "Night of No Return [Buster]",
+    "detail": "Ignore Sure Hit and reduce Buster ATK damage taken to 0",
+    "iconId": 311,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4003
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4003
+    ],
+    "script": {},
+    "id": 1455,
+    "buffGroup": 0,
+    "type": 105,
+    "name": "Awesome Aura",
+    "detail": "Decrease damage taken, NP generation, and C. Star drop rate upon damage from Quick Cards",
+    "iconId": 345,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4001
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4001
+    ],
+    "script": {},
+    "id": 1456,
+    "buffGroup": 0,
+    "type": 105,
+    "name": "Awesome Aura",
+    "detail": "Decrease damage taken, NP generation, and C. Star drop rate upon damage from Arts Cards",
+    "iconId": 346,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4002
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4002
+    ],
+    "script": {},
+    "id": 1457,
+    "buffGroup": 0,
+    "type": 105,
+    "name": "Awesome Aura",
+    "detail": "Decrease damage taken, NP generation, and C. Star drop rate upon damage from Buster Cards",
+    "iconId": 347,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "HP_LOWER": 0
+    },
+    "id": 1458,
+    "buffGroup": 0,
+    "type": 15,
+    "name": "Man-Eating Bath Guardian",
+    "detail": "<Activated when HP Gauge is broken once> When HP reaches 0, recover HP and survive & when HP is less than 1%, Guts is removed when attacked by Diarmuid (Saber) [Demerit] ",
+    "iconId": 304,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [
+      3025
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      3025
+    ],
+    "script": {},
+    "id": 1459,
+    "buffGroup": 0,
+    "type": 31,
+    "name": "Skill Seal Immune",
+    "detail": "Immune to Skill Seal",
+    "iconId": 322,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006,
+      3028
+    ],
+    "tvals": [
+      301
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      301
+    ],
+    "script": {},
+    "id": 1460,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "Strength Up [Chaotic]",
+    "detail": "Increase damage dealt against [Chaotic]",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [
+      3045
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      3045
+    ],
+    "script": {},
+    "id": 1461,
+    "buffGroup": 0,
+    "type": 31,
+    "name": "Immobilize Immune",
+    "detail": "Nullify incapacitation",
+    "iconId": 322,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4001
+    ],
+    "ckSelfIndv": [
+      4001
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1462,
+    "buffGroup": 0,
+    "type": 89,
+    "name": "Activate when Attacking (DEF Down)",
+    "detail": "Decrease a single enemy's DEF when attacking with Arts cards",
+    "iconId": 528,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4003
+    ],
+    "ckSelfIndv": [
+      4003
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1463,
+    "buffGroup": 0,
+    "type": 89,
+    "name": "Activate when Attacking (Charge Loss)",
+    "detail": "Decrease a single enemy's NP charge when attacking with Quick cards",
+    "iconId": 528,
+    "maxRate": 0,
     "effectId": 0
   },
   {

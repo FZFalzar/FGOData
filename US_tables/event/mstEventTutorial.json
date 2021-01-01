@@ -6318,5 +6318,173 @@
     "condValue": 0,
     "condValue2": 0,
     "condValue3": 0
+  },
+  {
+    "targetIds": [
+      "[]"
+    ],
+    "condIds": [],
+    "imageIds": [
+      673
+    ],
+    "textJson": [],
+    "eventId": 80225,
+    "flagType": 1,
+    "num": 1,
+    "openType": 4,
+    "condType": 0,
+    "condValue": 0,
+    "condValue2": 0,
+    "condValue3": 0
+  },
+  {
+    "targetIds": [
+      "[9051]"
+    ],
+    "condIds": [
+      94032203
+    ],
+    "imageIds": [
+      674,
+      675
+    ],
+    "textJson": [],
+    "eventId": 80225,
+    "flagType": 2,
+    "num": 1,
+    "openType": 1,
+    "condType": 50,
+    "condValue": 0,
+    "condValue2": 0,
+    "condValue3": 0
+  },
+  {
+    "targetIds": [
+      "[9051]"
+    ],
+    "condIds": [
+      80225
+    ],
+    "imageIds": [],
+    "textJson": [
+      {
+        "text": "A new scenario quest will be unlocked upon receiving the Tribute Points reward.\n\nHead to the Event Rewards Screen to receive your Tribute Point reward!",
+        "rects": [],
+        "textPos": [
+          0,
+          0
+        ],
+        "ptPos": [
+          0,
+          0
+        ]
+      }
+    ],
+    "eventId": 80225,
+    "flagType": 8,
+    "num": 1,
+    "openType": 1,
+    "condType": 68,
+    "condValue": 500000,
+    "condValue2": 0,
+    "condValue3": 0
+  },
+  {
+    "targetIds": [
+      "[9051]"
+    ],
+    "condIds": [
+      80225
+    ],
+    "imageIds": [],
+    "textJson": [
+      {
+        "text": "A new scenario quest will be unlocked upon receiving the Tribute Points reward.\n\nHead to the Event Rewards Screen to receive your Tribute Point reward!",
+        "rects": [],
+        "textPos": [
+          0,
+          0
+        ],
+        "ptPos": [
+          0,
+          0
+        ]
+      }
+    ],
+    "eventId": 80225,
+    "flagType": 9,
+    "num": 1,
+    "openType": 1,
+    "condType": 68,
+    "condValue": 3500,
+    "condValue2": 0,
+    "condValue3": 0
+  },
+  {
+    "targetIds": [
+      "[9051]"
+    ],
+    "condIds": [
+      80225
+    ],
+    "imageIds": [],
+    "textJson": [
+      {
+        "text": "A new scenario quest will be unlocked upon receiving the Tribute Points reward.\n\nHead to the Event Rewards Screen to receive your Tribute Point reward!",
+        "rects": [],
+        "textPos": [
+          0,
+          0
+        ],
+        "ptPos": [
+          0,
+          0
+        ]
+      }
+    ],
+    "eventId": 80225,
+    "flagType": 12,
+    "num": 1,
+    "openType": 1,
+    "condType": 68,
+    "condValue": 90000,
+    "condValue2": 0,
+    "condValue3": 0
+  },
+  {
+    "targetIds": [
+      "[]"
+    ],
+    "condIds": [],
+    "imageIds": [
+      673
+    ],
+    "textJson": [],
+    "eventId": 80225,
+    "flagType": 21,
+    "num": 1,
+    "openType": 23,
+    "condType": 0,
+    "condValue": 0,
+    "condValue2": 0,
+    "condValue3": 0
+  },
+  {
+    "targetIds": [
+      "[]"
+    ],
+    "condIds": [],
+    "imageIds": [
+      673
+    ],
+    "textJson": [],
+    "eventId": 80225,
+    "flagType": 22,
+    "num": 1,
+    "openType": 24,
+    "condType": 0,
+    "condValue": 0,
+    "condValue2": 0,
+    "condValue3": 0
   }
 ]

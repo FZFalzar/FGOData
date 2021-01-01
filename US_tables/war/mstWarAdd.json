@@ -1811,6 +1811,32 @@
   },
   {
     "script": {},
+    "warId": 9051,
+    "type": 6,
+    "priority": 1,
+    "overwriteId": 2082,
+    "overwriteStr": "",
+    "condType": 1,
+    "targetId": 94032201,
+    "value": 0,
+    "startedAt": 1609488000,
+    "endedAt": 1610769599
+  },
+  {
+    "script": {},
+    "warId": 9051,
+    "type": 7,
+    "priority": 2,
+    "overwriteId": 9051,
+    "overwriteStr": "",
+    "condType": 1,
+    "targetId": 94032201,
+    "value": 0,
+    "startedAt": 1609488000,
+    "endedAt": 1610769599
+  },
+  {
+    "script": {},
     "warId": 9999,
     "type": 3,
     "priority": 1,
@@ -2016,6 +2042,19 @@
     "value": 0,
     "startedAt": 1598846400,
     "endedAt": 1600055999
+  },
+  {
+    "script": {},
+    "warId": 9999,
+    "type": 3,
+    "priority": 80173,
+    "overwriteId": 80173,
+    "overwriteStr": "",
+    "condType": 0,
+    "targetId": 0,
+    "value": 0,
+    "startedAt": 1609488000,
+    "endedAt": 1610337599
   },
   {
     "script": {},

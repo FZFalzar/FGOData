@@ -22488,7 +22488,7 @@
     "targetType": 4,
     "applyTarget": 3,
     "popupIconId": 0,
-    "popupText": "Remove Evade",
+    "popupText": "Remove Guts",
     "categoryId": 0
   },
   {
@@ -43305,7 +43305,7 @@
     "targetType": 0,
     "applyTarget": 3,
     "popupIconId": 302,
-    "popupText": "Strength Up vs. Threat to Humanity",
+    "popupText": "STR Up\nvs. Threat to Humanity",
     "categoryId": 0
   },
   {
@@ -43324,7 +43324,7 @@
     "targetType": 0,
     "applyTarget": 3,
     "popupIconId": 302,
-    "popupText": "Strength Up vs. Threat to Humanity",
+    "popupText": "STR Up\nvs. Threat to Humanity",
     "categoryId": 0
   },
   {
@@ -43343,7 +43343,7 @@
     "targetType": 0,
     "applyTarget": 3,
     "popupIconId": 302,
-    "popupText": "Strength Up vs. Threat to Humanity",
+    "popupText": "STR Up\nvs. Threat to Humanity",
     "categoryId": 0
   },
   {
@@ -55176,6 +55176,927 @@
     "applyTarget": 3,
     "popupIconId": 0,
     "popupText": "None",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 3205,
+    "cond": 0,
+    "funcType": 105,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "None",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 3206,
+    "cond": 0,
+    "funcType": 105,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "None",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 3207,
+    "cond": 0,
+    "funcType": 105,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "None",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 3208,
+    "cond": 0,
+    "funcType": 105,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "None",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 3209,
+    "cond": 0,
+    "funcType": 105,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "None",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 3210,
+    "cond": 0,
+    "funcType": 105,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "None",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 3211,
+    "cond": 0,
+    "funcType": 111,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "None",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3018
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 1,
+    "id": 3212,
+    "cond": 0,
+    "funcType": 2,
+    "targetType": 4,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "Remove Evade & Invincible",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3019,
+      3059
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 1,
+    "id": 3213,
+    "cond": 0,
+    "funcType": 2,
+    "targetType": 4,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "Remove Sure Hit & Ignore Invincible",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3060
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 1,
+    "id": 3214,
+    "cond": 0,
+    "funcType": 2,
+    "targetType": 4,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "Remove HP Recovery Per Turn",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1443
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 3215,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 304,
+    "popupText": "Guts",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1444
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 1,
+    "id": 3216,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 543,
+    "popupText": "Activate when Damaged",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2374
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 1,
+    "id": 3217,
+    "cond": 0,
+    "funcType": 2,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "Remove Man-Eating Bath Guardian",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1445
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 3218,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 528,
+    "popupText": "Activate when Attacking (NP Loss)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1400
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 3219,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 1,
+    "applyTarget": 3,
+    "popupIconId": 528,
+    "popupText": "Activate when Attacking (DEF Down)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1446
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 1,
+    "id": 3220,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 319,
+    "popupText": "Delightful and Exciting Big Rotation",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      345
+    ],
+    "popupTextColor": 3,
+    "id": 3221,
+    "cond": 0,
+    "funcType": 25,
+    "targetType": 13,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "HP Loss",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      129
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      330
+    ],
+    "popupTextColor": 2,
+    "id": 3222,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 1,
+    "applyTarget": 3,
+    "popupIconId": 302,
+    "popupText": "Strength Up",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      129
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 3223,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 1,
+    "applyTarget": 3,
+    "popupIconId": 302,
+    "popupText": "Strength Up",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      129
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 3224,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 1,
+    "applyTarget": 3,
+    "popupIconId": 302,
+    "popupText": "Strength Up",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1447
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 3225,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 528,
+    "popupText": "Activate when Attacking",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1448
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 1,
+    "id": 3226,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 543,
+    "popupText": "Activate when Damaged",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1449
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      334
+    ],
+    "popupTextColor": 2,
+    "id": 3227,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 4,
+    "applyTarget": 3,
+    "popupIconId": 305,
+    "popupText": "Evade (Quick)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1450
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      334
+    ],
+    "popupTextColor": 2,
+    "id": 3228,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 4,
+    "applyTarget": 3,
+    "popupIconId": 305,
+    "popupText": "Evade (Arts)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1451
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      334
+    ],
+    "popupTextColor": 2,
+    "id": 3229,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 4,
+    "applyTarget": 3,
+    "popupIconId": 305,
+    "popupText": "Evade (Buster)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1452
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 3230,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 4,
+    "applyTarget": 3,
+    "popupIconId": 311,
+    "popupText": "Invincible [Quick]",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1453
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 3231,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 4,
+    "applyTarget": 3,
+    "popupIconId": 311,
+    "popupText": "Invincible [Arts]",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1454
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 3232,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 4,
+    "applyTarget": 3,
+    "popupIconId": 311,
+    "popupText": "Invincible [Buster]",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2375
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 1,
+    "id": 3233,
+    "cond": 0,
+    "funcType": 2,
+    "targetType": 4,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "Remove Night of the Thrush",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1455
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 3234,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 345,
+    "popupText": "Quick Resist\nUp",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1456
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 3235,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 346,
+    "popupText": "Arts Resist\nUp",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1457
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 3236,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 347,
+    "popupText": "Buster Resist\nUp",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1458
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 3237,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 304,
+    "popupText": "Guts",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1459
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 3238,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 322,
+    "popupText": "Nullify Skill Seal",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1460
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      330
+    ],
+    "popupTextColor": 2,
+    "id": 3239,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 302,
+    "popupText": "STR Up\nvs. Chaotic",
+    "categoryId": 10205
+  },
+  {
+    "vals": [
+      1460
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 3240,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 302,
+    "popupText": "STR Up\nvs. Chaotic",
+    "categoryId": 10205
+  },
+  {
+    "vals": [
+      1460
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 3241,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 302,
+    "popupText": "STR Up\nvs. Chaotic",
+    "categoryId": 10205
+  },
+  {
+    "vals": [
+      1460
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      330
+    ],
+    "popupTextColor": 2,
+    "id": 3242,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 7,
+    "applyTarget": 3,
+    "popupIconId": 302,
+    "popupText": "STR Up\nvs. Chaotic",
+    "categoryId": 10205
+  },
+  {
+    "vals": [
+      1460
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 3243,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 7,
+    "applyTarget": 3,
+    "popupIconId": 302,
+    "popupText": "STR Up\nvs. Chaotic",
+    "categoryId": 10205
+  },
+  {
+    "vals": [
+      1460
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 3244,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 7,
+    "applyTarget": 3,
+    "popupIconId": 302,
+    "popupText": "STR Up\nvs. Chaotic",
+    "categoryId": 10205
+  },
+  {
+    "vals": [
+      887
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      333
+    ],
+    "popupTextColor": 2,
+    "id": 3245,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 348,
+    "popupText": "Buff Removal Resist Up",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      887
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      334
+    ],
+    "popupTextColor": 2,
+    "id": 3246,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 348,
+    "popupText": "Buff Removal Resist Up",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      887
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 3247,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 348,
+    "popupText": "Buff Removal Resist Up",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      138
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 3248,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 9,
+    "applyTarget": 3,
+    "popupIconId": 310,
+    "popupText": "NP Strength Up",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      131
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      330
+    ],
+    "popupTextColor": 2,
+    "id": 3249,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 7,
+    "applyTarget": 3,
+    "popupIconId": 302,
+    "popupText": "STR Up\nvs. Evil",
+    "categoryId": 10205
+  },
+  {
+    "vals": [
+      131
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 3250,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 7,
+    "applyTarget": 3,
+    "popupIconId": 302,
+    "popupText": "STR Up\nvs. Evil",
+    "categoryId": 10205
+  },
+  {
+    "vals": [
+      131
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 3251,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 7,
+    "applyTarget": 3,
+    "popupIconId": 302,
+    "popupText": "STR Up\nvs. Evil",
+    "categoryId": 10205
+  },
+  {
+    "vals": [
+      1461
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 3252,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 322,
+    "popupText": "Immobilize Immune",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1462
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 3253,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 1,
+    "applyTarget": 3,
+    "popupIconId": 528,
+    "popupText": "Activate when Attacking (DEF Down)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1463
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 3254,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 1,
+    "applyTarget": 3,
+    "popupIconId": 528,
+    "popupText": "Activate when Attacking (Charge Loss)",
     "categoryId": 0
   },
   {

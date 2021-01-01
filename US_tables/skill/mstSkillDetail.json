@@ -3686,8 +3686,8 @@
   },
   {
     "id": 527451,
-    "detail": "Increase DEF [{0}] (3 times) & increase NP Gain [{0}] (3 turns) for yourself",
-    "detailShort": "Increase DEF [{0}] (3 times) & increase NP Gain [{0}] (3 turns) for yourself"
+    "detail": "Increase DEF [{0}] (3 turns) & increase NP Gain [{0}] (3 turns) for yourself",
+    "detailShort": "Increase DEF [{0}] (3 turns) & increase NP Gain [{0}] (3 turns) for yourself"
   },
   {
     "id": 528350,
@@ -3815,6 +3815,21 @@
     "detailShort": "Increase Critical Strength [{0}] (3 times, 5 turns) & ATK [{0}] (3 times, 5 turns) for yourself"
   },
   {
+    "id": 553553,
+    "detail": "Apply Ignore Invincible (1 turn) & increase Critical Strength [{0}] (1 turn) for yourself",
+    "detailShort": "Apply Ignore Invincible (1 turn) & increase Critical Strength [{0}] (1 turn) for yourself"
+  },
+  {
+    "id": 554549,
+    "detail": "Apply Evade (1 turn) & increase C. Star Gather Rate [{0}] (1 turn) & gain C. Stars [{0}] for yourself",
+    "detailShort": "Apply Evade (1 turn) & increase C. Star Gather Rate [{0}] (1 turn) & gain C. Stars [{0}] for yourself"
+  },
+  {
+    "id": 555450,
+    "detail": "Increase ATK [{0}] (1 turn) & increase ATK [{0}] (3 turns) & apply Debuff Immune (1 turn) for yourself",
+    "detailShort": "Increase ATK [{0}] (1 turn) & increase ATK [{0}] (3 turns) & apply Debuff Immune (1 turn) for yourself"
+  },
+  {
     "id": 556551,
     "detail": "Increase Buster Card effectiveness & Critical Strength for yourself",
     "detailShort": "Increase Buster Card effectiveness & Critical Strength for yourself"
@@ -3853,6 +3868,46 @@
     "id": 563550,
     "detail": "Increase NP Gauge [{0}] & remove Debuffs for a single ally",
     "detailShort": "Increase NP Gauge [{0}] & remove Debuffs for a single ally"
+  },
+  {
+    "id": 564450,
+    "detail": "Increase your Arts Card effectiveness",
+    "detailShort": "Increase your Arts Card effectiveness"
+  },
+  {
+    "id": 565650,
+    "detail": "Apply Skill Seal Immune to yourself",
+    "detailShort": "Apply Skill Seal Immune to yourself"
+  },
+  {
+    "id": 566650,
+    "detail": "Decrease DEF [{0}] (3 turns) & decrease Critical Rate [{0}] (3 turns) & apply NP Seal (1 turn) & restore HP [Demerit] for all enemies",
+    "detailShort": "Decrease DEF [{0}] (3 turns) & decrease Critical Rate [{0}] (3 turns) & apply NP Seal (1 turn) & restore HP [Demerit] for all enemies"
+  },
+  {
+    "id": 567650,
+    "detail": "Increase ATK [{0}] (3 turns) & increase Buff Removal Resist [{0}] (1 turn) & increase NP Gauge [{0}] & restore HP for all allies + Restore HP for all enemies [Demerit]",
+    "detailShort": "Increase ATK [{0}] (3 turns) & increase Buff Removal Resist [{0}] (1 turn) & increase NP Gauge [{0}] & restore HP for all allies + Restore HP for all enemies [Demerit]"
+  },
+  {
+    "id": 568550,
+    "detail": "High chance to decrease a single enemy's Charge [{0}] + increase NP Strength for all allies except yourself [{0}] (3 turns) [g][o]▲[/o][/g]",
+    "detailShort": "High chance to decrease a single enemy's Charge [{0}] + increase NP Strength for all allies except yourself [{0}] (3 turns) [g][o]▲[/o][/g]"
+  },
+  {
+    "id": 569450,
+    "detail": "Low chance to decrease a single enemy's Charge [{0}] + Apply Invincible to yourself (1 time, 5 turns) [g][o]▲[/o][/g]",
+    "detailShort": "Low chance to decrease a single enemy's Charge [{0}] + Apply Invincible to yourself (1 time, 5 turns) [g][o]▲[/o][/g]"
+  },
+  {
+    "id": 570550,
+    "detail": "Chance to Evade incoming attacks [{0}] (1 turn) & apply Target Focus (1 turn) & increase NP Gauge [{0}] [g][o]▲[/o][/g] & decrease Charm Resist from [Female] enemies (3 turn) [Demerit] for yourself",
+    "detailShort": "Chance to Evade incoming attacks [{0}] (1 turn) & apply Target Focus (1 turn) & increase NP Gauge [{0}] [g][o]▲[/o][/g] & decrease Charm Resist from [Female] enemies (3 turn) [Demerit] for yourself"
+  },
+  {
+    "id": 571351,
+    "detail": "Increase DEF [g][o]▲[/o][/g] [{0}] (3 turns) for yourself + Inflict Spreading Fire (increase Burn damage) [{0}] (5 turns) [g][o]▲[/o][/g] to all enemies",
+    "detailShort": "Increase DEF [g][o]▲[/o][/g] [{0}] (3 turns) for yourself + Inflict Spreading Fire (increase Burn damage) [{0}] (5 turns) [g][o]▲[/o][/g] to all enemies"
   },
   {
     "id": 940001,
@@ -4280,6 +4335,36 @@
     "detailShort": "Increase your ATK Strength by 50% in \"Christmas 2020: Samba Night, Holy Night\" [Event Only]"
   },
   {
+    "id": 940090,
+    "detail": "Increase Cedar Lumber, Cypress Lumber, and Keyaki Lumber amount per drop by 2 & increase Bond gained when completing quests in \"Sparrow's Inn Daily Report\" by 50% [Event Only]",
+    "detailShort": "Increase Cedar Lumber, Cypress Lumber, and Keyaki Lumber amount per drop by 2 & increase Bond gained when completing quests in \"Sparrow's Inn Daily Report\" by 50% [Event Only]"
+  },
+  {
+    "id": 940091,
+    "detail": "Increase Cedar Lumber, Cypress Lumber, and Keyaki Lumber amount per drop by 1 & increase Bond gained when completing quests in \"Sparrow's Inn Daily Report\" by 20% [Event Only]",
+    "detailShort": "Increase Cedar Lumber, Cypress Lumber, and Keyaki Lumber amount per drop by 1 & increase Bond gained when completing quests in \"Sparrow's Inn Daily Report\" by 20% [Event Only]"
+  },
+  {
+    "id": 940092,
+    "detail": "Increase Cedar Lumber, Cypress Lumber, and Keyaki Lumber amount per drop by 1 & increase Bond gained for all allies <including sub-members> when completing quests in \"Sparrow's Inn Daily Report\" by 5% (No effect when equipped as Support) [Event Only]",
+    "detailShort": "Increase Cedar Lumber, Cypress Lumber, and Keyaki Lumber amount per drop by 1 & increase Bond gained for all allies <including sub-members> when completing quests in \"Sparrow's Inn Daily Report\" by 5% (No effect when equipped as Support) [Event Only]"
+  },
+  {
+    "id": 940093,
+    "detail": "Increase Keyaki Lumber amount per drop by 1 [Event Only]",
+    "detailShort": "Increase Keyaki Lumber amount per drop by 1 [Event Only]"
+  },
+  {
+    "id": 940094,
+    "detail": "Increase Cypress Lumber amount per drop by 1 [Event Only]",
+    "detailShort": "Increase Cypress Lumber amount per drop by 1 [Event Only]"
+  },
+  {
+    "id": 940095,
+    "detail": "Increase Cedar Lumber amount per drop by 1 [Event Only]",
+    "detailShort": "Increase Cedar Lumber amount per drop by 1 [Event Only]"
+  },
+  {
     "id": 960502,
     "detail": "Increase your ATK Strength by 20% in \"Final Singularity: The Grand Temple of Time Solomon\"",
     "detailShort": "Increase your ATK Strength by 20% in \"Final Singularity: The Grand Temple of Time Solomon\""
@@ -4653,6 +4738,21 @@
     "id": 980039,
     "detail": "Increase Buff Removal Resist [{0}] (1 turn) & NP Gauge for a single ally ",
     "detailShort": "Increase Buff Removal Resist [{0}] (1 turn) & NP Gauge for a single ally "
+  },
+  {
+    "id": 980040,
+    "detail": "Increase all allies' NP Strength [{0}] (1 turn)",
+    "detailShort": "Increase all allies' NP Strength [{0}] (1 turn)"
+  },
+  {
+    "id": 980041,
+    "detail": "Increase NP Gauge + gain C. Stars [{0}] for one ally",
+    "detailShort": "Increase NP Gauge + gain C. Stars [{0}] for one ally"
+  },
+  {
+    "id": 980042,
+    "detail": "Increase Max HP [{0}] (1 turn) for one ally",
+    "detailShort": "Increase Max HP [{0}] (1 turn) for one ally"
   },
   {
     "id": 980064,
@@ -11850,14 +11950,114 @@
     "detailShort": "Gain 4 C. Stars when attacking with the engraved Card"
   },
   {
+    "id": 991571,
+    "detail": "Increase Quick Card effectiveness by 8% for yourself",
+    "detailShort": "Increase Quick Card effectiveness by 8% for yourself"
+  },
+  {
     "id": 991572,
     "detail": "No Effect",
     "detailShort": "No Effect"
   },
   {
+    "id": 991573,
+    "detail": "Increase Arts Card effectiveness by 10% & increase NP Gain by 10% & NP Strength by 15% for yourself",
+    "detailShort": "Increase Arts Card effectiveness by 10% & increase NP Gain by 10% & NP Strength by 15% for yourself"
+  },
+  {
+    "id": 991574,
+    "detail": "Increase Arts Card effectiveness by 15% & increase NP Gain by 15% & NP Strength by 20% for yourself [MAX]",
+    "detailShort": "Increase Arts Card effectiveness by 15% & increase NP Gain by 15% & NP Strength by 20% for yourself [MAX]"
+  },
+  {
+    "id": 991575,
+    "detail": "Increase Bounty of the Sparrow amount per drop by 1 [Event Only]",
+    "detailShort": "Increase Bounty of the Sparrow amount per drop by 1 [Event Only]"
+  },
+  {
+    "id": 991576,
+    "detail": "Increase Bounty of the Sparrow amount per drop by 2 [MAX] [Event Only]",
+    "detailShort": "Increase Bounty of the Sparrow amount per drop by 2 [MAX] [Event Only]"
+  },
+  {
+    "id": 991577,
+    "detail": "Increase Quick Card effectiveness by 6% & Arts Card effectiveness by 6% & increase NP Gauge by 4% each turn for yourself",
+    "detailShort": "Increase Quick Card effectiveness by 6% & Arts Card effectiveness by 6% & increase NP Gauge by 4% each turn for yourself"
+  },
+  {
+    "id": 991578,
+    "detail": "Increase Quick Card effectiveness by 8% & Arts Card effectiveness by 8% & increase NP Gauge by 5% each turn for yourself [MAX]",
+    "detailShort": "Increase Quick Card effectiveness by 8% & Arts Card effectiveness by 8% & increase NP Gauge by 5% each turn for yourself [MAX]"
+  },
+  {
+    "id": 991579,
+    "detail": "Increase Bounty of the River amount per drop by 1 [Event Only]",
+    "detailShort": "Increase Bounty of the River amount per drop by 1 [Event Only]"
+  },
+  {
+    "id": 991580,
+    "detail": "Increase Bounty of the River amount per drop by 2 [MAX] [Event Only]",
+    "detailShort": "Increase Bounty of the River amount per drop by 2 [MAX] [Event Only]"
+  },
+  {
+    "id": 991581,
+    "detail": "Increase the amount of QP earned by 2021 when completing quests",
+    "detailShort": "Increase the amount of QP earned by 2021 when completing quests"
+  },
+  {
+    "id": 991582,
+    "detail": "Increase the amount of QP earned by 2021 when completing quests + Increase Debuff Resist by 2.1% for yourself [MAX]",
+    "detailShort": "Increase the amount of QP earned by 2021 when completing quests + Increase Debuff Resist by 2.1% for yourself [MAX]"
+  },
+  {
+    "id": 991583,
+    "detail": "Increase Bounty of the Mountains amount per drop by 1 [Event Only]",
+    "detailShort": "Increase Bounty of the Mountains amount per drop by 1 [Event Only]"
+  },
+  {
+    "id": 991584,
+    "detail": "Increase Bounty of the Mountains amount per drop by 2 [MAX] [Event Only]",
+    "detailShort": "Increase Bounty of the Mountains amount per drop by 2 [MAX] [Event Only]"
+  },
+  {
+    "id": 991585,
+    "detail": "Increase Quick Card effectiveness by 6% & Arts Card effectiveness by 6% & Buster Card effectiveness by 6% & begin battle with NP charged at 30% for yourself",
+    "detailShort": "Increase Quick Card effectiveness by 6% & Arts Card effectiveness by 6% & increase Buster Card effectiveness by 6% & begin battle with NP charged at 30% for yourself"
+  },
+  {
+    "id": 991586,
+    "detail": "Increase Quick Card effectiveness by 8% & Arts Card effectiveness by 8% & Buster Card effectiveness by 8% & begin battle with NP charged at 50% for yourself [MAX]",
+    "detailShort": "Increase Quick Card effectiveness by 8% & Arts Card effectiveness by 8% & increase Buster Card effectiveness by 8% & begin battle with NP charged at 50% for yourself [MAX]"
+  },
+  {
+    "id": 991588,
+    "detail": "Increase Lumber amount per drop by 1 [Event Only]",
+    "detailShort": "Increase Lumber amount per drop by 1 [Event Only]"
+  },
+  {
+    "id": 991589,
+    "detail": "Increase Lumber amount per drop by 2 [MAX] [Event Only]",
+    "detailShort": "Increase Lumber amount per drop by 2 [MAX] [Event Only]"
+  },
+  {
+    "id": 991590,
+    "detail": "Apply 15% Special Attack [Chaotic] and 15% Special Attack [Evil] to all allies only if [servantName 103700] (Saber) is equipped with this Craft Essence when she is on the field.",
+    "detailShort": "Apply 15% Special Attack [Chaotic] and 15% Special Attack [Evil] to all allies only if [servantName 103700](Saber) is equipped with this Craft Essence when she is on the field."
+  },
+  {
     "id": 991591,
     "detail": "Inflict Curse (500 damage, 3 turns) to a single enemy when attacking with the engraved Card",
     "detailShort": "Inflict Curse (500 damage, 3 turns) to a single enemy when attacking with the engraved Card"
+  },
+  {
+    "id": 991592,
+    "detail": "Apply Immobilize Immune (1 time, 2 turns) to yourself when attacking with the engraved Card",
+    "detailShort": "Apply Immobolize Immune (1 time, 2 turns) to yourself when attacking with the engraved Card"
+  },
+  {
+    "id": 991593,
+    "detail": "Increase HP Recovery amount by 50% (1 time, 2 turns) for yourself when attacking with the engraved Card",
+    "detailShort": "Increase HP Recovery amount by 50% (1 time, 2 turns) for yourself when attacking with the engraved Card"
   },
   {
     "id": 991595,
