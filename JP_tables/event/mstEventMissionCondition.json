@@ -62483,17 +62483,17 @@
   },
   {
     "targetIds": [
-      0
+      8031005
     ],
     "missionId": 8031006,
-    "missionProgressType": 2,
+    "missionProgressType": 4,
     "priority": 0,
-    "id": 8030609,
+    "id": 8030610,
     "missionTargetId": 80310,
     "condGroup": 1,
-    "condType": 12,
-    "targetNum": 1609599600,
-    "conditionMessage": "???\n※「1/3 00:00」に開放",
+    "condType": 22,
+    "targetNum": 3,
+    "conditionMessage": "【⑤】『幸運A+』のサーヴァントを3騎倒せ",
     "closedMessage": "",
     "flag": 0
   },
@@ -62526,6 +62526,22 @@
     "condType": 12,
     "targetNum": 1609599600,
     "conditionMessage": "???\n※「1/3 00:00」に開放",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      8031007
+    ],
+    "missionId": 8031008,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 8030613,
+    "missionTargetId": 80310,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 1,
+    "conditionMessage": "【⑦】戦利品で『玉』のアイテムを1個集めろ",
     "closedMessage": "",
     "flag": 0
   },
@@ -62670,6 +62686,22 @@
     "condType": 12,
     "targetNum": 1609599600,
     "conditionMessage": "???\n※「1/3 00:00」に開放",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      8031014
+    ],
+    "missionId": 8031015,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 8030625,
+    "missionTargetId": 80310,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 1,
+    "conditionMessage": "【⑭】戦利品で『金色』のアイテムを1個集めろ",
     "closedMessage": "",
     "flag": 0
   },
