@@ -62388,6 +62388,139 @@
   },
   {
     "targetIds": [
+      2001611,
+      2001612,
+      2001613,
+      2001614,
+      2001615,
+      2001616
+    ],
+    "missionId": 2001610,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001815,
+    "missionTargetId": 100233,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 6,
+    "conditionMessage": "今週のマスターミッションをすべてクリアせよ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001229
+    ],
+    "missionId": 2001611,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001816,
+    "missionTargetId": 100233,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 30,
+    "conditionMessage": "フレンドポイント召喚を30回実行せよ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001230
+    ],
+    "missionId": 2001612,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001817,
+    "missionTargetId": 100233,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 5,
+    "conditionMessage": "サーヴァントを5騎倒せ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001612
+    ],
+    "missionId": 2001613,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 2001818,
+    "missionTargetId": 100233,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 1,
+    "conditionMessage": "サーヴァントを10騎倒せ",
+    "closedMessage": "",
+    "flag": 64
+  },
+  {
+    "targetIds": [
+      2001230
+    ],
+    "missionId": 2001613,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001819,
+    "missionTargetId": 100233,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 10,
+    "conditionMessage": "サーヴァントを10騎倒せ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001231
+    ],
+    "missionId": 2001614,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001820,
+    "missionTargetId": 100233,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "『竜』特性を持つ敵を15体倒せ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001232
+    ],
+    "missionId": 2001615,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001821,
+    "missionTargetId": 100233,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "『死霊』特性を持つ敵を15体倒せ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001233
+    ],
+    "missionId": 2001616,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001822,
+    "missionTargetId": 100233,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "『猛獣』特性を持つ敵を15体倒せ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
       8031002,
       8031003,
       8031004,
@@ -62435,17 +62568,17 @@
   },
   {
     "targetIds": [
-      0
+      8031002
     ],
     "missionId": 8031003,
-    "missionProgressType": 2,
+    "missionProgressType": 4,
     "priority": 0,
-    "id": 8030604,
+    "id": 8030605,
     "missionTargetId": 80310,
     "condGroup": 1,
-    "condType": 12,
-    "targetNum": 1609686000,
-    "conditionMessage": "???\n※「1/4 00:00」に開放",
+    "condType": 22,
+    "targetNum": 3,
+    "conditionMessage": "【②】『善』属性を持つサーヴァントを3騎倒せ",
     "closedMessage": "",
     "flag": 0
   },
@@ -62558,6 +62691,22 @@
     "condType": 12,
     "targetNum": 1609686000,
     "conditionMessage": "???\n※「1/4 00:00」に開放",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      8031008
+    ],
+    "missionId": 8031009,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 8030615,
+    "missionTargetId": 80310,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 1,
+    "conditionMessage": "【⑧】『和風』のサーヴァントを1騎以上編成して、いずれかのクエストを１回クリアせよ",
     "closedMessage": "",
     "flag": 0
   },
