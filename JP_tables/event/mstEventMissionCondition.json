@@ -62584,17 +62584,17 @@
   },
   {
     "targetIds": [
-      0
+      8031003
     ],
     "missionId": 8031004,
-    "missionProgressType": 2,
+    "missionProgressType": 4,
     "priority": 0,
-    "id": 8030606,
+    "id": 8030607,
     "missionTargetId": 80310,
     "condGroup": 1,
-    "condType": 12,
-    "targetNum": 1609772400,
-    "conditionMessage": "???\n※「1/5 00:00」に開放",
+    "condType": 22,
+    "targetNum": 3,
+    "conditionMessage": "【③】『和風』のサーヴァントまたは人間の敵を3体倒せ",
     "closedMessage": "",
     "flag": 0
   },
@@ -62739,6 +62739,22 @@
     "condType": 12,
     "targetNum": 1609772400,
     "conditionMessage": "???\n※「1/5 00:00」に開放",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      8031010
+    ],
+    "missionId": 8031011,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 8030618,
+    "missionTargetId": 80310,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 1,
+    "conditionMessage": "【⑩】『善』属性を持つサーヴァントを1騎以上編成して、いずれかのクエストを1回クリアせよ",
     "closedMessage": "",
     "flag": 0
   },
