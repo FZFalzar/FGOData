@@ -32891,6 +32891,39 @@
       10
     ],
     "targetIds": [
+      1100900
+    ],
+    "script": {},
+    "id": 4000546,
+    "baseShopId": 4000397,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 777,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "スペース・イシュタル",
+    "detail": "期間限定★5サーヴァントへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1609923600,
+    "closedAt": 1611115199
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
       104900
     ],
     "script": {},
@@ -185272,5 +185305,1749 @@
     "bgImageId": 80306,
     "openedAt": 1608109200,
     "closedAt": 1609905599
+  },
+  {
+    "itemIds": [
+      94054804
+    ],
+    "prices": [
+      70
+    ],
+    "targetIds": [
+      94054811
+    ],
+    "script": {
+      "addMessage": "「テキサス・ビヨンド」に\nクエストが開放されました。"
+    },
+    "id": 80308001,
+    "baseShopId": 80308001,
+    "eventId": 80308,
+    "slot": 1,
+    "flag": 0,
+    "priority": 10,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "宇宙のおにぎりの手配書",
+    "detail": "賞金首をハントする権利を手に入れる\n賞金額 1,500,000QP",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 8026001,
+    "openedAt": 1609923600,
+    "closedAt": 1611115199
+  },
+  {
+    "itemIds": [
+      94054804
+    ],
+    "prices": [
+      90
+    ],
+    "targetIds": [
+      94054817
+    ],
+    "script": {
+      "addMessage": "「テキサス・ビヨンド」に\nクエストが開放されました。"
+    },
+    "id": 80308002,
+    "baseShopId": 80308002,
+    "eventId": 80308,
+    "slot": 1,
+    "flag": 0,
+    "priority": 20,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "スカルキーパーの手配書",
+    "detail": "賞金首をハントする権利を手に入れる\n賞金額 1,700,000QP",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 8026001,
+    "openedAt": 1609923600,
+    "closedAt": 1611115199
+  },
+  {
+    "itemIds": [
+      94054804
+    ],
+    "prices": [
+      110
+    ],
+    "targetIds": [
+      94054818
+    ],
+    "script": {
+      "addMessage": "「テキサス・ビヨンド」に\nクエストが開放されました。"
+    },
+    "id": 80308003,
+    "baseShopId": 80308003,
+    "eventId": 80308,
+    "slot": 1,
+    "flag": 0,
+    "priority": 30,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "絶対正義セイントマルタの手配書",
+    "detail": "賞金首をハントする権利を手に入れる\n賞金額 2,000,000QP",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 8026001,
+    "openedAt": 1609923600,
+    "closedAt": 1611115199
+  },
+  {
+    "itemIds": [
+      94054804
+    ],
+    "prices": [
+      130
+    ],
+    "targetIds": [
+      94054819
+    ],
+    "script": {
+      "addMessage": "「ビッグ・ブルー・タンク」に\nクエストが開放されました。"
+    },
+    "id": 80308004,
+    "baseShopId": 80308004,
+    "eventId": 80308,
+    "slot": 1,
+    "flag": 0,
+    "priority": 40,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "カイザーオリジンの手配書",
+    "detail": "賞金首をハントする権利を手に入れる\n賞金額 2,300,000QP",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 8026001,
+    "openedAt": 1609923600,
+    "closedAt": 1611115199
+  },
+  {
+    "itemIds": [
+      94054804
+    ],
+    "prices": [
+      150
+    ],
+    "targetIds": [
+      94054820
+    ],
+    "script": {
+      "addMessage": "「ビッグ・ブルー・タンク」に\nクエストが開放されました。"
+    },
+    "id": 80308005,
+    "baseShopId": 80308005,
+    "eventId": 80308,
+    "slot": 1,
+    "flag": 0,
+    "priority": 50,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "宇宙怪盗ツインパイレーツの手配書",
+    "detail": "賞金首をハントする権利を手に入れる\n賞金額 2,600,000QP",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 8026001,
+    "openedAt": 1609923600,
+    "closedAt": 1611115199
+  },
+  {
+    "itemIds": [
+      94054804
+    ],
+    "prices": [
+      180
+    ],
+    "targetIds": [
+      94054821
+    ],
+    "script": {
+      "addMessage": "「アビス・サルガッソー」に\nクエストが開放されました。"
+    },
+    "id": 80308006,
+    "baseShopId": 80308006,
+    "eventId": 80308,
+    "slot": 1,
+    "flag": 0,
+    "priority": 60,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "最可愛良妻コスタマモの手配書",
+    "detail": "賞金首をハントする権利を手に入れる\n賞金額 2,800,000QP",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 8026001,
+    "openedAt": 1609923600,
+    "closedAt": 1611115199
+  },
+  {
+    "itemIds": [
+      94054804
+    ],
+    "prices": [
+      220
+    ],
+    "targetIds": [
+      94054822
+    ],
+    "script": {
+      "addMessage": "「ゼンジョー」に\nクエストが開放されました。"
+    },
+    "id": 80308007,
+    "baseShopId": 80308007,
+    "eventId": 80308,
+    "slot": 1,
+    "flag": 0,
+    "priority": 70,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "パオペエ先生の手配書",
+    "detail": "賞金首をハントする権利を手に入れる\n賞金額 3,100,000QP",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 8026001,
+    "openedAt": 1609923600,
+    "closedAt": 1611115199
+  },
+  {
+    "itemIds": [
+      94054804
+    ],
+    "prices": [
+      260
+    ],
+    "targetIds": [
+      94054823
+    ],
+    "script": {
+      "addMessage": "「ゼンジョー」に\nクエストが開放されました。"
+    },
+    "id": 80308008,
+    "baseShopId": 80308008,
+    "eventId": 80308,
+    "slot": 1,
+    "flag": 0,
+    "priority": 80,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "いたずら上手のアビーちゃんの手配書",
+    "detail": "賞金首をハントする権利を手に入れる\n賞金額 3,300,000QP",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 8026001,
+    "openedAt": 1609923600,
+    "closedAt": 1611115199
+  },
+  {
+    "itemIds": [
+      94054804
+    ],
+    "prices": [
+      280
+    ],
+    "targetIds": [
+      94054824
+    ],
+    "script": {
+      "addMessage": "「グリーン・キッチン」に\nクエストが開放されました。"
+    },
+    "id": 80308009,
+    "baseShopId": 80308009,
+    "eventId": 80308,
+    "slot": 1,
+    "flag": 0,
+    "priority": 90,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "毒料理マスターの手配書",
+    "detail": "賞金首をハントする権利を手に入れる\n賞金額 3,600,000QP",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 8026001,
+    "openedAt": 1609923600,
+    "closedAt": 1611115199
+  },
+  {
+    "itemIds": [
+      94054804
+    ],
+    "prices": [
+      320
+    ],
+    "targetIds": [
+      94054825
+    ],
+    "script": {
+      "addMessage": "「グリーン・キッチン」に\nクエストが開放されました。"
+    },
+    "id": 80308010,
+    "baseShopId": 80308010,
+    "eventId": 80308,
+    "slot": 1,
+    "flag": 0,
+    "priority": 100,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "孤独のオキタの手配書",
+    "detail": "賞金首をハントする権利を手に入れる\n賞金額 3,900,000QP",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 8026001,
+    "openedAt": 1609923600,
+    "closedAt": 1611115199
+  },
+  {
+    "itemIds": [
+      94054804
+    ],
+    "prices": [
+      200
+    ],
+    "targetIds": [
+      94054807
+    ],
+    "script": {
+      "addMessage": "「アビス・サルガッソー」に\nクエストが開放されました。"
+    },
+    "id": 80308011,
+    "baseShopId": 80308011,
+    "eventId": 80308,
+    "slot": 1,
+    "flag": 0,
+    "priority": 110,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "スペース・キャットの手配書",
+    "detail": "賞金首をハントする権利を手に入れる\n賞金額 2,500,000QP",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 8026001,
+    "openedAt": 1609923600,
+    "closedAt": 1611115199
+  },
+  {
+    "itemIds": [
+      94054804
+    ],
+    "prices": [
+      350
+    ],
+    "targetIds": [
+      94054808
+    ],
+    "script": {
+      "addMessage": "「グリーン・キッチン」に\nクエストが開放されました。"
+    },
+    "id": 80308012,
+    "baseShopId": 80308012,
+    "eventId": 80308,
+    "slot": 1,
+    "flag": 0,
+    "priority": 120,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "スペーストシゾーの手配書",
+    "detail": "賞金首をハントする権利を手に入れる\n賞金額 3,000,000QP",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 8026001,
+    "openedAt": 1609923600,
+    "closedAt": 1611115199
+  },
+  {
+    "itemIds": [
+      94054804
+    ],
+    "prices": [
+      400
+    ],
+    "targetIds": [
+      94054806
+    ],
+    "script": {
+      "addMessage": "「ゼンジョー」に\nクエストが開放されました。"
+    },
+    "id": 80308013,
+    "baseShopId": 80308013,
+    "eventId": 80308,
+    "slot": 1,
+    "flag": 0,
+    "priority": 130,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "デミ・フェットの手配書",
+    "detail": "賞金首をハントする権利を手に入れる\n賞金額 3,500,000QP",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 8026001,
+    "openedAt": 1609923600,
+    "closedAt": 1611115199
+  },
+  {
+    "itemIds": [
+      94054804
+    ],
+    "prices": [
+      500
+    ],
+    "targetIds": [
+      94054809
+    ],
+    "script": {
+      "addMessage": "「秘匿要塞デスチェイテ」に\nクエストが開放されました。"
+    },
+    "id": 80308014,
+    "baseShopId": 80308014,
+    "eventId": 80308,
+    "slot": 1,
+    "flag": 0,
+    "priority": 140,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "キングエリchanの手配書",
+    "detail": "賞金首をハントする権利を手に入れる\n賞金額 5,000,000QP",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 8026001,
+    "openedAt": 1609923600,
+    "closedAt": 1611115199
+  },
+  {
+    "itemIds": [
+      94054803
+    ],
+    "prices": [
+      200
+    ],
+    "targetIds": [
+      110090011
+    ],
+    "script": {},
+    "id": 80308016,
+    "baseShopId": 80308016,
+    "eventId": 80308,
+    "slot": 1,
+    "flag": 256,
+    "priority": 1,
+    "purchaseType": 14,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "簡易霊衣「アシュタレト・オリジン」開放権",
+    "detail": "スペース・イシュタル簡易霊衣\n「アシュタレト・オリジン」開放権へ交換",
+    "infoMessage": "簡易霊衣：アシュタレト・オリジンの開放権を\n獲得できます。",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80260,
+    "openedAt": 1609923600,
+    "closedAt": 1611719999
+  },
+  {
+    "itemIds": [
+      94054803
+    ],
+    "prices": [
+      200
+    ],
+    "targetIds": [
+      60180011
+    ],
+    "script": {},
+    "id": 80308017,
+    "baseShopId": 80308017,
+    "eventId": 80308,
+    "slot": 1,
+    "flag": 256,
+    "priority": 5,
+    "purchaseType": 14,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "簡易霊衣「謎のヒロインZ」開放権",
+    "detail": "謎のヒロインX簡易霊衣\n「謎のヒロインZ」開放権へ交換",
+    "infoMessage": "簡易霊衣：謎のヒロインZの開放権を\n獲得できます。",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80260,
+    "openedAt": 1609923600,
+    "closedAt": 1611719999
+  },
+  {
+    "itemIds": [
+      94054803
+    ],
+    "prices": [
+      100
+    ],
+    "targetIds": [
+      9404160
+    ],
+    "script": {},
+    "id": 80308018,
+    "baseShopId": 80308018,
+    "eventId": 80308,
+    "slot": 1,
+    "flag": 0,
+    "priority": 300,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 2,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "双つ星の歌姫",
+    "detail": "【ライト版価格】\nセイバーウォーズ2限定★5概念礼装へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80260,
+    "openedAt": 1609923600,
+    "closedAt": 1611719999
+  },
+  {
+    "itemIds": [
+      94054802
+    ],
+    "prices": [
+      100
+    ],
+    "targetIds": [
+      9404160
+    ],
+    "script": {},
+    "id": 80308019,
+    "baseShopId": 80308019,
+    "eventId": 80308,
+    "slot": 1,
+    "flag": 0,
+    "priority": 310,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "双つ星の歌姫",
+    "detail": "【ライト版価格】\nセイバーウォーズ2限定★5概念礼装へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80260,
+    "openedAt": 1609923600,
+    "closedAt": 1611719999
+  },
+  {
+    "itemIds": [
+      94054801
+    ],
+    "prices": [
+      100
+    ],
+    "targetIds": [
+      9404160
+    ],
+    "script": {},
+    "id": 80308020,
+    "baseShopId": 80308020,
+    "eventId": 80308,
+    "slot": 1,
+    "flag": 0,
+    "priority": 320,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "双つ星の歌姫",
+    "detail": "【ライト版価格】\nセイバーウォーズ2限定★5概念礼装へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80260,
+    "openedAt": 1609923600,
+    "closedAt": 1611719999
+  },
+  {
+    "itemIds": [
+      94054803
+    ],
+    "prices": [
+      200
+    ],
+    "targetIds": [
+      9570400
+    ],
+    "script": {},
+    "id": 80308021,
+    "baseShopId": 80308021,
+    "eventId": 80308,
+    "slot": 1,
+    "flag": 0,
+    "priority": 400,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "英霊結晶・流星のフォウくん",
+    "detail": "★4ALLのHPアップカード1枚へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80260,
+    "openedAt": 1609923600,
+    "closedAt": 1611719999
+  },
+  {
+    "itemIds": [
+      94054801
+    ],
+    "prices": [
+      200
+    ],
+    "targetIds": [
+      9570400
+    ],
+    "script": {},
+    "id": 80308022,
+    "baseShopId": 80308022,
+    "eventId": 80308,
+    "slot": 1,
+    "flag": 0,
+    "priority": 410,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "英霊結晶・流星のフォウくん",
+    "detail": "★4ALLのHPアップカード1枚へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80260,
+    "openedAt": 1609923600,
+    "closedAt": 1611719999
+  },
+  {
+    "itemIds": [
+      94054803
+    ],
+    "prices": [
+      200
+    ],
+    "targetIds": [
+      9670400
+    ],
+    "script": {},
+    "id": 80308023,
+    "baseShopId": 80308023,
+    "eventId": 80308,
+    "slot": 1,
+    "flag": 0,
+    "priority": 420,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "英霊結晶・日輪のフォウくん",
+    "detail": "★4ALLのATKアップカード1枚へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80260,
+    "openedAt": 1609923600,
+    "closedAt": 1611719999
+  },
+  {
+    "itemIds": [
+      94054802
+    ],
+    "prices": [
+      200
+    ],
+    "targetIds": [
+      9670400
+    ],
+    "script": {},
+    "id": 80308024,
+    "baseShopId": 80308024,
+    "eventId": 80308,
+    "slot": 1,
+    "flag": 0,
+    "priority": 430,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "英霊結晶・日輪のフォウくん",
+    "detail": "★4ALLのATKアップカード1枚へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80260,
+    "openedAt": 1609923600,
+    "closedAt": 1611719999
+  },
+  {
+    "itemIds": [
+      94054803
+    ],
+    "prices": [
+      100
+    ],
+    "targetIds": [
+      5003
+    ],
+    "script": {},
+    "id": 80308025,
+    "baseShopId": 80308025,
+    "eventId": 80308,
+    "slot": 1,
+    "flag": 0,
+    "priority": 500,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "コード・リムーバー",
+    "detail": "【コマンドコードスロット削除アイテム】へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80260,
+    "openedAt": 1609923600,
+    "closedAt": 1611719999
+  },
+  {
+    "itemIds": [
+      94054802
+    ],
+    "prices": [
+      100
+    ],
+    "targetIds": [
+      5003
+    ],
+    "script": {},
+    "id": 80308026,
+    "baseShopId": 80308026,
+    "eventId": 80308,
+    "slot": 1,
+    "flag": 0,
+    "priority": 510,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "コード・リムーバー",
+    "detail": "【コマンドコードスロット削除アイテム】へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80260,
+    "openedAt": 1609923600,
+    "closedAt": 1611719999
+  },
+  {
+    "itemIds": [
+      94054802
+    ],
+    "prices": [
+      50
+    ],
+    "targetIds": [
+      9807210
+    ],
+    "script": {},
+    "id": 80308027,
+    "baseShopId": 80308027,
+    "eventId": 80308,
+    "slot": 1,
+    "flag": 0,
+    "priority": 600,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 10,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "はじめてのカレー",
+    "detail": "セイバーウォーズ2限定★4概念礼装へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80260,
+    "openedAt": 1609923600,
+    "closedAt": 1611719999
+  },
+  {
+    "itemIds": [
+      94054801
+    ],
+    "prices": [
+      25
+    ],
+    "targetIds": [
+      9807220
+    ],
+    "script": {},
+    "id": 80308028,
+    "baseShopId": 80308028,
+    "eventId": 80308,
+    "slot": 1,
+    "flag": 0,
+    "priority": 610,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 10,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "謎の物質γ",
+    "detail": "セイバーウォーズ2限定★3概念礼装へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80260,
+    "openedAt": 1609923600,
+    "closedAt": 1611719999
+  },
+  {
+    "itemIds": [
+      94054801
+    ],
+    "prices": [
+      20
+    ],
+    "targetIds": [
+      9570300
+    ],
+    "script": {},
+    "id": 80308029,
+    "baseShopId": 80308029,
+    "eventId": 80308,
+    "slot": 1,
+    "flag": 0,
+    "priority": 700,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "英霊結晶・星のフォウくん",
+    "detail": "★3ALLのHPアップカード1枚へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80260,
+    "openedAt": 1609923600,
+    "closedAt": 1611719999
+  },
+  {
+    "itemIds": [
+      94054801
+    ],
+    "prices": [
+      20
+    ],
+    "targetIds": [
+      9670300
+    ],
+    "script": {},
+    "id": 80308030,
+    "baseShopId": 80308030,
+    "eventId": 80308,
+    "slot": 1,
+    "flag": 0,
+    "priority": 710,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "英霊結晶・太陽のフォウくん",
+    "detail": "★3ALLのATKアップカード1枚へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80260,
+    "openedAt": 1609923600,
+    "closedAt": 1611719999
+  },
+  {
+    "itemIds": [
+      94054801
+    ],
+    "prices": [
+      6
+    ],
+    "targetIds": [
+      9770400
+    ],
+    "script": {},
+    "id": 80308031,
+    "baseShopId": 80308031,
+    "eventId": 80308,
+    "slot": 1,
+    "flag": 0,
+    "priority": 720,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 100,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "叡智の猛火",
+    "detail": "★4ALLの経験値カード1枚へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80260,
+    "openedAt": 1609923600,
+    "closedAt": 1611719999
+  },
+  {
+    "itemIds": [
+      94054801
+    ],
+    "prices": [
+      3
+    ],
+    "targetIds": [
+      9770300
+    ],
+    "script": {},
+    "id": 80308032,
+    "baseShopId": 80308032,
+    "eventId": 80308,
+    "slot": 1,
+    "flag": 0,
+    "priority": 730,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 100,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "叡智の大火",
+    "detail": "★3ALLの経験値カード1枚へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80260,
+    "openedAt": 1609923600,
+    "closedAt": 1611719999
+  },
+  {
+    "itemIds": [
+      94054803
+    ],
+    "prices": [
+      40
+    ],
+    "targetIds": [
+      6540
+    ],
+    "script": {},
+    "id": 80308033,
+    "baseShopId": 80308033,
+    "eventId": 80308,
+    "slot": 1,
+    "flag": 0,
+    "priority": 800,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 10,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "九十九鏡",
+    "detail": "【スキル強化＆霊基再臨素材】へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80260,
+    "openedAt": 1609923600,
+    "closedAt": 1611719999
+  },
+  {
+    "itemIds": [
+      94054803
+    ],
+    "prices": [
+      40
+    ],
+    "targetIds": [
+      6525
+    ],
+    "script": {},
+    "id": 80308034,
+    "baseShopId": 80308034,
+    "eventId": 80308,
+    "slot": 1,
+    "flag": 0,
+    "priority": 810,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 10,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "智慧のスカラベ",
+    "detail": "【スキル強化＆霊基再臨素材】へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80260,
+    "openedAt": 1609923600,
+    "closedAt": 1611719999
+  },
+  {
+    "itemIds": [
+      94054803
+    ],
+    "prices": [
+      30
+    ],
+    "targetIds": [
+      6541
+    ],
+    "script": {},
+    "id": 80308035,
+    "baseShopId": 80308035,
+    "eventId": 80308,
+    "slot": 1,
+    "flag": 0,
+    "priority": 820,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "禍罪の矢尻",
+    "detail": "【スキル強化＆霊基再臨素材】へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80260,
+    "openedAt": 1609923600,
+    "closedAt": 1611719999
+  },
+  {
+    "itemIds": [
+      94054802
+    ],
+    "prices": [
+      30
+    ],
+    "targetIds": [
+      6539
+    ],
+    "script": {},
+    "id": 80308036,
+    "baseShopId": 80308036,
+    "eventId": 80308,
+    "slot": 1,
+    "flag": 0,
+    "priority": 830,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "暁光炉心",
+    "detail": "【スキル強化＆霊基再臨素材】へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80260,
+    "openedAt": 1609923600,
+    "closedAt": 1611719999
+  },
+  {
+    "itemIds": [
+      94054802
+    ],
+    "prices": [
+      20
+    ],
+    "targetIds": [
+      6510
+    ],
+    "script": {},
+    "id": 80308037,
+    "baseShopId": 80308037,
+    "eventId": 80308,
+    "slot": 1,
+    "flag": 0,
+    "priority": 840,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "無間の歯車",
+    "detail": "【スキル強化＆霊基再臨素材】へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80260,
+    "openedAt": 1609923600,
+    "closedAt": 1611719999
+  },
+  {
+    "itemIds": [
+      94054802
+    ],
+    "prices": [
+      15
+    ],
+    "targetIds": [
+      6512
+    ],
+    "script": {},
+    "id": 80308038,
+    "baseShopId": 80308038,
+    "eventId": 80308,
+    "slot": 1,
+    "flag": 0,
+    "priority": 850,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 30,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "竜の牙",
+    "detail": "【スキル強化＆霊基再臨素材】へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80260,
+    "openedAt": 1609923600,
+    "closedAt": 1611719999
+  },
+  {
+    "itemIds": [
+      94054801
+    ],
+    "prices": [
+      20
+    ],
+    "targetIds": [
+      6515
+    ],
+    "script": {},
+    "id": 80308039,
+    "baseShopId": 80308039,
+    "eventId": 80308,
+    "slot": 1,
+    "flag": 0,
+    "priority": 860,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "八連双晶",
+    "detail": "【スキル強化＆霊基再臨素材】へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80260,
+    "openedAt": 1609923600,
+    "closedAt": 1611719999
+  },
+  {
+    "itemIds": [
+      94054801
+    ],
+    "prices": [
+      15
+    ],
+    "targetIds": [
+      6505
+    ],
+    "script": {},
+    "id": 80308040,
+    "baseShopId": 80308040,
+    "eventId": 80308,
+    "slot": 1,
+    "flag": 0,
+    "priority": 870,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 30,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "虚影の塵",
+    "detail": "【スキル強化＆霊基再臨素材】へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80260,
+    "openedAt": 1609923600,
+    "closedAt": 1611719999
+  },
+  {
+    "itemIds": [
+      94054801
+    ],
+    "prices": [
+      15
+    ],
+    "targetIds": [
+      6534
+    ],
+    "script": {},
+    "id": 80308041,
+    "baseShopId": 80308041,
+    "eventId": 80308,
+    "slot": 1,
+    "flag": 0,
+    "priority": 880,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 30,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "励振火薬",
+    "detail": "【スキル強化＆霊基再臨素材】へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80260,
+    "openedAt": 1609923600,
+    "closedAt": 1611719999
+  },
+  {
+    "itemIds": [
+      94054803
+    ],
+    "prices": [
+      20
+    ],
+    "targetIds": [
+      7101
+    ],
+    "script": {},
+    "id": 80308042,
+    "baseShopId": 80308042,
+    "eventId": 80308,
+    "slot": 1,
+    "flag": 0,
+    "priority": 900,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "セイバーモニュメント",
+    "detail": "【霊基再臨素材】へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80260,
+    "openedAt": 1609923600,
+    "closedAt": 1611719999
+  },
+  {
+    "itemIds": [
+      94054803
+    ],
+    "prices": [
+      20
+    ],
+    "targetIds": [
+      7102
+    ],
+    "script": {},
+    "id": 80308043,
+    "baseShopId": 80308043,
+    "eventId": 80308,
+    "slot": 1,
+    "flag": 0,
+    "priority": 910,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "アーチャーモニュメント",
+    "detail": "【霊基再臨素材】へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80260,
+    "openedAt": 1609923600,
+    "closedAt": 1611719999
+  },
+  {
+    "itemIds": [
+      94054803
+    ],
+    "prices": [
+      20
+    ],
+    "targetIds": [
+      7106
+    ],
+    "script": {},
+    "id": 80308044,
+    "baseShopId": 80308044,
+    "eventId": 80308,
+    "slot": 1,
+    "flag": 0,
+    "priority": 920,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "アサシンモニュメント",
+    "detail": "【霊基再臨素材】へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80260,
+    "openedAt": 1609923600,
+    "closedAt": 1611719999
+  },
+  {
+    "itemIds": [
+      94054802
+    ],
+    "prices": [
+      20
+    ],
+    "targetIds": [
+      7001
+    ],
+    "script": {},
+    "id": 80308045,
+    "baseShopId": 80308045,
+    "eventId": 80308,
+    "slot": 1,
+    "flag": 0,
+    "priority": 930,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "セイバーピース",
+    "detail": "【霊基再臨素材】へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80260,
+    "openedAt": 1609923600,
+    "closedAt": 1611719999
+  },
+  {
+    "itemIds": [
+      94054802
+    ],
+    "prices": [
+      20
+    ],
+    "targetIds": [
+      7002
+    ],
+    "script": {},
+    "id": 80308046,
+    "baseShopId": 80308046,
+    "eventId": 80308,
+    "slot": 1,
+    "flag": 0,
+    "priority": 940,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "アーチャーピース",
+    "detail": "【霊基再臨素材】へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80260,
+    "openedAt": 1609923600,
+    "closedAt": 1611719999
+  },
+  {
+    "itemIds": [
+      94054802
+    ],
+    "prices": [
+      20
+    ],
+    "targetIds": [
+      7006
+    ],
+    "script": {},
+    "id": 80308047,
+    "baseShopId": 80308047,
+    "eventId": 80308,
+    "slot": 1,
+    "flag": 0,
+    "priority": 950,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "アサシンピース",
+    "detail": "【霊基再臨素材】へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80260,
+    "openedAt": 1609923600,
+    "closedAt": 1611719999
+  },
+  {
+    "itemIds": [
+      94054802
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      94054803
+    ],
+    "script": {},
+    "id": 80308048,
+    "baseShopId": 80308048,
+    "eventId": 80308,
+    "slot": 1,
+    "flag": 0,
+    "priority": 1000,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 0,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "金のセイバーバッヂ",
+    "detail": "セイバーウォーズ2限定アイテム\n「金のセイバーバッヂ」へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80260,
+    "openedAt": 1609923600,
+    "closedAt": 1611719999
+  },
+  {
+    "itemIds": [
+      94054801
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      94054802
+    ],
+    "script": {},
+    "id": 80308049,
+    "baseShopId": 80308049,
+    "eventId": 80308,
+    "slot": 1,
+    "flag": 0,
+    "priority": 1010,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 0,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "銀のセイバーバッヂ",
+    "detail": "セイバーウォーズ2限定アイテム\n「銀のセイバーバッヂ」へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80260,
+    "openedAt": 1609923600,
+    "closedAt": 1611719999
+  },
+  {
+    "itemIds": [
+      94054803
+    ],
+    "prices": [
+      2
+    ],
+    "targetIds": [
+      1
+    ],
+    "script": {},
+    "id": 80308050,
+    "baseShopId": 80308050,
+    "eventId": 80308,
+    "slot": 1,
+    "flag": 0,
+    "priority": 1100,
+    "purchaseType": 1,
+    "setNum": 10000,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 0,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "10,000 QP",
+    "detail": "QPへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80260,
+    "openedAt": 1609923600,
+    "closedAt": 1611719999
+  },
+  {
+    "itemIds": [
+      94054804
+    ],
+    "prices": [
+      3
+    ],
+    "targetIds": [
+      1
+    ],
+    "script": {},
+    "id": 80308051,
+    "baseShopId": 80308051,
+    "eventId": 80308,
+    "slot": 1,
+    "flag": 0,
+    "priority": 1110,
+    "purchaseType": 1,
+    "setNum": 10000,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 0,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "10,000 QP",
+    "detail": "QPへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80260,
+    "openedAt": 1609923600,
+    "closedAt": 1611719999
+  },
+  {
+    "itemIds": [
+      94054804
+    ],
+    "prices": [
+      200
+    ],
+    "targetIds": [
+      9570400
+    ],
+    "script": {},
+    "id": 80308052,
+    "baseShopId": 80308052,
+    "eventId": 80308,
+    "slot": 1,
+    "flag": 0,
+    "priority": 399,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "英霊結晶・流星のフォウくん",
+    "detail": "★4ALLのHPアップカード1枚へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80260,
+    "openedAt": 1609923600,
+    "closedAt": 1611719999
+  },
+  {
+    "itemIds": [
+      94054804
+    ],
+    "prices": [
+      200
+    ],
+    "targetIds": [
+      9670400
+    ],
+    "script": {},
+    "id": 80308053,
+    "baseShopId": 80308053,
+    "eventId": 80308,
+    "slot": 1,
+    "flag": 0,
+    "priority": 419,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "英霊結晶・日輪のフォウくん",
+    "detail": "★4ALLのATKアップカード1枚へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80260,
+    "openedAt": 1609923600,
+    "closedAt": 1611719999
   }
 ]

@@ -26251,7 +26251,7 @@
     "id": 1893,
     "buffGroup": 0,
     "type": 105,
-    "name": "Busterカード耐性",
+    "name": "紅炎の羽毛",
     "detail": "太陽のジビエがフィールドにいる間、自身のBuster攻撃に対する耐性をアップ",
     "iconId": 347,
     "maxRate": 5000,
@@ -29686,7 +29686,7 @@
     "buffGroup": 0,
     "type": 86,
     "name": "セイバーバッヂ",
-    "detail": "自身のクラスを〔セイバー〕に変更する(防御弱体を受けると解除)",
+    "detail": "自身のクラスを〔セイバー〕に変更する(エネミーターン開始時に防御弱体状態になっていると解除)",
     "iconId": 520,
     "maxRate": 0,
     "effectId": 0
@@ -29750,7 +29750,7 @@
     "buffGroup": 0,
     "type": 76,
     "name": "遅延発動（偶像の再生）",
-    "detail": "3ターン経過後にイチが復活する",
+    "detail": "3ターン経過後にイチの復活の準備が整う",
     "iconId": 331,
     "maxRate": 0,
     "effectId": 0
@@ -29765,7 +29765,7 @@
     "buffGroup": 0,
     "type": 76,
     "name": "遅延発動（偶像の再生）",
-    "detail": "5ターン経過後にイチが復活する",
+    "detail": "5ターン経過後にイチの復活の準備が整う",
     "iconId": 331,
     "maxRate": 0,
     "effectId": 0
@@ -29780,7 +29780,7 @@
     "buffGroup": 0,
     "type": 76,
     "name": "遅延発動（勇者の再生）",
-    "detail": "3ターン経過後にニが復活する",
+    "detail": "3ターン経過後にニの復活の準備が整う",
     "iconId": 331,
     "maxRate": 0,
     "effectId": 0
@@ -29795,7 +29795,7 @@
     "buffGroup": 0,
     "type": 76,
     "name": "遅延発動（勇者の再生）",
-    "detail": "5ターン経過後にニが復活する",
+    "detail": "5ターン経過後にニの復活の準備が整う",
     "iconId": 331,
     "maxRate": 0,
     "effectId": 0
@@ -29810,7 +29810,7 @@
     "buffGroup": 0,
     "type": 76,
     "name": "遅延発動（魔女の再生）",
-    "detail": "3ターン経過後にサンが復活する",
+    "detail": "3ターン経過後にサンの復活の準備が整う",
     "iconId": 331,
     "maxRate": 0,
     "effectId": 0
@@ -29825,7 +29825,7 @@
     "buffGroup": 0,
     "type": 76,
     "name": "遅延発動（魔女の再生）",
-    "detail": "5ターン経過後にサンが復活する",
+    "detail": "5ターン経過後にサンの復活の準備が整う",
     "iconId": 331,
     "maxRate": 0,
     "effectId": 0
@@ -29916,7 +29916,7 @@
     "script": {},
     "id": 2564,
     "buffGroup": 0,
-    "type": 11,
+    "type": 112,
     "name": "威力アップ〔呪い〕",
     "detail": "〔呪い〕状態の敵に与えるダメージをアップ",
     "iconId": 302,
@@ -41914,6 +41914,36 @@
     "effectId": 0
   },
   {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3243,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "スペースハンター",
+    "detail": "『復刻:セイバーウォーズ２ ～始まりの宇宙へ～ ライト版』において与えるダメージをアップ",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3244,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "威力アップ",
+    "detail": "『復刻:セイバーウォーズ２ ～始まりの宇宙へ～ ライト版』において与えるダメージをアップ",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
     "vals": [
       3004,
       3061
@@ -42762,6 +42792,186 @@
   },
   {
     "vals": [
+      2583,
+      2588
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3294,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "",
+    "detail": "",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2585,
+      2588
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3295,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "",
+    "detail": "",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2587,
+      2588
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3296,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "",
+    "detail": "",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2584,
+      2588
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3297,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "",
+    "detail": "",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2586,
+      2588
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3298,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "",
+    "detail": "",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2583,
+      2588
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3299,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "",
+    "detail": "",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2585,
+      2588
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3300,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "",
+    "detail": "",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2587,
+      2588
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3301,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "",
+    "detail": "",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2584,
+      2588
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3302,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "",
+    "detail": "",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2586,
+      2588
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3303,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "",
+    "detail": "",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
       3023
     ],
     "tvals": [],
@@ -42847,6 +43057,57 @@
     "name": "",
     "detail": "",
     "iconId": 531,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2564
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3310,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "イチ復活準備",
+    "detail": "次の行動時にイチを復活させる",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2564
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3311,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "二復活準備",
+    "detail": "次の行動時に二を復活させる",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2564
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3312,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "サン復活準備",
+    "detail": "次の行動時にサンを復活させる",
+    "iconId": 520,
     "maxRate": 0,
     "effectId": 0
   },

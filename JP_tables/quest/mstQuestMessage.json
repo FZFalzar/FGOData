@@ -19688,5 +19688,126 @@
     "targetNum": 0,
     "frequencyType": 3,
     "displayType": 1
+  },
+  {
+    "questId": 94054802,
+    "phase": 1,
+    "idx": 0,
+    "message": "このクエストでは\nパーティ編成はバトルの直前に行います。\n\nクエストを開始しますか？",
+    "condType": 0,
+    "targetId": 0,
+    "targetNum": 0,
+    "frequencyType": 3,
+    "displayType": 1
+  },
+  {
+    "questId": 94054802,
+    "phase": 1,
+    "idx": 1,
+    "message": "【復刻:セイバーウォーズ２ ～始まりの宇宙へ～\n ライト版】は復刻イベントです。\n過去の【セイバーウォーズ２\n ～始まりの宇宙へ～】で\n『魔術礼装「キャプテン・カルデア」』\nを入手している場合、本イベントでは\n『マナプリズム 100個』\nに置き換わります。",
+    "condType": 25,
+    "targetId": 94041902,
+    "targetNum": 1,
+    "frequencyType": 1,
+    "displayType": 1
+  },
+  {
+    "questId": 94054803,
+    "phase": 2,
+    "idx": 0,
+    "message": "このクエストでは\nパーティ編成はバトルの直前に行います。\n\nクエストを開始しますか？",
+    "condType": 0,
+    "targetId": 0,
+    "targetNum": 0,
+    "frequencyType": 3,
+    "displayType": 1
+  },
+  {
+    "questId": 94054811,
+    "phase": 1,
+    "idx": 0,
+    "message": "このクエストでは\nパーティ編成はバトルの直前に行います。\n\nクエストを開始しますか？",
+    "condType": 0,
+    "targetId": 0,
+    "targetNum": 0,
+    "frequencyType": 3,
+    "displayType": 1
+  },
+  {
+    "questId": 94054812,
+    "phase": 1,
+    "idx": 0,
+    "message": "このクエストでは\nパーティ編成はバトルの直前に行います。\n\nクエストを開始しますか？",
+    "condType": 0,
+    "targetId": 0,
+    "targetNum": 0,
+    "frequencyType": 3,
+    "displayType": 1
+  },
+  {
+    "questId": 94054815,
+    "phase": 3,
+    "idx": 0,
+    "message": "このクエストでは\nパーティ編成はバトルの直前に行います。\n\nクエストを開始しますか？",
+    "condType": 36,
+    "targetId": 94054845,
+    "targetNum": 1,
+    "frequencyType": 3,
+    "displayType": 1
+  },
+  {
+    "questId": 94054816,
+    "phase": 1,
+    "idx": 1,
+    "message": "【復刻:セイバーウォーズ２ ～始まりの宇宙へ～ \nライト版】は復刻イベントです。\n過去の【セイバーウォーズ２\n ～始まりの宇宙へ～】で『聖杯』\nを入手している場合、本イベントでは\n『伝承結晶』\nに置き換わります。",
+    "condType": 25,
+    "targetId": 94041916,
+    "targetNum": 1,
+    "frequencyType": 1,
+    "displayType": 1
+  },
+  {
+    "questId": 94054860,
+    "phase": 1,
+    "idx": 1,
+    "message": "【復刻:セイバーウォーズ２ ～始まりの宇宙へ～\n ライト版】は復刻イベントです。\n過去の【セイバーウォーズ２ \n～始まりの宇宙へ～】で\n『コマンドコード「天の女主人」』\nを入手している場合、本イベントでは\n『レアプリズム 1個』\nに置き換わります。",
+    "condType": 25,
+    "targetId": 94041960,
+    "targetNum": 1,
+    "frequencyType": 1,
+    "displayType": 1
+  },
+  {
+    "questId": 94054861,
+    "phase": 1,
+    "idx": 1,
+    "message": "【復刻:セイバーウォーズ２ ～始まりの宇宙へ～\n ライト版】は復刻イベントです。\n過去の【セイバーウォーズ２\n ～始まりの宇宙へ～】で\n『コマンドコード「赫き髭紳士の令印」』\nを入手している場合、本イベントでは\n『マナプリズム 100個』\nに置き換わります。",
+    "condType": 25,
+    "targetId": 94041961,
+    "targetNum": 1,
+    "frequencyType": 1,
+    "displayType": 1
+  },
+  {
+    "questId": 94054862,
+    "phase": 1,
+    "idx": 1,
+    "message": "【復刻:セイバーウォーズ２ ～始まりの宇宙へ～\n ライト版】は復刻イベントです。\n過去の【セイバーウォーズ２\n ～始まりの宇宙へ～】で\n『コマンドコード「宇宙の天秤」』\nを入手している場合、本イベントでは\n『マナプリズム 200個』\nに置き換わります。",
+    "condType": 25,
+    "targetId": 94041962,
+    "targetNum": 1,
+    "frequencyType": 1,
+    "displayType": 1
+  },
+  {
+    "questId": 94054950,
+    "phase": 1,
+    "idx": 0,
+    "message": "～ 注意 ～\n\n「【高難易度】ギャラクシー・ガーディアン」は\n繰り返し挑戦可能なクエストですが、\n絆ポイント、EXP、戦利品、クリア報酬を\n獲得できるのは1回目のクリア時のみとなります。\n\nそれでも挑戦しますか？",
+    "condType": 25,
+    "targetId": 94054950,
+    "targetNum": 1,
+    "frequencyType": 3,
+    "displayType": 1
   }
 ]
