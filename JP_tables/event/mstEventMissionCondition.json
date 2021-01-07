@@ -63132,6 +63132,86 @@
   },
   {
     "targetIds": [
+      3000007
+    ],
+    "missionId": 30000007,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 3000011,
+    "missionTargetId": 300003,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 1,
+    "conditionMessage": "クエストを1回クリアせよ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      30000007
+    ],
+    "missionId": 30000008,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 3000012,
+    "missionTargetId": 300003,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 1,
+    "conditionMessage": "クエストを2回クリアせよ",
+    "closedMessage": "",
+    "flag": 64
+  },
+  {
+    "targetIds": [
+      3000007
+    ],
+    "missionId": 30000008,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 3000013,
+    "missionTargetId": 300003,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 2,
+    "conditionMessage": "クエストを2回クリアせよ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      30000008
+    ],
+    "missionId": 30000009,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 3000014,
+    "missionTargetId": 300003,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 1,
+    "conditionMessage": "クエストを3回クリアせよ",
+    "closedMessage": "",
+    "flag": 64
+  },
+  {
+    "targetIds": [
+      3000007
+    ],
+    "missionId": 30000009,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 3000015,
+    "missionTargetId": 300003,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 3,
+    "conditionMessage": "クエストを3回クリアせよ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
       94011901
     ],
     "missionId": 80054001,
