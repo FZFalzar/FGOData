@@ -5181,6 +5181,21 @@
   },
   {
     "voiceIds": [
+      "0_N060",
+      "0_N070"
+    ],
+    "confirmVoiceIds": [],
+    "eventId": 80308,
+    "slot": 0,
+    "idx": 1,
+    "guideImageId": 109818630,
+    "condType": 20,
+    "condValue": 80308,
+    "startedAt": 1611133200,
+    "endedAt": 1901199599
+  },
+  {
+    "voiceIds": [
       "0_I010",
       "0_I020"
     ],
@@ -5207,6 +5222,83 @@
     "condType": 11,
     "condValue": 80308,
     "startedAt": 1609923600,
+    "endedAt": 1901199599
+  },
+  {
+    "voiceIds": [
+      "0_I060",
+      "0_I070"
+    ],
+    "confirmVoiceIds": [],
+    "eventId": 80308,
+    "slot": 1,
+    "idx": 1,
+    "guideImageId": 203700,
+    "condType": 20,
+    "condValue": 80308,
+    "startedAt": 1611133200,
+    "endedAt": 1901199599
+  },
+  {
+    "voiceIds": [
+      "1_I060",
+      "1_I070"
+    ],
+    "confirmVoiceIds": [],
+    "eventId": 80308,
+    "slot": 1,
+    "idx": 1,
+    "guideImageId": 1100900,
+    "condType": 20,
+    "condValue": 80308,
+    "startedAt": 1611133200,
+    "endedAt": 1901199599
+  },
+  {
+    "voiceIds": [
+      "0_N010",
+      "0_N020",
+      "0_N030",
+      "0_N040",
+      "0_N050"
+    ],
+    "confirmVoiceIds": [],
+    "eventId": 80309,
+    "slot": 0,
+    "idx": 0,
+    "guideImageId": 109820610,
+    "condType": 11,
+    "condValue": 80309,
+    "startedAt": 1611133200,
+    "endedAt": 1901199599
+  },
+  {
+    "voiceIds": [
+      "0_N010"
+    ],
+    "confirmVoiceIds": [],
+    "eventId": 80309,
+    "slot": 0,
+    "idx": 0,
+    "guideImageId": 109820770,
+    "condType": 11,
+    "condValue": 80309,
+    "startedAt": 1611133200,
+    "endedAt": 1901199599
+  },
+  {
+    "voiceIds": [
+      "0_I010",
+      "0_I020"
+    ],
+    "confirmVoiceIds": [],
+    "eventId": 80309,
+    "slot": 1,
+    "idx": 0,
+    "guideImageId": 604100,
+    "condType": 11,
+    "condValue": 80309,
+    "startedAt": 1611133200,
     "endedAt": 1901199599
   }
 ]

@@ -24483,7 +24483,9 @@
   {
     "vals": [],
     "tvals": [],
-    "ckSelfIndv": [],
+    "ckSelfIndv": [
+      3068
+    ],
     "ckOpIndv": [],
     "script": {},
     "id": 1731,
@@ -43043,6 +43045,21 @@
   },
   {
     "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3308,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "いざ鎌倉",
+    "detail": "『いざ鎌倉にさよならを ～Little Big Tengu～』において与えるダメージをアップ",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
     "tvals": [
       3067
     ],
@@ -43181,6 +43198,166 @@
     "detail": "〔王〕特性に与えるダメージをアップ",
     "iconId": 302,
     "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3317,
+    "buffGroup": 0,
+    "type": 85,
+    "name": "毎ターン発動(回復)",
+    "detail": "毎ターン終了時に自身を除く味方全体のHPを回復する",
+    "iconId": 343,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3318,
+    "buffGroup": 0,
+    "type": 85,
+    "name": "毎ターン発動(弱体無効＆攻撃力アップ)",
+    "detail": "毎ターン終了時に自身に確率で弱体無効状態を付与＆確率で攻撃力をアップ",
+    "iconId": 343,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3319,
+    "buffGroup": 0,
+    "type": 85,
+    "name": "毎ターン発動(ダメージカット＆チャージプラス)",
+    "detail": "毎ターン終了時に自身に確率でダメージカット状態を付与＆確率でチャージを1増やす",
+    "iconId": 343,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3320,
+    "buffGroup": 0,
+    "type": 114,
+    "name": "魔術親和",
+    "detail": "毎ターンチャージを増やす",
+    "iconId": 319,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3321,
+    "buffGroup": 0,
+    "type": 16,
+    "name": "不慣れな蹂躙",
+    "detail": "宝具で与えるダメージをダウン",
+    "iconId": 508,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3322,
+    "buffGroup": 0,
+    "type": 85,
+    "name": "神代回帰（偽）",
+    "detail": "毎ターン終了時に自身の攻撃力をアップ＆特殊耐性をアップ",
+    "iconId": 343,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3327,
+    "buffGroup": 0,
+    "type": 149,
+    "name": "ガッツ時発動(復讐の怨念)",
+    "detail": "ガッツ発動時、自身に〔復讐の怨念〕状態を付与",
+    "iconId": 365,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3328,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "復讐の怨念",
+    "detail": "復讐の怨念を抱くほど自身の宝具威力がアップする",
+    "iconId": 369,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3024
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3329,
+    "buffGroup": 600,
+    "type": 37,
+    "name": "暴走抗体",
+    "detail": "HPが0になった時、HPを回復して耐える",
+    "iconId": 304,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3024
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3330,
+    "buffGroup": 601,
+    "type": 37,
+    "name": "ガッツ",
+    "detail": "HPが0になった時、HPを回復して耐える(他のガッツ状態と重複可能)",
+    "iconId": 304,
+    "maxRate": 0,
     "effectId": 0
   }
 ]
