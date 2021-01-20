@@ -3822,7 +3822,7 @@
     "type": 11,
     "name": "Magical Girl Power",
     "detail": "Power to materialize magical girls",
-    "iconId": 302,
+    "iconId": 0,
     "maxRate": 10000,
     "effectId": 0
   },
@@ -3956,7 +3956,7 @@
     "buffGroup": 0,
     "type": 64,
     "name": "HP Recovery Up",
-    "detail": "Increase amount of HP recovered",
+    "detail": "Increase amount of HP recovered [Unremovable]",
     "iconId": 328,
     "maxRate": 50000,
     "effectId": 0
@@ -3975,7 +3975,7 @@
     "buffGroup": 0,
     "type": 27,
     "name": "Debuff Chance Up",
-    "detail": "Increase debuff chance rate",
+    "detail": "Increase debuff chance rate [Unremovable]",
     "iconId": 307,
     "maxRate": 5000,
     "effectId": 0
@@ -4030,7 +4030,7 @@
     "buffGroup": 0,
     "type": 11,
     "name": "STR Up vs. Male",
-    "detail": "Increase damage dealt against [Male]",
+    "detail": "Increase damage dealt against [Male] [Unremovable]",
     "iconId": 302,
     "maxRate": 10000,
     "effectId": 0
@@ -10187,9 +10187,7 @@
     "effectId": 17122
   },
   {
-    "vals": [
-      3004
-    ],
+    "vals": [],
     "tvals": [
       3015
     ],
@@ -20993,6 +20991,175 @@
     "name": "Activate when Attacking (Charge Loss)",
     "detail": "Decrease a single enemy's NP charge when attacking with Quick cards",
     "iconId": 528,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005,
+      3015
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1464,
+    "buffGroup": 101,
+    "type": 8,
+    "name": "Burn (Self/Non-stackable)",
+    "detail": "Lose HP at the end of each turn & other Burn effects cannot be inflicted",
+    "iconId": 513,
+    "maxRate": 0,
+    "effectId": 17122
+  },
+  {
+    "vals": [
+      3005,
+      3015
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1465,
+    "buffGroup": 101,
+    "type": 8,
+    "name": "Burn (Self/Non-stackable)",
+    "detail": "Lose HP at the end of each turn & other Burn effects cannot be inflicted",
+    "iconId": 513,
+    "maxRate": 0,
+    "effectId": 17122
+  },
+  {
+    "vals": [
+      3005,
+      3015
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1466,
+    "buffGroup": 101,
+    "type": 8,
+    "name": "Burn (Self/Non-stackable)",
+    "detail": "Lose HP at the end of each turn & other Burn effects cannot be inflicted",
+    "iconId": 513,
+    "maxRate": 0,
+    "effectId": 17122
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1467,
+    "buffGroup": 0,
+    "type": 8,
+    "name": "Pseudo-Conversion, Limit Drive",
+    "detail": "Decrease your own HP at the end of each turn",
+    "iconId": 537,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "EffectId": 2019
+    },
+    "id": 1468,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "Magical Girl Power",
+    "detail": "Increase damage dealt during \"Revival: Magical Girl Cruise - Prisma Codes\"",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2382
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1470,
+    "buffGroup": 220,
+    "type": 40,
+    "name": "",
+    "detail": "Add Individuality",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2383
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1471,
+    "buffGroup": 220,
+    "type": 40,
+    "name": "",
+    "detail": "Add Individuality",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1472,
+    "buffGroup": 0,
+    "type": 85,
+    "name": "Protection of Sakatsuki",
+    "detail": "Activate \"Increase NP Gauge & Recover HP for all allies + Gain C. Stars\" at the end of turn",
+    "iconId": 343,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1473,
+    "buffGroup": 0,
+    "type": 85,
+    "name": "Protection of Sakatsuki",
+    "detail": "Activate \"Chance to increase Charge by 1 & Recover HP & Increase Critical Hit Rate for all allies\" at the end of turn",
+    "iconId": 343,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1477,
+    "buffGroup": 0,
+    "type": 114,
+    "name": "Charge Plus Each Turn",
+    "detail": "Increase Charge by 1 each turn",
+    "iconId": 319,
     "maxRate": 0,
     "effectId": 0
   },

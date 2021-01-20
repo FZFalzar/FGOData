@@ -17695,7 +17695,7 @@
     "funcType": 16,
     "targetType": 0,
     "applyTarget": 2,
-    "popupIconId": 302,
+    "popupIconId": 0,
     "popupText": "Magical Girl\nPower",
     "categoryId": 0
   },
@@ -18033,7 +18033,9 @@
     "categoryId": 0
   },
   {
-    "vals": [],
+    "vals": [
+      3007
+    ],
     "tvals": [],
     "questTvals": [],
     "effectList": [
@@ -56101,6 +56103,344 @@
   },
   {
     "vals": [
+      1464
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      345
+    ],
+    "popupTextColor": 1,
+    "id": 3255,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 513,
+    "popupText": "Burn",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1465
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      345
+    ],
+    "popupTextColor": 1,
+    "id": 3256,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 513,
+    "popupText": "Burn",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1466
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      345
+    ],
+    "popupTextColor": 1,
+    "id": 3257,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 513,
+    "popupText": "Burn",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 3258,
+    "cond": 0,
+    "funcType": 111,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "None",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1468
+    ],
+    "tvals": [
+      2,
+      3
+    ],
+    "questTvals": [
+      94000047,
+      94000048
+    ],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 3259,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 302,
+    "popupText": "Magical Girl\nPower",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      298
+    ],
+    "tvals": [
+      2,
+      3
+    ],
+    "questTvals": [
+      94000047,
+      94000048
+    ],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 3260,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 2,
+    "popupIconId": 0,
+    "popupText": "Magical Girl\nPower",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      103
+    ],
+    "tvals": [
+      2,
+      3
+    ],
+    "questTvals": [
+      94000048
+    ],
+    "effectList": [
+      330
+    ],
+    "popupTextColor": 2,
+    "id": 3261,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 312,
+    "popupText": "Quick Up",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      103
+    ],
+    "tvals": [
+      2,
+      3
+    ],
+    "questTvals": [
+      94000048
+    ],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 3262,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 312,
+    "popupText": "Quick Up",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      103
+    ],
+    "tvals": [
+      2,
+      3
+    ],
+    "questTvals": [
+      94000048
+    ],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 3263,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 312,
+    "popupText": "Quick Up",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      106
+    ],
+    "tvals": [
+      2,
+      3
+    ],
+    "questTvals": [
+      94000048
+    ],
+    "effectList": [
+      330
+    ],
+    "popupTextColor": 2,
+    "id": 3264,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 313,
+    "popupText": "Arts Up",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      106
+    ],
+    "tvals": [
+      2,
+      3
+    ],
+    "questTvals": [
+      94000048
+    ],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 3265,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 313,
+    "popupText": "Arts Up",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      106
+    ],
+    "tvals": [
+      2,
+      3
+    ],
+    "questTvals": [
+      94000048
+    ],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 3266,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 313,
+    "popupText": "Arts Up",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      109
+    ],
+    "tvals": [
+      2,
+      3
+    ],
+    "questTvals": [
+      94000048
+    ],
+    "effectList": [
+      330
+    ],
+    "popupTextColor": 2,
+    "id": 3267,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 314,
+    "popupText": "Buster Up",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      109
+    ],
+    "tvals": [
+      2,
+      3
+    ],
+    "questTvals": [
+      94000048
+    ],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 3268,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 314,
+    "popupText": "Buster Up",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      109
+    ],
+    "tvals": [
+      2,
+      3
+    ],
+    "questTvals": [
+      94000048
+    ],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 3269,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 314,
+    "popupText": "Buster Up",
+    "categoryId": 0
+  },
+  {
+    "vals": [
       3027
     ],
     "tvals": [],
@@ -56116,6 +56456,256 @@
     "applyTarget": 3,
     "popupIconId": 0,
     "popupText": "Remove ATK Up",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1467
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 3,
+    "id": 3271,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 537,
+    "popupText": "Triggers\nEach Turn (HP Loss)",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 3272,
+    "cond": 0,
+    "funcType": 105,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "None",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 3273,
+    "cond": 0,
+    "funcType": 105,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "None",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 3274,
+    "cond": 0,
+    "funcType": 105,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "None",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1472
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 3275,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 343,
+    "popupText": "Protection of Sakatsuki",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1473
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 3276,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 2,
+    "popupIconId": 343,
+    "popupText": "Protection of Sakatsuki",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1470
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 3281,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1471
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 3282,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      146
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 3287,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 301,
+    "popupText": "DEF Up",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      149
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 3288,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 301,
+    "popupText": "Damage Cut",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      127
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      338
+    ],
+    "popupTextColor": 3,
+    "id": 3289,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 503,
+    "popupText": "ATK Down",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1477
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 1,
+    "id": 3290,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 319,
+    "popupText": "Charge Plus\nEach Turn",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      138
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 3291,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 1,
+    "applyTarget": 3,
+    "popupIconId": 310,
+    "popupText": "NP Strength Up",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      144
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 3292,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 3,
+    "applyTarget": 2,
+    "popupIconId": 327,
+    "popupText": "Critical Rate\nUp",
     "categoryId": 0
   },
   {

@@ -4383,7 +4383,8 @@
   },
   {
     "condValues": [
-      94006438
+      94006438,
+      94033038
     ],
     "svtId": 202700,
     "id": 7,
@@ -11642,7 +11643,7 @@
     "id": 7,
     "priority": 0,
     "condMessage": "",
-    "comment": "...That's why Illya must remain righteous.\nEven if a harsh fate forces a difficult choice, even if a cruel reality blocks the path, she will certainly reach her goal:\nThe true happy ending she is looking for.",
+    "comment": "This is a hypothetical version of Illyasviel. She's an ordinary girl, and became who she is after a pair of adults fought against fate to save her, used their wish on her behalf, and dedicated their lives to protecting her. As she grows up, she will inevitably realize that the happiness she's always taken for granted is a sacred, hard-won treasure.\n\n...That's why Illya must remain righteous.\nEven if a harsh fate forces a difficult choice, even if a cruel reality blocks the path, she will certainly reach her goal:\nThe true happy ending she is looking for.",
     "condType": 9,
     "condValue2": 0
   },
@@ -12400,6 +12401,90 @@
     "condMessage": "Unlock after clearing The Land of Mystique, Oniland! and reach Bond Level 5",
     "comment": "Inside, she is no different from her usual self, but...she consciously tries not to break character from the Magifender Girl image that Ibaraki clings to...at least as much as possible...\n\nIt's probably more accurate to say that she continues to play along because she feels like she's performing a sacred Shinto dance, Kagura, and she's enjoying herself. It seems like she plans to remain in this form until it bores her.\n\nOh, also her familiar, Haku, was in actuality an evil dragon that appeared in The Kamuy's Gold... The Haku we see now though is one that Shuten molded after the image of the original with her own magical energy. She says he doesn't talk, but there may or may not be reports of Haku talking to himself when she's not around.",
     "condType": 1,
+    "condValue2": 0
+  },
+  {
+    "condValues": [
+      0
+    ],
+    "svtId": 504100,
+    "id": 1,
+    "priority": 0,
+    "condMessage": "",
+    "comment": "An elementary school student who attends Homurahara Academy with Illya and Chloe. She forms a contract with the Kaleidostick Magical Sapphire to become the second Magical Girl. (It may be more accurate to say she was forced into it...)\n\nAs she has no family, she is adopted by Luvia and takes on the name Edelfelt, living as their maid.\n\nThough her knowledge of physics and mathematics is at a university level, her communication skills lag substantially behind her age group. It is Illya who becomes her first friend.\nIt seems that Miyu doesn't know the difference between friendship and love, switching instantly from aloof and distant to overly clingy, but Illya accepts her anyway and returns her friendship. Through the cycle of daily life and bizarre adventures, the two become best friends.\n\nAlso, it seems that Miyu sees Chloe as a rival for Illya's affection.",
+    "condType": 0,
+    "condValue2": 0
+  },
+  {
+    "condValues": [
+      1
+    ],
+    "svtId": 504100,
+    "id": 2,
+    "priority": 0,
+    "condMessage": "",
+    "comment": "Height/Weight: 134cm, 30kg\nOrigin: Fate/kaleid liner Prisma☆Illya\nRegion: Fuyuki City, Japan\nAlignment: Lawful-Good\nGender: Female\nShe prefers rationality in both daily activities and battle.\n\"Hello. Nice to meet you, Gáe Bolg.\"",
+    "condType": 9,
+    "condValue2": 0
+  },
+  {
+    "condValues": [
+      2
+    ],
+    "svtId": 504100,
+    "id": 3,
+    "priority": 0,
+    "condMessage": "",
+    "comment": "Her speech and mannerisms give the impression that she is more mature and knowledgeable than her age might suggest, but she is quite lacking in terms of common sense. For all her knowledge, she has next to no real-world experience, as if she had been kept in isolation.\n\nShe refuses to speak of her past, but her oddly familiar eyes bear a deep sadness and loneliness, as well as a lingering sense of divinity.",
+    "condType": 9,
+    "condValue2": 0
+  },
+  {
+    "condValues": [
+      3
+    ],
+    "svtId": 504100,
+    "id": 4,
+    "priority": 0,
+    "condMessage": "",
+    "comment": "In truth, she is a God Child from a parallel world.\n\nShe was born to the Sakatsuki, a house held in high esteem since the Tenshou era (around the late 1500s) in Fuyuki, and she possessed the power to grant peoples' wishes. As such, she is known as a God Child. She grew up sheltered and with no outside contact until she reached seven years old, the age at which her abilities are said to fade away.\n\nThroughout history, members of the Sakatsuki, without exception, abandoned their own desires to simply wish for the happiness of the child. The fact that the most natural and obvious human and parental behavior continued for more than five hundred years was a miracle in itself greater even than the God Child.\nUntil...\n\nRight before the God Child of the latest generation, Miyu, reached her seventh year, an unknown phenomenon in Fuyuki called the \"Erosion Incident\" caused the Sakatsuki house to collapse. Kiritsugu and Shirou, traveling the world in search of a miracle, found Miyu in the rubble, and took her under their wing.",
+    "condType": 9,
+    "condValue2": 0
+  },
+  {
+    "condValues": [
+      4
+    ],
+    "svtId": 504100,
+    "id": 5,
+    "priority": 0,
+    "condMessage": "",
+    "comment": "Cheerful Model Mystic Code (Younger Sister): A\nThe younger sister of the strange wand.\nCompared to the excitable older sister, this one is calm and rational. Because she is an artificial spirit, she still has a penchant for messing with her Master, and her inclination to cause all manner of trouble for fun has not changed.\n\nAlso, for some reason, the costumes she prepares for her contractor tend to be more revealing than her older sister's.",
+    "condType": 9,
+    "condValue2": 0
+  },
+  {
+    "condValues": [
+      5
+    ],
+    "svtId": 504100,
+    "id": 6,
+    "priority": 0,
+    "condMessage": "",
+    "comment": "『Wish Upon the Stars』\nRank: EX\nNP Type: Anti-Personnel～Anti-World\n\nSakatsuki of the Earth, Shining in the Starry Sky.\nThe God Child's ability to grant wishes is temporarily wielded in a limited fashion. Since the Noble Phantasm is realized by focusing on Master's single wish to protect humanity, a trusting relationship is absolutely essential to success.\n\nHer older brother told her that wishes should be made on the stars instead of the moon, and she still holds that belief. The Earth's moon that shines with the wishes of so many instead casts its light into the great beyond.",
+    "condType": 9,
+    "condValue2": 0
+  },
+  {
+    "condValues": [
+      5
+    ],
+    "svtId": 504100,
+    "id": 7,
+    "priority": 0,
+    "condMessage": "",
+    "comment": "She could not live a normal life. She was merely a vessel who granted people's wishes. Her tremendous intellect enabled her to understand her role and purpose: that she is unnecessary, that she is only a tool. And then a young man named Shirou, who wanted simply to be her older brother, saved her...\n\n\"I wish for Miyu to be happy.\"\n\nIt was an older brother's humble prayer for his younger sister. And that wish is granted...through their separation.\n\nThe girl finally learns to stand on her own feet. The ground that her bare feet touched was cold, but the thought of her brother, though a world apart, continues to warm Miyu's heart.",
+    "condType": 9,
     "condValue2": 0
   },
   {
@@ -16684,7 +16769,7 @@
     "id": 7,
     "priority": 0,
     "condMessage": "",
-    "comment": "It will be revealed when you complete a certain quest.",
+    "comment": "Revealed after completing a certain quest.",
     "condType": 1,
     "condValue2": 0
   },
@@ -18884,7 +18969,7 @@
     "id": 7,
     "priority": 0,
     "condMessage": "",
-    "comment": "It will be revealed when you complete a certain quest.",
+    "comment": "Revealed after completing a certain quest.",
     "condType": 1,
     "condValue2": 0
   },
@@ -23548,6 +23633,18 @@
     "condValues": [
       0
     ],
+    "svtId": 9303560,
+    "id": 1,
+    "priority": 0,
+    "condMessage": "",
+    "comment": "The famed Sakatsuki house that has endured since the Tenshou era. Girls born in the household all have red eyes and are said to possess paranormal powers. Those girls then become aware of the wishes of people around them, granting those wishes at random...and so are called a God Child.\n\nThe first child saved Fuyuki from famine, and died at the age of two. The second child's psyche was exhausted before their life ended. From the third child and beyond, their births were concealed.\n\nThe girls of the Sakatsuki household were then raised only by their mothers, secreted away within a boundary that shielded them from human thought. The ritual was meant to enable god to enter into a human body. It is done in quiet stillness, without thought or hesitation. This method of raising the Sakatsuki girls is cold and empty, the opposite of how a child is typically brought up.\n\nThen what, exactly, are these toy balls doing here?\n\nThe faint memories of time spent with Mother. Mother and child spent their hollow, monotonous days together in an almost mechanical indifference to each other. But as the God Child gained more human awareness, she finally realizes something: her mother did love her.",
+    "condType": 0,
+    "condValue2": 0
+  },
+  {
+    "condValues": [
+      0
+    ],
     "svtId": 9303580,
     "id": 1,
     "priority": 0,
@@ -25936,11 +26033,23 @@
     "condValues": [
       0
     ],
+    "svtId": 9401900,
+    "id": 1,
+    "priority": 0,
+    "condMessage": "",
+    "comment": "\"Feel free to use your trump card. The battle is sure to end the instant you do.\"\n\nThe Seal Designation Enforcer once went out to collect a certain set of cards. For those unaware, her special armament will surely lead them to a deathly fate.",
+    "condType": 0,
+    "condValue2": 0
+  },
+  {
+    "condValues": [
+      0
+    ],
     "svtId": 9401910,
     "id": 1,
     "priority": 0,
     "condMessage": "",
-    "comment": "\"I am the magic wand of love and justice, Magical Ruby!\nPlease feel free to call me Ruby-chan!\nI had another Master originally, but I got so fed up with her that I canceled our contract as soon as I could...\nAnyway! I'll never forget that night!\nFate led me to meet a master that's cute and lyrical!\nOh, would you like to see the video?\nWe met in the bath, so it's pretty amaz-\"",
+    "comment": "\"I am the Magical Stick of Love and Justice, Magical Ruby!\nPlease feel free to call me Ruby-chan!\nI had another Master originally, but I got so fed up with her that I canceled our contract as soon as I could...\nAnyway! I'll never forget that night!\nFate led me to meet a master that's cute and lyrical!\nOh, would you like to see the video?\nWe met in the bath, so it's pretty amaz-\"",
     "condType": 0,
     "condValue2": 0
   },

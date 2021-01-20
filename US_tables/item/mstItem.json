@@ -2315,6 +2315,26 @@
   },
   {
     "individuality": [],
+    "script": {},
+    "eventId": 0,
+    "eventGroupId": 0,
+    "id": 10018,
+    "name": "Exchange Ticket (FEB 2021)",
+    "detail": "Can be exchanged for one Forbidden Page, Evil Bone, or Mystic Gunpowder.",
+    "imageId": 10000,
+    "bgImageId": 2,
+    "type": 24,
+    "unit": "",
+    "value": 0,
+    "sellQp": -1,
+    "isSell": false,
+    "priority": 200,
+    "dropPriority": 9001,
+    "startedAt": 1443657600,
+    "endedAt": 1622505599
+  },
+  {
+    "individuality": [],
     "script": {
       "GLOBAL_THANKSGIVING": 1
     },
@@ -10835,6 +10855,72 @@
     "dropPriority": 3007,
     "startedAt": 1609488000,
     "endedAt": 1611460799
+  },
+  {
+    "individuality": [
+      10363
+    ],
+    "script": {},
+    "eventId": 0,
+    "eventGroupId": 0,
+    "id": 94033001,
+    "name": "Expensive Pudding",
+    "detail": "\"Event Item\"\nA fairly expensive pudding acquired from \"Revival: Magical Girl Cruise - Prisma Codes - Re-install\".\nDelicious.",
+    "imageId": 94006401,
+    "bgImageId": 1,
+    "type": 15,
+    "unit": "​",
+    "value": 2,
+    "sellQp": -1,
+    "isSell": false,
+    "priority": 94033001,
+    "dropPriority": 2001,
+    "startedAt": 1611115200,
+    "endedAt": 1612929599
+  },
+  {
+    "individuality": [
+      10364
+    ],
+    "script": {},
+    "eventId": 0,
+    "eventGroupId": 0,
+    "id": 94033002,
+    "name": "Magical☆Bushido Musashi",
+    "detail": "\"Event Item\"\nAn anime DVD acquired from \"Revival: Magical Girl Cruise - Prisma Codes - Re-install\".\nA dense story that revolves around good and evil.\nThis was highly rated even among adult viewers.",
+    "imageId": 94006402,
+    "bgImageId": 2,
+    "type": 15,
+    "unit": "​",
+    "value": 2,
+    "sellQp": -1,
+    "isSell": false,
+    "priority": 94033002,
+    "dropPriority": 2002,
+    "startedAt": 1611115200,
+    "endedAt": 1612929599
+  },
+  {
+    "individuality": [
+      10365
+    ],
+    "script": {},
+    "eventId": 0,
+    "eventGroupId": 0,
+    "id": 94033003,
+    "name": "Mr. Lion-Go Toy",
+    "detail": "\"Event Item\"\nA toy acquired from \"Revival: Magical Girl Cruise - Prisma Codes - Re-install\".\nIt is self-propelled, so you can play with it in the bathtub.",
+    "imageId": 94006403,
+    "bgImageId": 3,
+    "type": 15,
+    "unit": "​",
+    "value": 2,
+    "sellQp": -1,
+    "isSell": false,
+    "priority": 94033003,
+    "dropPriority": 2003,
+    "startedAt": 1611115200,
+    "endedAt": 1612929599
   },
   {
     "individuality": [],

@@ -9342,10 +9342,6 @@
       4007
     ],
     "script": {
-      "fixAppearanceId_1": [
-        502810,
-        1
-      ],
       "fixAppearanceId_2": [
         502810,
         2
@@ -9354,11 +9350,19 @@
         502810,
         2
       ],
+      "fixAppearanceId_11": [
+        502830,
+        11
+      ],
       "fixAppearanceId_4": [
         502810,
         2
       ],
       "fixAppearanceId_0": [
+        502810,
+        1
+      ],
+      "fixAppearanceId_1": [
         502810,
         1
       ]
@@ -9379,10 +9383,6 @@
       4007
     ],
     "script": {
-      "fixAppearanceId_1": [
-        502810,
-        1
-      ],
       "fixAppearanceId_2": [
         502810,
         2
@@ -9391,11 +9391,19 @@
         502810,
         2
       ],
+      "fixAppearanceId_11": [
+        502830,
+        11
+      ],
       "fixAppearanceId_4": [
         502810,
         2
       ],
       "fixAppearanceId_0": [
+        502810,
+        1
+      ],
+      "fixAppearanceId_1": [
         502810,
         1
       ]
@@ -9608,6 +9616,22 @@
     "rank": "C++",
     "maxLv": 5,
     "typeText": "Anti-Personnel",
+    "attackAttri": 1
+  },
+  {
+    "individuality": [
+      3002,
+      4001,
+      4007
+    ],
+    "script": {},
+    "id": 504101,
+    "seqId": 504100,
+    "name": "Wish Upon the Stars",
+    "ruby": " ",
+    "rank": "EX",
+    "maxLv": 5,
+    "typeText": "Anti-Personnel～Anti-World",
     "attackAttri": 1
   },
   {
