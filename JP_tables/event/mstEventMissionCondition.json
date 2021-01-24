@@ -62851,6 +62851,123 @@
   },
   {
     "targetIds": [
+      2001632,
+      2001633,
+      2001634,
+      2001635,
+      2001636,
+      2001637
+    ],
+    "missionId": 2001631,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001839,
+    "missionTargetId": 100236,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 6,
+    "conditionMessage": "今週のマスターミッションをすべてクリアせよ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001244
+    ],
+    "missionId": 2001632,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001840,
+    "missionTargetId": 100236,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "『セイバー』『アーチャー』『ランサー』クラスの敵をどれか15体倒せ(サーヴァント及び一部ボスなどは除く)",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001245
+    ],
+    "missionId": 2001633,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001841,
+    "missionTargetId": 100236,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "『ライダー』『キャスター』『アサシン』『バーサーカー』クラスの敵をどれか15体倒せ(サーヴァント及び一部ボスなどは除く)",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001246
+    ],
+    "missionId": 2001634,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001842,
+    "missionTargetId": 100236,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 50,
+    "conditionMessage": "「いざ鎌倉にさよならを ～Little Big Tengu～」の戦利品で「腕白煎餅」を新たに50個獲得せよ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001247
+    ],
+    "missionId": 2001635,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001843,
+    "missionTargetId": 100236,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 50,
+    "conditionMessage": "「いざ鎌倉にさよならを ～Little Big Tengu～」の戦利品で「山伏団子」を新たに50個獲得せよ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001248
+    ],
+    "missionId": 2001636,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001844,
+    "missionTargetId": 100236,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 50,
+    "conditionMessage": "「いざ鎌倉にさよならを ～Little Big Tengu～」の戦利品で「合戦最中」を新たに50個獲得せよ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001249
+    ],
+    "missionId": 2001637,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001845,
+    "missionTargetId": 100236,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 5,
+    "conditionMessage": "『アサシン』クラスのサーヴァントを1騎以上編成して、いずれかのクエストを5回クリアせよ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
       8031002,
       8031003,
       8031004,
