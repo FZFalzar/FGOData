@@ -108224,6 +108224,103 @@
   },
   {
     "vals": [
+      3172
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 6535,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 302,
+    "popupText": "威力アップ・対源氏",
+    "categoryId": 10205
+  },
+  {
+    "vals": [
+      3173
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      341
+    ],
+    "popupTextColor": 3,
+    "id": 6536,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 504,
+    "popupText": "防御力ダウン〔源氏〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      144
+    ],
+    "tvals": [
+      2019
+    ],
+    "questTvals": [],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 6537,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 327,
+    "popupText": "クリティカル発生アップ",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3178
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      342
+    ],
+    "popupTextColor": 1,
+    "id": 6538,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 7,
+    "applyTarget": 3,
+    "popupIconId": 520,
+    "popupText": "源氏特性付与",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3178
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      342
+    ],
+    "popupTextColor": 1,
+    "id": 6539,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 8,
+    "applyTarget": 3,
+    "popupIconId": 520,
+    "popupText": "源氏特性付与",
+    "categoryId": 0
+  },
+  {
+    "vals": [
       3327
     ],
     "tvals": [],
@@ -108410,6 +108507,480 @@
     "applyTarget": 3,
     "popupIconId": 0,
     "popupText": "攻撃弱体解除",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3331
+    ],
+    "tvals": [
+      1000
+    ],
+    "questTvals": [],
+    "effectList": [
+      345
+    ],
+    "popupTextColor": 1,
+    "id": 6562,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 369,
+    "popupText": "復讐の怨念",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3332
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 6563,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 334,
+    "popupText": "小槌の護り",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3333
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 6564,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3334
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      337
+    ],
+    "popupTextColor": 3,
+    "id": 6565,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 503,
+    "popupText": "小槌の願い「小人化」",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3335
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 6566,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3336
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 1,
+    "id": 6567,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 319,
+    "popupText": "小槌の願い「魔力増大」",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3337
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 6568,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 10601
+  },
+  {
+    "vals": [
+      3338
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      325
+    ],
+    "popupTextColor": 1,
+    "id": 6569,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 318,
+    "popupText": "小槌の願い「ご馳走」",
+    "categoryId": 20402
+  },
+  {
+    "vals": [
+      3339
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 6570,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 30201
+  },
+  {
+    "vals": [
+      3340
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      338
+    ],
+    "popupTextColor": 3,
+    "id": 6571,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 514,
+    "popupText": "小槌の願い「鈍足」",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3341
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 6572,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 6,
+    "applyTarget": 1,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3342
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      345
+    ],
+    "popupTextColor": 1,
+    "id": 6573,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 520,
+    "popupText": "小槌の願い「平家の呪い」",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3343
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 6574,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3344
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 6575,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 304,
+    "popupText": "ガッツ",
+    "categoryId": 20205
+  },
+  {
+    "vals": [
+      3345
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 6576,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3346
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 6577,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3347
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 6578,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3348
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 6579,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3349
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 6580,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      6021
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      329
+    ],
+    "popupTextColor": 1,
+    "id": 6581,
+    "cond": 0,
+    "funcType": 2,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "小槌の願い「小人化」解除",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      6017
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 1,
+    "id": 6582,
+    "cond": 0,
+    "funcType": 2,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "小槌の願い「魔力増大」解除",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      6018
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 1,
+    "id": 6583,
+    "cond": 0,
+    "funcType": 2,
+    "targetType": 4,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "小槌の願い「ご馳走」解除",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      6022
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      329
+    ],
+    "popupTextColor": 1,
+    "id": 6584,
+    "cond": 0,
+    "funcType": 2,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "小槌の願い「鈍足」解除",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      6023
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      329
+    ],
+    "popupTextColor": 1,
+    "id": 6585,
+    "cond": 0,
+    "funcType": 2,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "小槌の願い「平家の呪い」解除",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      6016
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 3,
+    "id": 6586,
+    "cond": 0,
+    "funcType": 2,
+    "targetType": 4,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "小槌の護りダウン",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      6016
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 3,
+    "id": 6587,
+    "cond": 0,
+    "funcType": 2,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "小槌の護りダウン",
     "categoryId": 0
   }
 ]

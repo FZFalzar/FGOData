@@ -505,8 +505,8 @@
   },
   {
     "spotIds": [],
-    "id": 8030902,
-    "priority": 1,
+    "id": 8030901,
+    "priority": 2,
     "eventId": 80309,
     "warId": 9109,
     "mapId": 9109,
@@ -515,6 +515,20 @@
     "eventUiValueId": 80309002,
     "x": -100,
     "y": 6800,
+    "dispAreaFlag": 3
+  },
+  {
+    "spotIds": [],
+    "id": 8030901,
+    "priority": 3,
+    "eventId": 80309,
+    "warId": 9109,
+    "mapId": 9109,
+    "objectType": 1,
+    "objectId": 0,
+    "eventUiValueId": 0,
+    "x": 0,
+    "y": 0,
     "dispAreaFlag": 3
   },
   {
