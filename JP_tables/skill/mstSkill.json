@@ -320,7 +320,9 @@
   {
     "effectList": [],
     "actIndividuality": [],
-    "script": {},
+    "script": {
+      "OverwriteMotion_701000": 1001
+    },
     "id": 15550,
     "type": 1,
     "name": "加虐体質 A",
@@ -895,7 +897,9 @@
   {
     "effectList": [],
     "actIndividuality": [],
-    "script": {},
+    "script": {
+      "OverwriteMotion_401100": 1001
+    },
     "id": 31450,
     "type": 1,
     "name": "女神への誓い B",
@@ -1329,7 +1333,9 @@
   {
     "effectList": [],
     "actIndividuality": [],
-    "script": {},
+    "script": {
+      "OverwriteMotion_401100": 1003
+    },
     "id": 41550,
     "type": 1,
     "name": "戦闘続行 A",
@@ -1913,7 +1919,9 @@
   {
     "effectList": [],
     "actIndividuality": [],
-    "script": {},
+    "script": {
+      "OverwriteMotion_701000": 1002
+    },
     "id": 56550,
     "type": 1,
     "name": "皇帝特権 A",
@@ -4834,7 +4842,9 @@
   {
     "effectList": [],
     "actIndividuality": [],
-    "script": {},
+    "script": {
+      "OverwriteMotion_401100": 1004
+    },
     "id": 176550,
     "type": 1,
     "name": "アンドラスタの加護 A",
@@ -5932,7 +5942,9 @@
   {
     "effectList": [],
     "actIndividuality": [],
-    "script": {},
+    "script": {
+      "OverwriteMotion_701000": 1003
+    },
     "id": 257450,
     "type": 1,
     "name": "在りし日の栄光 B",
@@ -11068,7 +11080,9 @@
   {
     "effectList": [],
     "actIndividuality": [],
-    "script": {},
+    "script": {
+      "OverwriteMotion_401100": 1002
+    },
     "id": 656550,
     "type": 1,
     "name": "勝利の女王 A",
@@ -13319,6 +13333,20 @@
     "ruby": "りくとうひじゅつ・じんらいふうれつ",
     "maxLv": 10,
     "iconId": 300,
+    "motion": 102
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {
+      "OverwriteMotion_401100": 1005
+    },
+    "id": 843551,
+    "type": 1,
+    "name": "戦場の糧 A+",
+    "ruby": "せんじょうのかて",
+    "maxLv": 10,
+    "iconId": 404,
     "motion": 102
   },
   {

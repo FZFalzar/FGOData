@@ -1,33 +1,15 @@
 [
   {
     "targetIds": [
-      "[3000715,1]"
-    ],
-    "condIds": [],
-    "imageIds": [
-      54
-    ],
-    "textJson": [],
-    "eventId": -24,
-    "flagType": 8,
-    "num": 1,
-    "openType": 5,
-    "condType": 0,
-    "condValue": 0,
-    "condValue2": 0,
-    "condValue3": 0
-  },
-  {
-    "targetIds": [
       "[]"
     ],
     "condIds": [],
     "imageIds": [
-      844,
-      845
+      879,
+      880
     ],
     "textJson": [],
-    "eventId": -23,
+    "eventId": -30,
     "flagType": 61,
     "num": 1,
     "openType": 64,
@@ -42,10 +24,10 @@
     ],
     "condIds": [],
     "imageIds": [
-      843
+      878
     ],
     "textJson": [],
-    "eventId": -22,
+    "eventId": -29,
     "flagType": 60,
     "num": 1,
     "openType": 63,
@@ -60,10 +42,10 @@
     ],
     "condIds": [],
     "imageIds": [
-      842
+      877
     ],
     "textJson": [],
-    "eventId": -21,
+    "eventId": -28,
     "flagType": 59,
     "num": 1,
     "openType": 62,
@@ -78,13 +60,57 @@
     ],
     "condIds": [],
     "imageIds": [
-      841
+      876
     ],
     "textJson": [],
-    "eventId": -20,
+    "eventId": -27,
     "flagType": 62,
     "num": 1,
     "openType": 65,
+    "condType": 0,
+    "condValue": 0,
+    "condValue2": 0,
+    "condValue3": 0
+  },
+  {
+    "targetIds": [
+      "[8359]"
+    ],
+    "condIds": [
+      94055901,
+      94055902,
+      94055903,
+      94055904,
+      94055905,
+      94055906,
+      94055907
+    ],
+    "imageIds": [
+      881
+    ],
+    "textJson": [],
+    "eventId": -26,
+    "flagType": 4,
+    "num": 1,
+    "openType": 18,
+    "condType": 1,
+    "condValue": 0,
+    "condValue2": 0,
+    "condValue3": 0
+  },
+  {
+    "targetIds": [
+      "[3000715,1]"
+    ],
+    "condIds": [],
+    "imageIds": [
+      54
+    ],
+    "textJson": [],
+    "eventId": -24,
+    "flagType": 8,
+    "num": 1,
+    "openType": 5,
     "condType": 0,
     "condValue": 0,
     "condValue2": 0,

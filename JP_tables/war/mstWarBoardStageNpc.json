@@ -29,6 +29,12 @@
       5,
       6
     ],
+    "svtEquipIds": [
+      0,
+      0,
+      0,
+      0
+    ],
     "stageId": 94052600,
     "forceId": 1,
     "groupId": 0,
@@ -67,6 +73,12 @@
       4,
       5,
       6
+    ],
+    "svtEquipIds": [
+      0,
+      0,
+      0,
+      0
     ],
     "stageId": 94052601,
     "forceId": 1,
@@ -108,6 +120,13 @@
       4,
       5,
       6
+    ],
+    "svtEquipIds": [
+      0,
+      0,
+      0,
+      0,
+      0
     ],
     "stageId": 94052602,
     "forceId": 1,
@@ -152,6 +171,14 @@
       5,
       6
     ],
+    "svtEquipIds": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "stageId": 94052603,
     "forceId": 1,
     "groupId": 0,
@@ -195,6 +222,14 @@
       5,
       6
     ],
+    "svtEquipIds": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "stageId": 94052604,
     "forceId": 1,
     "groupId": 0,
@@ -235,6 +270,13 @@
       4,
       5,
       6
+    ],
+    "svtEquipIds": [
+      0,
+      0,
+      0,
+      0,
+      0
     ],
     "stageId": 94052605,
     "forceId": 1,
@@ -281,6 +323,15 @@
       5,
       6
     ],
+    "svtEquipIds": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "stageId": 94052606,
     "forceId": 1,
     "groupId": 0,
@@ -289,5 +340,50 @@
     "searchDepth": 2,
     "pickValue": 1,
     "defenseArea": 3
+  },
+  {
+    "servants": [
+      94055900,
+      94055901,
+      94055902,
+      94055903
+    ],
+    "aiIds": [
+      94055900,
+      94055901,
+      94055902,
+      94055903,
+      94055904
+    ],
+    "ratingBaseIds": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "tacticalIds": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "svtEquipIds": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "stageId": 94055900,
+    "forceId": 1,
+    "groupId": 0,
+    "masterName": "カエサル",
+    "masterImageId": 7101100,
+    "searchDepth": 2,
+    "pickValue": 1,
+    "defenseArea": 4
   }
 ]
