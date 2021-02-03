@@ -1589,6 +1589,26 @@
   },
   {
     "individuality": [],
+    "script": {},
+    "eventId": 0,
+    "eventGroupId": 0,
+    "id": 6540,
+    "name": "Tsukumo Mirror",
+    "detail": "\"Skill Up & Ascension Material\"\nA mirror that has been passed down over many years, eventually coming to house mysterious entities such as divine and evil spirits.",
+    "imageId": 6540,
+    "bgImageId": 3,
+    "type": 11,
+    "unit": "",
+    "value": 0,
+    "sellQp": 2500,
+    "isSell": true,
+    "priority": 241,
+    "dropPriority": 8506,
+    "startedAt": 1612324800,
+    "endedAt": 1910908800
+  },
+  {
+    "individuality": [],
     "script": {
       "effectId": 1
     },
@@ -10921,6 +10941,138 @@
     "dropPriority": 2003,
     "startedAt": 1611115200,
     "endedAt": 1612929599
+  },
+  {
+    "individuality": [
+      10366
+    ],
+    "script": {},
+    "eventId": 0,
+    "eventGroupId": 0,
+    "id": 94033501,
+    "name": "Paper of Story Recording",
+    "detail": "\"Event Item\"\nHigh quality washi paper acquired from \"Valentine's 2021: Voices and Letters!\" Its excellent quality enables the black ink to integrate well with the paper.",
+    "imageId": 94033501,
+    "bgImageId": 1,
+    "type": 15,
+    "unit": "",
+    "value": 0,
+    "sellQp": -1,
+    "isSell": false,
+    "priority": 94033501,
+    "dropPriority": 2001,
+    "startedAt": 1612324800,
+    "endedAt": 1614139199
+  },
+  {
+    "individuality": [
+      10367
+    ],
+    "script": {},
+    "eventId": 0,
+    "eventGroupId": 0,
+    "id": 94033502,
+    "name": "Ink of Sentiment Weaving",
+    "detail": "\"Event Item\"\nA solid ink stone acquired from \"Valentine's 2021: Voices and Letters!\" Its shiny, unclouded black hue helps the beautifully written letters to stand out.",
+    "imageId": 94033502,
+    "bgImageId": 2,
+    "type": 15,
+    "unit": "",
+    "value": 0,
+    "sellQp": -1,
+    "isSell": false,
+    "priority": 94033502,
+    "dropPriority": 2002,
+    "startedAt": 1612324800,
+    "endedAt": 1614139199
+  },
+  {
+    "individuality": [
+      10368
+    ],
+    "script": {},
+    "eventId": 0,
+    "eventGroupId": 0,
+    "id": 94033503,
+    "name": "Brush of Dream Writing",
+    "detail": "\"Event Item\"\nAn exquisite brush acquired from \"Valentine's 2021: Voices and Letters!\" This light-as-a-feather brush dances gracefully across the paper.",
+    "imageId": 94033503,
+    "bgImageId": 3,
+    "type": 15,
+    "unit": "",
+    "value": 0,
+    "sellQp": -1,
+    "isSell": false,
+    "priority": 94033503,
+    "dropPriority": 2003,
+    "startedAt": 1612324800,
+    "endedAt": 1614139199
+  },
+  {
+    "individuality": [
+      10369
+    ],
+    "script": {},
+    "eventId": 0,
+    "eventGroupId": 0,
+    "id": 94033504,
+    "name": "Poetry Composition Points",
+    "detail": "\"Event Point\"\nThe power of the spoken word, brimming with sentiment. Also, it works as a source of magical energy to create chocolate.",
+    "imageId": 94033504,
+    "bgImageId": 2,
+    "type": 14,
+    "unit": "",
+    "value": 0,
+    "sellQp": -1,
+    "isSell": false,
+    "priority": 94033504,
+    "dropPriority": 3004,
+    "startedAt": 1612324800,
+    "endedAt": 1614139199
+  },
+  {
+    "individuality": [
+      10262
+    ],
+    "script": {},
+    "eventId": 0,
+    "eventGroupId": 0,
+    "id": 94033505,
+    "name": "Lock-On Chocolate",
+    "detail": "\"Event Exchange Item\"\nSpecially manufactured chocolate obtained during \"Valentine's 2021: Voices and Letters!\" It's the perfect aggressive gift.",
+    "imageId": 94020806,
+    "bgImageId": 3,
+    "type": 15,
+    "unit": "",
+    "value": 0,
+    "sellQp": -1,
+    "isSell": false,
+    "priority": 94033505,
+    "dropPriority": 2006,
+    "startedAt": 1612324800,
+    "endedAt": 1614139199
+  },
+  {
+    "individuality": [
+      10263
+    ],
+    "script": {},
+    "eventId": 0,
+    "eventGroupId": 0,
+    "id": 94033506,
+    "name": "Surprise Chocolate",
+    "detail": "\"Event Exchange Item\"\nSpecially manufactured chocolate obtained during \"Valentine's 2021: Voices and Letters!\" It's the perfect surprise gift.",
+    "imageId": 94020807,
+    "bgImageId": 3,
+    "type": 15,
+    "unit": "",
+    "value": 0,
+    "sellQp": -1,
+    "isSell": false,
+    "priority": 94033506,
+    "dropPriority": 2005,
+    "startedAt": 1612324800,
+    "endedAt": 1614139199
   },
   {
     "individuality": [],

@@ -2307,7 +2307,7 @@
     "id": 213,
     "buffGroup": 0,
     "type": 30,
-    "name": "Mental Debuff Resist Down",
+    "name": "Charm Resist Down (Mental Debuff)",
     "detail": "Decrease Charm resistance from [Female]",
     "iconId": 506,
     "maxRate": 5000,
@@ -2392,7 +2392,7 @@
     "id": 217,
     "buffGroup": 0,
     "type": 30,
-    "name": "Mental Debuff Resist Down",
+    "name": "Charm Resist Down (Mental Debuff)",
     "detail": "Decrease Charm resistance",
     "iconId": 506,
     "maxRate": 5000,
@@ -4101,7 +4101,8 @@
       3006,
       3007,
       3027,
-      3058
+      3058,
+      3031
     ],
     "script": {},
     "id": 314,
@@ -5774,7 +5775,7 @@
     "buffGroup": 0,
     "type": 25,
     "name": "KP-S",
-    "detail": "Apply Sure Hit & increase Critical Hit ratefor yourself",
+    "detail": "Apply Sure Hit & increase Critical Hit rate for yourself",
     "iconId": 309,
     "maxRate": 0,
     "effectId": 0
@@ -10843,7 +10844,8 @@
       3006,
       3007,
       3027,
-      3058
+      3058,
+      3031
     ],
     "script": {},
     "id": 887,
@@ -14085,7 +14087,8 @@
       3006,
       3007,
       3027,
-      3058
+      3058,
+      3031
     ],
     "script": {},
     "id": 1076,
@@ -21154,12 +21157,510 @@
     "ckSelfIndv": [],
     "ckOpIndv": [],
     "script": {},
+    "id": 1476,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "Librarian's Duty",
+    "detail": "Increase damage dealt during \"Valentine's 2021\"",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
     "id": 1477,
     "buffGroup": 0,
     "type": 114,
     "name": "Charge Plus Each Turn",
     "detail": "Increase Charge by 1 each turn",
     "iconId": 319,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2384
+    ],
+    "tvals": [
+      3005
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      3005
+    ],
+    "script": {},
+    "id": 1479,
+    "buffGroup": 0,
+    "type": 29,
+    "name": "",
+    "detail": "",
+    "iconId": 348,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2384
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1480,
+    "buffGroup": 450,
+    "type": 121,
+    "name": "???",
+    "detail": "Ignore DEF Up and deal damage & increase Debuff Resist",
+    "iconId": 351,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2384
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1481,
+    "buffGroup": 450,
+    "type": 121,
+    "name": "Lizard Cover",
+    "detail": "Ignore DEF Up and deal damage & increase Debuff Resist",
+    "iconId": 351,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2384
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1482,
+    "buffGroup": 0,
+    "type": 13,
+    "name": "Spotted Cover",
+    "detail": "Increase damage dealt & increase Debuff Resist",
+    "iconId": 302,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2384
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1483,
+    "buffGroup": 0,
+    "type": 13,
+    "name": "Starfish Cover",
+    "detail": "Increase damage dealt & increase Debuff Resist",
+    "iconId": 302,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2384
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1484,
+    "buffGroup": 0,
+    "type": 89,
+    "name": "Devilish Cover",
+    "detail": "Chance to decrease DEF for a single enemy (3 turns) when attacking & increase Debuff Resist",
+    "iconId": 528,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2384
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1485,
+    "buffGroup": 0,
+    "type": 42,
+    "name": "",
+    "detail": "",
+    "iconId": 301,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2384
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1486,
+    "buffGroup": 0,
+    "type": 89,
+    "name": "Eerie Cover",
+    "detail": "Chance to decrease Buff success rate for a single enemy (3 turns) when attacking & increase DEF",
+    "iconId": 528,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2384
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1487,
+    "buffGroup": 0,
+    "type": 18,
+    "name": "Snakeskin Cover",
+    "detail": "Increase Critical Hit damage & Debuff Resist",
+    "iconId": 324,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006,
+      3031
+    ],
+    "tvals": [
+      100
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      100
+    ],
+    "script": {},
+    "id": 1488,
+    "buffGroup": 0,
+    "type": 18,
+    "name": "Critical Strength Up (Saber)",
+    "detail": "Increase Critical Hit damage to (Saber) Class enemies",
+    "iconId": 324,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1489,
+    "buffGroup": 0,
+    "type": 82,
+    "name": "Reduce Max HP",
+    "detail": "Decrease Max HP",
+    "iconId": 522,
+    "maxRate": 50000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      2385
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      2385
+    ],
+    "script": {},
+    "id": 1490,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "Strength Up [Cursed Book]",
+    "detail": "Increase damage to [Cursed Book] enemies",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      2385
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      2385
+    ],
+    "script": {},
+    "id": 1491,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "Special Resist Up [Cursed Book]",
+    "detail": "Increase Special Resistance against [Cursed Book] enemies",
+    "iconId": 334,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1492,
+    "buffGroup": 0,
+    "type": 114,
+    "name": "Charge Plus Each Turn",
+    "detail": "Increase Charge by 2 each turn",
+    "iconId": 319,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1493,
+    "buffGroup": 0,
+    "type": 85,
+    "name": "Self-Preservation",
+    "detail": "At the end of the turn, Apply Invicible (1 time, 1 turn) to yourself",
+    "iconId": 343,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1494,
+    "buffGroup": 0,
+    "type": 64,
+    "name": "HP Recover Up",
+    "detail": "Increase amount of HP recovered",
+    "iconId": 328,
+    "maxRate": 50000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2384
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1495,
+    "buffGroup": 0,
+    "type": 23,
+    "name": "Ice Cover",
+    "detail": "Decrease damage taken & increase Debuff Resist ",
+    "iconId": 301,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1496,
+    "buffGroup": 500,
+    "type": 32,
+    "name": "Stun",
+    "detail": "Unable to act",
+    "iconId": 501,
+    "maxRate": 0,
+    "effectId": 17120
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1497,
+    "buffGroup": 0,
+    "type": 7,
+    "name": "",
+    "detail": "",
+    "iconId": 318,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1498,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "HP Recovery Per Turn (The Diary of Lady Murasaki)",
+    "detail": "Recovers Murasaki Shikibu's HP at the end of each turn when you are on the field",
+    "iconId": 318,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1499,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "",
+    "detail": "",
+    "iconId": 334,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1500,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "Special Resist Up (The Tale of Genji)",
+    "detail": "Increases Murasaki Shikibu's resistance against various attacks when you are on the field",
+    "iconId": 334,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1501,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "Activate on Exit (The Diary of Lady Murasaki)",
+    "detail": "When HP reaches 0, apply Ignore Invincible (1 turn) & increase ATK (1 turn) to Murasaki Shikibu + Decrease C. Star drop rate (1 turn) for all enemies at the end of the turn",
+    "iconId": 350,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1502,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "Activate on Exit (The Tale of Genji)",
+    "detail": "When HP reaches 0, increase Murasaki Shikibu's Charge by 3 + All (Female) enemies apply Charm (1 turn) to themselves at the end of the turn",
+    "iconId": 350,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1503,
+    "buffGroup": 0,
+    "type": 76,
+    "name": "Delayed Effect (The Diary of Lady Murasaki)",
+    "detail": "After 4 turns, inflict Stun (3 turns) to a single enemy + Apply Death to yourself [Demerit]",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1504,
+    "buffGroup": 0,
+    "type": 76,
+    "name": "Delayed Effect (The Tale of Genji)",
+    "detail": "After 4 turns, inflict Nullify Buff (3 turns) to a single enemy + Apply Death to yourself [Demerit]",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      3004
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      3004
+    ],
+    "script": {},
+    "id": 1505,
+    "buffGroup": 1000,
+    "type": 31,
+    "name": "Nullify Buff",
+    "detail": "Unremovable",
+    "iconId": 531,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1506,
+    "buffGroup": 0,
+    "type": 76,
+    "name": "Delayed Effect (The Diary of Lady Murasaki)",
+    "detail": "Decrease your C. Star drop rate at the end of the turn",
+    "iconId": 525,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1507,
+    "buffGroup": 0,
+    "type": 76,
+    "name": "Delayed Effect (The Tale of Genji)",
+    "detail": "Apply Charm to yourself at the end of the turn",
+    "iconId": 525,
     "maxRate": 0,
     "effectId": 0
   },
