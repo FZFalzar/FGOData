@@ -73075,9 +73075,33 @@
     "effectList": [],
     "actIndividuality": [],
     "script": {},
+    "id": 965583,
+    "type": 2,
+    "name": "ダメージカット",
+    "ruby": "-",
+    "maxLv": 1,
+    "iconId": 600,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
     "id": 965585,
     "type": 2,
     "name": "毎ターンHP回復",
+    "ruby": "-",
+    "maxLv": 1,
+    "iconId": 600,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 965586,
+    "type": 2,
+    "name": "毎ターンNP獲得",
     "ruby": "-",
     "maxLv": 1,
     "iconId": 600,
@@ -103891,6 +103915,18 @@
     "ruby": "-",
     "maxLv": 1,
     "iconId": 202,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 992570,
+    "type": 2,
+    "name": "戦線礼装",
+    "ruby": "",
+    "maxLv": 1,
+    "iconId": 310,
     "motion": 101
   }
 ]
