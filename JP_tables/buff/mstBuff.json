@@ -43314,6 +43314,23 @@
     "ckSelfIndv": [],
     "ckOpIndv": [],
     "script": {},
+    "id": 3325,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "死亡時発動(防御力ダウン＆強化解除)",
+    "detail": "HPが0になった時、敵単体の防御力ダウン＆強化状態を1つ解除",
+    "iconId": 350,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
     "id": 3327,
     "buffGroup": 0,
     "type": 149,
