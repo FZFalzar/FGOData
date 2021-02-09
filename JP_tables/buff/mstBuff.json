@@ -43327,6 +43327,28 @@
     "vals": [
       3004
     ],
+    "tvals": [
+      5000,
+      4008
+    ],
+    "ckSelfIndv": [
+      4008
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3326,
+    "buffGroup": 0,
+    "type": 89,
+    "name": "攻撃時発動(防御強化解除)",
+    "detail": "通常攻撃時に敵単体の防御強化状態を1つ解除",
+    "iconId": 528,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
     "tvals": [],
     "ckSelfIndv": [],
     "ckOpIndv": [],
