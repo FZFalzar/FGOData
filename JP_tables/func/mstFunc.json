@@ -108320,6 +108320,138 @@
     "categoryId": 0
   },
   {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 6540,
+    "cond": 0,
+    "funcType": 105,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "なし",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 6541,
+    "cond": 0,
+    "funcType": 105,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "なし",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 6542,
+    "cond": 0,
+    "funcType": 105,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "なし",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 6543,
+    "cond": 0,
+    "funcType": 107,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "なし",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 6544,
+    "cond": 0,
+    "funcType": 107,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "なし",
+    "categoryId": 59801
+  },
+  {
+    "vals": [
+      3324
+    ],
+    "tvals": [],
+    "questTvals": [
+      94000116
+    ],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 6545,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 302,
+    "popupText": "スナイプドハート",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3323
+    ],
+    "tvals": [],
+    "questTvals": [
+      94000116
+    ],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 6546,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 302,
+    "popupText": "悪心の跡",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 6547,
+    "cond": 0,
+    "funcType": 111,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "なし",
+    "categoryId": 0
+  },
+  {
     "vals": [
       3325
     ],
@@ -109056,6 +109188,40 @@
     "categoryId": 0
   },
   {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 6588,
+    "cond": 0,
+    "funcType": 111,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "なし",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      743
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 6607,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 322,
+    "popupText": "精神異常無効",
+    "categoryId": 0
+  },
+  {
     "vals": [
       1125
     ],
@@ -109111,5 +109277,269 @@
     "popupIconId": 319,
     "popupText": "毎ターンチャージプラス",
     "categoryId": 0
+  },
+  {
+    "vals": [
+      3133
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      339
+    ],
+    "popupTextColor": 3,
+    "id": 6623,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 4,
+    "applyTarget": 3,
+    "popupIconId": 529,
+    "popupText": "宝具攻撃耐性ダウン",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3133
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      340
+    ],
+    "popupTextColor": 3,
+    "id": 6626,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 4,
+    "applyTarget": 3,
+    "popupIconId": 529,
+    "popupText": "宝具攻撃耐性ダウン",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3133
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      341
+    ],
+    "popupTextColor": 3,
+    "id": 6627,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 4,
+    "applyTarget": 3,
+    "popupIconId": 529,
+    "popupText": "宝具攻撃耐性ダウン",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3367
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 1,
+    "id": 6628,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 319,
+    "popupText": "",
+    "categoryId": 10603
+  },
+  {
+    "vals": [
+      3368
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 6629,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 343,
+    "popupText": "毎ターン発動(攻撃力アップ)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3372
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 6636,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 343,
+    "popupText": "毎ターン発動(NP吸収)",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      326
+    ],
+    "popupTextColor": 2,
+    "id": 6637,
+    "cond": 0,
+    "funcType": 48,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 0,
+    "popupText": "NP吸収",
+    "categoryId": 10602
+  },
+  {
+    "vals": [
+      3373
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      339
+    ],
+    "popupTextColor": 3,
+    "id": 6638,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 506,
+    "popupText": "弱体耐性ダウン",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3375
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      330
+    ],
+    "popupTextColor": 2,
+    "id": 6639,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 300,
+    "popupText": "攻撃力アップ",
+    "categoryId": 10201
+  },
+  {
+    "vals": [
+      3374
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 6640,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 333,
+    "popupText": "攻撃時追加効果",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3377
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 6642,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 322,
+    "popupText": "恐怖無効",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3379
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 6644,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 2,
+    "popupIconId": 343,
+    "popupText": "毎ターン確率でチャージ吸収",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      140
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      326
+    ],
+    "popupTextColor": 2,
+    "id": 6645,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 9,
+    "applyTarget": 1,
+    "popupIconId": 303,
+    "popupText": "NP獲得アップ",
+    "categoryId": 10604
+  },
+  {
+    "vals": [
+      140
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 6646,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 9,
+    "applyTarget": 1,
+    "popupIconId": 303,
+    "popupText": "NP獲得アップ",
+    "categoryId": 10604
   }
 ]

@@ -5518,5 +5518,95 @@
     "iconId": 1010,
     "priority": 6000,
     "isDispValue": true
+  },
+  {
+    "funcId": 6540,
+    "eventId": 80313,
+    "baseFuncId": 0,
+    "nameTotal": "{0}\n獲得数ボーナス合計",
+    "name": "{0}獲得数アップ",
+    "iconId": 94056101,
+    "priority": 1000,
+    "isDispValue": true
+  },
+  {
+    "funcId": 6541,
+    "eventId": 80313,
+    "baseFuncId": 0,
+    "nameTotal": "{0}\n獲得数ボーナス合計",
+    "name": "{0}獲得数アップ",
+    "iconId": 94056102,
+    "priority": 2000,
+    "isDispValue": true
+  },
+  {
+    "funcId": 6542,
+    "eventId": 80313,
+    "baseFuncId": 0,
+    "nameTotal": "{0}\n獲得数ボーナス合計",
+    "name": "{0}獲得数アップ",
+    "iconId": 94056103,
+    "priority": 3000,
+    "isDispValue": true
+  },
+  {
+    "funcId": 6543,
+    "eventId": 80313,
+    "baseFuncId": 0,
+    "nameTotal": "{0}\n獲得量ボーナス合計",
+    "name": "{0}獲得量アップ",
+    "iconId": 94056104,
+    "priority": 4000,
+    "isDispValue": true
+  },
+  {
+    "funcId": 6544,
+    "eventId": 80313,
+    "baseFuncId": 6543,
+    "nameTotal": "{0}\n獲得量ボーナス合計",
+    "name": "{0}獲得量アップ",
+    "iconId": 94056104,
+    "priority": 4000,
+    "isDispValue": true
+  },
+  {
+    "funcId": 6545,
+    "eventId": 80313,
+    "baseFuncId": 0,
+    "nameTotal": "{1} \n攻撃の威力アップ合計",
+    "name": "攻撃の威力アップ合計",
+    "iconId": 302,
+    "priority": 1,
+    "isDispValue": true
+  },
+  {
+    "funcId": 6546,
+    "eventId": 80313,
+    "baseFuncId": 6545,
+    "nameTotal": "{1} \n攻撃の威力アップ合計",
+    "name": "攻撃の威力アップ合計",
+    "iconId": 302,
+    "priority": 1,
+    "isDispValue": true
+  },
+  {
+    "funcId": 6547,
+    "eventId": 80313,
+    "baseFuncId": 0,
+    "nameTotal": "{1}\n得られる自身の絆ボーナス合計",
+    "name": "得られる自身の絆アップ",
+    "iconId": 1009,
+    "priority": 1,
+    "isDispValue": true
+  },
+  {
+    "funcId": 6588,
+    "eventId": 80313,
+    "baseFuncId": 6547,
+    "nameTotal": "{1}\n得られる自身の絆ボーナス合計",
+    "name": "得られる自身の絆アップ",
+    "iconId": 1009,
+    "priority": 1,
+    "isDispValue": true
   }
 ]

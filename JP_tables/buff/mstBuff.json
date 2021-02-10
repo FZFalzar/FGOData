@@ -40062,7 +40062,10 @@
     "effectId": 0
   },
   {
-    "vals": [],
+    "vals": [
+      3005,
+      3009
+    ],
     "tvals": [
       4007
     ],
@@ -43307,6 +43310,36 @@
     "effectId": 0
   },
   {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3323,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "悪心の跡",
+    "detail": "『カルデア・ビター・バレンタイン2021』において与えるダメージをアップ",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3324,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "スナイプドハート",
+    "detail": "『カルデア・ビター・バレンタイン2021』において与えるダメージをアップ",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
     "vals": [
       3004
     ],
@@ -43748,6 +43781,161 @@
     "name": "",
     "detail": "",
     "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3367,
+    "buffGroup": 0,
+    "type": 5,
+    "name": "魔力転用",
+    "detail": "ターン終了時にNPが増える",
+    "iconId": 319,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      2067
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3368,
+    "buffGroup": 0,
+    "type": 85,
+    "name": "毎ターン発動(攻撃力アップ)",
+    "detail": "毎ターン終了時に自身の攻撃力をアップする",
+    "iconId": 343,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3372,
+    "buffGroup": 0,
+    "type": 85,
+    "name": "毎ターン発動(NP吸収)",
+    "detail": "毎ターン終了時に自身を除く味方全体からNPを吸収する",
+    "iconId": 343,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [
+      3005
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      3005
+    ],
+    "script": {},
+    "id": 3373,
+    "buffGroup": 0,
+    "type": 30,
+    "name": "弱体耐性ダウン",
+    "detail": "弱体耐性をダウン(強化扱い)",
+    "iconId": 506,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [
+      5000,
+      4001
+    ],
+    "ckSelfIndv": [
+      4001
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3374,
+    "buffGroup": 0,
+    "type": 148,
+    "name": "コマンドコード攻撃時追加効果",
+    "detail": "コマンドコードが刻印されたカードで攻撃時、追加効果を発動する",
+    "iconId": 333,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006,
+      3027
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "INDIVIDUALITIE": 3005
+    },
+    "id": 3375,
+    "buffGroup": 0,
+    "type": 9,
+    "name": "攻撃力アップ",
+    "detail": "攻撃力をアップ",
+    "iconId": 300,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3061
+    ],
+    "tvals": [
+      3049
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      3049
+    ],
+    "script": {},
+    "id": 3377,
+    "buffGroup": 0,
+    "type": 31,
+    "name": "恐怖無効",
+    "detail": "恐怖を受けなくなる",
+    "iconId": 322,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3379,
+    "buffGroup": 0,
+    "type": 85,
+    "name": "毎ターン発動(チャージ吸収)",
+    "detail": "毎ターン終了時に確率で自身を除く味方全体から宝具チャージを吸収する",
+    "iconId": 343,
     "maxRate": 0,
     "effectId": 0
   }

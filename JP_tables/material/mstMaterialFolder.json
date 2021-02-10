@@ -82,5 +82,26 @@
     "name": "チョコお礼受け取り",
     "eventId": 80276,
     "condQuestId": 94045901
+  },
+  {
+    "id": 8031301,
+    "priority": 3,
+    "name": "メインシナリオ",
+    "eventId": 80313,
+    "condQuestId": 94056101
+  },
+  {
+    "id": 8031302,
+    "priority": 2,
+    "name": "チョコ受け取り",
+    "eventId": 80313,
+    "condQuestId": 94056101
+  },
+  {
+    "id": 8031303,
+    "priority": 1,
+    "name": "チョコお礼受け取り",
+    "eventId": 80313,
+    "condQuestId": 94056101
   }
 ]

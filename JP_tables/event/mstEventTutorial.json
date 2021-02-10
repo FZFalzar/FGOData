@@ -100,6 +100,38 @@
   },
   {
     "targetIds": [
+      "[]"
+    ],
+    "condIds": [
+      0
+    ],
+    "imageIds": [],
+    "textJson": [
+      {
+        "text": "誕生日を2月29日に設定できるように改修を行いました。\n\nこの改修に伴い、すべてのマスターが\n誕生日を[FFEB04]一度だけ[-]再設定できるようにいたしました。\nマスタープロフィールから[FFEB04]一度だけ[-]再設定が可能です。\n\n※2月29日を設定した場合、\nうるう年以外は2月28日が誕生日対象になります。",
+        "dlgFontSize": 26,
+        "rects": [],
+        "textPos": [
+          0,
+          30
+        ],
+        "ptPos": [
+          0,
+          0
+        ]
+      }
+    ],
+    "eventId": -25,
+    "flagType": 1,
+    "num": 2,
+    "openType": 2,
+    "condType": 144,
+    "condValue": 0,
+    "condValue2": 0,
+    "condValue3": 0
+  },
+  {
+    "targetIds": [
       "[3000715,1]"
     ],
     "condIds": [],
@@ -10576,6 +10608,157 @@
     "flagType": 22,
     "num": 1,
     "openType": 24,
+    "condType": 0,
+    "condValue": 0,
+    "condValue2": 0,
+    "condValue3": 0
+  },
+  {
+    "targetIds": [
+      "[]"
+    ],
+    "condIds": [],
+    "imageIds": [
+      882
+    ],
+    "textJson": [],
+    "eventId": 80313,
+    "flagType": 1,
+    "num": 1,
+    "openType": 4,
+    "condType": 0,
+    "condValue": 0,
+    "condValue2": 0,
+    "condValue3": 0
+  },
+  {
+    "targetIds": [
+      "[8360]"
+    ],
+    "condIds": [
+      94056102
+    ],
+    "imageIds": [
+      887,
+      888
+    ],
+    "textJson": [],
+    "eventId": 80313,
+    "flagType": 2,
+    "num": 1,
+    "openType": 18,
+    "condType": 1,
+    "condValue": 0,
+    "condValue2": 0,
+    "condValue3": 0
+  },
+  {
+    "targetIds": [
+      "[]"
+    ],
+    "condIds": [],
+    "imageIds": [
+      883,
+      884
+    ],
+    "textJson": [],
+    "eventId": 80313,
+    "flagType": 19,
+    "num": 1,
+    "openType": 21,
+    "condType": 0,
+    "condValue": 0,
+    "condValue2": 0,
+    "condValue3": 0
+  },
+  {
+    "targetIds": [
+      "[]"
+    ],
+    "condIds": [],
+    "imageIds": [
+      885,
+      886
+    ],
+    "textJson": [],
+    "eventId": 80313,
+    "flagType": 20,
+    "num": 1,
+    "openType": 22,
+    "condType": 0,
+    "condValue": 0,
+    "condValue2": 0,
+    "condValue3": 0
+  },
+  {
+    "targetIds": [
+      "[]"
+    ],
+    "condIds": [],
+    "imageIds": [
+      882
+    ],
+    "textJson": [],
+    "eventId": 80313,
+    "flagType": 21,
+    "num": 1,
+    "openType": 23,
+    "condType": 0,
+    "condValue": 0,
+    "condValue2": 0,
+    "condValue3": 0
+  },
+  {
+    "targetIds": [
+      "[]"
+    ],
+    "condIds": [],
+    "imageIds": [
+      883,
+      884
+    ],
+    "textJson": [],
+    "eventId": 80313,
+    "flagType": 22,
+    "num": 1,
+    "openType": 24,
+    "condType": 0,
+    "condValue": 0,
+    "condValue2": 0,
+    "condValue3": 0
+  },
+  {
+    "targetIds": [
+      "[]"
+    ],
+    "condIds": [],
+    "imageIds": [
+      885,
+      886
+    ],
+    "textJson": [],
+    "eventId": 80313,
+    "flagType": 23,
+    "num": 1,
+    "openType": 25,
+    "condType": 0,
+    "condValue": 0,
+    "condValue2": 0,
+    "condValue3": 0
+  },
+  {
+    "targetIds": [
+      "[]"
+    ],
+    "condIds": [],
+    "imageIds": [
+      882
+    ],
+    "textJson": [],
+    "eventId": 80313,
+    "flagType": 42,
+    "num": 1,
+    "openType": 44,
     "condType": 0,
     "condValue": 0,
     "condValue2": 0,
