@@ -5590,7 +5590,7 @@
     "flag": 0
   },
   {
-    "strengthStatus": 0,
+    "strengthStatus": 1,
     "svtId": 502500,
     "num": 1,
     "priority": 1,
@@ -5625,6 +5625,19 @@
     "condQuestPhase": 1,
     "condLv": 0,
     "condLimitCount": 3,
+    "eventId": 0,
+    "flag": 0
+  },
+  {
+    "strengthStatus": 2,
+    "svtId": 502500,
+    "num": 1,
+    "priority": 2,
+    "skillId": 581550,
+    "condQuestId": 94035603,
+    "condQuestPhase": 3,
+    "condLv": 0,
+    "condLimitCount": 0,
     "eventId": 0,
     "flag": 0
   },
