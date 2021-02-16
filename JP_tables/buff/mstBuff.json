@@ -43830,6 +43830,203 @@
     "effectId": 0
   },
   {
+    "vals": [],
+    "tvals": [
+      2760
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      2760
+    ],
+    "script": {},
+    "id": 3355,
+    "buffGroup": 0,
+    "type": 42,
+    "name": "バレンタインの化身",
+    "detail": "〔無償の愛〕状態の敵に対する防御力をアップ＆精神異常を受けなくなる",
+    "iconId": 301,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4008
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4008
+    ],
+    "script": {},
+    "id": 3356,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "ツヤツヤゴッド肌",
+    "detail": "通常攻撃による被ダメージが減少する＆精神異常を受けなくなる",
+    "iconId": 334,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3357,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "威力アップ",
+    "detail": "与えるダメージをアップ",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005,
+      2760
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3358,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "無償の愛",
+    "detail": "〔無償の愛〕状態を付与する(弱体扱い)",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005,
+      2761
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3359,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "無償の愛（真）",
+    "detail": "〔無償の愛（真）〕状態を付与する(弱体扱い)",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005,
+      2762
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3360,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "無限の愛（真）",
+    "detail": "〔無限の愛（真）〕状態を付与する(弱体扱い)",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      2760
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      2760
+    ],
+    "script": {},
+    "id": 3361,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "威力アップ〔無償の愛〕",
+    "detail": "〔無償の愛〕状態の敵に与えるダメージをアップ",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      2761
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      2761
+    ],
+    "script": {},
+    "id": 3362,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "威力アップ〔無償の愛（真）〕",
+    "detail": "〔無償の愛（真）〕状態の敵に与えるダメージをアップ",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      2762
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      2762
+    ],
+    "script": {},
+    "id": 3363,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "威力アップ〔無限の愛（真）〕",
+    "detail": "〔無限の愛（真）〕状態の敵に与えるダメージをアップ",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3364,
+    "buffGroup": 0,
+    "type": 137,
+    "name": "攻撃時発動(無限の愛（真）)",
+    "detail": "攻撃時、敵単体に〔無限の愛（真）〕状態を付与する",
+    "iconId": 528,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3365,
+    "buffGroup": 0,
+    "type": 89,
+    "name": "攻撃時追加効果(攻撃力ダウン)",
+    "detail": "通常攻撃時、敵単体の攻撃力をダウンする",
+    "iconId": 528,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
     "vals": [
       3004
     ],
@@ -43861,6 +44058,68 @@
     "name": "毎ターン発動(攻撃力アップ)",
     "detail": "毎ターン終了時に自身の攻撃力をアップする",
     "iconId": 343,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3369,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "オリオンの欲望",
+    "detail": "HPが0になった時、味方のオリオンにクリティカル発生率アップを付与＆クリティカル威力をアップを付与",
+    "iconId": 350,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6021
+    ],
+    "tvals": [
+      2
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      2
+    ],
+    "script": {},
+    "id": 3370,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "真実の愛",
+    "detail": "〔女性〕に対する特殊耐性をアップ",
+    "iconId": 334,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3018,
+      3021,
+      3007
+    ],
+    "tvals": [
+      1
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      1
+    ],
+    "script": {},
+    "id": 3371,
+    "buffGroup": 410,
+    "type": 24,
+    "name": "回避〔男性〕",
+    "detail": "〔男性〕からの攻撃によるダメージを0にする",
+    "iconId": 305,
     "maxRate": 0,
     "effectId": 0
   },
@@ -43947,6 +44206,25 @@
   },
   {
     "vals": [
+      3005,
+      3008,
+      3033
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3376,
+    "buffGroup": 0,
+    "type": 10,
+    "name": "攻撃力ダウン",
+    "detail": "攻撃力をダウン",
+    "iconId": 503,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
       3004,
       3061
     ],
@@ -43969,6 +44247,27 @@
   },
   {
     "vals": [
+      6021
+    ],
+    "tvals": [
+      3012
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      3012
+    ],
+    "script": {},
+    "id": 3378,
+    "buffGroup": 0,
+    "type": 31,
+    "name": "真実の愛",
+    "detail": "魅了を受けなくなる",
+    "iconId": 322,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
       3004
     ],
     "tvals": [],
@@ -43981,6 +44280,45 @@
     "name": "毎ターン発動(チャージ吸収)",
     "detail": "毎ターン終了時に確率で自身を除く味方全体から宝具チャージを吸収する",
     "iconId": 343,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3018,
+      3022,
+      3007
+    ],
+    "tvals": [
+      2000
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      2000
+    ],
+    "script": {},
+    "id": 3380,
+    "buffGroup": 400,
+    "type": 26,
+    "name": "無敵〔神性〕",
+    "detail": "〔神性〕からの攻撃によるダメージを0にする",
+    "iconId": 311,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3381,
+    "buffGroup": 0,
+    "type": 137,
+    "name": "攻撃時発動(攻撃力アップ)",
+    "detail": "攻撃時、自身の攻撃力をアップする",
+    "iconId": 333,
     "maxRate": 0,
     "effectId": 0
   }

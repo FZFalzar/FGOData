@@ -694,5 +694,17 @@
     "targetNum": 1,
     "priorGiftId": 94055314,
     "script": "{}"
+  },
+  {
+    "priorGiftIconIds": [
+      3,
+      0
+    ],
+    "giftId": 94056108,
+    "condType": 1,
+    "targetId": 94056108,
+    "targetNum": 1,
+    "priorGiftId": 94056108,
+    "script": "{\"overwriteTreasureEffectId\":\"bit_gacha_get\"}"
   }
 ]
