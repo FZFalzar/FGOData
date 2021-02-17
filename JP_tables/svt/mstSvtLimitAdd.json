@@ -9069,9 +9069,7 @@
   },
   {
     "individuality": [],
-    "script": {
-      "overWriteServantBattleName": "スペース・イシュタル"
-    },
+    "script": {},
     "svtId": 1100900,
     "limitCount": 1,
     "battleCharaId": 1100910,
@@ -9085,9 +9083,7 @@
   },
   {
     "individuality": [],
-    "script": {
-      "overWriteServantBattleName": "スペース・イシュタル"
-    },
+    "script": {},
     "svtId": 1100900,
     "limitCount": 2,
     "battleCharaId": 1100910,
@@ -9133,7 +9129,9 @@
   },
   {
     "individuality": [],
-    "script": {},
+    "script": {
+      "overWriteServantBattleName": "アシュタレト・オリジン"
+    },
     "svtId": 1100900,
     "limitCount": 11,
     "battleCharaId": 1100930,
