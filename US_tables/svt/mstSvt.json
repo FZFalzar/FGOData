@@ -211,7 +211,8 @@
     "relateQuestIds": [
       91100501,
       91100502,
-      91100503
+      91100503,
+      94035608
     ],
     "individuality": [
       5000,
@@ -1266,7 +1267,9 @@
     "flag": 0
   },
   {
-    "relateQuestIds": [],
+    "relateQuestIds": [
+      94037801
+    ],
     "individuality": [
       5000,
       102800,
@@ -10857,7 +10860,9 @@
     "flag": 0
   },
   {
-    "relateQuestIds": [],
+    "relateQuestIds": [
+      94037802
+    ],
     "individuality": [
       5000,
       602300,
@@ -90713,6 +90718,75 @@
     "cvId": 0,
     "collectionNo": 0,
     "materialStoryPriority": 1000,
+    "flag": 0
+  },
+  {
+    "relateQuestIds": [],
+    "individuality": [
+      5000,
+      9941810,
+      2,
+      109,
+      201,
+      300,
+      303,
+      1000,
+      2001,
+      2000,
+      2040,
+      2008,
+      2011,
+      2037,
+      2076
+    ],
+    "classPassive": [
+      54551,
+      20450,
+      83650,
+      30550,
+      348650
+    ],
+    "cardIds": [
+      3,
+      1,
+      1,
+      2,
+      2
+    ],
+    "script": {
+      "battleHeight": 6000,
+      "cameraActionId": 330
+    },
+    "id": 9941810,
+    "baseSvtId": 9941810,
+    "name": "Kingprotea",
+    "ruby": "Kingprotea",
+    "battleName": "Kingprotea",
+    "classId": 10,
+    "type": 5,
+    "limitMax": 4,
+    "rewardLv": 0,
+    "friendshipId": 1000,
+    "maxFriendshipRank": 0,
+    "genderType": 2,
+    "attri": 3,
+    "combineSkillId": 0,
+    "combineLimitId": 0,
+    "sellQp": 0,
+    "sellMana": 0,
+    "sellRarePri": 0,
+    "expType": 9999,
+    "combineMaterialId": 100,
+    "cost": 0,
+    "battleSize": 11,
+    "hpGaugeY": -2000,
+    "starRate": 102,
+    "deathRate": 450,
+    "attackAttri": 1,
+    "illustratorId": -1,
+    "cvId": -1,
+    "collectionNo": 0,
+    "materialStoryPriority": 0,
     "flag": 0
   }
 ]

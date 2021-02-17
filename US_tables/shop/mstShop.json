@@ -2349,6 +2349,72 @@
       0
     ],
     "prices": [
+      15
+    ],
+    "targetIds": [
+      9570300
+    ],
+    "script": {},
+    "id": 11124,
+    "baseShopId": 11124,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 1000,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 20,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Hero Crystal: Star Fou",
+    "detail": "Exchange for one ★3 ALL HP Up card",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1614556800,
+    "closedAt": 1617235199
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      15
+    ],
+    "targetIds": [
+      9670300
+    ],
+    "script": {},
+    "id": 11125,
+    "baseShopId": 11125,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 2000,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 20,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Hero Crystal: Sun Fou",
+    "detail": "Exchange for one ★3 ALL ATK Up card",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1614556800,
+    "closedAt": 1617235199
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
       500
     ],
     "targetIds": [
@@ -4329,6 +4395,72 @@
       0
     ],
     "prices": [
+      20
+    ],
+    "targetIds": [
+      4001
+    ],
+    "script": {},
+    "id": 14099,
+    "baseShopId": 14099,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 100,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 5,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Summon Ticket",
+    "detail": "Exchange for one Summon Ticket that can perform one Saint Quartz summon",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1614556800,
+    "closedAt": 1617235199
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      40
+    ],
+    "targetIds": [
+      11011
+    ],
+    "script": {},
+    "id": 14100,
+    "baseShopId": 14100,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 200,
+    "purchaseType": 5,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 5,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "EXP Card Set",
+    "detail": "Exchange for 10 ★4 ALL EXP cards",
+    "infoMessage": "Exchange for 10 ★4 ALL EXP cards",
+    "warningMessage": "",
+    "imageId": 14,
+    "bgImageId": 0,
+    "openedAt": 1614556800,
+    "closedAt": 1617235199
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
       100
     ],
     "targetIds": [
@@ -5247,6 +5379,105 @@
     "bgImageId": 0,
     "openedAt": 1612137600,
     "closedAt": 1614556799
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      100
+    ],
+    "targetIds": [
+      5000
+    ],
+    "script": {},
+    "id": 18029,
+    "baseShopId": 18029,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 20,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Quick Code Opener",
+    "detail": "Exchange for [Command Code Slot Release Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1614556800,
+    "closedAt": 1617235199
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      100
+    ],
+    "targetIds": [
+      5001
+    ],
+    "script": {},
+    "id": 18030,
+    "baseShopId": 18030,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 21,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Arts Code Opener",
+    "detail": "Exchange for [Command Code Slot Release Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1614556800,
+    "closedAt": 1617235199
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      100
+    ],
+    "targetIds": [
+      5002
+    ],
+    "script": {},
+    "id": 18031,
+    "baseShopId": 18031,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 22,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Buster Code Opener",
+    "detail": "Exchange for [Command Code Slot Release Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1614556800,
+    "closedAt": 1617235199
   },
   {
     "itemIds": [
@@ -23505,6 +23736,72 @@
       10
     ],
     "targetIds": [
+      1000200
+    ],
+    "script": {},
+    "id": 4500339,
+    "baseShopId": 4000065,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 895,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Meltryllis",
+    "detail": "Exchange for Limited Time ★5 Servant",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1613534400,
+    "closedAt": 1615175999
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      1000900
+    ],
+    "script": {},
+    "id": 4500340,
+    "baseShopId": 4500340,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 894,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Kingprotea",
+    "detail": "Exchange for Limited Time ★5 Servant",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1614052800,
+    "closedAt": 1615262399
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
       500900
     ],
     "script": {},
@@ -29370,6 +29667,237 @@
     "bgImageId": 0,
     "openedAt": 1613347200,
     "closedAt": 1615766399
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      5
+    ],
+    "targetIds": [
+      94011801
+    ],
+    "script": {},
+    "id": 6000287,
+    "baseShopId": 6000287,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 256,
+    "priority": 66,
+    "purchaseType": 6,
+    "setNum": 0,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Memories of the Far Side of the Moon Acquisition Quest",
+    "detail": "Unlocks Fate/EXTRA CCC Special Event Limited Mystic Code Acquisition Quest",
+    "infoMessage": "Unlocks Mystic Code Acquisition Quest",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1613534400,
+    "closedAt": 1901231999
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      3
+    ],
+    "targetIds": [
+      1000
+    ],
+    "script": {},
+    "id": 6000288,
+    "baseShopId": 6000288,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 30,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Lantern of Chaldea",
+    "detail": "Exchange for [Bond Limit Release Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1615766400,
+    "closedAt": 1618444799
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      5003
+    ],
+    "script": {},
+    "id": 6000289,
+    "baseShopId": 6000289,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 31,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 3,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Code Remover",
+    "detail": "Exchange for [Command Code Detacher Item]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1615766400,
+    "closedAt": 1618444799
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      5
+    ],
+    "targetIds": [
+      6999
+    ],
+    "script": {},
+    "id": 6000290,
+    "baseShopId": 6000290,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 32,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Crystallized Lore",
+    "detail": "Exchange for [Skill up Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1615766400,
+    "closedAt": 1618444799
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      3
+    ],
+    "targetIds": [
+      9570400
+    ],
+    "script": {},
+    "id": 6000291,
+    "baseShopId": 6000291,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 33,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Hero Crystal: Meteor Fou",
+    "detail": "Exchange for one ★4 ALL HP Up card",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1615766400,
+    "closedAt": 1618444799
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      3
+    ],
+    "targetIds": [
+      9670400
+    ],
+    "script": {},
+    "id": 6000292,
+    "baseShopId": 6000292,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 34,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Hero Crystal: Corona Fou",
+    "detail": "Exchange for one ★4 ALL ATK Up card",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1615766400,
+    "closedAt": 1618444799
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      4
+    ],
+    "script": {},
+    "id": 6000293,
+    "baseShopId": 6000293,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 35,
+    "purchaseType": 1,
+    "setNum": 20000,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 5,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Friend Points",
+    "detail": "Exchange for 20,000 Friend Points",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1615766400,
+    "closedAt": 1618444799
   },
   {
     "itemIds": [
@@ -59762,6 +60290,39 @@
     "imageId": 0,
     "bgImageId": 0,
     "openedAt": 1611115200,
+    "closedAt": 1901231999
+  },
+  {
+    "itemIds": [
+      94011911
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      1
+    ],
+    "script": {},
+    "id": 9000014,
+    "baseShopId": 9000014,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 114,
+    "purchaseType": 1,
+    "setNum": 1000000,
+    "payType": 6,
+    "shopType": 9,
+    "limitNum": 0,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "1,000,000 QP",
+    "detail": "Sell to earn QP",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1613534400,
     "closedAt": 1901231999
   },
   {
@@ -127764,6 +128325,2369 @@
     "bgImageId": 8023308,
     "openedAt": 1613534400,
     "closedAt": 1614139199
+  },
+  {
+    "itemIds": [
+      94034003
+    ],
+    "prices": [
+      15000
+    ],
+    "targetIds": [
+      94034009
+    ],
+    "script": {},
+    "id": 80236000,
+    "baseShopId": 80236000,
+    "eventId": 80236,
+    "slot": 1,
+    "flag": 0,
+    "priority": 10,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Kiara Punisher \"Melt's Death Whip\"",
+    "detail": "Exchange for the item that prevents Beast III/R's ability \"Black Thread of Skhanda\"",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80236,
+    "openedAt": 1613534400,
+    "closedAt": 1615175999
+  },
+  {
+    "itemIds": [
+      94034003
+    ],
+    "prices": [
+      500
+    ],
+    "targetIds": [
+      94034025
+    ],
+    "script": {},
+    "id": 80236001,
+    "baseShopId": 80236001,
+    "eventId": 80236,
+    "slot": 1,
+    "flag": 0,
+    "priority": 20,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Kiara Punisher \"Damage Inhibiting Spray\"",
+    "detail": "Exchange for the item that negates Beast III/R's ability \"ATK Up 20%\"",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80236,
+    "openedAt": 1613534400,
+    "closedAt": 1615175999
+  },
+  {
+    "itemIds": [
+      94034003
+    ],
+    "prices": [
+      500
+    ],
+    "targetIds": [
+      94034026
+    ],
+    "script": {},
+    "id": 80236002,
+    "baseShopId": 80236002,
+    "eventId": 80236,
+    "slot": 1,
+    "flag": 0,
+    "priority": 30,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Kiara Punisher \"Makeup Remover, DEF\"",
+    "detail": "Exchange for the item that negates Beast III/R's ability \"DEF Up 20%\"",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80236,
+    "openedAt": 1613534400,
+    "closedAt": 1615175999
+  },
+  {
+    "itemIds": [
+      94034003
+    ],
+    "prices": [
+      500
+    ],
+    "targetIds": [
+      94034027
+    ],
+    "script": {},
+    "id": 80236003,
+    "baseShopId": 80236003,
+    "eventId": 80236,
+    "slot": 1,
+    "flag": 0,
+    "priority": 40,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Kiara Punisher \"Afterglow Killer Capsule SP\"",
+    "detail": "Exchange for the item that negates Beast III/R's ability \"NP Strength Up 50%\"",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80236,
+    "openedAt": 1613534400,
+    "closedAt": 1615175999
+  },
+  {
+    "itemIds": [
+      94034003
+    ],
+    "prices": [
+      500
+    ],
+    "targetIds": [
+      94034028
+    ],
+    "script": {},
+    "id": 80236004,
+    "baseShopId": 80236004,
+    "eventId": 80236,
+    "slot": 1,
+    "flag": 0,
+    "priority": 50,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Kiara Punisher \"Critical None\"",
+    "detail": "Exchange for the item that negates Beast III/R's ability \"Critical Strength Up 50%\"",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80236,
+    "openedAt": 1613534400,
+    "closedAt": 1615175999
+  },
+  {
+    "itemIds": [
+      94034003
+    ],
+    "prices": [
+      1000
+    ],
+    "targetIds": [
+      94034029
+    ],
+    "script": {},
+    "id": 80236005,
+    "baseShopId": 80236005,
+    "eventId": 80236,
+    "slot": 1,
+    "flag": 0,
+    "priority": 60,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Kiara Punisher \"Makeup Remover, Debuff Resist\"",
+    "detail": "Exchange for the item that negates Beast III/R's ability \"Debuff Resist Up 50%\"",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80236,
+    "openedAt": 1613534400,
+    "closedAt": 1615175999
+  },
+  {
+    "itemIds": [
+      94034003
+    ],
+    "prices": [
+      2000
+    ],
+    "targetIds": [
+      94034030
+    ],
+    "script": {},
+    "id": 80236006,
+    "baseShopId": 80236006,
+    "eventId": 80236,
+    "slot": 1,
+    "flag": 0,
+    "priority": 70,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Kiara Punisher \"Stun Good Skin\"",
+    "detail": "Exchange for the item that negates Beast III/R's ability \"Immobility Resist Up 50%\"",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80236,
+    "openedAt": 1613534400,
+    "closedAt": 1615175999
+  },
+  {
+    "itemIds": [
+      94034003
+    ],
+    "prices": [
+      1000
+    ],
+    "targetIds": [
+      94034031
+    ],
+    "script": {},
+    "id": 80236007,
+    "baseShopId": 80236007,
+    "eventId": 80236,
+    "slot": 1,
+    "flag": 0,
+    "priority": 80,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Kiara Punisher \"Quick XXX-Accuracy\"",
+    "detail": "Exchange for the item that negates Beast III/R's ability \"Quick ATK Resist 50%\"",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80236,
+    "openedAt": 1613534400,
+    "closedAt": 1615175999
+  },
+  {
+    "itemIds": [
+      94034003
+    ],
+    "prices": [
+      1000
+    ],
+    "targetIds": [
+      94034032
+    ],
+    "script": {},
+    "id": 80236008,
+    "baseShopId": 80236008,
+    "eventId": 80236,
+    "slot": 1,
+    "flag": 0,
+    "priority": 90,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Kiara Punisher \"Arts XXX-Accuracy\"",
+    "detail": "Exchange for the item that negates Beast III/R's ability \"Arts ATK Resist 50%\"",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80236,
+    "openedAt": 1613534400,
+    "closedAt": 1615175999
+  },
+  {
+    "itemIds": [
+      94034003
+    ],
+    "prices": [
+      1000
+    ],
+    "targetIds": [
+      94034033
+    ],
+    "script": {},
+    "id": 80236009,
+    "baseShopId": 80236009,
+    "eventId": 80236,
+    "slot": 1,
+    "flag": 0,
+    "priority": 100,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Kiara Punisher \"Buster XXX-Accuracy\"",
+    "detail": "Exchange for the item that negates Beast III/R's ability \"Buster ATK Resist 50%\"",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80236,
+    "openedAt": 1613534400,
+    "closedAt": 1615175999
+  },
+  {
+    "itemIds": [
+      94034003
+    ],
+    "prices": [
+      500
+    ],
+    "targetIds": [
+      94034034
+    ],
+    "script": {},
+    "id": 80236010,
+    "baseShopId": 80236010,
+    "eventId": 80236,
+    "slot": 1,
+    "flag": 0,
+    "priority": 110,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Kiara Punisher \"Slip Barrier\"",
+    "detail": "Exchange for the item that negates Beast III/R's ability \"Decrease All Enemies' HP by 1000 each turn\"",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80236,
+    "openedAt": 1613534400,
+    "closedAt": 1615175999
+  },
+  {
+    "itemIds": [
+      94034003
+    ],
+    "prices": [
+      1000
+    ],
+    "targetIds": [
+      94034035
+    ],
+    "script": {},
+    "id": 80236011,
+    "baseShopId": 80236011,
+    "eventId": 80236,
+    "slot": 1,
+    "flag": 0,
+    "priority": 120,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Kiara Punisher \"Star Safe\"",
+    "detail": "Exchange for the item that negates Beast III/R's ability \"Decrease All Enemies' C. Star by 10 each turn\"",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80236,
+    "openedAt": 1613534400,
+    "closedAt": 1615175999
+  },
+  {
+    "itemIds": [
+      94034003
+    ],
+    "prices": [
+      2000
+    ],
+    "targetIds": [
+      94034036
+    ],
+    "script": {},
+    "id": 80236012,
+    "baseShopId": 80236012,
+    "eventId": 80236,
+    "slot": 1,
+    "flag": 0,
+    "priority": 130,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Kiara Punisher \"Anti-Erotic Agent\"",
+    "detail": "Exchange for the item that negates Beast III/R's ability \"Decrease All Enemies' NP by 5% each turn\"",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80236,
+    "openedAt": 1613534400,
+    "closedAt": 1615175999
+  },
+  {
+    "itemIds": [
+      94034003
+    ],
+    "prices": [
+      500
+    ],
+    "targetIds": [
+      94034037
+    ],
+    "script": {},
+    "id": 80236013,
+    "baseShopId": 80236013,
+    "eventId": 80236,
+    "slot": 1,
+    "flag": 0,
+    "priority": 140,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Kiara Punisher \"Afterglow Killer Capsule EX\"",
+    "detail": "Exchange for the item that negates Beast III/R's ability \"Recover 5000 HP each turn\"",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80236,
+    "openedAt": 1613534400,
+    "closedAt": 1615175999
+  },
+  {
+    "itemIds": [
+      94034003
+    ],
+    "prices": [
+      2000
+    ],
+    "targetIds": [
+      94034038
+    ],
+    "script": {},
+    "id": 80236014,
+    "baseShopId": 80236014,
+    "eventId": 80236,
+    "slot": 1,
+    "flag": 0,
+    "priority": 150,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Kiara Punisher \"Just One Color\"",
+    "detail": "Exchange for the item that negates Beast III/R's ability \"Multi-Colored Tranquility EX\"",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80236,
+    "openedAt": 1613534400,
+    "closedAt": 1615175999
+  },
+  {
+    "itemIds": [
+      94034003
+    ],
+    "prices": [
+      2000
+    ],
+    "targetIds": [
+      94034039
+    ],
+    "script": {},
+    "id": 80236015,
+    "baseShopId": 80236015,
+    "eventId": 80236,
+    "slot": 1,
+    "flag": 0,
+    "priority": 160,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Kiara Punisher \"Sword of Humanity's Morals\"",
+    "detail": "Exchange for the item that negates Beast III/R's ability \"Beast's Authority A\"",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80236,
+    "openedAt": 1613534400,
+    "closedAt": 1615175999
+  },
+  {
+    "itemIds": [
+      94034003
+    ],
+    "prices": [
+      500
+    ],
+    "targetIds": [
+      94034040
+    ],
+    "script": {},
+    "id": 80236016,
+    "baseShopId": 80236016,
+    "eventId": 80236,
+    "slot": 1,
+    "flag": 0,
+    "priority": 220,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Kiara Punisher \"Manuscript of 'The Little Mermaid'\"",
+    "detail": "Exchange for the item allows \"Continue\" during the Beast III/R battle.",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80236,
+    "openedAt": 1613534400,
+    "closedAt": 1615175999
+  },
+  {
+    "itemIds": [
+      94034001
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      80236000,
+      80236001,
+      80236002,
+      80236003,
+      80236004,
+      80236005,
+      80236006,
+      80236007,
+      80236008,
+      80236009,
+      80236010,
+      80236011,
+      80236012,
+      80236013,
+      80236014,
+      80236015,
+      80236016,
+      80236018,
+      80236019,
+      80236020,
+      80236021,
+      80236022
+    ],
+    "script": {},
+    "id": 80236017,
+    "baseShopId": 80236017,
+    "eventId": 80236,
+    "slot": 1,
+    "flag": 0,
+    "priority": 230,
+    "purchaseType": 13,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Kiara Punisher Reset",
+    "detail": "Reset all purchases of the Kiara Punishers and return all KP [Can be purchased multiple times]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 80015,
+    "bgImageId": 80236,
+    "openedAt": 1613534400,
+    "closedAt": 1615175999
+  },
+  {
+    "itemIds": [
+      94034003
+    ],
+    "prices": [
+      500
+    ],
+    "targetIds": [
+      94034041
+    ],
+    "script": {},
+    "id": 80236018,
+    "baseShopId": 80236018,
+    "eventId": 80236,
+    "slot": 1,
+    "flag": 0,
+    "priority": 170,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Kiara Punisher \"Quick X-Accuracy\"",
+    "detail": "Exchange for the item that applies \"Quick ATK Resist Down 20%\" to Beast III/R",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80236,
+    "openedAt": 1613534400,
+    "closedAt": 1615175999
+  },
+  {
+    "itemIds": [
+      94034003
+    ],
+    "prices": [
+      500
+    ],
+    "targetIds": [
+      94034042
+    ],
+    "script": {},
+    "id": 80236019,
+    "baseShopId": 80236019,
+    "eventId": 80236,
+    "slot": 1,
+    "flag": 0,
+    "priority": 180,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Kiara Punisher \"Arts X-Accuracy\"",
+    "detail": "Exchange for the item that applies \"Arts ATK Resist Down 20%\" to Beast III/R",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80236,
+    "openedAt": 1613534400,
+    "closedAt": 1615175999
+  },
+  {
+    "itemIds": [
+      94034003
+    ],
+    "prices": [
+      500
+    ],
+    "targetIds": [
+      94034043
+    ],
+    "script": {},
+    "id": 80236020,
+    "baseShopId": 80236020,
+    "eventId": 80236,
+    "slot": 1,
+    "flag": 0,
+    "priority": 190,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Kiara Punisher \"Buster X-Accuracy\"",
+    "detail": "Exchange for the item that applies \"Buster ATK Resist Down 20%\" to Beast III/R",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80236,
+    "openedAt": 1613534400,
+    "closedAt": 1615175999
+  },
+  {
+    "itemIds": [
+      94034003
+    ],
+    "prices": [
+      500
+    ],
+    "targetIds": [
+      94034044
+    ],
+    "script": {},
+    "id": 80236021,
+    "baseShopId": 80236021,
+    "eventId": 80236,
+    "slot": 1,
+    "flag": 0,
+    "priority": 200,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Kiara Punisher \"Growth Inhibitor Anticell\"",
+    "detail": "Exchange for the item that applies \"HP Recovery Down 50% through Skill and NP\" to Beast III/R",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80236,
+    "openedAt": 1613534400,
+    "closedAt": 1615175999
+  },
+  {
+    "itemIds": [
+      94034003
+    ],
+    "prices": [
+      1000
+    ],
+    "targetIds": [
+      94034045
+    ],
+    "script": {},
+    "id": 80236022,
+    "baseShopId": 80236022,
+    "eventId": 80236,
+    "slot": 1,
+    "flag": 0,
+    "priority": 210,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Kiara Punisher \"NP Seal Guard Mask\"",
+    "detail": "Exchange for the item that negates Beast III/R's Noble Phantasm's NP Seal effect",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80236,
+    "openedAt": 1613534400,
+    "closedAt": 1615175999
+  },
+  {
+    "itemIds": [
+      94034002
+    ],
+    "prices": [
+      300
+    ],
+    "targetIds": [
+      94034013
+    ],
+    "script": {
+      "addMessage": "A quest in [Devil's Elbow] has been unlocked"
+    },
+    "id": 80236100,
+    "baseShopId": 80236100,
+    "eventId": 80236,
+    "slot": 2,
+    "flag": 268,
+    "priority": 25,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Gate Key (Elbow)",
+    "detail": "Exchange for the Key that unlocks\nFREE BATTLE Area [Devil's Elbow]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80236,
+    "openedAt": 1613534400,
+    "closedAt": 1615175999
+  },
+  {
+    "itemIds": [
+      94034002
+    ],
+    "prices": [
+      200
+    ],
+    "targetIds": [
+      94034014
+    ],
+    "script": {
+      "addMessage": "A quest in [Portopia Thigh] has been unlocked"
+    },
+    "id": 80236101,
+    "baseShopId": 80236101,
+    "eventId": 80236,
+    "slot": 2,
+    "flag": 268,
+    "priority": 24,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Church Key",
+    "detail": "Exchange for the Key that unlocks\n[EE0000]NEXT Story Area[-] [Portopia Thigh]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80236,
+    "openedAt": 1613534400,
+    "closedAt": 1615175999
+  },
+  {
+    "itemIds": [
+      94034002
+    ],
+    "prices": [
+      400
+    ],
+    "targetIds": [
+      94034015
+    ],
+    "script": {
+      "addMessage": "A quest in [Ankle Link] has been unlocked"
+    },
+    "id": 80236102,
+    "baseShopId": 80236102,
+    "eventId": 80236,
+    "slot": 2,
+    "flag": 268,
+    "priority": 23,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Gate Key (Ankle)",
+    "detail": "Exchange for the Key that unlocks\nFREE BATTLE Area [Ankle Link]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80236,
+    "openedAt": 1613534400,
+    "closedAt": 1615175999
+  },
+  {
+    "itemIds": [
+      94034002
+    ],
+    "prices": [
+      300
+    ],
+    "targetIds": [
+      94034016
+    ],
+    "script": {
+      "addMessage": "A quest in [Search Arm] has been unlocked"
+    },
+    "id": 80236103,
+    "baseShopId": 80236103,
+    "eventId": 80236,
+    "slot": 2,
+    "flag": 268,
+    "priority": 21,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Gate Key (Cat)",
+    "detail": "Exchange for the Key that unlocks\n[EE0000]NEXT Story Area[-] [Search Arm]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80236,
+    "openedAt": 1613534400,
+    "closedAt": 1615175999
+  },
+  {
+    "itemIds": [
+      94034002
+    ],
+    "prices": [
+      300
+    ],
+    "targetIds": [
+      94034017
+    ],
+    "script": {
+      "addMessage": "A quest in [Flank Separator] has been unlocked"
+    },
+    "id": 80236104,
+    "baseShopId": 80236104,
+    "eventId": 80236,
+    "slot": 2,
+    "flag": 268,
+    "priority": 22,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Gate Key (Separator)",
+    "detail": "Exchange for the Key that unlocks\n[EE0000]NEXT Story Area[-] [Flank Separator]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80236,
+    "openedAt": 1613534400,
+    "closedAt": 1615175999
+  },
+  {
+    "itemIds": [
+      94034002
+    ],
+    "prices": [
+      500
+    ],
+    "targetIds": [
+      94034018
+    ],
+    "script": {
+      "addMessage": "A quest in [Kind Thenar] has been unlocked"
+    },
+    "id": 80236105,
+    "baseShopId": 80236105,
+    "eventId": 80236,
+    "slot": 2,
+    "flag": 268,
+    "priority": 20,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Gate Key (Kind)",
+    "detail": "Exchange for the Key that unlocks\nFREE BATTLE Area [Kind Thenar]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80236,
+    "openedAt": 1613534400,
+    "closedAt": 1615175999
+  },
+  {
+    "itemIds": [
+      94034002
+    ],
+    "prices": [
+      400
+    ],
+    "targetIds": [
+      94034008
+    ],
+    "script": {
+      "addMessage": "A quest in [Flank Separator] has been unlocked"
+    },
+    "id": 80236106,
+    "baseShopId": 80236106,
+    "eventId": 80236,
+    "slot": 2,
+    "flag": 268,
+    "priority": 19,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Tickle Tickle Hand",
+    "detail": "Exchange for the Key that unlocks\n[EE0000]NEXT Story Quest[-] [Act II (5/5)]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80236,
+    "openedAt": 1613534400,
+    "closedAt": 1615175999
+  },
+  {
+    "itemIds": [
+      94034002
+    ],
+    "prices": [
+      300
+    ],
+    "targetIds": [
+      94034019
+    ],
+    "script": {
+      "addMessage": "A quest in [Secret Nape] has been unlocked"
+    },
+    "id": 80236107,
+    "baseShopId": 80236107,
+    "eventId": 80236,
+    "slot": 2,
+    "flag": 268,
+    "priority": 18,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Gate Key (Nape)",
+    "detail": "Exchange for the Key that unlocks\n[EE0000]NEXT Story Area[-] [Secret Nape]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80236,
+    "openedAt": 1613534400,
+    "closedAt": 1615175999
+  },
+  {
+    "itemIds": [
+      94034002
+    ],
+    "prices": [
+      500
+    ],
+    "targetIds": [
+      94034020
+    ],
+    "script": {
+      "addMessage": "A quest in [Station Thigh] has been unlocked"
+    },
+    "id": 80236108,
+    "baseShopId": 80236108,
+    "eventId": 80236,
+    "slot": 2,
+    "flag": 268,
+    "priority": 17,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Gate Key (Station)",
+    "detail": "Exchange for the Key that unlocks\nFREE BATTLE Area [Station Thigh]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80236,
+    "openedAt": 1613534400,
+    "closedAt": 1615175999
+  },
+  {
+    "itemIds": [
+      94034002
+    ],
+    "prices": [
+      600
+    ],
+    "targetIds": [
+      94034005
+    ],
+    "script": {
+      "addMessage": "A quest in [Secret Nape] has been unlocked"
+    },
+    "id": 80236109,
+    "baseShopId": 80236109,
+    "eventId": 80236,
+    "slot": 2,
+    "flag": 268,
+    "priority": 16,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Lip's Key",
+    "detail": "Exchange for the Key that unlocks\n[EE0000]NEXT Story Quest[-] [Act III (3/3)]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80236,
+    "openedAt": 1613534400,
+    "closedAt": 1615175999
+  },
+  {
+    "itemIds": [
+      94034002
+    ],
+    "prices": [
+      800
+    ],
+    "targetIds": [
+      94034007
+    ],
+    "script": {
+      "addMessage": "Obtain the Gate Key (Coaster) and Suzuka's Key to unlock a quest in [Spinal Coaster]"
+    },
+    "id": 80236110,
+    "baseShopId": 80236110,
+    "eventId": 80236,
+    "slot": 2,
+    "flag": 0,
+    "priority": 15,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Suzuka's Key",
+    "detail": "Exchange for the Key (2/2) that unlocks\n[EE0000]NEXT Story Area[-] [Spinal Coaster]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80236,
+    "openedAt": 1613534400,
+    "closedAt": 1615175999
+  },
+  {
+    "itemIds": [
+      94034002
+    ],
+    "prices": [
+      600
+    ],
+    "targetIds": [
+      94034021
+    ],
+    "script": {
+      "addMessage": "A quest in [Underarm Ray] has been unlocked"
+    },
+    "id": 80236111,
+    "baseShopId": 80236111,
+    "eventId": 80236,
+    "slot": 2,
+    "flag": 268,
+    "priority": 14,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Gate Key (Ray)",
+    "detail": "Exchange for the Key that unlocks\n[EE0000]NEXT Story Area[-] [Underarm Ray]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80236,
+    "openedAt": 1613534400,
+    "closedAt": 1615175999
+  },
+  {
+    "itemIds": [
+      94034002
+    ],
+    "prices": [
+      500
+    ],
+    "targetIds": [
+      94034022
+    ],
+    "script": {
+      "addMessage": "Obtain the Gate Key (Coaster) and Suzuka's Key to unlock a quest in [Spinal Coaster]"
+    },
+    "id": 80236112,
+    "baseShopId": 80236112,
+    "eventId": 80236,
+    "slot": 2,
+    "flag": 268,
+    "priority": 13,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Gate Key (Coaster)",
+    "detail": "Exchange for the Key (1/2) that unlocks\n[EE0000]NEXT Story Area[-] [Spinal Coaster]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80236,
+    "openedAt": 1613534400,
+    "closedAt": 1615175999
+  },
+  {
+    "itemIds": [
+      94034002
+    ],
+    "prices": [
+      700
+    ],
+    "targetIds": [
+      94034023
+    ],
+    "script": {
+      "addMessage": "A quest in [Jail Hand] has been unlocked"
+    },
+    "id": 80236113,
+    "baseShopId": 80236113,
+    "eventId": 80236,
+    "slot": 2,
+    "flag": 268,
+    "priority": 12,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Gate Key (Jail)",
+    "detail": "Exchange for the Key that unlocks\nFREE BATTLE Area [Jail Hand]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80236,
+    "openedAt": 1613534400,
+    "closedAt": 1615175999
+  },
+  {
+    "itemIds": [
+      94034002
+    ],
+    "prices": [
+      800
+    ],
+    "targetIds": [
+      94034024
+    ],
+    "script": {
+      "addMessage": "A quest in [Dark Hand] has been unlocked"
+    },
+    "id": 80236114,
+    "baseShopId": 80236114,
+    "eventId": 80236,
+    "slot": 2,
+    "flag": 268,
+    "priority": 11,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Gate Key (Dark)",
+    "detail": "Exchange for the Key that unlocks\nFREE BATTLE Area [Dark Hand]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80236,
+    "openedAt": 1613534400,
+    "closedAt": 1615175999
+  },
+  {
+    "itemIds": [
+      94034002
+    ],
+    "prices": [
+      1000
+    ],
+    "targetIds": [
+      94034006
+    ],
+    "script": {
+      "addMessage": "A quest in [Cruel Thenar] has been unlocked"
+    },
+    "id": 80236115,
+    "baseShopId": 80236115,
+    "eventId": 80236,
+    "slot": 2,
+    "flag": 268,
+    "priority": 10,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Melt's Key",
+    "detail": "Exchange for the Key that unlocks\n[EE0000]NEXT Story Area[-] [Cruel Thenar]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80236,
+    "openedAt": 1613534400,
+    "closedAt": 1615175999
+  },
+  {
+    "itemIds": [
+      94034001
+    ],
+    "prices": [
+      300
+    ],
+    "targetIds": [
+      9402450
+    ],
+    "script": {},
+    "id": 80236116,
+    "baseShopId": 80236116,
+    "eventId": 80236,
+    "slot": 2,
+    "flag": 0,
+    "priority": 50,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 5,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Premonition of Beginnings",
+    "detail": "Exchange for \"Abyssal Cyber Paradise, SE.RA.PH\" Limited ★4 Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80236,
+    "openedAt": 1613534400,
+    "closedAt": 1615175999
+  },
+  {
+    "itemIds": [
+      94034001
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      9770400
+    ],
+    "script": {},
+    "id": 80236117,
+    "baseShopId": 80236117,
+    "eventId": 80236,
+    "slot": 2,
+    "flag": 0,
+    "priority": 330,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 100,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Blaze of Wisdom",
+    "detail": "Exchange for one ★4 ALL EXP card",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80236,
+    "openedAt": 1613534400,
+    "closedAt": 1615175999
+  },
+  {
+    "itemIds": [
+      94034001
+    ],
+    "prices": [
+      5
+    ],
+    "targetIds": [
+      9770300
+    ],
+    "script": {},
+    "id": 80236118,
+    "baseShopId": 80236118,
+    "eventId": 80236,
+    "slot": 2,
+    "flag": 0,
+    "priority": 340,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 100,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Fire of Wisdom",
+    "detail": "Exchange for one ★3 ALL EXP card",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80236,
+    "openedAt": 1613534400,
+    "closedAt": 1615175999
+  },
+  {
+    "itemIds": [
+      94034001
+    ],
+    "prices": [
+      60
+    ],
+    "targetIds": [
+      9570300
+    ],
+    "script": {},
+    "id": 80236119,
+    "baseShopId": 80236119,
+    "eventId": 80236,
+    "slot": 2,
+    "flag": 0,
+    "priority": 310,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Hero Crystal: Star Fou",
+    "detail": "Exchange for one ★3 ALL HP Up card",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80236,
+    "openedAt": 1613534400,
+    "closedAt": 1615175999
+  },
+  {
+    "itemIds": [
+      94034001
+    ],
+    "prices": [
+      60
+    ],
+    "targetIds": [
+      9670300
+    ],
+    "script": {},
+    "id": 80236120,
+    "baseShopId": 80236120,
+    "eventId": 80236,
+    "slot": 2,
+    "flag": 0,
+    "priority": 320,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Hero Crystal: Sun Fou",
+    "detail": "Exchange for one ★3 ALL ATK Up card",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80236,
+    "openedAt": 1613534400,
+    "closedAt": 1615175999
+  },
+  {
+    "itemIds": [
+      94034001
+    ],
+    "prices": [
+      120
+    ],
+    "targetIds": [
+      6529
+    ],
+    "script": {},
+    "id": 80236121,
+    "baseShopId": 80236121,
+    "eventId": 80236,
+    "slot": 2,
+    "flag": 0,
+    "priority": 410,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 10,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Cursed Beast Gallstone",
+    "detail": "Exchange for [Skill Up & Ascension Materials]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80236,
+    "openedAt": 1613534400,
+    "closedAt": 1615175999
+  },
+  {
+    "itemIds": [
+      94034001
+    ],
+    "prices": [
+      120
+    ],
+    "targetIds": [
+      6506
+    ],
+    "script": {},
+    "id": 80236122,
+    "baseShopId": 80236122,
+    "eventId": 80236,
+    "slot": 2,
+    "flag": 0,
+    "priority": 420,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 10,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Dragon's Reverse Scale",
+    "detail": "Exchange for [Skill Up & Ascension Materials]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80236,
+    "openedAt": 1613534400,
+    "closedAt": 1615175999
+  },
+  {
+    "itemIds": [
+      94034001
+    ],
+    "prices": [
+      90
+    ],
+    "targetIds": [
+      6528
+    ],
+    "script": {},
+    "id": 80236123,
+    "baseShopId": 80236123,
+    "eventId": 80236,
+    "slot": 2,
+    "flag": 0,
+    "priority": 430,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Primordial Lanugo",
+    "detail": "Exchange for [Skill Up & Ascension Materials]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80236,
+    "openedAt": 1613534400,
+    "closedAt": 1615175999
+  },
+  {
+    "itemIds": [
+      94034001
+    ],
+    "prices": [
+      90
+    ],
+    "targetIds": [
+      6519
+    ],
+    "script": {},
+    "id": 80236124,
+    "baseShopId": 80236124,
+    "eventId": 80236,
+    "slot": 2,
+    "flag": 0,
+    "priority": 440,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Warhorse's Young Horn",
+    "detail": "Exchange for [Skill Up & Ascension Materials]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80236,
+    "openedAt": 1613534400,
+    "closedAt": 1615175999
+  },
+  {
+    "itemIds": [
+      94034001
+    ],
+    "prices": [
+      80
+    ],
+    "targetIds": [
+      6501
+    ],
+    "script": {},
+    "id": 80236125,
+    "baseShopId": 80236125,
+    "eventId": 80236,
+    "slot": 2,
+    "flag": 0,
+    "priority": 450,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Phoenix Feather",
+    "detail": "Exchange for [Skill Up & Ascension Materials]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80236,
+    "openedAt": 1613534400,
+    "closedAt": 1615175999
+  },
+  {
+    "itemIds": [
+      94034001
+    ],
+    "prices": [
+      60
+    ],
+    "targetIds": [
+      6526
+    ],
+    "script": {},
+    "id": 80236126,
+    "baseShopId": 80236126,
+    "eventId": 80236,
+    "slot": 2,
+    "flag": 0,
+    "priority": 460,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Shell of Reminiscence",
+    "detail": "Exchange for [Skill Up & Ascension Materials]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80236,
+    "openedAt": 1613534400,
+    "closedAt": 1615175999
+  },
+  {
+    "itemIds": [
+      94034001
+    ],
+    "prices": [
+      60
+    ],
+    "targetIds": [
+      6513
+    ],
+    "script": {},
+    "id": 80236127,
+    "baseShopId": 80236127,
+    "eventId": 80236,
+    "slot": 2,
+    "flag": 0,
+    "priority": 470,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Meteor Horseshoe",
+    "detail": "Exchange for [Skill Up & Ascension Materials]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80236,
+    "openedAt": 1613534400,
+    "closedAt": 1615175999
+  },
+  {
+    "itemIds": [
+      94034001
+    ],
+    "prices": [
+      60
+    ],
+    "targetIds": [
+      6511
+    ],
+    "script": {},
+    "id": 80236128,
+    "baseShopId": 80236128,
+    "eventId": 80236,
+    "slot": 2,
+    "flag": 0,
+    "priority": 480,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Forbidden Page",
+    "detail": "Exchange for [Skill Up & Ascension Materials]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80236,
+    "openedAt": 1613534400,
+    "closedAt": 1615175999
+  },
+  {
+    "itemIds": [
+      94034001
+    ],
+    "prices": [
+      40
+    ],
+    "targetIds": [
+      6512
+    ],
+    "script": {},
+    "id": 80236129,
+    "baseShopId": 80236129,
+    "eventId": 80236,
+    "slot": 2,
+    "flag": 0,
+    "priority": 490,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 30,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Dragon Fang",
+    "detail": "Exchange for [Skill Up & Ascension Materials]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80236,
+    "openedAt": 1613534400,
+    "closedAt": 1615175999
+  },
+  {
+    "itemIds": [
+      94034001
+    ],
+    "prices": [
+      40
+    ],
+    "targetIds": [
+      6502
+    ],
+    "script": {},
+    "id": 80236130,
+    "baseShopId": 80236130,
+    "eventId": 80236,
+    "slot": 2,
+    "flag": 0,
+    "priority": 500,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 30,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Seed of Yggdrasil",
+    "detail": "Exchange for [Skill Up & Ascension Materials]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80236,
+    "openedAt": 1613534400,
+    "closedAt": 1615175999
+  },
+  {
+    "itemIds": [
+      94034001
+    ],
+    "prices": [
+      40
+    ],
+    "targetIds": [
+      6516
+    ],
+    "script": {},
+    "id": 80236131,
+    "baseShopId": 80236131,
+    "eventId": 80236,
+    "slot": 2,
+    "flag": 0,
+    "priority": 510,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 30,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Evil Bone",
+    "detail": "Exchange for [Skill Up & Ascension Materials]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80236,
+    "openedAt": 1613534400,
+    "closedAt": 1615175999
+  },
+  {
+    "itemIds": [
+      94034001
+    ],
+    "prices": [
+      5000
+    ],
+    "targetIds": [
+      6999
+    ],
+    "script": {},
+    "id": 80236132,
+    "baseShopId": 80236132,
+    "eventId": 80236,
+    "slot": 2,
+    "flag": 0,
+    "priority": 610,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Crystallized Lore",
+    "detail": "Exchange for [Skill up Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80236,
+    "openedAt": 1613534400,
+    "closedAt": 1615175999
+  },
+  {
+    "itemIds": [
+      94034001
+    ],
+    "prices": [
+      60
+    ],
+    "targetIds": [
+      7101
+    ],
+    "script": {},
+    "id": 80236133,
+    "baseShopId": 80236133,
+    "eventId": 80236,
+    "slot": 2,
+    "flag": 0,
+    "priority": 710,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Saber Monument",
+    "detail": "Exchange for [Ascension Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80236,
+    "openedAt": 1613534400,
+    "closedAt": 1615175999
+  },
+  {
+    "itemIds": [
+      94034001
+    ],
+    "prices": [
+      60
+    ],
+    "targetIds": [
+      7102
+    ],
+    "script": {},
+    "id": 80236134,
+    "baseShopId": 80236134,
+    "eventId": 80236,
+    "slot": 2,
+    "flag": 0,
+    "priority": 720,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Archer Monument",
+    "detail": "Exchange for [Ascension Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80236,
+    "openedAt": 1613534400,
+    "closedAt": 1615175999
+  },
+  {
+    "itemIds": [
+      94034001
+    ],
+    "prices": [
+      60
+    ],
+    "targetIds": [
+      7103
+    ],
+    "script": {},
+    "id": 80236135,
+    "baseShopId": 80236135,
+    "eventId": 80236,
+    "slot": 2,
+    "flag": 0,
+    "priority": 730,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Lancer Monument",
+    "detail": "Exchange for [Ascension Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80236,
+    "openedAt": 1613534400,
+    "closedAt": 1615175999
+  },
+  {
+    "itemIds": [
+      94034001
+    ],
+    "prices": [
+      40
+    ],
+    "targetIds": [
+      7001
+    ],
+    "script": {},
+    "id": 80236136,
+    "baseShopId": 80236136,
+    "eventId": 80236,
+    "slot": 2,
+    "flag": 0,
+    "priority": 740,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Saber Piece",
+    "detail": "Exchange for [Ascension Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80236,
+    "openedAt": 1613534400,
+    "closedAt": 1615175999
+  },
+  {
+    "itemIds": [
+      94034001
+    ],
+    "prices": [
+      40
+    ],
+    "targetIds": [
+      7002
+    ],
+    "script": {},
+    "id": 80236137,
+    "baseShopId": 80236137,
+    "eventId": 80236,
+    "slot": 2,
+    "flag": 0,
+    "priority": 750,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Archer Piece",
+    "detail": "Exchange for [Ascension Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80236,
+    "openedAt": 1613534400,
+    "closedAt": 1615175999
+  },
+  {
+    "itemIds": [
+      94034001
+    ],
+    "prices": [
+      40
+    ],
+    "targetIds": [
+      7003
+    ],
+    "script": {},
+    "id": 80236138,
+    "baseShopId": 80236138,
+    "eventId": 80236,
+    "slot": 2,
+    "flag": 0,
+    "priority": 760,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Lancer Piece",
+    "detail": "Exchange for [Ascension Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80236,
+    "openedAt": 1613534400,
+    "closedAt": 1615175999
+  },
+  {
+    "itemIds": [
+      94034001
+    ],
+    "prices": [
+      5
+    ],
+    "targetIds": [
+      3
+    ],
+    "script": {},
+    "id": 80236139,
+    "baseShopId": 80236139,
+    "eventId": 80236,
+    "slot": 2,
+    "flag": 0,
+    "priority": 810,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 500,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Mana Prism",
+    "detail": "Exchange for Mana Prism",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80236,
+    "openedAt": 1613534400,
+    "closedAt": 1615175999
+  },
+  {
+    "itemIds": [
+      94034001
+    ],
+    "prices": [
+      4
+    ],
+    "targetIds": [
+      1
+    ],
+    "script": {},
+    "id": 80236140,
+    "baseShopId": 80236140,
+    "eventId": 80236,
+    "slot": 2,
+    "flag": 0,
+    "priority": 910,
+    "purchaseType": 1,
+    "setNum": 10000,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 0,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "10,000 QP",
+    "detail": "Exchange for QP",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80236,
+    "openedAt": 1613534400,
+    "closedAt": 1615175999
+  },
+  {
+    "itemIds": [
+      94034001
+    ],
+    "prices": [
+      300
+    ],
+    "targetIds": [
+      9570400
+    ],
+    "script": {},
+    "id": 80236141,
+    "baseShopId": 80236141,
+    "eventId": 80236,
+    "slot": 2,
+    "flag": 0,
+    "priority": 100,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 2,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Hero Crystal: Meteor Fou",
+    "detail": "Exchange for one ★4 ALL HP Up card",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80236,
+    "openedAt": 1613534400,
+    "closedAt": 1615175999
+  },
+  {
+    "itemIds": [
+      94034001
+    ],
+    "prices": [
+      300
+    ],
+    "targetIds": [
+      9670400
+    ],
+    "script": {},
+    "id": 80236142,
+    "baseShopId": 80236142,
+    "eventId": 80236,
+    "slot": 2,
+    "flag": 0,
+    "priority": 110,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 2,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Hero Crystal: Corona Fou",
+    "detail": "Exchange for one ★4 ALL ATK Up card",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80236,
+    "openedAt": 1613534400,
+    "closedAt": 1615175999
+  },
+  {
+    "itemIds": [
+      94034001
+    ],
+    "prices": [
+      150
+    ],
+    "targetIds": [
+      5000
+    ],
+    "script": {},
+    "id": 80236143,
+    "baseShopId": 80236143,
+    "eventId": 80236,
+    "slot": 2,
+    "flag": 0,
+    "priority": 200,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Quick Code Opener",
+    "detail": "Exchange for [Command Code Slot Release Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80236,
+    "openedAt": 1613534400,
+    "closedAt": 1615175999
+  },
+  {
+    "itemIds": [
+      94034001
+    ],
+    "prices": [
+      150
+    ],
+    "targetIds": [
+      5001
+    ],
+    "script": {},
+    "id": 80236144,
+    "baseShopId": 80236144,
+    "eventId": 80236,
+    "slot": 2,
+    "flag": 0,
+    "priority": 210,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Arts Code Opener",
+    "detail": "Exchange for [Command Code Slot Release Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80236,
+    "openedAt": 1613534400,
+    "closedAt": 1615175999
+  },
+  {
+    "itemIds": [
+      94034001
+    ],
+    "prices": [
+      150
+    ],
+    "targetIds": [
+      5002
+    ],
+    "script": {},
+    "id": 80236145,
+    "baseShopId": 80236145,
+    "eventId": 80236,
+    "slot": 2,
+    "flag": 0,
+    "priority": 220,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Buster Code Opener",
+    "detail": "Exchange for [Command Code Slot Release Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80236,
+    "openedAt": 1613534400,
+    "closedAt": 1615175999
+  },
+  {
+    "itemIds": [
+      94034001
+    ],
+    "prices": [
+      150
+    ],
+    "targetIds": [
+      5003
+    ],
+    "script": {},
+    "id": 80236146,
+    "baseShopId": 80236146,
+    "eventId": 80236,
+    "slot": 2,
+    "flag": 0,
+    "priority": 230,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Code Remover",
+    "detail": "Exchange for [Command Code Detacher Item]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80236,
+    "openedAt": 1613534400,
+    "closedAt": 1615175999
   },
   {
     "itemIds": [

@@ -165,6 +165,11 @@
     "detailShort": "Deal heavy DEF-ignoring damage to all enemies [{0}] & chance to inflict Death <chance increases with Overcharge> + remove debuffs for all allies"
   },
   {
+    "id": 102802,
+    "detail": "Deal heavy DEF-ignoring damage [g][o]▲[/o][/g] [{0}] & chance to inflict Death <chance increases with Overcharge>  to all enemies + Remove debuffs & slightly increase NP Gauge [g][o]▲[/o][/g] for all allies",
+    "detailShort": "Deal heavy DEF-ignoring damage [g][o]▲[/o][/g] [{0}] & chance to inflict Death <chance increases with Overcharge>  to all enemies + Remove debuffs & slightly increase NP Gauge [g][o]▲[/o][/g] for all allies"
+  },
+  {
     "id": 102901,
     "detail": "Increase your NP Strength (1 turn) <effect increases with Overcharge> & deal heavy damage to all enemies [{0}]",
     "detailShort": "Increase your NP Strength (1 turn) <effect increases with Overcharge> & deal heavy damage to all enemies [{0}]"
@@ -551,13 +556,13 @@
   },
   {
     "id": 301701,
-    "detail": "Deal significant DEF-ignoring damage to a single enemy [{0}] & chance to inflict Death <chance increases with Overcharge> + decrease DEF (3 turns) for a single enemy",
-    "detailShort": "Deal significant DEF-ignoring damage to a single enemy [{0}] & chance to inflict Death <chance increases with Overcharge> + decrease DEF (3 turns) for a single enemy"
+    "detail": "Deal significant DEF-ignoring damage [{0}] & chance to inflict Death <chance increases with Overcharge> & decrease DEF (3 turns) for a single enemy",
+    "detailShort": "Deal significant DEF-ignoring damage [{0}] & chance to inflict Death <chance increases with Overcharge> & decrease DEF (3 turns) for a single enemy"
   },
   {
     "id": 301702,
-    "detail": "Deal significant DEF-ignoring damage [g][o]▲[/o][/g] [{0}] & chance to inflict Death <chance increases with Overcharge> & decrease DEF [g][o]▲[/o][/g] (3 turns) to a single enemy",
-    "detailShort": "Deal significant DEF-ignoring damage [g][o]▲[/o][/g] [{0}] & chance to inflict Death <chance increases with Overcharge> & decrease DEF [g][o]▲[/o][/g] (3 turns) to a single enemy"
+    "detail": "Deal significant DEF-ignoring damage [g][o]▲[/o][/g] [{0}] & chance to inflict Death <chance increases with Overcharge> & decrease DEF [g][o]▲[/o][/g] (3 turns) for a single enemy",
+    "detailShort": "Deal significant DEF-ignoring damage [g][o]▲[/o][/g] [{0}] & chance to inflict Death <chance increases with Overcharge> & decrease DEF [g][o]▲[/o][/g] (3 turns) for a single enemy"
   },
   {
     "id": 301901,
@@ -1335,6 +1340,11 @@
     "detailShort": "Deal significant DEF-ignoring damage [{0}] & chance to inflict Death <chance increases with Overcharge> to a single enemy"
   },
   {
+    "id": 602302,
+    "detail": "Deal significant DEF-ignoring damage [g][o]▲[/o][/g] [{0}] & chance to inflict Death <chance increases with Overcharge> & decrease DEF [{0}] (3 turns) [g][o]▲[/o][/g] to a single enemy",
+    "detailShort": "Deal significant DEF-ignoring damage [g][o]▲[/o][/g] [{0}] & chance to inflict Death <chance increases with Overcharge> & decrease DEF [{0}] (3 turns) [g][o]▲[/o][/g] to a single enemy"
+  },
+  {
     "id": 602401,
     "detail": "Deal heavy damage to all enemies [{0}] & low chance to inflict Death <chance increases with Overcharge> for all enemies",
     "detailShort": "Deal heavy damage to all enemies [{0}] & low chance to inflict Death <chance increases with Overcharge> for all enemies"
@@ -1396,7 +1406,7 @@
   },
   {
     "id": 603202,
-    "detail": "Increase your NP Strength (1 turn)<effect increases with Overcharge> + Deal heavy damage [g][o]▲[/o][/g] [{0}] to all enemies + Increase DEF (3 turns) & increase Buff Removal Resistance (1 turn) [g][o]▲[/o][/g] for all allies",
+    "detail": "Increase your NP Strength (1 turn) <effect increases with Overcharge> + Deal heavy damage [g][o]▲[/o][/g] [{0}] to all enemies + Increase DEF (3 turns) & Buff Removal Resistance (1 turn) [g][o]▲[/o][/g] for all allies",
     "detailShort": "Increase your NP Strength (1 turn) <effect increases with Overcharge> + Deal heavy damage [g][o]▲[/o][/g] [{0}] to all enemies + Increase DEF (3 turns) & Buff Removal Resistance (1 turn) [g][o]▲[/o][/g] for all allies"
   },
   {
@@ -1681,7 +1691,7 @@
   },
   {
     "id": 1000102,
-    "detail": "Deal heavy damage [g][o]▲[/o][/g] [{0}] to all enemies & restore HP [g][o]▲[/o][/g]<effect increases with Overcharge> for all allies",
+    "detail": "Deal heavy damage [g][o]▲[/o][/g] [{0}] to all enemies & restore HP [g][o]▲[/o][/g] <effect increases with Overcharge> for all allies",
     "detailShort": "Deal heavy damage [g][o]▲[/o][/g] [{0}] to all enemies & restore HP [g][o]▲[/o][/g] <effect increases with Overcharge> for all allies"
   },
   {

@@ -2307,7 +2307,7 @@
     "id": 213,
     "buffGroup": 0,
     "type": 30,
-    "name": "Charm Resist Down (Mental Debuff)",
+    "name": "Mental Debuff Resist Down",
     "detail": "Decrease Charm resistance from [Female]",
     "iconId": 506,
     "maxRate": 5000,
@@ -2392,7 +2392,7 @@
     "id": 217,
     "buffGroup": 0,
     "type": 30,
-    "name": "Charm Resist Down (Mental Debuff)",
+    "name": "Mental Debuff Resist Down",
     "detail": "Decrease Charm resistance",
     "iconId": 506,
     "maxRate": 5000,
@@ -4102,7 +4102,10 @@
       3007,
       3027,
       3058,
-      3031
+      3031,
+      3021,
+      3018,
+      3024
     ],
     "script": {},
     "id": 314,
@@ -10845,7 +10848,10 @@
       3007,
       3027,
       3058,
-      3031
+      3031,
+      3021,
+      3018,
+      3024
     ],
     "script": {},
     "id": 887,
@@ -14088,7 +14094,10 @@
       3007,
       3027,
       3058,
-      3031
+      3031,
+      3021,
+      3018,
+      3024
     ],
     "script": {},
     "id": 1076,
@@ -21661,6 +21670,320 @@
     "name": "Delayed Effect (The Tale of Genji)",
     "detail": "Apply Charm to yourself at the end of the turn",
     "iconId": 525,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "INDIVIDUALITIE": 2388
+    },
+    "id": 1510,
+    "buffGroup": 0,
+    "type": 81,
+    "name": "Growth",
+    "detail": "Increase Max HP",
+    "iconId": 330,
+    "maxRate": 50000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2389
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1511,
+    "buffGroup": 0,
+    "type": 9,
+    "name": "",
+    "detail": "",
+    "iconId": 300,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2390
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1512,
+    "buffGroup": 0,
+    "type": 9,
+    "name": "",
+    "detail": "",
+    "iconId": 300,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2391
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1513,
+    "buffGroup": 0,
+    "type": 9,
+    "name": "",
+    "detail": "",
+    "iconId": 300,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2394,
+      2395
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1514,
+    "buffGroup": 0,
+    "type": 41,
+    "name": "Clear Cache",
+    "detail": "Nullify your Huge Scale effect [Demerit]",
+    "iconId": 531,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006
+    ],
+    "tvals": [
+      5000,
+      4001
+    ],
+    "ckSelfIndv": [
+      4001
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1515,
+    "buffGroup": 0,
+    "type": 52,
+    "name": "Arts Up",
+    "detail": "Increase Arts Card effectiveness only on fields [Near Water] or [City]",
+    "iconId": 313,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2393
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1516,
+    "buffGroup": 0,
+    "type": 65,
+    "name": "HP Recover Down",
+    "detail": "Decrease amount of HP recovered",
+    "iconId": 527,
+    "maxRate": 50000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2393
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1517,
+    "buffGroup": 0,
+    "type": 43,
+    "name": "DEF Down",
+    "detail": "Decrease DEF",
+    "iconId": 504,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2393
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1518,
+    "buffGroup": 0,
+    "type": 63,
+    "name": "NP Gain Down",
+    "detail": "Decrease NP amount gained",
+    "iconId": 509,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1519,
+    "buffGroup": 0,
+    "type": 76,
+    "name": "Delayed Effect (Clear Cache)",
+    "detail": "Activate Clear Cache after 20 turns [Demerit]",
+    "iconId": 525,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2395
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1520,
+    "buffGroup": 0,
+    "type": 76,
+    "name": "Delayed Effect (Clear Cache)",
+    "detail": "Activate Clear Cache after 5 turns [Demerit]",
+    "iconId": 525,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1521,
+    "buffGroup": 0,
+    "type": 92,
+    "name": "Special Resist Down",
+    "detail": "Decrease resistance to all attacks [Demerit]",
+    "iconId": 529,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4003
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4003
+    ],
+    "script": {},
+    "id": 1522,
+    "buffGroup": 0,
+    "type": 106,
+    "name": "",
+    "detail": "",
+    "iconId": 539,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4001
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4001
+    ],
+    "script": {},
+    "id": 1523,
+    "buffGroup": 0,
+    "type": 106,
+    "name": "",
+    "detail": "",
+    "iconId": 540,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4002
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4002
+    ],
+    "script": {},
+    "id": 1524,
+    "buffGroup": 0,
+    "type": 106,
+    "name": "",
+    "detail": "",
+    "iconId": 541,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1525,
+    "buffGroup": 0,
+    "type": 43,
+    "name": "",
+    "detail": "",
+    "iconId": 504,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1526,
+    "buffGroup": 0,
+    "type": 20,
+    "name": "",
+    "detail": "",
+    "iconId": 504,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1527,
+    "buffGroup": 0,
+    "type": 85,
+    "name": "Triggers Each Turn (Charge Gauge)",
+    "detail": "Set Charge to maximum each turn",
+    "iconId": 343,
     "maxRate": 0,
     "effectId": 0
   },

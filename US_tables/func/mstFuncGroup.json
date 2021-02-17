@@ -2000,8 +2000,28 @@
     "isDispValue": true
   },
   {
+    "funcId": 1357,
+    "eventId": 80236,
+    "baseFuncId": 0,
+    "nameTotal": "[Eater]\nAppearance Rate Up",
+    "name": "[Eater] Appearance Rate Up",
+    "iconId": 1025,
+    "priority": 7000,
+    "isDispValue": true
+  },
+  {
     "funcId": 1358,
     "eventId": 80054,
+    "baseFuncId": 0,
+    "nameTotal": "[Shapeshifter]\nAppearance Rate Up",
+    "name": "[Shapeshifter] Appearance Rate Up",
+    "iconId": 1026,
+    "priority": 8000,
+    "isDispValue": true
+  },
+  {
+    "funcId": 1358,
+    "eventId": 80236,
     "baseFuncId": 0,
     "nameTotal": "[Shapeshifter]\nAppearance Rate Up",
     "name": "[Shapeshifter] Appearance Rate Up",
@@ -2020,8 +2040,28 @@
     "isDispValue": true
   },
   {
+    "funcId": 1359,
+    "eventId": 80236,
+    "baseFuncId": 0,
+    "nameTotal": "[TYPE I]\nAppearance Rate Up",
+    "name": "[TYPE I] Appearance Rate Up",
+    "iconId": 1027,
+    "priority": 9000,
+    "isDispValue": true
+  },
+  {
     "funcId": 1360,
     "eventId": 80054,
+    "baseFuncId": 0,
+    "nameTotal": "[Type: Sakura]\nAppearance Rate Up",
+    "name": "[Type: Sakura] Appearance Rate Up",
+    "iconId": 1013,
+    "priority": 9000,
+    "isDispValue": true
+  },
+  {
+    "funcId": 1360,
+    "eventId": 80236,
     "baseFuncId": 0,
     "nameTotal": "[Type: Sakura]\nAppearance Rate Up",
     "name": "[Type: Sakura] Appearance Rate Up",
@@ -3447,6 +3487,16 @@
     "name": "{0} acquired",
     "iconId": 94033504,
     "priority": 4000,
+    "isDispValue": true
+  },
+  {
+    "funcId": 3372,
+    "eventId": 80236,
+    "baseFuncId": 0,
+    "nameTotal": "{0}\nTotal Bonus Amount",
+    "name": "{0} acquired",
+    "iconId": 94011901,
+    "priority": 6000,
     "isDispValue": true
   },
   {
