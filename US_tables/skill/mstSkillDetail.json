@@ -505,6 +505,11 @@
     "detailShort": "Greatly increase your ATK [{0}] (1 turn)"
   },
   {
+    "id": 39650,
+    "detail": "Increase your ATK [{0}] (3 turns)",
+    "detailShort": "Increase your ATK [{0}] (3 turns)"
+  },
+  {
     "id": 41350,
     "detail": "Apply Guts for yourself (1 time, 3 turns) [{0}]",
     "detailShort": "Apply Guts for yourself (1 time, 3 turns) [{0}]"
@@ -2780,6 +2785,11 @@
     "detailShort": "No Effect"
   },
   {
+    "id": 348650,
+    "detail": "No Effect",
+    "detailShort": "No Effect"
+  },
+  {
     "id": 349250,
     "detail": "Increase your Critical Strength",
     "detailShort": "Increase your Critical Strength"
@@ -3933,6 +3943,16 @@
     "id": 573450,
     "detail": "Apply Damage Cut [{0}] (3 times, 3 turns) & Debuff Immune (1 time, 3 turns) & increase Buff Removal Resist (1 time, 3 turns) for all allies",
     "detailShort": "Apply Damage Cut [{0}] (3 times, 3 turns) & Debuff Immune (1 time, 3 turns) & increase Buff Removal Resist (1 time, 3 turns) for all allies"
+  },
+  {
+    "id": 574350,
+    "detail": "Apply [Infinite Growth] to yourself, which applies [Growth] (Increase your Max HP [{0}]) each turn for 10 turns <[Growth] state can be applied up to 10>",
+    "detailShort": "Apply [Infinite Growth] to yourself, which applies [Growth] (Increase your Max HP [{0}]) each turn for 10 turns <[Growth] state can be applied up to 10>"
+  },
+  {
+    "id": 575350,
+    "detail": "Reduce Skill cooldown by 1 & increase NP charge based on the amount of [Growth] applied [{0}] & remove [Infinite Growth] and [Growth] for yourself [Demerit] ",
+    "detailShort": "Reduce Skill cooldown by 1 & increase NP charge based on the amount of [Growth] applied [{0}] & remove [Infinite Growth] and [Growth] for yourself [Demerit] "
   },
   {
     "id": 577550,
@@ -12548,6 +12568,11 @@
     "id": 991685,
     "detail": "Activate various random effects <Gain 5 C. Stars, Restore 500 HP, or Increase Debuff Resist by 10% (1 turn) for yourself> when attacking with the engraved Card",
     "detailShort": "Activate various random effects <Gain 5 C. Stars, Restore 500 HP, or Increase Debuff Resist by 10% (1 turn) for yourself> when attacking with the engraved Card"
+  },
+  {
+    "id": 991688,
+    "detail": "Increase Buster Card effectiveness by 20% & increase ATK by 20% while in a [Growth] state + Decrease Quick Card effectiveness by 10% to all allies excluding yourself [Demerit] only if [servantName 1000900] (Alter Ego) is equipped with this Craft Essence when she is on the field.",
+    "detailShort": "Increase Buster Card effectiveness by 20% & increase ATK by 20% while in a [Growth] state + Decrease Quick Card effectiveness by 10% to all allies excluding yourself [Demerit] only if [servantName 1000900](Alter Ego) is equipped with this Craft Essence when she is on the field."
   },
   {
     "id": 991724,
