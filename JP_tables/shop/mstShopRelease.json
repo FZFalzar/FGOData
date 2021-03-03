@@ -1693,6 +1693,42 @@
   },
   {
     "condValues": [
+      1000413
+    ],
+    "shopId": 4000583,
+    "condType": 36,
+    "condNum": 1,
+    "priority": 0,
+    "isClosedDisp": false,
+    "closedMessage": "条件を満たしていないため交換できません",
+    "closedItemName": ""
+  },
+  {
+    "condValues": [
+      3000320
+    ],
+    "shopId": 4000584,
+    "condType": 36,
+    "condNum": 1,
+    "priority": 0,
+    "isClosedDisp": false,
+    "closedMessage": "条件を満たしていないため交換できません",
+    "closedItemName": ""
+  },
+  {
+    "condValues": [
+      1000522
+    ],
+    "shopId": 4000585,
+    "condType": 36,
+    "condNum": 1,
+    "priority": 0,
+    "isClosedDisp": false,
+    "closedMessage": "条件を満たしていないため交換できません",
+    "closedItemName": ""
+  },
+  {
+    "condValues": [
       9400360
     ],
     "shopId": 6000101,
@@ -2669,6 +2705,18 @@
   },
   {
     "condValues": [
+      80317
+    ],
+    "shopId": 6000506,
+    "condType": 39,
+    "condNum": 1,
+    "priority": 0,
+    "isClosedDisp": true,
+    "closedMessage": "※「CBC2020」限定概念礼装を交換した履歴が\nない場合のみ、交換可能となります",
+    "closedItemName": ""
+  },
+  {
+    "condValues": [
       11151
     ],
     "shopId": 6000507,
@@ -2677,6 +2725,30 @@
     "priority": 0,
     "isClosedDisp": true,
     "closedMessage": "※すべての「カルデア・ディナータイム」取得履歴がない場合でのみ、交換可能となります",
+    "closedItemName": ""
+  },
+  {
+    "condValues": [
+      1000011
+    ],
+    "shopId": 6000509,
+    "condType": 1,
+    "condNum": 1,
+    "priority": 100,
+    "isClosedDisp": true,
+    "closedMessage": "※簡易霊衣「デビルカレン」開放権を獲得した履歴がない場合でのみ、特異点Fクリア後に交換可能",
+    "closedItemName": ""
+  },
+  {
+    "condValues": [
+      901100
+    ],
+    "shopId": 6000509,
+    "condType": 79,
+    "condNum": 11,
+    "priority": 0,
+    "isClosedDisp": true,
+    "closedMessage": "※簡易霊衣「デビルカレン」開放権を獲得した履歴がない場合でのみ、特異点Fクリア後に交換可能",
     "closedItemName": ""
   },
   {
@@ -37478,5 +37550,437 @@
     "isClosedDisp": true,
     "closedMessage": "イベント終了後(2月24日 13時00分)に交換可能",
     "closedItemName": ""
+  },
+  {
+    "condValues": [
+      94056508
+    ],
+    "shopId": 80314001,
+    "condType": 1,
+    "condNum": 1,
+    "priority": 0,
+    "isClosedDisp": true,
+    "closedMessage": "メインクエストクリア後に交換可能",
+    "closedItemName": ""
+  },
+  {
+    "condValues": [
+      94056508
+    ],
+    "shopId": 80314002,
+    "condType": 1,
+    "condNum": 1,
+    "priority": 0,
+    "isClosedDisp": true,
+    "closedMessage": "メインクエストクリア後に交換可能",
+    "closedItemName": ""
+  },
+  {
+    "condValues": [
+      94056508
+    ],
+    "shopId": 80314011,
+    "condType": 1,
+    "condNum": 1,
+    "priority": 0,
+    "isClosedDisp": true,
+    "closedMessage": "メインクエストクリア後に交換可能",
+    "closedItemName": ""
+  },
+  {
+    "condValues": [
+      94056508
+    ],
+    "shopId": 80314020,
+    "condType": 1,
+    "condNum": 1,
+    "priority": 0,
+    "isClosedDisp": true,
+    "closedMessage": "メインクエストクリア後に交換可能",
+    "closedItemName": ""
+  },
+  {
+    "condValues": [
+      1000011
+    ],
+    "shopId": 80314101,
+    "condType": 1,
+    "condNum": 1,
+    "priority": 90,
+    "isClosedDisp": true,
+    "closedMessage": "特異点Fクリア後に交換可能",
+    "closedItemName": "呼符"
+  },
+  {
+    "condValues": [
+      0
+    ],
+    "shopId": 80314101,
+    "condType": 12,
+    "condNum": 1615143600,
+    "priority": 100,
+    "isClosedDisp": true,
+    "closedMessage": "3月8日 4時00分に開放",
+    "closedItemName": "呼符"
+  },
+  {
+    "condValues": [
+      0
+    ],
+    "shopId": 80314102,
+    "condType": 12,
+    "condNum": 1615230000,
+    "priority": 100,
+    "isClosedDisp": true,
+    "closedMessage": "3月9日 4時00分に開放",
+    "closedItemName": "呼符"
+  },
+  {
+    "condValues": [
+      80314101
+    ],
+    "shopId": 80314102,
+    "condType": 35,
+    "condNum": 1,
+    "priority": 90,
+    "isClosedDisp": true,
+    "closedMessage": "前日開放の呼符を交換後に入手可能",
+    "closedItemName": "呼符"
+  },
+  {
+    "condValues": [
+      0
+    ],
+    "shopId": 80314103,
+    "condType": 12,
+    "condNum": 1615316400,
+    "priority": 100,
+    "isClosedDisp": true,
+    "closedMessage": "3月10日 4時00分に開放",
+    "closedItemName": "呼符"
+  },
+  {
+    "condValues": [
+      80314102
+    ],
+    "shopId": 80314103,
+    "condType": 35,
+    "condNum": 1,
+    "priority": 90,
+    "isClosedDisp": true,
+    "closedMessage": "前日開放の呼符を交換後に入手可能",
+    "closedItemName": "呼符"
+  },
+  {
+    "condValues": [
+      0
+    ],
+    "shopId": 80314104,
+    "condType": 12,
+    "condNum": 1615402800,
+    "priority": 100,
+    "isClosedDisp": true,
+    "closedMessage": "3月11日 4時00分に開放",
+    "closedItemName": "呼符"
+  },
+  {
+    "condValues": [
+      80314103
+    ],
+    "shopId": 80314104,
+    "condType": 35,
+    "condNum": 1,
+    "priority": 90,
+    "isClosedDisp": true,
+    "closedMessage": "前日開放の呼符を交換後に入手可能",
+    "closedItemName": "呼符"
+  },
+  {
+    "condValues": [
+      0
+    ],
+    "shopId": 80314105,
+    "condType": 12,
+    "condNum": 1615489200,
+    "priority": 100,
+    "isClosedDisp": true,
+    "closedMessage": "3月12日 4時00分に開放",
+    "closedItemName": "呼符"
+  },
+  {
+    "condValues": [
+      80314104
+    ],
+    "shopId": 80314105,
+    "condType": 35,
+    "condNum": 1,
+    "priority": 90,
+    "isClosedDisp": true,
+    "closedMessage": "前日開放の呼符を交換後に入手可能",
+    "closedItemName": "呼符"
+  },
+  {
+    "condValues": [
+      0
+    ],
+    "shopId": 80314106,
+    "condType": 12,
+    "condNum": 1615575600,
+    "priority": 100,
+    "isClosedDisp": true,
+    "closedMessage": "3月13日 4時00分に開放",
+    "closedItemName": "呼符"
+  },
+  {
+    "condValues": [
+      80314105
+    ],
+    "shopId": 80314106,
+    "condType": 35,
+    "condNum": 1,
+    "priority": 90,
+    "isClosedDisp": true,
+    "closedMessage": "前日開放の呼符を交換後に入手可能",
+    "closedItemName": "呼符"
+  },
+  {
+    "condValues": [
+      0
+    ],
+    "shopId": 80314107,
+    "condType": 12,
+    "condNum": 1615662000,
+    "priority": 100,
+    "isClosedDisp": true,
+    "closedMessage": "3月14日 4時00分に開放",
+    "closedItemName": "優雅典雅な怪盗帽"
+  },
+  {
+    "condValues": [
+      80314106
+    ],
+    "shopId": 80314107,
+    "condType": 35,
+    "condNum": 1,
+    "priority": 90,
+    "isClosedDisp": true,
+    "closedMessage": "前日開放の呼符を交換後に入手可能",
+    "closedItemName": "優雅典雅な怪盗帽"
+  },
+  {
+    "condValues": [
+      1000011
+    ],
+    "shopId": 80314201,
+    "condType": 1,
+    "condNum": 1,
+    "priority": 100,
+    "isClosedDisp": true,
+    "closedMessage": "特異点Fクリア後に交換可能",
+    "closedItemName": "王権微行"
+  },
+  {
+    "condValues": [
+      1000011
+    ],
+    "shopId": 80314202,
+    "condType": 1,
+    "condNum": 1,
+    "priority": 100,
+    "isClosedDisp": true,
+    "closedMessage": "特異点Fクリア後に交換可能",
+    "closedItemName": "ブルー・イリュージョン"
+  },
+  {
+    "condValues": [
+      1000011
+    ],
+    "shopId": 80314203,
+    "condType": 1,
+    "condNum": 1,
+    "priority": 100,
+    "isClosedDisp": true,
+    "closedMessage": "特異点Fクリア後に交換可能",
+    "closedItemName": "エクスクルーシブ・テイラー"
+  },
+  {
+    "condValues": [
+      1000011
+    ],
+    "shopId": 80314204,
+    "condType": 1,
+    "condNum": 1,
+    "priority": 100,
+    "isClosedDisp": true,
+    "closedMessage": "特異点Fクリア後に交換可能",
+    "closedItemName": "探偵ヱドモン～新章突入編～"
+  },
+  {
+    "condValues": [
+      1000011
+    ],
+    "shopId": 80314205,
+    "condType": 1,
+    "condNum": 1,
+    "priority": 100,
+    "isClosedDisp": true,
+    "closedMessage": "特異点Fクリア後に交換可能",
+    "closedItemName": "俺様生徒会"
+  },
+  {
+    "condValues": [
+      1000011
+    ],
+    "shopId": 80314206,
+    "condType": 1,
+    "condNum": 1,
+    "priority": 100,
+    "isClosedDisp": true,
+    "closedMessage": "特異点Fクリア後に交換可能",
+    "closedItemName": "乱世上々"
+  },
+  {
+    "condValues": [
+      1000011
+    ],
+    "shopId": 80314207,
+    "condType": 1,
+    "condNum": 1,
+    "priority": 100,
+    "isClosedDisp": true,
+    "closedMessage": "特異点Fクリア後に交換可能",
+    "closedItemName": "ゴッズ・ディール"
+  },
+  {
+    "condValues": [
+      1000011
+    ],
+    "shopId": 80314208,
+    "condType": 1,
+    "condNum": 1,
+    "priority": 100,
+    "isClosedDisp": true,
+    "closedMessage": "特異点Fクリア後に交換可能",
+    "closedItemName": "ダディ・レターライブ"
+  },
+  {
+    "condValues": [
+      1000011
+    ],
+    "shopId": 80314209,
+    "condType": 1,
+    "condNum": 1,
+    "priority": 100,
+    "isClosedDisp": true,
+    "closedMessage": "特異点Fクリア後に交換可能",
+    "closedItemName": "ブザー・ビーター"
+  },
+  {
+    "condValues": [
+      1000011
+    ],
+    "shopId": 80314301,
+    "condType": 1,
+    "condNum": 1,
+    "priority": 100,
+    "isClosedDisp": true,
+    "closedMessage": "特異点Fクリア後に交換可能",
+    "closedItemName": "フラワー・アンド・カフェ"
+  },
+  {
+    "condValues": [
+      1000011
+    ],
+    "shopId": 80314302,
+    "condType": 1,
+    "condNum": 1,
+    "priority": 100,
+    "isClosedDisp": true,
+    "closedMessage": "特異点Fクリア後に交換可能",
+    "closedItemName": "クラブ・アルゴノーツ"
+  },
+  {
+    "condValues": [
+      1000011
+    ],
+    "shopId": 80314303,
+    "condType": 1,
+    "condNum": 1,
+    "priority": 100,
+    "isClosedDisp": true,
+    "closedMessage": "特異点Fクリア後に交換可能",
+    "closedItemName": "探偵ヱドモン～蘇る悪夢編～"
+  },
+  {
+    "condValues": [
+      1000011
+    ],
+    "shopId": 80314304,
+    "condType": 1,
+    "condNum": 1,
+    "priority": 100,
+    "isClosedDisp": true,
+    "closedMessage": "特異点Fクリア後に交換可能",
+    "closedItemName": "ラウンズ・オン・アイス"
+  },
+  {
+    "condValues": [
+      1000011
+    ],
+    "shopId": 80314305,
+    "condType": 1,
+    "condNum": 1,
+    "priority": 100,
+    "isClosedDisp": true,
+    "closedMessage": "特異点Fクリア後に交換可能",
+    "closedItemName": "百鬼夜行"
+  },
+  {
+    "condValues": [
+      1000011
+    ],
+    "shopId": 80314306,
+    "condType": 1,
+    "condNum": 1,
+    "priority": 100,
+    "isClosedDisp": true,
+    "closedMessage": "特異点Fクリア後に交換可能",
+    "closedItemName": "カルデア・イレブン"
+  },
+  {
+    "condValues": [
+      1000011
+    ],
+    "shopId": 80314307,
+    "condType": 1,
+    "condNum": 1,
+    "priority": 100,
+    "isClosedDisp": true,
+    "closedMessage": "特異点Fクリア後に交換可能",
+    "closedItemName": "至高の学び舎"
+  },
+  {
+    "condValues": [
+      1000011
+    ],
+    "shopId": 80314308,
+    "condType": 1,
+    "condNum": 1,
+    "priority": 100,
+    "isClosedDisp": true,
+    "closedMessage": "特異点Fクリア後に交換可能",
+    "closedItemName": "スプレッド・ガン"
+  },
+  {
+    "condValues": [
+      1000011
+    ],
+    "shopId": 80314309,
+    "condType": 1,
+    "condNum": 1,
+    "priority": 100,
+    "isClosedDisp": true,
+    "closedMessage": "特異点Fクリア後に交換可能",
+    "closedItemName": "∞ドリーム"
   }
 ]
