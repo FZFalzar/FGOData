@@ -2715,6 +2715,11 @@
     "detailShort": "(Can be activated when there are 10 C. Stars) Increase your NP Gauge [{0}] and NP Strength (3 turns) + Decrease C. Stars by 10 [Demerit]"
   },
   {
+    "id": 334553,
+    "detail": "[Usable only when there are 10 C. Stars or more] Increase NP Gauge [{0}] & NP Strength (3 turns) for yourself + Apply [Evil] to all allies excluding yourself (3 turns) [g][o]▲[/o][/g]",
+    "detailShort": "[Usable only when there are 10 C. Stars or more] Increase NP Gauge [{0}] & NP Strength (3 turns) for yourself + Apply [Evil] to all allies excluding yourself (3 turns) [g][o]▲[/o][/g]"
+  },
+  {
     "id": 335550,
     "detail": "Increase all allies' ATK [{0}] (3 turns) & increase ATK for all [Evil] allies (except yourself) [{0}] (3 turns)",
     "detailShort": "Increase all allies' ATK [{0}] (3 turns) and increase all [Evil] allies' ATK (excluding yourself) [{0}] (3 turns)"
@@ -4465,6 +4470,11 @@
     "detailShort": "Increase your ATK Strength by 100% in \"Valentine's 2021\" & increase Bond gained when completing quests by 50% [Event Only]"
   },
   {
+    "id": 940101,
+    "detail": "Increase your ATK Strength by 50% in \"An Old Spider Spins Webs of Memory\" [Event Only]",
+    "detailShort": "Increase your ATK Strength by 50% in \"An Old Spider Spins Webs of Memory\" [Event Only]"
+  },
+  {
     "id": 960502,
     "detail": "Increase your ATK Strength by 20% in \"Final Singularity: The Grand Temple of Time Solomon\"",
     "detailShort": "Increase your ATK Strength by 20% in \"Final Singularity: The Grand Temple of Time Solomon\""
@@ -6121,8 +6131,8 @@
   },
   {
     "id": 990265,
-    "detail": "Apply Ignore Invincible & increase Quick Card effectiveness by 10% for yourself",
-    "detailShort": "Apply Ignore Invincible & increase Quick Card effectiveness by 10% for yourself"
+    "detail": "Apply Ignore Invincible & increase Quick Card effectiveness by 10% for yourself [MAX]",
+    "detailShort": "Apply Ignore Invincible & increase Quick Card effectiveness by 10% for yourself [MAX]"
   },
   {
     "id": 990267,
@@ -6131,8 +6141,8 @@
   },
   {
     "id": 990268,
-    "detail": "Increase Death Resist by 80% for yourself",
-    "detailShort": "Increase Death Resist by 80% for yourself"
+    "detail": "Increase Death Resist by 80% for yourself [MAX]",
+    "detailShort": "Increase Death Resist by 80% for yourself [MAX]"
   },
   {
     "id": 990269,
@@ -6141,8 +6151,8 @@
   },
   {
     "id": 990270,
-    "detail": "Begin battle with NP charged at 60% & increase Arts Card effectiveness by 20% (3 turns) for yourself",
-    "detailShort": "Begin battle with NP charged at 60% & increase Arts Card effectiveness by 20% (3 turns) for yourself"
+    "detail": "Begin battle with NP charged at 60% & increase Arts Card effectiveness by 20% (3 turns) for yourself [MAX]",
+    "detailShort": "Begin battle with NP charged at 60% & increase Arts Card effectiveness by 20% (3 turns) for yourself [MAX]"
   },
   {
     "id": 990271,
@@ -6151,8 +6161,8 @@
   },
   {
     "id": 990272,
-    "detail": "Reduce damage taken by 1200 (3 times) for yourself",
-    "detailShort": "Reduce damage taken by 1200 (3 times) for yourself"
+    "detail": "Reduce damage taken by 1200 (3 times) for yourself [MAX]",
+    "detailShort": "Reduce damage taken by 1200 (3 times) for yourself [MAX]"
   },
   {
     "id": 990273,
@@ -6161,8 +6171,8 @@
   },
   {
     "id": 990274,
-    "detail": "Apply Damage Plus 1000 for yourself",
-    "detailShort": "Apply Damage Plus 1000 for yourself"
+    "detail": "Apply Damage Plus 1000 for yourself [MAX]",
+    "detailShort": "Apply Damage Plus 1000 for yourself [MAX]"
   },
   {
     "id": 990275,
@@ -6171,8 +6181,8 @@
   },
   {
     "id": 990276,
-    "detail": "Increase Buster Card effectiveness by 25% & decrease DEF by 15% [Demerit] for yourself",
-    "detailShort": "Increase Buster Card effectiveness by 25% & decrease DEF by 15% [Demerit] for yourself"
+    "detail": "Increase Buster Card effectiveness by 25% & decrease DEF by 15% [Demerit] for yourself [MAX]",
+    "detailShort": "Increase Buster Card effectiveness by 25% & decrease DEF by 15% [Demerit] for yourself [MAX]"
   },
   {
     "id": 990277,
@@ -6181,8 +6191,8 @@
   },
   {
     "id": 990278,
-    "detail": "Apply Evade (1 time) & increase C. Star Drop Rate by 20% for yourself",
-    "detailShort": "Apply Evade (1 time) & increase C. Star Drop Rate by 20% for yourself"
+    "detail": "Apply Evade (1 time) & increase C. Star Drop Rate by 20% for yourself [MAX]",
+    "detailShort": "Apply Evade (1 time) & increase C. Star Drop Rate by 20% for yourself [MAX]"
   },
   {
     "id": 990279,
@@ -6191,8 +6201,8 @@
   },
   {
     "id": 990280,
-    "detail": "Increase C. Star Gather Rate by 400% (3 turns) & increase Debuff Resist by 20% (3 turns) for yourself",
-    "detailShort": "Increase C. Star Gather Rate by 400% (3 turns) & increase Debuff Resist by 20% (3 turns) for yourself"
+    "detail": "Increase C. Star Gather Rate by 400% (3 turns) & increase Debuff Resist by 20% (3 turns) for yourself [MAX]",
+    "detailShort": "Increase C. Star Gather Rate by 400% (3 turns) & increase Debuff Resist by 20% (3 turns) for yourself [MAX]"
   },
   {
     "id": 990281,
@@ -6201,8 +6211,8 @@
   },
   {
     "id": 990282,
-    "detail": "Increase Quick Card effectiveness by 8% & Debuff Resist by 15% for yourself",
-    "detailShort": "Increase Quick Card effectiveness by 8% & Debuff Resist by 15% for yourself"
+    "detail": "Increase Quick Card effectiveness by 8% & Debuff Resist by 15% for yourself [MAX]",
+    "detailShort": "Increase Quick Card effectiveness by 8% & Debuff Resist by 15% for yourself [MAX]"
   },
   {
     "id": 990283,
@@ -6211,8 +6221,8 @@
   },
   {
     "id": 990284,
-    "detail": "Begin battle with NP charged at 30% & increase NP Gain by 15% for yourself",
-    "detailShort": "Begin battle with NP charged at 30% & increase NP Gain by 15% for yourself"
+    "detail": "Begin battle with NP charged at 30% & increase NP Gain by 15% for yourself [MAX]",
+    "detailShort": "Begin battle with NP charged at 30% & increase NP Gain by 15% for yourself [MAX]"
   },
   {
     "id": 990285,
@@ -12575,9 +12585,194 @@
     "detailShort": "Increase Buster Card effectiveness by 20% & increase ATK by 20% while in a [Growth] state + Decrease Quick Card effectiveness by 10% to all allies excluding yourself [Demerit] only if [servantName 1000900](Alter Ego) is equipped with this Craft Essence when she is on the field."
   },
   {
+    "id": 991689,
+    "detail": "Increase Quick Card effectiveness by 10% & Critical Strength by 10% & NP Gain by 15% for yourself",
+    "detailShort": "Increase Quick Card effectiveness by 10% & Critical Strength by 10% & NP Gain by 15% for yourself"
+  },
+  {
+    "id": 991690,
+    "detail": "Increase Quick Card effectiveness by 15% & Critical Strength by 15% & NP Gain by 20% for yourself [MAX]",
+    "detailShort": "Increase Quick Card effectiveness by 15% & Critical Strength by 15% & NP Gain by 20% for yourself [MAX]"
+  },
+  {
+    "id": 991691,
+    "detail": "Increase amount of Hermit Cocktail Shaker per drop by 1 [Event Only]",
+    "detailShort": "Increase amount of Hermit Cocktail Shaker per drop by 1 [Event Only]"
+  },
+  {
+    "id": 991692,
+    "detail": "Increase amount of Hermit Cocktail Shaker per drop by 2 [MAX] [Event Only]",
+    "detailShort": "Increase amount of Hermit Cocktail Shaker per drop by 2 [MAX] [Event Only]"
+  },
+  {
+    "id": 991693,
+    "detail": "Increase C. Star Gather Rate by 400% & NP Gain by 20% for yourself",
+    "detailShort": "Increase C. Star Gather Rate by 400% & NP Gain by 20% for yourself"
+  },
+  {
+    "id": 991694,
+    "detail": "Increase C. Star Gather Rate by 600% & NP Gain by 25% for yourself [MAX]",
+    "detailShort": "Increase C. Star Gather Rate by 600% & NP Gain by 25% for yourself [MAX]"
+  },
+  {
+    "id": 991695,
+    "detail": "Increase amount of Hermit Cocktail Shaker per drop by 1 [Event Only]",
+    "detailShort": "Increase amount of Hermit Cocktail Shaker per drop by 1 [Event Only]"
+  },
+  {
+    "id": 991696,
+    "detail": "Increase amount of Hermit Cocktail Shaker per drop by 2 [MAX][Event Only]",
+    "detailShort": "Increase amount of Hermit Cocktail Shaker per drop by 2 [MAX][Event Only]"
+  },
+  {
+    "id": 991697,
+    "detail": "Apply Sure Hit & increase NP Gain by 15% for yourself",
+    "detailShort": "Apply Sure Hit & increase NP Gain by 15% for yourself"
+  },
+  {
+    "id": 991698,
+    "detail": "Apply Sure Hit & increase NP Gain by 20% for yourself [MAX]",
+    "detailShort": "Apply Sure Hit & increase NP Gain by 20% for yourself [MAX]"
+  },
+  {
+    "id": 991699,
+    "detail": "Increase amount of Tricky Cloth per drop by 1 [Event Only]",
+    "detailShort": "Increase amount of Tricky Cloth per drop by 1 [Event Only]"
+  },
+  {
+    "id": 991700,
+    "detail": "Increase amount of Tricky Cloth per drop by 2 [MAX] [Event Only]",
+    "detailShort": "Increase amount of Tricky Cloth per drop by 2 [MAX] [Event Only]"
+  },
+  {
+    "id": 991701,
+    "detail": "Increase Arts Card effectiveness by 10% & Critical Strength by 8% for yourself",
+    "detailShort": "Increase Arts Card effectiveness by 10% & Critical Strength by 8% for yourself"
+  },
+  {
+    "id": 991702,
+    "detail": "Increase Arts Card effectiveness by 15% & Critical Strength by 10% for yourself [MAX]",
+    "detailShort": "Increase Arts Card effectiveness by 15% & Critical Strength by 10% for yourself [MAX]"
+  },
+  {
+    "id": 991703,
+    "detail": "Increase amount of Tricky Cloth per drop by 1 [Event Only]",
+    "detailShort": "Increase amount of Tricky Cloth per drop by 1 [Event Only]"
+  },
+  {
+    "id": 991704,
+    "detail": "Increase amount of Tricky Cloth per drop by 2 [MAX] [Event Only]",
+    "detailShort": "Increase amount of Tricky Cloth per drop by 2 [MAX] [Event Only]"
+  },
+  {
+    "id": 991705,
+    "detail": "Increase Quick Card effectiveness by 8% & Arts Card effectiveness by 8% & NP Strength by 5% for yourself",
+    "detailShort": "Increase Quick Card effectiveness by 8% & Arts Card effectiveness by 8% & NP Strength by 5% for yourself"
+  },
+  {
+    "id": 991706,
+    "detail": "Increase Quick Card effectiveness by 10% & Arts Card effectiveness by 10% & NP Strength by 10% for yourself [MAX]",
+    "detailShort": "Increase Quick Card effectiveness by 10% & Arts Card effectiveness by 10% & NP Strength by 10% for yourself"
+  },
+  {
+    "id": 991707,
+    "detail": "Increase amount of Tricky Cloth per drop by 1 [Event Only]",
+    "detailShort": "Increase amount of Tricky Cloth per drop by 1 [Event Only]"
+  },
+  {
+    "id": 991708,
+    "detail": "Increase amount of Tricky Cloth per drop by 2 [MAX] [Event Only]",
+    "detailShort": "Increase amount of Tricky Cloth per drop by 2 [MAX] [Event Only]"
+  },
+  {
+    "id": 991709,
+    "detail": "Increase NP Gauge by 1% each turn & increase NP Strength by 5% for yourself",
+    "detailShort": "Increase NP Gauge by 1% each turn & increase NP Strength by 5% for yourself"
+  },
+  {
+    "id": 991710,
+    "detail": "Increase NP Gauge by 2% each turn & increase NP Strength by 10% for yourself [MAX]",
+    "detailShort": "Increase NP Gauge by 2% each turn & increase NP Strength by 10% for yourself [MAX]"
+  },
+  {
+    "id": 991711,
+    "detail": "Increase amount of Spiderweb Coaster per drop by 1 [Event Only]",
+    "detailShort": "Increase amount of Spiderweb Coaster per drop by 1 [Event Only]"
+  },
+  {
+    "id": 991712,
+    "detail": "Increase amount of Spiderweb Coaster per drop by 2 [MAX] [Event Only]",
+    "detailShort": "Increase amount of Spiderweb Coaster per drop by 2 [MAX] [Event Only]"
+  },
+  {
+    "id": 991713,
+    "detail": "Apply Evade (1 time) & increase Critical Strength by 5% for yourself",
+    "detailShort": "Apply Evade (1 time) & increase Critical Strength by 5% for yourself"
+  },
+  {
+    "id": 991714,
+    "detail": "Apply Evade (1 time) & increase Critical Strength by 10% for yourself [MAX]",
+    "detailShort": "Apply Evade (1 time) & increase Critical Strength by 10% for yourself [MAX]"
+  },
+  {
+    "id": 991715,
+    "detail": "Increase amount of Spiderweb Coaster per drop by 1 [Event Only]",
+    "detailShort": "Increase amount of Spiderweb Coaster per drop by 1 [Event Only]"
+  },
+  {
+    "id": 991716,
+    "detail": "Increase amount of Spiderweb Coaster per drop by 2 [MAX] [Event Only]",
+    "detailShort": "Increase amount of Spiderweb Coaster per drop by 2 [MAX] [Event Only]"
+  },
+  {
+    "id": 991717,
+    "detail": "Increase HP Recovery amount by 5% & NP Gain by 5% for yourself",
+    "detailShort": "Increase HP Recovery amount by 5% & NP Gain by 5% for yourself"
+  },
+  {
+    "id": 991718,
+    "detail": "Increase HP Recovery amount by 10% & NP Gain by 10% for yourself [MAX]",
+    "detailShort": "Increase HP Recovery amount by 10% & NP Gain by 10% for yourself [MAX]"
+  },
+  {
+    "id": 991719,
+    "detail": "Increase amount of Spiderweb Coaster per drop by 1 [Event Only]",
+    "detailShort": "Increase amount of Spiderweb Coaster per drop by 1 [Event Only]"
+  },
+  {
+    "id": 991720,
+    "detail": "Increase amount of Spiderweb Coaster per drop by 2 [MAX] [Event Only]",
+    "detailShort": "Increase amount of Spiderweb Coaster per drop by 2 [MAX] [Event Only]"
+  },
+  {
+    "id": 991721,
+    "detail": "Gain 1 C. Star each turn & increase C. Star Drop Rate by 10% for yourself",
+    "detailShort": "Gain 1 C. Star each turn & increase C. Star Drop Rate by 10%for yourself"
+  },
+  {
+    "id": 991722,
+    "detail": "Gain 2 C. Stars each turn & increase C. Star Drop Rate by 15% for yourself [MAX]",
+    "detailShort": "Gain 2 C. Stars each turn & increase C. Star Drop Rate by 15%for yourself"
+  },
+  {
     "id": 991724,
     "detail": "Recover 200 HP for all allies when attacking with the engraved Card",
     "detailShort": "Recover 200 HP for all allies when attacking with the engraved Card"
+  },
+  {
+    "id": 991728,
+    "detail": "Increase amount of Spiderweb Coaster per drop by 1 [Event Only]",
+    "detailShort": "Increase amount of Spiderweb Coaster per drop by 1 [Event Only]"
+  },
+  {
+    "id": 991729,
+    "detail": "Increase amount of Spiderweb Coaster per drop by 2 [MAX] [Event Only]",
+    "detailShort": "Increase amount of Spiderweb Coaster per drop by 2 [MAX] [Event Only]"
+  },
+  {
+    "id": 991730,
+    "detail": "Remove 1 Debuff Immune from one enemy when attacking with the engraved Card + Increase the engraved Card's Critical Strength against [Good] enemies by 20% ",
+    "detailShort": "Remove 1 Debuff Immune from one enemy when attacking with the engraved Card + Increase the engraved Card's Critical Strength against [Good] enemies by 20% "
   },
   {
     "id": 991802,

@@ -12846,6 +12846,138 @@
       10
     ],
     "targetIds": [
+      201100
+    ],
+    "script": {},
+    "id": 4000323,
+    "baseShopId": 4000323,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 1500,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 0,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Nikola Tesla",
+    "detail": "Exchange for ★5 Servant",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1615176000,
+    "closedAt": 1616385599
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      603600
+    ],
+    "script": {},
+    "id": 4000324,
+    "baseShopId": 4000324,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 2450,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 0,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Li Shuwen",
+    "detail": "Exchange for ★5 Servant",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1615176000,
+    "closedAt": 1616385599
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      702000
+    ],
+    "script": {},
+    "id": 4000325,
+    "baseShopId": 4000325,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 2700,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 0,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Cú Chulainn [Alter]",
+    "detail": "Exchange for ★5 Servant",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1615176000,
+    "closedAt": 1616385599
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      202300
+    ],
+    "script": {},
+    "id": 4000326,
+    "baseShopId": 4000052,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 893,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Archer of Shinjuku",
+    "detail": "Exchange for Limited Time ★5 Servant",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1615176000,
+    "closedAt": 1616385599
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
       200200
     ],
     "script": {},
@@ -29673,6 +29805,39 @@
       18
     ],
     "prices": [
+      3
+    ],
+    "targetIds": [
+      8023701
+    ],
+    "script": {},
+    "id": 6000285,
+    "baseShopId": 6000285,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 65,
+    "purchaseType": 5,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "CBC2020 Limited Time Craft Essence Exchange Shop",
+    "detail": "Unlocks \"CBC 2020\" Limited Craft Essence exchange through Shop",
+    "infoMessage": "Unlocks \"CBC 2020\" Limited Craft Essence exchange through Shop",
+    "warningMessage": "",
+    "imageId": 80118,
+    "bgImageId": 0,
+    "openedAt": 1615176000,
+    "closedAt": 1901231999
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
       5
     ],
     "targetIds": [
@@ -29684,7 +29849,7 @@
     "eventId": 0,
     "slot": 0,
     "flag": 256,
-    "priority": 66,
+    "priority": 25,
     "purchaseType": 6,
     "setNum": 0,
     "payType": 10,
@@ -129697,7 +129862,7 @@
     "imageId": 0,
     "bgImageId": 80236,
     "openedAt": 1613534400,
-    "closedAt": 1615175999
+    "closedAt": 1615780799
   },
   {
     "itemIds": [
@@ -129730,7 +129895,7 @@
     "imageId": 0,
     "bgImageId": 80236,
     "openedAt": 1613534400,
-    "closedAt": 1615175999
+    "closedAt": 1615780799
   },
   {
     "itemIds": [
@@ -129763,7 +129928,7 @@
     "imageId": 0,
     "bgImageId": 80236,
     "openedAt": 1613534400,
-    "closedAt": 1615175999
+    "closedAt": 1615780799
   },
   {
     "itemIds": [
@@ -129796,7 +129961,7 @@
     "imageId": 0,
     "bgImageId": 80236,
     "openedAt": 1613534400,
-    "closedAt": 1615175999
+    "closedAt": 1615780799
   },
   {
     "itemIds": [
@@ -129829,7 +129994,7 @@
     "imageId": 0,
     "bgImageId": 80236,
     "openedAt": 1613534400,
-    "closedAt": 1615175999
+    "closedAt": 1615780799
   },
   {
     "itemIds": [
@@ -129862,7 +130027,7 @@
     "imageId": 0,
     "bgImageId": 80236,
     "openedAt": 1613534400,
-    "closedAt": 1615175999
+    "closedAt": 1615780799
   },
   {
     "itemIds": [
@@ -129895,7 +130060,7 @@
     "imageId": 0,
     "bgImageId": 80236,
     "openedAt": 1613534400,
-    "closedAt": 1615175999
+    "closedAt": 1615780799
   },
   {
     "itemIds": [
@@ -129928,7 +130093,7 @@
     "imageId": 0,
     "bgImageId": 80236,
     "openedAt": 1613534400,
-    "closedAt": 1615175999
+    "closedAt": 1615780799
   },
   {
     "itemIds": [
@@ -129961,7 +130126,7 @@
     "imageId": 0,
     "bgImageId": 80236,
     "openedAt": 1613534400,
-    "closedAt": 1615175999
+    "closedAt": 1615780799
   },
   {
     "itemIds": [
@@ -129994,7 +130159,7 @@
     "imageId": 0,
     "bgImageId": 80236,
     "openedAt": 1613534400,
-    "closedAt": 1615175999
+    "closedAt": 1615780799
   },
   {
     "itemIds": [
@@ -130027,7 +130192,7 @@
     "imageId": 0,
     "bgImageId": 80236,
     "openedAt": 1613534400,
-    "closedAt": 1615175999
+    "closedAt": 1615780799
   },
   {
     "itemIds": [
@@ -130060,7 +130225,7 @@
     "imageId": 0,
     "bgImageId": 80236,
     "openedAt": 1613534400,
-    "closedAt": 1615175999
+    "closedAt": 1615780799
   },
   {
     "itemIds": [
@@ -130093,7 +130258,7 @@
     "imageId": 0,
     "bgImageId": 80236,
     "openedAt": 1613534400,
-    "closedAt": 1615175999
+    "closedAt": 1615780799
   },
   {
     "itemIds": [
@@ -130126,7 +130291,7 @@
     "imageId": 0,
     "bgImageId": 80236,
     "openedAt": 1613534400,
-    "closedAt": 1615175999
+    "closedAt": 1615780799
   },
   {
     "itemIds": [
@@ -130159,7 +130324,7 @@
     "imageId": 0,
     "bgImageId": 80236,
     "openedAt": 1613534400,
-    "closedAt": 1615175999
+    "closedAt": 1615780799
   },
   {
     "itemIds": [
@@ -130192,7 +130357,7 @@
     "imageId": 0,
     "bgImageId": 80236,
     "openedAt": 1613534400,
-    "closedAt": 1615175999
+    "closedAt": 1615780799
   },
   {
     "itemIds": [
@@ -130225,7 +130390,7 @@
     "imageId": 0,
     "bgImageId": 80236,
     "openedAt": 1613534400,
-    "closedAt": 1615175999
+    "closedAt": 1615780799
   },
   {
     "itemIds": [
@@ -130258,7 +130423,7 @@
     "imageId": 0,
     "bgImageId": 80236,
     "openedAt": 1613534400,
-    "closedAt": 1615175999
+    "closedAt": 1615780799
   },
   {
     "itemIds": [
@@ -130291,7 +130456,7 @@
     "imageId": 0,
     "bgImageId": 80236,
     "openedAt": 1613534400,
-    "closedAt": 1615175999
+    "closedAt": 1615780799
   },
   {
     "itemIds": [
@@ -130324,7 +130489,7 @@
     "imageId": 0,
     "bgImageId": 80236,
     "openedAt": 1613534400,
-    "closedAt": 1615175999
+    "closedAt": 1615780799
   },
   {
     "itemIds": [
@@ -130357,7 +130522,7 @@
     "imageId": 0,
     "bgImageId": 80236,
     "openedAt": 1613534400,
-    "closedAt": 1615175999
+    "closedAt": 1615780799
   },
   {
     "itemIds": [
@@ -130390,7 +130555,7 @@
     "imageId": 0,
     "bgImageId": 80236,
     "openedAt": 1613534400,
-    "closedAt": 1615175999
+    "closedAt": 1615780799
   },
   {
     "itemIds": [
@@ -130423,7 +130588,7 @@
     "imageId": 0,
     "bgImageId": 80236,
     "openedAt": 1613534400,
-    "closedAt": 1615175999
+    "closedAt": 1615780799
   },
   {
     "itemIds": [
@@ -130456,7 +130621,7 @@
     "imageId": 0,
     "bgImageId": 80236,
     "openedAt": 1613534400,
-    "closedAt": 1615175999
+    "closedAt": 1615780799
   },
   {
     "itemIds": [
@@ -130489,7 +130654,7 @@
     "imageId": 0,
     "bgImageId": 80236,
     "openedAt": 1613534400,
-    "closedAt": 1615175999
+    "closedAt": 1615780799
   },
   {
     "itemIds": [
@@ -130522,7 +130687,7 @@
     "imageId": 0,
     "bgImageId": 80236,
     "openedAt": 1613534400,
-    "closedAt": 1615175999
+    "closedAt": 1615780799
   },
   {
     "itemIds": [
@@ -130555,7 +130720,7 @@
     "imageId": 0,
     "bgImageId": 80236,
     "openedAt": 1613534400,
-    "closedAt": 1615175999
+    "closedAt": 1615780799
   },
   {
     "itemIds": [
@@ -130588,7 +130753,7 @@
     "imageId": 0,
     "bgImageId": 80236,
     "openedAt": 1613534400,
-    "closedAt": 1615175999
+    "closedAt": 1615780799
   },
   {
     "itemIds": [
@@ -130621,7 +130786,7 @@
     "imageId": 0,
     "bgImageId": 80236,
     "openedAt": 1613534400,
-    "closedAt": 1615175999
+    "closedAt": 1615780799
   },
   {
     "itemIds": [
@@ -130654,7 +130819,7 @@
     "imageId": 0,
     "bgImageId": 80236,
     "openedAt": 1613534400,
-    "closedAt": 1615175999
+    "closedAt": 1615780799
   },
   {
     "itemIds": [
@@ -130687,7 +130852,1690 @@
     "imageId": 0,
     "bgImageId": 80236,
     "openedAt": 1613534400,
-    "closedAt": 1615175999
+    "closedAt": 1615780799
+  },
+  {
+    "itemIds": [
+      94034603
+    ],
+    "prices": [
+      200
+    ],
+    "targetIds": [
+      20230011
+    ],
+    "script": {},
+    "id": 80237001,
+    "baseShopId": 80237001,
+    "eventId": 80237,
+    "slot": 0,
+    "flag": 0,
+    "priority": 10,
+    "purchaseType": 14,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Spiritron Dress \"Grey Collar\" Wardrobe Key",
+    "detail": "Acquire the Wardrobe Key for \"Grey Collar\"",
+    "infoMessage": "Acquire the Wardrobe Key for the Spiritron Dress \"Grey Collar\"",
+    "warningMessage": "",
+    "imageId": 80221,
+    "bgImageId": 8023701,
+    "openedAt": 1615176000,
+    "closedAt": 1616385599
+  },
+  {
+    "itemIds": [
+      94034603
+    ],
+    "prices": [
+      200
+    ],
+    "targetIds": [
+      9570400
+    ],
+    "script": {},
+    "id": 80237002,
+    "baseShopId": 80237002,
+    "eventId": 80237,
+    "slot": 0,
+    "flag": 0,
+    "priority": 50,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Hero Crystal: Meteor Fou",
+    "detail": "Exchange for one ★4 ALL HP Up card",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 8023701,
+    "openedAt": 1615176000,
+    "closedAt": 1616385599
+  },
+  {
+    "itemIds": [
+      94034603
+    ],
+    "prices": [
+      200
+    ],
+    "targetIds": [
+      9670400
+    ],
+    "script": {},
+    "id": 80237003,
+    "baseShopId": 80237003,
+    "eventId": 80237,
+    "slot": 0,
+    "flag": 0,
+    "priority": 52,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Hero Crystal: Corona Fou",
+    "detail": "Exchange for one ★4 ALL ATK Up card",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 8023701,
+    "openedAt": 1615176000,
+    "closedAt": 1616385599
+  },
+  {
+    "itemIds": [
+      94034603
+    ],
+    "prices": [
+      40
+    ],
+    "targetIds": [
+      6517
+    ],
+    "script": {},
+    "id": 80237004,
+    "baseShopId": 80237004,
+    "eventId": 80237,
+    "slot": 0,
+    "flag": 0,
+    "priority": 300,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 10,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Heart of the Foreign God",
+    "detail": "Exchange for [Skill Up & Ascension Materials]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 8023701,
+    "openedAt": 1615176000,
+    "closedAt": 1616385599
+  },
+  {
+    "itemIds": [
+      94034603
+    ],
+    "prices": [
+      30
+    ],
+    "targetIds": [
+      6521
+    ],
+    "script": {},
+    "id": 80237005,
+    "baseShopId": 80237005,
+    "eventId": 80237,
+    "slot": 0,
+    "flag": 0,
+    "priority": 301,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Black Beast Grease",
+    "detail": "Exchange for [Skill Up & Ascension Materials]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 8023701,
+    "openedAt": 1615176000,
+    "closedAt": 1616385599
+  },
+  {
+    "itemIds": [
+      94034603
+    ],
+    "prices": [
+      20
+    ],
+    "targetIds": [
+      6508
+    ],
+    "script": {},
+    "id": 80237006,
+    "baseShopId": 80237006,
+    "eventId": 80237,
+    "slot": 0,
+    "flag": 0,
+    "priority": 302,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Ghost Lantern",
+    "detail": "Exchange for [Skill Up & Ascension Materials]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 8023701,
+    "openedAt": 1615176000,
+    "closedAt": 1616385599
+  },
+  {
+    "itemIds": [
+      94034603
+    ],
+    "prices": [
+      20
+    ],
+    "targetIds": [
+      7102
+    ],
+    "script": {},
+    "id": 80237007,
+    "baseShopId": 80237007,
+    "eventId": 80237,
+    "slot": 0,
+    "flag": 0,
+    "priority": 500,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Archer Monument",
+    "detail": "Exchange for [Ascension Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 8023701,
+    "openedAt": 1615176000,
+    "closedAt": 1616385599
+  },
+  {
+    "itemIds": [
+      94034603
+    ],
+    "prices": [
+      20
+    ],
+    "targetIds": [
+      7104
+    ],
+    "script": {},
+    "id": 80237008,
+    "baseShopId": 80237008,
+    "eventId": 80237,
+    "slot": 0,
+    "flag": 0,
+    "priority": 501,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Rider Monument",
+    "detail": "Exchange for [Ascension Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 8023701,
+    "openedAt": 1615176000,
+    "closedAt": 1616385599
+  },
+  {
+    "itemIds": [
+      94034603
+    ],
+    "prices": [
+      20
+    ],
+    "targetIds": [
+      7107
+    ],
+    "script": {},
+    "id": 80237009,
+    "baseShopId": 80237009,
+    "eventId": 80237,
+    "slot": 0,
+    "flag": 0,
+    "priority": 502,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Berserker Monument",
+    "detail": "Exchange for [Ascension Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 8023701,
+    "openedAt": 1615176000,
+    "closedAt": 1616385599
+  },
+  {
+    "itemIds": [
+      94034602
+    ],
+    "prices": [
+      200
+    ],
+    "targetIds": [
+      9670400
+    ],
+    "script": {},
+    "id": 80237010,
+    "baseShopId": 80237010,
+    "eventId": 80237,
+    "slot": 0,
+    "flag": 0,
+    "priority": 53,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Hero Crystal: Corona Fou",
+    "detail": "Exchange for one ★4 ALL ATK Up card",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 8023701,
+    "openedAt": 1615176000,
+    "closedAt": 1616385599
+  },
+  {
+    "itemIds": [
+      94034602
+    ],
+    "prices": [
+      30
+    ],
+    "targetIds": [
+      6507
+    ],
+    "script": {},
+    "id": 80237011,
+    "baseShopId": 80237011,
+    "eventId": 80237,
+    "slot": 0,
+    "flag": 0,
+    "priority": 303,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Claw of Chaos",
+    "detail": "Exchange for [Skill Up & Ascension Materials]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 8023701,
+    "openedAt": 1615176000,
+    "closedAt": 1616385599
+  },
+  {
+    "itemIds": [
+      94034602
+    ],
+    "prices": [
+      20
+    ],
+    "targetIds": [
+      6515
+    ],
+    "script": {},
+    "id": 80237012,
+    "baseShopId": 80237012,
+    "eventId": 80237,
+    "slot": 0,
+    "flag": 0,
+    "priority": 304,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Octuplet Crystals",
+    "detail": "Exchange for [Skill Up & Ascension Materials]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 8023701,
+    "openedAt": 1615176000,
+    "closedAt": 1616385599
+  },
+  {
+    "itemIds": [
+      94034602
+    ],
+    "prices": [
+      15
+    ],
+    "targetIds": [
+      6505
+    ],
+    "script": {},
+    "id": 80237013,
+    "baseShopId": 80237013,
+    "eventId": 80237,
+    "slot": 0,
+    "flag": 0,
+    "priority": 305,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 30,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Void's Dust",
+    "detail": "Exchange for [Skill Up & Ascension Materials]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 8023701,
+    "openedAt": 1615176000,
+    "closedAt": 1616385599
+  },
+  {
+    "itemIds": [
+      94034602
+    ],
+    "prices": [
+      20
+    ],
+    "targetIds": [
+      7002
+    ],
+    "script": {},
+    "id": 80237014,
+    "baseShopId": 80237014,
+    "eventId": 80237,
+    "slot": 0,
+    "flag": 0,
+    "priority": 503,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Archer Piece",
+    "detail": "Exchange for [Ascension Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 8023701,
+    "openedAt": 1615176000,
+    "closedAt": 1616385599
+  },
+  {
+    "itemIds": [
+      94034602
+    ],
+    "prices": [
+      20
+    ],
+    "targetIds": [
+      7004
+    ],
+    "script": {},
+    "id": 80237015,
+    "baseShopId": 80237015,
+    "eventId": 80237,
+    "slot": 0,
+    "flag": 0,
+    "priority": 504,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Rider Piece",
+    "detail": "Exchange for [Ascension Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 8023701,
+    "openedAt": 1615176000,
+    "closedAt": 1616385599
+  },
+  {
+    "itemIds": [
+      94034602
+    ],
+    "prices": [
+      20
+    ],
+    "targetIds": [
+      7007
+    ],
+    "script": {},
+    "id": 80237016,
+    "baseShopId": 80237016,
+    "eventId": 80237,
+    "slot": 0,
+    "flag": 0,
+    "priority": 505,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Berserker Piece",
+    "detail": "Exchange for [Ascension Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 8023701,
+    "openedAt": 1615176000,
+    "closedAt": 1616385599
+  },
+  {
+    "itemIds": [
+      94034601
+    ],
+    "prices": [
+      200
+    ],
+    "targetIds": [
+      9570400
+    ],
+    "script": {},
+    "id": 80237017,
+    "baseShopId": 80237017,
+    "eventId": 80237,
+    "slot": 0,
+    "flag": 0,
+    "priority": 51,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Hero Crystal: Meteor Fou",
+    "detail": "Exchange for one ★4 ALL HP Up card",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 8023701,
+    "openedAt": 1615176000,
+    "closedAt": 1616385599
+  },
+  {
+    "itemIds": [
+      94034601
+    ],
+    "prices": [
+      20
+    ],
+    "targetIds": [
+      6509
+    ],
+    "script": {},
+    "id": 80237018,
+    "baseShopId": 80237018,
+    "eventId": 80237,
+    "slot": 0,
+    "flag": 0,
+    "priority": 306,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Serpent Jewel",
+    "detail": "Exchange for [Skill Up & Ascension Materials]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 8023701,
+    "openedAt": 1615176000,
+    "closedAt": 1616385599
+  },
+  {
+    "itemIds": [
+      94034601
+    ],
+    "prices": [
+      15
+    ],
+    "targetIds": [
+      6533
+    ],
+    "script": {},
+    "id": 80237019,
+    "baseShopId": 80237019,
+    "eventId": 80237,
+    "slot": 0,
+    "flag": 0,
+    "priority": 307,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 30,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Stake of Wailing Night",
+    "detail": "Exchange for [Skill Up & Ascension Materials]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 8023701,
+    "openedAt": 1615176000,
+    "closedAt": 1616385599
+  },
+  {
+    "itemIds": [
+      94034601
+    ],
+    "prices": [
+      15
+    ],
+    "targetIds": [
+      6503
+    ],
+    "script": {},
+    "id": 80237020,
+    "baseShopId": 80237020,
+    "eventId": 80237,
+    "slot": 0,
+    "flag": 0,
+    "priority": 308,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 30,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Proof of Hero",
+    "detail": "Exchange for [Skill Up & Ascension Materials]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 8023701,
+    "openedAt": 1615176000,
+    "closedAt": 1616385599
+  },
+  {
+    "itemIds": [
+      94034601
+    ],
+    "prices": [
+      20
+    ],
+    "targetIds": [
+      9570300
+    ],
+    "script": {},
+    "id": 80237021,
+    "baseShopId": 80237021,
+    "eventId": 80237,
+    "slot": 0,
+    "flag": 0,
+    "priority": 200,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Hero Crystal: Star Fou",
+    "detail": "Exchange for one ★3 ALL HP Up card",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 8023701,
+    "openedAt": 1615176000,
+    "closedAt": 1616385599
+  },
+  {
+    "itemIds": [
+      94034601
+    ],
+    "prices": [
+      20
+    ],
+    "targetIds": [
+      9670300
+    ],
+    "script": {},
+    "id": 80237022,
+    "baseShopId": 80237022,
+    "eventId": 80237,
+    "slot": 0,
+    "flag": 0,
+    "priority": 201,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Hero Crystal: Sun Fou",
+    "detail": "Exchange for one ★3 ALL ATK Up card",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 8023701,
+    "openedAt": 1615176000,
+    "closedAt": 1616385599
+  },
+  {
+    "itemIds": [
+      94034601
+    ],
+    "prices": [
+      6
+    ],
+    "targetIds": [
+      9770400
+    ],
+    "script": {},
+    "id": 80237023,
+    "baseShopId": 80237023,
+    "eventId": 80237,
+    "slot": 0,
+    "flag": 0,
+    "priority": 202,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 100,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Blaze of Wisdom",
+    "detail": "Exchange for one ★4 ALL EXP card",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 8023701,
+    "openedAt": 1615176000,
+    "closedAt": 1616385599
+  },
+  {
+    "itemIds": [
+      94034601
+    ],
+    "prices": [
+      3
+    ],
+    "targetIds": [
+      9770300
+    ],
+    "script": {},
+    "id": 80237024,
+    "baseShopId": 80237024,
+    "eventId": 80237,
+    "slot": 0,
+    "flag": 0,
+    "priority": 203,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 100,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Fire of Wisdom",
+    "detail": "Exchange for one ★3 ALL EXP card",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 8023701,
+    "openedAt": 1615176000,
+    "closedAt": 1616385599
+  },
+  {
+    "itemIds": [
+      94034602
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      94034603
+    ],
+    "script": {},
+    "id": 80237025,
+    "baseShopId": 80237025,
+    "eventId": 80237,
+    "slot": 0,
+    "flag": 0,
+    "priority": 700,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 0,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Hermit Cocktail Shaker",
+    "detail": "Exchange for An Old Spider Spins Webs of Memory Event Limited Item \"Hermit Cocktail Shaker\"",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 8023701,
+    "openedAt": 1615176000,
+    "closedAt": 1616385599
+  },
+  {
+    "itemIds": [
+      94034601
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      94034602
+    ],
+    "script": {},
+    "id": 80237026,
+    "baseShopId": 80237026,
+    "eventId": 80237,
+    "slot": 0,
+    "flag": 0,
+    "priority": 701,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 0,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Tricky Cloth",
+    "detail": "Exchange for An Old Spider Spins Webs of Memory Event Limited Item \"Tricky Cloth\"",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 8023701,
+    "openedAt": 1615176000,
+    "closedAt": 1616385599
+  },
+  {
+    "itemIds": [
+      94034603
+    ],
+    "prices": [
+      2
+    ],
+    "targetIds": [
+      1
+    ],
+    "script": {},
+    "id": 80237027,
+    "baseShopId": 80237027,
+    "eventId": 80237,
+    "slot": 0,
+    "flag": 0,
+    "priority": 702,
+    "purchaseType": 1,
+    "setNum": 10000,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 0,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "10,000 QP",
+    "detail": "Exchange for QP",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 8023701,
+    "openedAt": 1615176000,
+    "closedAt": 1616385599
+  },
+  {
+    "itemIds": [
+      94034605
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      4001
+    ],
+    "script": {},
+    "id": 80237101,
+    "baseShopId": 80237101,
+    "eventId": 80237,
+    "slot": 1,
+    "flag": 0,
+    "priority": 100,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Summon Ticket",
+    "detail": "Exchange for one Summon Ticket that can perform one Saint Quartz summon",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 8023701,
+    "openedAt": 1615176000,
+    "closedAt": 1616385599
+  },
+  {
+    "itemIds": [
+      94034605
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      4001
+    ],
+    "script": {},
+    "id": 80237102,
+    "baseShopId": 80237102,
+    "eventId": 80237,
+    "slot": 1,
+    "flag": 0,
+    "priority": 200,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Summon Ticket",
+    "detail": "Exchange for one Summon Ticket that can perform one Saint Quartz summon",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 8023701,
+    "openedAt": 1615176000,
+    "closedAt": 1616385599
+  },
+  {
+    "itemIds": [
+      94034605
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      4001
+    ],
+    "script": {},
+    "id": 80237103,
+    "baseShopId": 80237103,
+    "eventId": 80237,
+    "slot": 1,
+    "flag": 0,
+    "priority": 300,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Summon Ticket",
+    "detail": "Exchange for one Summon Ticket that can perform one Saint Quartz summon",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 8023701,
+    "openedAt": 1615176000,
+    "closedAt": 1616385599
+  },
+  {
+    "itemIds": [
+      94034605
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      4001
+    ],
+    "script": {},
+    "id": 80237104,
+    "baseShopId": 80237104,
+    "eventId": 80237,
+    "slot": 1,
+    "flag": 0,
+    "priority": 400,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Summon Ticket",
+    "detail": "Exchange for one Summon Ticket that can perform one Saint Quartz summon",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 8023701,
+    "openedAt": 1615176000,
+    "closedAt": 1616385599
+  },
+  {
+    "itemIds": [
+      94034605
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      4001
+    ],
+    "script": {},
+    "id": 80237105,
+    "baseShopId": 80237105,
+    "eventId": 80237,
+    "slot": 1,
+    "flag": 0,
+    "priority": 500,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Summon Ticket",
+    "detail": "Exchange for one Summon Ticket that can perform one Saint Quartz summon",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 8023701,
+    "openedAt": 1615176000,
+    "closedAt": 1616385599
+  },
+  {
+    "itemIds": [
+      94034605
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      4001
+    ],
+    "script": {},
+    "id": 80237106,
+    "baseShopId": 80237106,
+    "eventId": 80237,
+    "slot": 1,
+    "flag": 0,
+    "priority": 600,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Summon Ticket",
+    "detail": "Exchange for one Summon Ticket that can perform one Saint Quartz summon",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 8023701,
+    "openedAt": 1615176000,
+    "closedAt": 1616385599
+  },
+  {
+    "itemIds": [
+      94034605
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      8400330
+    ],
+    "script": {},
+    "id": 80237107,
+    "baseShopId": 80237107,
+    "eventId": 80237,
+    "slot": 1,
+    "flag": 0,
+    "priority": 700,
+    "purchaseType": 19,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Coffin of the Fall",
+    "detail": "Exchange for ★4 Command Code",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 8023701,
+    "openedAt": 1615176000,
+    "closedAt": 1616385599
+  },
+  {
+    "itemIds": [
+      94034604
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9403700
+    ],
+    "script": {},
+    "id": 80237201,
+    "baseShopId": 80237201,
+    "eventId": 80237,
+    "slot": 2,
+    "flag": 0,
+    "priority": 10,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "The Dantès Files: The Case of the True Mastermind",
+    "detail": "[Exchange for only 1 of the 9!]\nExchange for CBC 2021 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Chaldea Boys Collection 2021\n\n[FF0000]Only 1 of the 9[-] Chaldea Boys Collection 2021 Limited Craft Essences can be redeemed.\n\nOnce redeemed, you cannot change to a different Craft Essence.\n\nWill you exchange for {0}?",
+    "imageId": 0,
+    "bgImageId": 8023702,
+    "openedAt": 1615176000,
+    "closedAt": 1616385599
+  },
+  {
+    "itemIds": [
+      94034604
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9403710
+    ],
+    "script": {},
+    "id": 80237202,
+    "baseShopId": 80237201,
+    "eventId": 80237,
+    "slot": 2,
+    "flag": 0,
+    "priority": 11,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Dance with the Round Table",
+    "detail": "[Exchange for only 1 of the 9!]\nExchange for CBC 2021 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Chaldea Boys Collection 2021\n\n[FF0000]Only 1 of the 9[-] Chaldea Boys Collection 2021 Limited Craft Essences can be redeemed.\n\nOnce redeemed, you cannot change to a different Craft Essence.\n\nWill you exchange for {0}?",
+    "imageId": 0,
+    "bgImageId": 8023702,
+    "openedAt": 1615176000,
+    "closedAt": 1616385599
+  },
+  {
+    "itemIds": [
+      94034604
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9403720
+    ],
+    "script": {},
+    "id": 80237203,
+    "baseShopId": 80237201,
+    "eventId": 80237,
+    "slot": 2,
+    "flag": 0,
+    "priority": 12,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Cunning Foresight",
+    "detail": "[Exchange for only 1 of the 9!]\nExchange for CBC 2021 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Chaldea Boys Collection 2021\n\n[FF0000]Only 1 of the 9[-] Chaldea Boys Collection 2021 Limited Craft Essences can be redeemed.\n\nOnce redeemed, you cannot change to a different Craft Essence.\n\nWill you exchange for {0}?",
+    "imageId": 0,
+    "bgImageId": 8023702,
+    "openedAt": 1615176000,
+    "closedAt": 1616385599
+  },
+  {
+    "itemIds": [
+      94034604
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9403730
+    ],
+    "script": {},
+    "id": 80237204,
+    "baseShopId": 80237201,
+    "eventId": 80237,
+    "slot": 2,
+    "flag": 0,
+    "priority": 13,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Glorious Cherry Blossoms",
+    "detail": "[Exchange for only 1 of the 9!]\nExchange for CBC 2021 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Chaldea Boys Collection 2021\n\n[FF0000]Only 1 of the 9[-] Chaldea Boys Collection 2021 Limited Craft Essences can be redeemed.\n\nOnce redeemed, you cannot change to a different Craft Essence.\n\nWill you exchange for {0}?",
+    "imageId": 0,
+    "bgImageId": 8023702,
+    "openedAt": 1615176000,
+    "closedAt": 1616385599
+  },
+  {
+    "itemIds": [
+      94034604
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9403740
+    ],
+    "script": {},
+    "id": 80237205,
+    "baseShopId": 80237201,
+    "eventId": 80237,
+    "slot": 2,
+    "flag": 0,
+    "priority": 14,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Teacher and Me",
+    "detail": "[Exchange for only 1 of the 9!]\nExchange for CBC 2021 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Chaldea Boys Collection 2021\n\n[FF0000]Only 1 of the 9[-] Chaldea Boys Collection 2021 Limited Craft Essences can be redeemed.\n\nOnce redeemed, you cannot change to a different Craft Essence.\n\nWill you exchange for {0}?",
+    "imageId": 0,
+    "bgImageId": 8023702,
+    "openedAt": 1615176000,
+    "closedAt": 1616385599
+  },
+  {
+    "itemIds": [
+      94034604
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9403750
+    ],
+    "script": {},
+    "id": 80237206,
+    "baseShopId": 80237201,
+    "eventId": 80237,
+    "slot": 2,
+    "flag": 0,
+    "priority": 15,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Trojan Bar",
+    "detail": "[Exchange for only 1 of the 9!]\nExchange for CBC 2021 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Chaldea Boys Collection 2021\n\n[FF0000]Only 1 of the 9[-] Chaldea Boys Collection 2021 Limited Craft Essences can be redeemed.\n\nOnce redeemed, you cannot change to a different Craft Essence.\n\nWill you exchange for {0}?",
+    "imageId": 0,
+    "bgImageId": 8023702,
+    "openedAt": 1615176000,
+    "closedAt": 1616385599
+  },
+  {
+    "itemIds": [
+      94034604
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9403760
+    ],
+    "script": {},
+    "id": 80237207,
+    "baseShopId": 80237201,
+    "eventId": 80237,
+    "slot": 2,
+    "flag": 0,
+    "priority": 16,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Under the Knife",
+    "detail": "[Exchange for only 1 of the 9!]\nExchange for CBC 2021 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Chaldea Boys Collection 2021\n\n[FF0000]Only 1 of the 9[-] Chaldea Boys Collection 2021 Limited Craft Essences can be redeemed.\n\nOnce redeemed, you cannot change to a different Craft Essence.\n\nWill you exchange for {0}?",
+    "imageId": 0,
+    "bgImageId": 8023702,
+    "openedAt": 1615176000,
+    "closedAt": 1616385599
+  },
+  {
+    "itemIds": [
+      94034604
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9403770
+    ],
+    "script": {},
+    "id": 80237208,
+    "baseShopId": 80237201,
+    "eventId": 80237,
+    "slot": 2,
+    "flag": 0,
+    "priority": 17,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Angel's Breath",
+    "detail": "[Exchange for only 1 of the 9!]\nExchange for CBC 2021 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Chaldea Boys Collection 2021\n\n[FF0000]Only 1 of the 9[-] Chaldea Boys Collection 2021 Limited Craft Essences can be redeemed.\n\nOnce redeemed, you cannot change to a different Craft Essence.\n\nWill you exchange for {0}?",
+    "imageId": 0,
+    "bgImageId": 8023702,
+    "openedAt": 1615176000,
+    "closedAt": 1616385599
+  },
+  {
+    "itemIds": [
+      94034604
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9403780
+    ],
+    "script": {},
+    "id": 80237209,
+    "baseShopId": 80237201,
+    "eventId": 80237,
+    "slot": 2,
+    "flag": 0,
+    "priority": 18,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Vampire Masquerade Ball",
+    "detail": "[Exchange for only 1 of the 9!]\nExchange for CBC 2021 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Chaldea Boys Collection 2021\n\n[FF0000]Only 1 of the 9[-] Chaldea Boys Collection 2021 Limited Craft Essences can be redeemed.\n\nOnce redeemed, you cannot change to a different Craft Essence.\n\nWill you exchange for {0}?",
+    "imageId": 0,
+    "bgImageId": 8023702,
+    "openedAt": 1615176000,
+    "closedAt": 1616385599
+  },
+  {
+    "itemIds": [
+      94034606
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9402910
+    ],
+    "script": {},
+    "id": 80243001,
+    "baseShopId": 80094008,
+    "eventId": 80243,
+    "slot": 0,
+    "flag": 0,
+    "priority": 10,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "The Star of Camelot",
+    "detail": "[Exchange for only 1 of the 8!]\nExchange for \"CBC 2020\" Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Chaldea Boys Collection 2020\n\n[FF0000]Only 1 of the 8[-] Chaldea Boys Collection 2020 Limited Craft Essences can be redeemed.\n\nOnce redeemed, you cannot change to a different Craft Essence.\n\nWill you exchange for {0}?",
+    "imageId": 0,
+    "bgImageId": 8009402,
+    "openedAt": 946684800,
+    "closedAt": 946684800
+  },
+  {
+    "itemIds": [
+      94034606
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9402920
+    ],
+    "script": {},
+    "id": 80243002,
+    "baseShopId": 80094008,
+    "eventId": 80243,
+    "slot": 0,
+    "flag": 0,
+    "priority": 11,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "The Dantès Files: Undercover in a Foreign Land",
+    "detail": "[Exchange for only 1 of the 8!]\nExchange for \"CBC 2020\" Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Chaldea Boys Collection 2020\n\n[FF0000]Only 1 of the 8[-] Chaldea Boys Collection 2020 Limited Craft Essences can be redeemed.\n\nOnce redeemed, you cannot change to a different Craft Essence.\n\nWill you exchange for {0}?",
+    "imageId": 0,
+    "bgImageId": 8009402,
+    "openedAt": 946684800,
+    "closedAt": 946684800
+  },
+  {
+    "itemIds": [
+      94034606
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9402930
+    ],
+    "script": {},
+    "id": 80243003,
+    "baseShopId": 80094008,
+    "eventId": 80243,
+    "slot": 0,
+    "flag": 0,
+    "priority": 12,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Gateau au Chocolat",
+    "detail": "[Exchange for only 1 of the 8!]\nExchange for \"CBC 2020\" Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Chaldea Boys Collection 2020\n\n[FF0000]Only 1 of the 8[-] Chaldea Boys Collection 2020 Limited Craft Essences can be redeemed.\n\nOnce redeemed, you cannot change to a different Craft Essence.\n\nWill you exchange for {0}?",
+    "imageId": 0,
+    "bgImageId": 8009402,
+    "openedAt": 946684800,
+    "closedAt": 946684800
+  },
+  {
+    "itemIds": [
+      94034606
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9402940
+    ],
+    "script": {},
+    "id": 80243004,
+    "baseShopId": 80094008,
+    "eventId": 80243,
+    "slot": 0,
+    "flag": 0,
+    "priority": 13,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Golden and Sun, the Gamblers",
+    "detail": "[Exchange for only 1 of the 8!]\nExchange for \"CBC 2020\" Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Chaldea Boys Collection 2020\n\n[FF0000]Only 1 of the 8[-] Chaldea Boys Collection 2020 Limited Craft Essences can be redeemed.\n\nOnce redeemed, you cannot change to a different Craft Essence.\n\nWill you exchange for {0}?",
+    "imageId": 0,
+    "bgImageId": 8009402,
+    "openedAt": 946684800,
+    "closedAt": 946684800
+  },
+  {
+    "itemIds": [
+      94034606
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9402950
+    ],
+    "script": {},
+    "id": 80243005,
+    "baseShopId": 80094008,
+    "eventId": 80243,
+    "slot": 0,
+    "flag": 0,
+    "priority": 14,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Chaldea Special Investigation Unit",
+    "detail": "[Exchange for only 1 of the 8!]\nExchange for \"CBC 2020\" Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Chaldea Boys Collection 2020\n\n[FF0000]Only 1 of the 8[-] Chaldea Boys Collection 2020 Limited Craft Essences can be redeemed.\n\nOnce redeemed, you cannot change to a different Craft Essence.\n\nWill you exchange for {0}?",
+    "imageId": 0,
+    "bgImageId": 8009402,
+    "openedAt": 946684800,
+    "closedAt": 946684800
+  },
+  {
+    "itemIds": [
+      94034606
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9402960
+    ],
+    "script": {},
+    "id": 80243006,
+    "baseShopId": 80094008,
+    "eventId": 80243,
+    "slot": 0,
+    "flag": 0,
+    "priority": 15,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Welcome, Our Customer",
+    "detail": "[Exchange for only 1 of the 8!]\nExchange for \"CBC 2020\" Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Chaldea Boys Collection 2020\n\n[FF0000]Only 1 of the 8[-] Chaldea Boys Collection 2020 Limited Craft Essences can be redeemed.\n\nOnce redeemed, you cannot change to a different Craft Essence.\n\nWill you exchange for {0}?",
+    "imageId": 0,
+    "bgImageId": 8009402,
+    "openedAt": 946684800,
+    "closedAt": 946684800
+  },
+  {
+    "itemIds": [
+      94034606
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9402970
+    ],
+    "script": {},
+    "id": 80243007,
+    "baseShopId": 80094008,
+    "eventId": 80243,
+    "slot": 0,
+    "flag": 0,
+    "priority": 16,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Musketeers",
+    "detail": "[Exchange for only 1 of the 8!]\nExchange for \"CBC 2020\" Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Chaldea Boys Collection 2020\n\n[FF0000]Only 1 of the 8[-] Chaldea Boys Collection 2020 Limited Craft Essences can be redeemed.\n\nOnce redeemed, you cannot change to a different Craft Essence.\n\nWill you exchange for {0}?",
+    "imageId": 0,
+    "bgImageId": 8009402,
+    "openedAt": 946684800,
+    "closedAt": 946684800
+  },
+  {
+    "itemIds": [
+      94034606
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9402980
+    ],
+    "script": {},
+    "id": 80243008,
+    "baseShopId": 80094008,
+    "eventId": 80243,
+    "slot": 0,
+    "flag": 0,
+    "priority": 17,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "The Men After the Rain",
+    "detail": "[Exchange for only 1 of the 8!]\nExchange for \"CBC 2020\" Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Chaldea Boys Collection 2020\n\n[FF0000]Only 1 of the 8[-] Chaldea Boys Collection 2020 Limited Craft Essences can be redeemed.\n\nOnce redeemed, you cannot change to a different Craft Essence.\n\nWill you exchange for {0}?",
+    "imageId": 0,
+    "bgImageId": 8009402,
+    "openedAt": 946684800,
+    "closedAt": 946684800
   },
   {
     "itemIds": [

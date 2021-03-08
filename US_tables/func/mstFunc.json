@@ -58812,7 +58812,7 @@
     "targetType": 0,
     "applyTarget": 3,
     "popupIconId": 325,
-    "popupText": "Evade on Entry",
+    "popupText": "Evade Upon Entry",
     "categoryId": 20203
   },
   {
@@ -58848,7 +58848,7 @@
     "targetType": 0,
     "applyTarget": 3,
     "popupIconId": 333,
-    "popupText": "Activate on\nAttack (NP Gain)",
+    "popupText": "Activate on Attack (NP Gain)",
     "categoryId": 10602
   },
   {
@@ -58867,7 +58867,7 @@
     "targetType": 0,
     "applyTarget": 3,
     "popupIconId": 333,
-    "popupText": "Activate on Attack\n(C. Star Gain)",
+    "popupText": "Activate on Attack (C. Star Gain)",
     "categoryId": 10404
   },
   {
@@ -58886,7 +58886,7 @@
     "targetType": 0,
     "applyTarget": 3,
     "popupIconId": 333,
-    "popupText": "Activate on Attack\n(Critical Up)",
+    "popupText": "Activate on Attack (Critical Strength Up)",
     "categoryId": 10401
   },
   {
@@ -58905,7 +58905,7 @@
     "targetType": 0,
     "applyTarget": 3,
     "popupIconId": 333,
-    "popupText": "Activate on Attack\n(Death Chance Up)",
+    "popupText": "Activate on Attack (Death Chance Up)",
     "categoryId": 30402
   },
   {
@@ -58943,7 +58943,7 @@
     "targetType": 0,
     "applyTarget": 3,
     "popupIconId": 306,
-    "popupText": "Activate on\nDefeat (NP Gain)",
+    "popupText": "Activate on Defeat (NP Gain)",
     "categoryId": 10602
   },
   {
@@ -58962,7 +58962,7 @@
     "targetType": 0,
     "applyTarget": 3,
     "popupIconId": 306,
-    "popupText": "Activate on\nDefeat (DEF Up)",
+    "popupText": "Activate on Defeat (DEF Up)",
     "categoryId": 20201
   },
   {
@@ -58981,7 +58981,7 @@
     "targetType": 0,
     "applyTarget": 3,
     "popupIconId": 306,
-    "popupText": "Activate on\nDefeat (Quick Up)",
+    "popupText": "Activate on Defeat (Quick Up)",
     "categoryId": 10202
   },
   {
@@ -59000,8 +59000,323 @@
     "targetType": 0,
     "applyTarget": 3,
     "popupIconId": 306,
-    "popupText": "Activate on\nDefeat (Invincible)",
+    "popupText": "Activate on Defeat (Invincible)",
     "categoryId": 20204
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 3420,
+    "cond": 0,
+    "funcType": 105,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "None",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 3421,
+    "cond": 0,
+    "funcType": 105,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "None",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 3422,
+    "cond": 0,
+    "funcType": 105,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "None",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1533
+    ],
+    "tvals": [],
+    "questTvals": [
+      94000085
+    ],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 3423,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 302,
+    "popupText": "Dirty",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1534
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 1,
+    "id": 3424,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 9,
+    "applyTarget": 3,
+    "popupIconId": 520,
+    "popupText": "Apply Evil Trait ",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1536
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 3425,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 343,
+    "popupText": "Advanced Deduction",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3006
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 1,
+    "id": 3434,
+    "cond": 0,
+    "funcType": 2,
+    "targetType": 1,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "Remove ATK Buff",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1539
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 3435,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 310,
+    "popupText": "Charge Strength Up",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1542
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 3441,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 334,
+    "popupText": "NP ATK Resist Up",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3061
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 1,
+    "id": 3442,
+    "cond": 0,
+    "funcType": 2,
+    "targetType": 4,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "Remove Debuff Immune",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1543
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 3443,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 324,
+    "popupText": "Critical Up",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2398
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      329
+    ],
+    "popupTextColor": 1,
+    "id": 3444,
+    "cond": 0,
+    "funcType": 2,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1544
+    ],
+    "tvals": [
+      2400
+    ],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 1,
+    "id": 3445,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 3,
+    "applyTarget": 1,
+    "popupIconId": 320,
+    "popupText": "C. Star Gain\nPer Turn",
+    "categoryId": 10405
+  },
+  {
+    "vals": [
+      916
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 3447,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 301,
+    "popupText": "DEF Up",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1545
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      330
+    ],
+    "popupTextColor": 2,
+    "id": 3448,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 7,
+    "applyTarget": 3,
+    "popupIconId": 310,
+    "popupText": "NP Strength Up",
+    "categoryId": 10601
+  },
+  {
+    "vals": [
+      1545
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 3449,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 7,
+    "applyTarget": 3,
+    "popupIconId": 310,
+    "popupText": "NP Strength Up",
+    "categoryId": 10601
+  },
+  {
+    "vals": [
+      1545
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 3450,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 7,
+    "applyTarget": 3,
+    "popupIconId": 310,
+    "popupText": "NP Strength Up",
+    "categoryId": 10601
   },
   {
     "vals": [
