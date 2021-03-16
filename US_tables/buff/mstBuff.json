@@ -22101,6 +22101,28 @@
   },
   {
     "vals": [
+      2396
+    ],
+    "tvals": [
+      5000,
+      4001
+    ],
+    "ckSelfIndv": [
+      4001
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1538,
+    "buffGroup": 0,
+    "type": 60,
+    "name": "Arts Down",
+    "detail": "Decrease Arts Card effectiveness",
+    "iconId": 516,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
       3004,
       3006,
       3030
@@ -22116,6 +22138,38 @@
     "detail": "Increase your Charge ATK Strength",
     "iconId": 310,
     "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1540,
+    "buffGroup": 0,
+    "type": 89,
+    "name": "Activate on Attack (Inflict Poison)",
+    "detail": "Inflict Poison (3 turns) to a single enemy during your normal attacks",
+    "iconId": 528,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1541,
+    "buffGroup": 0,
+    "type": 95,
+    "name": "",
+    "detail": "",
+    "iconId": 525,
+    "maxRate": 0,
     "effectId": 0
   },
   {
@@ -22197,6 +22251,21 @@
     "detail": "Increase NP damage",
     "iconId": 310,
     "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1547,
+    "buffGroup": 0,
+    "type": 37,
+    "name": "Guts",
+    "detail": "When HP reaches 0, recover HP and survive",
+    "iconId": 304,
+    "maxRate": 0,
     "effectId": 0
   },
   {
