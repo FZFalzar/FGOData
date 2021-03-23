@@ -3115,6 +3115,11 @@
     "detailShort": "Increase Quick Card effectiveness [{0}] (3 turns) & NP Gain [{0}] (3 turns) for yourself"
   },
   {
+    "id": 409450,
+    "detail": "Decrease maximum HP by 1000 (permanent) [Demerit] & increase NP Charge by 1 level when using NP (1 time, 3 turns) for a single ally +  Restore HP [{0}] for yourself",
+    "detailShort": "Decrease maximum HP by 1000 (permanent) [Demerit] & increase NP Charge by 1 level when using NP (1 time, 3 turns) for a single ally +  Restore HP [{0}] for yourself"
+  },
+  {
     "id": 409551,
     "detail": "[Usable only when your NP Gauge is 10% or higher] Decrease NP Gauge [Demerit] for yourself + Increase NP Gauge [{0}] & restore HP [{0}] for one ally",
     "detailShort": "[Usable only when your NP Gauge is 10% or highter] Decrease your NP Gauge [Demerit] + Increase NP Gauge [{0}] & restore HP [{0}] for one ally"
@@ -3995,6 +4000,21 @@
     "detailShort": "Increase NP Gauge [{0}] [g][o]▲[/o][/g] & increase Arts Card effectiveness when on a [Near Water] or [City] field [{0}] (3 turns) [g][o]▲[/o][/g] & increase Mental Debuff Resist [{0}] (3 turns) & recover HP [{0}] for yourself"
   },
   {
+    "id": 584450,
+    "detail": "Apply Damage Plus & Charm Immune for yourself",
+    "detailShort": "Apply Damage Plus & Charm Immune for yourself"
+  },
+  {
+    "id": 586650,
+    "detail": "Apply Guts [{0}] (1 time) & increase ATK [{0}](3 turns) for yourself",
+    "detailShort": "Apply Guts [{0}] (1 time) & increase ATK [{0}](3 turns) for yourself"
+  },
+  {
+    "id": 587650,
+    "detail": "Increase NP Gauge [{0}] & gain advantage against (Alter Ego) class (3 turns) & increase Critical Strength (3 turns) for yourself ",
+    "detailShort": "Increase NP Gauge [{0}] & gain advantage against (Alter Ego) class (3 turns) & increase Critical Strength (3 turns) for yourself "
+  },
+  {
     "id": 940001,
     "detail": "Increase Honnoji Point Gain by 20% [\"GUDAGUDA Honnoji\" Limited Event]",
     "detailShort": "Increase Honnoji Point Gain by 20% [\"GUDAGUDA Honnoji\" Limited Event]"
@@ -4475,6 +4495,26 @@
     "detailShort": "Increase your ATK Strength by 50% in \"An Old Spider Spins Webs of Memory\" [Event Only]"
   },
   {
+    "id": 940105,
+    "detail": "Increase your ATK Strength by 100% in \"Tokugawa Restoration Labyrinth, Ooku\" & increase Bond gained when completing quests by 50% [Event Only]",
+    "detailShort": "Increase your ATK Strength by 100% in \"Tokugawa Restoration Labyrinth, Ooku\" & increase Bond gained when completing quests by 50% [Event Only]"
+  },
+  {
+    "id": 940106,
+    "detail": "Increase your ATK Strength by 50% in \"Tokugawa Restoration Labyrinth, Ooku\" & increase Bond gained when completing quests by 20% [Event Only]",
+    "detailShort": "Increase your ATK Strength by 50% in \"Tokugawa Restoration Labyrinth, Ooku\" & increase Bond gained when completing quests by 20% [Event Only]"
+  },
+  {
+    "id": 940107,
+    "detail": "Increase your ATK Strength by 30% in \"Tokugawa Restoration Labyrinth, Ooku\" [Event Only]",
+    "detailShort": "Increase your ATK Strength by 30% in \"Tokugawa Restoration Labyrinth, Ooku\" [Event Only]"
+  },
+  {
+    "id": 940108,
+    "detail": "Increase your ATK Strength by 50% in \"Tokugawa Restoration Labyrinth, Ooku\" + increase Bond gained for all allies <including sub-members> when completing quests in \"Tokugawa Restoration Labyrinth, Ooku\" by 5% (No effect when equipped as Support) [Event Only]",
+    "detailShort": "Increase your ATK Strength by 50% in \"Tokugawa Restoration Labyrinth, Ooku\" + increase Bond gained for all allies <including sub-members> when completing quests in \"Tokugawa Restoration Labyrinth, Ooku\" by 5% (No effect when equipped as Support) [Event Only]"
+  },
+  {
     "id": 960502,
     "detail": "Increase your ATK Strength by 20% in \"Final Singularity: The Grand Temple of Time Solomon\"",
     "detailShort": "Increase your ATK Strength by 20% in \"Final Singularity: The Grand Temple of Time Solomon\""
@@ -4863,6 +4903,96 @@
     "id": 980042,
     "detail": "Increase Max HP [{0}] (1 turn) for one ally",
     "detailShort": "Increase Max HP [{0}] (1 turn) for one ally"
+  },
+  {
+    "id": 980043,
+    "detail": "Inflict Stun to all enemies (1 turn)",
+    "detailShort": "Inflict Stun to all enemies (1 turn)"
+  },
+  {
+    "id": 980044,
+    "detail": "Inflict Stun (1 turn) & decrease DEF (1 turn) to all enemies",
+    "detailShort": "Inflict Stun (1 turn) & decrease DEF (1 turn) to all enemies"
+  },
+  {
+    "id": 980045,
+    "detail": "Inflict Stun (1 turn) & decrease DEF (1 turn) & decrease Quick resistance (1 turn) to all enemies",
+    "detailShort": "Inflict Stun (1 turn) & decrease DEF (1 turn) & decrease Quick resistance (1 turn) to all enemies"
+  },
+  {
+    "id": 980046,
+    "detail": "Inflict Stun (1 turn) & decrease DEF (1 turn) & decrease Quick resistance (1 turn) & decrease Arts resistance (1 turn) to all enemies",
+    "detailShort": "Inflict Stun (1 turn) & decrease DEF (1 turn) & decrease Quick resistance (1 turn) & decrease Arts resistance (1 turn) to all enemies"
+  },
+  {
+    "id": 980047,
+    "detail": "Inflict Stun (1 turn) & decrease DEF (1 turn) & decrease Quick resistance (1 turn) & decrease Arts resistance (1 turn) & decrease Buster resistance (1 turn) to all enemies",
+    "detailShort": "Inflict Stun (1 turn) & decrease DEF (1 turn) & decrease Quick resistance (1 turn) & decrease Arts resistance (1 turn) & decrease Buster resistance (1 turn) to all enemies"
+  },
+  {
+    "id": 980048,
+    "detail": "Inflict Stun (1 turn) & decrease DEF (1 turn) & decrease Quick resistance (1 turn) & decrease Arts resistance (1 turn) & decrease Buster resistance (1 turn) & decrease Charge by 3 to all enemies",
+    "detailShort": "Inflict Stun (1 turn) & decrease DEF (1 turn) & decrease Quick resistance (1 turn) & decrease Arts resistance (1 turn) & decrease Buster resistance (1 turn) & decrease Charge by 3 to all enemies"
+  },
+  {
+    "id": 980049,
+    "detail": "Increase ATK (1 turn) for all aliies",
+    "detailShort": "Increase ATK (1 turn) for all aliies"
+  },
+  {
+    "id": 980050,
+    "detail": "Increase ATK (1 turn) & increase DEF (1 turn) for all allies",
+    "detailShort": "Increase ATK (1 turn) & increase DEF (1 turn) for all allies"
+  },
+  {
+    "id": 980051,
+    "detail": "Increase ATK (1 turn) & increase DEF (1 turn) & apply Evade (1 time, 1 turn) for all allies",
+    "detailShort": "Increase ATK (1 turn) & increase DEF (1 turn) & apply Evade (1 time, 1 turn) for all allies"
+  },
+  {
+    "id": 980052,
+    "detail": "Increase ATK (1 turn) & increase DEF (1 turn) & apply Evade (1 time, 1 turn) & apply Ignore Invincible (1 turn) for all allies",
+    "detailShort": "Increase ATK (1 turn) & increase DEF (1 turn) & apply Evade (1 time, 1 turn) & apply Ignore Invincible (1 turn) for all allies"
+  },
+  {
+    "id": 980053,
+    "detail": "Increase ATK (1 turn) & increase DEF (1 turn) & apply Evade (1 time, 1 turn) & apply Ignore Invincible (1 turn) & apply Damage Plus (1 turn) for all allies",
+    "detailShort": "Increase ATK (1 turn) & increase DEF (1 turn) & apply Evade (1 time, 1 turn) & apply Ignore Invincible (1 turn) & apply Damage Plus (1 turn) for all allies"
+  },
+  {
+    "id": 980054,
+    "detail": "Increase ATK (1 turn) & increase DEF (1 turn) & apply Evade (1 time, 1 turn) & apply Ignore Invincible (1 turn) & apply Damage Plus (1 turn) & apply Guts (1 time) for all allies",
+    "detailShort": "Increase ATK (1 turn) & increase DEF (1 turn) & apply Evade (1 time, 1 turn) & apply Ignore Invincible (1 turn) & apply Damage Plus (1 turn) & apply Guts (1 time) for all allies"
+  },
+  {
+    "id": 980055,
+    "detail": "Gain a large amount of Critical Stars",
+    "detailShort": "Gain a large amount of Critical Stars"
+  },
+  {
+    "id": 980056,
+    "detail": "Gain a large amount of Critical Stars + Increase C. Star Drop Rate (1 turn) for one ally",
+    "detailShort": "Gain a large amount of Critical Stars + Increase C. Star Drop Rate (1 turn) for one ally"
+  },
+  {
+    "id": 980057,
+    "detail": "Gain a large amount of Critical Stars + Increase C. Star Drop Rate (1 turn) & increase Critical Strength (1 turn) for one ally",
+    "detailShort": "Gain a large amount of Critical Stars + Increase C. Star Drop Rate (1 turn) & increase Critical Strength (1 turn) for one ally"
+  },
+  {
+    "id": 980058,
+    "detail": "Gain a large amount of Critical Stars + Increase C. Star Drop Rate (1 turn) & increase Critical Strength (1 turn) & increase NP Strength (1 turn) for one ally",
+    "detailShort": "Gain a large amount of Critical Stars + Increase C. Star Drop Rate (1 turn) & increase Critical Strength (1 turn) & increase NP Strength (1 turn) for one ally"
+  },
+  {
+    "id": 980059,
+    "detail": "Gain a large amount of Critical Stars + Increase C. Star Drop Rate (1 turn) & increase Critical Strength (1 turn) & increase NP Strength (1 turn) & increase NP Gain (1 turn) for one ally",
+    "detailShort": "Gain a large amount of Critical Stars + Increase C. Star Drop Rate (1 turn) & increase Critical Strength (1 turn) & increase NP Strength (1 turn) & increase NP Gain (1 turn) for one ally"
+  },
+  {
+    "id": 980060,
+    "detail": "Gain a large amount of Critical Stars + Increase C. Star Drop Rate (1 turn) & increase Critical Strength (1 turn) & increase NP Strength (1 turn) & increase NP Gain (1 turn) & increase NP Gauge for one ally",
+    "detailShort": "Gain a large amount of Critical Stars + Increase C. Star Drop Rate (1 turn) & increase Critical Strength (1 turn) & increase NP Strength (1 turn) & increase NP Gain (1 turn) & increase NP Gauge for one ally"
   },
   {
     "id": 980064,
@@ -12773,6 +12903,106 @@
     "id": 991730,
     "detail": "Remove 1 Debuff Immune from one enemy when attacking with the engraved Card + Increase the engraved Card's Critical Strength against [Good] enemies by 20% ",
     "detailShort": "Remove 1 Debuff Immune from one enemy when attacking with the engraved Card + Increase the engraved Card's Critical Strength against [Good] enemies by 20% "
+  },
+  {
+    "id": 991731,
+    "detail": "Increase Quick Card effectiveness by 10% & Critical Strength by 10% & begin battle with NP charged at 40% for yourself",
+    "detailShort": "Increase Quick Card effectiveness by 10% & Critical Strength by 10% & begin battle with NP charged at 40% for yourself"
+  },
+  {
+    "id": 991732,
+    "detail": "Increase Quick Card effectiveness by 15% & Critical Strength by 15% & begin battle with NP charged at 50% for yourself [MAX]",
+    "detailShort": "Increase Quick Card effectiveness by 15% & Critical Strength by 15% & begin battle with NP charged at 50% for yourself [MAX]"
+  },
+  {
+    "id": 991733,
+    "detail": "Increase amount of Floral Hairpin per drop by 1 [Event Only]",
+    "detailShort": "Increase amount of Floral Hairpin per drop by 1 [Event Only]"
+  },
+  {
+    "id": 991734,
+    "detail": "Increase amount of Floral Hairpin per drop by 2 [MAX] [Event Only]",
+    "detailShort": "Increase amount of Floral Hairpin per drop by 2 [MAX] [Event Only]"
+  },
+  {
+    "id": 991735,
+    "detail": "Increase NP Gain by 15% & Critical Strength by 15% for yourself",
+    "detailShort": "Increase NP Gain by 15% & Critical Strength by 15% for yourself"
+  },
+  {
+    "id": 991736,
+    "detail": "Increase NP Gain by 20% & Critical Strength by 20% for yourself [MAX] ",
+    "detailShort": "Increase NP Gain by 20% & Critical Strength by 20% for yourself [MAX] "
+  },
+  {
+    "id": 991737,
+    "detail": "Increase amount of Lunar Luster Rouge per drop by 1 [Event Only]",
+    "detailShort": "Increase amount of Lunar Luster Rouge per drop by 1 [Event Only]"
+  },
+  {
+    "id": 991738,
+    "detail": "Increase amount of Lunar Luster Rouge per drop by 2 [MAX] [Event Only]",
+    "detailShort": "Increase amount of Lunar Luster Rouge per drop by 2 [MAX] [Event Only]"
+  },
+  {
+    "id": 991739,
+    "detail": "Increase Buster Card effectiveness by 3% & NP Gain by 5% for yourself",
+    "detailShort": "Increase Buster Card effectiveness by 3% & NP Gain by 5% for yourself"
+  },
+  {
+    "id": 991740,
+    "detail": "Increase Buster Card effectiveness by 5% & NP Gain by 10% for yourself [MAX]",
+    "detailShort": "Increase Buster Card effectiveness by 5% & NP Gain by 10% for yourself [MAX]"
+  },
+  {
+    "id": 991741,
+    "detail": "Increase amount of Snowy Face Powder per drop by 1 [Event Only]",
+    "detailShort": "Increase amount of Snowy Face Powder per drop by 1 [Event Only]"
+  },
+  {
+    "id": 991742,
+    "detail": "Increase amount of Snowy Face Powder per drop by 2 [MAX] [Event Only]",
+    "detailShort": "Increase amount of Snowy Face Powder per drop by 2 [MAX] [Event Only]"
+  },
+  {
+    "id": 991743,
+    "detail": "Increase Quick Card effectiveness by 8% & Arts Card effectiveness by 8% for yourself + Gain 15 C. Stars when entering the field for the first time (1 time)",
+    "detailShort": "Increase Quick Card effectiveness by 8% & Arts Card effectiveness by 8% for yourself + Gain 15 C. Stars when entering the field for the first time (1 time)"
+  },
+  {
+    "id": 991744,
+    "detail": "Increase Quick Card effectiveness by 10% & Arts Card effectiveness by 10% for yourself + Gain 20 C. Stars when entering the field for the first time (1 time) [MAX]",
+    "detailShort": "Increase Quick Card effectiveness by 10% & Arts Card effectiveness by 10% for yourself + Gain 20 C. Stars when entering the field for the first time (1 time) [MAX]"
+  },
+  {
+    "id": 991745,
+    "detail": "Increase your ATK Strength by 100% in \"Tokugawa Restoration Labyrinth, Ooku\" [Event Only]",
+    "detailShort": "Increase your ATK Strength by 100% in \"Tokugawa Restoration Labyrinth, Ooku\" [Event Only]"
+  },
+  {
+    "id": 991746,
+    "detail": "Increase your ATK Strength by 200% in \"Tokugawa Restoration Labyrinth, Ooku\" [MAX] [Event Only]",
+    "detailShort": "Increase your ATK Strength by 200% in \"Tokugawa Restoration Labyrinth, Ooku\" [MAX] [Event Only]"
+  },
+  {
+    "id": 991747,
+    "detail": "Increase Quick Card effectiveness by 15% & Critical Strength by 20% for all allies (except yourself) only if [servantName 603700] (Assassin) is equipped with this Craft Essence when she is on the field.",
+    "detailShort": "Increase Quick Card effectiveness by 15% & Critical Strength by 20% for all allies (except yourself) only if [servantName 603700] (Assassin) is equipped with this Craft Essence when she is on the field."
+  },
+  {
+    "id": 991748,
+    "detail": "Inflict Poison (600 damage, 3 turns) to a single enemy + Decrease HP by 100 (cannot reduce below 1) [Demerit] for yourself when attacking with the engraved Card",
+    "detailShort": "Inflict Poison (600 damage, 3 turns) to a single enemy + Decrease HP by 100 (cannot reduce below 1) [Demerit] for yourself when attacking with the engraved Card"
+  },
+  {
+    "id": 991750,
+    "detail": "Gain 2 C. Stars when attacking with the engraved Card + Apply 20% Special Attack [Charm] effect to the engraved Card",
+    "detailShort": "Gain 2 C. Stars when attacking with the engraved Card + Apply 20% Special Attack [Charm] effect to the engraved Card"
+  },
+  {
+    "id": 991752,
+    "detail": "Apply 20% Special Attack [Lawful] & 20% Special Attack [Ruler] effect to the engraved Card",
+    "detailShort": "Apply 20% Special Attack [Lawful] & 20% Special Attack [Ruler] effect to the engraved Card"
   },
   {
     "id": 991802,

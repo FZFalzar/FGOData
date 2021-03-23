@@ -2297,8 +2297,7 @@
   {
     "vals": [
       3005,
-      3010,
-      3012
+      3010
     ],
     "tvals": [
       2191
@@ -2311,7 +2310,7 @@
     "id": 213,
     "buffGroup": 0,
     "type": 30,
-    "name": "Mental Debuff Resist Down",
+    "name": "Charm Resist Down (Mental)",
     "detail": "Decrease Charm resistance from [Female]",
     "iconId": 506,
     "maxRate": 5000,
@@ -2382,8 +2381,7 @@
   {
     "vals": [
       3005,
-      3010,
-      3012
+      3010
     ],
     "tvals": [
       3012
@@ -2396,7 +2394,7 @@
     "id": 217,
     "buffGroup": 0,
     "type": 30,
-    "name": "Mental Debuff Resist Down",
+    "name": "Charm Resist Down (Mental)",
     "detail": "Decrease Charm resistance",
     "iconId": 506,
     "maxRate": 5000,
@@ -10195,7 +10193,10 @@
     "effectId": 17122
   },
   {
-    "vals": [],
+    "vals": [
+      3004,
+      3061
+    ],
     "tvals": [
       3015
     ],
@@ -22083,6 +22084,21 @@
     "effectId": 0
   },
   {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1535,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "Labyrinth Strut",
+    "detail": "Increase damage dealt during \"Tokugawa Restoration Labyrinth, Ooku\" ",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
     "vals": [
       2398
     ],
@@ -22270,6 +22286,737 @@
   },
   {
     "vals": [],
+    "tvals": [
+      3015
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      3015
+    ],
+    "script": {},
+    "id": 1548,
+    "buffGroup": 0,
+    "type": 31,
+    "name": "Burn Immune",
+    "detail": "Immune to Burn",
+    "iconId": 322,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3061
+    ],
+    "tvals": [
+      3012
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      3012
+    ],
+    "script": {},
+    "id": 1551,
+    "buffGroup": 0,
+    "type": 31,
+    "name": "Charm Immune",
+    "detail": "Nullify Charm",
+    "iconId": 322,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2404
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1552,
+    "buffGroup": 0,
+    "type": 42,
+    "name": "Reliable",
+    "detail": "Increase DEF",
+    "iconId": 301,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1553,
+    "buffGroup": 0,
+    "type": 9,
+    "name": "Physical Labor",
+    "detail": "Increase ATK & remove one Reliable on defeat [Demerit] ",
+    "iconId": 300,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1554,
+    "buffGroup": 1554,
+    "type": 76,
+    "name": "NP Loss (?) Preparation",
+    "detail": "Activate Banquet Preparation, NP Loss (?) after 1 turn",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1555,
+    "buffGroup": 1555,
+    "type": 76,
+    "name": "NP Strength Up (?) Preparation",
+    "detail": "Activate Banquet Preparation, NP Strength Up (?) after 1 turn",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1556,
+    "buffGroup": 1556,
+    "type": 76,
+    "name": "HP Recovery Down (?) Preparation",
+    "detail": "Activate Banquet Preparation, HP Recovery Down (?) after 1 turn",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006,
+      3028
+    ],
+    "tvals": [
+      3012
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      3012
+    ],
+    "script": {},
+    "id": 1557,
+    "buffGroup": 0,
+    "type": 112,
+    "name": "Strength Up (Charm)",
+    "detail": "Increase damage dealt against [Charmed] enemies",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006,
+      3028
+    ],
+    "tvals": [
+      300
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      300
+    ],
+    "script": {},
+    "id": 1558,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "Strength Up (Lawful)",
+    "detail": "Increase damage dealt against [Lawful] enemies",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006,
+      3028
+    ],
+    "tvals": [
+      108
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      108
+    ],
+    "script": {},
+    "id": 1559,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "Strength Up (Ruler)",
+    "detail": "Increase damage dealt against [Rulers]",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1560,
+    "buffGroup": 0,
+    "type": 114,
+    "name": "Possession: Load NP",
+    "detail": "Increase Charge by 1 each turn",
+    "iconId": 319,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1561,
+    "buffGroup": 0,
+    "type": 17,
+    "name": "Battle Drop: Load NP",
+    "detail": "Increase NP Gain",
+    "iconId": 303,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006,
+      3032
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1562,
+    "buffGroup": 0,
+    "type": 70,
+    "name": "Possession: Generate C. Star",
+    "detail": "Increase Critical Hit rate",
+    "iconId": 327,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1563,
+    "buffGroup": 0,
+    "type": 3,
+    "name": "Battle Drop: Generate C. Star",
+    "detail": "Increase C. Star drop rate",
+    "iconId": 321,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2405
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1564,
+    "buffGroup": 0,
+    "type": 15,
+    "name": "Possession: NP Strengthen",
+    "detail": "Increase NP damage",
+    "iconId": 310,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2406
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1565,
+    "buffGroup": 0,
+    "type": 42,
+    "name": "Possession: DEF Barricade",
+    "detail": "Increase DEF",
+    "iconId": 301,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2407
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1566,
+    "buffGroup": 0,
+    "type": 9,
+    "name": "Possession: Relentless ATK",
+    "detail": "Increase ATK",
+    "iconId": 300,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006,
+      3030
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1567,
+    "buffGroup": 0,
+    "type": 15,
+    "name": "Battle Drop: NP Strengthen",
+    "detail": "Increase NP damage",
+    "iconId": 310,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3007,
+      3040,
+      3058
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1568,
+    "buffGroup": 0,
+    "type": 42,
+    "name": "Battle Drop: DEF Barricade",
+    "detail": "Increase DEF",
+    "iconId": 301,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006,
+      3027
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1569,
+    "buffGroup": 0,
+    "type": 9,
+    "name": "Battle Drop: Relentless ATK",
+    "detail": "Increase ATK",
+    "iconId": 300,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1570,
+    "buffGroup": 0,
+    "type": 89,
+    "name": "Steal: NP Strengthen",
+    "detail": "During normal attacks, steal the target's NP Strengthen",
+    "iconId": 333,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1571,
+    "buffGroup": 0,
+    "type": 89,
+    "name": "Steal: DEF Barricade",
+    "detail": "During normal attacks, steal the target's DEF Barricade",
+    "iconId": 333,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1572,
+    "buffGroup": 0,
+    "type": 89,
+    "name": "Steal: Relentless ATK",
+    "detail": "During normal attacks, steal the target's Relentless ATK",
+    "iconId": 333,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1573,
+    "buffGroup": 0,
+    "type": 85,
+    "name": "Nega-Desire",
+    "detail": "Decrease all enemy's NP each turn",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1574,
+    "buffGroup": 1574,
+    "type": 89,
+    "name": "Selfless Love",
+    "detail": "During normal attacks, restore HP by 100 & decrease Debuff Resist (3 turns) for yourself ",
+    "iconId": 333,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1575,
+    "buffGroup": 1575,
+    "type": 89,
+    "name": "Innocent Love",
+    "detail": "During normal attacks, restore HP by 200 & decrease DEF (3 turns) & decrease Debuff Resist (3 turns) for yourself ",
+    "iconId": 333,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1576,
+    "buffGroup": 1576,
+    "type": 89,
+    "name": "Unwarranted Love",
+    "detail": "During normal attacks, restore HP by 300 & decrease Buster Card effectiveness (3 turns) & decrease DEF (3 turns) & decrease Debuff Resist (3 turns) for yourself",
+    "iconId": 333,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1577,
+    "buffGroup": 1577,
+    "type": 89,
+    "name": "Unbiased Love",
+    "detail": "During normal attacks, restore HP by 400 & decrease Quick Card effectiveness (3 turns) & decrease Buster Card effectiveness (3 turns) & decrease DEF (3 turns) & decrease Debuff Resist (3 turns) for yourself",
+    "iconId": 333,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1578,
+    "buffGroup": 1578,
+    "type": 89,
+    "name": "Inexhaustible Love",
+    "detail": "During normal attacks, restore HP by 500 & decrease Arts Card effectiveness (3 turns) & decrease Quick Card effectiveness (3 turns) & decrease Buster Card effectiveness (3 turns) & decrease DEF (3 turns) & decrease Debuff Resist (3 turns) for yourself",
+    "iconId": 333,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1579,
+    "buffGroup": 1579,
+    "type": 89,
+    "name": "Eternal Love",
+    "detail": "During normal attacks, restore HP by 1000 & nullify Buff (1 time, 2 turns) & decrease Arts Card effectiveness (3 turns) & decrease Quick Card effectiveness (3 turns) & decrease Buster Card effectiveness (3 turns) & decrease DEF (3 turns) & decrease Debuff Resist (3 turns) for yourself",
+    "iconId": 333,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1580,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "Mara's Affection",
+    "detail": "When HP reaches 0, remove a single enemy's Debuffs [Demerit]",
+    "iconId": 543,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1581,
+    "buffGroup": 1581,
+    "type": 89,
+    "name": "Scorched Dust",
+    "detail": "During normal attacks, inflict Burn (5 turns) to a single enemy",
+    "iconId": 333,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1582,
+    "buffGroup": 1582,
+    "type": 89,
+    "name": "Shiva's Lingering Flame",
+    "detail": "During normal attacks, inflict Burn (5 turns) to a single enemy",
+    "iconId": 333,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [
+      3015
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1583,
+    "buffGroup": 0,
+    "type": 126,
+    "name": "Spreading Fire",
+    "detail": "Increase Burn effectiveness",
+    "iconId": 546,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1584,
+    "buffGroup": 0,
+    "type": 85,
+    "name": "Triggers Each Turn (HP Loss)",
+    "detail": "Decrease HP each turn",
+    "iconId": 537,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1585,
+    "buffGroup": 0,
+    "type": 85,
+    "name": "Mara's Gaze",
+    "detail": "Apply Debuff Resist down (3 turns) & NP Seal (1 turn) to a single enemy per turn",
+    "iconId": 343,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3007,
+      3040,
+      3058
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "INDIVIDUALITIE": 3052
+    },
+    "id": 1586,
+    "buffGroup": 0,
+    "type": 42,
+    "name": "DEF Up",
+    "detail": "Increase DEF during [Confusion]",
+    "iconId": 301,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1587,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "Trickster",
+    "detail": "When HP reaches 0, increase Maximum HP & Critical Hit Rate & increase Charge by 1 for all allies (including sub-members)",
+    "iconId": 350,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      3012
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      3012
+    ],
+    "script": {},
+    "id": 1588,
+    "buffGroup": 0,
+    "type": 112,
+    "name": "Strength Up (Charm)",
+    "detail": "Increase damage dealt to [Charmed] enemies",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006
+    ],
+    "tvals": [
+      5000,
+      4003,
+      4001,
+      4002
+    ],
+    "ckSelfIndv": [
+      4003,
+      4001,
+      4002
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1589,
+    "buffGroup": 0,
+    "type": 1,
+    "name": "Card Effectiveness Up",
+    "detail": "Increase ATK Strength of Quick, Arts and Buster Cards",
+    "iconId": 302,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2418
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1590,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "Activate on Defeat (Buff)",
+    "detail": "Buff occurs when HP reaches 0",
+    "iconId": 306,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1591,
+    "buffGroup": 0,
+    "type": 114,
+    "name": "Charge Plus Each Turn",
+    "detail": "Increase charge each turn",
+    "iconId": 319,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
     "tvals": [],
     "ckSelfIndv": [],
     "ckOpIndv": [],
@@ -22319,6 +23066,25 @@
     "type": 144,
     "name": "Change ATK Affinity",
     "detail": "Negate Class disadvantages from Saber Class attributes",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "relationId": 115
+    },
+    "id": 2585,
+    "buffGroup": 0,
+    "type": 144,
+    "name": "Class Affinity Change",
+    "detail": "Gain Class advantage against Alter Ego Class",
     "iconId": 520,
     "maxRate": 0,
     "effectId": 0
