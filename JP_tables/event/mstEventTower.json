@@ -43,5 +43,32 @@
     "floorLabel": "　{0}階",
     "openEffectId": 3,
     "flag": 0
+  },
+  {
+    "eventId": 80318,
+    "towerId": 1,
+    "name": "ウィッシュメンカード",
+    "topFloor": 50,
+    "floorLabel": "{0}件目",
+    "openEffectId": 0,
+    "flag": 2
+  },
+  {
+    "eventId": 80318,
+    "towerId": 2,
+    "name": "秋葉原タワー会館",
+    "topFloor": 50,
+    "floorLabel": "　{0}階",
+    "openEffectId": 0,
+    "flag": 0
+  },
+  {
+    "eventId": 80318,
+    "towerId": 3,
+    "name": "ミートタワー",
+    "topFloor": 100,
+    "floorLabel": "　{0}階",
+    "openEffectId": 4,
+    "flag": 0
   }
 ]
