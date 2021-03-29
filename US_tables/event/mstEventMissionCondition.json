@@ -41109,6 +41109,139 @@
   },
   {
     "targetIds": [
+      2001373,
+      2001374,
+      2001375,
+      2001376,
+      2001377,
+      2001378
+    ],
+    "missionId": 2001372,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001059,
+    "missionTargetId": 100199,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 6,
+    "conditionMessage": "Complete all of this week's Master Missions",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001111
+    ],
+    "missionId": 2001373,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001060,
+    "missionTargetId": 100199,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 30,
+    "conditionMessage": "Perform 30 Friend Point Summons",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001112
+    ],
+    "missionId": 2001374,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001061,
+    "missionTargetId": 100199,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 20,
+    "conditionMessage": "Defeat 20 enemies (excluding Servants and certain bosses)",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001374
+    ],
+    "missionId": 2001375,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 2001062,
+    "missionTargetId": 100199,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 1,
+    "conditionMessage": "Defeat 40 enemies (excluding Servants and certain bosses)",
+    "closedMessage": "",
+    "flag": 64
+  },
+  {
+    "targetIds": [
+      2001112
+    ],
+    "missionId": 2001375,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001063,
+    "missionTargetId": 100199,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 40,
+    "conditionMessage": "Defeat 40 enemies (excluding Servants and certain bosses)",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001113
+    ],
+    "missionId": 2001376,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001064,
+    "missionTargetId": 100199,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "Defeat 15 enemies with the Heaven attribute",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001114
+    ],
+    "missionId": 2001377,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001065,
+    "missionTargetId": 100199,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 5,
+    "conditionMessage": "Put one or more Lancer-class Servants in your Party and complete any quest(s) 5 times",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001115
+    ],
+    "missionId": 2001378,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001066,
+    "missionTargetId": 100199,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 5,
+    "conditionMessage": "Put one or more Assassin-class Servants in your Party and complete any quest(s) 5 times",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
       94011901
     ],
     "missionId": 80054001,
