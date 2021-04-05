@@ -2421,6 +2421,72 @@
       9570300
     ],
     "script": {},
+    "id": 11126,
+    "baseShopId": 11126,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 6,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 20,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "[Limited Time] Hero Crystal: Star Fou",
+    "detail": "[13 Million Downloads Campaign]\nExchange for one ★3 ALL HP Up card",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 80229,
+    "bgImageId": 0,
+    "openedAt": 1617595200,
+    "closedAt": 1618199999
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      15
+    ],
+    "targetIds": [
+      9670300
+    ],
+    "script": {},
+    "id": 11127,
+    "baseShopId": 11127,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 7,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 20,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "[Limited Time] Hero Crystal: Sun Fou",
+    "detail": "[13 Million Downloads Campaign]\nExchange for one ★3 ALL ATK Up card",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 80230,
+    "bgImageId": 0,
+    "openedAt": 1617595200,
+    "closedAt": 1618199999
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      15
+    ],
+    "targetIds": [
+      9570300
+    ],
+    "script": {},
     "id": 11128,
     "baseShopId": 11128,
     "eventId": 0,
@@ -4533,6 +4599,72 @@
       4001
     ],
     "script": {},
+    "id": 14101,
+    "baseShopId": 14101,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 4,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 5,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "[Limited Time] Summon Ticket",
+    "detail": "[13 Million Downloads Campaign]\nExchange for one Summon Ticket that can perform one Saint Quartz summon",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 80227,
+    "bgImageId": 0,
+    "openedAt": 1617595200,
+    "closedAt": 1618199999
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      40
+    ],
+    "targetIds": [
+      11011
+    ],
+    "script": {},
+    "id": 14102,
+    "baseShopId": 14102,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 5,
+    "purchaseType": 5,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 5,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "[Limited Time] EXP Card Set",
+    "detail": "[13 Million Downloads Campaign]\nExchange for 10 ★4 ALL EXP cards",
+    "infoMessage": "Exchange for 10 ★4 ALL EXP cards",
+    "warningMessage": "",
+    "imageId": 80228,
+    "bgImageId": 0,
+    "openedAt": 1617595200,
+    "closedAt": 1618199999
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      20
+    ],
+    "targetIds": [
+      4001
+    ],
+    "script": {},
     "id": 14103,
     "baseShopId": 14103,
     "eventId": 0,
@@ -5610,6 +5742,105 @@
     "bgImageId": 0,
     "openedAt": 1614556800,
     "closedAt": 1617235199
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      100
+    ],
+    "targetIds": [
+      5000
+    ],
+    "script": {},
+    "id": 18032,
+    "baseShopId": 18032,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 1,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 3,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "[Limited Time] Quick Code Opener",
+    "detail": "[13 Million Downloads Campaign]\nExchange for [Command Code Slot Release Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 80224,
+    "bgImageId": 0,
+    "openedAt": 1617595200,
+    "closedAt": 1618199999
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      100
+    ],
+    "targetIds": [
+      5001
+    ],
+    "script": {},
+    "id": 18033,
+    "baseShopId": 18033,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 2,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 3,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "[Limited Time] Arts Code Opener",
+    "detail": "[13 Million Downloads Campaign]\nExchange for [Command Code Slot Release Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 80225,
+    "bgImageId": 0,
+    "openedAt": 1617595200,
+    "closedAt": 1618199999
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      100
+    ],
+    "targetIds": [
+      5002
+    ],
+    "script": {},
+    "id": 18034,
+    "baseShopId": 18034,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 3,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 3,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "[Limited Time] Buster Code Opener",
+    "detail": "[13 Million Downloads Campaign]\nExchange for [Command Code Slot Release Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 80226,
+    "bgImageId": 0,
+    "openedAt": 1617595200,
+    "closedAt": 1618199999
   },
   {
     "itemIds": [
@@ -13332,6 +13563,39 @@
     "bgImageId": 0,
     "openedAt": 1618027200,
     "closedAt": 1618199999
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      702400
+    ],
+    "script": {},
+    "id": 4000331,
+    "baseShopId": 4000051,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 889,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Mysterious Heroine X (Alter)",
+    "detail": "Exchange for Limited Time ★5 Servant",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1617595200,
+    "closedAt": 1618804799
   },
   {
     "itemIds": [
@@ -60973,7 +61237,7 @@
     "setNum": 5,
     "payType": 4,
     "shopType": 4,
-    "limitNum": 60,
+    "limitNum": 80,
     "defaultLv": 0,
     "defaultLimitCount": 0,
     "name": "Expand Second Archive (Servant)",
@@ -60982,7 +61246,7 @@
     "warningMessage": "",
     "imageId": 20,
     "bgImageId": 0,
-    "openedAt": 1594080000,
+    "openedAt": 1486562400,
     "closedAt": 1901231999
   },
   {
@@ -61006,7 +61270,7 @@
     "setNum": 5,
     "payType": 4,
     "shopType": 5,
-    "limitNum": 60,
+    "limitNum": 80,
     "defaultLv": 0,
     "defaultLimitCount": 0,
     "name": "Expand Second Archive (CE)",
@@ -61015,7 +61279,7 @@
     "warningMessage": "",
     "imageId": 21,
     "bgImageId": 0,
-    "openedAt": 1594080000,
+    "openedAt": 1486562400,
     "closedAt": 1901231999
   },
   {
