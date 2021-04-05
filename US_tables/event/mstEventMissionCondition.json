@@ -41242,6 +41242,155 @@
   },
   {
     "targetIds": [
+      2001380,
+      2001381,
+      2001382,
+      2001383,
+      2001384,
+      2001385
+    ],
+    "missionId": 2001379,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001067,
+    "missionTargetId": 100200,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 6,
+    "conditionMessage": "Complete all of this week's Master Missions",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001116
+    ],
+    "missionId": 2001380,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001068,
+    "missionTargetId": 100200,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "Defeat 15 Saber, Archer, or Lancer-class enemies (excluding Servants and certain bosses)",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001380
+    ],
+    "missionId": 2001381,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 2001069,
+    "missionTargetId": 100200,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 1,
+    "conditionMessage": "Defeat 30 Saber, Archer, or Lancer-class enemies (excluding Servants and certain bosses)",
+    "closedMessage": "",
+    "flag": 64
+  },
+  {
+    "targetIds": [
+      2001116
+    ],
+    "missionId": 2001381,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001070,
+    "missionTargetId": 100200,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 30,
+    "conditionMessage": "Defeat 30 Saber, Archer, or Lancer-class enemies (excluding Servants and certain bosses)",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001117
+    ],
+    "missionId": 2001382,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001071,
+    "missionTargetId": 100200,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "Defeat 15 Rider, Caster, Assassin, or Berserker-class enemies (excluding Servants and certain bosses)",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001382
+    ],
+    "missionId": 2001383,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 2001072,
+    "missionTargetId": 100200,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 1,
+    "conditionMessage": "Defeat 30 Rider, Caster, Assassin, or Berserker-class enemies (excluding Servants and certain bosses)",
+    "closedMessage": "",
+    "flag": 64
+  },
+  {
+    "targetIds": [
+      2001117
+    ],
+    "missionId": 2001383,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001073,
+    "missionTargetId": 100200,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 30,
+    "conditionMessage": "Defeat 30 Rider, Caster, Assassin, or Berserker-class enemies (excluding Servants and certain bosses)",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001118
+    ],
+    "missionId": 2001384,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001074,
+    "missionTargetId": 100200,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 3,
+    "conditionMessage": "Acquire 3 Gems, Magic Gems, Secret Gems, Pieces or Monuments through battles",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001119
+    ],
+    "missionId": 2001385,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001075,
+    "missionTargetId": 100200,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 10,
+    "conditionMessage": "Complete Quests 10 times",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
       94011901
     ],
     "missionId": 80054001,
