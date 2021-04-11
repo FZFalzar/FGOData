@@ -65587,6 +65587,139 @@
   },
   {
     "targetIds": [
+      2001709,
+      2001710,
+      2001711,
+      2001712,
+      2001713,
+      2001714
+    ],
+    "missionId": 2001708,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001950,
+    "missionTargetId": 100247,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 6,
+    "conditionMessage": "今週のマスターミッションをすべてクリアせよ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001302
+    ],
+    "missionId": 2001709,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001951,
+    "missionTargetId": 100247,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 3,
+    "conditionMessage": "『混沌』属性を持つサーヴァントを3騎倒せ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001303
+    ],
+    "missionId": 2001710,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001952,
+    "missionTargetId": 100247,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 3,
+    "conditionMessage": "『秩序』属性を持つサーヴァントを3騎倒せ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001304
+    ],
+    "missionId": 2001711,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001953,
+    "missionTargetId": 100247,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 20,
+    "conditionMessage": "敵を20体倒せ(サーヴァント及び一部ボスなどは除く)",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001711
+    ],
+    "missionId": 2001712,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 2001954,
+    "missionTargetId": 100247,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 1,
+    "conditionMessage": "敵を40体倒せ(サーヴァント及び一部ボスなどは除く)",
+    "closedMessage": "",
+    "flag": 64
+  },
+  {
+    "targetIds": [
+      2001304
+    ],
+    "missionId": 2001712,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001955,
+    "missionTargetId": 100247,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 40,
+    "conditionMessage": "敵を40体倒せ(サーヴァント及び一部ボスなどは除く)",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001305
+    ],
+    "missionId": 2001713,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001956,
+    "missionTargetId": 100247,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 5,
+    "conditionMessage": "『超巨大』特性を持つ敵を5体倒せ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001306
+    ],
+    "missionId": 2001714,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001957,
+    "missionTargetId": 100247,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "戦利品で「叡智の猛火」「叡智の大火」「叡智の灯火」「叡智の種火」をどれか15枚獲得せよ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
       8031002,
       8031003,
       8031004,
