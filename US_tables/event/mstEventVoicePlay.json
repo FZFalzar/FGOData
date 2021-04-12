@@ -3709,5 +3709,64 @@
     "condValue": 80239,
     "startedAt": 1617681600,
     "endedAt": 1901231999
+  },
+  {
+    "voiceIds": [
+      "0_N010",
+      "0_N020"
+    ],
+    "confirmVoiceIds": [],
+    "eventId": 80242,
+    "slot": 0,
+    "idx": 0,
+    "guideImageId": 1000700,
+    "condType": 11,
+    "condValue": 80242,
+    "startedAt": 1618200000,
+    "endedAt": 1901231999
+  },
+  {
+    "voiceIds": [
+      "0_N030"
+    ],
+    "confirmVoiceIds": [],
+    "eventId": 80242,
+    "slot": 0,
+    "idx": 1,
+    "guideImageId": 1000700,
+    "condType": 20,
+    "condValue": 80242,
+    "startedAt": 1619409600,
+    "endedAt": 1901231999
+  },
+  {
+    "voiceIds": [
+      "0_I010",
+      "0_I020"
+    ],
+    "confirmVoiceIds": [],
+    "eventId": 80242,
+    "slot": 1,
+    "idx": 0,
+    "guideImageId": 403000,
+    "condType": 11,
+    "condValue": 80242,
+    "startedAt": 1618200000,
+    "endedAt": 1901231999
+  },
+  {
+    "voiceIds": [
+      "0_I060",
+      "0_I070"
+    ],
+    "confirmVoiceIds": [],
+    "eventId": 80242,
+    "slot": 1,
+    "idx": 1,
+    "guideImageId": 403000,
+    "condType": 20,
+    "condValue": 80242,
+    "startedAt": 1619409600,
+    "endedAt": 1901231999
   }
 ]

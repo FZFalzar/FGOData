@@ -136717,6 +136717,54 @@
   },
   {
     "funcId": [
+      3590,
+      3591
+    ],
+    "svals": [
+      "[1000,-1,-1,1000]",
+      "[2,500,0,Target:1,EventId:80242]"
+    ],
+    "script": {},
+    "skillId": 940102,
+    "lv": 1,
+    "chargeTurn": 0,
+    "skillDetailId": 940102,
+    "priority": 0
+  },
+  {
+    "funcId": [
+      3590,
+      3591
+    ],
+    "svals": [
+      "[1000,-1,-1,800]",
+      "[2,200,0,Target:1,EventId:80242]"
+    ],
+    "script": {},
+    "skillId": 940103,
+    "lv": 1,
+    "chargeTurn": 0,
+    "skillDetailId": 940103,
+    "priority": 0
+  },
+  {
+    "funcId": [
+      3590,
+      3591
+    ],
+    "svals": [
+      "[1000,-1,-1,500]",
+      "[2,200,0,Target:1,EventId:80242]"
+    ],
+    "script": {},
+    "skillId": 940104,
+    "lv": 1,
+    "chargeTurn": 0,
+    "skillDetailId": 940104,
+    "priority": 0
+  },
+  {
+    "funcId": [
       3406,
       3407
     ],
@@ -174179,6 +174227,34 @@
   },
   {
     "funcId": [
+      2400
+    ],
+    "svals": [
+      "[1000,-1,-1,0,ShowState:1,SetPassiveFrame:1]"
+    ],
+    "script": {},
+    "skillId": 962590,
+    "lv": 1,
+    "chargeTurn": 0,
+    "skillDetailId": 1,
+    "priority": 0
+  },
+  {
+    "funcId": [
+      2401
+    ],
+    "svals": [
+      "[1000,-1,-1,0,ShowState:1,SetPassiveFrame:1]"
+    ],
+    "script": {},
+    "skillId": 962591,
+    "lv": 1,
+    "chargeTurn": 0,
+    "skillDetailId": 1,
+    "priority": 0
+  },
+  {
+    "funcId": [
       418
     ],
     "svals": [
@@ -206575,6 +206651,42 @@
   },
   {
     "funcId": [
+      98
+    ],
+    "svals": [
+      "[2,10]"
+    ],
+    "script": {
+      "followerVals": [
+        "[2,30]"
+      ]
+    },
+    "skillId": 991682,
+    "lv": 1,
+    "chargeTurn": 0,
+    "skillDetailId": 991682,
+    "priority": 0
+  },
+  {
+    "funcId": [
+      98
+    ],
+    "svals": [
+      "[2,50]"
+    ],
+    "script": {
+      "followerVals": [
+        "[2,150]"
+      ]
+    },
+    "skillId": 991683,
+    "lv": 1,
+    "chargeTurn": 0,
+    "skillDetailId": 991683,
+    "priority": 0
+  },
+  {
+    "funcId": [
       3600
     ],
     "svals": [
@@ -207749,6 +207861,118 @@
     "lv": 2,
     "chargeTurn": 0,
     "skillDetailId": 1,
+    "priority": 0
+  },
+  {
+    "funcId": [
+      3587
+    ],
+    "svals": [
+      "[10426,1,1,80242]"
+    ],
+    "script": {},
+    "skillId": 991765,
+    "lv": 1,
+    "chargeTurn": 0,
+    "skillDetailId": 991765,
+    "priority": 0
+  },
+  {
+    "funcId": [
+      3587
+    ],
+    "svals": [
+      "[10426,1,2,80242]"
+    ],
+    "script": {},
+    "skillId": 991766,
+    "lv": 1,
+    "chargeTurn": 0,
+    "skillDetailId": 991766,
+    "priority": 0
+  },
+  {
+    "funcId": [
+      3586
+    ],
+    "svals": [
+      "[10425,1,1,80242]"
+    ],
+    "script": {},
+    "skillId": 991767,
+    "lv": 1,
+    "chargeTurn": 0,
+    "skillDetailId": 991767,
+    "priority": 0
+  },
+  {
+    "funcId": [
+      3586
+    ],
+    "svals": [
+      "[10425,1,2,80242]"
+    ],
+    "script": {},
+    "skillId": 991768,
+    "lv": 1,
+    "chargeTurn": 0,
+    "skillDetailId": 991768,
+    "priority": 0
+  },
+  {
+    "funcId": [
+      3585
+    ],
+    "svals": [
+      "[10424,1,1,80242]"
+    ],
+    "script": {},
+    "skillId": 991769,
+    "lv": 1,
+    "chargeTurn": 0,
+    "skillDetailId": 991769,
+    "priority": 0
+  },
+  {
+    "funcId": [
+      3585
+    ],
+    "svals": [
+      "[10424,1,2,80242]"
+    ],
+    "script": {},
+    "skillId": 991770,
+    "lv": 1,
+    "chargeTurn": 0,
+    "skillDetailId": 991770,
+    "priority": 0
+  },
+  {
+    "funcId": [
+      2377
+    ],
+    "svals": [
+      "[1171,2,250,80242]"
+    ],
+    "script": {},
+    "skillId": 991771,
+    "lv": 1,
+    "chargeTurn": 0,
+    "skillDetailId": 991771,
+    "priority": 0
+  },
+  {
+    "funcId": [
+      2377
+    ],
+    "svals": [
+      "[1171,2,1000,80242]"
+    ],
+    "script": {},
+    "skillId": 991772,
+    "lv": 1,
+    "chargeTurn": 0,
+    "skillDetailId": 991772,
     "priority": 0
   },
   {

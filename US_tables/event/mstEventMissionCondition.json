@@ -83964,5 +83964,4219 @@
     "conditionMessage": "Complete all missions",
     "closedMessage": "",
     "flag": 0
+  },
+  {
+    "targetIds": [
+      94036102
+    ],
+    "missionId": 80242001,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242001,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "Complete \"Section 2: Pulsation\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242001
+    ],
+    "missionId": 80242002,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242002,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242015
+    ],
+    "missionId": 80242002,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242003,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "Take control of a total of 1 Blue Territory\n[Completing this Mission unlocks quest \"Section 3: Man-Slayer\"]",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94036103
+    ],
+    "missionId": 80242003,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242004,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242019
+    ],
+    "missionId": 80242003,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242005,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "Take control of a total of 1 White Territory\n[Completing this Mission unlocks quest \"Section 4: Battle Front\"]",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94036104
+    ],
+    "missionId": 80242004,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242006,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242015,
+      80242016,
+      80242017
+    ],
+    "missionId": 80242004,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242007,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 3,
+    "conditionMessage": "Take control of a total of 3 Blue Territories\n[Completing this Mission unlocks quest \"Section 5: Competency\"]",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242018
+    ],
+    "missionId": 80242005,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242008,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242032,
+      80242033,
+      80242034
+    ],
+    "missionId": 80242005,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242009,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 3,
+    "conditionMessage": "Take control of a total of 3 Orange Territories\n[Completing this Mission unlocks quest \"Section 6: Agreement\"]",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94036106
+    ],
+    "missionId": 80242006,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242010,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242019,
+      80242020,
+      80242021
+    ],
+    "missionId": 80242006,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242011,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 3,
+    "conditionMessage": "Take control of a total of 3 White Territories\n[Completing this Mission unlocks quest \"Section 7: Memory\"]",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242022
+    ],
+    "missionId": 80242007,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242012,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242024,
+      80242023
+    ],
+    "missionId": 80242007,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242013,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 2,
+    "conditionMessage": "Take control of a total of 2 Red Territories\n[Completing this Mission unlocks quest \"Section 8: Tenkai\"]",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94036108
+    ],
+    "missionId": 80242008,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242014,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242015,
+      80242016,
+      80242017,
+      80242018,
+      80242019,
+      80242020,
+      80242021,
+      80242022,
+      80242023,
+      80242024,
+      80242025,
+      80242026,
+      80242032,
+      80242033,
+      80242034,
+      80242035
+    ],
+    "missionId": 80242008,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242015,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 16,
+    "conditionMessage": "Take control of a total of 16 Territories\n[Completing this Mission unlocks quest \"Section 9: Rushing In\"]",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94036106
+    ],
+    "missionId": 80242009,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242016,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242032,
+      80242033,
+      80242034,
+      80242035
+    ],
+    "missionId": 80242009,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242017,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 4,
+    "conditionMessage": "Take control of all Orange Territories",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242030
+    ],
+    "missionId": 80242010,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242018,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242015,
+      80242016,
+      80242017,
+      80242018,
+      80242019,
+      80242020,
+      80242021,
+      80242022,
+      80242023,
+      80242024,
+      80242025,
+      80242026,
+      80242027,
+      80242028,
+      80242029,
+      80242030,
+      80242031,
+      80242032,
+      80242033,
+      80242034,
+      80242035
+    ],
+    "missionId": 80242010,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242019,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 21,
+    "conditionMessage": "Take control of all Territories",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80242011,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80242020,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1618804800,
+    "conditionMessage": "???\n* Unlocks after 4/18 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94036115
+    ],
+    "missionId": 80242011,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242021,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94036116,
+      94036117,
+      94036118,
+      94036119,
+      94036120,
+      94036121,
+      94036122
+    ],
+    "missionId": 80242011,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242022,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 3,
+    "conditionMessage": "Complete 3 types of \"Seven Spears\" Quests",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80242012,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80242023,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1618804800,
+    "conditionMessage": "???\n* Unlocks after 4/18 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242011
+    ],
+    "missionId": 80242012,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242024,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94036116,
+      94036117,
+      94036118,
+      94036119,
+      94036120,
+      94036121,
+      94036122
+    ],
+    "missionId": 80242012,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242025,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 5,
+    "conditionMessage": "Complete 5 types of \"Seven Spears\" Quests",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80242013,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80242026,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1618804800,
+    "conditionMessage": "???\n* Unlocks after 4/18 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94036115
+    ],
+    "missionId": 80242013,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242027,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94036116,
+      94036117,
+      94036118,
+      94036119,
+      94036120,
+      94036121,
+      94036122
+    ],
+    "missionId": 80242013,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242028,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 7,
+    "conditionMessage": "Complete all \"Seven Spears\" Quests\n[Completing this Mission unlocks ???]",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80242014,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80242029,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1618804800,
+    "conditionMessage": "???\n* Unlocks after 4/18 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242013
+    ],
+    "missionId": 80242014,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242030,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94036123
+    ],
+    "missionId": 80242014,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242031,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "Defeat Avenger Yodo",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242001
+    ],
+    "missionId": 80242015,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242032,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242001
+    ],
+    "missionId": 80242015,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242033,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 8,
+    "conditionMessage": "Defeat 8 \"Mini Nobu\" type enemies\n[Completing this Mission will result in taking control of the Blue Territory (North-East Area)]",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94036103
+    ],
+    "missionId": 80242016,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242034,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242015
+    ],
+    "missionId": 80242016,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242035,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 8,
+    "conditionMessage": "Defeat 8 \"Lawful\" Servants\n[Completing this Mission will result in taking control of the Blue Territory (South-East Area)]",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94036104
+    ],
+    "missionId": 80242017,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242036,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242007
+    ],
+    "missionId": 80242017,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242037,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 30,
+    "conditionMessage": "Defeat 30 \"Demonic\" enemies\n[Completing this Mission will result in taking control of the Blue Territory (North-West Area)]",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242004
+    ],
+    "missionId": 80242018,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242038,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94036105
+    ],
+    "missionId": 80242018,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242039,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "Complete \"Section 5: Competence\"\n[Completing this Mission will result in taking control of the Blue Territory (South-West Area)]",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94036103
+    ],
+    "missionId": 80242019,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242040,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242003
+    ],
+    "missionId": 80242019,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242041,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 20,
+    "conditionMessage": "Defeat 20 \"Silver Nobu\"\n[Completing this Mission will result in taking control of the White Territory (Southern Area)]",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94036106
+    ],
+    "missionId": 80242020,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242042,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242004
+    ],
+    "missionId": 80242020,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242043,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 40,
+    "conditionMessage": "Defeat 40 \"Gold Nobu\"\n[Completing this Mission will result in taking control of the White Territory (Western Area)]",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242020
+    ],
+    "missionId": 80242021,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242044,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242008
+    ],
+    "missionId": 80242021,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242045,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 40,
+    "conditionMessage": "Defeat 40 \"Human\" enemies\n[Completing this Mission will result in taking control of the White Territory (Northern Area)]",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242006
+    ],
+    "missionId": 80242022,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242046,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94036107
+    ],
+    "missionId": 80242022,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242047,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "Complete \"Section 7: Memory\"\n[Completing this Mission will result in taking control of the White Territory (Eastern Area)]",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242022
+    ],
+    "missionId": 80242023,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242048,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242001
+    ],
+    "missionId": 80242023,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242049,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 140,
+    "conditionMessage": "Defeat 140 \"Mini Nobu\" enemies\n[Completing this Mission will result in taking control of the Red Territory (North-West Area)]",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242023
+    ],
+    "missionId": 80242024,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242050,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242005
+    ],
+    "missionId": 80242024,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242051,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 60,
+    "conditionMessage": "Defeat 60 \"Mecha Nobbu\"\n[Completing this Mission will result in taking control of the Red Territory (Central Area)]",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94036108
+    ],
+    "missionId": 80242025,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242052,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242009
+    ],
+    "missionId": 80242025,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242053,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 100,
+    "conditionMessage": "Defeat 100 \"Wild Beast\" enemies\n[Completing this Mission will result in taking control of the Yellow Territory (South-West Area)]",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94036108
+    ],
+    "missionId": 80242026,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242054,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242001,
+      80242002,
+      80242003,
+      80242004,
+      80242005,
+      80242006,
+      80242007,
+      80242008,
+      80242009,
+      80242010,
+      80242011,
+      80242012,
+      80242013,
+      80242014,
+      80242015,
+      80242016,
+      80242017,
+      80242018,
+      80242019,
+      80242020,
+      80242021,
+      80242022,
+      80242023,
+      80242024,
+      80242025,
+      80242027,
+      80242028,
+      80242029,
+      80242030,
+      80242032,
+      80242033,
+      80242034,
+      80242035,
+      80242036,
+      80242037,
+      80242038,
+      80242040,
+      80242041,
+      80242042,
+      80242043,
+      80242044,
+      80242045,
+      80242046,
+      80242047,
+      80242048,
+      80242049,
+      80242050,
+      80242051,
+      80242052,
+      80242053,
+      80242054,
+      80242055,
+      80242056,
+      80242057,
+      80242058,
+      80242059,
+      80242060,
+      80242061,
+      80242062,
+      80242063,
+      80242064,
+      80242065,
+      80242066,
+      80242067,
+      80242068,
+      80242069,
+      80242070,
+      80242071,
+      80242072,
+      80242073,
+      80242074,
+      80242075,
+      80242076,
+      80242077,
+      80242078,
+      80242079,
+      80242080,
+      80242081,
+      80242082,
+      80242083,
+      80242084,
+      80242085,
+      80242086,
+      80242087,
+      80242088,
+      80242089,
+      80242090,
+      80242091,
+      80242092,
+      80242093,
+      80242094,
+      80242095,
+      80242096,
+      80242097,
+      80242098,
+      80242099
+    ],
+    "missionId": 80242026,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242055,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 50,
+    "conditionMessage": "Complete 50 Missions\n[Completing this Mission will result in taking control of the Yellow Territory (Westernmost Area)]",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242030
+    ],
+    "missionId": 80242027,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242056,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242003
+    ],
+    "missionId": 80242027,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242057,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 120,
+    "conditionMessage": "Defeat 120 \"Silver Nobu\"\n[Completing this Mission will result in taking control of the Yellow Territory (North-East Area)]",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242030
+    ],
+    "missionId": 80242028,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242058,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242010
+    ],
+    "missionId": 80242028,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242059,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 120,
+    "conditionMessage": "Defeat 120 \"Floating\" enemies\n[Completing this Mission will result in taking control of the Yellow Territory (South-East Area)]",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242030
+    ],
+    "missionId": 80242029,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242060,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242013
+    ],
+    "missionId": 80242029,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242061,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "Defeat 15 Caster-class Servants\n[Completing this Mission will result in taking control of the Yellow Territory (Southern Area)]",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94036109
+    ],
+    "missionId": 80242030,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242062,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242014
+    ],
+    "missionId": 80242030,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242063,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "Defeat 15 Assassin-class Servants\n[Completing this Mission will result in taking control of the Yellow Territory (Central Area)]",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242030
+    ],
+    "missionId": 80242031,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242064,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242001,
+      80242002,
+      80242003,
+      80242004,
+      80242005,
+      80242006,
+      80242007,
+      80242008,
+      80242009,
+      80242010,
+      80242011,
+      80242012,
+      80242013,
+      80242014,
+      80242015,
+      80242016,
+      80242017,
+      80242018,
+      80242019,
+      80242020,
+      80242021,
+      80242022,
+      80242023,
+      80242024,
+      80242025,
+      80242027,
+      80242028,
+      80242029,
+      80242030,
+      80242032,
+      80242033,
+      80242034,
+      80242035,
+      80242036,
+      80242037,
+      80242038,
+      80242040,
+      80242041,
+      80242042,
+      80242043,
+      80242044,
+      80242045,
+      80242046,
+      80242047,
+      80242048,
+      80242049,
+      80242050,
+      80242051,
+      80242052,
+      80242053,
+      80242054,
+      80242055,
+      80242056,
+      80242057,
+      80242058,
+      80242059,
+      80242060,
+      80242061,
+      80242062,
+      80242063,
+      80242064,
+      80242065,
+      80242066,
+      80242067,
+      80242068,
+      80242069,
+      80242070,
+      80242071,
+      80242072,
+      80242073,
+      80242074,
+      80242075,
+      80242076,
+      80242077,
+      80242078,
+      80242079,
+      80242080,
+      80242081,
+      80242082,
+      80242083,
+      80242084,
+      80242085,
+      80242086,
+      80242087,
+      80242088,
+      80242089,
+      80242090,
+      80242091,
+      80242092,
+      80242093,
+      80242094,
+      80242095,
+      80242096,
+      80242097,
+      80242098,
+      80242099,
+      80242026
+    ],
+    "missionId": 80242031,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242065,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 70,
+    "conditionMessage": "Complete 70 Missions\n[Completing this Mission will result in taking control of the Yellow Territory (Northern Area)]",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242001
+    ],
+    "missionId": 80242032,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242066,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242009
+    ],
+    "missionId": 80242032,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242067,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 20,
+    "conditionMessage": "Defeat 20 \"Wild Beast\" enemies\n[Completing this Mission will result in taking control of the Orange Territory (Northernmost Area)]",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242018
+    ],
+    "missionId": 80242033,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242068,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94036105,
+      94036109,
+      94036110,
+      94036111,
+      94036203,
+      94036205,
+      94036206,
+      94036209,
+      94036211,
+      94036214,
+      94036112
+    ],
+    "missionId": 80242033,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242069,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 25,
+    "targetNum": 10,
+    "conditionMessage": "Complete \"Shinjuku, South from the Detective Agency\" quest 10 times\n[Completing this Mission will result in taking control of the Orange Territory (Southernmost Area)]",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242033
+    ],
+    "missionId": 80242034,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242070,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242012
+    ],
+    "missionId": 80242034,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242071,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 10,
+    "conditionMessage": "Defeat 10 Lancer-class Servants\n[Completing this Mission will result in taking control of the Orange Territory (Southern Area)]",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94036106
+    ],
+    "missionId": 80242035,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242072,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242016
+    ],
+    "missionId": 80242035,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242073,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "Defeat 15 \"Evil\" Servants\n[Completing this Mission will result in taking control of the Orange Territory (Northern Area)]",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80242036,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80242074,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1618804800,
+    "conditionMessage": "???\n* Unlocks after 4/18 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94036115
+    ],
+    "missionId": 80242036,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242075,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242002
+    ],
+    "missionId": 80242036,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242076,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 160,
+    "conditionMessage": "Defeat 160 \"Big Nobu\"\n[Completing this Mission will result in taking control of the Mejiro Fudou-Area Territory]",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80242037,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80242077,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1618804800,
+    "conditionMessage": "???\n* Unlocks after 4/18 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94036115
+    ],
+    "missionId": 80242037,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242078,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242012
+    ],
+    "missionId": 80242037,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242079,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 20,
+    "conditionMessage": "Defeat 20 Lancer-class Servants\n[Completing this Mission will result in taking control of the Meaka Fudou-Area Territory]",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80242038,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80242080,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1618804800,
+    "conditionMessage": "???\n* Unlocks after 4/18 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94036115
+    ],
+    "missionId": 80242038,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242081,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242015
+    ],
+    "missionId": 80242038,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242082,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 20,
+    "conditionMessage": "Defeat 20 \"Lawful\" Servants\n[Completing this Mission will result in taking control of the Meao Fudou-Area Territory]",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80242039,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80242083,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1618804800,
+    "conditionMessage": "???\n* Unlocks after 4/18 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94036115
+    ],
+    "missionId": 80242039,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242084,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242001,
+      80242002,
+      80242003,
+      80242004,
+      80242005,
+      80242006,
+      80242007,
+      80242008,
+      80242009,
+      80242010,
+      80242011,
+      80242012,
+      80242013,
+      80242014,
+      80242015,
+      80242016,
+      80242017,
+      80242018,
+      80242019,
+      80242020,
+      80242021,
+      80242022,
+      80242023,
+      80242024,
+      80242025,
+      80242027,
+      80242028,
+      80242029,
+      80242030,
+      80242032,
+      80242033,
+      80242034,
+      80242035,
+      80242036,
+      80242037,
+      80242038,
+      80242040,
+      80242041,
+      80242042,
+      80242043,
+      80242044,
+      80242045,
+      80242046,
+      80242047,
+      80242048,
+      80242049,
+      80242050,
+      80242051,
+      80242052,
+      80242053,
+      80242054,
+      80242055,
+      80242056,
+      80242057,
+      80242058,
+      80242059,
+      80242060,
+      80242061,
+      80242062,
+      80242063,
+      80242064,
+      80242065,
+      80242066,
+      80242067,
+      80242068,
+      80242069,
+      80242070,
+      80242071,
+      80242072,
+      80242073,
+      80242074,
+      80242075,
+      80242076,
+      80242077,
+      80242078,
+      80242079,
+      80242080,
+      80242081,
+      80242082,
+      80242083,
+      80242084,
+      80242085,
+      80242086,
+      80242087,
+      80242088,
+      80242089,
+      80242090,
+      80242091,
+      80242092,
+      80242093,
+      80242094,
+      80242095,
+      80242096,
+      80242097,
+      80242098,
+      80242099,
+      80242026,
+      80242031
+    ],
+    "missionId": 80242039,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242085,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 80,
+    "conditionMessage": "Complete 80 Missions\n[Completing this Mission will result in taking control of the Megi Fudou-Area Territory]",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80242040,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80242086,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1618804800,
+    "conditionMessage": "???\n* Unlocks after 4/18 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94036115
+    ],
+    "missionId": 80242040,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242087,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242005
+    ],
+    "missionId": 80242040,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242088,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 130,
+    "conditionMessage": "Defeat 130 \"Mecha Nobbu\"\n[Completing this Mission will result in taking control of the Sakamoto Detective Agency-Area Territory]",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80242041,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80242089,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1618804800,
+    "conditionMessage": "???\n* Unlocks after 4/18 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94036115
+    ],
+    "missionId": 80242041,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242090,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242006
+    ],
+    "missionId": 80242041,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242091,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 50,
+    "conditionMessage": "Defeat 50 \"Heroic Spirit Soldiers\"\n[Completing this Mission will result in taking control of the Meguro Fudou-Area Territory]",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80242042,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80242092,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1618804800,
+    "conditionMessage": "???\n* Unlocks after 4/18 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94036115
+    ],
+    "missionId": 80242042,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242093,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242008
+    ],
+    "missionId": 80242042,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242094,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 120,
+    "conditionMessage": "Defeat 120 \"Human\" enemies\n[Completing this Mission will result in taking control of the Shiba Park-Area Territory]",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242015
+    ],
+    "missionId": 80242043,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242095,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242001
+    ],
+    "missionId": 80242043,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242096,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 80,
+    "conditionMessage": "Defeat 80 \"Mini Nobu\" enemies",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242023
+    ],
+    "missionId": 80242044,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242097,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242001
+    ],
+    "missionId": 80242044,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242098,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 220,
+    "conditionMessage": "Defeat 220 \"Mini Nobu\" enemies",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94036104
+    ],
+    "missionId": 80242045,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242099,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242002
+    ],
+    "missionId": 80242045,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242100,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 40,
+    "conditionMessage": "Defeat 40 \"Big Nobu\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242045
+    ],
+    "missionId": 80242046,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242101,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242002
+    ],
+    "missionId": 80242046,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242102,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 70,
+    "conditionMessage": "Defeat 70 \"Big Nobu\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242046
+    ],
+    "missionId": 80242047,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242103,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242002
+    ],
+    "missionId": 80242047,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242104,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 120,
+    "conditionMessage": "Defeat 120 \"Big Nobu\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242019
+    ],
+    "missionId": 80242048,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242105,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242003
+    ],
+    "missionId": 80242048,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242106,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 80,
+    "conditionMessage": "Defeat 80 \"Silver Nobu\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80242049,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80242107,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1618804800,
+    "conditionMessage": "???\n* Unlocks after 4/18 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94036115
+    ],
+    "missionId": 80242049,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242108,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242003
+    ],
+    "missionId": 80242049,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242109,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 160,
+    "conditionMessage": "Defeat 160 \"Silver Nobu\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242020
+    ],
+    "missionId": 80242050,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242110,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242004
+    ],
+    "missionId": 80242050,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242111,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 80,
+    "conditionMessage": "Defeat 80 \"Gold Nobu\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242050
+    ],
+    "missionId": 80242051,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242112,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242004
+    ],
+    "missionId": 80242051,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242113,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 120,
+    "conditionMessage": "Defeat 120 \"Gold Nobu\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80242052,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80242114,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1618804800,
+    "conditionMessage": "???\n* Unlocks after 4/18 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94036115
+    ],
+    "missionId": 80242052,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242115,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242004
+    ],
+    "missionId": 80242052,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242116,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 160,
+    "conditionMessage": "Defeat 160 \"Gold Nobu\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242018
+    ],
+    "missionId": 80242053,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242117,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242005
+    ],
+    "missionId": 80242053,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242118,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 40,
+    "conditionMessage": "Defeat 40 \"Mecha Nobbu\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80242054,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80242119,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1618804800,
+    "conditionMessage": "???\n* Unlocks after 4/18 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94036115
+    ],
+    "missionId": 80242054,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242120,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242006
+    ],
+    "missionId": 80242054,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242121,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 30,
+    "conditionMessage": "Defeat 30 Heroic Spirit Soldiers",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242017
+    ],
+    "missionId": 80242055,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242122,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242007
+    ],
+    "missionId": 80242055,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242123,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 80,
+    "conditionMessage": "Defeat 80 \"Demonic\" enemies",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94036110
+    ],
+    "missionId": 80242056,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242124,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242007
+    ],
+    "missionId": 80242056,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242125,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 130,
+    "conditionMessage": "Defeat 130 \"Demonic\" enemies\n[Completing this Mission unlocks quest \"Section 11: Suppression\"]",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242021
+    ],
+    "missionId": 80242057,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242126,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242008
+    ],
+    "missionId": 80242057,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242127,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 80,
+    "conditionMessage": "Defeat 80 \"Human\" enemies",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242032
+    ],
+    "missionId": 80242058,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242128,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242009
+    ],
+    "missionId": 80242058,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242129,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 70,
+    "conditionMessage": "Defeat 70 \"Wild Beast\" enemies",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242022
+    ],
+    "missionId": 80242059,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242130,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242010
+    ],
+    "missionId": 80242059,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242131,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 40,
+    "conditionMessage": "Defeat 40 \"Floating\" enemies",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242059
+    ],
+    "missionId": 80242060,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242132,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242010
+    ],
+    "missionId": 80242060,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242133,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 70,
+    "conditionMessage": "Defeat 70 \"Floating\" enemies",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80242061,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80242134,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1618804800,
+    "conditionMessage": "???\n* Unlocks after 4/18 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94036115
+    ],
+    "missionId": 80242061,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242135,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242011
+    ],
+    "missionId": 80242061,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242136,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 10,
+    "conditionMessage": "Defeat 10 \"Super Giant\" DANGER enemies",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80242062,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80242137,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1618804800,
+    "conditionMessage": "???\n* Unlocks after 4/18 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242061
+    ],
+    "missionId": 80242062,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242138,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242011
+    ],
+    "missionId": 80242062,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242139,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "Defeat 15 \"Super Giant\" DANGER enemies",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242034
+    ],
+    "missionId": 80242063,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242140,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242012
+    ],
+    "missionId": 80242063,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242141,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "Defeat 15 Lancer-class Servants",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242018
+    ],
+    "missionId": 80242064,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242142,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242013
+    ],
+    "missionId": 80242064,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242143,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 10,
+    "conditionMessage": "Defeat 10 Caster-class Servants",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242029
+    ],
+    "missionId": 80242065,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242144,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242013
+    ],
+    "missionId": 80242065,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242145,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 20,
+    "conditionMessage": "Defeat 20 Caster-class Servants",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94036108
+    ],
+    "missionId": 80242066,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242146,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242014
+    ],
+    "missionId": 80242066,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242147,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 10,
+    "conditionMessage": "Defeat 10 Assassin-class Servants",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80242067,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80242148,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1618804800,
+    "conditionMessage": "???\n* Unlocks after 4/18 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94036115
+    ],
+    "missionId": 80242067,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242149,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242014
+    ],
+    "missionId": 80242067,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242150,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 20,
+    "conditionMessage": "Defeat 20 Assassin-class Servants",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242016
+    ],
+    "missionId": 80242068,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242151,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242015
+    ],
+    "missionId": 80242068,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242152,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "Defeat 15 \"Lawful\" Servants",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242018
+    ],
+    "missionId": 80242069,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242153,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242016
+    ],
+    "missionId": 80242069,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242154,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 10,
+    "conditionMessage": "Defeat 10 \"Evil\" Servants",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242035
+    ],
+    "missionId": 80242070,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242155,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242016
+    ],
+    "missionId": 80242070,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242156,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 20,
+    "conditionMessage": "Defeat 20 \"Evil\" Servants",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94036104
+    ],
+    "missionId": 80242071,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242157,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242017
+    ],
+    "missionId": 80242071,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242158,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 10,
+    "conditionMessage": "Defeat 10 Servants with the Earth attribute",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242071
+    ],
+    "missionId": 80242072,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242159,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242017
+    ],
+    "missionId": 80242072,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242160,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "Defeat 15 Servants with the Earth attribute",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94036109
+    ],
+    "missionId": 80242073,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242161,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242017
+    ],
+    "missionId": 80242073,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242162,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 20,
+    "conditionMessage": "Defeat 20 Servants with the Earth attribute\n[Completing this Mission unlocks quest \"Section 10: Advent\"]",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94036104
+    ],
+    "missionId": 80242074,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242163,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242018
+    ],
+    "missionId": 80242074,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242164,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 10,
+    "conditionMessage": "Defeat 10 Servants from the East",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242018
+    ],
+    "missionId": 80242075,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242165,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242019
+    ],
+    "missionId": 80242075,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242166,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 10,
+    "conditionMessage": "Defeat 10 Servants with \"MP A or Higher\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80242076,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80242167,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1618804800,
+    "conditionMessage": "???\n* Unlocks after 4/18 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94036115
+    ],
+    "missionId": 80242076,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242168,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242020
+    ],
+    "missionId": 80242076,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242169,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 10,
+    "conditionMessage": "Defeat 10 Servants with END A or higher",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94036106
+    ],
+    "missionId": 80242077,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242170,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94036203,
+      94036209,
+      94036211
+    ],
+    "missionId": 80242077,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242171,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 25,
+    "targetNum": 10,
+    "conditionMessage": "Complete 10 Seaside Quests",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242018
+    ],
+    "missionId": 80242078,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242172,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94036107,
+      94036207,
+      94036208,
+      94036210,
+      94036212,
+      94036213,
+      94036204
+    ],
+    "missionId": 80242078,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242173,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 25,
+    "targetNum": 10,
+    "conditionMessage": "Complete 10 \"Shinjuku, North from the Detective Agency\" Quests",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242030
+    ],
+    "missionId": 80242079,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242174,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94036203,
+      94036209,
+      94036211
+    ],
+    "missionId": 80242079,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242175,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 3,
+    "conditionMessage": "Complete all Seaside Quests",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94036108
+    ],
+    "missionId": 80242080,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242176,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94036107,
+      94036207,
+      94036208,
+      94036210,
+      94036212,
+      94036213,
+      94036204
+    ],
+    "missionId": 80242080,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242177,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 7,
+    "conditionMessage": "Complete all Shinjuku, North from the Detective Agency Quests",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242030
+    ],
+    "missionId": 80242081,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242178,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94036105,
+      94036109,
+      94036110,
+      94036111,
+      94036203,
+      94036205,
+      94036206,
+      94036209,
+      94036211,
+      94036214,
+      94036112
+    ],
+    "missionId": 80242081,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242179,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 11,
+    "conditionMessage": "Complete all Shinjuku, South from the Detective Agency Quests",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80242082,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80242180,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1618804800,
+    "conditionMessage": "???\n* Unlocks after 4/18 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94036115
+    ],
+    "missionId": 80242082,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242181,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94036116,
+      94036117,
+      94036119,
+      94036302,
+      94036303,
+      94036305
+    ],
+    "missionId": 80242082,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242182,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 25,
+    "targetNum": 10,
+    "conditionMessage": "Complete 10 Shinjuku, North from the Detective Agency Quests in the Reverse Imperial Capital",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80242083,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80242183,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1618804800,
+    "conditionMessage": "???\n* Unlocks after 4/18 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94036115
+    ],
+    "missionId": 80242083,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242184,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94036118,
+      94036121,
+      94036122,
+      94036123,
+      94036304,
+      94036307,
+      94036308
+    ],
+    "missionId": 80242083,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242185,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 25,
+    "targetNum": 10,
+    "conditionMessage": "Complete 10 Shinjuku, South from the Detective Agency Quests in the Reverse Imperial Capital",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80242084,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80242186,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1618804800,
+    "conditionMessage": "???\n* Unlocks after 4/18 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94036115
+    ],
+    "missionId": 80242084,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242187,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94036116,
+      94036117,
+      94036119,
+      94036302,
+      94036303,
+      94036305
+    ],
+    "missionId": 80242084,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242188,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 6,
+    "conditionMessage": "Complete all Shinjuku, North from the Detective Agency Quests in the Reverse Imperial Capital",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80242085,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80242189,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1618804800,
+    "conditionMessage": "???\n* Unlocks after 4/18 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94036115
+    ],
+    "missionId": 80242085,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242190,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94036118,
+      94036121,
+      94036122,
+      94036123,
+      94036304,
+      94036307,
+      94036308
+    ],
+    "missionId": 80242085,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242191,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 7,
+    "conditionMessage": "Complete all Shinjuku, South from the Detective Agency Quests in the Reverse Imperial Capital",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80242086,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80242192,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1618804800,
+    "conditionMessage": "???\n* Unlocks after 4/18 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94036115
+    ],
+    "missionId": 80242086,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242193,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94036101,
+      94036107,
+      94036201,
+      94036207,
+      94036208,
+      94036210,
+      94036212,
+      94036213,
+      94036105,
+      94036109,
+      94036110,
+      94036111,
+      94036203,
+      94036204,
+      94036205,
+      94036206,
+      94036209,
+      94036211,
+      94036214,
+      94036116,
+      94036117,
+      94036119,
+      94036302,
+      94036303,
+      94036305,
+      94036118,
+      94036120,
+      94036121,
+      94036122,
+      94036123,
+      94036304,
+      94036306,
+      94036307,
+      94036308,
+      94036103,
+      94036202,
+      94036301,
+      94036112,
+      94036113,
+      94036100,
+      94036102,
+      94036104,
+      94036106,
+      94036108,
+      94036114,
+      94036115
+    ],
+    "missionId": 80242086,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242194,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 46,
+    "conditionMessage": "Clear all quests",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242001
+    ],
+    "missionId": 80242087,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242195,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242021
+    ],
+    "missionId": 80242087,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242196,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 200,
+    "conditionMessage": "Acquire 200 \"Frog Handkerchief\" through battle",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242087
+    ],
+    "missionId": 80242088,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242197,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242021
+    ],
+    "missionId": 80242088,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242198,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 400,
+    "conditionMessage": "Acquire 400 \"Frog Handkerchief\" through battle",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242001
+    ],
+    "missionId": 80242089,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242199,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242022
+    ],
+    "missionId": 80242089,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242200,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 200,
+    "conditionMessage": "Acquire 200 \"Frog Netsuke\" through battle",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242089
+    ],
+    "missionId": 80242090,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242201,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242022
+    ],
+    "missionId": 80242090,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242202,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 400,
+    "conditionMessage": "Acquire 400 \"Frog Netsuke\" through battle",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94036103
+    ],
+    "missionId": 80242091,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242203,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242023
+    ],
+    "missionId": 80242091,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242204,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 200,
+    "conditionMessage": "Acquire 200 \"Frog Incense Burner\" through battle",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242091
+    ],
+    "missionId": 80242092,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242205,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242023
+    ],
+    "missionId": 80242092,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242206,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 400,
+    "conditionMessage": "Acquire 400 \"Frog Incense Burner\" through battle",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94036104
+    ],
+    "missionId": 80242093,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242207,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      403000
+    ],
+    "missionId": 80242093,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242208,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 7,
+    "targetNum": 1,
+    "conditionMessage": "Ascend Sakamoto Ryouma to 1st Stage Ascension",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242093
+    ],
+    "missionId": 80242094,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242209,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      403000
+    ],
+    "missionId": 80242094,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242210,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 7,
+    "targetNum": 3,
+    "conditionMessage": "Ascend Sakamoto Ryouma to 3rd Stage Ascension",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94036104
+    ],
+    "missionId": 80242095,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242211,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      403000
+    ],
+    "missionId": 80242095,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242212,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 9,
+    "targetNum": 3,
+    "conditionMessage": "Raise Sakamoto Ryouma to Bond Level 3",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94036104
+    ],
+    "missionId": 80242096,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242213,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242024
+    ],
+    "missionId": 80242096,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242214,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 10,
+    "conditionMessage": "Put Sakamoto Ryouma in your Party and complete Quests 10 times",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242096
+    ],
+    "missionId": 80242097,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242215,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242024
+    ],
+    "missionId": 80242097,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242216,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "Put Sakamoto Ryouma in your Party and complete Quests 15 times",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242097
+    ],
+    "missionId": 80242098,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242217,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242024
+    ],
+    "missionId": 80242098,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242218,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 20,
+    "conditionMessage": "Put Sakamoto Ryouma in your Party and complete Quests 20 times",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94036104
+    ],
+    "missionId": 80242099,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242219,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242001,
+      80242002,
+      80242003,
+      80242004,
+      80242005,
+      80242006,
+      80242007,
+      80242008,
+      80242009,
+      80242010,
+      80242011,
+      80242012,
+      80242013,
+      80242014,
+      80242015,
+      80242016,
+      80242017,
+      80242018,
+      80242019,
+      80242020,
+      80242021,
+      80242022,
+      80242023,
+      80242024,
+      80242025,
+      80242027,
+      80242028,
+      80242029,
+      80242030,
+      80242032,
+      80242033,
+      80242034,
+      80242035,
+      80242036,
+      80242037,
+      80242038,
+      80242040,
+      80242041,
+      80242042,
+      80242043,
+      80242044,
+      80242045,
+      80242046,
+      80242047,
+      80242048,
+      80242049,
+      80242050,
+      80242051,
+      80242052,
+      80242053,
+      80242054,
+      80242055,
+      80242056,
+      80242057,
+      80242058,
+      80242059,
+      80242060,
+      80242061,
+      80242062,
+      80242063,
+      80242064,
+      80242065,
+      80242066,
+      80242067,
+      80242068,
+      80242069,
+      80242070,
+      80242071,
+      80242072,
+      80242073,
+      80242074,
+      80242075,
+      80242076,
+      80242077,
+      80242078,
+      80242079,
+      80242080,
+      80242081,
+      80242082,
+      80242083,
+      80242084,
+      80242085,
+      80242086,
+      80242087,
+      80242088,
+      80242089,
+      80242090,
+      80242091,
+      80242092,
+      80242093,
+      80242094,
+      80242095,
+      80242096,
+      80242097,
+      80242098
+    ],
+    "missionId": 80242099,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242220,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 30,
+    "conditionMessage": "Complete 30 missions",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80242100,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80242221,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1618804800,
+    "conditionMessage": "???\n* Unlocks after 4/18 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242039
+    ],
+    "missionId": 80242100,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80242222,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80242001,
+      80242002,
+      80242003,
+      80242004,
+      80242005,
+      80242006,
+      80242007,
+      80242008,
+      80242009,
+      80242010,
+      80242011,
+      80242012,
+      80242013,
+      80242014,
+      80242015,
+      80242016,
+      80242017,
+      80242018,
+      80242019,
+      80242020,
+      80242021,
+      80242022,
+      80242023,
+      80242024,
+      80242025,
+      80242027,
+      80242028,
+      80242029,
+      80242030,
+      80242032,
+      80242033,
+      80242034,
+      80242035,
+      80242036,
+      80242037,
+      80242038,
+      80242040,
+      80242041,
+      80242042,
+      80242043,
+      80242044,
+      80242045,
+      80242046,
+      80242047,
+      80242048,
+      80242049,
+      80242050,
+      80242051,
+      80242052,
+      80242053,
+      80242054,
+      80242055,
+      80242056,
+      80242057,
+      80242058,
+      80242059,
+      80242060,
+      80242061,
+      80242062,
+      80242063,
+      80242064,
+      80242065,
+      80242066,
+      80242067,
+      80242068,
+      80242069,
+      80242070,
+      80242071,
+      80242072,
+      80242073,
+      80242074,
+      80242075,
+      80242076,
+      80242077,
+      80242078,
+      80242079,
+      80242080,
+      80242081,
+      80242082,
+      80242083,
+      80242084,
+      80242085,
+      80242086,
+      80242087,
+      80242088,
+      80242089,
+      80242090,
+      80242091,
+      80242092,
+      80242093,
+      80242094,
+      80242095,
+      80242096,
+      80242097,
+      80242098,
+      80242099,
+      80242026,
+      80242031,
+      80242039
+    ],
+    "missionId": 80242100,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80242223,
+    "missionTargetId": 80242,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 99,
+    "conditionMessage": "Complete all missions",
+    "closedMessage": "",
+    "flag": 0
   }
 ]

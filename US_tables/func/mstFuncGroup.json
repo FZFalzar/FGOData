@@ -2770,6 +2770,16 @@
     "isDispValue": true
   },
   {
+    "funcId": 2377,
+    "eventId": 80242,
+    "baseFuncId": 0,
+    "nameTotal": "[Mini Nobu] Appearance Rate Up",
+    "name": "[Mini Nobu] Appearance Rate Up",
+    "iconId": 1021,
+    "priority": 6000,
+    "isDispValue": true
+  },
+  {
     "funcId": 2430,
     "eventId": 80064,
     "baseFuncId": 0,
@@ -3586,6 +3596,76 @@
     "nameTotal": "{1}\nTotal ATK Strength Up",
     "name": "Increase ATK Strength",
     "iconId": 302,
+    "priority": 1,
+    "isDispValue": true
+  },
+  {
+    "funcId": 3585,
+    "eventId": 80242,
+    "baseFuncId": 0,
+    "nameTotal": "{0}\nTotal Bonus Amount",
+    "name": "{0} acquired",
+    "iconId": 94025001,
+    "priority": 3000,
+    "isDispValue": true
+  },
+  {
+    "funcId": 3586,
+    "eventId": 80242,
+    "baseFuncId": 0,
+    "nameTotal": "{0}\nTotal Bonus Amount",
+    "name": "{0} acquired",
+    "iconId": 94025002,
+    "priority": 2000,
+    "isDispValue": true
+  },
+  {
+    "funcId": 3587,
+    "eventId": 80242,
+    "baseFuncId": 0,
+    "nameTotal": "{0}\nTotal Bonus Amount",
+    "name": "{0} acquired",
+    "iconId": 94025003,
+    "priority": 1000,
+    "isDispValue": true
+  },
+  {
+    "funcId": 3588,
+    "eventId": 80242,
+    "baseFuncId": 0,
+    "nameTotal": "{1}\nTotal ATK Strength Up",
+    "name": "Total ATK Strength Up",
+    "iconId": 302,
+    "priority": 1,
+    "isDispValue": true
+  },
+  {
+    "funcId": 3589,
+    "eventId": 80242,
+    "baseFuncId": 3588,
+    "nameTotal": "{1}\nTotal ATK Strength Up",
+    "name": "Total ATK Strength Up",
+    "iconId": 302,
+    "priority": 1,
+    "isDispValue": true
+  },
+  {
+    "funcId": 3590,
+    "eventId": 80242,
+    "baseFuncId": 3588,
+    "nameTotal": "{1}\nTotal ATK Strength Up",
+    "name": "Total ATK Strength Up",
+    "iconId": 302,
+    "priority": 1,
+    "isDispValue": true
+  },
+  {
+    "funcId": 3591,
+    "eventId": 80242,
+    "baseFuncId": 0,
+    "nameTotal": "{1}\nTotal Bond Bonus",
+    "name": "Increase Bond gained",
+    "iconId": 1009,
     "priority": 1,
     "isDispValue": true
   },

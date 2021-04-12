@@ -13940,7 +13940,8 @@
     "vals": [
       3004,
       3007,
-      2242
+      2242,
+      3058
     ],
     "tvals": [],
     "ckSelfIndv": [],
@@ -13959,7 +13960,8 @@
     "vals": [
       3004,
       3007,
-      2243
+      2243,
+      3058
     ],
     "tvals": [],
     "ckSelfIndv": [],
@@ -13978,7 +13980,8 @@
     "vals": [
       3004,
       3007,
-      2244
+      2244,
+      3058
     ],
     "tvals": [],
     "ckSelfIndv": [],
@@ -22267,6 +22270,21 @@
     "detail": "Increase NP damage",
     "iconId": 310,
     "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1546,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "Imperial Capital Power",
+    "detail": "Increase damage dealt in \"Revival: GUDAGUDA Legend of the Imperial Capital Grail - Lite\"",
+    "iconId": 302,
+    "maxRate": 10000,
     "effectId": 0
   },
   {
