@@ -46468,5 +46468,27 @@
     "iconId": 304,
     "maxRate": 1000,
     "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [
+      5000,
+      4003
+    ],
+    "ckSelfIndv": [
+      4003
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3507,
+    "buffGroup": 0,
+    "type": 137,
+    "name": "Quick攻撃時追加効果(Quick攻撃耐性ダウン)",
+    "detail": "Quickカードで攻撃時、対象のQuick攻撃耐性をダウン",
+    "iconId": 528,
+    "maxRate": 0,
+    "effectId": 0
   }
 ]
