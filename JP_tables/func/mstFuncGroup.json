@@ -5710,6 +5710,76 @@
     "isDispValue": true
   },
   {
+    "funcId": 6731,
+    "eventId": 80319,
+    "baseFuncId": 0,
+    "nameTotal": "{0}\n獲得数ボーナス合計",
+    "name": "{0}獲得数アップ",
+    "iconId": 94057901,
+    "priority": 1000,
+    "isDispValue": true
+  },
+  {
+    "funcId": 6732,
+    "eventId": 80319,
+    "baseFuncId": 0,
+    "nameTotal": "{0}\n獲得数ボーナス合計",
+    "name": "{0}獲得数アップ",
+    "iconId": 94057902,
+    "priority": 2000,
+    "isDispValue": true
+  },
+  {
+    "funcId": 6733,
+    "eventId": 80319,
+    "baseFuncId": 0,
+    "nameTotal": "{0}\n獲得数ボーナス合計",
+    "name": "{0}獲得数アップ",
+    "iconId": 94057903,
+    "priority": 3000,
+    "isDispValue": true
+  },
+  {
+    "funcId": 6734,
+    "eventId": 80319,
+    "baseFuncId": 0,
+    "nameTotal": "{0}\n獲得量ボーナス合計",
+    "name": "{0}獲得量アップ",
+    "iconId": 94057905,
+    "priority": 5000,
+    "isDispValue": true
+  },
+  {
+    "funcId": 6735,
+    "eventId": 80319,
+    "baseFuncId": 0,
+    "nameTotal": "{0}\n獲得量ボーナス合計",
+    "name": "{0}獲得量アップ",
+    "iconId": 94057904,
+    "priority": 6000,
+    "isDispValue": true
+  },
+  {
+    "funcId": 6736,
+    "eventId": 80319,
+    "baseFuncId": 0,
+    "nameTotal": "{0}\n獲得量ボーナス合計",
+    "name": "{0}獲得量アップ",
+    "iconId": 94057906,
+    "priority": 4000,
+    "isDispValue": true
+  },
+  {
+    "funcId": 6737,
+    "eventId": 80319,
+    "baseFuncId": 0,
+    "nameTotal": "{1}\n得られる自身の絆ボーナス合計",
+    "name": "得られる自身の絆アップ",
+    "iconId": 1009,
+    "priority": 110,
+    "isDispValue": true
+  },
+  {
     "funcId": 6738,
     "eventId": 80318,
     "baseFuncId": 0,
@@ -5727,6 +5797,46 @@
     "name": "攻撃の威力アップ合計",
     "iconId": 302,
     "priority": 1,
+    "isDispValue": true
+  },
+  {
+    "funcId": 6912,
+    "eventId": 80319,
+    "baseFuncId": 0,
+    "nameTotal": "{1}\nQuick攻撃の威力アップ合計",
+    "name": "Quick攻撃の威力アップ",
+    "iconId": 356,
+    "priority": 400,
+    "isDispValue": true
+  },
+  {
+    "funcId": 6913,
+    "eventId": 80319,
+    "baseFuncId": 0,
+    "nameTotal": "{1}\nArts攻撃の威力アップ合計",
+    "name": "Arts攻撃の威力アップ",
+    "iconId": 357,
+    "priority": 300,
+    "isDispValue": true
+  },
+  {
+    "funcId": 6914,
+    "eventId": 80319,
+    "baseFuncId": 0,
+    "nameTotal": "{1}\nBuster攻撃の威力アップ合計",
+    "name": "Buster攻撃の威力アップ",
+    "iconId": 358,
+    "priority": 200,
+    "isDispValue": true
+  },
+  {
+    "funcId": 7023,
+    "eventId": 80319,
+    "baseFuncId": 0,
+    "nameTotal": "{1}\n得られる自身の絆ボーナス合計",
+    "name": "得られる自身の絆アップ",
+    "iconId": 1023,
+    "priority": 100,
     "isDispValue": true
   }
 ]

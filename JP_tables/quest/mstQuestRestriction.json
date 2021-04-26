@@ -5893,5 +5893,32 @@
     "dialogMessage": "善のサーヴァントのみ出撃可",
     "noticeMessage": "善のサーヴァントのみ出撃可",
     "title": ""
+  },
+  {
+    "questId": 94057902,
+    "phase": 1,
+    "restrictionId": 2000301,
+    "frequencyType": 0,
+    "dialogMessage": "",
+    "noticeMessage": "",
+    "title": ""
+  },
+  {
+    "questId": 94057902,
+    "phase": 2,
+    "restrictionId": 3000201,
+    "frequencyType": 3,
+    "dialogMessage": "サポートサーヴァントをスターティングメンバ―に設定してください。",
+    "noticeMessage": "サポートはサブメンバーとして出撃できません",
+    "title": ""
+  },
+  {
+    "questId": 94057902,
+    "phase": 3,
+    "restrictionId": 3000201,
+    "frequencyType": 3,
+    "dialogMessage": "サポートサーヴァントをスターティングメンバ―に設定してください。",
+    "noticeMessage": "サポートはサブメンバーとして出撃できません",
+    "title": ""
   }
 ]

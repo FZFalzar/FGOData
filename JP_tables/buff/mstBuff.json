@@ -41061,7 +41061,8 @@
   {
     "vals": [
       3005,
-      2743
+      2743,
+      2773
     ],
     "tvals": [],
     "ckSelfIndv": [],
@@ -41081,7 +41082,8 @@
   {
     "vals": [
       3005,
-      2743
+      2743,
+      2773
     ],
     "tvals": [],
     "ckSelfIndv": [],
@@ -41101,7 +41103,8 @@
   {
     "vals": [
       3005,
-      2743
+      2743,
+      2773
     ],
     "tvals": [],
     "ckSelfIndv": [],
@@ -41289,7 +41292,8 @@
   {
     "vals": [
       3005,
-      2744
+      2744,
+      2773
     ],
     "tvals": [],
     "ckSelfIndv": [],
@@ -41309,7 +41313,8 @@
   {
     "vals": [
       3005,
-      2744
+      2744,
+      2773
     ],
     "tvals": [],
     "ckSelfIndv": [],
@@ -41329,7 +41334,8 @@
   {
     "vals": [
       3005,
-      2744
+      2744,
+      2773
     ],
     "tvals": [],
     "ckSelfIndv": [],
@@ -41349,7 +41355,8 @@
   {
     "vals": [
       3005,
-      2745
+      2745,
+      2773
     ],
     "tvals": [],
     "ckSelfIndv": [],
@@ -41369,7 +41376,8 @@
   {
     "vals": [
       3005,
-      2745
+      2745,
+      2773
     ],
     "tvals": [],
     "ckSelfIndv": [],
@@ -41389,7 +41397,8 @@
   {
     "vals": [
       3005,
-      2745
+      2745,
+      2773
     ],
     "tvals": [],
     "ckSelfIndv": [],
@@ -46470,6 +46479,66 @@
     "effectId": 0
   },
   {
+    "vals": [],
+    "tvals": [
+      5000,
+      4003
+    ],
+    "ckSelfIndv": [
+      4003
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3504,
+    "buffGroup": 0,
+    "type": 135,
+    "name": "Quick攻撃の威力アップ",
+    "detail": "Quick攻撃の威力をアップ",
+    "iconId": 356,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4001
+    ],
+    "ckSelfIndv": [
+      4001
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3505,
+    "buffGroup": 0,
+    "type": 135,
+    "name": "Arts攻撃の威力アップ",
+    "detail": "Arts攻撃の威力をアップ",
+    "iconId": 357,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4002
+    ],
+    "ckSelfIndv": [
+      4002
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3506,
+    "buffGroup": 0,
+    "type": 135,
+    "name": "Buster攻撃の威力アップ",
+    "detail": "Buster攻撃の威力をアップ",
+    "iconId": 358,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
     "vals": [
       3004
     ],
@@ -46488,6 +46557,260 @@
     "name": "Quick攻撃時追加効果(Quick攻撃耐性ダウン)",
     "detail": "Quickカードで攻撃時、対象のQuick攻撃耐性をダウン",
     "iconId": 528,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3508,
+    "buffGroup": 0,
+    "type": 95,
+    "name": "登場時発動",
+    "detail": "フィールドに登場した時、効果が発生する",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005,
+      2773
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "CardEffectId": 2001004
+    },
+    "id": 3509,
+    "buffGroup": 0,
+    "type": 159,
+    "name": "カード燃焼",
+    "detail": "コマンドカードを１枚燃焼状態にし、燃焼状態のカードで攻撃時、自身のHP減少",
+    "iconId": 549,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3518,
+    "buffGroup": 0,
+    "type": 137,
+    "name": "ダウナー・デスボイス",
+    "detail": "自身の攻撃時に敵全体の攻撃力をダウン",
+    "iconId": 528,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3519,
+    "buffGroup": 0,
+    "type": 137,
+    "name": "カース・ベースリフ",
+    "detail": "自身の攻撃時に敵単体の防御力をダウン",
+    "iconId": 528,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3520,
+    "buffGroup": 0,
+    "type": 137,
+    "name": "グラッジ・ブラストビート",
+    "detail": "自身の攻撃時に敵単体のスター発生率をダウン",
+    "iconId": 528,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3069
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3536,
+    "buffGroup": 0,
+    "type": 2,
+    "name": "スター集中アップ",
+    "detail": "スターの集まりやすさをアップ",
+    "iconId": 325,
+    "maxRate": 500000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3069
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3537,
+    "buffGroup": 0,
+    "type": 95,
+    "name": "登場時スター獲得",
+    "detail": "フィールドに登場した時、スター獲得効果が発生する",
+    "iconId": 325,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006,
+      3028
+    ],
+    "tvals": [
+      2781
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      2781
+    ],
+    "script": {},
+    "id": 3556,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "威力アップ〔機械〕",
+    "detail": "〔機械〕特性に与えるダメージをアップ",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3557,
+    "buffGroup": 0,
+    "type": 84,
+    "name": "",
+    "detail": "",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006,
+      3028
+    ],
+    "tvals": [
+      303
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      303
+    ],
+    "script": {},
+    "id": 3560,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "威力アップ〔善〕",
+    "detail": "〔善〕特性に与えるダメージをアップ",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3069
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3561,
+    "buffGroup": 0,
+    "type": 18,
+    "name": "クリティカル威力アップ",
+    "detail": "クリティカル時のダメージをアップ",
+    "iconId": 324,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [
+      4001
+    ],
+    "ckOpIndv": [],
+    "script": {
+      "ProgressSelfTurn": 1
+    },
+    "id": 3562,
+    "buffGroup": 0,
+    "type": 3,
+    "name": "スター発生アップ:Arts",
+    "detail": "Arts攻撃のスター発生率をアップ",
+    "iconId": 321,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [
+      5000,
+      4001
+    ],
+    "ckSelfIndv": [
+      4001
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3563,
+    "buffGroup": 0,
+    "type": 137,
+    "name": "Arts攻撃時追加効果",
+    "detail": "Artsカードで攻撃時、対象に毒状態を付与",
+    "iconId": 528,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3069
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3566,
+    "buffGroup": 0,
+    "type": 6,
+    "name": "毎ターンスター獲得",
+    "detail": "ターン終了時にスターを獲得する",
+    "iconId": 320,
     "maxRate": 0,
     "effectId": 0
   }
