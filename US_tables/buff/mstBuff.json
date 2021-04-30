@@ -23039,6 +23039,21 @@
     "ckSelfIndv": [],
     "ckOpIndv": [],
     "script": {},
+    "id": 1600,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "Rondo Memoria",
+    "detail": "Increase damage dealt during \"Lady Reines's Case Files\"",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
     "id": 1601,
     "buffGroup": 0,
     "type": 138,
@@ -23046,6 +23061,179 @@
     "detail": "An additional effect is granted when attacking with the engraved Command Card.",
     "iconId": 333,
     "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1602,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "???",
+    "detail": "???",
+    "iconId": 334,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1603,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "Stardust Veil",
+    "detail": "Gain resistance to all attacks",
+    "iconId": 334,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3007
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1616,
+    "buffGroup": 0,
+    "type": 42,
+    "name": "Change DEF Affinity",
+    "detail": "Negate the DEF disadvantage due to Class Affinity",
+    "iconId": 520,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1617,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "Young King of Conquerors' Influence",
+    "detail": "Gain resistance to all attacks when ally Alexander is on the field",
+    "iconId": 334,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1618,
+    "buffGroup": 0,
+    "type": 86,
+    "name": "Young King of Conquerors' Influence",
+    "detail": "Decrease a single enemy's DEF when taking damage + Increase your DEF when ally Alexander is on the field",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1619,
+    "buffGroup": 200,
+    "type": 24,
+    "name": "Evade",
+    "detail": "Reduce ATK damage taken to 0",
+    "iconId": 305,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1620,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "Sacred Lance Synchronization (Decreased Strength)",
+    "detail": "Gain resistance to all attacks",
+    "iconId": 334,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006,
+      3031
+    ],
+    "tvals": [
+      5000,
+      4002
+    ],
+    "ckSelfIndv": [
+      4002
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1621,
+    "buffGroup": 0,
+    "type": 18,
+    "name": "Critical Up",
+    "detail": "Increase Critical Hit damage",
+    "iconId": 324,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005,
+      3009
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1622,
+    "buffGroup": 0,
+    "type": 43,
+    "name": "Unspoken Formation",
+    "detail": "Decrease DEF",
+    "iconId": 504,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005,
+      3008,
+      3038
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "missText": "Critical MISS"
+    },
+    "id": 1623,
+    "buffGroup": 0,
+    "type": 71,
+    "name": "Unspoken Formation",
+    "detail": "Decrease Critical Hit rate",
+    "iconId": 523,
+    "maxRate": 5000,
     "effectId": 0
   },
   {
@@ -23122,6 +23310,26 @@
     "type": 144,
     "name": "Class Affinity Change",
     "detail": "Gain Class advantage against Alter Ego Class",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3007
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "relationId": 120
+    },
+    "id": 2590,
+    "buffGroup": 0,
+    "type": 144,
+    "name": "Change DEF Affinity",
+    "detail": "Negate the DEF disadvantage due to Class Affinity",
     "iconId": 520,
     "maxRate": 0,
     "effectId": 0

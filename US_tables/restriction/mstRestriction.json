@@ -392,5 +392,30 @@
     "name": "Only Three Servants",
     "type": 10,
     "rangeType": 1
+  },
+  {
+    "targetVals": [],
+    "id": 94036601,
+    "name": "Support Only",
+    "type": 5,
+    "rangeType": 0
+  },
+  {
+    "targetVals": [
+      2
+    ],
+    "id": 94036602,
+    "name": "Only 2 Servants can be deployed.",
+    "type": 10,
+    "rangeType": 1
+  },
+  {
+    "targetVals": [
+      603900
+    ],
+    "id": 94036603,
+    "name": "Cannot Use Gray",
+    "type": 1,
+    "rangeType": 2
   }
 ]

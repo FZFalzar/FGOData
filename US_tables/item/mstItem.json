@@ -2395,6 +2395,26 @@
   },
   {
     "individuality": [],
+    "script": {},
+    "eventId": 0,
+    "eventGroupId": 0,
+    "id": 10021,
+    "name": "Exchange Ticket (MAY 2021)",
+    "detail": "Can be exchanged for one Ghost Lantern, Mystic Spinal Fluid, or Proof of Hero.",
+    "imageId": 10000,
+    "bgImageId": 2,
+    "type": 24,
+    "unit": "",
+    "value": 0,
+    "sellQp": -1,
+    "isSell": false,
+    "priority": 200,
+    "dropPriority": 9001,
+    "startedAt": 1443657600,
+    "endedAt": 1630454399
+  },
+  {
+    "individuality": [],
     "script": {
       "GLOBAL_THANKSGIVING": 1
     },
@@ -12385,6 +12405,94 @@
     "dropPriority": 2003,
     "startedAt": 1618200000,
     "endedAt": 1620014399
+  },
+  {
+    "individuality": [
+      10427
+    ],
+    "script": {},
+    "eventId": 0,
+    "eventGroupId": 0,
+    "id": 94036601,
+    "name": "Formal Leaves",
+    "detail": "\"Event Item\"\nRefined black tea leaves acquired from \"Lady Reines's Case Files.\" \nTeatime is an essential part of life for ladies and gentlemen.",
+    "imageId": 94036601,
+    "bgImageId": 1,
+    "type": 15,
+    "unit": "",
+    "value": 0,
+    "sellQp": -1,
+    "isSell": false,
+    "priority": 94036601,
+    "dropPriority": 2001,
+    "startedAt": 1619755200,
+    "endedAt": 1621569599
+  },
+  {
+    "individuality": [
+      10428
+    ],
+    "script": {},
+    "eventId": 0,
+    "eventGroupId": 0,
+    "id": 94036602,
+    "name": "Dandy Rabbit",
+    "detail": "\"Event Item\"\nA toy stuffed rabbit acquired from \"Lady Reines's Case Files.\"\nIts stern-looking eyes give it a noble bearing.",
+    "imageId": 94036602,
+    "bgImageId": 2,
+    "type": 15,
+    "unit": "",
+    "value": 0,
+    "sellQp": -1,
+    "isSell": false,
+    "priority": 94036602,
+    "dropPriority": 2002,
+    "startedAt": 1619755200,
+    "endedAt": 1621569599
+  },
+  {
+    "individuality": [
+      10429
+    ],
+    "script": {},
+    "eventId": 0,
+    "eventGroupId": 0,
+    "id": 94036603,
+    "name": "Noble Timepiece",
+    "detail": "\"Event Item\"\nA top-notch pocket watch acquired from \"Lady Reines's Case Files.\"\nA true gentleman keeps it within his breast pocket.",
+    "imageId": 94036603,
+    "bgImageId": 3,
+    "type": 15,
+    "unit": "",
+    "value": 0,
+    "sellQp": -1,
+    "isSell": false,
+    "priority": 94036603,
+    "dropPriority": 2003,
+    "startedAt": 1619755200,
+    "endedAt": 1621569599
+  },
+  {
+    "individuality": [
+      10430
+    ],
+    "script": {},
+    "eventId": 0,
+    "eventGroupId": 0,
+    "id": 94036604,
+    "name": "Add Cushion",
+    "detail": "\"Ascension Material\"\nA cube-shaped cushion acquired from \"Lady Reines's Case Files.\"\nYou might get yelled at if you sit on it.",
+    "imageId": 94036604,
+    "bgImageId": 3,
+    "type": 15,
+    "unit": "",
+    "value": 0,
+    "sellQp": -1,
+    "isSell": false,
+    "priority": 94036604,
+    "dropPriority": 2004,
+    "startedAt": 1619755200,
+    "endedAt": 1910908800
   },
   {
     "individuality": [],

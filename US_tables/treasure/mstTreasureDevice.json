@@ -5870,6 +5870,111 @@
       4007
     ],
     "script": {},
+    "id": 618,
+    "seqId": 9941820,
+    "name": "Anamnesis Overflow",
+    "ruby": "-",
+    "rank": "None",
+    "maxLv": 5,
+    "typeText": "",
+    "attackAttri": 1
+  },
+  {
+    "individuality": [
+      3000,
+      4007
+    ],
+    "script": {},
+    "id": 619,
+    "seqId": 9941830,
+    "name": "Overturn",
+    "ruby": "-",
+    "rank": "None",
+    "maxLv": 5,
+    "typeText": "",
+    "attackAttri": 1
+  },
+  {
+    "individuality": [
+      3000,
+      4007
+    ],
+    "script": {},
+    "id": 620,
+    "seqId": 9941840,
+    "name": "Quick Turbine",
+    "ruby": "-",
+    "rank": "None",
+    "maxLv": 5,
+    "typeText": "",
+    "attackAttri": 1
+  },
+  {
+    "individuality": [
+      3002,
+      4007
+    ],
+    "script": {},
+    "id": 621,
+    "seqId": 9941850,
+    "name": "Slow Dance",
+    "ruby": "-",
+    "rank": "None",
+    "maxLv": 5,
+    "typeText": "",
+    "attackAttri": 1
+  },
+  {
+    "individuality": [
+      3002,
+      4007
+    ],
+    "script": {},
+    "id": 622,
+    "seqId": 9941860,
+    "name": "Hydration",
+    "ruby": "-",
+    "rank": "None",
+    "maxLv": 5,
+    "typeText": "",
+    "attackAttri": 1
+  },
+  {
+    "individuality": [
+      3002,
+      4007
+    ],
+    "script": {},
+    "id": 623,
+    "seqId": 9941870,
+    "name": "Evaporation",
+    "ruby": "-",
+    "rank": "None",
+    "maxLv": 5,
+    "typeText": "",
+    "attackAttri": 1
+  },
+  {
+    "individuality": [
+      3002,
+      4007
+    ],
+    "script": {},
+    "id": 624,
+    "seqId": 9941820,
+    "name": "",
+    "ruby": "-",
+    "rank": "None",
+    "maxLv": 5,
+    "typeText": "",
+    "attackAttri": 1
+  },
+  {
+    "individuality": [
+      3002,
+      4007
+    ],
+    "script": {},
     "id": 634,
     "seqId": 9941780,
     "name": "\"This ship is sailing, all aboard!\"",
@@ -8753,6 +8858,27 @@
       4001,
       4007
     ],
+    "script": {
+      "limitSeqId_1": 403201,
+      "limitSeqId_3": 403202,
+      "limitSeqId_4": 403202,
+      "limitSeqId_2": 403201
+    },
+    "id": 403201,
+    "seqId": 403200,
+    "name": "Unspoken Formation",
+    "ruby": " ",
+    "rank": "B++",
+    "maxLv": 5,
+    "typeText": "Anti-Formation",
+    "attackAttri": 1
+  },
+  {
+    "individuality": [
+      3002,
+      4001,
+      4007
+    ],
     "script": {},
     "id": 500101,
     "seqId": 500100,
@@ -10717,6 +10843,22 @@
   },
   {
     "individuality": [
+      3002,
+      4002,
+      4007
+    ],
+    "script": {},
+    "id": 603901,
+    "seqId": 603900,
+    "name": "Rhongomyniad",
+    "ruby": " ",
+    "rank": "A+",
+    "maxLv": 5,
+    "typeText": "Anti-Fortress",
+    "attackAttri": 1
+  },
+  {
+    "individuality": [
       3000,
       4002,
       4007
@@ -11593,6 +11735,22 @@
     "rank": "A",
     "maxLv": 5,
     "typeText": "Anti-Personnel",
+    "attackAttri": 1
+  },
+  {
+    "individuality": [
+      3000,
+      4001,
+      4007
+    ],
+    "script": {},
+    "id": 900801,
+    "seqId": 900800,
+    "name": "Custos Morum",
+    "ruby": " ",
+    "rank": "A+",
+    "maxLv": 5,
+    "typeText": "Anti-Crime",
     "attackAttri": 1
   },
   {
@@ -13062,6 +13220,54 @@
     "rank": "C",
     "maxLv": 5,
     "typeText": "Anti-Personnel",
+    "attackAttri": 1
+  },
+  {
+    "individuality": [
+      3002,
+      4002,
+      4007
+    ],
+    "script": {},
+    "id": 9942011,
+    "seqId": 9942010,
+    "name": "First Folio",
+    "ruby": " ",
+    "rank": "B",
+    "maxLv": 5,
+    "typeText": "Anti-Personnel",
+    "attackAttri": 1
+  },
+  {
+    "individuality": [
+      3002,
+      4001,
+      4007
+    ],
+    "script": {},
+    "id": 9942021,
+    "seqId": 9942020,
+    "name": "Unspoken Formation",
+    "ruby": " ",
+    "rank": "B++",
+    "maxLv": 5,
+    "typeText": "Anti-Formation",
+    "attackAttri": 1
+  },
+  {
+    "individuality": [
+      3002,
+      4001,
+      4007
+    ],
+    "script": {},
+    "id": 9942031,
+    "seqId": 300600,
+    "name": "Reverse Pilgrimage of the Five Hundred Arhat",
+    "ruby": " ",
+    "rank": "EX",
+    "maxLv": 5,
+    "typeText": "Anti-Army",
     "attackAttri": 1
   }
 ]

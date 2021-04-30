@@ -15732,6 +15732,483 @@
   },
   {
     "vals": [
+      1
+    ],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94036731,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 100,
+    "probability": 100,
+    "cond": 86,
+    "aiActId": 94036601,
+    "infoText": "Astraea's Magical Bullet"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94036731,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      0
+    ],
+    "avals": [
+      94036732,
+      0
+    ],
+    "script": {},
+    "id": 94036731,
+    "idx": 3,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 200,
+    "probability": 100,
+    "cond": 85,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94036732,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94036741,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 94036602,
+    "infoText": "Astraea's Magical Bullet"
+  },
+  {
+    "vals": [
+      0
+    ],
+    "avals": [
+      94036742,
+      0
+    ],
+    "script": {},
+    "id": 94036741,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 100,
+    "probability": 100,
+    "cond": 85,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94036742,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2354
+    ],
+    "avals": [
+      94036982,
+      0
+    ],
+    "script": {},
+    "id": 94036981,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 94036614,
+    "infoText": "\"What a pain\""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94036981,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94036982,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2354
+    ],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94037031,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 1009,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94037031,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2354
+    ],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94037031,
+    "idx": 3,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 1009,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94037031,
+    "idx": 4,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2354
+    ],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94037031,
+    "idx": 5,
+    "actNum": -1,
+    "timing": 4,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 1009,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94037031,
+    "idx": 6,
+    "actNum": -1,
+    "timing": 4,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2354
+    ],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94037031,
+    "idx": 7,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 1009,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94037031,
+    "idx": 8,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      94037042,
+      0
+    ],
+    "script": {},
+    "id": 94037041,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 108001,
+    "infoText": "Information Center's Prediction"
+  },
+  {
+    "vals": [],
+    "avals": [
+      94037042,
+      0
+    ],
+    "script": {},
+    "id": 94037041,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 108002,
+    "infoText": "Observatory's Analysis"
+  },
+  {
+    "vals": [],
+    "avals": [
+      94037042,
+      0
+    ],
+    "script": {},
+    "id": 94037041,
+    "idx": 3,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 108005,
+    "infoText": "Gazing Star's Interference"
+  },
+  {
+    "vals": [],
+    "avals": [
+      94037042,
+      0
+    ],
+    "script": {},
+    "id": 94037041,
+    "idx": 4,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 108004,
+    "infoText": "Armory's Supplies"
+  },
+  {
+    "vals": [],
+    "avals": [
+      94037042,
+      0
+    ],
+    "script": {},
+    "id": 94037041,
+    "idx": 5,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 108006,
+    "infoText": "Chamber of Life's Restraint"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94037042,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2354
+    ],
+    "avals": [
+      94037062,
+      0
+    ],
+    "script": {},
+    "id": 94037061,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 94036622,
+    "infoText": "\"You will not get in her way\""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94037061,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94037062,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
       301200
     ],
     "avals": [

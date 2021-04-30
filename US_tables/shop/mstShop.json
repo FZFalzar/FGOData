@@ -2582,6 +2582,107 @@
       0
     ],
     "prices": [
+      15
+    ],
+    "targetIds": [
+      9570300
+    ],
+    "script": {},
+    "id": 11130,
+    "baseShopId": 11130,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 1000,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 20,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Hero Crystal: Star Fou",
+    "detail": "Exchange for one ★3 ALL HP Up card",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1619827200,
+    "closedAt": 1622505599
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      15
+    ],
+    "targetIds": [
+      9670300
+    ],
+    "script": {},
+    "id": 11131,
+    "baseShopId": 11131,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 2000,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 20,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Hero Crystal: Sun Fou",
+    "detail": "Exchange for one ★3 ALL ATK Up card",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1619827200,
+    "closedAt": 1622505599
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      1000
+    ],
+    "targetIds": [
+      9403870
+    ],
+    "script": {
+      "remainDays": 14
+    },
+    "id": 11132,
+    "baseShopId": 11132,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 30,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 5,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Personal Coaching",
+    "detail": "[Limited Mana Prism Exchange]\nExchange for Limited ★5 Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1620619200,
+    "closedAt": 1627790399
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
       500
     ],
     "targetIds": [
@@ -4760,6 +4861,72 @@
       0
     ],
     "prices": [
+      20
+    ],
+    "targetIds": [
+      4001
+    ],
+    "script": {},
+    "id": 14105,
+    "baseShopId": 14105,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 100,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 5,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Summon Ticket",
+    "detail": "Exchange for one Summon Ticket that can perform one Saint Quartz summon",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1619827200,
+    "closedAt": 1622505599
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      40
+    ],
+    "targetIds": [
+      11011
+    ],
+    "script": {},
+    "id": 14106,
+    "baseShopId": 14106,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 200,
+    "purchaseType": 5,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 5,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "EXP Card Set",
+    "detail": "Exchange for 10 ★4 ALL EXP cards",
+    "infoMessage": "Exchange for 10 ★4 ALL EXP cards",
+    "warningMessage": "",
+    "imageId": 14,
+    "bgImageId": 0,
+    "openedAt": 1619827200,
+    "closedAt": 1622505599
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
       100
     ],
     "targetIds": [
@@ -5975,6 +6142,105 @@
     "bgImageId": 0,
     "openedAt": 1617235200,
     "closedAt": 1619827199
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      100
+    ],
+    "targetIds": [
+      5000
+    ],
+    "script": {},
+    "id": 18038,
+    "baseShopId": 18038,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 20,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Quick Code Opener",
+    "detail": "Exchange for [Command Code Slot Release Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1619827200,
+    "closedAt": 1622505599
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      100
+    ],
+    "targetIds": [
+      5001
+    ],
+    "script": {},
+    "id": 18039,
+    "baseShopId": 18039,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 21,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Arts Code Opener",
+    "detail": "Exchange for [Command Code Slot Release Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1619827200,
+    "closedAt": 1622505599
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      100
+    ],
+    "targetIds": [
+      5002
+    ],
+    "script": {},
+    "id": 18040,
+    "baseShopId": 18040,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 22,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Buster Code Opener",
+    "detail": "Exchange for [Command Code Slot Release Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1619827200,
+    "closedAt": 1622505599
   },
   {
     "itemIds": [
@@ -13730,6 +13996,270 @@
     "bgImageId": 0,
     "openedAt": 1619236800,
     "closedAt": 1619409599
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      403200
+    ],
+    "script": {},
+    "id": 4000335,
+    "baseShopId": 4000335,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 887,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Sima Yi (Reines)",
+    "detail": "Exchange for Limited Time ★5 Servant",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1619755200,
+    "closedAt": 1620964799
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      201100
+    ],
+    "script": {},
+    "id": 4000336,
+    "baseShopId": 4000336,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 1500,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 0,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Nikola Tesla",
+    "detail": "Exchange for ★5 Servant",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1620792000,
+    "closedAt": 1620964799
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      302000
+    ],
+    "script": {},
+    "id": 4000337,
+    "baseShopId": 4000337,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 1700,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 0,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Altria Pendragon",
+    "detail": "Exchange for ★5 Servant",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1620964800,
+    "closedAt": 1621137599
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      401300
+    ],
+    "script": {},
+    "id": 4000338,
+    "baseShopId": 4000338,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 1900,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 0,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Queen Medb",
+    "detail": "Exchange for ★5 Servant",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1621137600,
+    "closedAt": 1621310399
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      401800
+    ],
+    "script": {},
+    "id": 4000339,
+    "baseShopId": 4000339,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 2001,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 0,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Quetzalcoatl",
+    "detail": "Exchange for ★5 Servant",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1621137600,
+    "closedAt": 1621310399
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      603600
+    ],
+    "script": {},
+    "id": 4000340,
+    "baseShopId": 4000340,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 2450,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 0,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Li Shuwen",
+    "detail": "Exchange for ★5 Servant",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1621483200,
+    "closedAt": 1621655999
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      702000
+    ],
+    "script": {},
+    "id": 4000341,
+    "baseShopId": 4000341,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 2700,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 0,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Cú Chulainn [Alter]",
+    "detail": "Exchange for ★5 Servant",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1621656000,
+    "closedAt": 1621828799
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      1000800
+    ],
+    "script": {},
+    "id": 4000342,
+    "baseShopId": 4000342,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 2900,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 0,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Sitonai",
+    "detail": "Exchange for ★5 Servant",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1621828800,
+    "closedAt": 1622001599
   },
   {
     "itemIds": [
@@ -31127,6 +31657,204 @@
       18
     ],
     "prices": [
+      3
+    ],
+    "targetIds": [
+      1000
+    ],
+    "script": {},
+    "id": 6000300,
+    "baseShopId": 6000300,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 30,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Lantern of Chaldea",
+    "detail": "Exchange for [Bond Limit Release Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1621036800,
+    "closedAt": 1623715199
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      5003
+    ],
+    "script": {},
+    "id": 6000301,
+    "baseShopId": 6000301,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 31,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 3,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Code Remover",
+    "detail": "Exchange for [Command Code Detacher Item]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1621036800,
+    "closedAt": 1623715199
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      5
+    ],
+    "targetIds": [
+      6999
+    ],
+    "script": {},
+    "id": 6000302,
+    "baseShopId": 6000302,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 32,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Crystallized Lore",
+    "detail": "Exchange for [Skill up Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1621036800,
+    "closedAt": 1623715199
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      3
+    ],
+    "targetIds": [
+      9570400
+    ],
+    "script": {},
+    "id": 6000303,
+    "baseShopId": 6000303,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 33,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Hero Crystal: Meteor Fou",
+    "detail": "Exchange for one ★4 ALL HP Up card",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1621036800,
+    "closedAt": 1623715199
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      3
+    ],
+    "targetIds": [
+      9670400
+    ],
+    "script": {},
+    "id": 6000304,
+    "baseShopId": 6000304,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 34,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Hero Crystal: Corona Fou",
+    "detail": "Exchange for one ★4 ALL ATK Up card",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1621036800,
+    "closedAt": 1623715199
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      4
+    ],
+    "script": {},
+    "id": 6000305,
+    "baseShopId": 6000305,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 35,
+    "purchaseType": 1,
+    "setNum": 20000,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 5,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Friend Points",
+    "detail": "Exchange for 20,000 Friend Points",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1621036800,
+    "closedAt": 1623715199
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
       5
     ],
     "targetIds": [
@@ -32599,7 +33327,7 @@
     "defaultLv": 0,
     "defaultLimitCount": 0,
     "name": "The Demoness of Fresh Blood\n-FGO-",
-    "detail": "The following items will be used to unlock this track:\nHomunculus Baby 10",
+    "detail": "The following items will be used to unlock this track: Homunculus Baby 10\n",
     "infoMessage": "",
     "warningMessage": "",
     "imageId": 0,
@@ -33622,7 +34350,7 @@
     "defaultLv": 0,
     "defaultLimitCount": 0,
     "name": "The Lunar Sea of Tranquility",
-    "detail": "The following items will be used to unlock this track:\nForbidden Page 10",
+    "detail": "The following items will be used to unlock this track: Forbidden Page 10",
     "infoMessage": "",
     "warningMessage": "",
     "imageId": 0,
@@ -135442,6 +136170,897 @@
     "bgImageId": 8009402,
     "openedAt": 946684800,
     "closedAt": 946684800
+  },
+  {
+    "itemIds": [
+      94036603
+    ],
+    "prices": [
+      200
+    ],
+    "targetIds": [
+      9403860
+    ],
+    "script": {},
+    "id": 80244001,
+    "baseShopId": 80244001,
+    "eventId": 80244,
+    "slot": 1,
+    "flag": 0,
+    "priority": 10,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 2,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Meeting of the Heirs",
+    "detail": "Exchange for Lady Reines's Limited Edition ★5 Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80244,
+    "openedAt": 1619755200,
+    "closedAt": 1621569599
+  },
+  {
+    "itemIds": [
+      94036602
+    ],
+    "prices": [
+      200
+    ],
+    "targetIds": [
+      9403860
+    ],
+    "script": {},
+    "id": 80244002,
+    "baseShopId": 80244002,
+    "eventId": 80244,
+    "slot": 1,
+    "flag": 0,
+    "priority": 20,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Meeting of the Heirs",
+    "detail": "Exchange for Lady Reines's Limited Edition ★5 Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80244,
+    "openedAt": 1619755200,
+    "closedAt": 1621569599
+  },
+  {
+    "itemIds": [
+      94036601
+    ],
+    "prices": [
+      200
+    ],
+    "targetIds": [
+      9403860
+    ],
+    "script": {},
+    "id": 80244003,
+    "baseShopId": 80244003,
+    "eventId": 80244,
+    "slot": 1,
+    "flag": 0,
+    "priority": 30,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Meeting of the Heirs",
+    "detail": "Exchange for Lady Reines's Limited Edition ★5 Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80244,
+    "openedAt": 1619755200,
+    "closedAt": 1621569599
+  },
+  {
+    "itemIds": [
+      94036601
+    ],
+    "prices": [
+      20
+    ],
+    "targetIds": [
+      9570300
+    ],
+    "script": {},
+    "id": 80244004,
+    "baseShopId": 80244004,
+    "eventId": 80244,
+    "slot": 1,
+    "flag": 0,
+    "priority": 300,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Hero Crystal: Star Fou",
+    "detail": "Exchange for one ★3 ALL HP Up card",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80244,
+    "openedAt": 1619755200,
+    "closedAt": 1621569599
+  },
+  {
+    "itemIds": [
+      94036601
+    ],
+    "prices": [
+      20
+    ],
+    "targetIds": [
+      9670300
+    ],
+    "script": {},
+    "id": 80244005,
+    "baseShopId": 80244005,
+    "eventId": 80244,
+    "slot": 1,
+    "flag": 0,
+    "priority": 310,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Hero Crystal: Sun Fou",
+    "detail": "Exchange for one ★3 ALL ATK Up card",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80244,
+    "openedAt": 1619755200,
+    "closedAt": 1621569599
+  },
+  {
+    "itemIds": [
+      94036601
+    ],
+    "prices": [
+      6
+    ],
+    "targetIds": [
+      9770400
+    ],
+    "script": {},
+    "id": 80244006,
+    "baseShopId": 80244006,
+    "eventId": 80244,
+    "slot": 1,
+    "flag": 0,
+    "priority": 320,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 100,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Blaze of Wisdom ALL",
+    "detail": "Exchange for one ★4 ALL EXP card",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80244,
+    "openedAt": 1619755200,
+    "closedAt": 1621569599
+  },
+  {
+    "itemIds": [
+      94036601
+    ],
+    "prices": [
+      3
+    ],
+    "targetIds": [
+      9770300
+    ],
+    "script": {},
+    "id": 80244007,
+    "baseShopId": 80244007,
+    "eventId": 80244,
+    "slot": 1,
+    "flag": 0,
+    "priority": 330,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 100,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Fire of Wisdom ALL",
+    "detail": "Exchange for one ★3 ALL EXP card",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80244,
+    "openedAt": 1619755200,
+    "closedAt": 1621569599
+  },
+  {
+    "itemIds": [
+      94036603
+    ],
+    "prices": [
+      40
+    ],
+    "targetIds": [
+      6531
+    ],
+    "script": {},
+    "id": 80244008,
+    "baseShopId": 80244008,
+    "eventId": 80244,
+    "slot": 1,
+    "flag": 0,
+    "priority": 400,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 10,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Mysterious Divine Wine",
+    "detail": "Exchange for [Skill Up & Ascension Materials]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80244,
+    "openedAt": 1619755200,
+    "closedAt": 1621569599
+  },
+  {
+    "itemIds": [
+      94036603
+    ],
+    "prices": [
+      40
+    ],
+    "targetIds": [
+      6525
+    ],
+    "script": {},
+    "id": 80244009,
+    "baseShopId": 80244009,
+    "eventId": 80244,
+    "slot": 1,
+    "flag": 0,
+    "priority": 401,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 10,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Scarab of Wisdom",
+    "detail": "Exchange for [Skill Up & Ascension Materials]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80244,
+    "openedAt": 1619755200,
+    "closedAt": 1621569599
+  },
+  {
+    "itemIds": [
+      94036603
+    ],
+    "prices": [
+      25
+    ],
+    "targetIds": [
+      6501
+    ],
+    "script": {},
+    "id": 80244010,
+    "baseShopId": 80244010,
+    "eventId": 80244,
+    "slot": 1,
+    "flag": 0,
+    "priority": 402,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Phoenix Feather",
+    "detail": "Exchange for [Skill Up & Ascension Materials]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80244,
+    "openedAt": 1619755200,
+    "closedAt": 1621569599
+  },
+  {
+    "itemIds": [
+      94036602
+    ],
+    "prices": [
+      30
+    ],
+    "targetIds": [
+      6519
+    ],
+    "script": {},
+    "id": 80244011,
+    "baseShopId": 80244011,
+    "eventId": 80244,
+    "slot": 1,
+    "flag": 0,
+    "priority": 410,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Warhorse's Young Horn",
+    "detail": "Exchange for [Skill Up & Ascension Materials]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80244,
+    "openedAt": 1619755200,
+    "closedAt": 1621569599
+  },
+  {
+    "itemIds": [
+      94036602
+    ],
+    "prices": [
+      20
+    ],
+    "targetIds": [
+      6538
+    ],
+    "script": {},
+    "id": 80244012,
+    "baseShopId": 80244012,
+    "eventId": 80244,
+    "slot": 1,
+    "flag": 0,
+    "priority": 411,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Soundless Bell",
+    "detail": "Exchange for [Skill Up & Ascension Materials]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80244,
+    "openedAt": 1619755200,
+    "closedAt": 1621569599
+  },
+  {
+    "itemIds": [
+      94036602
+    ],
+    "prices": [
+      20
+    ],
+    "targetIds": [
+      6511
+    ],
+    "script": {},
+    "id": 80244013,
+    "baseShopId": 80244013,
+    "eventId": 80244,
+    "slot": 1,
+    "flag": 0,
+    "priority": 412,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Forbidden Page",
+    "detail": "Exchange for [Skill Up & Ascension Materials]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80244,
+    "openedAt": 1619755200,
+    "closedAt": 1621569599
+  },
+  {
+    "itemIds": [
+      94036601
+    ],
+    "prices": [
+      20
+    ],
+    "targetIds": [
+      6510
+    ],
+    "script": {},
+    "id": 80244014,
+    "baseShopId": 80244014,
+    "eventId": 80244,
+    "slot": 1,
+    "flag": 0,
+    "priority": 420,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Eternal Gear",
+    "detail": "Exchange for [Skill Up & Ascension Materials]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80244,
+    "openedAt": 1619755200,
+    "closedAt": 1621569599
+  },
+  {
+    "itemIds": [
+      94036601
+    ],
+    "prices": [
+      15
+    ],
+    "targetIds": [
+      6533
+    ],
+    "script": {},
+    "id": 80244015,
+    "baseShopId": 80244015,
+    "eventId": 80244,
+    "slot": 1,
+    "flag": 0,
+    "priority": 421,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 30,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Stake of Wailing Night",
+    "detail": "Exchange for [Skill Up & Ascension Materials]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80244,
+    "openedAt": 1619755200,
+    "closedAt": 1621569599
+  },
+  {
+    "itemIds": [
+      94036601
+    ],
+    "prices": [
+      15
+    ],
+    "targetIds": [
+      6503
+    ],
+    "script": {},
+    "id": 80244016,
+    "baseShopId": 80244016,
+    "eventId": 80244,
+    "slot": 1,
+    "flag": 0,
+    "priority": 422,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 30,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Proof of Hero",
+    "detail": "Exchange for [Skill Up & Ascension Materials]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80244,
+    "openedAt": 1619755200,
+    "closedAt": 1621569599
+  },
+  {
+    "itemIds": [
+      94036603
+    ],
+    "prices": [
+      20
+    ],
+    "targetIds": [
+      7101
+    ],
+    "script": {},
+    "id": 80244017,
+    "baseShopId": 80244017,
+    "eventId": 80244,
+    "slot": 1,
+    "flag": 0,
+    "priority": 500,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Saber Monument",
+    "detail": "Exchange for [Ascension Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80244,
+    "openedAt": 1619755200,
+    "closedAt": 1621569599
+  },
+  {
+    "itemIds": [
+      94036603
+    ],
+    "prices": [
+      20
+    ],
+    "targetIds": [
+      7104
+    ],
+    "script": {},
+    "id": 80244018,
+    "baseShopId": 80244018,
+    "eventId": 80244,
+    "slot": 1,
+    "flag": 0,
+    "priority": 510,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Rider Monument",
+    "detail": "Exchange for [Ascension Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80244,
+    "openedAt": 1619755200,
+    "closedAt": 1621569599
+  },
+  {
+    "itemIds": [
+      94036603
+    ],
+    "prices": [
+      20
+    ],
+    "targetIds": [
+      7105
+    ],
+    "script": {},
+    "id": 80244019,
+    "baseShopId": 80244019,
+    "eventId": 80244,
+    "slot": 1,
+    "flag": 0,
+    "priority": 520,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Caster Monument",
+    "detail": "Exchange for [Ascension Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80244,
+    "openedAt": 1619755200,
+    "closedAt": 1621569599
+  },
+  {
+    "itemIds": [
+      94036603
+    ],
+    "prices": [
+      20
+    ],
+    "targetIds": [
+      7107
+    ],
+    "script": {},
+    "id": 80244020,
+    "baseShopId": 80244020,
+    "eventId": 80244,
+    "slot": 1,
+    "flag": 0,
+    "priority": 530,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Berserker Monument",
+    "detail": "Exchange for [Ascension Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80244,
+    "openedAt": 1619755200,
+    "closedAt": 1621569599
+  },
+  {
+    "itemIds": [
+      94036602
+    ],
+    "prices": [
+      20
+    ],
+    "targetIds": [
+      7001
+    ],
+    "script": {},
+    "id": 80244021,
+    "baseShopId": 80244021,
+    "eventId": 80244,
+    "slot": 1,
+    "flag": 0,
+    "priority": 540,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Saber Piece",
+    "detail": "Exchange for [Ascension Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80244,
+    "openedAt": 1619755200,
+    "closedAt": 1621569599
+  },
+  {
+    "itemIds": [
+      94036602
+    ],
+    "prices": [
+      20
+    ],
+    "targetIds": [
+      7004
+    ],
+    "script": {},
+    "id": 80244022,
+    "baseShopId": 80244022,
+    "eventId": 80244,
+    "slot": 1,
+    "flag": 0,
+    "priority": 550,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Rider Piece",
+    "detail": "Exchange for [Ascension Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80244,
+    "openedAt": 1619755200,
+    "closedAt": 1621569599
+  },
+  {
+    "itemIds": [
+      94036602
+    ],
+    "prices": [
+      20
+    ],
+    "targetIds": [
+      7005
+    ],
+    "script": {},
+    "id": 80244023,
+    "baseShopId": 80244023,
+    "eventId": 80244,
+    "slot": 1,
+    "flag": 0,
+    "priority": 560,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Caster Piece",
+    "detail": "Exchange for [Ascension Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80244,
+    "openedAt": 1619755200,
+    "closedAt": 1621569599
+  },
+  {
+    "itemIds": [
+      94036602
+    ],
+    "prices": [
+      20
+    ],
+    "targetIds": [
+      7007
+    ],
+    "script": {},
+    "id": 80244024,
+    "baseShopId": 80244024,
+    "eventId": 80244,
+    "slot": 1,
+    "flag": 0,
+    "priority": 570,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Berserker Piece",
+    "detail": "Exchange for [Ascension Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80244,
+    "openedAt": 1619755200,
+    "closedAt": 1621569599
+  },
+  {
+    "itemIds": [
+      94036602
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      94036603
+    ],
+    "script": {},
+    "id": 80244025,
+    "baseShopId": 80244025,
+    "eventId": 80244,
+    "slot": 1,
+    "flag": 0,
+    "priority": 600,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 0,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Noble Timepiece",
+    "detail": "Exchange for Lady Reines's Case Files Limited Item \"Noble Timepiece\"",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80244,
+    "openedAt": 1619755200,
+    "closedAt": 1621569599
+  },
+  {
+    "itemIds": [
+      94036601
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      94036602
+    ],
+    "script": {},
+    "id": 80244026,
+    "baseShopId": 80244026,
+    "eventId": 80244,
+    "slot": 1,
+    "flag": 0,
+    "priority": 610,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 0,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Dandy Rabbit",
+    "detail": "Exchange for Lady Reines's Case Files Limited Item \"Dandy Rabbit\"",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80244,
+    "openedAt": 1619755200,
+    "closedAt": 1621569599
+  },
+  {
+    "itemIds": [
+      94036603
+    ],
+    "prices": [
+      2
+    ],
+    "targetIds": [
+      1
+    ],
+    "script": {},
+    "id": 80244027,
+    "baseShopId": 80244027,
+    "eventId": 80244,
+    "slot": 1,
+    "flag": 0,
+    "priority": 720,
+    "purchaseType": 1,
+    "setNum": 10000,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 0,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "10,000 QP",
+    "detail": "Exchange for QP",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80244,
+    "openedAt": 1619755200,
+    "closedAt": 1621569599
   },
   {
     "itemIds": [

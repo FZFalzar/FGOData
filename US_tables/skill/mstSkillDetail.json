@@ -1305,6 +1305,11 @@
     "detailShort": "Apply Target Focus (1 turn) & greatly increase DEF [{0}] (1 turn) for yourself"
   },
   {
+    "id": 100550,
+    "detail": "Increase DEF [{0}] (3 turns) & apply Incoming Damage Cut [{0}] (3 turns) & slightly increase NP Gauge for all allies",
+    "detailShort": "Increase DEF [{0}] (3 turns) & apply Incoming Damage Cut [{0}] (3 turns) & slightly increase NP Gauge for all allies"
+  },
+  {
     "id": 100551,
     "detail": "Increase DEF [{0}] (3 turns) & apply Incoming Damage Cut [{0}] (3 turns) & slightly increase NP Gauge for all allies",
     "detailShort": "Increase DEF [{0}] (3 turns) & apply Incoming Damage Cut [{0}] (3 turns) & slightly increase NP Gauge for all allies"
@@ -1528,6 +1533,11 @@
     "id": 134650,
     "detail": "Remove all Debuffs & greatly increase DEF [{0}] (1 turn) & increase NP Gauge [{0}] for yourself",
     "detailShort": "Remove all Debuffs & greatly increase DEF [{0}] (1 turn) & increase NP Gauge [{0}] for yourself"
+  },
+  {
+    "id": 135450,
+    "detail": "Increase NP Gauge & Debuff Resist [{0}] (3 turns) for yourself",
+    "detailShort": "Increase NP Gauge & Debuff Resist [{0}] (3 turns) for yourself"
   },
   {
     "id": 135550,
@@ -4015,6 +4025,46 @@
     "detailShort": "Increase NP Gauge [{0}] & gain advantage against (Alter Ego) class (3 turns) & increase Critical Strength (3 turns) for yourself + Decrease Charm Resist [{0}] (1 turn) for all enemies"
   },
   {
+    "id": 588550,
+    "detail": "Increase NP Gauge & ATK [{0}] (3 turns) for one ally + Decrease your ATK (3 turns) [Demerit]",
+    "detailShort": "Increase NP Gauge & ATK [{0}] (3 turns) for one ally + Decrease your ATK (3 turns) [Demerit]"
+  },
+  {
+    "id": 589450,
+    "detail": "Apply Invincible (2 times, 3 turns) & increase Debuff Resist [{0}](3 turns) for one ally",
+    "detailShort": "Apply Invincible (2 times, 3 turns) & increase Debuff Resist [{0}](3 turns) for one ally"
+  },
+  {
+    "id": 590551,
+    "detail": "Increase ATK [{0}] (3 turns) & DEF [{0}] (3 turns) & NP Gain [{0}] (3 turns) for one ally",
+    "detailShort": "Increase ATK [{0}] (3 turns) & DEF [{0}] (3 turns) & NP Gain [{0}] (3 turns) for one ally"
+  },
+  {
+    "id": 591551,
+    "detail": "Increase your Arts Card effectiveness [{0}] (1 turn) + Gain a large amount of Critical Stars [{0}]",
+    "detailShort": "Increase your Arts Card effectiveness [{0}] (1 turn) + Gain a large amount of Critical Stars [{0}]"
+  },
+  {
+    "id": 592550,
+    "detail": "[Usable only when there are 5 C. Stars or more] Decrease C. Stars by 5 [Demerit] + Increase C. Star Gather Rate [{0}] (1 turn) & Critical Strength [{0}] (1 turn) & NP Gauge for yourself",
+    "detailShort": "[Usable only when there are 5 C. Stars or more] Decrease C. Stars by 5 [Demerit] + Increase C. Star Gather Rate [{0}] (1 turn) & Critical Strength [{0}] (1 turn) & NP Gauge for yourself"
+  },
+  {
+    "id": 593350,
+    "detail": "Increase Quick Card [{0}] (1 turn) & Buster Card effectiveness [{0}] (1 turn) & apply Invincible (1 time, 1 turn) for yourself",
+    "detailShort": "Increase Quick Card [{0}] (1 turn) & Buster Card effectiveness [{0}] (1 turn) & apply Invincible (1 time, 1 turn) for yourself"
+  },
+  {
+    "id": 594450,
+    "detail": "Increase ATK [{0}] (3 turns) & apply Special Attack [Undead] for yourself [{0}] (3 turns)",
+    "detailShort": "Increase ATK [{0}] (3 turns) & apply Special Attack [Undead] for yourself [{0}] (3 turns)"
+  },
+  {
+    "id": 611550,
+    "detail": "Increase your NP Gain",
+    "detailShort": "Increase your NP Gain"
+  },
+  {
     "id": 940001,
     "detail": "Increase Honnoji Point Gain by 20% [\"GUDAGUDA Honnoji\" Limited Event]",
     "detailShort": "Increase Honnoji Point Gain by 20% [\"GUDAGUDA Honnoji\" Limited Event]"
@@ -4528,6 +4578,21 @@
     "id": 940108,
     "detail": "Increase your ATK Strength by 50% in \"Tokugawa Restoration Labyrinth, Ooku\" + increase Bond gained for all allies <including sub-members> when completing quests in \"Tokugawa Restoration Labyrinth, Ooku\" by 5% (No effect when equipped as Support) [Event Only]",
     "detailShort": "Increase your ATK Strength by 50% in \"Tokugawa Restoration Labyrinth, Ooku\" + increase Bond gained for all allies <including sub-members> when completing quests in \"Tokugawa Restoration Labyrinth, Ooku\" by 5% (No effect when equipped as Support) [Event Only]"
+  },
+  {
+    "id": 940109,
+    "detail": "Increase your ATK Strength by 100% in \"Lady Reines's Case Files\" & increase Bond gained when completing quests by 50% [Event Only]",
+    "detailShort": "Increase your ATK Strength by 100% in \"Lady Reines's Case Files\" & increase Bond gained when completing quests by 50% [Event Only]"
+  },
+  {
+    "id": 940110,
+    "detail": "Increase your ATK Strength by 50% in \"Lady Reines's Case Files\" & increase Bond gained when completing quests by 20% [Event Only]",
+    "detailShort": "Increase your ATK Strength by 50% in \"Lady Reines's Case Files\" & increase Bond gained when completing quests by 20% [Event Only]"
+  },
+  {
+    "id": 940111,
+    "detail": "Increase your ATK Strength by 30% in \"Lady Reines's Case Files\" [Event Only]",
+    "detailShort": "Increase your ATK Strength by 30% in \"Lady Reines's Case Files\" [Event Only]"
   },
   {
     "id": 960502,
@@ -13068,6 +13133,126 @@
     "id": 991772,
     "detail": "Increase appearance rate of [Mini Nobu-Type] enemies by 100% in \"Revival: GUDAGUDA Legend of the Imperial Capital Grail - Lite\" [MAX] [Event Only]",
     "detailShort": "Increase appearance rate of [Mini Nobu-Type] enemies by 100% in \"Revival: GUDAGUDA Legend of the Imperial Capital Grail - Lite\" [MAX] [Event Only]"
+  },
+  {
+    "id": 991774,
+    "detail": "Increase Buster Card effectiveness by 10% & NP Gain by 20% for yourself",
+    "detailShort": "Increase Buster Card effectiveness by 10% & NP Gain by 20% for yourself"
+  },
+  {
+    "id": 991775,
+    "detail": "Increase Buster Card effectiveness by 15% & NP Gain by 25% for yourself [MAX]",
+    "detailShort": "Increase Buster Card effectiveness by 15% & NP Gain by 25% for yourself [MAX]"
+  },
+  {
+    "id": 991776,
+    "detail": "Increase Noble Timepiece amount per drop by 1 [Event Only]",
+    "detailShort": "Increase Noble Timepiece amount per drop by 1 [Event Only]"
+  },
+  {
+    "id": 991777,
+    "detail": "Increase Noble Timepiece amount per drop by 2 [MAX] [Event Only]",
+    "detailShort": "Increase Noble Timepiece amount per drop by 2 [MAX] [Event Only]"
+  },
+  {
+    "id": 991778,
+    "detail": "Increase NP Gauge by 4% each turn & Critical Strength by 10% for yourself",
+    "detailShort": "Increase NP Gauge by 4% each turn & Critical Strength by 10% for yourself"
+  },
+  {
+    "id": 991779,
+    "detail": "Increase NP Gauge by 5% each turn & Critical Strength by 15% for yourself [MAX]",
+    "detailShort": "Increase NP Gauge by 5% each turn & Critical Strength by 15% for yourself [MAX]"
+  },
+  {
+    "id": 991780,
+    "detail": "Increase Dandy Rabbit amount per drop by 1 [Event Only]",
+    "detailShort": "Increase Dandy Rabbit amount per drop by 1 [Event Only]"
+  },
+  {
+    "id": 991781,
+    "detail": "Increase Dandy Rabbit amount per drop by 2 [MAX] [Event Only]",
+    "detailShort": "Increase Dandy Rabbit amount per drop by 2 [MAX] [Event Only]"
+  },
+  {
+    "id": 991782,
+    "detail": "Increase Quick Card effectiveness by 5% & NP Gain by 3% for yourself",
+    "detailShort": "Increase Quick Card effectiveness by 5% & NP Gain by 3% for yourself"
+  },
+  {
+    "id": 991783,
+    "detail": "Increase Quick Card effectiveness by 8% & NP Gain by 5% for yourself [MAX]",
+    "detailShort": "Increase Quick Card effectiveness by 8% & NP Gain by 5% for yourself [MAX]"
+  },
+  {
+    "id": 991784,
+    "detail": "Increase Formal Leaves amount per drop by 1 [Event Only]",
+    "detailShort": "Increase Formal Leaves amount per drop by 1 [Event Only]"
+  },
+  {
+    "id": 991785,
+    "detail": "Increase Formal Leaves amount per drop by 2 [MAX] [Event Only]",
+    "detailShort": "Increase Formal Leaves amount per drop by 2 [MAX] [Event Only]"
+  },
+  {
+    "id": 991786,
+    "detail": "Increase Arts Card effectiveness by 8% & NP Gain by 8% & gain 3 C. Stars each turn for yourself",
+    "detailShort": "Increase Arts Card effectiveness by 8% & NP Gain by 8% & gain 3 C. Stars each turn for yourself"
+  },
+  {
+    "id": 991787,
+    "detail": "Increase Arts Card effectiveness by 10% & NP Gain by 10% & gain 4 C. Stars each turn for yourself [MAX]",
+    "detailShort": "Increase Arts Card effectiveness by 10% & NP Gain by 10% & gain 4 C. Stars each turn for yourself [MAX]"
+  },
+  {
+    "id": 991788,
+    "detail": "Increase appearance rate of Rare enemies by 15% in \"Lady Reines's Case Files\" [Event Only]",
+    "detailShort": "Increase appearance rate of Rare enemies by 15% in \"Lady Reines's Case Files\" [Event Only]"
+  },
+  {
+    "id": 991789,
+    "detail": "Increase appearance rate of Rare enemies by 30% [MAX] in \"Lady Reines's Case Files\" [Event Only]",
+    "detailShort": "Increase appearance rate of Rare enemies by 30% [MAX] in \"Lady Reines's Case Files\" [Event Only]"
+  },
+  {
+    "id": 991790,
+    "detail": "Increase all allies' Arts Card effectiveness by 15% only if [servantName 403200] (Rider) is equipped with this Craft Essence when she is on the field.",
+    "detailShort": "Increase all allies' Arts Card effectiveness by 15% only if [servantName 403200] (Rider) is equipped with this Craft Essence when she is on the field."
+  },
+  {
+    "id": 991791,
+    "detail": "Increase all allies' Arts Card effectiveness by 10% & Critical Strength by 15% only if [servantName 900800] (Ruler) is equipped with this Craft Essence when she is on the field.",
+    "detailShort": "Increase all allies' Arts Card effectiveness by 10% & Critical Strength by 15% only if [servantName 900800] (Ruler) is equipped with this Craft Essence when she is on the field."
+  },
+  {
+    "id": 991792,
+    "detail": "Increase all allies' ATK by 10% & NP Strength by 10% only if [servantName 603900] (Assassin) is equipped with this Craft Essence when she is on the field.",
+    "detailShort": "Increase all allies' ATK by 10% & NP Strength by 10% only if [servantName 603900] (Assassin) is equipped with this Craft Essence when she is on the field."
+  },
+  {
+    "id": 991793,
+    "detail": "Increase the engraved Card's Critical Strength by 15% only if the engraved Card is a Buster Card",
+    "detailShort": "Increase the engraved Card's Critical Strength by 15% only if the engraved Card is a Buster Card"
+  },
+  {
+    "id": 991795,
+    "detail": "Apply 15% Special Attack [Undead] effect to the engraved Card",
+    "detailShort": "Apply 15% Special Attack [Undead] effect to the engraved Card"
+  },
+  {
+    "id": 991797,
+    "detail": "Increase your NP Strength by 15% (1 turn) when attacking with the engraved Card",
+    "detailShort": "Increase your NP Strength by 15% (1 turn) when attacking with the engraved Card"
+  },
+  {
+    "id": 991799,
+    "detail": "Increase Master EXP gained when completing quests by 1% (3% if Support)",
+    "detailShort": "Increase Master EXP gained when completing quests by 1% (3% if Support)"
+  },
+  {
+    "id": 991800,
+    "detail": "Increase Master EXP gained when completing quests by 5% (15% if Support) [MAX]",
+    "detailShort": "Increase Master EXP gained when completing quests by 5% (15% if Support) [MAX]"
   },
   {
     "id": 991802,
