@@ -68333,6 +68333,37 @@
   {
     "beforeActionVals": [],
     "afterActionVals": [],
+    "boardMessage": {
+      "text": {
+        "textString": "編成条件あり",
+        "offset": [
+          3,
+          -2
+        ],
+        "fontSize": 14,
+        "gradation": [
+          "#FFEC00",
+          "#FFEC00"
+        ]
+      },
+      "image": {
+        "bannerSp": "img_quest_formlimit_01",
+        "offset": [
+          3,
+          -2
+        ]
+      }
+    },
+    "questId": 94057910,
+    "phase": 1,
+    "spotId": 911106,
+    "consumeType": 1,
+    "actConsume": 5,
+    "flag": 72057594042122240
+  },
+  {
+    "beforeActionVals": [],
+    "afterActionVals": [],
     "boardMessage": {},
     "questId": 94058001,
     "phase": 1,
@@ -68348,6 +68379,17 @@
     "questId": 94058002,
     "phase": 1,
     "spotId": 911102,
+    "consumeType": 1,
+    "actConsume": 0,
+    "flag": 2
+  },
+  {
+    "beforeActionVals": [],
+    "afterActionVals": [],
+    "boardMessage": {},
+    "questId": 94058003,
+    "phase": 1,
+    "spotId": 911111,
     "consumeType": 1,
     "actConsume": 0,
     "flag": 2
