@@ -46806,6 +46806,23 @@
     "effectId": 0
   },
   {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3522,
+    "buffGroup": 0,
+    "type": 137,
+    "name": "攻撃時発動(延焼)",
+    "detail": "自身の攻撃時に敵単体に延焼状態を付与する",
+    "iconId": 528,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
     "vals": [],
     "tvals": [],
     "ckSelfIndv": [],
@@ -46866,6 +46883,25 @@
     "effectId": 0
   },
   {
+    "vals": [],
+    "tvals": [
+      6026
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      6026
+    ],
+    "script": {},
+    "id": 3527,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "",
+    "detail": "",
+    "iconId": 334,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
     "vals": [
       3004,
       3016
@@ -46885,6 +46921,137 @@
     "detail": "クリティカル攻撃への耐性を得る",
     "iconId": 334,
     "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [
+      5000
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3529,
+    "buffGroup": 0,
+    "type": 86,
+    "name": "被ダメージ時発動(やけど付与)",
+    "detail": "攻撃を受けると敵単体にやけど状態を付与する",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [
+      5000,
+      4002
+    ],
+    "ckSelfIndv": [
+      4002
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3530,
+    "buffGroup": 0,
+    "type": 137,
+    "name": "Buster攻撃時発動(強化解除)",
+    "detail": "自身のBusterカードで攻撃時に敵単体の強化状態を解除＆解除成功時にやけど状態を付与",
+    "iconId": 528,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3531,
+    "buffGroup": 0,
+    "type": 85,
+    "name": "毎ターン発動(HP回復)",
+    "detail": "毎ターン終了時に味方全体のHPを回復",
+    "iconId": 343,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      6026
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      6026
+    ],
+    "script": {},
+    "id": 3532,
+    "buffGroup": 0,
+    "type": 42,
+    "name": "",
+    "detail": "",
+    "iconId": 301,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3533,
+    "buffGroup": 0,
+    "type": 137,
+    "name": "攻撃時追加効果(攻撃力ダウン)",
+    "detail": "自身の攻撃時に敵単体の攻撃力をダウンする",
+    "iconId": 528,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3534,
+    "buffGroup": 0,
+    "type": 137,
+    "name": "攻撃時追加効果(強化無効)",
+    "detail": "自身の攻撃時に敵単体に強化無効状態を付与",
+    "iconId": 528,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [
+      5000,
+      4002
+    ],
+    "ckSelfIndv": [
+      4002
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3535,
+    "buffGroup": 0,
+    "type": 89,
+    "name": "Buster攻撃時発動(クリティカル発生率アップ)",
+    "detail": "自身のBusterカードで通常攻撃時に自身のクリティカル発生率をアップ",
+    "iconId": 333,
+    "maxRate": 0,
     "effectId": 0
   },
   {
@@ -47101,6 +47268,87 @@
   },
   {
     "vals": [
+      2776
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3548,
+    "buffGroup": 0,
+    "type": 104,
+    "name": "永劫転輪",
+    "detail": "HPが0になった時、HPを回復して耐える（苦界転輪・永劫懐鬼が倒れると解除）＆ガッツ発動時、苦界転輪・永劫懐鬼の特殊耐性をダウン【デメリット】",
+    "iconId": 304,
+    "maxRate": 1000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2777
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3549,
+    "buffGroup": 0,
+    "type": 34,
+    "name": "宝具封印",
+    "detail": "宝具を使用できなくなる",
+    "iconId": 512,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3550,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "永劫懐鬼",
+    "detail": "全ての攻撃に対する耐性を得る＆弱体を受けなくなる",
+    "iconId": 334,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2784
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3552,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "共に高みへ！",
+    "detail": "ゲージブレイク時に敵全体のNPを増やす＆味方全体の宝具チャージを1増やす",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3553,
+    "buffGroup": 0,
+    "type": 95,
+    "name": "共に高みへ！",
+    "detail": "ゲージブレイク時に敵全体のNPを増やす＆味方全体の宝具チャージを1増やす",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
       2778
     ],
     "tvals": [],
@@ -47114,6 +47362,21 @@
     "detail": "クリティカル時のダメージをアップ",
     "iconId": 324,
     "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3555,
+    "buffGroup": 0,
+    "type": 95,
+    "name": "「愛しいあの人へ捧げます…」",
+    "detail": "フィールドに登場した時、自身の宝具チャージを最大にする",
+    "iconId": 331,
+    "maxRate": 0,
     "effectId": 0
   },
   {
@@ -47318,6 +47581,122 @@
     "name": "",
     "detail": "",
     "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "INDIVIDUALITIE": 2782
+    },
+    "id": 3568,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "",
+    "detail": "",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005,
+      2782
+    ],
+    "tvals": [],
+    "ckSelfIndv": [
+      3015
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3569,
+    "buffGroup": 0,
+    "type": 126,
+    "name": "延焼",
+    "detail": "やけどの効果量アップ",
+    "iconId": 546,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2776
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3570,
+    "buffGroup": 0,
+    "type": 149,
+    "name": "",
+    "detail": "",
+    "iconId": 365,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3571,
+    "buffGroup": 0,
+    "type": 92,
+    "name": "特殊耐性ダウン",
+    "detail": "全ての攻撃に対する耐性をダウン",
+    "iconId": 529,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3573,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "",
+    "detail": "",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2784
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3574,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "ワルキューレ・コーラス",
+    "detail": "自身がフィールドにいる間、味方全体の〔愛する者〕以外から受けるダメージを減らす＋自身がフィールドにいる間、歌乙女ブリュンヒルデの防御力をアップ",
+    "iconId": 334,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3576,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "防御力アップ〔延焼〕",
+    "detail": "自身がフィールドにいる間、味方全体の〔延焼〕状態の敵に対する防御力をアップ",
+    "iconId": 301,
     "maxRate": 0,
     "effectId": 0
   }

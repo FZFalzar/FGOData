@@ -115521,6 +115521,101 @@
   },
   {
     "vals": [
+      180
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 6936,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 304,
+    "popupText": "ガッツ",
+    "categoryId": 20205
+  },
+  {
+    "vals": [
+      227
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      330
+    ],
+    "popupTextColor": 2,
+    "id": 6937,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 336,
+    "popupText": "オーバーチャージ段階UP",
+    "categoryId": 10605
+  },
+  {
+    "vals": [
+      227
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 6938,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 336,
+    "popupText": "オーバーチャージ段階UP",
+    "categoryId": 10605
+  },
+  {
+    "vals": [
+      227
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 6939,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 336,
+    "popupText": "オーバーチャージ段階UP",
+    "categoryId": 10605
+  },
+  {
+    "vals": [
+      155
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 6940,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 311,
+    "popupText": "無敵",
+    "categoryId": 20204
+  },
+  {
+    "vals": [
       1639
     ],
     "tvals": [],
@@ -115772,6 +115867,65 @@
   },
   {
     "vals": [
+      611
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 6954,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 8,
+    "applyTarget": 3,
+    "popupIconId": 302,
+    "popupText": "威力アップ・対愛する者",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      140
+    ],
+    "tvals": [
+      2012
+    ],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 6955,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 7,
+    "applyTarget": 1,
+    "popupIconId": 303,
+    "popupText": "NP獲得アップ",
+    "categoryId": 10604
+  },
+  {
+    "vals": [
+      3522
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 6956,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 528,
+    "popupText": "攻撃時発動(延焼)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
       3523
     ],
     "tvals": [],
@@ -115840,6 +115994,42 @@
   },
   {
     "vals": [
+      3527
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 2,
+    "id": 6961,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 7,
+    "applyTarget": 3,
+    "popupIconId": 334,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      146
+    ],
+    "tvals": [
+      301200
+    ],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 2,
+    "id": 6962,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 7,
+    "applyTarget": 3,
+    "popupIconId": 301,
+    "popupText": "",
+    "categoryId": 20201
+  },
+  {
+    "vals": [
       3528
     ],
     "tvals": [],
@@ -115853,6 +116043,158 @@
     "applyTarget": 3,
     "popupIconId": 334,
     "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3529
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 6964,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 331,
+    "popupText": "被ダメージ時発動(やけど付与)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2734
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 6965,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 343,
+    "popupText": "毎ターン発動(回避)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3530
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 6966,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 528,
+    "popupText": "Buster攻撃時発動(強化解除)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3531
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 6967,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 343,
+    "popupText": "毎ターン発動(HP回復)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3576
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      334
+    ],
+    "popupTextColor": 2,
+    "id": 6968,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 301,
+    "popupText": "防御力アップ・対延焼状態",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3533
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 6969,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 528,
+    "popupText": "攻撃時追加効果(攻撃力ダウン)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3534
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 6970,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 528,
+    "popupText": "攻撃時追加効果(強化無効)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3535
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 6971,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 333,
+    "popupText": "Buster攻撃時発動(クリティカル発生率アップ)",
     "categoryId": 0
   },
   {
@@ -116167,6 +116509,63 @@
   },
   {
     "vals": [
+      159
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      330
+    ],
+    "popupTextColor": 2,
+    "id": 6990,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 307,
+    "popupText": "強化付与アップ",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      159
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 6991,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 307,
+    "popupText": "強化付与アップ",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      159
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 6992,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 307,
+    "popupText": "強化付与アップ",
+    "categoryId": 0
+  },
+  {
+    "vals": [
       3544
     ],
     "tvals": [],
@@ -116237,6 +116636,139 @@
   },
   {
     "vals": [
+      3548
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 6997,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 304,
+    "popupText": "永劫転輪",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3548
+    ],
+    "tvals": [
+      504600
+    ],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 6998,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 304,
+    "popupText": "永劫転輪",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3549
+    ],
+    "tvals": [
+      504600
+    ],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 1,
+    "id": 6999,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 512,
+    "popupText": "宝具封印",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2776
+    ],
+    "tvals": [
+      504600
+    ],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 1,
+    "id": 7000,
+    "cond": 0,
+    "funcType": 2,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "永劫転輪解除",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3550
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 2,
+    "id": 7002,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3552
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 2,
+    "id": 7004,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 331,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2784
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 7005,
+    "cond": 0,
+    "funcType": 2,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
       1
     ],
     "tvals": [],
@@ -116270,6 +116802,61 @@
     "popupIconId": 324,
     "popupText": "クリティカル威力アップ",
     "categoryId": 10401
+  },
+  {
+    "vals": [
+      2778
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 1,
+    "id": 7008,
+    "cond": 0,
+    "funcType": 2,
+    "targetType": 7,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "クリティカル威力アップ解除",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2779
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 1,
+    "id": 7009,
+    "cond": 0,
+    "funcType": 2,
+    "targetType": 7,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "Arts攻撃時発動(NP獲得)解除",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3555
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 2,
+    "id": 7010,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 331,
+    "popupText": "",
+    "categoryId": 0
   },
   {
     "vals": [
@@ -117575,5 +118162,170 @@
     "popupIconId": 0,
     "popupText": "",
     "categoryId": 0
+  },
+  {
+    "vals": [
+      3568
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 2,
+    "id": 7080,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 8,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3569
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 3,
+    "id": 7081,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 4,
+    "applyTarget": 3,
+    "popupIconId": 546,
+    "popupText": "延焼",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3532
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 2,
+    "id": 7082,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 7,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3570
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 2,
+    "id": 7083,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 365,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      189
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 7084,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 7,
+    "applyTarget": 3,
+    "popupIconId": 329,
+    "popupText": "無敵貫通",
+    "categoryId": 10802
+  },
+  {
+    "vals": [
+      3571
+    ],
+    "tvals": [
+      1002
+    ],
+    "questTvals": [],
+    "effectList": [
+      340
+    ],
+    "popupTextColor": 3,
+    "id": 7085,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 529,
+    "popupText": "特殊耐性ダウン",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3573
+    ],
+    "tvals": [
+      -2012
+    ],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 2,
+    "id": 7091,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 8,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3574
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 2,
+    "id": 7092,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 334,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      151
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      334
+    ],
+    "popupTextColor": 2,
+    "id": 7095,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 305,
+    "popupText": "回避",
+    "categoryId": 20203
   }
 ]
