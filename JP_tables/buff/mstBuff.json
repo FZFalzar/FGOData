@@ -47654,6 +47654,23 @@
     "effectId": 0
   },
   {
+    "vals": [
+      2783
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3572,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "特殊耐性アップ",
+    "detail": "全ての攻撃に対する耐性を得る",
+    "iconId": 334,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
     "vals": [],
     "tvals": [],
     "ckSelfIndv": [],
@@ -47682,6 +47699,21 @@
     "name": "ワルキューレ・コーラス",
     "detail": "自身がフィールドにいる間、味方全体の〔愛する者〕以外から受けるダメージを減らす＋自身がフィールドにいる間、歌乙女ブリュンヒルデの防御力をアップ",
     "iconId": 334,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3575,
+    "buffGroup": 0,
+    "type": 13,
+    "name": "スポットライト",
+    "detail": "与えるダメージを増やす＆被ダメージを減らす",
+    "iconId": 302,
     "maxRate": 0,
     "effectId": 0
   },
