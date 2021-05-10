@@ -46195,6 +46195,139 @@
   },
   {
     "targetIds": [
+      2001415,
+      2001416,
+      2001417,
+      2001418,
+      2001419,
+      2001420
+    ],
+    "missionId": 2001414,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001109,
+    "missionTargetId": 100205,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 6,
+    "conditionMessage": "Complete all of this week's Master Missions",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001139
+    ],
+    "missionId": 2001415,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001110,
+    "missionTargetId": 100205,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 3,
+    "conditionMessage": "Defeat 3 Saber, Archer, or Lancer-class Servants",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001140
+    ],
+    "missionId": 2001416,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001111,
+    "missionTargetId": 100205,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 3,
+    "conditionMessage": "Defeat 3 Rider, Caster, Assassin, or Berserker-class Servants",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001141
+    ],
+    "missionId": 2001417,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001112,
+    "missionTargetId": 100205,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 20,
+    "conditionMessage": "Defeat 20 enemies (excluding Servants and certain bosses)",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001417
+    ],
+    "missionId": 2001418,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 2001113,
+    "missionTargetId": 100205,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 1,
+    "conditionMessage": "Defeat 40 enemies (excluding Servants and certain bosses)",
+    "closedMessage": "",
+    "flag": 64
+  },
+  {
+    "targetIds": [
+      2001141
+    ],
+    "missionId": 2001418,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001114,
+    "missionTargetId": 100205,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 40,
+    "conditionMessage": "Defeat 40 enemies (excluding Servants and certain bosses)",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001142
+    ],
+    "missionId": 2001419,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001115,
+    "missionTargetId": 100205,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "Defeat 15 \"Humanoid\" enemies",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001143
+    ],
+    "missionId": 2001420,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001116,
+    "missionTargetId": 100205,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "Defeat 15 \"Demonic\" enemies",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
       94011901
     ],
     "missionId": 80054001,
