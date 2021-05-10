@@ -118477,5 +118477,68 @@
     "popupIconId": 309,
     "popupText": "必中",
     "categoryId": 10801
+  },
+  {
+    "vals": [
+      3580
+    ],
+    "tvals": [],
+    "questTvals": [
+      2038
+    ],
+    "effectList": [
+      327
+    ],
+    "popupTextColor": 1,
+    "id": 7109,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 320,
+    "popupText": "毎ターンスター獲得〔陽射し〕",
+    "categoryId": 10405
+  },
+  {
+    "vals": [
+      3581
+    ],
+    "tvals": [],
+    "questTvals": [
+      2038
+    ],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 7110,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 2,
+    "popupIconId": 327,
+    "popupText": "クリティカル発生アップ〔陽射し〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3582
+    ],
+    "tvals": [],
+    "questTvals": [
+      2038
+    ],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 7111,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 324,
+    "popupText": "クリティカル威力アップ〔陽射し〕",
+    "categoryId": 10401
   }
 ]

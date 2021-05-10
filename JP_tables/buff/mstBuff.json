@@ -47731,5 +47731,60 @@
     "iconId": 301,
     "maxRate": 0,
     "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3580,
+    "buffGroup": 0,
+    "type": 6,
+    "name": "毎ターンスター獲得〔陽射し〕",
+    "detail": "〔陽射し〕のあるフィールドにおいてのみ、ターン終了時にスターを獲得する",
+    "iconId": 320,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006,
+      3032
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3581,
+    "buffGroup": 0,
+    "type": 70,
+    "name": "クリティカル発生アップ〔陽射し〕",
+    "detail": "〔陽射し〕のあるフィールドにおいてのみ、クリティカル発生率がアップする",
+    "iconId": 327,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006,
+      3031
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3582,
+    "buffGroup": 0,
+    "type": 18,
+    "name": "クリティカル威力アップ〔陽射し〕",
+    "detail": "〔陽射し〕のあるフィールドにおいてのみ、クリティカル時のダメージをアップ",
+    "iconId": 324,
+    "maxRate": 5000,
+    "effectId": 0
   }
 ]
