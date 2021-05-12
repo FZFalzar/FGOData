@@ -42,7 +42,9 @@
     "masterImageId": 7101000,
     "searchDepth": 2,
     "pickValue": 1,
-    "defenseArea": 3
+    "defenseArea": 3,
+    "calcEllipsis": 100,
+    "calcEllipsisMin": 0
   },
   {
     "servants": [
@@ -87,7 +89,9 @@
     "masterImageId": 7101000,
     "searchDepth": 2,
     "pickValue": 1,
-    "defenseArea": 3
+    "defenseArea": 3,
+    "calcEllipsis": 100,
+    "calcEllipsisMin": 0
   },
   {
     "servants": [
@@ -135,7 +139,9 @@
     "masterImageId": 7101000,
     "searchDepth": 2,
     "pickValue": 1,
-    "defenseArea": 3
+    "defenseArea": 3,
+    "calcEllipsis": 100,
+    "calcEllipsisMin": 0
   },
   {
     "servants": [
@@ -186,7 +192,9 @@
     "masterImageId": 7101000,
     "searchDepth": 2,
     "pickValue": 1,
-    "defenseArea": 3
+    "defenseArea": 3,
+    "calcEllipsis": 100,
+    "calcEllipsisMin": 0
   },
   {
     "servants": [
@@ -237,7 +245,9 @@
     "masterImageId": 7101000,
     "searchDepth": 2,
     "pickValue": 1,
-    "defenseArea": 3
+    "defenseArea": 3,
+    "calcEllipsis": 100,
+    "calcEllipsisMin": 0
   },
   {
     "servants": [
@@ -285,7 +295,9 @@
     "masterImageId": 7101000,
     "searchDepth": 2,
     "pickValue": 1,
-    "defenseArea": 3
+    "defenseArea": 3,
+    "calcEllipsis": 100,
+    "calcEllipsisMin": 0
   },
   {
     "servants": [
@@ -339,7 +351,9 @@
     "masterImageId": 7101000,
     "searchDepth": 2,
     "pickValue": 1,
-    "defenseArea": 3
+    "defenseArea": 3,
+    "calcEllipsis": 100,
+    "calcEllipsisMin": 0
   },
   {
     "servants": [
@@ -384,7 +398,9 @@
     "masterImageId": 7101100,
     "searchDepth": 2,
     "pickValue": 1,
-    "defenseArea": 4
+    "defenseArea": 4,
+    "calcEllipsis": 100,
+    "calcEllipsisMin": 0
   },
   {
     "servants": [
@@ -429,7 +445,9 @@
     "masterImageId": 7101100,
     "searchDepth": 2,
     "pickValue": 1,
-    "defenseArea": 4
+    "defenseArea": 4,
+    "calcEllipsis": 100,
+    "calcEllipsisMin": 0
   },
   {
     "servants": [
@@ -474,7 +492,9 @@
     "masterImageId": 7101100,
     "searchDepth": 2,
     "pickValue": 1,
-    "defenseArea": 4
+    "defenseArea": 4,
+    "calcEllipsis": 100,
+    "calcEllipsisMin": 0
   },
   {
     "servants": [
@@ -525,7 +545,9 @@
     "masterImageId": 7101100,
     "searchDepth": 2,
     "pickValue": 1,
-    "defenseArea": 4
+    "defenseArea": 4,
+    "calcEllipsis": 100,
+    "calcEllipsisMin": 0
   },
   {
     "servants": [
@@ -576,7 +598,9 @@
     "masterImageId": 7101100,
     "searchDepth": 2,
     "pickValue": 1,
-    "defenseArea": 4
+    "defenseArea": 4,
+    "calcEllipsis": 100,
+    "calcEllipsisMin": 0
   },
   {
     "servants": [
@@ -627,7 +651,9 @@
     "masterImageId": 7101100,
     "searchDepth": 2,
     "pickValue": 1,
-    "defenseArea": 4
+    "defenseArea": 4,
+    "calcEllipsis": 100,
+    "calcEllipsisMin": 0
   },
   {
     "servants": [
@@ -684,6 +710,79 @@
     "masterImageId": 7101100,
     "searchDepth": 2,
     "pickValue": 1,
-    "defenseArea": 4
+    "defenseArea": 4,
+    "calcEllipsis": 100,
+    "calcEllipsisMin": 0
+  },
+  {
+    "servants": [
+      94058801
+    ],
+    "aiIds": [],
+    "ratingBaseIds": [],
+    "tacticalIds": [],
+    "svtEquipIds": [
+      94058801
+    ],
+    "stageId": 94058801,
+    "forceId": 0,
+    "groupId": 0,
+    "masterName": "",
+    "masterImageId": 0,
+    "searchDepth": 0,
+    "pickValue": 0,
+    "defenseArea": 0,
+    "calcEllipsis": 100,
+    "calcEllipsisMin": 0
+  },
+  {
+    "servants": [
+      94058801,
+      94058802,
+      94058803,
+      94058804,
+      94058805
+    ],
+    "aiIds": [
+      94058801,
+      94058802,
+      94058803,
+      94058804,
+      94058805,
+      94058806
+    ],
+    "ratingBaseIds": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "tacticalIds": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "svtEquipIds": [
+      0,
+      0,
+      0,
+      0,
+      94058803
+    ],
+    "stageId": 94058801,
+    "forceId": 1,
+    "groupId": 0,
+    "masterName": "マーリン",
+    "masterImageId": 7101200,
+    "searchDepth": 2,
+    "pickValue": 1,
+    "defenseArea": 4,
+    "calcEllipsis": 100,
+    "calcEllipsisMin": 0
   }
 ]

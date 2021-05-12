@@ -126,7 +126,11 @@
   {
     "effectList": [],
     "actIndividuality": [],
-    "script": {},
+    "script": {
+      "OverwriteMotion_302000": 1002,
+      "OverwriteMotion_9936700": 1002,
+      "OverwriteMotion_9936701": 1002
+    },
     "id": 5450,
     "type": 1,
     "name": "カリスマ B",
@@ -3152,7 +3156,11 @@
   {
     "effectList": [],
     "actIndividuality": [],
-    "script": {},
+    "script": {
+      "OverwriteMotion_302000": 1001,
+      "OverwriteMotion_9936700": 1001,
+      "OverwriteMotion_9936701": 1001
+    },
     "id": 92550,
     "type": 1,
     "name": "魔力放出 A",
@@ -4002,7 +4010,11 @@
   {
     "effectList": [],
     "actIndividuality": [],
-    "script": {},
+    "script": {
+      "OverwriteMotion_302000": 1003,
+      "OverwriteMotion_9936700": 1003,
+      "OverwriteMotion_9936701": 1003
+    },
     "id": 135650,
     "type": 1,
     "name": "最果ての加護 EX",
@@ -5798,7 +5810,9 @@
   {
     "effectList": [],
     "actIndividuality": [],
-    "script": {},
+    "script": {
+      "OverwriteMotion_102000": 1001
+    },
     "id": 241552,
     "type": 1,
     "name": "騎士は徒手にて死せず A++",
@@ -13779,6 +13793,32 @@
     "ruby": "きしのぐんりゃく",
     "maxLv": 10,
     "iconId": 302,
+    "motion": 102
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {
+      "OverwriteMotion_302000": 1001
+    },
+    "id": 875551,
+    "type": 1,
+    "name": "光の奔流 A+",
+    "ruby": "ひかりのほんりゅう",
+    "maxLv": 10,
+    "iconId": 306,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 876550,
+    "type": 1,
+    "name": "声高らかに愛を讃えん A",
+    "ruby": "こえたからかにあいをたたえん",
+    "maxLv": 10,
+    "iconId": 304,
     "motion": 102
   },
   {

@@ -390,7 +390,9 @@
       2,
       2
     ],
-    "script": {},
+    "script": {
+      "cameraActionId": 65
+    },
     "id": 100700,
     "baseSvtId": 100700,
     "name": "ガウェイン",
@@ -1081,7 +1083,9 @@
       2,
       2
     ],
-    "script": {},
+    "script": {
+      "cameraActionId": 87
+    },
     "id": 102000,
     "baseSvtId": 102000,
     "name": "ランスロット",
@@ -3091,7 +3095,8 @@
   },
   {
     "relateQuestIds": [
-      91200801
+      91200801,
+      94058982
     ],
     "individuality": [
       5000,
@@ -3119,7 +3124,9 @@
       1,
       2
     ],
-    "script": {},
+    "script": {
+      "cameraActionId": 76
+    },
     "id": 200800,
     "baseSvtId": 200800,
     "name": "トリスタン",
@@ -6366,7 +6373,8 @@
   },
   {
     "relateQuestIds": [
-      91302001
+      91302001,
+      94058981
     ],
     "individuality": [
       5000,
@@ -6399,7 +6407,9 @@
       2,
       2
     ],
-    "script": {},
+    "script": {
+      "cameraActionId": 74
+    },
     "id": 302000,
     "baseSvtId": 302000,
     "name": "アルトリア・ペンドラゴン",
@@ -99021,7 +99031,9 @@
       2,
       2
     ],
-    "script": {},
+    "script": {
+      "cameraActionId": 74
+    },
     "id": 9936700,
     "baseSvtId": 9936700,
     "name": "アルトリア・ペンドラゴン",
@@ -99087,7 +99099,9 @@
       2,
       2
     ],
-    "script": {},
+    "script": {
+      "cameraActionId": 74
+    },
     "id": 9936701,
     "baseSvtId": 9936701,
     "name": "アルトリア・ペンドラゴン",
