@@ -1003,5 +1003,82 @@
     "defenseArea": 3,
     "calcEllipsis": 100,
     "calcEllipsisMin": 0
+  },
+  {
+    "servants": [
+      94058805
+    ],
+    "aiIds": [],
+    "ratingBaseIds": [],
+    "tacticalIds": [],
+    "svtEquipIds": [
+      94058801
+    ],
+    "stageId": 94058805,
+    "forceId": 0,
+    "groupId": 0,
+    "masterName": "",
+    "masterImageId": 0,
+    "searchDepth": 0,
+    "pickValue": 0,
+    "defenseArea": 0,
+    "calcEllipsis": 100,
+    "calcEllipsisMin": 0
+  },
+  {
+    "servants": [
+      94058851,
+      94058852,
+      94058853,
+      94058854,
+      94058855,
+      94058856,
+      94058857
+    ],
+    "aiIds": [
+      94058841,
+      94058842,
+      94058843,
+      94058844,
+      94058845,
+      94058846,
+      94058847,
+      94058848
+    ],
+    "ratingBaseIds": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "tacticalIds": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "svtEquipIds": [
+      94058811,
+      0,
+      94058812,
+      0,
+      0,
+      0,
+      94058813
+    ],
+    "stageId": 94058805,
+    "forceId": 1,
+    "groupId": 0,
+    "masterName": "マーリン",
+    "masterImageId": 7101200,
+    "searchDepth": 2,
+    "pickValue": 1,
+    "defenseArea": 2,
+    "calcEllipsis": 100,
+    "calcEllipsisMin": 0
   }
 ]
