@@ -226855,6 +226855,15 @@
   },
   {
     "questId": 94058806,
+    "type": 0,
+    "targetId": 0,
+    "value": 0,
+    "openLimit": 0,
+    "closedMessageId": 0,
+    "imagePriority": 8000
+  },
+  {
+    "questId": 94058806,
     "type": 1,
     "targetId": 1000011,
     "value": 0,
@@ -226872,7 +226881,25 @@
     "imagePriority": 9000
   },
   {
-    "questId": 94058806,
+    "questId": 94058807,
+    "type": 1,
+    "targetId": 1000011,
+    "value": 0,
+    "openLimit": 0,
+    "closedMessageId": 101,
+    "imagePriority": 10000
+  },
+  {
+    "questId": 94058807,
+    "type": 12,
+    "targetId": 0,
+    "value": 0,
+    "openLimit": 0,
+    "closedMessageId": 4,
+    "imagePriority": 9000
+  },
+  {
+    "questId": 94058807,
     "type": 92,
     "targetId": 0,
     "value": 0,
