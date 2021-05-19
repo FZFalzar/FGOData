@@ -37047,7 +37047,7 @@
     "script": {},
     "id": 2958,
     "buffGroup": 0,
-    "type": 112,
+    "type": 11,
     "name": "威力アップ〔幽霊〕",
     "detail": "〔幽霊〕特性に与えるダメージをアップ",
     "iconId": 302,
@@ -37388,7 +37388,7 @@
     "buffGroup": 0,
     "type": 78,
     "name": "時間経過",
-    "detail": "HPが0になった時、暴れん坊キッズの「無限の体力(キッズ)」の回数を2減らす",
+    "detail": "HPが0になった時、暴れん坊キッズの「無限の体力(キッズ)」の回数を2減らす(1回以下にはならない）",
     "iconId": 543,
     "maxRate": 0,
     "effectId": 0
@@ -37405,7 +37405,7 @@
     "buffGroup": 0,
     "type": 78,
     "name": "時間経過",
-    "detail": "HPが0になった時、暴れん坊キッズの「無限の体力(キッズ)」の回数を5減らす",
+    "detail": "HPが0になった時、暴れん坊キッズの「無限の体力(キッズ)」の回数を5減らす(1回以下にはならない）",
     "iconId": 543,
     "maxRate": 0,
     "effectId": 0
@@ -47733,6 +47733,36 @@
     "effectId": 0
   },
   {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3577,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "サバキャンパー",
+    "detail": "『復刻:サーヴァント・サマーキャンプ！ ライト版』において与えるダメージをアップ",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3578,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "威力アップ",
+    "detail": "『復刻:サーヴァント・サマーキャンプ！ ライト版』において与えるダメージをアップ",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
     "vals": [
       3005
     ],
@@ -47801,6 +47831,25 @@
     "name": "クリティカル威力アップ〔陽射し〕",
     "detail": "〔陽射し〕のあるフィールドにおいてのみ、クリティカル時のダメージをアップ",
     "iconId": 324,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      4007
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4007
+    ],
+    "script": {},
+    "id": 3583,
+    "buffGroup": 0,
+    "type": 43,
+    "name": "",
+    "detail": "",
+    "iconId": 504,
     "maxRate": 5000,
     "effectId": 0
   }
