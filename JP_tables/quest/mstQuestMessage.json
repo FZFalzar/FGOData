@@ -20779,6 +20779,28 @@
     "displayType": 1
   },
   {
+    "questId": 94059150,
+    "phase": 1,
+    "idx": 1,
+    "message": "このクエストを実行すると\nマップの時間帯(昼・夜)が\n変化します。\n\n時間帯(昼・夜)が変化すると、\nフリークエストの内容が変化します。",
+    "condType": 0,
+    "targetId": 0,
+    "targetNum": 0,
+    "frequencyType": 3,
+    "displayType": 1
+  },
+  {
+    "questId": 94059150,
+    "phase": 1,
+    "idx": 2,
+    "message": "夜が明ける...[k]",
+    "condType": 0,
+    "targetId": 0,
+    "targetNum": 0,
+    "frequencyType": 3,
+    "displayType": 2
+  },
+  {
     "questId": 94059208,
     "phase": 2,
     "idx": 1,
