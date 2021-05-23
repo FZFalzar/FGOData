@@ -66669,6 +66669,139 @@
   },
   {
     "targetIds": [
+      2001751,
+      2001752,
+      2001753,
+      2001754,
+      2001755,
+      2001756
+    ],
+    "missionId": 2001750,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2002000,
+    "missionTargetId": 100253,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 6,
+    "conditionMessage": "今週のマスターミッションをすべてクリアせよ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001330
+    ],
+    "missionId": 2001751,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2002001,
+    "missionTargetId": 100253,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 30,
+    "conditionMessage": "フレンドポイント召喚を30回実行せよ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001331
+    ],
+    "missionId": 2001752,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2002002,
+    "missionTargetId": 100253,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 10,
+    "conditionMessage": "『男性』特性を持つ敵を10体倒せ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001752
+    ],
+    "missionId": 2001753,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 2002003,
+    "missionTargetId": 100253,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 1,
+    "conditionMessage": "『男性』特性を持つ敵を20体倒せ",
+    "closedMessage": "",
+    "flag": 64
+  },
+  {
+    "targetIds": [
+      2001331
+    ],
+    "missionId": 2001753,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2002004,
+    "missionTargetId": 100253,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 20,
+    "conditionMessage": "『男性』特性を持つ敵を20体倒せ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001332
+    ],
+    "missionId": 2001754,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2002005,
+    "missionTargetId": 100253,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 50,
+    "conditionMessage": "「復刻:サーヴァント・サマーキャンプ！ ～カルデア・スリラーナイト～ ライト版」の戦利品で「よく乾いた薪」を新たに50個獲得せよ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001333
+    ],
+    "missionId": 2001755,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2002006,
+    "missionTargetId": 100253,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 50,
+    "conditionMessage": "「復刻:サーヴァント・サマーキャンプ！ ～カルデア・スリラーナイト～ ライト版」の戦利品で「採れたて野菜」を新たに50個獲得せよ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001334
+    ],
+    "missionId": 2001756,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2002007,
+    "missionTargetId": 100253,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 50,
+    "conditionMessage": "「復刻:サーヴァント・サマーキャンプ！ ～カルデア・スリラーナイト～ ライト版」の戦利品で「ミニチェーンソー」を新たに50個獲得せよ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
       8031002,
       8031003,
       8031004,
