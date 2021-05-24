@@ -46445,6 +46445,155 @@
   },
   {
     "targetIds": [
+      2001429,
+      2001430,
+      2001431,
+      2001432,
+      2001433,
+      2001434
+    ],
+    "missionId": 2001428,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001124,
+    "missionTargetId": 100207,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 6,
+    "conditionMessage": "Complete all of this week's Master Missions",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001150
+    ],
+    "missionId": 2001429,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001125,
+    "missionTargetId": 100207,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "Defeat 15 enemies with the Earth attribute",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001151
+    ],
+    "missionId": 2001430,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001126,
+    "missionTargetId": 100207,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "Defeat 15 \"Wild Beast\" enemies",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001152
+    ],
+    "missionId": 2001431,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001127,
+    "missionTargetId": 100207,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "Acquire 15 Blaze of Wisdom, Fire of Wisdom, Light of Wisdom, or Ember of Wisdom through battles",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001431
+    ],
+    "missionId": 2001432,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 2001128,
+    "missionTargetId": 100207,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 1,
+    "conditionMessage": "Acquire 30 Blaze of Wisdom, Fire of Wisdom, Light of Wisdom, or Ember of Wisdom through battles",
+    "closedMessage": "",
+    "flag": 64
+  },
+  {
+    "targetIds": [
+      2001152
+    ],
+    "missionId": 2001432,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001129,
+    "missionTargetId": 100207,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 30,
+    "conditionMessage": "Acquire 30 Blaze of Wisdom, Fire of Wisdom, Light of Wisdom, or Ember of Wisdom through battles",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001153
+    ],
+    "missionId": 2001433,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001130,
+    "missionTargetId": 100207,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 5,
+    "conditionMessage": "Complete Quests 5 times",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001433
+    ],
+    "missionId": 2001434,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 2001131,
+    "missionTargetId": 100207,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 1,
+    "conditionMessage": "Complete Quests 10 times",
+    "closedMessage": "",
+    "flag": 64
+  },
+  {
+    "targetIds": [
+      2001153
+    ],
+    "missionId": 2001434,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001132,
+    "missionTargetId": 100207,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 10,
+    "conditionMessage": "Complete Quests 10 times",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
       94011901
     ],
     "missionId": 80054001,
