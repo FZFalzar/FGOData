@@ -3969,17 +3969,23 @@
   },
   {
     "guideImageIds": [
-      109819830
+      109819830,
+      109820072
     ],
     "guideLimitCounts": [
+      0,
       0
     ],
     "guideFaceIds": [
-      10
+      31,
+      31
     ],
     "guideDisplayNames": [],
     "guideWeights": [],
-    "guideUnselectedMax": [],
+    "guideUnselectedMax": [
+      1,
+      1
+    ],
     "eventId": 80326,
     "slot": 0,
     "groupId": 0,
@@ -3989,7 +3995,7 @@
     "bgId": 99900,
     "bgmId": 417,
     "afterBgmId": 417,
-    "flag": 2
+    "flag": 6
   },
   {
     "guideImageIds": [
