@@ -21142,6 +21142,17 @@
     "displayType": 1
   },
   {
+    "questId": 94059122,
+    "phase": 1,
+    "idx": 1,
+    "message": "【復刻:サーヴァント・サマーキャンプ！ \nライト版】は復刻イベントです。\n\n過去の【サーヴァント・サマーキャンプ！】で\n『聖杯』\nを入手している場合、本イベントでは\n『伝承結晶』\nに置き換わります。",
+    "condType": 25,
+    "targetId": 94051422,
+    "targetNum": 1,
+    "frequencyType": 1,
+    "displayType": 1
+  },
+  {
     "questId": 94059150,
     "phase": 1,
     "idx": 1,
@@ -21297,6 +21308,28 @@
   },
   {
     "questId": 94059210,
+    "phase": 2,
+    "idx": 1,
+    "message": "このクエストでは\nパーティ編成はバトルの直前に行います。\n\nクエストを開始しますか？",
+    "condType": 0,
+    "targetId": 0,
+    "targetNum": 0,
+    "frequencyType": 3,
+    "displayType": 1
+  },
+  {
+    "questId": 94059211,
+    "phase": 1,
+    "idx": 1,
+    "message": "このクエストでは\nパーティ編成はバトルの直前に行います。\n\nクエストを開始しますか？",
+    "condType": 0,
+    "targetId": 0,
+    "targetNum": 0,
+    "frequencyType": 3,
+    "displayType": 1
+  },
+  {
+    "questId": 94059211,
     "phase": 2,
     "idx": 1,
     "message": "このクエストでは\nパーティ編成はバトルの直前に行います。\n\nクエストを開始しますか？",
