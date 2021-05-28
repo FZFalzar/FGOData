@@ -3368,7 +3368,7 @@
   },
   {
     "id": "H010",
-    "priority": 8190,
+    "priority": 7960,
     "svtVoiceType": 1,
     "name": "Birthday",
     "nameDefault": "???",
@@ -3381,7 +3381,7 @@
   },
   {
     "id": "H020",
-    "priority": 8260,
+    "priority": 7980,
     "svtVoiceType": 1,
     "name": "During an Event",
     "nameDefault": "???",
@@ -3433,7 +3433,7 @@
   },
   {
     "id": "H060",
-    "priority": 8290,
+    "priority": 8090,
     "svtVoiceType": 1,
     "name": "Likes",
     "nameDefault": "Unlocks through My Room conversations",
@@ -3446,7 +3446,7 @@
   },
   {
     "id": "H070",
-    "priority": 8280,
+    "priority": 8060,
     "svtVoiceType": 1,
     "name": "Dislikes",
     "nameDefault": "Unlocks through My Room conversations",
@@ -3459,7 +3459,7 @@
   },
   {
     "id": "H080",
-    "priority": 8270,
+    "priority": 8020,
     "svtVoiceType": 1,
     "name": "About the Holy Grail",
     "nameDefault": "Unlocks through My Room conversations",
@@ -3966,7 +3966,7 @@
   },
   {
     "id": "H1900",
-    "priority": 8189,
+    "priority": 7940,
     "svtVoiceType": 1,
     "name": "Birthday",
     "nameDefault": "???",
@@ -4096,7 +4096,7 @@
   },
   {
     "id": "H2500",
-    "priority": 8279,
+    "priority": 8040,
     "svtVoiceType": 1,
     "name": "Dislikes",
     "nameDefault": "Unlocks through My Room conversations",
@@ -4174,7 +4174,7 @@
   },
   {
     "id": "H3060",
-    "priority": 8289,
+    "priority": 8070,
     "svtVoiceType": 1,
     "name": "Likes",
     "nameDefault": "Unlocks through My Room conversations",
@@ -4187,13 +4187,26 @@
   },
   {
     "id": "H3070",
-    "priority": 8279,
+    "priority": 8030,
     "svtVoiceType": 1,
     "name": "Dislikes",
     "nameDefault": "Unlocks through My Room conversations",
     "condType": 17,
     "condValue": 39,
     "voicePlayedValue": 39,
+    "firstPlayPriority": 0,
+    "closedType": 1,
+    "flag": 0
+  },
+  {
+    "id": "H3080",
+    "priority": 8000,
+    "svtVoiceType": 1,
+    "name": "About the Holy Grail",
+    "nameDefault": "Unlocks through My Room conversations",
+    "condType": 17,
+    "condValue": 42,
+    "voicePlayedValue": 42,
     "firstPlayPriority": 0,
     "closedType": 1,
     "flag": 0
@@ -4226,7 +4239,7 @@
   },
   {
     "id": "H4010",
-    "priority": 8190,
+    "priority": 7950,
     "svtVoiceType": 1,
     "name": "Birthday",
     "nameDefault": "???",
@@ -4239,7 +4252,7 @@
   },
   {
     "id": "H4020",
-    "priority": 8260,
+    "priority": 7970,
     "svtVoiceType": 1,
     "name": "During an Event",
     "nameDefault": "???",
@@ -4291,7 +4304,7 @@
   },
   {
     "id": "H4060",
-    "priority": 8290,
+    "priority": 8080,
     "svtVoiceType": 1,
     "name": "Likes",
     "nameDefault": "Unlocks through My Room conversations",
@@ -4304,7 +4317,7 @@
   },
   {
     "id": "H4070",
-    "priority": 8280,
+    "priority": 8050,
     "svtVoiceType": 1,
     "name": "Dislikes",
     "nameDefault": "Unlocks through My Room conversations",
@@ -4317,7 +4330,7 @@
   },
   {
     "id": "H4080",
-    "priority": 8270,
+    "priority": 8010,
     "svtVoiceType": 1,
     "name": "About the Holy Grail",
     "nameDefault": "Unlocks through My Room conversations",
@@ -4668,7 +4681,7 @@
   },
   {
     "id": "H9000",
-    "priority": 8265,
+    "priority": 7990,
     "svtVoiceType": 1,
     "name": "About Spiritron Dress",
     "nameDefault": "Unlocks through My Room conversations after Wardrobe Unlocked",
@@ -7762,7 +7775,7 @@
   },
   {
     "id": "S010",
-    "priority": 8090,
+    "priority": 7920,
     "svtVoiceType": 3,
     "name": "Summon",
     "nameDefault": "Unlocks when summoned ",
@@ -7775,7 +7788,7 @@
   },
   {
     "id": "S020",
-    "priority": 7990,
+    "priority": 7905,
     "svtVoiceType": 4,
     "name": "Limited Time Contract",
     "nameDefault": "Unlocks when a Limited Time Servant joins",
@@ -7788,7 +7801,7 @@
   },
   {
     "id": "S110",
-    "priority": 8089,
+    "priority": 7910,
     "svtVoiceType": 3,
     "name": "Summon",
     "nameDefault": "???",
@@ -7801,7 +7814,7 @@
   },
   {
     "id": "S900",
-    "priority": 8100,
+    "priority": 7930,
     "svtVoiceType": 5,
     "name": "Summon",
     "nameDefault": "Unlocks when summoned ",

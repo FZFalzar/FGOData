@@ -2683,6 +2683,138 @@
       0
     ],
     "prices": [
+      15
+    ],
+    "targetIds": [
+      9570300
+    ],
+    "script": {},
+    "id": 11133,
+    "baseShopId": 11133,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 1000,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 20,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Hero Crystal: Star Fou",
+    "detail": "Exchange for one ★3 ALL HP Up card",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1622505600,
+    "closedAt": 1625097599
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      15
+    ],
+    "targetIds": [
+      9670300
+    ],
+    "script": {},
+    "id": 11134,
+    "baseShopId": 11134,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 2000,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 20,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Hero Crystal: Sun Fou",
+    "detail": "Exchange for one ★3 ALL ATK Up card",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1622505600,
+    "closedAt": 1625097599
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      500
+    ],
+    "targetIds": [
+      60360011
+    ],
+    "script": {},
+    "id": 11135,
+    "baseShopId": 11135,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 10,
+    "purchaseType": 14,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Simple Spiritron Dress \"Without Glasses (1st Ascension)\" Wardrobe Key",
+    "detail": "Acquire the Wardrobe Key for Li Shuwen (Assassin)'s Simple Spiritron Dress \"Without Glasses (1st Ascension)\"",
+    "infoMessage": "Acquire the Wardrobe Key for the Simple Spiritron Dress \"Without Glasses (1st Ascension)\"",
+    "warningMessage": "",
+    "imageId": 80231,
+    "bgImageId": 0,
+    "openedAt": 1622174400,
+    "closedAt": 1901231999
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      500
+    ],
+    "targetIds": [
+      60360012
+    ],
+    "script": {},
+    "id": 11136,
+    "baseShopId": 11136,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 11,
+    "purchaseType": 14,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Simple Spiritron Dress \"Without Glasses (2nd Ascension)\" Wardrobe Key",
+    "detail": "Acquire the Wardrobe Key for Li Shuwen (Assassin)'s Simple Spiritron Dress \"Without Glasses (2nd Ascension)\"",
+    "infoMessage": "Acquire the Wardrobe Key for the Simple Spiritron Dress \"Without Glasses (2nd Ascension)\"",
+    "warningMessage": "",
+    "imageId": 80232,
+    "bgImageId": 0,
+    "openedAt": 1622174400,
+    "closedAt": 1901231999
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
       500
     ],
     "targetIds": [
@@ -4927,6 +5059,72 @@
       0
     ],
     "prices": [
+      20
+    ],
+    "targetIds": [
+      4001
+    ],
+    "script": {},
+    "id": 14107,
+    "baseShopId": 14107,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 100,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 5,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Summon Ticket",
+    "detail": "Exchange for one Summon Ticket that can perform one Saint Quartz summon",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1622505600,
+    "closedAt": 1625097599
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      40
+    ],
+    "targetIds": [
+      11011
+    ],
+    "script": {},
+    "id": 14108,
+    "baseShopId": 14108,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 200,
+    "purchaseType": 5,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 5,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "EXP Card Set",
+    "detail": "Exchange for 10 ★4 ALL EXP cards",
+    "infoMessage": "Exchange for 10 ★4 ALL EXP cards",
+    "warningMessage": "",
+    "imageId": 14,
+    "bgImageId": 0,
+    "openedAt": 1622505600,
+    "closedAt": 1625097599
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
       100
     ],
     "targetIds": [
@@ -6241,6 +6439,105 @@
     "bgImageId": 0,
     "openedAt": 1619827200,
     "closedAt": 1622505599
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      100
+    ],
+    "targetIds": [
+      5000
+    ],
+    "script": {},
+    "id": 18041,
+    "baseShopId": 18041,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 20,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Quick Code Opener",
+    "detail": "Exchange for [Command Code Slot Release Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1622505600,
+    "closedAt": 1625097599
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      100
+    ],
+    "targetIds": [
+      5001
+    ],
+    "script": {},
+    "id": 18042,
+    "baseShopId": 18042,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 21,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Arts Code Opener",
+    "detail": "Exchange for [Command Code Slot Release Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1622505600,
+    "closedAt": 1625097599
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      100
+    ],
+    "targetIds": [
+      5002
+    ],
+    "script": {},
+    "id": 18043,
+    "baseShopId": 18043,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 22,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Buster Code Opener",
+    "detail": "Exchange for [Command Code Slot Release Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1622505600,
+    "closedAt": 1625097599
   },
   {
     "itemIds": [
@@ -14293,6 +14590,72 @@
     "bgImageId": 0,
     "openedAt": 1620964800,
     "closedAt": 1622174399
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      603600
+    ],
+    "script": {},
+    "id": 4000347,
+    "baseShopId": 4000347,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 2450,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 0,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Li Shuwen",
+    "detail": "Exchange for ★5 Servant",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1622174400,
+    "closedAt": 1622606399
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      603600
+    ],
+    "script": {},
+    "id": 4000348,
+    "baseShopId": 4000348,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 2450,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 0,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Li Shuwen",
+    "detail": "Exchange for ★5 Servant",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1622865600,
+    "closedAt": 1623383999
   },
   {
     "itemIds": [
@@ -31882,6 +32245,204 @@
     "bgImageId": 0,
     "openedAt": 1621036800,
     "closedAt": 1623715199
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      3
+    ],
+    "targetIds": [
+      1000
+    ],
+    "script": {},
+    "id": 6000306,
+    "baseShopId": 6000306,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 30,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Lantern of Chaldea",
+    "detail": "Exchange for [Bond Limit Release Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1623715200,
+    "closedAt": 1626307199
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      5003
+    ],
+    "script": {},
+    "id": 6000307,
+    "baseShopId": 6000307,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 31,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 3,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Code Remover",
+    "detail": "Exchange for [Command Code Detacher Item]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1623715200,
+    "closedAt": 1626307199
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      5
+    ],
+    "targetIds": [
+      6999
+    ],
+    "script": {},
+    "id": 6000308,
+    "baseShopId": 6000308,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 32,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Crystallized Lore",
+    "detail": "Exchange for [Skill up Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1623715200,
+    "closedAt": 1626307199
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      3
+    ],
+    "targetIds": [
+      9570400
+    ],
+    "script": {},
+    "id": 6000309,
+    "baseShopId": 6000309,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 33,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Hero Crystal: Meteor Fou",
+    "detail": "Exchange for one ★4 ALL HP Up card",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1623715200,
+    "closedAt": 1626307199
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      3
+    ],
+    "targetIds": [
+      9670400
+    ],
+    "script": {},
+    "id": 6000310,
+    "baseShopId": 6000310,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 34,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Hero Crystal: Corona Fou",
+    "detail": "Exchange for one ★4 ALL ATK Up card",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1623715200,
+    "closedAt": 1626307199
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      4
+    ],
+    "script": {},
+    "id": 6000311,
+    "baseShopId": 6000311,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 35,
+    "purchaseType": 1,
+    "setNum": 20000,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 5,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Friend Points",
+    "detail": "Exchange for 20,000 Friend Points",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1623715200,
+    "closedAt": 1626307199
   },
   {
     "itemIds": [

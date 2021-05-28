@@ -22973,7 +22973,7 @@
     "targetType": 0,
     "applyTarget": 3,
     "popupIconId": 324,
-    "popupText": "Critical Strength Up (Quick)",
+    "popupText": "Critical STR Up (Quick)",
     "categoryId": 10401
   },
   {
@@ -22992,7 +22992,7 @@
     "targetType": 0,
     "applyTarget": 3,
     "popupIconId": 324,
-    "popupText": "Critical Strength Up (Quick)",
+    "popupText": "Critical STR Up (Quick)",
     "categoryId": 10401
   },
   {
@@ -23011,7 +23011,7 @@
     "targetType": 0,
     "applyTarget": 3,
     "popupIconId": 324,
-    "popupText": "Critical Strength Up (Quick)",
+    "popupText": "Critical STR Up (Quick)",
     "categoryId": 10401
   },
   {
@@ -37753,7 +37753,7 @@
     "targetType": 0,
     "applyTarget": 3,
     "popupIconId": 324,
-    "popupText": "Critical Up (Buster)",
+    "popupText": "Critical STR Up (Buster)",
     "categoryId": 0
   },
   {
@@ -37772,7 +37772,7 @@
     "targetType": 0,
     "applyTarget": 3,
     "popupIconId": 324,
-    "popupText": "Critical Up (Buster)",
+    "popupText": "Critical STR Up (Buster)",
     "categoryId": 0
   },
   {
@@ -37791,7 +37791,7 @@
     "targetType": 0,
     "applyTarget": 3,
     "popupIconId": 324,
-    "popupText": "Critical Up (Buster)",
+    "popupText": "Critical STR Up (Buster)",
     "categoryId": 0
   },
   {
@@ -41605,7 +41605,7 @@
     "targetType": 1,
     "applyTarget": 3,
     "popupIconId": 324,
-    "popupText": "Critical Strength Up (Quick)",
+    "popupText": "Critical STR Up (Quick)",
     "categoryId": 0
   },
   {
@@ -41624,7 +41624,7 @@
     "targetType": 1,
     "applyTarget": 3,
     "popupIconId": 324,
-    "popupText": "Critical Strength Up (Quick)",
+    "popupText": "Critical STR Up (Quick)",
     "categoryId": 0
   },
   {
@@ -41643,7 +41643,7 @@
     "targetType": 1,
     "applyTarget": 3,
     "popupIconId": 324,
-    "popupText": "Critical Strength Up (Quick)",
+    "popupText": "Critical STR Up (Quick)",
     "categoryId": 0
   },
   {
@@ -62706,6 +62706,63 @@
     "categoryId": 0
   },
   {
+    "vals": [
+      1624
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      330
+    ],
+    "popupTextColor": 2,
+    "id": 3640,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 324,
+    "popupText": "Critical STR Up (Arts)",
+    "categoryId": 10401
+  },
+  {
+    "vals": [
+      1624
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 3641,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 324,
+    "popupText": "Critical STR Up (Arts)",
+    "categoryId": 10401
+  },
+  {
+    "vals": [
+      1624
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 3642,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 324,
+    "popupText": "Critical STR Up (Arts)",
+    "categoryId": 10401
+  },
+  {
     "vals": [],
     "tvals": [],
     "questTvals": [],
@@ -62721,6 +62778,185 @@
     "popupIconId": 0,
     "popupText": "None",
     "categoryId": 40207
+  },
+  {
+    "vals": [
+      563
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 1,
+    "id": 3644,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 319,
+    "popupText": "Charge Plus\nEach Turn",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1404
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      333
+    ],
+    "popupTextColor": 2,
+    "id": 3645,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 301,
+    "popupText": "DEF Up",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1404
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      334
+    ],
+    "popupTextColor": 2,
+    "id": 3646,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 301,
+    "popupText": "DEF Up",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1404
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 3647,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 301,
+    "popupText": "DEF Up",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1627
+    ],
+    "tvals": [
+      102900
+    ],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 3658,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 7,
+    "applyTarget": 3,
+    "popupIconId": 314,
+    "popupText": "Buster Up",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1628
+    ],
+    "tvals": [
+      102900
+    ],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 3659,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 7,
+    "applyTarget": 3,
+    "popupIconId": 324,
+    "popupText": "Critical Up",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1629
+    ],
+    "tvals": [
+      102900
+    ],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 3660,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 7,
+    "applyTarget": 3,
+    "popupIconId": 310,
+    "popupText": "NP Strength Up",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1630
+    ],
+    "tvals": [
+      102900
+    ],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 1,
+    "id": 3661,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 7,
+    "applyTarget": 1,
+    "popupIconId": 319,
+    "popupText": "NP Gain\nPer Turn",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1631
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 1,
+    "id": 3662,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 512,
+    "popupText": "NP Sealed",
+    "categoryId": 0
   },
   {
     "vals": [
