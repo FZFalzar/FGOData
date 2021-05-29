@@ -21153,6 +21153,17 @@
     "displayType": 1
   },
   {
+    "questId": 94059124,
+    "phase": 1,
+    "idx": 1,
+    "message": "【復刻:サーヴァント・サマーキャンプ！ \nライト版】は復刻イベントです。\n\n過去の【サーヴァント・サマーキャンプ！】で\n『聖杯』\nを入手している場合、本イベントでは\n『伝承結晶』\nに置き換わります。",
+    "condType": 25,
+    "targetId": 94051424,
+    "targetNum": 1,
+    "frequencyType": 1,
+    "displayType": 1
+  },
+  {
     "questId": 94059150,
     "phase": 1,
     "idx": 1,
@@ -21263,8 +21274,52 @@
     "displayType": 2
   },
   {
+    "questId": 94059202,
+    "phase": 1,
+    "idx": 1,
+    "message": "このクエストでは\nパーティ編成はバトルの直前に行います。\n\nクエストを開始しますか？",
+    "condType": 0,
+    "targetId": 0,
+    "targetNum": 0,
+    "frequencyType": 3,
+    "displayType": 1
+  },
+  {
     "questId": 94059204,
     "phase": 1,
+    "idx": 1,
+    "message": "このクエストでは\nパーティ編成はバトルの直前に行います。\n\nクエストを開始しますか？",
+    "condType": 0,
+    "targetId": 0,
+    "targetNum": 0,
+    "frequencyType": 3,
+    "displayType": 1
+  },
+  {
+    "questId": 94059205,
+    "phase": 1,
+    "idx": 1,
+    "message": "このクエストでは\nパーティ編成はバトルの直前に行います。\n\nクエストを開始しますか？",
+    "condType": 0,
+    "targetId": 0,
+    "targetNum": 0,
+    "frequencyType": 3,
+    "displayType": 1
+  },
+  {
+    "questId": 94059206,
+    "phase": 1,
+    "idx": 1,
+    "message": "このクエストでは\nパーティ編成はバトルの直前に行います。\n\nクエストを開始しますか？",
+    "condType": 0,
+    "targetId": 0,
+    "targetNum": 0,
+    "frequencyType": 3,
+    "displayType": 1
+  },
+  {
+    "questId": 94059206,
+    "phase": 2,
     "idx": 1,
     "message": "このクエストでは\nパーティ編成はバトルの直前に行います。\n\nクエストを開始しますか？",
     "condType": 0,
@@ -21347,6 +21402,17 @@
     "condType": 0,
     "targetId": 0,
     "targetNum": 0,
+    "frequencyType": 3,
+    "displayType": 1
+  },
+  {
+    "questId": 94059601,
+    "phase": 1,
+    "idx": 0,
+    "message": "～ 注意 ～\n\n「【高難易度】炎天下の暴れん坊！」は\n繰り返し挑戦可能なクエストですが、\n絆ポイント、EXP、戦利品、クリア報酬を\n獲得できるのは1回目のクリア時のみとなります。\n\nそれでも挑戦しますか？",
+    "condType": 25,
+    "targetId": 94059601,
+    "targetNum": 1,
     "frequencyType": 3,
     "displayType": 1
   }
