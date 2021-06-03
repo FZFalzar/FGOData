@@ -152,6 +152,54 @@
     "noticeMessage": "Only 2 Servants can be deployed."
   },
   {
+    "questId": 3000403,
+    "phase": 1,
+    "restrictionId": 3000401,
+    "frequencyType": 2,
+    "dialogMessage": "To begin this Quest, three Servants need to be set as Starting Members.",
+    "noticeMessage": "Mash Only"
+  },
+  {
+    "questId": 3000403,
+    "phase": 1,
+    "restrictionId": 3000402,
+    "frequencyType": 0,
+    "dialogMessage": "",
+    "noticeMessage": ""
+  },
+  {
+    "questId": 3000403,
+    "phase": 1,
+    "restrictionId": 3000403,
+    "frequencyType": 0,
+    "dialogMessage": "",
+    "noticeMessage": ""
+  },
+  {
+    "questId": 3000403,
+    "phase": 2,
+    "restrictionId": 3000401,
+    "frequencyType": 2,
+    "dialogMessage": "To begin this Quest, three Servants need to be set as Starting Members.",
+    "noticeMessage": "Mash Only"
+  },
+  {
+    "questId": 3000403,
+    "phase": 2,
+    "restrictionId": 3000402,
+    "frequencyType": 0,
+    "dialogMessage": "",
+    "noticeMessage": ""
+  },
+  {
+    "questId": 3000403,
+    "phase": 2,
+    "restrictionId": 3000403,
+    "frequencyType": 0,
+    "dialogMessage": "",
+    "noticeMessage": ""
+  },
+  {
     "questId": 91102901,
     "phase": 1,
     "restrictionId": 91000007,

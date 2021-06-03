@@ -4006,6 +4006,2745 @@
     "infoText": "Han Xin's Plan \"Stratagem...Attack when Vulnerable\""
   },
   {
+    "vals": [],
+    "avals": [
+      302401,
+      0
+    ],
+    "script": {
+      "forcedSkillSpeed": 1
+    },
+    "id": 302400,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000227,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      302402,
+      0
+    ],
+    "script": {},
+    "id": 302401,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000228,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 302402,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      302416,
+      0
+    ],
+    "script": {
+      "forcedSkillSpeed": 1,
+      "voicePlay": "ChrVoice_7100400:0_E200",
+      "enemyMasterEffectType": 2
+    },
+    "id": 302415,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000229,
+    "infoText": "I order you with my Command Spell...\nRegain your power!"
+  },
+  {
+    "vals": [
+      2433
+    ],
+    "avals": [
+      302417,
+      0
+    ],
+    "script": {
+      "forcedSkillSpeed": 1,
+      "voicePlay": "ChrVoice_7100400:0_E210",
+      "enemyMasterEffectType": 2
+    },
+    "id": 302416,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 1000230,
+    "infoText": "I order you with my Command Spell...\nProtect the Tree of Emptiness!"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 302416,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2433
+    ],
+    "avals": [
+      302418,
+      0
+    ],
+    "script": {},
+    "id": 302417,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 1000233,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 302417,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2434
+    ],
+    "avals": [
+      302419,
+      0
+    ],
+    "script": {
+      "forcedSkillSpeed": 1,
+      "voicePlay": "ChrVoice_7100400:0_E220",
+      "enemyMasterEffectType": 2
+    },
+    "id": 302418,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 1000231,
+    "infoText": "I order you with my Command Spell...\nRage against your fate!"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 302418,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 302419,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      302431,
+      0
+    ],
+    "script": {},
+    "id": 302430,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000232,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 302431,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      302596,
+      0
+    ],
+    "script": {
+      "forcedSkillSpeed": 1
+    },
+    "id": 302595,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000242,
+    "infoText": "No Reason to Reach God"
+  },
+  {
+    "vals": [],
+    "avals": [
+      302597,
+      0
+    ],
+    "script": {},
+    "id": 302596,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000293,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 302597,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 4,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      0
+    ],
+    "avals": [
+      302598,
+      0
+    ],
+    "script": {},
+    "id": 302597,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 4,
+    "priority": 100,
+    "probability": 100,
+    "cond": 70,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      302597,
+      0
+    ],
+    "script": {},
+    "id": 302598,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      5
+    ],
+    "avals": [
+      302599,
+      0
+    ],
+    "script": {},
+    "id": 302598,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 100,
+    "probability": 100,
+    "cond": 70,
+    "aiActId": 1009,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 302599,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1009,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      302776,
+      0
+    ],
+    "script": {},
+    "id": 302775,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000242,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      1000
+    ],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 302776,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 100,
+    "probability": 100,
+    "cond": 56,
+    "aiActId": 1000253,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 302776,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 1,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      1000
+    ],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 302790,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 100,
+    "probability": 100,
+    "cond": 56,
+    "aiActId": 1000254,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 302790,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 1,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      302806,
+      0
+    ],
+    "script": {},
+    "id": 302805,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000249,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      302807,
+      0
+    ],
+    "script": {},
+    "id": 302806,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000255,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      3
+    ],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 302807,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 100,
+    "probability": 100,
+    "cond": 31,
+    "aiActId": 1000255,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 302807,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 1,
+    "probability": 1,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      8
+    ],
+    "avals": [
+      302808,
+      0
+    ],
+    "script": {},
+    "id": 302807,
+    "idx": 3,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 200,
+    "probability": 100,
+    "cond": 78,
+    "aiActId": 1009,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 302808,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1009,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      302821,
+      0
+    ],
+    "script": {
+      "forcedSkillSpeed": 1
+    },
+    "id": 302820,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000250,
+    "infoText": "Endurance Battle"
+  },
+  {
+    "vals": [],
+    "avals": [
+      302822,
+      0
+    ],
+    "script": {
+      "forcedSkillSpeed": 1
+    },
+    "id": 302821,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000236,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      302823,
+      0
+    ],
+    "script": {},
+    "id": 302822,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000255,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      3
+    ],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 302823,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 100,
+    "probability": 100,
+    "cond": 31,
+    "aiActId": 1000255,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 302823,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 1,
+    "probability": 1,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      8
+    ],
+    "avals": [
+      302824,
+      0
+    ],
+    "script": {},
+    "id": 302823,
+    "idx": 3,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 200,
+    "probability": 100,
+    "cond": 78,
+    "aiActId": 1009,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 302824,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1009,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      302851,
+      0
+    ],
+    "script": {},
+    "id": 302850,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000237,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 302851,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      302866,
+      0
+    ],
+    "script": {},
+    "id": 302865,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000238,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 302866,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      302881,
+      0
+    ],
+    "script": {},
+    "id": 302880,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000239,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 302881,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      302896,
+      0
+    ],
+    "script": {},
+    "id": 302895,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000240,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 302896,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      302911,
+      0
+    ],
+    "script": {},
+    "id": 302910,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000241,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 302911,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      302926,
+      0
+    ],
+    "script": {},
+    "id": 302925,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000242,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 302926,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      302941,
+      0
+    ],
+    "script": {},
+    "id": 302940,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000243,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 302941,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      302956,
+      0
+    ],
+    "script": {},
+    "id": 302955,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000244,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 302956,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      302971,
+      0
+    ],
+    "script": {},
+    "id": 302970,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000245,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 302971,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      302986,
+      0
+    ],
+    "script": {},
+    "id": 302985,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000246,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 302986,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      303001,
+      0
+    ],
+    "script": {},
+    "id": 303000,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000247,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 303001,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      303016,
+      0
+    ],
+    "script": {},
+    "id": 303015,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000248,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 303016,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      303031,
+      0
+    ],
+    "script": {},
+    "id": 303030,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000249,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 303031,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      303046,
+      0
+    ],
+    "script": {},
+    "id": 303045,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000250,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 303046,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      303061,
+      0
+    ],
+    "script": {},
+    "id": 303060,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000242,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      303062,
+      0
+    ],
+    "script": {
+      "forcedSkillSpeed": 1
+    },
+    "id": 303061,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000258,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 303062,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      303076,
+      0
+    ],
+    "script": {
+      "forcedSkillSpeed": 1
+    },
+    "id": 303075,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000259,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 303076,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      303256,
+      0
+    ],
+    "script": {},
+    "id": 303255,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000250,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      303257,
+      0
+    ],
+    "script": {},
+    "id": 303256,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000260,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      303258,
+      0
+    ],
+    "script": {},
+    "id": 303257,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000255,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      3
+    ],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 303258,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 100,
+    "probability": 100,
+    "cond": 31,
+    "aiActId": 1000255,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 303258,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 1,
+    "probability": 1,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      3
+    ],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 303270,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 100,
+    "probability": 100,
+    "cond": 31,
+    "aiActId": 1000255,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 303270,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 1,
+    "probability": 1,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      303286,
+      0
+    ],
+    "script": {},
+    "id": 303285,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000261,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2432
+    ],
+    "avals": [
+      303287,
+      0
+    ],
+    "script": {},
+    "id": 303286,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 200,
+    "probability": 100,
+    "cond": 56,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 303286,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2432
+    ],
+    "avals": [
+      303288,
+      0
+    ],
+    "script": {},
+    "id": 303286,
+    "idx": 3,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 100,
+    "probability": 100,
+    "cond": 56,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 303286,
+    "idx": 4,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2449
+    ],
+    "avals": [
+      303289,
+      0
+    ],
+    "script": {},
+    "id": 303287,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 200,
+    "probability": 100,
+    "cond": -56,
+    "aiActId": 1000315,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      303289,
+      0
+    ],
+    "script": {},
+    "id": 303287,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2449
+    ],
+    "avals": [
+      303289,
+      0
+    ],
+    "script": {},
+    "id": 303288,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 100,
+    "probability": 100,
+    "cond": -56,
+    "aiActId": 1000315,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      303286,
+      0
+    ],
+    "script": {},
+    "id": 303288,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 303289,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      303301,
+      0
+    ],
+    "script": {},
+    "id": 303300,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000261,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2432
+    ],
+    "avals": [
+      303302,
+      0
+    ],
+    "script": {},
+    "id": 303301,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 200,
+    "probability": 100,
+    "cond": 56,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 303301,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2432
+    ],
+    "avals": [
+      303303,
+      0
+    ],
+    "script": {},
+    "id": 303301,
+    "idx": 3,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 100,
+    "probability": 100,
+    "cond": 56,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 303301,
+    "idx": 4,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2449
+    ],
+    "avals": [
+      303304,
+      0
+    ],
+    "script": {},
+    "id": 303302,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 200,
+    "probability": 100,
+    "cond": -56,
+    "aiActId": 1000315,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      303304,
+      0
+    ],
+    "script": {},
+    "id": 303302,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2449
+    ],
+    "avals": [
+      303304,
+      0
+    ],
+    "script": {},
+    "id": 303303,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 100,
+    "probability": 100,
+    "cond": -56,
+    "aiActId": 1000315,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      303301,
+      0
+    ],
+    "script": {},
+    "id": 303303,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 303304,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      1000
+    ],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 303420,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 100,
+    "probability": 100,
+    "cond": 56,
+    "aiActId": 1000257,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 303420,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      1000
+    ],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 303435,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 100,
+    "probability": 100,
+    "cond": 56,
+    "aiActId": 1000256,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 303435,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      303451,
+      0
+    ],
+    "script": {},
+    "id": 303450,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000251,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 303451,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      303466,
+      0
+    ],
+    "script": {},
+    "id": 303465,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000252,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 303466,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2432
+    ],
+    "avals": [
+      303481,
+      0
+    ],
+    "script": {},
+    "id": 303480,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 200,
+    "probability": 100,
+    "cond": 56,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 303480,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2432
+    ],
+    "avals": [
+      303482,
+      0
+    ],
+    "script": {},
+    "id": 303480,
+    "idx": 3,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 100,
+    "probability": 100,
+    "cond": 56,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 303480,
+    "idx": 4,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2449
+    ],
+    "avals": [
+      303483,
+      0
+    ],
+    "script": {},
+    "id": 303481,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 200,
+    "probability": 100,
+    "cond": -56,
+    "aiActId": 1000315,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      303483,
+      0
+    ],
+    "script": {},
+    "id": 303481,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2449
+    ],
+    "avals": [
+      303483,
+      0
+    ],
+    "script": {},
+    "id": 303482,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 100,
+    "probability": 100,
+    "cond": -56,
+    "aiActId": 1000315,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      303480,
+      0
+    ],
+    "script": {},
+    "id": 303482,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 303483,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2432
+    ],
+    "avals": [
+      303496,
+      0
+    ],
+    "script": {},
+    "id": 303495,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 200,
+    "probability": 100,
+    "cond": 56,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 303495,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2432
+    ],
+    "avals": [
+      303497,
+      0
+    ],
+    "script": {},
+    "id": 303495,
+    "idx": 3,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 100,
+    "probability": 100,
+    "cond": 56,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 303495,
+    "idx": 4,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2450
+    ],
+    "avals": [
+      303498,
+      0
+    ],
+    "script": {},
+    "id": 303496,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 200,
+    "probability": 100,
+    "cond": -56,
+    "aiActId": 1000316,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      303498,
+      0
+    ],
+    "script": {},
+    "id": 303496,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2450
+    ],
+    "avals": [
+      303498,
+      0
+    ],
+    "script": {},
+    "id": 303497,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 100,
+    "probability": 100,
+    "cond": -56,
+    "aiActId": 1000316,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      303495,
+      0
+    ],
+    "script": {},
+    "id": 303497,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 303498,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      303511,
+      0
+    ],
+    "script": {
+      "forcedSkillSpeed": 1
+    },
+    "id": 303510,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000240,
+    "infoText": "Endurance Battle"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 303511,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2441
+    ],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 303511,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 200,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 1009,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      303526,
+      0
+    ],
+    "script": {},
+    "id": 303525,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000292,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 303526,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      303541,
+      0
+    ],
+    "script": {},
+    "id": 303540,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000293,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 303541,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      303556,
+      0
+    ],
+    "script": {},
+    "id": 303555,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000240,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      303557,
+      0
+    ],
+    "script": {},
+    "id": 303556,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000282,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2442
+    ],
+    "avals": [
+      303558,
+      0
+    ],
+    "script": {},
+    "id": 303557,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 200,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 1000283,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 303557,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2443
+    ],
+    "avals": [
+      303559,
+      0
+    ],
+    "script": {},
+    "id": 303558,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 200,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 1000284,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 303558,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2444
+    ],
+    "avals": [
+      303560,
+      0
+    ],
+    "script": {},
+    "id": 303559,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 200,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 1000285,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 303559,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2445
+    ],
+    "avals": [
+      303561,
+      0
+    ],
+    "script": {},
+    "id": 303560,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 200,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 1000286,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 303560,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 303561,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      303691,
+      0
+    ],
+    "script": {},
+    "id": 303690,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000317,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      303692,
+      0
+    ],
+    "script": {},
+    "id": 303691,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000318,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 303692,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 50,
+    "cond": 0,
+    "aiActId": 1000317,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 303692,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 50,
+    "cond": 0,
+    "aiActId": 1000318,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      303751,
+      0
+    ],
+    "script": {},
+    "id": 303750,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000250,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      303752,
+      0
+    ],
+    "script": {},
+    "id": 303751,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000261,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      303753,
+      0
+    ],
+    "script": {},
+    "id": 303752,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000255,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      3
+    ],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 303753,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 100,
+    "probability": 100,
+    "cond": 31,
+    "aiActId": 1000255,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 303753,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 1,
+    "probability": 1,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      8
+    ],
+    "avals": [
+      303754,
+      0
+    ],
+    "script": {},
+    "id": 303753,
+    "idx": 3,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 200,
+    "probability": 100,
+    "cond": 78,
+    "aiActId": 1009,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 303754,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1009,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      303766,
+      0
+    ],
+    "script": {
+      "forcedSkillSpeed": 1
+    },
+    "id": 303765,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000320,
+    "infoText": "Endurance Battle"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 303766,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
     "vals": [
       2199
     ],
@@ -5360,7 +8099,7 @@
     "id": 1000000,
     "idx": 1,
     "actNum": -1,
-    "timing": 0,
+    "timing": 3,
     "priority": 1,
     "probability": 80,
     "cond": 0,
@@ -5377,7 +8116,7 @@
     "id": 1000000,
     "idx": 2,
     "actNum": -1,
-    "timing": 0,
+    "timing": 3,
     "priority": 1,
     "probability": 20,
     "cond": 0,

@@ -23353,6 +23353,873 @@
     "effectId": 0
   },
   {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1632,
+    "buffGroup": 600,
+    "type": 104,
+    "name": "Complete Devotion",
+    "detail": "When HP reaches 0, recover HP and survive",
+    "iconId": 304,
+    "maxRate": 1000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1633,
+    "buffGroup": 0,
+    "type": 9,
+    "name": "ATK Up",
+    "detail": "Increase ATK",
+    "iconId": 300,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1634,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "Spirit Origin Limitation",
+    "detail": "When HP reaches 0, inflict damage to enemies",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1635,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "Super Unified Divinity",
+    "detail": "Gain resistance to all attacks",
+    "iconId": 334,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1636,
+    "buffGroup": 0,
+    "type": 23,
+    "name": "Damage Cut",
+    "detail": "Apply Damage Cut",
+    "iconId": 301,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1637,
+    "buffGroup": 0,
+    "type": 85,
+    "name": "Divine Water of Healing",
+    "detail": "Recover HP at the end of each turn & decrease amount of HP recovered if Poisoned [Demerit]",
+    "iconId": 318,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1638,
+    "buffGroup": 0,
+    "type": 65,
+    "name": "",
+    "detail": "",
+    "iconId": 527,
+    "maxRate": 50000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006,
+      3028
+    ],
+    "tvals": [
+      3005
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      3005
+    ],
+    "script": {},
+    "id": 1639,
+    "buffGroup": 0,
+    "type": 112,
+    "name": "Strength Up (Debuff)",
+    "detail": "Increase damage dealt against [Debuffed]",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [
+      5000,
+      4002
+    ],
+    "ckSelfIndv": [
+      4002
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1640,
+    "buffGroup": 0,
+    "type": 137,
+    "name": "Bonus Effect with Buster (DEF Down)",
+    "detail": "Reduce target enemy's DEF when attacking with Buster Cards",
+    "iconId": 528,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [
+      5000,
+      4003
+    ],
+    "ckSelfIndv": [
+      4003
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1641,
+    "buffGroup": 0,
+    "type": 137,
+    "name": "Bonus Effect with Quick (Critical Strength Up)",
+    "detail": "Increase your Critical Strength when attacking with Quick Cards",
+    "iconId": 528,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4003
+    ],
+    "ckSelfIndv": [
+      4003
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1642,
+    "buffGroup": 0,
+    "type": 60,
+    "name": "????",
+    "detail": "Decrease Quick Card & Arts Card & Buster Card effectiveness & decrease amount of HP recovered & decrease Debuff Resist",
+    "iconId": 515,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4001
+    ],
+    "ckSelfIndv": [
+      4001
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1643,
+    "buffGroup": 0,
+    "type": 60,
+    "name": "Arts Down",
+    "detail": "Decrease Arts Card effectiveness",
+    "iconId": 516,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4002
+    ],
+    "ckSelfIndv": [
+      4002
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1644,
+    "buffGroup": 0,
+    "type": 60,
+    "name": "Buster Down",
+    "detail": "Decrease Buster Card effectiveness",
+    "iconId": 517,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1645,
+    "buffGroup": 0,
+    "type": 65,
+    "name": "HP Recover Down",
+    "detail": "Decrease amount of HP recovered",
+    "iconId": 527,
+    "maxRate": 50000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4003
+    ],
+    "ckSelfIndv": [
+      4003
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1646,
+    "buffGroup": 0,
+    "type": 60,
+    "name": "Unforgiving World",
+    "detail": "Decrease Quick Card & Arts Card & Buster Card effectiveness & decrease amount of HP recovered & decrease Debuff Resist",
+    "iconId": 515,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4001
+    ],
+    "ckSelfIndv": [
+      4001
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1647,
+    "buffGroup": 0,
+    "type": 60,
+    "name": "Unforgiving World (-1)",
+    "detail": "Decrease Arts Card & Buster Card effectiveness & decrease amount of HP recovered & decrease Debuff Resist",
+    "iconId": 516,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4001
+    ],
+    "ckSelfIndv": [
+      4001
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1648,
+    "buffGroup": 0,
+    "type": 60,
+    "name": "Unforgiving World (-2)",
+    "detail": "Decrease Arts Card & Buster Card effectiveness & decrease amount of HP recovered",
+    "iconId": 516,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4001
+    ],
+    "ckSelfIndv": [
+      4001
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1649,
+    "buffGroup": 0,
+    "type": 60,
+    "name": "Unforgiving World (-3)",
+    "detail": "Decrease Arts Card & Buster Card effectiveness",
+    "iconId": 516,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4002
+    ],
+    "ckSelfIndv": [
+      4002
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1650,
+    "buffGroup": 0,
+    "type": 60,
+    "name": "Unforgiving World (-3)",
+    "detail": "Decrease Buster Card effectiveness & decrease Debuff Resist",
+    "iconId": 517,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      3005
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      3005
+    ],
+    "script": {},
+    "id": 1651,
+    "buffGroup": 0,
+    "type": 30,
+    "name": "Unforgiving World (-4)",
+    "detail": "Decrease debuff resistance",
+    "iconId": 506,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1652,
+    "buffGroup": 0,
+    "type": 63,
+    "name": "Yuga of the End",
+    "detail": "Decrease NP amount gained",
+    "iconId": 509,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1653,
+    "buffGroup": 0,
+    "type": 64,
+    "name": "Yuga of Peace",
+    "detail": "Increase amount of HP recovered & recover HP at end of turn",
+    "iconId": 328,
+    "maxRate": 50000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1654,
+    "buffGroup": 0,
+    "type": 85,
+    "name": "\"...I can't see up ahead...\"",
+    "detail": "Apply Evade to a single enemy at the end of each turn [Demerit]",
+    "iconId": 537,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005,
+      3015
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1655,
+    "buffGroup": 0,
+    "type": 8,
+    "name": "Burn",
+    "detail": "Lose HP at end of each turn",
+    "iconId": 513,
+    "maxRate": 0,
+    "effectId": 17122
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1656,
+    "buffGroup": 0,
+    "type": 42,
+    "name": "DEF Up",
+    "detail": "Increase DEF",
+    "iconId": 301,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1657,
+    "buffGroup": 0,
+    "type": 64,
+    "name": "HP Recover Up",
+    "detail": "Increase amount of HP recovered by 1000%",
+    "iconId": 328,
+    "maxRate": 50000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1658,
+    "buffGroup": 0,
+    "type": 15,
+    "name": "NP Strength Up",
+    "detail": "Increase NP damage",
+    "iconId": 310,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2436
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1659,
+    "buffGroup": 0,
+    "type": 10,
+    "name": "ATK Down",
+    "detail": "Decrease ATK",
+    "iconId": 503,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2436
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1660,
+    "buffGroup": 0,
+    "type": 9,
+    "name": "ATK Up",
+    "detail": "Increase ATK",
+    "iconId": 300,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2436
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1661,
+    "buffGroup": 0,
+    "type": 18,
+    "name": "Critical Up",
+    "detail": "Increase Critical Hit damage",
+    "iconId": 324,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2436
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1662,
+    "buffGroup": 0,
+    "type": 70,
+    "name": "Critical Hit Rate Up",
+    "detail": "Increase Critical Hit rate",
+    "iconId": 327,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2436
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1663,
+    "buffGroup": 0,
+    "type": 85,
+    "name": "Triggers Each Turn (Debuff)",
+    "detail": "Stun a single enemy at end of each turn",
+    "iconId": 343,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1664,
+    "buffGroup": 0,
+    "type": 85,
+    "name": "Triggers Each Turn (HP Recovery)",
+    "detail": "Recover all allies' HP at the end of turn ",
+    "iconId": 343,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1665,
+    "buffGroup": 0,
+    "type": 9,
+    "name": "Law of the Deceased",
+    "detail": "Increase ATK",
+    "iconId": 300,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1666,
+    "buffGroup": 200,
+    "type": 24,
+    "name": "Protection of Vayu",
+    "detail": "Chance to reduce damage taken to 0",
+    "iconId": 305,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2446
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1667,
+    "buffGroup": 900,
+    "type": 34,
+    "name": "Indelible Discomfort",
+    "detail": "Unable to use Noble Phantasms [Demerit]",
+    "iconId": 512,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1668,
+    "buffGroup": 0,
+    "type": 9,
+    "name": "Flame of Rage",
+    "detail": "Increase ATK",
+    "iconId": 300,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1669,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "Super Unified Divinity (Ruin)",
+    "detail": "Gain resistance to all attacks",
+    "iconId": 334,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2447
+    ],
+    "tvals": [
+      4007
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4007
+    ],
+    "script": {},
+    "id": 1670,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "Asteroid",
+    "detail": "Gain resistance against Noble Phantasms",
+    "iconId": 334,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2448
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1671,
+    "buffGroup": 0,
+    "type": 42,
+    "name": "Nebula",
+    "detail": "Increase DEF",
+    "iconId": 301,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1672,
+    "buffGroup": 0,
+    "type": 16,
+    "name": "NP Strength Down",
+    "detail": "Significantly decrease strength of Noble Phantasm attacks",
+    "iconId": 508,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1673,
+    "buffGroup": 0,
+    "type": 9,
+    "name": "ATK Up",
+    "detail": "Increase ATK",
+    "iconId": 300,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1674,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "Strength Up",
+    "detail": "Increase damage dealt",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1675,
+    "buffGroup": 0,
+    "type": 7,
+    "name": "HP Recovery Per Turn",
+    "detail": "Recover HP at end of each turn",
+    "iconId": 318,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1676,
+    "buffGroup": 600,
+    "type": 104,
+    "name": "Guts",
+    "detail": "When HP reaches 0, recover HP and survive",
+    "iconId": 304,
+    "maxRate": 1000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1677,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "Special Resist Up",
+    "detail": "Gain resistance to all attacks",
+    "iconId": 334,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1678,
+    "buffGroup": 0,
+    "type": 85,
+    "name": "Complete Devotion",
+    "detail": "Increase ATK each turn",
+    "iconId": 343,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      3005
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      3005
+    ],
+    "script": {},
+    "id": 1679,
+    "buffGroup": 0,
+    "type": 31,
+    "name": "Super Unified Divinity",
+    "detail": "Immune to all debuffs",
+    "iconId": 322,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      3005
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      3005
+    ],
+    "script": {},
+    "id": 1680,
+    "buffGroup": 0,
+    "type": 31,
+    "name": "Super Unified Divinity (Ruin)",
+    "detail": "Immune to all debuffs",
+    "iconId": 322,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "missText": "Critical MISS"
+    },
+    "id": 1681,
+    "buffGroup": 0,
+    "type": 71,
+    "name": "Critical Hit Rate Down",
+    "detail": "Decrease Critical Hit rate",
+    "iconId": 523,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1682,
+    "buffGroup": 0,
+    "type": 72,
+    "name": "Super Unified Divinity",
+    "detail": "Ignore Evade and Invincible to deal damage",
+    "iconId": 329,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
     "vals": [
       3004
     ],

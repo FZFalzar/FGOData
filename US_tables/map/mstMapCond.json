@@ -220,6 +220,216 @@
     "condNum": 0
   },
   {
+    "id": 3000401,
+    "mapId": 30401,
+    "priority": 1,
+    "changeType": 5,
+    "targetId": 662,
+    "condType": 1,
+    "condTargetId": 3000402,
+    "condNum": 0
+  },
+  {
+    "id": 3000402,
+    "mapId": 30401,
+    "priority": 2,
+    "changeType": 6,
+    "targetId": 440,
+    "condType": 1,
+    "condTargetId": 3000402,
+    "condNum": 0
+  },
+  {
+    "id": 3000403,
+    "mapId": 30401,
+    "priority": 3,
+    "changeType": 3,
+    "targetId": 332,
+    "condType": 1,
+    "condTargetId": 3000402,
+    "condNum": 0
+  },
+  {
+    "id": 3000404,
+    "mapId": 30401,
+    "priority": 4,
+    "changeType": 2,
+    "targetId": 30403,
+    "condType": 46,
+    "condTargetId": 3000405,
+    "condNum": 1
+  },
+  {
+    "id": 3000405,
+    "mapId": 30401,
+    "priority": 5,
+    "changeType": 3,
+    "targetId": 333,
+    "condType": 46,
+    "condTargetId": 3000405,
+    "condNum": 1
+  },
+  {
+    "id": 3000406,
+    "mapId": 30401,
+    "priority": 6,
+    "changeType": 2,
+    "targetId": 30401,
+    "condType": 46,
+    "condTargetId": 3000407,
+    "condNum": 1
+  },
+  {
+    "id": 3000407,
+    "mapId": 30401,
+    "priority": 7,
+    "changeType": 3,
+    "targetId": 331,
+    "condType": 46,
+    "condTargetId": 3000407,
+    "condNum": 1
+  },
+  {
+    "id": 3000408,
+    "mapId": 30401,
+    "priority": 8,
+    "changeType": 2,
+    "targetId": 30402,
+    "condType": 46,
+    "condTargetId": 3000412,
+    "condNum": 1
+  },
+  {
+    "id": 3000409,
+    "mapId": 30401,
+    "priority": 9,
+    "changeType": 3,
+    "targetId": 332,
+    "condType": 46,
+    "condTargetId": 3000412,
+    "condNum": 1
+  },
+  {
+    "id": 3000410,
+    "mapId": 30401,
+    "priority": 10,
+    "changeType": 2,
+    "targetId": 30403,
+    "condType": 46,
+    "condTargetId": 3000414,
+    "condNum": 2
+  },
+  {
+    "id": 3000411,
+    "mapId": 30401,
+    "priority": 11,
+    "changeType": 3,
+    "targetId": 333,
+    "condType": 46,
+    "condTargetId": 3000414,
+    "condNum": 2
+  },
+  {
+    "id": 3000412,
+    "mapId": 30401,
+    "priority": 12,
+    "changeType": 2,
+    "targetId": 30401,
+    "condType": 46,
+    "condTargetId": 3000416,
+    "condNum": 1
+  },
+  {
+    "id": 3000413,
+    "mapId": 30401,
+    "priority": 13,
+    "changeType": 3,
+    "targetId": 331,
+    "condType": 46,
+    "condTargetId": 3000416,
+    "condNum": 2
+  },
+  {
+    "id": 3000414,
+    "mapId": 30401,
+    "priority": 14,
+    "changeType": 2,
+    "targetId": 30402,
+    "condType": 46,
+    "condTargetId": 3000417,
+    "condNum": 1
+  },
+  {
+    "id": 3000415,
+    "mapId": 30401,
+    "priority": 15,
+    "changeType": 3,
+    "targetId": 332,
+    "condType": 46,
+    "condTargetId": 3000417,
+    "condNum": 1
+  },
+  {
+    "id": 3000416,
+    "mapId": 30401,
+    "priority": 16,
+    "changeType": 2,
+    "targetId": 30403,
+    "condType": 46,
+    "condTargetId": 3000419,
+    "condNum": 1
+  },
+  {
+    "id": 3000417,
+    "mapId": 30401,
+    "priority": 17,
+    "changeType": 3,
+    "targetId": 333,
+    "condType": 46,
+    "condTargetId": 3000419,
+    "condNum": 1
+  },
+  {
+    "id": 3000418,
+    "mapId": 30401,
+    "priority": 18,
+    "changeType": 2,
+    "targetId": 30404,
+    "condType": 46,
+    "condTargetId": 3000420,
+    "condNum": 1
+  },
+  {
+    "id": 3000419,
+    "mapId": 30401,
+    "priority": 19,
+    "changeType": 3,
+    "targetId": 334,
+    "condType": 46,
+    "condTargetId": 3000420,
+    "condNum": 1
+  },
+  {
+    "id": 3000420,
+    "mapId": 30401,
+    "priority": 20,
+    "changeType": 2,
+    "targetId": 30402,
+    "condType": 46,
+    "condTargetId": 3000420,
+    "condNum": 6
+  },
+  {
+    "id": 3000421,
+    "mapId": 30401,
+    "priority": 21,
+    "changeType": 3,
+    "targetId": 332,
+    "condType": 46,
+    "condTargetId": 3000420,
+    "condNum": 6
+  },
+  {
     "id": 94011301,
     "mapId": 8113,
     "priority": 1,

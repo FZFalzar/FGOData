@@ -215,6 +215,11 @@
     "detailShort": "Apply Special Attack [Chaotic] (1 turn) <effect increases with Overcharge> & Special Attack [Evil] (1 turn) <effect increases with Overcharge> to yourself + Deal significant damage to a single enemy [{0}]"
   },
   {
+    "id": 103901,
+    "detail": "Deal heavy damage [{0}] & remove ATK buffs & decrease Critical Rate (3 turns) <effect increases with Overcharge> for all enemies",
+    "detailShort": "Deal heavy damage [{0}] & remove ATK buffs & decrease Critical Rate (3 turns) <effect increases with Overcharge> for all enemies"
+  },
+  {
     "id": 200101,
     "detail": "Deal heavy DEF-ignoring damage to all enemies [{0}] & decrease ATK (3 turns) <effect increases with Overcharge> for all enemies",
     "detailShort": "Deal heavy DEF-ignoring damage to all enemies [{0}] & decrease ATK (3 turns) <effect increases with Overcharge> for all enemies"
@@ -433,6 +438,16 @@
     "id": 203201,
     "detail": "Deal heavy damage to all enemies [{0}] + gain C. Stars each turn for yourself (3 turns) <effect increases with Overcharge>",
     "detailShort": "Deal heavy damage to all enemies [{0}] + gain C. Stars each turn for yourself (3 turns) <effect increases with Overcharge>"
+  },
+  {
+    "id": 203301,
+    "detail": "Deal significant damage that gets more powerful when your HP is low [{0}] <strength increases with Overcharge> & remove DEF buffs for a single enemy",
+    "detailShort": "Deal significant damage that gets more powerful when your HP is low [{0}] <strength increases with Overcharge> & remove DEF buffs for a single enemy"
+  },
+  {
+    "id": 203401,
+    "detail": "Apply Sure Hit to yourself (1 turn) + deal significant Special Attack damage to a single enemy with [Evade] (excluding effects that cannot be removed) [{0}] <Special Attack damage increases with Overcharge>  ",
+    "detailShort": "Apply Sure Hit to yourself (1 turn) + Deal significant Special Attack damage to a single enemy with [Evade] (excluding effects that cannot be removed) [{0}] <Special Attack damage increases with Overcharge>  "
   },
   {
     "id": 300101,
@@ -1165,6 +1180,11 @@
     "detailShort": "Deal heavy Special Attack damage [Demonic] [{0}] <Special Attack damage increases with Overcharge> & inflict Nullify Buff (1 turn) to all enemies"
   },
   {
+    "id": 504301,
+    "detail": "",
+    "detailShort": ""
+  },
+  {
     "id": 600101,
     "detail": "Deal significant damage to a single enemy [{0}] + gain large amount of C. Stars <effect increases with Overcharge>",
     "detailShort": "Deal significant damage to a single enemy [{0}] + gain large amount of C. Stars <effect increases with Overcharge>"
@@ -1645,6 +1665,11 @@
     "detailShort": "Increase your NP Strength (1 turn) <effect increases with Overcharge> + deal heavy damage to all enemies [{0}]"
   },
   {
+    "id": 703301,
+    "detail": "",
+    "detailShort": ""
+  },
+  {
     "id": 800100,
     "detail": "Unknown",
     "detailShort": "Unknown"
@@ -1828,6 +1853,11 @@
     "id": 2300298,
     "detail": "Unknown",
     "detailShort": "Unknown"
+  },
+  {
+    "id": 2300301,
+    "detail": "Decrease DEF (3 turns) & deal heavy damage [{0}] to all enemies + Apply Invincible (1 turn) & recover HP <effect increases with Overcharge> for yourself",
+    "detailShort": "Decrease DEF (3 turns) & deal heavy damage [{0}] to all enemies + Apply Invincible (1 turn) & recover HP <effect increases with Overcharge> for yourself"
   },
   {
     "id": 2500101,
@@ -2045,6 +2075,11 @@
     "detailShort": "Increase your Quick, Arts, and Buster Card effectiveness (3 turns) <effect increases with Overcharge> + Deal significant damage [{0}] & high chance to inflict Charm (1 turn) to a single enemy"
   },
   {
+    "id": 9941901,
+    "detail": "Increase your NP Strength (1 turn) <effect increases with Overcharge> + deal heavy damage to all enemies [{0}] & inflict Burn (5 turns) to all enemies ",
+    "detailShort": "Increase your NP Strength (1 turn) <effect increases with Overcharge> + deal heavy damage to all enemies [{0}] & inflict Burn (5 turns) to all enemies "
+  },
+  {
     "id": 9942001,
     "detail": "Increase your Quick Card effectiveness (3 turns) <effect increases with Overcharge> + Deal significant damage [{0}] & high chance to inflict Charm (1 turn) to a single enemy",
     "detailShort": "Increase your Quick Card effectiveness (3 turns) <effect increases with Overcharge> + Deal significant damage [{0}] & high chance to inflict Charm (1 turn) to a single enemy"
@@ -2063,5 +2098,20 @@
     "id": 9942031,
     "detail": "Chance to inflict Stun (1 turn) & Poison [{0}] (3 turns) <effect increases with Overcharge> to all enemies",
     "detailShort": "Chance to inflict Stun (1 turn) & Poison [{0}] (3 turns) <effect increases with Overcharge> to all enemies"
+  },
+  {
+    "id": 9942081,
+    "detail": "",
+    "detailShort": ""
+  },
+  {
+    "id": 9942101,
+    "detail": "Decrease DEF (3 turns) & deal heavy damage [{0}] to all enemies + Apply Invincible (1 turn) & recover HP <effect increases with Overcharge> for yourself",
+    "detailShort": "Decrease DEF (3 turns) & deal heavy damage [{0}] to all enemies + Apply Invincible (1 turn) & recover HP <effect increases with Overcharge> for yourself"
+  },
+  {
+    "id": 9942111,
+    "detail": "Deal heavy damage to all enemies",
+    "detailShort": "Deal heavy damage to all enemies"
   }
 ]
