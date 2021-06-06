@@ -67388,6 +67388,155 @@
   },
   {
     "targetIds": [
+      2001765,
+      2001766,
+      2001767,
+      2001768,
+      2001769,
+      2001770
+    ],
+    "missionId": 2001764,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2002016,
+    "missionTargetId": 100255,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 6,
+    "conditionMessage": "今週のマスターミッションをすべてクリアせよ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001340
+    ],
+    "missionId": 2001765,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2002017,
+    "missionTargetId": 100255,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 3,
+    "conditionMessage": "『セイバー』『アーチャー』『ランサー』クラスのサーヴァントをどれか3騎倒せ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001341
+    ],
+    "missionId": 2001766,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2002018,
+    "missionTargetId": 100255,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 3,
+    "conditionMessage": "『ライダー』『キャスター』『アサシン』『バーサーカー』クラスのサーヴァントをどれか3騎倒せ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001342
+    ],
+    "missionId": 2001767,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2002019,
+    "missionTargetId": 100255,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "『天』の力を持つ敵を15体倒せ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001767
+    ],
+    "missionId": 2001768,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 2002020,
+    "missionTargetId": 100255,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 1,
+    "conditionMessage": "『天』の力を持つ敵を30体倒せ",
+    "closedMessage": "",
+    "flag": 64
+  },
+  {
+    "targetIds": [
+      2001342
+    ],
+    "missionId": 2001768,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2002021,
+    "missionTargetId": 100255,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 30,
+    "conditionMessage": "『天』の力を持つ敵を30体倒せ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001343
+    ],
+    "missionId": 2001769,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2002022,
+    "missionTargetId": 100255,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 2,
+    "conditionMessage": "戦利品で「輝石」「魔石」「秘石」「ピース」「モニュメント」をどれか2個獲得せよ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001769
+    ],
+    "missionId": 2001770,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 2002023,
+    "missionTargetId": 100255,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 1,
+    "conditionMessage": "戦利品で「輝石」「魔石」「秘石」「ピース」「モニュメント」をどれか4個獲得せよ",
+    "closedMessage": "",
+    "flag": 64
+  },
+  {
+    "targetIds": [
+      2001343
+    ],
+    "missionId": 2001770,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2002024,
+    "missionTargetId": 100255,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 4,
+    "conditionMessage": "戦利品で「輝石」「魔石」「秘石」「ピース」「モニュメント」をどれか4個獲得せよ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
       8031002,
       8031003,
       8031004,
