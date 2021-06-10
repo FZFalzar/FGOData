@@ -217471,6 +217471,54 @@
   },
   {
     "funcId": [
+      289,
+      248
+    ],
+    "svals": [
+      "[1000,-1,3]",
+      "[1000,-1,-1,300]"
+    ],
+    "script": {},
+    "skillId": 991814,
+    "lv": 1,
+    "chargeTurn": 0,
+    "skillDetailId": 991814,
+    "priority": 0
+  },
+  {
+    "funcId": [
+      827,
+      866,
+      1007
+    ],
+    "svals": [
+      "[1000,-1,-1,150,OnField:1]",
+      "[1000,-1,-1,150,OnField:1]",
+      "[1000,-1,-1,100,OnField:1]"
+    ],
+    "script": {},
+    "skillId": 991815,
+    "lv": 1,
+    "chargeTurn": 0,
+    "skillDetailId": 991815,
+    "priority": 0
+  },
+  {
+    "funcId": [
+      852
+    ],
+    "svals": [
+      "[1000,-1,-1,300,OnField:1]"
+    ],
+    "script": {},
+    "skillId": 991816,
+    "lv": 1,
+    "chargeTurn": 0,
+    "skillDetailId": 991816,
+    "priority": 0
+  },
+  {
+    "funcId": [
       460,
       336
     ],
