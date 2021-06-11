@@ -1789,6 +1789,46 @@
   },
   {
     "individuality": [],
+    "script": {},
+    "eventId": 0,
+    "eventGroupId": 0,
+    "id": 6549,
+    "name": "赦免の小鐘",
+    "detail": "【スキル強化＆霊基再臨素材】\n 罪人たちの涙。\n 別れの際に遺す小さな鐘。",
+    "imageId": 6549,
+    "bgImageId": 1,
+    "type": 11,
+    "unit": "",
+    "value": 0,
+    "sellQp": 2500,
+    "isSell": true,
+    "priority": 209,
+    "dropPriority": 8106,
+    "startedAt": 946652400,
+    "endedAt": 1910876400
+  },
+  {
+    "individuality": [],
+    "script": {},
+    "eventId": 0,
+    "eventGroupId": 0,
+    "id": 6550,
+    "name": "夢幻の鱗粉",
+    "detail": "【スキル強化＆霊基再臨素材】\n 妖精の羽根から舞い散る鱗粉。\n 様々な『魔法の粉』の原料になる。",
+    "imageId": 6550,
+    "bgImageId": 2,
+    "type": 11,
+    "unit": "",
+    "value": 0,
+    "sellQp": 2500,
+    "isSell": true,
+    "priority": 231,
+    "dropPriority": 8319,
+    "startedAt": 946652400,
+    "endedAt": 1910876400
+  },
+  {
+    "individuality": [],
     "script": {
       "effectId": 1
     },
@@ -18882,7 +18922,7 @@
     "eventGroupId": 0,
     "id": 94060301,
     "name": "霊脈石",
-    "detail": "【第2部 第6章開幕記念限定\nコンティニューアイテム】\nメインストーリーのバトルにおいて\nパーティ全滅時に使用することで、\nパーティを全員復活させることができる。\n\n※使用期限 2021/6/30(水) 23:59",
+    "detail": "【第2部 第6章開幕記念限定\nコンティニューアイテム】\nメインストーリーのバトルにおいて\nパーティ全滅時に使用することで、\nパーティを全員復活させることができる。\n\n※使用期限 2021/7/31(土) 23:59",
     "imageId": 94054401,
     "bgImageId": 3,
     "type": 27,
@@ -18892,7 +18932,7 @@
     "isSell": false,
     "priority": 94060301,
     "dropPriority": 9001,
-    "startedAt": 1622624400,
-    "endedAt": 1625065199
+    "startedAt": 1623411000,
+    "endedAt": 1627743599
   }
 ]

@@ -7614,6 +7614,70 @@
   },
   {
     "individuality": [
+      3000,
+      4007
+    ],
+    "script": {},
+    "id": 711,
+    "seqId": 9942890,
+    "name": "制裁の斧槍",
+    "ruby": "-",
+    "rank": "なし",
+    "maxLv": 5,
+    "typeText": "",
+    "attackAttri": 1,
+    "effectFlag": 0
+  },
+  {
+    "individuality": [
+      3000,
+      4007
+    ],
+    "script": {},
+    "id": 712,
+    "seqId": 9942900,
+    "name": "すがりつき",
+    "ruby": "-",
+    "rank": "なし",
+    "maxLv": 5,
+    "typeText": "",
+    "attackAttri": 1,
+    "effectFlag": 0
+  },
+  {
+    "individuality": [
+      3000,
+      4007
+    ],
+    "script": {},
+    "id": 717,
+    "seqId": 9942950,
+    "name": "“おいで”",
+    "ruby": "-",
+    "rank": "なし",
+    "maxLv": 5,
+    "typeText": "",
+    "attackAttri": 1,
+    "effectFlag": 0
+  },
+  {
+    "individuality": [
+      3000,
+      4007
+    ],
+    "script": {},
+    "id": 719,
+    "seqId": 9942970,
+    "name": "肋骨砕き",
+    "ruby": "-",
+    "rank": "なし",
+    "maxLv": 5,
+    "typeText": "",
+    "attackAttri": 1,
+    "effectFlag": 0
+  },
+  {
+    "individuality": [
       3001,
       4007
     ],
@@ -7637,6 +7701,38 @@
     "id": 723,
     "seqId": 9939190,
     "name": "自爆",
+    "ruby": "-",
+    "rank": "なし",
+    "maxLv": 5,
+    "typeText": "",
+    "attackAttri": 1,
+    "effectFlag": 0
+  },
+  {
+    "individuality": [
+      3000,
+      4007
+    ],
+    "script": {},
+    "id": 730,
+    "seqId": 9940740,
+    "name": "妖精喰らい",
+    "ruby": "-",
+    "rank": "なし",
+    "maxLv": 5,
+    "typeText": "",
+    "attackAttri": 1,
+    "effectFlag": 0
+  },
+  {
+    "individuality": [
+      3000,
+      4007
+    ],
+    "script": {},
+    "id": 731,
+    "seqId": 9940730,
+    "name": "のみこむ",
     "ruby": "-",
     "rank": "なし",
     "maxLv": 5,
@@ -8851,6 +8947,30 @@
     "rank": "A+",
     "maxLv": 5,
     "typeText": "対人宝具",
+    "attackAttri": 1,
+    "effectFlag": 1
+  },
+  {
+    "individuality": [
+      3000,
+      4002,
+      4007,
+      4101
+    ],
+    "script": {
+      "limitSeqId_1": 105010,
+      "limitSeqId_3": 105020,
+      "delayEnd": 1,
+      "limitSeqId_4": 105020,
+      "limitSeqId_2": 105010
+    },
+    "id": 105001,
+    "seqId": 105000,
+    "name": "捕食する日輪の角",
+    "ruby": "ブラックドッグ・ガラティーン",
+    "rank": "A",
+    "maxLv": 5,
+    "typeText": "対軍宝具",
     "attackAttri": 1,
     "effectFlag": 1
   },
@@ -10081,6 +10201,29 @@
     "typeText": "対軍宝具",
     "attackAttri": 1,
     "effectFlag": 1
+  },
+  {
+    "individuality": [
+      3002,
+      4003,
+      4007
+    ],
+    "script": {
+      "limitSeqId_1": 204310,
+      "limitSeqId_3": 204320,
+      "delayEnd": 1,
+      "limitSeqId_4": 204320,
+      "limitSeqId_2": 204310
+    },
+    "id": 204301,
+    "seqId": 204300,
+    "name": "痛幻の哭奏",
+    "ruby": "フェッチ・フェイルノート",
+    "rank": "E",
+    "maxLv": 5,
+    "typeText": "対人宝具",
+    "attackAttri": 1,
+    "effectFlag": 2
   },
   {
     "individuality": [
@@ -15749,6 +15892,30 @@
   {
     "individuality": [
       3002,
+      4002,
+      4007,
+      4101
+    ],
+    "script": {
+      "limitSeqId_1": 704010,
+      "limitSeqId_3": 704020,
+      "delayEnd": 1,
+      "limitSeqId_4": 704020,
+      "limitSeqId_2": 704010
+    },
+    "id": 704001,
+    "seqId": 704000,
+    "name": "はや辿り着けぬ理想郷",
+    "ruby": "ロードレス・キャメロット",
+    "rank": "EX",
+    "maxLv": 5,
+    "typeText": "対城宝具",
+    "attackAttri": 1,
+    "effectFlag": 1
+  },
+  {
+    "individuality": [
+      3002,
       4001,
       4007
     ],
@@ -15830,6 +15997,23 @@
     "rank": "D",
     "maxLv": 5,
     "typeText": "対人宝具",
+    "attackAttri": 1,
+    "effectFlag": 0
+  },
+  {
+    "individuality": [
+      3002,
+      4001,
+      4007
+    ],
+    "script": {},
+    "id": 800198,
+    "seqId": 800102,
+    "name": "いまは遙か理想の城",
+    "ruby": "ロード・キャメロット",
+    "rank": "B+++",
+    "maxLv": 5,
+    "typeText": "対悪宝具",
     "attackAttri": 1,
     "effectFlag": 0
   },
@@ -19452,6 +19636,133 @@
     "rank": "EX",
     "maxLv": 5,
     "typeText": "対界宝具",
+    "attackAttri": 1,
+    "effectFlag": 1
+  },
+  {
+    "individuality": [
+      3002,
+      4001,
+      4007
+    ],
+    "script": {},
+    "id": 9943061,
+    "seqId": 9943060,
+    "name": "花嫁に贈る糸車",
+    "ruby": "ブライダル・スピンホイール",
+    "rank": "EX",
+    "maxLv": 5,
+    "typeText": "",
+    "attackAttri": 1,
+    "effectFlag": 0
+  },
+  {
+    "individuality": [
+      3002,
+      4001,
+      4007
+    ],
+    "script": {},
+    "id": 9943081,
+    "seqId": 9943080,
+    "name": "きみをいだく希望の星",
+    "ruby": "アラウンド・カリバーン",
+    "rank": "A",
+    "maxLv": 5,
+    "typeText": "対軍宝具",
+    "attackAttri": 1,
+    "effectFlag": 0
+  },
+  {
+    "individuality": [
+      3000,
+      4002,
+      4007
+    ],
+    "script": {},
+    "id": 9943171,
+    "seqId": 9943170,
+    "name": "猛り狂う乙女狼",
+    "ruby": "イーラ・ルプス",
+    "rank": "C++",
+    "maxLv": 5,
+    "typeText": "対人宝具",
+    "attackAttri": 1,
+    "effectFlag": 2
+  },
+  {
+    "individuality": [
+      3000,
+      4002,
+      4007,
+      4101
+    ],
+    "script": {
+      "delayEnd": 1
+    },
+    "id": 9943181,
+    "seqId": 9943180,
+    "name": "捕食する日輪の角",
+    "ruby": "ブラックドッグ・ガラティーン",
+    "rank": "A",
+    "maxLv": 5,
+    "typeText": "対軍宝具",
+    "attackAttri": 1,
+    "effectFlag": 1
+  },
+  {
+    "individuality": [
+      3002,
+      4003,
+      4007
+    ],
+    "script": {
+      "delayEnd": 1
+    },
+    "id": 9943191,
+    "seqId": 9943190,
+    "name": "痛幻の哭奏",
+    "ruby": "フェッチ・フェイルノート",
+    "rank": "E",
+    "maxLv": 5,
+    "typeText": "対人宝具",
+    "attackAttri": 1,
+    "effectFlag": 2
+  },
+  {
+    "individuality": [
+      3000,
+      4001,
+      4007
+    ],
+    "script": {
+      "delayEnd": 1
+    },
+    "id": 9943201,
+    "seqId": 9943200,
+    "name": "今は知らず、無垢なる湖光",
+    "ruby": "イノセンス・アロンダイト",
+    "rank": "A",
+    "maxLv": 5,
+    "typeText": "対人宝具",
+    "attackAttri": 1,
+    "effectFlag": 2
+  },
+  {
+    "individuality": [
+      3000,
+      4001,
+      4007,
+      4101
+    ],
+    "script": {},
+    "id": 9943211,
+    "seqId": 9943210,
+    "name": "無元の剣製",
+    "ruby": "つむかりむらまさ",
+    "rank": "A+",
+    "maxLv": 5,
+    "typeText": "対人宝具",
     "attackAttri": 1,
     "effectFlag": 1
   }
