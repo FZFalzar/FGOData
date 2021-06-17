@@ -557,7 +557,7 @@
     "warningMessage": "",
     "imageId": 80021,
     "bgImageId": 0,
-    "openedAt": 1569988800,
+    "openedAt": 1507467600,
     "closedAt": 1901231999
   },
   {
@@ -656,7 +656,7 @@
     "warningMessage": "",
     "imageId": 80024,
     "bgImageId": 0,
-    "openedAt": 1574308800,
+    "openedAt": 1510164000,
     "closedAt": 1901231999
   },
   {
@@ -2760,7 +2760,7 @@
     "eventId": 0,
     "slot": 0,
     "flag": 0,
-    "priority": 10,
+    "priority": 58,
     "purchaseType": 14,
     "setNum": 1,
     "payType": 4,
@@ -2774,7 +2774,7 @@
     "warningMessage": "",
     "imageId": 80231,
     "bgImageId": 0,
-    "openedAt": 1622174400,
+    "openedAt": 1559757600,
     "closedAt": 1901231999
   },
   {
@@ -2793,7 +2793,7 @@
     "eventId": 0,
     "slot": 0,
     "flag": 0,
-    "priority": 11,
+    "priority": 59,
     "purchaseType": 14,
     "setNum": 1,
     "payType": 4,
@@ -2807,7 +2807,7 @@
     "warningMessage": "",
     "imageId": 80232,
     "bgImageId": 0,
-    "openedAt": 1622174400,
+    "openedAt": 1559757600,
     "closedAt": 1901231999
   },
   {
@@ -14673,7 +14673,7 @@
     "eventId": 0,
     "slot": 0,
     "flag": 0,
-    "priority": 900,
+    "priority": 3000,
     "purchaseType": 4,
     "setNum": 1,
     "payType": 9,
@@ -14687,7 +14687,7 @@
     "warningMessage": "",
     "imageId": 0,
     "bgImageId": 0,
-    "openedAt": 1622692800,
+    "openedAt": 1560632400,
     "closedAt": 1893456000
   },
   {
@@ -14788,6 +14788,39 @@
     "bgImageId": 0,
     "openedAt": 1624334400,
     "closedAt": 1624507199
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      100600
+    ],
+    "script": {},
+    "id": 4000356,
+    "baseShopId": 4000020,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 889,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Nero Claudius (Bride)",
+    "detail": "Exchange for Limited Time ★5 Servant",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1623902400,
+    "closedAt": 1625111999
   },
   {
     "itemIds": [
@@ -31767,7 +31800,7 @@
     "eventId": 0,
     "slot": 0,
     "flag": 256,
-    "priority": 25,
+    "priority": 66,
     "purchaseType": 6,
     "setNum": 0,
     "payType": 10,
@@ -31781,7 +31814,7 @@
     "warningMessage": "",
     "imageId": 0,
     "bgImageId": 0,
-    "openedAt": 1613534400,
+    "openedAt": 1550685600,
     "closedAt": 1901231999
   },
   {
@@ -32581,6 +32614,204 @@
       18
     ],
     "prices": [
+      3
+    ],
+    "targetIds": [
+      94024801
+    ],
+    "script": {},
+    "id": 6000313,
+    "baseShopId": 6000313,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 256,
+    "priority": 64,
+    "purchaseType": 6,
+    "setNum": 0,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "\"Fate/EXTELLA LINK\" Acquisition Quest",
+    "detail": "Unlocks \"Fate/EXTELLA LINK\" Limited Craft Essence Acquisition Quest ",
+    "infoMessage": "Unlocks \"Fate/EXTELLA LINK\" Acquisition Quest",
+    "warningMessage": "Cannot be exchanged (quest already cleared).",
+    "imageId": 80238,
+    "bgImageId": 0,
+    "openedAt": 1624507200,
+    "closedAt": 1901231999
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      5003
+    ],
+    "script": {},
+    "id": 6000314,
+    "baseShopId": 6000314,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 2048,
+    "priority": 1,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 3,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "[Limited Time] Code Remover",
+    "detail": "[14 Million Downloads Celebration]\nExchange for [Command Code Detacher Item]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 80233,
+    "bgImageId": 0,
+    "openedAt": 1623902400,
+    "closedAt": 1624507199
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      5
+    ],
+    "targetIds": [
+      6999
+    ],
+    "script": {},
+    "id": 6000315,
+    "baseShopId": 6000315,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 2048,
+    "priority": 2,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "[Limited Time] Crystallized Lore",
+    "detail": "[14 Million Downloads Celebration]\nExchange for [Skill up Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 80234,
+    "bgImageId": 0,
+    "openedAt": 1623902400,
+    "closedAt": 1624507199
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      3
+    ],
+    "targetIds": [
+      9570400
+    ],
+    "script": {},
+    "id": 6000316,
+    "baseShopId": 6000316,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 2048,
+    "priority": 3,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "[Limited Time] Hero Crystal: Meteor Fou",
+    "detail": "[14 Million Downloads Celebration]\nExchange for one ★4 ALL HP Up card",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 80235,
+    "bgImageId": 0,
+    "openedAt": 1623902400,
+    "closedAt": 1624507199
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      3
+    ],
+    "targetIds": [
+      9670400
+    ],
+    "script": {},
+    "id": 6000317,
+    "baseShopId": 6000317,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 2048,
+    "priority": 4,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "[Limited Time] Hero Crystal: Corona Fou",
+    "detail": "[14 Million Downloads Celebration]\nExchange for one ★4 ALL ATK Up card",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 80236,
+    "bgImageId": 0,
+    "openedAt": 1623902400,
+    "closedAt": 1624507199
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      4
+    ],
+    "script": {},
+    "id": 6000318,
+    "baseShopId": 6000318,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 2048,
+    "priority": 5,
+    "purchaseType": 1,
+    "setNum": 20000,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 5,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "[Limited Time] Friend Points",
+    "detail": "[14 Million Downloads Celebration]\nExchange for 20,000 Friend Points",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 80237,
+    "bgImageId": 0,
+    "openedAt": 1623902400,
+    "closedAt": 1624507199
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
       5
     ],
     "targetIds": [
@@ -32592,7 +32823,7 @@
     "eventId": 0,
     "slot": 0,
     "flag": 256,
-    "priority": 17,
+    "priority": 41,
     "purchaseType": 6,
     "setNum": 0,
     "payType": 10,
@@ -32606,7 +32837,7 @@
     "warningMessage": "",
     "imageId": 0,
     "bgImageId": 0,
-    "openedAt": 1607745600,
+    "openedAt": 1599829200,
     "closedAt": 1901231999
   },
   {
@@ -32625,7 +32856,7 @@
     "eventId": 0,
     "slot": 0,
     "flag": 256,
-    "priority": 18,
+    "priority": 42,
     "purchaseType": 6,
     "setNum": 0,
     "payType": 10,
@@ -32639,7 +32870,7 @@
     "warningMessage": "",
     "imageId": 80279,
     "bgImageId": 0,
-    "openedAt": 1617681600,
+    "openedAt": 1599829200,
     "closedAt": 1901231999
   },
   {
