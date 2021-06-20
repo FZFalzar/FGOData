@@ -2475,6 +2475,26 @@
   },
   {
     "individuality": [],
+    "script": {},
+    "eventId": 0,
+    "eventGroupId": 0,
+    "id": 10023,
+    "name": "Exchange Ticket (AUG 2021)",
+    "detail": "Can be exchanged for one Eternal Ice, Evil Bone, or Stake of Wailing Night.",
+    "imageId": 10000,
+    "bgImageId": 2,
+    "type": 24,
+    "unit": "",
+    "value": 0,
+    "sellQp": -1,
+    "isSell": false,
+    "priority": 200,
+    "dropPriority": 9001,
+    "startedAt": 1443657600,
+    "endedAt": 1635724799
+  },
+  {
+    "individuality": [],
     "script": {
       "GLOBAL_THANKSGIVING": 1
     },
@@ -12552,6 +12572,160 @@
     "priority": 94036604,
     "dropPriority": 2004,
     "startedAt": 1619755200,
+    "endedAt": 1910908800
+  },
+  {
+    "individuality": [
+      10431
+    ],
+    "script": {},
+    "eventId": 0,
+    "eventGroupId": 0,
+    "id": 94038401,
+    "name": "Ramie Thread",
+    "detail": "\"Event Item\"\nThread made from the ramie plant, acquired from \"GUDAGUDA Final Honnoji 2021.\"\nIt's a frequently traded material used to make a type of cloth called Echigo-joufu. Despite its resemblance to udon, it's not edible.",
+    "imageId": 94038401,
+    "bgImageId": 1,
+    "type": 15,
+    "unit": "",
+    "value": 0,
+    "sellQp": -1,
+    "isSell": false,
+    "priority": 94038401,
+    "dropPriority": 2001,
+    "startedAt": 1624161600,
+    "endedAt": 1625975999
+  },
+  {
+    "individuality": [
+      10432
+    ],
+    "script": {},
+    "eventId": 0,
+    "eventGroupId": 0,
+    "id": 94038402,
+    "name": "Unbiased Salt",
+    "detail": "\"Event Item\"\nSalt most precious to the inland people, acquired from \"GUDAGUDA Final Honnoji 2021.\"\nThose who control salt control the whole country!? It's almost impossible to resist using its container to hold drinks.",
+    "imageId": 94038402,
+    "bgImageId": 2,
+    "type": 15,
+    "unit": "",
+    "value": 0,
+    "sellQp": -1,
+    "isSell": false,
+    "priority": 94038402,
+    "dropPriority": 2002,
+    "startedAt": 1624161600,
+    "endedAt": 1625975999
+  },
+  {
+    "individuality": [
+      10433
+    ],
+    "script": {},
+    "eventId": 0,
+    "eventGroupId": 0,
+    "id": 94038403,
+    "name": "Formation Miso",
+    "detail": "\"Event Item\"\nInstant miso that can be used for cooking on campaigns, acquired from \"GUDAGUDA Final Honnoji 2021.\"\nNo sneaking in a taste before arriving on the battlefield! It's highly nutritional, and it's effective as a field ration. ",
+    "imageId": 94038403,
+    "bgImageId": 3,
+    "type": 15,
+    "unit": "",
+    "value": 0,
+    "sellQp": -1,
+    "isSell": false,
+    "priority": 94038403,
+    "dropPriority": 2003,
+    "startedAt": 1624161600,
+    "endedAt": 1625975999
+  },
+  {
+    "individuality": [
+      10434
+    ],
+    "script": {},
+    "eventId": 0,
+    "eventGroupId": 0,
+    "id": 94038404,
+    "name": "Military Rations",
+    "detail": "\"Event Production Item\"\nFood that is essential on military campaigns, produced during \"GUDAGUDA Final Honnoji 2021.\"\nYuzuke is the best!",
+    "imageId": 94038404,
+    "bgImageId": 2,
+    "type": 15,
+    "unit": "",
+    "value": 0,
+    "sellQp": -1,
+    "isSell": false,
+    "priority": 94038404,
+    "dropPriority": 2004,
+    "startedAt": 1624161600,
+    "endedAt": 1625975999
+  },
+  {
+    "individuality": [
+      10435
+    ],
+    "script": {},
+    "eventId": 0,
+    "eventGroupId": 0,
+    "id": 94038405,
+    "name": "Black Powder",
+    "detail": "\"Event Production Item\"\nGunpowder used for matchlock guns or fireworks, produced during \"GUDAGUDA Final Honnoji 2021.\"\nMaking things like saltpeter is a real pain!",
+    "imageId": 94038405,
+    "bgImageId": 2,
+    "type": 15,
+    "unit": "",
+    "value": 0,
+    "sellQp": -1,
+    "isSell": false,
+    "priority": 94038405,
+    "dropPriority": 2005,
+    "startedAt": 1624161600,
+    "endedAt": 1625975999
+  },
+  {
+    "individuality": [
+      10436
+    ],
+    "script": {},
+    "eventId": 0,
+    "eventGroupId": 0,
+    "id": 94038406,
+    "name": "Tatara Iron",
+    "detail": "\"Event Production Item\"\nIron made by heating up iron ore in a charcoal fire, produced during \"GUDAGUDA Final Honnoji 2021.\"\nBy the way, we're not going to make armored warships?",
+    "imageId": 94038406,
+    "bgImageId": 2,
+    "type": 15,
+    "unit": "",
+    "value": 0,
+    "sellQp": -1,
+    "isSell": false,
+    "priority": 94038406,
+    "dropPriority": 2006,
+    "startedAt": 1624161600,
+    "endedAt": 1625975999
+  },
+  {
+    "individuality": [
+      10437
+    ],
+    "script": {},
+    "eventId": 0,
+    "eventGroupId": 0,
+    "id": 94038407,
+    "name": "Biten's Dragon Gem",
+    "detail": "\"Ascension Material\"\nA gem that harbors the power of a dragon that flies through the heavens, acquired from \"GUDAGUDA Final Honnoji 2021.\"\nThe dragon of Echigo soars through the nation once again.",
+    "imageId": 94038407,
+    "bgImageId": 3,
+    "type": 15,
+    "unit": "",
+    "value": 0,
+    "sellQp": -1,
+    "isSell": false,
+    "priority": 94038407,
+    "dropPriority": 2007,
+    "startedAt": 1624161600,
     "endedAt": 1910908800
   },
   {

@@ -665,6 +665,11 @@
     "detailShort": "Increase your NP Strength (1 turn) <effect increases with Overcharge> + Deal heavy damage [{0}] & chance to inflict Stun (1 turn) & decrease Critical Rate (3 turns) to all enemies "
   },
   {
+    "id": 303801,
+    "detail": "Deal significant damage [{0}] & remove ATK buffs & decrease Critical Rate (3 turns) <effect increases with Overcharge> for a single enemy",
+    "detailShort": "Deal significant damage [{0}] & remove ATK buffs & decrease Critical Rate (3 turns) <effect increases with Overcharge> for a single enemy"
+  },
+  {
     "id": 400101,
     "detail": "Deal heavy damage to all enemies [{0}] + increase C. Star Drop Rate (3 turns) <effect increases with Overcharge> for all allies",
     "detailShort": "Deal heavy damage to all enemies [{0}] + increase C. Star Drop Rate (3 turns) <effect increases with Overcharge> for all allies"
@@ -1670,6 +1675,11 @@
     "detailShort": "Decrease Buster Card Resistance (3 turns) <effect increases with Overcharge> & deal heavy damage to all enemies [{0}]"
   },
   {
+    "id": 703501,
+    "detail": "Apply Ignore Invincible (1 turn) for yourself + Deal significant DEF-ignoring damage [{0}] & decrease DEF (3 turns) <effect increases with Overcharge> for a single enemy",
+    "detailShort": "Apply Ignore Invincible (1 turn) for yourself + Deal significant DEF-ignoring damage [{0}] & decrease DEF (3 turns) <effect increases with Overcharge> for a single enemy"
+  },
+  {
     "id": 800100,
     "detail": "Unknown",
     "detailShort": "Unknown"
@@ -1833,6 +1843,11 @@
     "id": 1100601,
     "detail": "Deal heavy damage to all enemies [{0}] & decrease Arts Card Resistance (3 turns) <effect increases with Overcharge> for all enemies + Decrease C. Star Drop Rate (3 turns) for all allies [Demerit]",
     "detailShort": "Deal heavy damage to all enemies [{0}] & decrease Arts Card Resistance (3 turns) <effect increases with Overcharge> for all enemies + Decrease C. Star Drop Rate (3 turns) for all allies [Demerit]"
+  },
+  {
+    "id": 1100701,
+    "detail": "Remove DEF buffs & deal heavy Special Attack damage to all [Divine] enemies [{0}] <Special Attack damage increases with Overcharge> & inflict Burn (5 turns) to all enemies",
+    "detailShort": "Remove DEF buffs & deal heavy Special Attack damage to all [Divine] enemies [{0}] <Special Attack damage increases with Overcharge> & inflict Burn (5 turns) to all enemies"
   },
   {
     "id": 1700101,

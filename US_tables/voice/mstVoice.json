@@ -3341,6 +3341,19 @@
     "flag": 0
   },
   {
+    "id": "G120",
+    "priority": 8985,
+    "svtVoiceType": 2,
+    "name": "Level up",
+    "nameDefault": "???",
+    "condType": 6,
+    "condValue": 2,
+    "voicePlayedValue": 0,
+    "firstPlayPriority": 0,
+    "closedType": 1,
+    "flag": 0
+  },
+  {
     "id": "G9010",
     "priority": 8990,
     "svtVoiceType": 2,
@@ -4212,6 +4225,19 @@
     "flag": 0
   },
   {
+    "id": "H310",
+    "priority": 8240,
+    "svtVoiceType": 1,
+    "name": "Conversation 21",
+    "nameDefault": "Unlocks through My Room conversations",
+    "condType": 17,
+    "condValue": 46,
+    "voicePlayedValue": 46,
+    "firstPlayPriority": 0,
+    "closedType": 1,
+    "flag": 0
+  },
+  {
     "id": "H3160",
     "priority": 8345,
     "svtVoiceType": 1,
@@ -4220,6 +4246,32 @@
     "condType": 17,
     "condValue": 37,
     "voicePlayedValue": 37,
+    "firstPlayPriority": 0,
+    "closedType": 1,
+    "flag": 0
+  },
+  {
+    "id": "H320",
+    "priority": 8230,
+    "svtVoiceType": 1,
+    "name": "Conversation 22",
+    "nameDefault": "Unlocks through My Room conversations",
+    "condType": 17,
+    "condValue": 47,
+    "voicePlayedValue": 47,
+    "firstPlayPriority": 0,
+    "closedType": 1,
+    "flag": 0
+  },
+  {
+    "id": "H330",
+    "priority": 8220,
+    "svtVoiceType": 1,
+    "name": "Conversation 22",
+    "nameDefault": "Unlocks through My Room conversations",
+    "condType": 17,
+    "condValue": 48,
+    "voicePlayedValue": 48,
     "firstPlayPriority": 0,
     "closedType": 1,
     "flag": 0
