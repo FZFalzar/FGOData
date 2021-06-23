@@ -972,12 +972,75 @@
     "title": ""
   },
   {
+    "questId": 91403901,
+    "phase": 1,
+    "restrictionId": 91000053,
+    "frequencyType": 3,
+    "dialogMessage": "制限対象サーヴァントはサブメンバーとして出撃できません。",
+    "noticeMessage": "マンドリカルドをスターティングメンバーに設定してください。",
+    "title": ""
+  },
+  {
+    "questId": 91403901,
+    "phase": 2,
+    "restrictionId": 91000053,
+    "frequencyType": 3,
+    "dialogMessage": "制限対象サーヴァントはサブメンバーとして出撃できません。",
+    "noticeMessage": "マンドリカルドをスターティングメンバーに設定してください。",
+    "title": ""
+  },
+  {
+    "questId": 91403991,
+    "phase": 1,
+    "restrictionId": 91000053,
+    "frequencyType": 3,
+    "dialogMessage": "制限対象サーヴァントはサブメンバーとして出撃できません。",
+    "noticeMessage": "マンドリカルドをスターティングメンバーに設定してください。",
+    "title": ""
+  },
+  {
     "questId": 91503501,
     "phase": 3,
     "restrictionId": 91000017,
     "frequencyType": 0,
     "dialogMessage": "",
     "noticeMessage": "",
+    "title": ""
+  },
+  {
+    "questId": 91503502,
+    "phase": 1,
+    "restrictionId": 91000052,
+    "frequencyType": 0,
+    "dialogMessage": "0",
+    "noticeMessage": "アナスタシア出撃不可",
+    "title": ""
+  },
+  {
+    "questId": 91503502,
+    "phase": 2,
+    "restrictionId": 91000052,
+    "frequencyType": 0,
+    "dialogMessage": "0",
+    "noticeMessage": "アナスタシア出撃不可",
+    "title": ""
+  },
+  {
+    "questId": 91503502,
+    "phase": 3,
+    "restrictionId": 91000052,
+    "frequencyType": 0,
+    "dialogMessage": "0",
+    "noticeMessage": "アナスタシア出撃不可",
+    "title": ""
+  },
+  {
+    "questId": 91503592,
+    "phase": 2,
+    "restrictionId": 91000052,
+    "frequencyType": 0,
+    "dialogMessage": "0",
+    "noticeMessage": "アナスタシア出撃不可",
     "title": ""
   },
   {
@@ -6369,6 +6432,60 @@
     "frequencyType": 0,
     "dialogMessage": "",
     "noticeMessage": "",
+    "title": ""
+  },
+  {
+    "questId": 911100601,
+    "phase": 1,
+    "restrictionId": 91000051,
+    "frequencyType": 3,
+    "dialogMessage": "制限対象サーヴァントはサブメンバーとして出撃できません。",
+    "noticeMessage": "アントニオ・サリエリをスターティングメンバーに設定してください。",
+    "title": ""
+  },
+  {
+    "questId": 911100601,
+    "phase": 2,
+    "restrictionId": 91000051,
+    "frequencyType": 3,
+    "dialogMessage": "制限対象サーヴァントはサブメンバーとして出撃できません。",
+    "noticeMessage": "アントニオ・サリエリをスターティングメンバーに設定してください。",
+    "title": ""
+  },
+  {
+    "questId": 911100601,
+    "phase": 3,
+    "restrictionId": 91000051,
+    "frequencyType": 3,
+    "dialogMessage": "制限対象サーヴァントはサブメンバーとして出撃できません。",
+    "noticeMessage": "アントニオ・サリエリをスターティングメンバーに設定してください。",
+    "title": ""
+  },
+  {
+    "questId": 912500401,
+    "phase": 2,
+    "restrictionId": 91000054,
+    "frequencyType": 3,
+    "dialogMessage": "制限対象サーヴァントはサブメンバーとして出撃できません。",
+    "noticeMessage": "楊貴妃をスターティングメンバーに設定してください。",
+    "title": ""
+  },
+  {
+    "questId": 912500401,
+    "phase": 2,
+    "restrictionId": 91000055,
+    "frequencyType": 0,
+    "dialogMessage": "このクエストを開始するには\n所持サーヴァントから1騎\n編成してください",
+    "noticeMessage": "NPC固定出撃",
+    "title": ""
+  },
+  {
+    "questId": 912500401,
+    "phase": 2,
+    "restrictionId": 94032204,
+    "frequencyType": 1,
+    "dialogMessage": "このクエストを開始するには\n所持サーヴァントから1騎\n編成してください",
+    "noticeMessage": "楊貴妃のみ選択可能",
     "title": ""
   }
 ]

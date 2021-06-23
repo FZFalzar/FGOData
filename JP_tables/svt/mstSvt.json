@@ -2220,7 +2220,9 @@
     "flag": 8
   },
   {
-    "relateQuestIds": [],
+    "relateQuestIds": [
+      91104101
+    ],
     "individuality": [
       5000,
       104100,
@@ -7654,7 +7656,9 @@
     "flag": 0
   },
   {
-    "relateQuestIds": [],
+    "relateQuestIds": [
+      91304101
+    ],
     "individuality": [
       5000,
       304100,
@@ -10078,7 +10082,9 @@
     "flag": 0
   },
   {
-    "relateQuestIds": [],
+    "relateQuestIds": [
+      91403901
+    ],
     "individuality": [
       5000,
       403900,
@@ -12317,7 +12323,8 @@
   },
   {
     "relateQuestIds": [
-      91503501
+      91503501,
+      91503502
     ],
     "individuality": [
       5000,
@@ -17269,7 +17276,9 @@
     "flag": 0
   },
   {
-    "relateQuestIds": [],
+    "relateQuestIds": [
+      91703401
+    ],
     "individuality": [
       5000,
       703400,
@@ -19511,7 +19520,9 @@
     "flag": 0
   },
   {
-    "relateQuestIds": [],
+    "relateQuestIds": [
+      911100601
+    ],
     "individuality": [
       5000,
       1100600,
@@ -20315,6 +20326,7 @@
   },
   {
     "relateQuestIds": [
+      912500401,
       94053431
     ],
     "individuality": [
@@ -122523,6 +122535,71 @@
     "hpGaugeY": -250,
     "starRate": 98,
     "deathRate": 500,
+    "attackAttri": 1,
+    "illustratorId": -1,
+    "cvId": -1,
+    "collectionNo": 0,
+    "materialStoryPriority": 0,
+    "flag": 0
+  },
+  {
+    "relateQuestIds": [],
+    "individuality": [
+      5000,
+      9943240,
+      2,
+      107,
+      201,
+      300,
+      303,
+      2009,
+      1000,
+      2001,
+      2008,
+      2011,
+      2654,
+      2795,
+      2631
+    ],
+    "classPassive": [
+      34550,
+      88350
+    ],
+    "cardIds": [
+      3,
+      1,
+      1,
+      2,
+      2
+    ],
+    "script": {
+      "cameraActionId": 287
+    },
+    "id": 9943240,
+    "baseSvtId": 9943240,
+    "name": "マシュ・キリエライト",
+    "ruby": "マシュ・キリエライト",
+    "battleName": "マシュ",
+    "classId": 8,
+    "type": 2,
+    "limitMax": 4,
+    "rewardLv": 80,
+    "friendshipId": 100,
+    "maxFriendshipRank": 5,
+    "genderType": 2,
+    "attri": 3,
+    "combineSkillId": 9943240,
+    "combineLimitId": 9943240,
+    "sellQp": 2000,
+    "sellMana": 6,
+    "sellRarePri": 1,
+    "expType": 4,
+    "combineMaterialId": 4,
+    "cost": 0,
+    "battleSize": 2,
+    "hpGaugeY": -250,
+    "starRate": 99,
+    "deathRate": 245,
     "attackAttri": 1,
     "illustratorId": -1,
     "cvId": -1,

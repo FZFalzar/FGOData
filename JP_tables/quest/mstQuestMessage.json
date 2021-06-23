@@ -1265,6 +1265,17 @@
     "displayType": 1
   },
   {
+    "questId": 91304101,
+    "phase": 1,
+    "idx": 0,
+    "message": "このクエストでは\nパーティ編成はバトルの直前に行います。\n\nクエストを開始しますか？",
+    "condType": 0,
+    "targetId": 0,
+    "targetNum": 0,
+    "frequencyType": 3,
+    "displayType": 1
+  },
+  {
     "questId": 91304201,
     "phase": 1,
     "idx": 0,
@@ -1342,10 +1353,87 @@
     "displayType": 1
   },
   {
+    "questId": 91403901,
+    "phase": 1,
+    "idx": 0,
+    "message": "このクエストではシナリオ選択によって\nバトルの内容が変わります。\nまた、パーティ編成はバトルの直前に行います。\n\nクエストを開始しますか？",
+    "condType": 0,
+    "targetId": 0,
+    "targetNum": 0,
+    "frequencyType": 3,
+    "displayType": 1
+  },
+  {
+    "questId": 91403901,
+    "phase": 2,
+    "idx": 0,
+    "message": "このクエストでは\nパーティ編成はバトルの直前に行います。\n\nクエストを開始しますか？",
+    "condType": 0,
+    "targetId": 0,
+    "targetNum": 0,
+    "frequencyType": 3,
+    "displayType": 1
+  },
+  {
+    "questId": 91403991,
+    "phase": 1,
+    "idx": 0,
+    "message": "このクエストではシナリオ選択によって\nバトルの内容が変わります。\nまた、パーティ編成はバトルの直前に行います。\n\nクエストを開始しますか？",
+    "condType": 0,
+    "targetId": 0,
+    "targetNum": 0,
+    "frequencyType": 3,
+    "displayType": 1
+  },
+  {
     "questId": 91503501,
     "phase": 3,
     "idx": 0,
     "message": "このクエストでは\nパーティ編成はバトルの直前に行います。\n\nクエストを開始しますか？",
+    "condType": 0,
+    "targetId": 0,
+    "targetNum": 0,
+    "frequencyType": 3,
+    "displayType": 1
+  },
+  {
+    "questId": 91503502,
+    "phase": 1,
+    "idx": 0,
+    "message": "このクエストでは\nパーティ編成はバトルの直前に行います。\n\nクエストを開始しますか？",
+    "condType": 0,
+    "targetId": 0,
+    "targetNum": 0,
+    "frequencyType": 3,
+    "displayType": 1
+  },
+  {
+    "questId": 91503502,
+    "phase": 2,
+    "idx": 0,
+    "message": "このクエストではシナリオ選択によって\nバトルの内容が変わります。\nまた、パーティ編成はバトルの直前に行います。\n\nクエストを開始しますか？",
+    "condType": 0,
+    "targetId": 0,
+    "targetNum": 0,
+    "frequencyType": 3,
+    "displayType": 1
+  },
+  {
+    "questId": 91503502,
+    "phase": 3,
+    "idx": 0,
+    "message": "このクエストでは\nパーティ編成はバトルの直前に行います。\n\nクエストを開始しますか？",
+    "condType": 0,
+    "targetId": 0,
+    "targetNum": 0,
+    "frequencyType": 3,
+    "displayType": 1
+  },
+  {
+    "questId": 91503592,
+    "phase": 2,
+    "idx": 0,
+    "message": "このクエストではシナリオ選択によって\nバトルの内容が変わります。\nまた、パーティ編成はバトルの直前に行います。\n\nクエストを開始しますか？",
     "condType": 0,
     "targetId": 0,
     "targetNum": 0,
@@ -21512,6 +21600,50 @@
     "condType": 25,
     "targetId": 94059601,
     "targetNum": 1,
+    "frequencyType": 3,
+    "displayType": 1
+  },
+  {
+    "questId": 911100601,
+    "phase": 1,
+    "idx": 0,
+    "message": "このクエストでは\nパーティ編成はバトルの直前に行います。\n\nクエストを開始しますか？",
+    "condType": 0,
+    "targetId": 0,
+    "targetNum": 0,
+    "frequencyType": 3,
+    "displayType": 1
+  },
+  {
+    "questId": 911100601,
+    "phase": 2,
+    "idx": 0,
+    "message": "このクエストでは\nパーティ編成はバトルの直前に行います。\n\nクエストを開始しますか？",
+    "condType": 0,
+    "targetId": 0,
+    "targetNum": 0,
+    "frequencyType": 3,
+    "displayType": 1
+  },
+  {
+    "questId": 911100601,
+    "phase": 3,
+    "idx": 0,
+    "message": "このクエストでは\nパーティ編成はバトルの直前に行います。\n\nクエストを開始しますか？",
+    "condType": 0,
+    "targetId": 0,
+    "targetNum": 0,
+    "frequencyType": 3,
+    "displayType": 1
+  },
+  {
+    "questId": 912500401,
+    "phase": 2,
+    "idx": 0,
+    "message": "このクエストでは\nパーティ編成はバトルの直前に行います。\n\nクエストを開始しますか？",
+    "condType": 0,
+    "targetId": 0,
+    "targetNum": 0,
     "frequencyType": 3,
     "displayType": 1
   }
