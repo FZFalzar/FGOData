@@ -171146,6 +171146,209 @@
     "friendshipExp": 915
   },
   {
+    "classIds": [],
+    "individuality": [
+      2038,
+      94000089
+    ],
+    "script": {},
+    "questId": 94038801,
+    "phase": 1,
+    "isNpcOnly": false,
+    "battleBgId": 55000,
+    "battleBgType": 0,
+    "qp": 500,
+    "playerExp": 5,
+    "friendshipExp": 25
+  },
+  {
+    "classIds": [
+      3,
+      1,
+      2
+    ],
+    "individuality": [
+      94000089
+    ],
+    "script": {},
+    "questId": 94038802,
+    "phase": 1,
+    "isNpcOnly": false,
+    "battleBgId": 20600,
+    "battleBgType": 2,
+    "qp": 6400,
+    "playerExp": 15690,
+    "friendshipExp": 615
+  },
+  {
+    "classIds": [
+      7,
+      4,
+      6
+    ],
+    "individuality": [
+      2038,
+      2039,
+      94000089
+    ],
+    "script": {},
+    "questId": 94038803,
+    "phase": 1,
+    "isNpcOnly": false,
+    "battleBgId": 28010,
+    "battleBgType": 0,
+    "qp": 6400,
+    "playerExp": 15690,
+    "friendshipExp": 615
+  },
+  {
+    "classIds": [
+      7,
+      3,
+      2
+    ],
+    "individuality": [
+      2038,
+      94000089
+    ],
+    "script": {},
+    "questId": 94038804,
+    "phase": 1,
+    "isNpcOnly": false,
+    "battleBgId": 24310,
+    "battleBgType": 0,
+    "qp": 6400,
+    "playerExp": 15690,
+    "friendshipExp": 615
+  },
+  {
+    "classIds": [
+      4,
+      7
+    ],
+    "individuality": [
+      2038,
+      94000089
+    ],
+    "script": {},
+    "questId": 94038805,
+    "phase": 1,
+    "isNpcOnly": false,
+    "battleBgId": 24310,
+    "battleBgType": 0,
+    "qp": 6400,
+    "playerExp": 15690,
+    "friendshipExp": 615
+  },
+  {
+    "classIds": [
+      7
+    ],
+    "individuality": [
+      2038,
+      94000089
+    ],
+    "script": {},
+    "questId": 94038806,
+    "phase": 1,
+    "isNpcOnly": false,
+    "battleBgId": 24310,
+    "battleBgType": 0,
+    "qp": 6400,
+    "playerExp": 15690,
+    "friendshipExp": 615
+  },
+  {
+    "classIds": [
+      2
+    ],
+    "individuality": [
+      2038,
+      2039,
+      94000089
+    ],
+    "script": {},
+    "questId": 94038807,
+    "phase": 1,
+    "isNpcOnly": false,
+    "battleBgId": 48300,
+    "battleBgType": 0,
+    "qp": 6400,
+    "playerExp": 15690,
+    "friendshipExp": 615
+  },
+  {
+    "classIds": [
+      1
+    ],
+    "individuality": [
+      2038,
+      2392,
+      94000089
+    ],
+    "script": {},
+    "questId": 94038808,
+    "phase": 1,
+    "isNpcOnly": false,
+    "battleBgId": 81000,
+    "battleBgType": 1,
+    "qp": 6400,
+    "playerExp": 15690,
+    "friendshipExp": 615
+  },
+  {
+    "classIds": [
+      10
+    ],
+    "individuality": [
+      94000089
+    ],
+    "script": {},
+    "questId": 94038809,
+    "phase": 1,
+    "isNpcOnly": false,
+    "battleBgId": 55300,
+    "battleBgType": 0,
+    "qp": 6400,
+    "playerExp": 15690,
+    "friendshipExp": 615
+  },
+  {
+    "classIds": [
+      2
+    ],
+    "individuality": [
+      94000089
+    ],
+    "script": {},
+    "questId": 94038809,
+    "phase": 2,
+    "isNpcOnly": false,
+    "battleBgId": 55300,
+    "battleBgType": 0,
+    "qp": 6400,
+    "playerExp": 15690,
+    "friendshipExp": 615
+  },
+  {
+    "classIds": [
+      7
+    ],
+    "individuality": [
+      2038,
+      94000089
+    ],
+    "script": {},
+    "questId": 94038901,
+    "phase": 1,
+    "isNpcOnly": false,
+    "battleBgId": 24310,
+    "battleBgType": 0,
+    "qp": 9400,
+    "playerExp": 38190,
+    "friendshipExp": 915
+  },
+  {
     "classIds": [
       7
     ],
@@ -171424,6 +171627,109 @@
     "qp": 6400,
     "playerExp": 15690,
     "friendshipExp": 615
+  },
+  {
+    "classIds": [
+      1,
+      7
+    ],
+    "individuality": [
+      2038,
+      2392,
+      94000089
+    ],
+    "script": {
+      "eventConquestReward": 1
+    },
+    "questId": 94039015,
+    "phase": 1,
+    "isNpcOnly": false,
+    "battleBgId": 24500,
+    "battleBgType": 0,
+    "qp": 7400,
+    "playerExp": 22190,
+    "friendshipExp": 715
+  },
+  {
+    "classIds": [
+      3
+    ],
+    "individuality": [
+      2038,
+      94000089
+    ],
+    "script": {
+      "eventConquestReward": 1
+    },
+    "questId": 94039016,
+    "phase": 1,
+    "isNpcOnly": false,
+    "battleBgId": 30410,
+    "battleBgType": 0,
+    "qp": 7400,
+    "playerExp": 22190,
+    "friendshipExp": 715
+  },
+  {
+    "classIds": [
+      6
+    ],
+    "individuality": [
+      2038,
+      2039,
+      94000089
+    ],
+    "script": {
+      "eventConquestReward": 1
+    },
+    "questId": 94039017,
+    "phase": 1,
+    "isNpcOnly": false,
+    "battleBgId": 48200,
+    "battleBgType": 0,
+    "qp": 7400,
+    "playerExp": 22190,
+    "friendshipExp": 715
+  },
+  {
+    "classIds": [
+      7
+    ],
+    "individuality": [
+      94000089
+    ],
+    "script": {
+      "eventConquestReward": 1
+    },
+    "questId": 94039018,
+    "phase": 1,
+    "isNpcOnly": false,
+    "battleBgId": 20100,
+    "battleBgType": 0,
+    "qp": 7400,
+    "playerExp": 22190,
+    "friendshipExp": 715
+  },
+  {
+    "classIds": [
+      5
+    ],
+    "individuality": [
+      2038,
+      2039,
+      94000089
+    ],
+    "script": {
+      "eventConquestReward": 1
+    },
+    "questId": 94039019,
+    "phase": 1,
+    "isNpcOnly": false,
+    "battleBgId": 13400,
+    "battleBgType": 0,
+    "qp": 7400,
+    "playerExp": 22190,
+    "friendshipExp": 715
   },
   {
     "classIds": [
