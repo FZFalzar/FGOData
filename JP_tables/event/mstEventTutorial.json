@@ -11685,5 +11685,135 @@
     "condValue": 0,
     "condValue2": 0,
     "condValue3": 0
+  },
+  {
+    "targetIds": [
+      "[]"
+    ],
+    "condIds": [],
+    "imageIds": [
+      916
+    ],
+    "textJson": [],
+    "eventId": 80328,
+    "flagType": 1,
+    "num": 1,
+    "openType": 4,
+    "condType": 0,
+    "condValue": 0,
+    "condValue2": 0,
+    "condValue3": 0
+  },
+  {
+    "targetIds": [
+      "[94060030,1]",
+      "[94060031,1]",
+      "[94060032,1]",
+      "[94060033,1]",
+      "[94060034,1]",
+      "[94060035,1]",
+      "[94060036,1]",
+      "[94060037,1]",
+      "[94060040,1]",
+      "[94060041,1]",
+      "[94060042,1]",
+      "[94060043,1]",
+      "[94060044,1]",
+      "[94060045,1]",
+      "[94060046,1]",
+      "[94060060,1]"
+    ],
+    "condIds": [],
+    "imageIds": [],
+    "textJson": [
+      {
+        "text": "～エキシビションクエストについて～\n\n「エキシビションクエスト」は\nコンティニュー不可、上級者向けの[FF0000]超高難易度クエスト[-]です。\n\nクリアするには、敵の行動をよく観察した上で、\n「パーティ編成」「魔術礼装」「スキル」「宝具」等\nあらゆる要素を駆使する必要があります。\n\n[FF9800]あきらめずに何度も挑戦し、攻略法を見つけ出して下さい。[-]",
+        "rects": [],
+        "textPos": [
+          0,
+          24
+        ],
+        "ptPos": [
+          0,
+          0
+        ]
+      }
+    ],
+    "eventId": 80328,
+    "flagType": 11,
+    "num": 1,
+    "openType": 13,
+    "condType": 0,
+    "condValue": 0,
+    "condValue2": 0,
+    "condValue3": 0
+  },
+  {
+    "targetIds": [
+      "[]"
+    ],
+    "condIds": [
+      20060001
+    ],
+    "imageIds": [],
+    "textJson": [
+      {
+        "text": "【復刻:Grandネロ祭 ～2021 Early Summer～】\nは復刻イベントです。\n\n過去の【ネロ祭再び ～2017 Autumn～】で\n霊衣「オリンピアの体操服」開放権\nを入手している場合は、本イベントでは\n『レアプリズム 1個』\nに置き換わります。",
+        "dlgFontSize": 26,
+        "rects": [],
+        "textPos": [
+          0,
+          30
+        ],
+        "ptPos": [
+          0,
+          0
+        ]
+      }
+    ],
+    "eventId": 80328,
+    "flagType": 18,
+    "num": 1,
+    "openType": 20,
+    "condType": 113,
+    "condValue": 0,
+    "condValue2": 0,
+    "condValue3": 0
+  },
+  {
+    "targetIds": [
+      "[]"
+    ],
+    "condIds": [],
+    "imageIds": [
+      916
+    ],
+    "textJson": [],
+    "eventId": 80328,
+    "flagType": 21,
+    "num": 1,
+    "openType": 23,
+    "condType": 0,
+    "condValue": 0,
+    "condValue2": 0,
+    "condValue3": 0
+  },
+  {
+    "targetIds": [
+      "[]"
+    ],
+    "condIds": [],
+    "imageIds": [
+      916
+    ],
+    "textJson": [],
+    "eventId": 80328,
+    "flagType": 22,
+    "num": 1,
+    "openType": 24,
+    "condType": 0,
+    "condValue": 0,
+    "condValue2": 0,
+    "condValue3": 0
   }
 ]

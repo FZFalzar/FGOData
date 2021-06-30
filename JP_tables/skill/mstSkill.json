@@ -28935,7 +28935,7 @@
     "ruby": "-",
     "maxLv": 1,
     "iconId": 600,
-    "motion": 103
+    "motion": 1002
   },
   {
     "effectList": [],
@@ -28947,7 +28947,7 @@
     "ruby": "-",
     "maxLv": 1,
     "iconId": 600,
-    "motion": 103
+    "motion": 1002
   },
   {
     "effectList": [],
@@ -28959,7 +28959,7 @@
     "ruby": "-",
     "maxLv": 1,
     "iconId": 600,
-    "motion": 103
+    "motion": 1002
   },
   {
     "effectList": [],
@@ -28971,7 +28971,7 @@
     "ruby": "-",
     "maxLv": 1,
     "iconId": 600,
-    "motion": 103
+    "motion": 1002
   },
   {
     "effectList": [],
@@ -28983,7 +28983,7 @@
     "ruby": "-",
     "maxLv": 1,
     "iconId": 600,
-    "motion": 103
+    "motion": 1002
   },
   {
     "effectList": [],
@@ -28995,7 +28995,7 @@
     "ruby": "-",
     "maxLv": 1,
     "iconId": 600,
-    "motion": 103
+    "motion": 1002
   },
   {
     "effectList": [],
@@ -29007,7 +29007,7 @@
     "ruby": "-",
     "maxLv": 1,
     "iconId": 600,
-    "motion": 103
+    "motion": 1002
   },
   {
     "effectList": [],
@@ -29019,7 +29019,7 @@
     "ruby": "-",
     "maxLv": 1,
     "iconId": 600,
-    "motion": 103
+    "motion": 1002
   },
   {
     "effectList": [],
@@ -29031,7 +29031,7 @@
     "ruby": "-",
     "maxLv": 1,
     "iconId": 600,
-    "motion": 103
+    "motion": 1002
   },
   {
     "effectList": [],
@@ -29043,7 +29043,7 @@
     "ruby": "-",
     "maxLv": 1,
     "iconId": 600,
-    "motion": 103
+    "motion": 1002
   },
   {
     "effectList": [],
@@ -29055,7 +29055,7 @@
     "ruby": "-",
     "maxLv": 1,
     "iconId": 600,
-    "motion": 103
+    "motion": 1002
   },
   {
     "effectList": [],
@@ -29067,7 +29067,7 @@
     "ruby": "-",
     "maxLv": 1,
     "iconId": 600,
-    "motion": 103
+    "motion": 1002
   },
   {
     "effectList": [],
@@ -29079,7 +29079,7 @@
     "ruby": "-",
     "maxLv": 1,
     "iconId": 600,
-    "motion": 103
+    "motion": 1002
   },
   {
     "effectList": [],
@@ -29091,7 +29091,7 @@
     "ruby": "-",
     "maxLv": 1,
     "iconId": 600,
-    "motion": 103
+    "motion": 1002
   },
   {
     "effectList": [],
@@ -29103,7 +29103,7 @@
     "ruby": "-",
     "maxLv": 1,
     "iconId": 600,
-    "motion": 103
+    "motion": 1002
   },
   {
     "effectList": [],
@@ -29115,7 +29115,7 @@
     "ruby": "-",
     "maxLv": 1,
     "iconId": 600,
-    "motion": 103
+    "motion": 1002
   },
   {
     "effectList": [],
@@ -29235,7 +29235,7 @@
     "ruby": "-",
     "maxLv": 1,
     "iconId": 600,
-    "motion": 102
+    "motion": 1003
   },
   {
     "effectList": [],
@@ -29499,7 +29499,7 @@
     "ruby": "-",
     "maxLv": 1,
     "iconId": 600,
-    "motion": 103
+    "motion": 1002
   },
   {
     "effectList": [],
@@ -29511,7 +29511,7 @@
     "ruby": "-",
     "maxLv": 1,
     "iconId": 600,
-    "motion": 103
+    "motion": 1002
   },
   {
     "effectList": [],
@@ -29523,7 +29523,7 @@
     "ruby": "-",
     "maxLv": 1,
     "iconId": 600,
-    "motion": 103
+    "motion": 1002
   },
   {
     "effectList": [],
@@ -81706,6 +81706,18 @@
   {
     "effectList": [],
     "actIndividuality": [],
+    "script": {},
+    "id": 966256,
+    "type": 1,
+    "name": "見定める",
+    "ruby": "-",
+    "maxLv": 1,
+    "iconId": 600,
+    "motion": 1003
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
     "script": {
       "skillScript_1": 966146
     },
@@ -114945,6 +114957,126 @@
     "ruby": "-",
     "maxLv": 1,
     "iconId": 202,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 992700,
+    "type": 2,
+    "name": "ネロメダル〔金〕のドロップ獲得数アップ",
+    "ruby": "-",
+    "maxLv": 1,
+    "iconId": 200,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 992701,
+    "type": 2,
+    "name": "ネロメダル〔金〕のドロップ獲得数アップ",
+    "ruby": "-",
+    "maxLv": 1,
+    "iconId": 200,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 992702,
+    "type": 2,
+    "name": "ネロメダル〔銀〕のドロップ獲得数アップ",
+    "ruby": "-",
+    "maxLv": 1,
+    "iconId": 200,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 992703,
+    "type": 2,
+    "name": "ネロメダル〔銀〕のドロップ獲得数アップ",
+    "ruby": "-",
+    "maxLv": 1,
+    "iconId": 200,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 992704,
+    "type": 2,
+    "name": "ネロメダル〔銅〕のドロップ獲得数アップ",
+    "ruby": "-",
+    "maxLv": 1,
+    "iconId": 200,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 992705,
+    "type": 2,
+    "name": "ネロメダル〔銅〕のドロップ獲得数アップ",
+    "ruby": "-",
+    "maxLv": 1,
+    "iconId": 200,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 992706,
+    "type": 2,
+    "name": "イベント攻撃威力アップ",
+    "ruby": "-",
+    "maxLv": 1,
+    "iconId": 301,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 992707,
+    "type": 2,
+    "name": "イベント攻撃威力アップ",
+    "ruby": "-",
+    "maxLv": 1,
+    "iconId": 301,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 992708,
+    "type": 2,
+    "name": "真紅の花びらのドロップ獲得数アップ",
+    "ruby": "-",
+    "maxLv": 1,
+    "iconId": 200,
+    "motion": 101
+  },
+  {
+    "effectList": [],
+    "actIndividuality": [],
+    "script": {},
+    "id": 992709,
+    "type": 2,
+    "name": "真紅の花びらのドロップ獲得数アップ",
+    "ruby": "-",
+    "maxLv": 1,
+    "iconId": 200,
     "motion": 101
   },
   {

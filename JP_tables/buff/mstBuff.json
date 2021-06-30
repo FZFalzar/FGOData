@@ -4122,7 +4122,7 @@
     "buffGroup": 0,
     "type": 89,
     "name": "追加効果(即死)",
-    "detail": "通常攻撃時、対象に即死効果が発生する",
+    "detail": "通常攻撃時、対象に即死効果が確率で発生する",
     "iconId": 528,
     "maxRate": 0,
     "effectId": 0
@@ -4159,9 +4159,9 @@
     "script": {},
     "id": 323,
     "buffGroup": 0,
-    "type": 105,
+    "type": 128,
     "name": "Quickカード耐性",
-    "detail": "Quickカードの攻撃による被ダメージ、被NP発生量、被スター発生率が90%減少する",
+    "detail": "Quickカードの攻撃による被ダメージが90%減少する",
     "iconId": 345,
     "maxRate": 5000,
     "effectId": 0
@@ -4181,9 +4181,9 @@
     "script": {},
     "id": 324,
     "buffGroup": 0,
-    "type": 105,
+    "type": 128,
     "name": "Artsカード耐性",
-    "detail": "Artsカードの攻撃による被ダメージ、被NP発生量、被スター発生率が90%減少する",
+    "detail": "Artsカードの攻撃による被ダメージが90%減少する",
     "iconId": 346,
     "maxRate": 5000,
     "effectId": 0
@@ -4203,9 +4203,9 @@
     "script": {},
     "id": 325,
     "buffGroup": 0,
-    "type": 105,
+    "type": 128,
     "name": "Busterカード耐性",
-    "detail": "Busterカードの攻撃による被ダメージ、被NP発生量、被スター発生率が90%減少する",
+    "detail": "Busterカードの攻撃による被ダメージが90%減少する",
     "iconId": 347,
     "maxRate": 5000,
     "effectId": 0
@@ -6480,7 +6480,7 @@
     "buffGroup": 0,
     "type": 91,
     "name": "特殊耐性アップ",
-    "detail": "全ての攻撃に対する耐性を得る。",
+    "detail": "全ての攻撃に対する耐性を得る",
     "iconId": 334,
     "maxRate": 5000,
     "effectId": 0
@@ -7691,13 +7691,17 @@
     "vals": [],
     "tvals": [
       5000,
-      4003
+      4003,
+      4008
     ],
     "ckSelfIndv": [],
     "ckOpIndv": [
-      4003
+      4003,
+      4008
     ],
-    "script": {},
+    "script": {
+      "checkIndvType": 1
+    },
     "id": 529,
     "buffGroup": 0,
     "type": 86,
@@ -7750,7 +7754,7 @@
     "script": {},
     "id": 532,
     "buffGroup": 0,
-    "type": 105,
+    "type": 128,
     "name": "弱点変化：Quick",
     "detail": "Artsカードの攻撃による被ダメージが減少する",
     "iconId": 346,
@@ -7770,7 +7774,7 @@
     "script": {},
     "id": 533,
     "buffGroup": 0,
-    "type": 105,
+    "type": 128,
     "name": "弱点変化：Quick",
     "detail": "Busterカードの攻撃による被ダメージが減少する",
     "iconId": 347,
@@ -7790,7 +7794,7 @@
     "script": {},
     "id": 534,
     "buffGroup": 0,
-    "type": 105,
+    "type": 128,
     "name": "弱点変化：Arts",
     "detail": "Quickカードの攻撃による被ダメージが減少する",
     "iconId": 345,
@@ -7810,7 +7814,7 @@
     "script": {},
     "id": 535,
     "buffGroup": 0,
-    "type": 105,
+    "type": 128,
     "name": "弱点変化：Arts",
     "detail": "Busterカードの攻撃による被ダメージが減少する",
     "iconId": 347,
@@ -7830,7 +7834,7 @@
     "script": {},
     "id": 536,
     "buffGroup": 0,
-    "type": 105,
+    "type": 128,
     "name": "弱点変化：Buster",
     "detail": "Quickカードの攻撃による被ダメージが減少する",
     "iconId": 345,
@@ -7850,7 +7854,7 @@
     "script": {},
     "id": 537,
     "buffGroup": 0,
-    "type": 105,
+    "type": 128,
     "name": "弱点変化：Buster",
     "detail": "Artsカードの攻撃による被ダメージが減少する",
     "iconId": 346,
@@ -8188,7 +8192,7 @@
     "buffGroup": 0,
     "type": 31,
     "name": "黒闇の衣",
-    "detail": "弱体を受けなくなる＆〔神性〕への攻撃の威力アップ＆通常攻撃を受けた時反撃効果付与",
+    "detail": "弱体を受けなくなる＆〔神性〕への攻撃の威力アップ＆通常攻撃を受けた時強化効果付与",
     "iconId": 322,
     "maxRate": 0,
     "effectId": 0
@@ -8258,9 +8262,14 @@
   },
   {
     "vals": [],
-    "tvals": [],
+    "tvals": [
+      5000,
+      4008
+    ],
     "ckSelfIndv": [],
-    "ckOpIndv": [],
+    "ckOpIndv": [
+      4008
+    ],
     "script": {},
     "id": 562,
     "buffGroup": 0,
@@ -9410,7 +9419,7 @@
     "buffGroup": 600,
     "type": 37,
     "name": "余は楽しい",
-    "detail": "HPが0になった時、HPを回復して耐える",
+    "detail": "〔体操服は良いものだ！〕がフィールドにいる間、HPが0になった時、HPを回復して耐える",
     "iconId": 304,
     "maxRate": 0,
     "effectId": 0
@@ -47855,6 +47864,21 @@
     "effectId": 0
   },
   {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3584,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "威力アップ",
+    "detail": "『復刻:Grandネロ祭 ～2021 Early Summer～』において与えるダメージをアップ",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
     "vals": [
       3005,
       3025
@@ -49078,6 +49102,56 @@
     "detail": "自身の通常攻撃時に敵単体にスタン状態(1ターン)を付与",
     "iconId": 528,
     "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3656,
+    "buffGroup": 0,
+    "type": 114,
+    "name": "毎ターンチャージプラス",
+    "detail": "毎ターンチャージを増やす",
+    "iconId": 319,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3657,
+    "buffGroup": 0,
+    "type": 114,
+    "name": "毎ターンチャージプラス",
+    "detail": "毎ターンチャージを増やす",
+    "iconId": 319,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3658,
+    "buffGroup": 0,
+    "type": 70,
+    "name": "クリティカル発生アップ",
+    "detail": "クリティカルの発生率をアップ",
+    "iconId": 327,
+    "maxRate": 5000,
     "effectId": 0
   }
 ]
