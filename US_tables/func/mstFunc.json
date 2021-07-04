@@ -66477,6 +66477,730 @@
     "vals": [],
     "tvals": [],
     "questTvals": [],
+    "effectList": [
+      345
+    ],
+    "popupTextColor": 1,
+    "id": 3851,
+    "cond": 0,
+    "funcType": 46,
+    "targetType": 21,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "Sacrifice",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1731
+    ],
+    "tvals": [
+      -1122
+    ],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 3852,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 3853,
+    "cond": 0,
+    "funcType": 47,
+    "targetType": 4,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "None",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 3854,
+    "cond": 0,
+    "funcType": 47,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "None",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3005
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      329
+    ],
+    "popupTextColor": 1,
+    "id": 3855,
+    "cond": 0,
+    "funcType": 2,
+    "targetType": 1,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "Remove Debuff",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      2466
+    ],
+    "questTvals": [],
+    "effectList": [
+      327
+    ],
+    "popupTextColor": 2,
+    "id": 3856,
+    "cond": 0,
+    "funcType": 7,
+    "targetType": 9,
+    "applyTarget": 1,
+    "popupIconId": 0,
+    "popupText": "NP Gain",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      2466
+    ],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 3857,
+    "cond": 0,
+    "funcType": 19,
+    "targetType": 9,
+    "applyTarget": 2,
+    "popupIconId": 0,
+    "popupText": "Charge Gain",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      142
+    ],
+    "tvals": [
+      2466
+    ],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 3858,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 9,
+    "applyTarget": 3,
+    "popupIconId": 324,
+    "popupText": "Critical Up",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      117
+    ],
+    "tvals": [
+      2466
+    ],
+    "questTvals": [],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 3859,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 9,
+    "applyTarget": 1,
+    "popupIconId": 321,
+    "popupText": "C. Star\nDrop Rate Up",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      144
+    ],
+    "tvals": [
+      2466
+    ],
+    "questTvals": [],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 3860,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 9,
+    "applyTarget": 2,
+    "popupIconId": 327,
+    "popupText": "Critical Rate\nUp",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1601
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 3861,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1734
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 3,
+    "id": 3862,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 4,
+    "applyTarget": 3,
+    "popupIconId": 520,
+    "popupText": "Weakness Detected",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1735
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 3863,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 331,
+    "popupText": "Activate when Damaged (ATK Up)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      142
+    ],
+    "tvals": [
+      106
+    ],
+    "questTvals": [],
+    "effectList": [
+      330
+    ],
+    "popupTextColor": 2,
+    "id": 3864,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 1,
+    "applyTarget": 3,
+    "popupIconId": 324,
+    "popupText": "Critical Up",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      142
+    ],
+    "tvals": [
+      106
+    ],
+    "questTvals": [],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 3865,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 1,
+    "applyTarget": 3,
+    "popupIconId": 324,
+    "popupText": "Critical Up",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      142
+    ],
+    "tvals": [
+      106
+    ],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 3866,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 1,
+    "applyTarget": 3,
+    "popupIconId": 324,
+    "popupText": "Critical Up",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1736
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      330
+    ],
+    "popupTextColor": 2,
+    "id": 3867,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 302,
+    "popupText": "STR Up\nvs. Lawful and Good",
+    "categoryId": 10205
+  },
+  {
+    "vals": [
+      1736
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 3868,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 302,
+    "popupText": "STR Up\nvs. Lawful and Good",
+    "categoryId": 10205
+  },
+  {
+    "vals": [
+      1736
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 3869,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 302,
+    "popupText": "STR Up\nvs. Lawful and Good",
+    "categoryId": 10205
+  },
+  {
+    "vals": [
+      1737
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 3,
+    "id": 3870,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 537,
+    "popupText": "Salacious Dance",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1738
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 3871,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 331,
+    "popupText": "Dance of the Seven Veils",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3007
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 1,
+    "id": 3872,
+    "cond": 0,
+    "funcType": 2,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "Remove DEF Buff",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      133
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      330
+    ],
+    "popupTextColor": 2,
+    "id": 3873,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 302,
+    "popupText": "STR Up\nvs. Roman",
+    "categoryId": 10205
+  },
+  {
+    "vals": [
+      133
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 3874,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 302,
+    "popupText": "STR Up\nvs. Roman",
+    "categoryId": 10205
+  },
+  {
+    "vals": [
+      133
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 3875,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 302,
+    "popupText": "STR Up\nvs. Roman",
+    "categoryId": 10205
+  },
+  {
+    "vals": [
+      1739
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 3876,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 352,
+    "popupText": "Field Set [Sunlight]",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1740
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 3877,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 1,
+    "applyTarget": 3,
+    "popupIconId": 331,
+    "popupText": "Build Up",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1736
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      330
+    ],
+    "popupTextColor": 2,
+    "id": 3878,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 7,
+    "applyTarget": 3,
+    "popupIconId": 302,
+    "popupText": "STR Up\nvs. Lawful and Good",
+    "categoryId": 10205
+  },
+  {
+    "vals": [
+      1736
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 3879,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 7,
+    "applyTarget": 3,
+    "popupIconId": 302,
+    "popupText": "STR Up\nvs. Lawful and Good",
+    "categoryId": 10205
+  },
+  {
+    "vals": [
+      1736
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 3880,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 7,
+    "applyTarget": 3,
+    "popupIconId": 302,
+    "popupText": "STR Up\nvs. Lawful and Good",
+    "categoryId": 10205
+  },
+  {
+    "vals": [
+      722
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      326
+    ],
+    "popupTextColor": 2,
+    "id": 3881,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 7,
+    "applyTarget": 1,
+    "popupIconId": 325,
+    "popupText": "C. Star Gather Up: Arts",
+    "categoryId": 10403
+  },
+  {
+    "vals": [
+      722
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      327
+    ],
+    "popupTextColor": 2,
+    "id": 3882,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 7,
+    "applyTarget": 1,
+    "popupIconId": 325,
+    "popupText": "C. Star Gather Up: Arts",
+    "categoryId": 10403
+  },
+  {
+    "vals": [
+      722
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 3883,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 7,
+    "applyTarget": 1,
+    "popupIconId": 325,
+    "popupText": "C. Star Gather Up: Arts",
+    "categoryId": 10403
+  },
+  {
+    "vals": [
+      102
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      330
+    ],
+    "popupTextColor": 2,
+    "id": 3884,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 14,
+    "applyTarget": 3,
+    "popupIconId": 314,
+    "popupText": "Buster Up",
+    "categoryId": 10204
+  },
+  {
+    "vals": [
+      102
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 3885,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 14,
+    "applyTarget": 3,
+    "popupIconId": 314,
+    "popupText": "Buster Up",
+    "categoryId": 10204
+  },
+  {
+    "vals": [
+      102
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 3886,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 14,
+    "applyTarget": 3,
+    "popupIconId": 314,
+    "popupText": "Buster Up",
+    "categoryId": 10204
+  },
+  {
+    "vals": [
+      1741
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 3887,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 2,
+    "popupIconId": 331,
+    "popupText": "Dance of the Seven Veils",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      201
+    ],
+    "tvals": [
+      106
+    ],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 3888,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 1,
+    "applyTarget": 3,
+    "popupIconId": 330,
+    "popupText": "Max HP Plus",
+    "categoryId": 20403
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
     "effectList": [],
     "popupTextColor": 1,
     "id": 4039,

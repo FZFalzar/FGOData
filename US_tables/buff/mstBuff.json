@@ -24997,6 +24997,172 @@
     "effectId": 0
   },
   {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1731,
+    "buffGroup": 0,
+    "type": 139,
+    "name": "",
+    "detail": "",
+    "iconId": 512,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005,
+      3009
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1734,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "Weakness Detected",
+    "detail": "A state where weakness is detected",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [
+      5000
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1735,
+    "buffGroup": 0,
+    "type": 86,
+    "name": "Activate when Damaged (ATK Up)",
+    "detail": "Your ATK increases when attacked",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006,
+      3028
+    ],
+    "tvals": [
+      300,
+      303
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      300,
+      303
+    ],
+    "script": {
+      "checkIndvType": 1
+    },
+    "id": 1736,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "Strength Up [Lawful and Good]",
+    "detail": "Increase damage dealt against [Lawful and Good]",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1737,
+    "buffGroup": 0,
+    "type": 85,
+    "name": "Salacious Dance",
+    "detail": "Remove one of your DEF Buffs each turn (Treated as Buff) [Demerit]",
+    "iconId": 537,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1738,
+    "buffGroup": 0,
+    "type": 76,
+    "name": "Dance of the Seven Veils",
+    "detail": "Significantly increase NP Gauge for all allies after 7 turns",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3057,
+      2038
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1739,
+    "buffGroup": 220,
+    "type": 133,
+    "name": "Field Set [Sunlight]",
+    "detail": "Turn the field to [Sunlight]",
+    "iconId": 352,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1740,
+    "buffGroup": 0,
+    "type": 76,
+    "name": "Build Up",
+    "detail": "Increase Max HP after 1 turn",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1741,
+    "buffGroup": 0,
+    "type": 76,
+    "name": "Dance of the Seven Veils",
+    "detail": "Increase Charge by 2 after 7 turns",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
     "vals": [
       3004
     ],

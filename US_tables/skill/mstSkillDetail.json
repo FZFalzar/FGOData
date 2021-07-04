@@ -700,6 +700,11 @@
     "detailShort": "Slightly increase your Buster Card effectiveness"
   },
   {
+    "id": 54349,
+    "detail": "Slightly increase your Buster Card effectiveness",
+    "detailShort": "Slightly increase your Buster Card effectiveness"
+  },
+  {
     "id": 54350,
     "detail": "Slightly increase your Buster Card effectiveness",
     "detailShort": "Slightly increase your Buster Card effectiveness"
@@ -1310,6 +1315,11 @@
     "detailShort": "Apply Target Focus (1 turn) & greatly increase DEF [{0}] (1 turn) for yourself"
   },
   {
+    "id": 100452,
+    "detail": "Increase DEF [{0}] (3 turns) & apply Incoming Damage Cut [{0}] (3 turns) & slightly increase NP Gauge for all allies",
+    "detailShort": "Increase DEF [{0}] (3 turns) & apply Incoming Damage Cut [{0}] (3 turns) & slightly increase NP Gauge for all allies"
+  },
+  {
     "id": 100550,
     "detail": "Increase DEF [{0}] (3 turns) & apply Incoming Damage Cut [{0}] (3 turns) & slightly increase NP Gauge for all allies",
     "detailShort": "Increase DEF [{0}] (3 turns) & apply Incoming Damage Cut [{0}] (3 turns) & slightly increase NP Gauge for all allies"
@@ -1865,6 +1875,11 @@
     "detailShort": "Increase your NP Gauge each turn"
   },
   {
+    "id": 172250,
+    "detail": "Apply Ignore Invincible (1 turn) & increase ATK [{0}] (1 turn) & Debuff Resist [{0}] (3 turns) for yourself",
+    "detailShort": "Apply Ignore Invincible (1 turn) & increase ATK [{0}] (1 turn) & Debuff Resist [{0}] (3 turns) for yourself"
+  },
+  {
     "id": 172650,
     "detail": "Apply Ignore Invincible (1 turn) & increase ATK [{0}] (1 turn) & Debuff Resist [{0}] (3 turns) for yourself",
     "detailShort": "Apply Ignore Invincible (1 turn) & increase ATK [{0}] (1 turn) & Debuff Resist [{0}] (3 turns) for yourself"
@@ -2028,6 +2043,11 @@
     "id": 201551,
     "detail": "Apply Ignore Invincible (3 turns) & increase your Critical Strength [{0}] (3 turns) & decrease Debuff Resist for all allies (except yourself) (3 turns) [Demerit]",
     "detailShort": "Apply Ignore Invincible (3 turns) & increase your Critical Strength [{0}] (3 turns) & decrease Debuff Resist for all allies (except yourself) (3 turns) [Demerit]"
+  },
+  {
+    "id": 202150,
+    "detail": "Apply Target Focus (1 turn) for one ally + Decrease Critical Rate [{0}] (3 turns) for all enemies",
+    "detailShort": "Apply Target Focus (1 turn) for one ally + Decrease Critical Rate [{0}] (3 turns) for all enemies"
   },
   {
     "id": 202350,
@@ -3717,7 +3737,7 @@
   {
     "id": 521150,
     "detail": "Gain C. Stars [{0}] + Decrease C. Star Gather Rate [{0}] (1 turn) for yourself",
-    "detailShort": "Gain C. Stars [{0]} + Decrease C. Star Gather Rate [{0}] (1 turn) for yourself"
+    "detailShort": "Gain C. Stars [{0}] + Decrease C. Star Gather Rate [{0}] (1 turn) for yourself"
   },
   {
     "id": 522550,
@@ -4238,6 +4258,126 @@
     "id": 627550,
     "detail": "Increase ATK [{0}] (3 turns) & Critical Strength [{0}] (3 turns) & C. Star Drop Rate [{0}] (3 turns) for all allies",
     "detailShort": "Increase ATK [{0}] (3 turns) & Critical Strength [{0}] (3 turns) & C. Star Drop Rate [{0}] (3 turns) for all allies"
+  },
+  {
+    "id": 628650,
+    "detail": "Apply Debuff Immune (3 turns) & restore HP per turn [{0}] (3 turns) & increase NP Gauge per turn (3 turns) for yourself",
+    "detailShort": "Apply Debuff Immune (3 turns) & restore HP per turn [{0}] (3 turns) & increase NP Gauge per turn (3 turns) for yourself"
+  },
+  {
+    "id": 629450,
+    "detail": "Apply Evade (1 time) & increase Critical Strength [{0}] (1 turn) for yourself",
+    "detailShort": "Apply Evade (1 time) & increase Critical Strength [{0}] (1 turn) for yourself"
+  },
+  {
+    "id": 630250,
+    "detail": "Increase NP Strength [{0}] (3 turns) & slightly increase NP Gauge & increase NP Charge by 1 level when using NP (1 turn) for all allies",
+    "detailShort": "Increase NP Strength [{0}] (3 turns) & slightly increase NP Gauge & increase NP Charge by 1 level when using NP (1 turn) for all allies"
+  },
+  {
+    "id": 631000,
+    "detail": "Restore HP [{0}] & remove 1 Debuff for one ally",
+    "detailShort": "Restore HP [{0}] & remove 1 Debuff for one ally"
+  },
+  {
+    "id": 632550,
+    "detail": "Apply Evade (1 time, 1 turn) & increase C. Star Drop Rate [{0}] (1 turn) for one ally + Decrease your DEF [Demerit]",
+    "detailShort": "Apply Evade (1 time, 1 turn) & increase C. Star Drop Rate [{0}] (1 turn) for one ally + Decrease your DEF [Demerit]"
+  },
+  {
+    "id": 633452,
+    "detail": "Increase all allies' ATK [{0}] (3 turns) + Increase NP Gauge [{0}] & Critical Strength [{0}] (3 turns) & C. Star Drop Rate [{0}] (3 turns) for all allies [Associated to the Argo] except yourself",
+    "detailShort": "Increase all allies' ATK [{0}] (3 turns) + Increase NP Gauge [{0}] & Critical Strength [{0}] (3 turns) & C. Star Drop Rate [{0}] (3 turns) for all allies [Associated to the Argo] except yourself"
+  },
+  {
+    "id": 634450,
+    "detail": "Increase your Debuff Chance Rate",
+    "detailShort": "Increase your Debuff Chance Rate"
+  },
+  {
+    "id": 635451,
+    "detail": "Apply Evade (1 time, 1 turn) to yourself + Decrease Critical Rate [{0}] (1 turn) & remove Buffs & if Buff removal succeeds, apply a [Weakness Detected] state (3 turns) to a single enemy",
+    "detailShort": "Apply Evade (1 time, 1 turn) to yourself + Decrease Critical Rate [{0}] (1 turn) & remove Buffs & if Buff removal succeeds, apply a [Weakness Detected] state (3 turns) to a single enemy"
+  },
+  {
+    "id": 636450,
+    "detail": "Increase ATK [{0}] (1 turn) & DEF [{0}] (3 turns) & Debuff Resist (3 turns) for yourself",
+    "detailShort": "Increase ATK [{0}] (1 turn) & DEF [{0}] (3 turns) & Debuff Resist (3 turns) for yourself"
+  },
+  {
+    "id": 637650,
+    "detail": "Increase NP Gauge [{0}] & restore HP [{0}] for yourself",
+    "detailShort": "Increase NP Gauge [{0}] & restore HP [{0}] for yourself"
+  },
+  {
+    "id": 638450,
+    "detail": "Increase NP Gauge [{0}] & apply \"increase your ATK when damaged [{0}] (1 time, 5 turns)\" state (3 turns) for yourself",
+    "detailShort": "Increase NP Gauge [{0}] & apply \"increase your ATK when damaged [{0}] (1 time, 5 turns)\" state (3 turns) for yourself"
+  },
+  {
+    "id": 639450,
+    "detail": "Apply Target Focus (1 turn) & greatly increase DEF [{0}] (1 turn) & increase NP Gain [{0}] (1 turn) for yourself",
+    "detailShort": "Apply Target Focus (1 turn) & greatly increase DEF [{0}] (1 turn) & increase NP Gain [{0}] (1 turn) for yourself"
+  },
+  {
+    "id": 640550,
+    "detail": "Decrease C. Star Gather Rate (3 turns) for yourself + Increase Critical Strength [{0}] (3 turns) for all allies",
+    "detailShort": "Decrease C. Star Gather Rate (3 turns) for yourself + Increase Critical Strength [{0}] (3 turns) for all allies"
+  },
+  {
+    "id": 641550,
+    "detail": "Increase Quick Card effectiveness [{0}] (3 turns) for yourself + Decrease Critical Rate [{0}] (3 turns) for all enemies + Gain C. Stars [{0}]",
+    "detailShort": "Increase Quick Card effectiveness [{0}] (3 turns) for yourself + Decrease Critical Rate [{0}] (3 turns) for all enemies + Gain C. Stars [{0}]"
+  },
+  {
+    "id": 643550,
+    "detail": "Increase Buster Card effectiveness [{0}] (1 turn) for one ally + Increase [Berserker] Critical Strength [{0}] (1 turn) & Max HP [{0}] (1 turn) for one ally",
+    "detailShort": "Increase Buster Card effectiveness [{0}] (1 turn) for one ally + Increase [Berserker] Critical Strength [{0}] (1 turn) & Max HP [{0}] (1 turn) for one ally"
+  },
+  {
+    "id": 644550,
+    "detail": "Increase Death Success Rate [{0}] (1 turn) & apply Evade (2 times, 3 turns) for yourself",
+    "detailShort": "Increase Death Success Rate [{0}] (1 turn) & apply Evade (2 times, 3 turns) for yourself"
+  },
+  {
+    "id": 645251,
+    "detail": "Increase Arts Card effectiveness [{0}] (3 turns) or Critical Strength [{0}] (3 turns) or NP Strength [{0}] (3 turns) for yourself",
+    "detailShort": "Increase Arts Card effectiveness [{0}] (3 turns) or Critical Strength [{0}] (3 turns) or NP Strength [{0}] (3 turns) for yourself"
+  },
+  {
+    "id": 646451,
+    "detail": "Apply Special Attack [Lawful and Good] [{0}] (3 turns) & increase ATK [{0}] (3 turns) for yourself",
+    "detailShort": "Apply Special Attack [Lawful and Good] [{0}] (3 turns) & increase ATK [{0}] (3 turns) for yourself"
+  },
+  {
+    "id": 647350,
+    "detail": "Apply Debuff Immune (1 time, 3 turns) & increase DEF [{0}] (3 turns) & apply Invincible (1 time, 3 turns) for yourself",
+    "detailShort": "Apply Debuff Immune (1 time, 3 turns) & increase DEF [{0}] (3 turns) & apply Invincible (1 time, 3 turns) for yourself"
+  },
+  {
+    "id": 648550,
+    "detail": "Apply HP Recovery each turn [{0}] (7 turns) & apply a state \"Remove one DEF Buff each turn\" <treated as a Buff> (7 turns) [Demerit] & apply a state where \"NP Gauge significantly increases after 7 turns for all allies\" [{0}] (1 time) for yourself",
+    "detailShort": "Apply HP Recovery each turn [{0}] (7 turns) & apply a state \"Remove one DEF Buff each turn\" <treated as a Buff> (7 turns) [Demerit] & apply a state where \"NP Gauge significantly increases after 7 turns for all allies\" [{0}] (1 time) for yourself"
+  },
+  {
+    "id": 649350,
+    "detail": "Apply Guts for yourself (1 time, 3 turns) [{0}]",
+    "detailShort": "Apply Guts for yourself (1 time, 3 turns) [{0}]"
+  },
+  {
+    "id": 650550,
+    "detail": "Increase NP Strength [g][o]▲[/o][/g] [{0}] (3 turns [g][o]▲[/o][/g]) for all allies + Remove DEF Buffs [g][o]▲[/o][/g] for all enemies",
+    "detailShort": "Increase NP Strength [g][o]▲[/o][/g] [{0}] (3 turns [g][o]▲[/o][/g]) for all allies + Remove DEF Buffs [g][o]▲[/o][/g] for all enemies"
+  },
+  {
+    "id": 651451,
+    "detail": "Increase Attack Debuff Resist [{0}] (3 turns) & greatly restore HP [g][o]▲[/o][/g] [{0}] & increase NP Gauge [g][o]▲[/o][/g] for yourself",
+    "detailShort": "Increase Attack Debuff Resist [{0}] (3 turns) & greatly restore HP [g][o]▲[/o][/g] [{0}] & increase NP Gauge [g][o]▲[/o][/g] for yourself"
+  },
+  {
+    "id": 659150,
+    "detail": "Increase Debuff Resist & C. Star Drop Rate for yourself",
+    "detailShort": "Increase Debuff Resist & C. Star Drop Rate for yourself"
   },
   {
     "id": 734650,
@@ -4973,6 +5113,286 @@
     "id": 962097,
     "detail": "Increase Bond gained by 20% when completing a Main Quest in Part 2 <including sub-members> (no effect when Support)",
     "detailShort": "Increase Bond gained by 20% when completing a Main Quest in Part 2 <including sub-members> (no effect when Support)"
+  },
+  {
+    "id": 962854,
+    "detail": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50",
+    "detailShort": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50"
+  },
+  {
+    "id": 962855,
+    "detail": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50",
+    "detailShort": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50"
+  },
+  {
+    "id": 962856,
+    "detail": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50",
+    "detailShort": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50"
+  },
+  {
+    "id": 962857,
+    "detail": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50",
+    "detailShort": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50"
+  },
+  {
+    "id": 962858,
+    "detail": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50",
+    "detailShort": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50"
+  },
+  {
+    "id": 962859,
+    "detail": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50",
+    "detailShort": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50"
+  },
+  {
+    "id": 962860,
+    "detail": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50",
+    "detailShort": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50"
+  },
+  {
+    "id": 962861,
+    "detail": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50",
+    "detailShort": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50"
+  },
+  {
+    "id": 962863,
+    "detail": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50",
+    "detailShort": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50"
+  },
+  {
+    "id": 962864,
+    "detail": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50",
+    "detailShort": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50"
+  },
+  {
+    "id": 962865,
+    "detail": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50",
+    "detailShort": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50"
+  },
+  {
+    "id": 962866,
+    "detail": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50",
+    "detailShort": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50"
+  },
+  {
+    "id": 962867,
+    "detail": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50",
+    "detailShort": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50"
+  },
+  {
+    "id": 962868,
+    "detail": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50",
+    "detailShort": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50"
+  },
+  {
+    "id": 962869,
+    "detail": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50",
+    "detailShort": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50"
+  },
+  {
+    "id": 962870,
+    "detail": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50",
+    "detailShort": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50"
+  },
+  {
+    "id": 962871,
+    "detail": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50",
+    "detailShort": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50"
+  },
+  {
+    "id": 962872,
+    "detail": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50",
+    "detailShort": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50"
+  },
+  {
+    "id": 962873,
+    "detail": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50",
+    "detailShort": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50"
+  },
+  {
+    "id": 962874,
+    "detail": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50",
+    "detailShort": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50"
+  },
+  {
+    "id": 962875,
+    "detail": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50",
+    "detailShort": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50"
+  },
+  {
+    "id": 962876,
+    "detail": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50",
+    "detailShort": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50"
+  },
+  {
+    "id": 962877,
+    "detail": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50",
+    "detailShort": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50"
+  },
+  {
+    "id": 962878,
+    "detail": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50",
+    "detailShort": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50"
+  },
+  {
+    "id": 962879,
+    "detail": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50",
+    "detailShort": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50"
+  },
+  {
+    "id": 962880,
+    "detail": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50",
+    "detailShort": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50"
+  },
+  {
+    "id": 962881,
+    "detail": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50",
+    "detailShort": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50"
+  },
+  {
+    "id": 962882,
+    "detail": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50",
+    "detailShort": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50"
+  },
+  {
+    "id": 962883,
+    "detail": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50",
+    "detailShort": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50"
+  },
+  {
+    "id": 962884,
+    "detail": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50",
+    "detailShort": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50"
+  },
+  {
+    "id": 962885,
+    "detail": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50",
+    "detailShort": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50"
+  },
+  {
+    "id": 962886,
+    "detail": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50",
+    "detailShort": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50"
+  },
+  {
+    "id": 962887,
+    "detail": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50",
+    "detailShort": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50"
+  },
+  {
+    "id": 962888,
+    "detail": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50",
+    "detailShort": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50"
+  },
+  {
+    "id": 962889,
+    "detail": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50",
+    "detailShort": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50"
+  },
+  {
+    "id": 962890,
+    "detail": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50",
+    "detailShort": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50"
+  },
+  {
+    "id": 962891,
+    "detail": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50",
+    "detailShort": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50"
+  },
+  {
+    "id": 962892,
+    "detail": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50",
+    "detailShort": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50"
+  },
+  {
+    "id": 962893,
+    "detail": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50",
+    "detailShort": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50"
+  },
+  {
+    "id": 962894,
+    "detail": "Increase C. Star Gather Rate by 100% & NP Strength by 10% & begin battle with NP charged at 50% for yourself",
+    "detailShort": "Increase C. Star Gather Rate by 100% & NP Strength by 10% & begin battle with NP charged at 50% for yourself"
+  },
+  {
+    "id": 962895,
+    "detail": "Increase C. Star Gather Rate by 200% & NP Strength by 15% & begin battle with NP charged at 60% for yourself [MAX]",
+    "detailShort": "Increase C. Star Gather Rate by 200% & NP Strength by 15% & begin battle with NP charged at 60% for yourself [MAX]"
+  },
+  {
+    "id": 962896,
+    "detail": "Increase Quick Card effectiveness by 6% & Buster Card effectiveness by 6% & increase NP Gauge by 4% per turn for yourself",
+    "detailShort": "Increase Quick Card effectiveness by 6% & Buster Card effectiveness by 6% & increase NP Gauge by 4% per turn for yourself"
+  },
+  {
+    "id": 962897,
+    "detail": "Increase Quick Card effectiveness by 8% & Buster Card effectiveness by 8% & increase NP Gauge by 5% per turn for yourself [MAX]",
+    "detailShort": "Increase Quick Card effectiveness by 8% & Buster Card effectiveness by 8% & increase NP Gauge by 5% per turn for yourself [MAX]"
+  },
+  {
+    "id": 962898,
+    "detail": "Restore 50 HP each turn & increase Critical Strength by 5% for yourself",
+    "detailShort": "Restore 50 HP each turn & increase Critical Strength by 5% for yourself"
+  },
+  {
+    "id": 962899,
+    "detail": "Restore 100 HP each turn & increase Critical Strength by 10% for yourself [MAX]",
+    "detailShort": "Restore 100 HP each turn & increase Critical Strength by 10% for yourself [MAX]"
+  },
+  {
+    "id": 962900,
+    "detail": "Increase the amount of QP obtained from drops by 1% & Bond gained when completing quests by 1%",
+    "detailShort": "Increase the amount of QP obtained from drops by 1% & Bond gained when completing quests by 1%"
+  },
+  {
+    "id": 962901,
+    "detail": "Increase the amount of QP obtained from drops by 5% & Bond gained when completing quests by 5% [MAX]",
+    "detailShort": "Increase the amount of QP obtained from drops by 5% & Bond gained when completing quests by 5% [MAX]"
+  },
+  {
+    "id": 962902,
+    "detail": "Increase all allies' Arts Card effectiveness by 15% only if [servantName 103800] (Saber) is equipped with this Craft Essence when he is on the field.",
+    "detailShort": "Increase all allies' Arts Card effectiveness by 15% only if [servantName 103800] (Saber) is equipped with this Craft Essence when he is on the field."
+  },
+  {
+    "id": 962903,
+    "detail": "Increase all allies' Quick Card effectiveness by 10% & Critical Strength by 15% only if [servantName 203500] (Archer) is equipped with this Craft Essence when he is on the field",
+    "detailShort": "Increase all allies' Quick Card effectiveness by 10% & Critical Strength by 15% only if [servantName 203500] (Archer) is equipped with this Craft Essence when he is on the field"
+  },
+  {
+    "id": 962904,
+    "detail": "Increase Buster Card effectiveness by 10% & Critical Strength by 15% for all allies only if [servantName 303900] (Lancer) is equipped with this Craft Essence when she is on the field.",
+    "detailShort": "Increase Buster Card effectiveness by 10% & Critical Strength by 15% for all allies only if [servantName 303900] (Lancer) is equipped with this Craft Essence when she is on the field."
+  },
+  {
+    "id": 962905,
+    "detail": "Increase all allies' NP Gain by 10% & NP Strength by 10% only if [servantName 403400] (Rider) is equipped with this Craft Essence when he is on the field.",
+    "detailShort": "Increase all allies' NP Gain by 10% & NP Strength by 10% only if [servantName 403400] (Rider) is equipped with this Craft Essence when he is on the field."
+  },
+  {
+    "id": 962906,
+    "detail": "Increase all allies', except yourself, Buster Card effectiveness by 20% only if [servantName 504400] (Caster) is equipped with this Craft Essence when he is on the field.",
+    "detailShort": "Increase all allies', except yourself, Buster Card effectiveness by 20% only if [servantName 504400] (Caster) is equipped with this Craft Essence when he is on the field."
+  },
+  {
+    "id": 962907,
+    "detail": "Increase all allies' Critical Strength by 25% only if [servantName 603800] (Assassin) is equipped with this Craft Essence when she is on the field.",
+    "detailShort": "Increase all allies' Critical Strength by 25% only if [servantName 603800] (Assassin) is equipped with this Craft Essence when she is on the field."
+  },
+  {
+    "id": 962908,
+    "detail": "Apply 20% [Lawful and Good] Special Attack bonus to all allies only if [servantName 703400] (Berserker) is equipped with this Craft Essence when she is on the field. ",
+    "detailShort": "Apply 20% [Lawful and Good] Special Attack bonus to all allies only if [servantName 703400] (Berserker) is equipped with this Craft Essence when she is on the field. "
+  },
+  {
+    "id": 962909,
+    "detail": "Increase all allies' Arts Card C. Star Gather Rate by 100% only if [servantName 403500] (Rider) is equipped with this Craft Essence when she is on the field. ",
+    "detailShort": "Increase all allies' Arts Card C. Star Gather Rate by 100% only if [servantName 403500] (Rider) is equipped with this Craft Essence when she is on the field. "
+  },
+  {
+    "id": 962910,
+    "detail": "Increase Critical Strength by 5% (1 time, 1 turn) for all allies when attacking with the engraved Card",
+    "detailShort": "Increase Critical Strength by 5% (1 time, 1 turn) for all allies when attacking with the engraved Card"
   },
   {
     "id": 980001,

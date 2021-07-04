@@ -2881,6 +2881,107 @@
       0
     ],
     "prices": [
+      1000
+    ],
+    "targetIds": [
+      9403990
+    ],
+    "script": {
+      "remainDays": 14
+    },
+    "id": 11141,
+    "baseShopId": 11141,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 2048,
+    "priority": 10,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 5,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Great Detective Foumes",
+    "detail": "[Limited Mana Prism Exchange]\nExchange for Limited ★5 Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1625335200,
+    "closedAt": 1635724799
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      5
+    ],
+    "targetIds": [
+      9570300
+    ],
+    "script": {},
+    "id": 11142,
+    "baseShopId": 11142,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 2048,
+    "priority": 17,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 30,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "[Limited Time] Hero Crystal: Star Fou",
+    "detail": "[4th Anniversary]\nExchange for one ★3 ALL HP Up card",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 80246,
+    "bgImageId": 0,
+    "openedAt": 1625335200,
+    "closedAt": 1626235199
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      5
+    ],
+    "targetIds": [
+      9670300
+    ],
+    "script": {},
+    "id": 11143,
+    "baseShopId": 11143,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 2048,
+    "priority": 18,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 30,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "[Limited Time] Hero Crystal: Sun Fou",
+    "detail": "[4th Anniversary]\nExchange for one ★3 ALL ATK Up card",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 80247,
+    "bgImageId": 0,
+    "openedAt": 1625335200,
+    "closedAt": 1626235199
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
       500
     ],
     "targetIds": [
@@ -5257,6 +5358,72 @@
       0
     ],
     "prices": [
+      10
+    ],
+    "targetIds": [
+      4001
+    ],
+    "script": {},
+    "id": 14113,
+    "baseShopId": 14113,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 2048,
+    "priority": 15,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 10,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "[Limited Time] Summon Ticket",
+    "detail": "[4th Anniversary]\nExchange for one Summon Ticket that can perform one Saint Quartz summon",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 80244,
+    "bgImageId": 0,
+    "openedAt": 1625335200,
+    "closedAt": 1626235199
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      20
+    ],
+    "targetIds": [
+      11011
+    ],
+    "script": {},
+    "id": 14114,
+    "baseShopId": 14114,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 2048,
+    "priority": 16,
+    "purchaseType": 5,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 10,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "[Limited Time] EXP Card Set",
+    "detail": "[4th Anniversary]\nExchange for 10 ★4 ALL EXP cards",
+    "infoMessage": "Exchange for 10 ★4 ALL EXP cards",
+    "warningMessage": "",
+    "imageId": 80245,
+    "bgImageId": 0,
+    "openedAt": 1625335200,
+    "closedAt": 1626235199
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
       100
     ],
     "targetIds": [
@@ -6769,6 +6936,138 @@
     "bgImageId": 0,
     "openedAt": 1625097600,
     "closedAt": 1627775999
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      50
+    ],
+    "targetIds": [
+      5000
+    ],
+    "script": {},
+    "id": 18050,
+    "baseShopId": 18050,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 2048,
+    "priority": 11,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 3,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "[Limited Time] Quick Code Opener",
+    "detail": "[4th Anniversary]\nExchange for [Command Code Slot Release Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 80240,
+    "bgImageId": 0,
+    "openedAt": 1625335200,
+    "closedAt": 1626235199
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      50
+    ],
+    "targetIds": [
+      5001
+    ],
+    "script": {},
+    "id": 18051,
+    "baseShopId": 18051,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 2048,
+    "priority": 12,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 3,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "[Limited Time] Arts Code Opener",
+    "detail": "[4th Anniversary]\nExchange for [Command Code Slot Release Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 80241,
+    "bgImageId": 0,
+    "openedAt": 1625335200,
+    "closedAt": 1626235199
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      50
+    ],
+    "targetIds": [
+      5002
+    ],
+    "script": {},
+    "id": 18052,
+    "baseShopId": 18052,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 2048,
+    "priority": 13,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 3,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "[Limited Time] Buster Code Opener",
+    "detail": "[4th Anniversary]\nExchange for [Command Code Slot Release Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 80242,
+    "bgImageId": 0,
+    "openedAt": 1625335200,
+    "closedAt": 1626235199
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      100
+    ],
+    "targetIds": [
+      5003
+    ],
+    "script": {},
+    "id": 18053,
+    "baseShopId": 18053,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 2048,
+    "priority": 14,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 3,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "[Limited Time] Code Remover",
+    "detail": "[4th Anniversary]\nExchange for [Command Code Detacher Item]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 80243,
+    "bgImageId": 0,
+    "openedAt": 1625335200,
+    "closedAt": 1626235199
   },
   {
     "itemIds": [
@@ -15085,6 +15384,105 @@
     "bgImageId": 0,
     "openedAt": 1624161600,
     "closedAt": 1625356799
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      403500
+    ],
+    "script": {},
+    "id": 4000358,
+    "baseShopId": 4000358,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 887,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Leonardo da Vinci",
+    "detail": "Exchange for Limited Time ★5 Servant",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1625335200,
+    "closedAt": 1626580799
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      1000800
+    ],
+    "script": {},
+    "id": 4000359,
+    "baseShopId": 4000359,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 2900,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 0,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Sitonai",
+    "detail": "Exchange for ★5 Servant",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1625716800,
+    "closedAt": 1625803199
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      603600
+    ],
+    "script": {},
+    "id": 4000360,
+    "baseShopId": 4000360,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 2450,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 0,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Li Shuwen",
+    "detail": "Exchange for ★5 Servant",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1625803200,
+    "closedAt": 1625889599
   },
   {
     "itemIds": [
@@ -33103,6 +33501,402 @@
     "bgImageId": 0,
     "openedAt": 1623902400,
     "closedAt": 1624507199
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      3
+    ],
+    "targetIds": [
+      1000
+    ],
+    "script": {},
+    "id": 6000319,
+    "baseShopId": 6000319,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 30,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Lantern of Chaldea",
+    "detail": "Exchange for [Bond Limit Release Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1626307200,
+    "closedAt": 1628985599
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      5003
+    ],
+    "script": {},
+    "id": 6000320,
+    "baseShopId": 6000320,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 31,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 3,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Code Remover",
+    "detail": "Exchange for [Command Code Detacher Item]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1626307200,
+    "closedAt": 1628985599
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      5
+    ],
+    "targetIds": [
+      6999
+    ],
+    "script": {},
+    "id": 6000321,
+    "baseShopId": 6000321,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 32,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Crystallized Lore",
+    "detail": "Exchange for [Skill up Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1626307200,
+    "closedAt": 1628985599
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      3
+    ],
+    "targetIds": [
+      9570400
+    ],
+    "script": {},
+    "id": 6000322,
+    "baseShopId": 6000322,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 33,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Hero Crystal: Meteor Fou",
+    "detail": "Exchange for one ★4 ALL HP Up card",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1626307200,
+    "closedAt": 1628985599
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      3
+    ],
+    "targetIds": [
+      9670400
+    ],
+    "script": {},
+    "id": 6000323,
+    "baseShopId": 6000323,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 34,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Hero Crystal: Corona Fou",
+    "detail": "Exchange for one ★4 ALL ATK Up card",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1626307200,
+    "closedAt": 1628985599
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      4
+    ],
+    "script": {},
+    "id": 6000324,
+    "baseShopId": 6000324,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 35,
+    "purchaseType": 1,
+    "setNum": 20000,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 5,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Friend Points",
+    "detail": "Exchange for 20,000 Friend Points",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1626307200,
+    "closedAt": 1628985599
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      3
+    ],
+    "targetIds": [
+      1000
+    ],
+    "script": {},
+    "id": 6000325,
+    "baseShopId": 6000325,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 2048,
+    "priority": 20,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "[Limited Time] Lantern of Chaldea",
+    "detail": "[4th Anniversary]\nExchange for [Bond Limit Release Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 80248,
+    "bgImageId": 0,
+    "openedAt": 1625335200,
+    "closedAt": 1626235199
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      5003
+    ],
+    "script": {},
+    "id": 6000326,
+    "baseShopId": 6000326,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 2048,
+    "priority": 21,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 3,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "[Limited Time] Code Remover",
+    "detail": "[4th Anniversary]\nExchange for [Command Code Detacher Item]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 80249,
+    "bgImageId": 0,
+    "openedAt": 1625335200,
+    "closedAt": 1626235199
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      5
+    ],
+    "targetIds": [
+      6999
+    ],
+    "script": {},
+    "id": 6000327,
+    "baseShopId": 6000327,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 2048,
+    "priority": 22,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "[Limited Time] Crystallized Lore",
+    "detail": "[4th Anniversary]\nExchange for [Skill Up Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 80250,
+    "bgImageId": 0,
+    "openedAt": 1625335200,
+    "closedAt": 1626235199
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      3
+    ],
+    "targetIds": [
+      9570400
+    ],
+    "script": {},
+    "id": 6000328,
+    "baseShopId": 6000328,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 2048,
+    "priority": 23,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "[Limited Time] Hero Crystal: Meteor Fou",
+    "detail": "[4th Anniversary]\nExchange for one ★4 ALL HP Up card",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 80251,
+    "bgImageId": 0,
+    "openedAt": 1625335200,
+    "closedAt": 1626235199
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      3
+    ],
+    "targetIds": [
+      9670400
+    ],
+    "script": {},
+    "id": 6000329,
+    "baseShopId": 6000329,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 2048,
+    "priority": 24,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "[Limited Time] Hero Crystal: Corona Fou",
+    "detail": "[4th Anniversary]\nExchange for one ★4 ALL ATK Up card",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 80252,
+    "bgImageId": 0,
+    "openedAt": 1625335200,
+    "closedAt": 1626235199
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      4
+    ],
+    "script": {},
+    "id": 6000330,
+    "baseShopId": 6000330,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 2048,
+    "priority": 25,
+    "purchaseType": 1,
+    "setNum": 20000,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 5,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "[Limited Time] Friend Points",
+    "detail": "[4th Anniversary]\nExchange for 20,000 Friend Points",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 80253,
+    "bgImageId": 0,
+    "openedAt": 1625335200,
+    "closedAt": 1626235199
   },
   {
     "itemIds": [
@@ -65135,7 +65929,7 @@
     "setNum": 5,
     "payType": 4,
     "shopType": 4,
-    "limitNum": 80,
+    "limitNum": 100,
     "defaultLv": 0,
     "defaultLimitCount": 0,
     "name": "Expand Second Archive (Servant)",
@@ -65144,7 +65938,7 @@
     "warningMessage": "",
     "imageId": 20,
     "bgImageId": 0,
-    "openedAt": 1486562400,
+    "openedAt": 1625335200,
     "closedAt": 1901231999
   },
   {
@@ -65168,7 +65962,7 @@
     "setNum": 5,
     "payType": 4,
     "shopType": 5,
-    "limitNum": 80,
+    "limitNum": 100,
     "defaultLv": 0,
     "defaultLimitCount": 0,
     "name": "Expand Second Archive (CE)",
@@ -65177,7 +65971,7 @@
     "warningMessage": "",
     "imageId": 21,
     "bgImageId": 0,
-    "openedAt": 1486562400,
+    "openedAt": 1625335200,
     "closedAt": 1901231999
   },
   {
@@ -141351,6 +142145,1293 @@
     "bgImageId": 80250,
     "openedAt": 1624161600,
     "closedAt": 1625975999
+  },
+  {
+    "itemIds": [
+      94040501
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9303940
+    ],
+    "script": {},
+    "id": 80255001,
+    "baseShopId": 80255001,
+    "eventId": 80255,
+    "slot": 0,
+    "flag": 256,
+    "priority": 1,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 80,
+    "defaultLimitCount": 4,
+    "name": "Festival Portrait: Arjuna (Alter)",
+    "detail": "[Exchange for only 2 out of 39!]\nExchange for a Fate/Grand Order 2021 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Warning:\n\n[FF0000]Only 2 of the 39 types[-] can be redeemed.\n\nOnce you redeem it, you cannot change to a different Craft Essence.\n\nWill you exchange for\n\n{0}?",
+    "imageId": 0,
+    "bgImageId": 80255,
+    "openedAt": 1625335200,
+    "closedAt": 1626926399
+  },
+  {
+    "itemIds": [
+      94040501
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9304260
+    ],
+    "script": {},
+    "id": 80255002,
+    "baseShopId": 80255002,
+    "eventId": 80255,
+    "slot": 0,
+    "flag": 256,
+    "priority": 8,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 80,
+    "defaultLimitCount": 4,
+    "name": "Festival Portrait: Prince of Lan Ling",
+    "detail": "[Exchange for only 2 out of 39!]\nExchange for a Fate/Grand Order 2021 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Warning:\n\n[FF0000]Only 2 of the 39 types[-] can be redeemed.\n\nOnce you redeem it, you cannot change to a different Craft Essence.\n\nWill you exchange for\n\n{0}?",
+    "imageId": 0,
+    "bgImageId": 80255,
+    "openedAt": 1625335200,
+    "closedAt": 1626926399
+  },
+  {
+    "itemIds": [
+      94040501
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9304060
+    ],
+    "script": {},
+    "id": 80255003,
+    "baseShopId": 80255003,
+    "eventId": 80255,
+    "slot": 0,
+    "flag": 256,
+    "priority": 3,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 80,
+    "defaultLimitCount": 4,
+    "name": "Festival Portrait: Yu Mei-ren",
+    "detail": "[Exchange for only 2 out of 39!]\nExchange for a Fate/Grand Order 2021 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Warning:\n\n[FF0000]Only 2 of the 39 types[-] can be redeemed.\n\nOnce you redeem it, you cannot change to a different Craft Essence.\n\nWill you exchange for\n\n{0}?",
+    "imageId": 0,
+    "bgImageId": 80255,
+    "openedAt": 1625335200,
+    "closedAt": 1626926399
+  },
+  {
+    "itemIds": [
+      94040501
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9304210
+    ],
+    "script": {},
+    "id": 80255004,
+    "baseShopId": 80255004,
+    "eventId": 80255,
+    "slot": 0,
+    "flag": 256,
+    "priority": 6,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 80,
+    "defaultLimitCount": 4,
+    "name": "Festival Portrait: Bradamante",
+    "detail": "[Exchange for only 2 out of 39!]\nExchange for a Fate/Grand Order 2021 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Warning:\n\n[FF0000]Only 2 of the 39 types[-] can be redeemed.\n\nOnce you redeem it, you cannot change to a different Craft Essence.\n\nWill you exchange for\n\n{0}?",
+    "imageId": 0,
+    "bgImageId": 80255,
+    "openedAt": 1625335200,
+    "closedAt": 1626926399
+  },
+  {
+    "itemIds": [
+      94040501
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9303900
+    ],
+    "script": {},
+    "id": 80255005,
+    "baseShopId": 80255005,
+    "eventId": 80255,
+    "slot": 0,
+    "flag": 256,
+    "priority": 2,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 80,
+    "defaultLimitCount": 4,
+    "name": "Festival Portrait: Astraea",
+    "detail": "[Exchange for only 2 out of 39!]\nExchange for a Fate/Grand Order 2021 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Warning:\n\n[FF0000]Only 2 of the 39 types[-] can be redeemed.\n\nOnce you redeem it, you cannot change to a different Craft Essence.\n\nWill you exchange for\n\n{0}?",
+    "imageId": 0,
+    "bgImageId": 80255,
+    "openedAt": 1625335200,
+    "closedAt": 1626926399
+  },
+  {
+    "itemIds": [
+      94040501
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9304100
+    ],
+    "script": {},
+    "id": 80255006,
+    "baseShopId": 80255006,
+    "eventId": 80255,
+    "slot": 0,
+    "flag": 256,
+    "priority": 5,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 80,
+    "defaultLimitCount": 4,
+    "name": "Festival Portrait: Qin Shi Huang",
+    "detail": "[Exchange for only 2 out of 39!]\nExchange for a Fate/Grand Order 2021 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Warning:\n\n[FF0000]Only 2 of the 39 types[-] can be redeemed.\n\nOnce you redeem it, you cannot change to a different Craft Essence.\n\nWill you exchange for\n\n{0}?",
+    "imageId": 0,
+    "bgImageId": 80255,
+    "openedAt": 1625335200,
+    "closedAt": 1626926399
+  },
+  {
+    "itemIds": [
+      94040501
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9304250
+    ],
+    "script": {},
+    "id": 80255007,
+    "baseShopId": 80255007,
+    "eventId": 80255,
+    "slot": 0,
+    "flag": 256,
+    "priority": 7,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 80,
+    "defaultLimitCount": 4,
+    "name": "Festival Portrait: Mordred (Saber)",
+    "detail": "[Exchange for only 2 out of 39!]\nExchange for a Fate/Grand Order 2021 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Warning:\n\n[FF0000]Only 2 of the 39 types[-] can be redeemed.\n\nOnce you redeem it, you cannot change to a different Craft Essence.\n\nWill you exchange for\n\n{0}?",
+    "imageId": 0,
+    "bgImageId": 80255,
+    "openedAt": 1625335200,
+    "closedAt": 1626926399
+  },
+  {
+    "itemIds": [
+      94040501
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9304150
+    ],
+    "script": {},
+    "id": 80255008,
+    "baseShopId": 80255008,
+    "eventId": 80255,
+    "slot": 0,
+    "flag": 256,
+    "priority": 13,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 80,
+    "defaultLimitCount": 4,
+    "name": "Festival Portrait: Diarmuid Ua Duibhne (Saber)",
+    "detail": "[Exchange for only 2 out of 39!]\nExchange for a Fate/Grand Order 2021 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Warning:\n\n[FF0000]Only 2 of the 39 types[-] can be redeemed.\n\nOnce you redeem it, you cannot change to a different Craft Essence.\n\nWill you exchange for\n\n{0}?",
+    "imageId": 0,
+    "bgImageId": 80255,
+    "openedAt": 1625335200,
+    "closedAt": 1626926399
+  },
+  {
+    "itemIds": [
+      94040501
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9304110
+    ],
+    "script": {},
+    "id": 80255009,
+    "baseShopId": 80255009,
+    "eventId": 80255,
+    "slot": 0,
+    "flag": 256,
+    "priority": 9,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 80,
+    "defaultLimitCount": 4,
+    "name": "Festival Portrait: Sitonai",
+    "detail": "[Exchange for only 2 out of 39!]\nExchange for a Fate/Grand Order 2021 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Warning:\n\n[FF0000]Only 2 of the 39 types[-] can be redeemed.\n\nOnce you redeem it, you cannot change to a different Craft Essence.\n\nWill you exchange for\n\n{0}?",
+    "imageId": 0,
+    "bgImageId": 80255,
+    "openedAt": 1625335200,
+    "closedAt": 1626926399
+  },
+  {
+    "itemIds": [
+      94040501
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9304130
+    ],
+    "script": {},
+    "id": 80255010,
+    "baseShopId": 80255010,
+    "eventId": 80255,
+    "slot": 0,
+    "flag": 256,
+    "priority": 11,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 80,
+    "defaultLimitCount": 4,
+    "name": "Festival Portrait: Shuten-Douji (Caster)",
+    "detail": "[Exchange for only 2 out of 39!]\nExchange for a Fate/Grand Order 2021 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Warning:\n\n[FF0000]Only 2 of the 39 types[-] can be redeemed.\n\nOnce you redeem it, you cannot change to a different Craft Essence.\n\nWill you exchange for\n\n{0}?",
+    "imageId": 0,
+    "bgImageId": 80255,
+    "openedAt": 1625335200,
+    "closedAt": 1626926399
+  },
+  {
+    "itemIds": [
+      94040501
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9304140
+    ],
+    "script": {},
+    "id": 80255011,
+    "baseShopId": 80255011,
+    "eventId": 80255,
+    "slot": 0,
+    "flag": 256,
+    "priority": 12,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 80,
+    "defaultLimitCount": 4,
+    "name": "Festival Portrait: Scáthach-Skadi",
+    "detail": "[Exchange for only 2 out of 39!]\nExchange for a Fate/Grand Order 2021 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Warning:\n\n[FF0000]Only 2 of the 39 types[-] can be redeemed.\n\nOnce you redeem it, you cannot change to a different Craft Essence.\n\nWill you exchange for\n\n{0}?",
+    "imageId": 0,
+    "bgImageId": 80255,
+    "openedAt": 1625335200,
+    "closedAt": 1626926399
+  },
+  {
+    "itemIds": [
+      94040501
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9304200
+    ],
+    "script": {},
+    "id": 80255012,
+    "baseShopId": 80255012,
+    "eventId": 80255,
+    "slot": 0,
+    "flag": 256,
+    "priority": 14,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 80,
+    "defaultLimitCount": 4,
+    "name": "Festival Portrait: Mysterious Heroine XX",
+    "detail": "[Exchange for only 2 out of 39!]\nExchange for a Fate/Grand Order 2021 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Warning:\n\n[FF0000]Only 2 of the 39 types[-] can be redeemed.\n\nOnce you redeem it, you cannot change to a different Craft Essence.\n\nWill you exchange for\n\n{0}?",
+    "imageId": 0,
+    "bgImageId": 80255,
+    "openedAt": 1625335200,
+    "closedAt": 1626926399
+  },
+  {
+    "itemIds": [
+      94040501
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9303910
+    ],
+    "script": {},
+    "id": 80255013,
+    "baseShopId": 80255013,
+    "eventId": 80255,
+    "slot": 0,
+    "flag": 256,
+    "priority": 16,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 80,
+    "defaultLimitCount": 4,
+    "name": "Festival Portrait: Anastasia",
+    "detail": "[Exchange for only 2 out of 39!]\nExchange for a Fate/Grand Order 2021 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Warning:\n\n[FF0000]Only 2 of the 39 types[-] can be redeemed.\n\nOnce you redeem it, you cannot change to a different Craft Essence.\n\nWill you exchange for\n\n{0}?",
+    "imageId": 0,
+    "bgImageId": 80255,
+    "openedAt": 1625335200,
+    "closedAt": 1626926399
+  },
+  {
+    "itemIds": [
+      94040501
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9304080
+    ],
+    "script": {},
+    "id": 80255014,
+    "baseShopId": 80255014,
+    "eventId": 80255,
+    "slot": 0,
+    "flag": 256,
+    "priority": 19,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 80,
+    "defaultLimitCount": 4,
+    "name": "Festival Portrait: Sakamoto Ryouma",
+    "detail": "[Exchange for only 2 out of 39!]\nExchange for a Fate/Grand Order 2021 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Warning:\n\n[FF0000]Only 2 of the 39 types[-] can be redeemed.\n\nOnce you redeem it, you cannot change to a different Craft Essence.\n\nWill you exchange for\n\n{0}?",
+    "imageId": 0,
+    "bgImageId": 80255,
+    "openedAt": 1625335200,
+    "closedAt": 1626926399
+  },
+  {
+    "itemIds": [
+      94040501
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9303890
+    ],
+    "script": {},
+    "id": 80255015,
+    "baseShopId": 80255015,
+    "eventId": 80255,
+    "slot": 0,
+    "flag": 256,
+    "priority": 15,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 80,
+    "defaultLimitCount": 4,
+    "name": "Festival Portrait: Achilles",
+    "detail": "[Exchange for only 2 out of 39!]\nExchange for a Fate/Grand Order 2021 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Warning:\n\n[FF0000]Only 2 of the 39 types[-] can be redeemed.\n\nOnce you redeem it, you cannot change to a different Craft Essence.\n\nWill you exchange for\n\n{0}?",
+    "imageId": 0,
+    "bgImageId": 80255,
+    "openedAt": 1625335200,
+    "closedAt": 1626926399
+  },
+  {
+    "itemIds": [
+      94040501
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9303960
+    ],
+    "script": {},
+    "id": 80255016,
+    "baseShopId": 80255016,
+    "eventId": 80255,
+    "slot": 0,
+    "flag": 256,
+    "priority": 17,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 80,
+    "defaultLimitCount": 4,
+    "name": "Festival Portrait: Antonio Salieri",
+    "detail": "[Exchange for only 2 out of 39!]\nExchange for a Fate/Grand Order 2021 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Warning:\n\n[FF0000]Only 2 of the 39 types[-] can be redeemed.\n\nOnce you redeem it, you cannot change to a different Craft Essence.\n\nWill you exchange for\n\n{0}?",
+    "imageId": 0,
+    "bgImageId": 80255,
+    "openedAt": 1625335200,
+    "closedAt": 1626926399
+  },
+  {
+    "itemIds": [
+      94040501
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9304020
+    ],
+    "script": {},
+    "id": 80255017,
+    "baseShopId": 80255017,
+    "eventId": 80255,
+    "slot": 0,
+    "flag": 256,
+    "priority": 18,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 80,
+    "defaultLimitCount": 4,
+    "name": "Festival Portrait: Okada Izo",
+    "detail": "[Exchange for only 2 out of 39!]\nExchange for a Fate/Grand Order 2021 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Warning:\n\n[FF0000]Only 2 of the 39 types[-] can be redeemed.\n\nOnce you redeem it, you cannot change to a different Craft Essence.\n\nWill you exchange for\n\n{0}?",
+    "imageId": 0,
+    "bgImageId": 80255,
+    "openedAt": 1625335200,
+    "closedAt": 1626926399
+  },
+  {
+    "itemIds": [
+      94040501
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9303990
+    ],
+    "script": {},
+    "id": 80255018,
+    "baseShopId": 80255018,
+    "eventId": 80255,
+    "slot": 0,
+    "flag": 256,
+    "priority": 21,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 80,
+    "defaultLimitCount": 4,
+    "name": "Festival Portrait: Ereshkigal",
+    "detail": "[Exchange for only 2 out of 39!]\nExchange for a Fate/Grand Order 2021 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Warning:\n\n[FF0000]Only 2 of the 39 types[-] can be redeemed.\n\nOnce you redeem it, you cannot change to a different Craft Essence.\n\nWill you exchange for\n\n{0}?",
+    "imageId": 0,
+    "bgImageId": 80255,
+    "openedAt": 1625335200,
+    "closedAt": 1626926399
+  },
+  {
+    "itemIds": [
+      94040501
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9304090
+    ],
+    "script": {},
+    "id": 80255019,
+    "baseShopId": 80255019,
+    "eventId": 80255,
+    "slot": 0,
+    "flag": 256,
+    "priority": 23,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 80,
+    "defaultLimitCount": 4,
+    "name": "Festival Portrait: Charles-Henri Sanson",
+    "detail": "[Exchange for only 2 out of 39!]\nExchange for a Fate/Grand Order 2021 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Warning:\n\n[FF0000]Only 2 of the 39 types[-] can be redeemed.\n\nOnce you redeem it, you cannot change to a different Craft Essence.\n\nWill you exchange for\n\n{0}?",
+    "imageId": 0,
+    "bgImageId": 80255,
+    "openedAt": 1625335200,
+    "closedAt": 1626926399
+  },
+  {
+    "itemIds": [
+      94040501
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9303920
+    ],
+    "script": {},
+    "id": 80255020,
+    "baseShopId": 80255020,
+    "eventId": 80255,
+    "slot": 0,
+    "flag": 256,
+    "priority": 20,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 80,
+    "defaultLimitCount": 4,
+    "name": "Festival Portrait: Abigail Williams",
+    "detail": "[Exchange for only 2 out of 39!]\nExchange for a Fate/Grand Order 2021 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Warning:\n\n[FF0000]Only 2 of the 39 types[-] can be redeemed.\n\nOnce you redeem it, you cannot change to a different Craft Essence.\n\nWill you exchange for\n\n{0}?",
+    "imageId": 0,
+    "bgImageId": 80255,
+    "openedAt": 1625335200,
+    "closedAt": 1626926399
+  },
+  {
+    "itemIds": [
+      94040501
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9304040
+    ],
+    "script": {},
+    "id": 80255021,
+    "baseShopId": 80255021,
+    "eventId": 80255,
+    "slot": 0,
+    "flag": 256,
+    "priority": 22,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 80,
+    "defaultLimitCount": 4,
+    "name": "Festival Portrait: Katsushika Hokusai",
+    "detail": "[Exchange for only 2 out of 39!]\nExchange for a Fate/Grand Order 2021 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Warning:\n\n[FF0000]Only 2 of the 39 types[-] can be redeemed.\n\nOnce you redeem it, you cannot change to a different Craft Essence.\n\nWill you exchange for\n\n{0}?",
+    "imageId": 0,
+    "bgImageId": 80255,
+    "openedAt": 1625335200,
+    "closedAt": 1626926399
+  },
+  {
+    "itemIds": [
+      94040501
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9304280
+    ],
+    "script": {},
+    "id": 80255022,
+    "baseShopId": 80255022,
+    "eventId": 80255,
+    "slot": 0,
+    "flag": 256,
+    "priority": 24,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 80,
+    "defaultLimitCount": 4,
+    "name": "Festival Portrait: Robin Hood",
+    "detail": "[Exchange for only 2 out of 39!]\nExchange for a Fate/Grand Order 2021 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Warning:\n\n[FF0000]Only 2 of the 39 types[-] can be redeemed.\n\nOnce you redeem it, you cannot change to a different Craft Essence.\n\nWill you exchange for\n\n{0}?",
+    "imageId": 0,
+    "bgImageId": 80255,
+    "openedAt": 1625335200,
+    "closedAt": 1626926399
+  },
+  {
+    "itemIds": [
+      94040501
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9304030
+    ],
+    "script": {},
+    "id": 80255023,
+    "baseShopId": 80255023,
+    "eventId": 80255,
+    "slot": 0,
+    "flag": 256,
+    "priority": 25,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 80,
+    "defaultLimitCount": 4,
+    "name": "Festival Portrait: Osakabehime",
+    "detail": "[Exchange for only 2 out of 39!]\nExchange for a Fate/Grand Order 2021 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Warning:\n\n[FF0000]Only 2 of the 39 types[-] can be redeemed.\n\nOnce you redeem it, you cannot change to a different Craft Essence.\n\nWill you exchange for\n\n{0}?",
+    "imageId": 0,
+    "bgImageId": 80255,
+    "openedAt": 1625335200,
+    "closedAt": 1626926399
+  },
+  {
+    "itemIds": [
+      94040501
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9304160
+    ],
+    "script": {},
+    "id": 80255024,
+    "baseShopId": 80255024,
+    "eventId": 80255,
+    "slot": 0,
+    "flag": 256,
+    "priority": 26,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 80,
+    "defaultLimitCount": 4,
+    "name": "Festival Portrait: Tomoe Gozen",
+    "detail": "[Exchange for only 2 out of 39!]\nExchange for a Fate/Grand Order 2021 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Warning:\n\n[FF0000]Only 2 of the 39 types[-] can be redeemed.\n\nOnce you redeem it, you cannot change to a different Craft Essence.\n\nWill you exchange for\n\n{0}?",
+    "imageId": 0,
+    "bgImageId": 80255,
+    "openedAt": 1625335200,
+    "closedAt": 1626926399
+  },
+  {
+    "itemIds": [
+      94040501
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9304000
+    ],
+    "script": {},
+    "id": 80255025,
+    "baseShopId": 80255025,
+    "eventId": 80255,
+    "slot": 0,
+    "flag": 256,
+    "priority": 27,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 80,
+    "defaultLimitCount": 4,
+    "name": "Festival Portrait: Helena Blavatsky (Caster)",
+    "detail": "[Exchange for only 2 out of 39!]\nExchange for a Fate/Grand Order 2021 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Warning:\n\n[FF0000]Only 2 of the 39 types[-] can be redeemed.\n\nOnce you redeem it, you cannot change to a different Craft Essence.\n\nWill you exchange for\n\n{0}?",
+    "imageId": 0,
+    "bgImageId": 80255,
+    "openedAt": 1625335200,
+    "closedAt": 1626926399
+  },
+  {
+    "itemIds": [
+      94040501
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9304180
+    ],
+    "script": {},
+    "id": 80255026,
+    "baseShopId": 80255026,
+    "eventId": 80255,
+    "slot": 0,
+    "flag": 256,
+    "priority": 29,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 80,
+    "defaultLimitCount": 4,
+    "name": "Festival Portrait: Paul Bunyan",
+    "detail": "[Exchange for only 2 out of 39!]\nExchange for a Fate/Grand Order 2021 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Warning:\n\n[FF0000]Only 2 of the 39 types[-] can be redeemed.\n\nOnce you redeem it, you cannot change to a different Craft Essence.\n\nWill you exchange for\n\n{0}?",
+    "imageId": 0,
+    "bgImageId": 80255,
+    "openedAt": 1625335200,
+    "closedAt": 1626926399
+  },
+  {
+    "itemIds": [
+      94040501
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9304170
+    ],
+    "script": {},
+    "id": 80255027,
+    "baseShopId": 80255027,
+    "eventId": 80255,
+    "slot": 0,
+    "flag": 256,
+    "priority": 28,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 80,
+    "defaultLimitCount": 4,
+    "name": "Festival Portrait: Pārvatī",
+    "detail": "[Exchange for only 2 out of 39!]\nExchange for a Fate/Grand Order 2021 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Warning:\n\n[FF0000]Only 2 of the 39 types[-] can be redeemed.\n\nOnce you redeem it, you cannot change to a different Craft Essence.\n\nWill you exchange for\n\n{0}?",
+    "imageId": 0,
+    "bgImageId": 80255,
+    "openedAt": 1625335200,
+    "closedAt": 1626926399
+  },
+  {
+    "itemIds": [
+      94040501
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9304120
+    ],
+    "script": {},
+    "id": 80255028,
+    "baseShopId": 80255028,
+    "eventId": 80255,
+    "slot": 0,
+    "flag": 256,
+    "priority": 10,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 80,
+    "defaultLimitCount": 4,
+    "name": "Festival Portrait: Jeanne d'Arc Alter (Berserker)",
+    "detail": "[Exchange for only 2 out of 39!]\nExchange for a Fate/Grand Order 2021 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Warning:\n\n[FF0000]Only 2 of the 39 types[-] can be redeemed.\n\nOnce you redeem it, you cannot change to a different Craft Essence.\n\nWill you exchange for\n\n{0}?",
+    "imageId": 0,
+    "bgImageId": 80255,
+    "openedAt": 1625335200,
+    "closedAt": 1626926399
+  },
+  {
+    "itemIds": [
+      94040501
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9304010
+    ],
+    "script": {},
+    "id": 80255029,
+    "baseShopId": 80255029,
+    "eventId": 80255,
+    "slot": 0,
+    "flag": 256,
+    "priority": 30,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 80,
+    "defaultLimitCount": 4,
+    "name": "Festival Portrait: Yan Qing",
+    "detail": "[Exchange for only 2 out of 39!]\nExchange for a Fate/Grand Order 2021 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Warning:\n\n[FF0000]Only 2 of the 39 types[-] can be redeemed.\n\nOnce you redeem it, you cannot change to a different Craft Essence.\n\nWill you exchange for\n\n{0}?",
+    "imageId": 0,
+    "bgImageId": 80255,
+    "openedAt": 1625335200,
+    "closedAt": 1626926399
+  },
+  {
+    "itemIds": [
+      94040501
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9304050
+    ],
+    "script": {},
+    "id": 80255030,
+    "baseShopId": 80255030,
+    "eventId": 80255,
+    "slot": 0,
+    "flag": 256,
+    "priority": 31,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 80,
+    "defaultLimitCount": 4,
+    "name": "Festival Portrait: Sessyoin Kiara",
+    "detail": "[Exchange for only 2 out of 39!]\nExchange for a Fate/Grand Order 2021 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Warning:\n\n[FF0000]Only 2 of the 39 types[-] can be redeemed.\n\nOnce you redeem it, you cannot change to a different Craft Essence.\n\nWill you exchange for\n\n{0}?",
+    "imageId": 0,
+    "bgImageId": 80255,
+    "openedAt": 1625335200,
+    "closedAt": 1626926399
+  },
+  {
+    "itemIds": [
+      94040501
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9304070
+    ],
+    "script": {},
+    "id": 80255031,
+    "baseShopId": 80255031,
+    "eventId": 80255,
+    "slot": 0,
+    "flag": 256,
+    "priority": 4,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 80,
+    "defaultLimitCount": 4,
+    "name": "Festival Portrait: Quetzalcoatl (Samba/Santa)",
+    "detail": "[Exchange for only 2 out of 39!]\nExchange for a Fate/Grand Order 2021 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Warning:\n\n[FF0000]Only 2 of the 39 types[-] can be redeemed.\n\nOnce you redeem it, you cannot change to a different Craft Essence.\n\nWill you exchange for\n\n{0}?",
+    "imageId": 0,
+    "bgImageId": 80255,
+    "openedAt": 1625335200,
+    "closedAt": 1626926399
+  },
+  {
+    "itemIds": [
+      94040501
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9304240
+    ],
+    "script": {},
+    "id": 80255032,
+    "baseShopId": 80255032,
+    "eventId": 80255,
+    "slot": 0,
+    "flag": 256,
+    "priority": 38,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 80,
+    "defaultLimitCount": 4,
+    "name": "Festival Portrait: Martha (Ruler)",
+    "detail": "[Exchange for only 2 out of 39!]\nExchange for a Fate/Grand Order 2021 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Warning:\n\n[FF0000]Only 2 of the 39 types[-] can be redeemed.\n\nOnce you redeem it, you cannot change to a different Craft Essence.\n\nWill you exchange for\n\n{0}?",
+    "imageId": 0,
+    "bgImageId": 80255,
+    "openedAt": 1625335200,
+    "closedAt": 1626926399
+  },
+  {
+    "itemIds": [
+      94040501
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9304230
+    ],
+    "script": {},
+    "id": 80255033,
+    "baseShopId": 80255033,
+    "eventId": 80255,
+    "slot": 0,
+    "flag": 256,
+    "priority": 37,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 80,
+    "defaultLimitCount": 4,
+    "name": "Festival Portrait: Marie Antoinette (Rider)",
+    "detail": "[Exchange for only 2 out of 39!]\nExchange for a Fate/Grand Order 2021 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Warning:\n\n[FF0000]Only 2 of the 39 types[-] can be redeemed.\n\nOnce you redeem it, you cannot change to a different Craft Essence.\n\nWill you exchange for\n\n{0}?",
+    "imageId": 0,
+    "bgImageId": 80255,
+    "openedAt": 1625335200,
+    "closedAt": 1626926399
+  },
+  {
+    "itemIds": [
+      94040501
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9303930
+    ],
+    "script": {},
+    "id": 80255034,
+    "baseShopId": 80255034,
+    "eventId": 80255,
+    "slot": 0,
+    "flag": 256,
+    "priority": 32,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 80,
+    "defaultLimitCount": 4,
+    "name": "Festival Portrait: Wolfgang Amadeus Mozart",
+    "detail": "[Exchange for only 2 out of 39!]\nExchange for a Fate/Grand Order 2021 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Warning:\n\n[FF0000]Only 2 of the 39 types[-] can be redeemed.\n\nOnce you redeem it, you cannot change to a different Craft Essence.\n\nWill you exchange for\n\n{0}?",
+    "imageId": 0,
+    "bgImageId": 80255,
+    "openedAt": 1625335200,
+    "closedAt": 1626926399
+  },
+  {
+    "itemIds": [
+      94040501
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9303980
+    ],
+    "script": {},
+    "id": 80255035,
+    "baseShopId": 80255035,
+    "eventId": 80255,
+    "slot": 0,
+    "flag": 256,
+    "priority": 34,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 80,
+    "defaultLimitCount": 4,
+    "name": "Festival Portrait: Ibaraki-Douji (Berserker)",
+    "detail": "[Exchange for only 2 out of 39!]\nExchange for a Fate/Grand Order 2021 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Warning:\n\n[FF0000]Only 2 of the 39 types[-] can be redeemed.\n\nOnce you redeem it, you cannot change to a different Craft Essence.\n\nWill you exchange for\n\n{0}?",
+    "imageId": 0,
+    "bgImageId": 80255,
+    "openedAt": 1625335200,
+    "closedAt": 1626926399
+  },
+  {
+    "itemIds": [
+      94040501
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9304270
+    ],
+    "script": {},
+    "id": 80255036,
+    "baseShopId": 80255036,
+    "eventId": 80255,
+    "slot": 0,
+    "flag": 256,
+    "priority": 39,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 80,
+    "defaultLimitCount": 4,
+    "name": "Festival Portrait: Leonardo da Vinci",
+    "detail": "[Exchange for only 2 out of 39!]\nExchange for a Fate/Grand Order 2021 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Warning:\n\n[FF0000]Only 2 of the 39 types[-] can be redeemed.\n\nOnce you redeem it, you cannot change to a different Craft Essence.\n\nWill you exchange for\n\n{0}?",
+    "imageId": 0,
+    "bgImageId": 80255,
+    "openedAt": 1625335200,
+    "closedAt": 1626926399
+  },
+  {
+    "itemIds": [
+      94040501
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9304220
+    ],
+    "script": {},
+    "id": 80255037,
+    "baseShopId": 80255037,
+    "eventId": 80255,
+    "slot": 0,
+    "flag": 256,
+    "priority": 36,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 80,
+    "defaultLimitCount": 4,
+    "name": "Festival Portrait: Bedivere",
+    "detail": "[Exchange for only 2 out of 39!]\nExchange for a Fate/Grand Order 2021 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Warning:\n\n[FF0000]Only 2 of the 39 types[-] can be redeemed.\n\nOnce you redeem it, you cannot change to a different Craft Essence.\n\nWill you exchange for\n\n{0}?",
+    "imageId": 0,
+    "bgImageId": 80255,
+    "openedAt": 1625335200,
+    "closedAt": 1626926399
+  },
+  {
+    "itemIds": [
+      94040501
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9303950
+    ],
+    "script": {},
+    "id": 80255038,
+    "baseShopId": 80255038,
+    "eventId": 80255,
+    "slot": 0,
+    "flag": 256,
+    "priority": 33,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 80,
+    "defaultLimitCount": 4,
+    "name": "Festival Portrait: Altria Pendragon (Lily)",
+    "detail": "[Exchange for only 2 out of 39!]\nExchange for a Fate/Grand Order 2021 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Warning:\n\n[FF0000]Only 2 of the 39 types[-] can be redeemed.\n\nOnce you redeem it, you cannot change to a different Craft Essence.\n\nWill you exchange for\n\n{0}?",
+    "imageId": 0,
+    "bgImageId": 80255,
+    "openedAt": 1625335200,
+    "closedAt": 1626926399
+  },
+  {
+    "itemIds": [
+      94040501
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9304190
+    ],
+    "script": {},
+    "id": 80255039,
+    "baseShopId": 80255039,
+    "eventId": 80255,
+    "slot": 0,
+    "flag": 256,
+    "priority": 35,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 80,
+    "defaultLimitCount": 4,
+    "name": "Festival Portrait: Hans Christian Andersen",
+    "detail": "[Exchange for only 2 out of 39!]\nExchange for a Fate/Grand Order 2021 Limited Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "Warning:\n\n[FF0000]Only 2 of the 39 types[-] can be redeemed.\n\nOnce you redeem it, you cannot change to a different Craft Essence.\n\nWill you exchange for\n\n{0}?",
+    "imageId": 0,
+    "bgImageId": 80255,
+    "openedAt": 1625335200,
+    "closedAt": 1626926399
   },
   {
     "itemIds": [

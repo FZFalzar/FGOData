@@ -2318,5 +2318,21 @@
     "frequencyType": 0,
     "dialogMessage": "To begin this Quest, please set two of your own Servants and one Support Servant.",
     "noticeMessage": "Only Three Servants"
+  },
+  {
+    "questId": 94040523,
+    "phase": 1,
+    "restrictionId": 2000302,
+    "frequencyType": 3,
+    "dialogMessage": "Please set the Support Servant as a Starting Member",
+    "noticeMessage": "Support Servant cannot be set as a Sub Member"
+  },
+  {
+    "questId": 94040528,
+    "phase": 1,
+    "restrictionId": 94040740,
+    "frequencyType": 0,
+    "dialogMessage": "To begin this Quest, please set two of your own Servants and one Support Servant.",
+    "noticeMessage": "Only Three Servants"
   }
 ]
