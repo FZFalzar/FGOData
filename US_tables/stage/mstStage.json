@@ -215069,6 +215069,25 @@
   },
   {
     "npcDeckIds": [
+      94040744,
+      1000
+    ],
+    "script": {
+      "turnEffect": [
+        10
+      ],
+      "LimitAct": 1,
+      "turn": 6
+    },
+    "questId": 94040591,
+    "questPhase": 1,
+    "wave": 1,
+    "enemyInfo": 1,
+    "bgmId": 148,
+    "startEffectId": 2
+  },
+  {
+    "npcDeckIds": [
       94040747,
       1000
     ],
