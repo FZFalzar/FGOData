@@ -2625,6 +2625,37 @@
   },
   {
     "targetIds": [
+      1
+    ],
+    "addTargetIds": [],
+    "targetQuestIndividualities": [],
+    "targetEventIds": [
+      0
+    ],
+    "id": 10144,
+    "missionTargetId": 200092,
+    "missionCondType": 28,
+    "logicType": 1,
+    "conditionLinkType": 3
+  },
+  {
+    "targetIds": [
+      1,
+      5
+    ],
+    "addTargetIds": [],
+    "targetQuestIndividualities": [],
+    "targetEventIds": [
+      80038
+    ],
+    "id": 10145,
+    "missionTargetId": 200092,
+    "missionCondType": 28,
+    "logicType": 1,
+    "conditionLinkType": 3
+  },
+  {
+    "targetIds": [
       93000001,
       93000002,
       93000003,
@@ -27387,6 +27418,76 @@
     "id": 2001363,
     "missionTargetId": 100259,
     "missionCondType": 12,
+    "logicType": 1,
+    "conditionLinkType": 3
+  },
+  {
+    "targetIds": [
+      1,
+      2,
+      3
+    ],
+    "addTargetIds": [],
+    "targetQuestIndividualities": [],
+    "targetEventIds": [],
+    "id": 2001364,
+    "missionTargetId": 100260,
+    "missionCondType": 15,
+    "logicType": 1,
+    "conditionLinkType": 3
+  },
+  {
+    "targetIds": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "addTargetIds": [],
+    "targetQuestIndividualities": [],
+    "targetEventIds": [],
+    "id": 2001365,
+    "missionTargetId": 100260,
+    "missionCondType": 15,
+    "logicType": 1,
+    "conditionLinkType": 3
+  },
+  {
+    "targetIds": [
+      2001
+    ],
+    "addTargetIds": [],
+    "targetQuestIndividualities": [],
+    "targetEventIds": [],
+    "id": 2001366,
+    "missionTargetId": 100260,
+    "missionCondType": 2,
+    "logicType": 1,
+    "conditionLinkType": 3
+  },
+  {
+    "targetIds": [
+      2019
+    ],
+    "addTargetIds": [],
+    "targetQuestIndividualities": [],
+    "targetEventIds": [],
+    "id": 2001367,
+    "missionTargetId": 100260,
+    "missionCondType": 2,
+    "logicType": 1,
+    "conditionLinkType": 3
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "addTargetIds": [],
+    "targetQuestIndividualities": [],
+    "targetEventIds": [],
+    "id": 2001368,
+    "missionTargetId": 100260,
+    "missionCondType": 24,
     "logicType": 1,
     "conditionLinkType": 3
   },
