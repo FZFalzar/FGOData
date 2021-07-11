@@ -68907,6 +68907,139 @@
   },
   {
     "targetIds": [
+      2001800,
+      2001801,
+      2001802,
+      2001803,
+      2001804,
+      2001805
+    ],
+    "missionId": 2001799,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2002057,
+    "missionTargetId": 100260,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 6,
+    "conditionMessage": "今週のマスターミッションをすべてクリアせよ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001364
+    ],
+    "missionId": 2001800,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2002058,
+    "missionTargetId": 100260,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 3,
+    "conditionMessage": "『セイバー』『アーチャー』『ランサー』クラスのサーヴァントをどれか3騎倒せ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001365
+    ],
+    "missionId": 2001801,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2002059,
+    "missionTargetId": 100260,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 3,
+    "conditionMessage": "『ライダー』『キャスター』『アサシン』『バーサーカー』クラスのサーヴァントをどれか3騎倒せ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001366
+    ],
+    "missionId": 2001802,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2002060,
+    "missionTargetId": 100260,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "『人型』特性を持つ敵を15体倒せ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001367
+    ],
+    "missionId": 2001803,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2002061,
+    "missionTargetId": 100260,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "『魔性』特性を持つ敵を15体倒せ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001368
+    ],
+    "missionId": 2001804,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2002062,
+    "missionTargetId": 100260,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 5,
+    "conditionMessage": "いずれかのクエストを5回クリアせよ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001804
+    ],
+    "missionId": 2001805,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 2002063,
+    "missionTargetId": 100260,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 1,
+    "conditionMessage": "いずれかのクエストを10回クリアせよ",
+    "closedMessage": "",
+    "flag": 64
+  },
+  {
+    "targetIds": [
+      2001368
+    ],
+    "missionId": 2001805,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2002064,
+    "missionTargetId": 100260,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 10,
+    "conditionMessage": "いずれかのクエストを10回クリアせよ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
       8031002,
       8031003,
       8031004,
