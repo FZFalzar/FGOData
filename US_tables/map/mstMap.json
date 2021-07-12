@@ -528,6 +528,16 @@
   },
   {
     "script": {},
+    "id": 8348,
+    "warId": 8348,
+    "mapImageId": 8097,
+    "mapImageW": 0,
+    "mapImageH": 0,
+    "headerImageId": 0,
+    "bgmId": 0
+  },
+  {
+    "script": {},
     "id": 9001,
     "warId": 9001,
     "mapImageId": 9001,
@@ -1221,6 +1231,29 @@
     "mapImageH": 1440,
     "headerImageId": 0,
     "bgmId": 345
+  },
+  {
+    "script": {
+      "firstEffectTime": 3000,
+      "firstEffectType": "fadeIn"
+    },
+    "id": 9069,
+    "warId": 9069,
+    "mapImageId": 9046,
+    "mapImageW": 2048,
+    "mapImageH": 2048,
+    "headerImageId": 0,
+    "bgmId": 279
+  },
+  {
+    "script": {},
+    "id": 9070,
+    "warId": 9069,
+    "mapImageId": 9047,
+    "mapImageW": 2048,
+    "mapImageH": 2048,
+    "headerImageId": 0,
+    "bgmId": 279
   },
   {
     "script": {},

@@ -3850,12 +3850,92 @@
     "isDispValue": true
   },
   {
+    "funcId": 3709,
+    "eventId": 80251,
+    "baseFuncId": 0,
+    "nameTotal": "{0}\nTotal Bonus Amount",
+    "name": "{0} acquired",
+    "iconId": 94027501,
+    "priority": 1000,
+    "isDispValue": true
+  },
+  {
+    "funcId": 3710,
+    "eventId": 80251,
+    "baseFuncId": 0,
+    "nameTotal": "{0}\nTotal Bonus Amount",
+    "name": "{0} acquired",
+    "iconId": 94027502,
+    "priority": 2000,
+    "isDispValue": true
+  },
+  {
+    "funcId": 3711,
+    "eventId": 80251,
+    "baseFuncId": 0,
+    "nameTotal": "{0}\nTotal Bonus Amount",
+    "name": "{0} acquired",
+    "iconId": 94027503,
+    "priority": 3000,
+    "isDispValue": true
+  },
+  {
+    "funcId": 3712,
+    "eventId": 80251,
+    "baseFuncId": 0,
+    "nameTotal": "{0}\nTotal Bonus Amount",
+    "name": "{0} acquired",
+    "iconId": 94027504,
+    "priority": 9000,
+    "isDispValue": true
+  },
+  {
+    "funcId": 3713,
+    "eventId": 80251,
+    "baseFuncId": 0,
+    "nameTotal": "{0}\nTotal Bonus Amount",
+    "name": "{0} acquired",
+    "iconId": 94027505,
+    "priority": 8000,
+    "isDispValue": true
+  },
+  {
+    "funcId": 3714,
+    "eventId": 80251,
+    "baseFuncId": 0,
+    "nameTotal": "{0}\nTotal Bonus Amount",
+    "name": "{0} acquired",
+    "iconId": 94027506,
+    "priority": 7000,
+    "isDispValue": true
+  },
+  {
     "funcId": 3829,
     "eventId": 80250,
     "baseFuncId": 3648,
     "nameTotal": "{1}\nTotal ATK Strength Up",
     "name": "Increase ATK Strength",
     "iconId": 302,
+    "priority": 1,
+    "isDispValue": true
+  },
+  {
+    "funcId": 3843,
+    "eventId": 80251,
+    "baseFuncId": 0,
+    "nameTotal": "{1}\nTotal Bond Bonus",
+    "name": "Increase Bond gained",
+    "iconId": 1009,
+    "priority": 1,
+    "isDispValue": true
+  },
+  {
+    "funcId": 3848,
+    "eventId": 80251,
+    "baseFuncId": 0,
+    "nameTotal": "{1}\nTotal Bond Bonus",
+    "name": "Increase Bond gained",
+    "iconId": 1023,
     "priority": 1,
     "isDispValue": true
   },

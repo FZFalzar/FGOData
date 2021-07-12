@@ -355,8 +355,8 @@
       "[3000104,2,3]",
       "[3000111,2,1]",
       "[94024901,1,2]",
-      "[94027503,2,1]",
-      "[94027508,1,1]",
+      "[94039103,2,1]",
+      "[94039108,1,1]",
       "[94034001,1,2]",
       "[94034001,5,3]",
       "[94034003,2,1]",
@@ -7734,6 +7734,324 @@
     "flagType": 21,
     "num": 1,
     "openType": 23,
+    "condType": 0,
+    "condValue": 0,
+    "condValue2": 0,
+    "condValue3": 0
+  },
+  {
+    "targetIds": [
+      "[9069]",
+      "[9070]"
+    ],
+    "condIds": [
+      94039102
+    ],
+    "imageIds": [
+      734
+    ],
+    "textJson": [],
+    "eventId": 80251,
+    "flagType": 1,
+    "num": 1,
+    "openType": 1,
+    "condType": 1,
+    "condValue": 0,
+    "condValue2": 0,
+    "condValue3": 0
+  },
+  {
+    "targetIds": [
+      "[9069]",
+      "[9070]"
+    ],
+    "condIds": [
+      94039111
+    ],
+    "imageIds": [
+      737
+    ],
+    "textJson": [],
+    "eventId": 80251,
+    "flagType": 2,
+    "num": 1,
+    "openType": 1,
+    "condType": 1,
+    "condValue": 0,
+    "condValue2": 0,
+    "condValue3": 0
+  },
+  {
+    "targetIds": [
+      "[]"
+    ],
+    "condIds": [],
+    "imageIds": [
+      736
+    ],
+    "textJson": [],
+    "eventId": 80251,
+    "flagType": 4,
+    "num": 1,
+    "openType": 4,
+    "condType": 0,
+    "condValue": 0,
+    "condValue2": 0,
+    "condValue3": 0
+  },
+  {
+    "targetIds": [
+      "[9069]",
+      "[9070]"
+    ],
+    "condIds": [
+      94039140
+    ],
+    "imageIds": [
+      738
+    ],
+    "textJson": [],
+    "eventId": 80251,
+    "flagType": 6,
+    "num": 1,
+    "openType": 1,
+    "condType": 1,
+    "condValue": 0,
+    "condValue2": 0,
+    "condValue3": 0
+  },
+  {
+    "targetIds": [
+      "[9069]",
+      "[9070]"
+    ],
+    "condIds": [
+      94039164
+    ],
+    "imageIds": [],
+    "textJson": [
+      {
+        "text": "Since you have no active Doujin Production Quests, the [Loop] The Melancholy of a Dramatic Demon has been unlocked at the ServantFes Site. Please proceed by completing this quest.\n\n*As this is a Loop, no Quest completion rewards will be granted.",
+        "rects": [],
+        "textPos": [
+          0,
+          24
+        ],
+        "ptPos": [
+          0,
+          0
+        ]
+      }
+    ],
+    "eventId": 80251,
+    "flagType": 7,
+    "num": 1,
+    "openType": 1,
+    "condType": 50,
+    "condValue": 0,
+    "condValue2": 0,
+    "condValue3": 0
+  },
+  {
+    "targetIds": [
+      "[94039201]",
+      "[94039206]",
+      "[94039211]",
+      "[94039216]"
+    ],
+    "condIds": [],
+    "imageIds": [],
+    "textJson": [
+      {
+        "text": "Enemies that show up in Sacrilege Tetrahedron have a large HP pool called Total HP. Dealing damage to an enemy will deplete its HP as well as the Total HP. The decreased Total HP will be carried over to the next battle.",
+        "rects": [
+          {
+            "x": -512,
+            "y": 200,
+            "w": 580,
+            "h": 120
+          }
+        ],
+        "textPos": [
+          0,
+          24
+        ],
+        "ptPos": [
+          0,
+          0
+        ]
+      }
+    ],
+    "eventId": 80251,
+    "flagType": 8,
+    "num": 1,
+    "openType": 6,
+    "condType": 0,
+    "condValue": 0,
+    "condValue2": 0,
+    "condValue3": 0
+  },
+  {
+    "targetIds": [
+      "[94039201,1,1,2]",
+      "[94039206,1,1,2]",
+      "[94039211,1,1,2]",
+      "[94039216,1,1,2]"
+    ],
+    "condIds": [],
+    "imageIds": [],
+    "textJson": [
+      {
+        "text": "Battles against enemies in \"Sacrilege Tetrahedron\" have turn limits. The battle will end automatically when the turn count reaches 0.\n\nIf your party is incapacitated, you will not be able to Continue, but the Total HP depleted in battle will be reflected and the following rewards will be issued:\nMaster EXP, Mystic Code EXP, and Friend Points.\n\nIf you choose Withdraw from the Battle Menu, the Total HP you reduced in battle will not be reflected and no rewards will be issued.",
+        "rects": [],
+        "textPos": [
+          0,
+          24
+        ],
+        "ptPos": [
+          0,
+          0
+        ]
+      }
+    ],
+    "eventId": 80251,
+    "flagType": 9,
+    "num": 1,
+    "openType": 6,
+    "condType": 0,
+    "condValue": 0,
+    "condValue2": 0,
+    "condValue3": 0
+  },
+  {
+    "targetIds": [
+      "[94039201]",
+      "[94039202]",
+      "[94039203]",
+      "[94039206]",
+      "[94039207]",
+      "[94039211]",
+      "[94039212]",
+      "[94039213]",
+      "[94039214]",
+      "[94039216]",
+      "[94039217]",
+      "[94039218]",
+      "[94039219]"
+    ],
+    "condIds": [],
+    "imageIds": [],
+    "textJson": [
+      {
+        "text": "In battles against enemies in Sacrilege Tetrahedron, the following rewards will be issued even if you lose the battle:\nMaster EXP, Mystic Code EXP, Friend Points",
+        "rects": [],
+        "textPos": [
+          0,
+          24
+        ],
+        "ptPos": [
+          0,
+          0
+        ]
+      }
+    ],
+    "eventId": 80251,
+    "flagType": 12,
+    "num": 1,
+    "openType": 9,
+    "condType": 0,
+    "condValue": 0,
+    "condValue2": 0,
+    "condValue3": 0
+  },
+  {
+    "targetIds": [
+      "[9069]",
+      "[9070]"
+    ],
+    "condIds": [
+      94039122
+    ],
+    "imageIds": [
+      735
+    ],
+    "textJson": [],
+    "eventId": 80251,
+    "flagType": 13,
+    "num": 1,
+    "openType": 1,
+    "condType": 1,
+    "condValue": 0,
+    "condValue2": 0,
+    "condValue3": 0
+  },
+  {
+    "targetIds": [
+      "[]"
+    ],
+    "condIds": [],
+    "imageIds": [
+      736
+    ],
+    "textJson": [],
+    "eventId": 80251,
+    "flagType": 21,
+    "num": 1,
+    "openType": 23,
+    "condType": 0,
+    "condValue": 0,
+    "condValue2": 0,
+    "condValue3": 0
+  },
+  {
+    "targetIds": [
+      "[]"
+    ],
+    "condIds": [],
+    "imageIds": [
+      736
+    ],
+    "textJson": [],
+    "eventId": 80251,
+    "flagType": 22,
+    "num": 1,
+    "openType": 24,
+    "condType": 0,
+    "condValue": 0,
+    "condValue2": 0,
+    "condValue3": 0
+  },
+  {
+    "targetIds": [
+      "[]"
+    ],
+    "condIds": [],
+    "imageIds": [
+      736
+    ],
+    "textJson": [],
+    "eventId": 80251,
+    "flagType": 23,
+    "num": 1,
+    "openType": 25,
+    "condType": 0,
+    "condValue": 0,
+    "condValue2": 0,
+    "condValue3": 0
+  },
+  {
+    "targetIds": [
+      "[]"
+    ],
+    "condIds": [],
+    "imageIds": [
+      736
+    ],
+    "textJson": [],
+    "eventId": 80251,
+    "flagType": 42,
+    "num": 1,
+    "openType": 44,
     "condType": 0,
     "condValue": 0,
     "condValue2": 0,

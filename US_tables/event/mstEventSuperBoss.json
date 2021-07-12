@@ -501,5 +501,95 @@
     "iconId": 8133010,
     "startedAt": 1611115200,
     "endedAt": 1612324799
+  },
+  {
+    "splitQuestIds": [
+      94039201,
+      94039202,
+      94039203
+    ],
+    "splitHp": [
+      200000,
+      500000
+    ],
+    "bossColor": 5905782,
+    "script": {
+      "ui_start_quest_id": 94039140,
+      "ui_end_quest_id": 94039141
+    },
+    "eventId": 80251,
+    "id": 1,
+    "maxHp": 1300000,
+    "iconId": 8139101,
+    "startedAt": 1626667200,
+    "endedAt": 1627531199
+  },
+  {
+    "splitQuestIds": [
+      94039206,
+      94039207
+    ],
+    "splitHp": [
+      600000
+    ],
+    "bossColor": 5905782,
+    "script": {
+      "ui_start_quest_id": 94039140,
+      "ui_end_quest_id": 94039141
+    },
+    "eventId": 80251,
+    "id": 2,
+    "maxHp": 1600000,
+    "iconId": 8139102,
+    "startedAt": 1626667200,
+    "endedAt": 1627531199
+  },
+  {
+    "splitQuestIds": [
+      94039211,
+      94039212,
+      94039213,
+      94039214
+    ],
+    "splitHp": [
+      350000,
+      800000,
+      1150000
+    ],
+    "bossColor": 5905782,
+    "script": {
+      "ui_start_quest_id": 94039140,
+      "ui_end_quest_id": 94039141
+    },
+    "eventId": 80251,
+    "id": 3,
+    "maxHp": 1600000,
+    "iconId": 8139103,
+    "startedAt": 1626667200,
+    "endedAt": 1627531199
+  },
+  {
+    "splitQuestIds": [
+      94039216,
+      94039217,
+      94039218,
+      94039219
+    ],
+    "splitHp": [
+      300000,
+      700000,
+      1200000
+    ],
+    "bossColor": 5905782,
+    "script": {
+      "ui_start_quest_id": 94039140,
+      "ui_end_quest_id": 94039141
+    },
+    "eventId": 80251,
+    "id": 4,
+    "maxHp": 1800000,
+    "iconId": 8139104,
+    "startedAt": 1626667200,
+    "endedAt": 1627531199
   }
 ]
