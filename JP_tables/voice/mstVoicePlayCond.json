@@ -591,6 +591,42 @@
     "condValues": [
       0
     ],
+    "svtId": 105000,
+    "voicePrefix": -1,
+    "voiceId": "H170",
+    "idx": 1,
+    "condGroup": 1,
+    "condType": 1,
+    "targetId": 3000920
+  },
+  {
+    "condValues": [
+      0
+    ],
+    "svtId": 105000,
+    "voicePrefix": -1,
+    "voiceId": "H180",
+    "idx": 1,
+    "condGroup": 1,
+    "condType": 1,
+    "targetId": 3000920
+  },
+  {
+    "condValues": [
+      0
+    ],
+    "svtId": 105000,
+    "voicePrefix": -1,
+    "voiceId": "H190",
+    "idx": 1,
+    "condGroup": 1,
+    "condType": 1,
+    "targetId": 3000920
+  },
+  {
+    "condValues": [
+      0
+    ],
     "svtId": 200800,
     "voicePrefix": -1,
     "voiceId": "H1800",
@@ -1707,6 +1743,30 @@
     "condValues": [
       0
     ],
+    "svtId": 304800,
+    "voicePrefix": -1,
+    "voiceId": "S010",
+    "idx": 1,
+    "condGroup": 1,
+    "condType": 36,
+    "targetId": 3000913
+  },
+  {
+    "condValues": [
+      0
+    ],
+    "svtId": 304800,
+    "voicePrefix": -1,
+    "voiceId": "S110",
+    "idx": 1,
+    "condGroup": 1,
+    "condType": 1,
+    "targetId": 3000913
+  },
+  {
+    "condValues": [
+      0
+    ],
     "svtId": 400600,
     "voicePrefix": -1,
     "voiceId": "H190",
@@ -2019,6 +2079,18 @@
     "condValues": [
       0
     ],
+    "svtId": 500500,
+    "voicePrefix": -1,
+    "voiceId": "H260",
+    "idx": 1,
+    "condGroup": 1,
+    "condType": 1,
+    "targetId": 3000920
+  },
+  {
+    "condValues": [
+      0
+    ],
     "svtId": 501700,
     "voicePrefix": -1,
     "voiceId": "H1800",
@@ -2158,6 +2230,30 @@
     "condGroup": 3,
     "condType": 40,
     "targetId": 104500
+  },
+  {
+    "condValues": [
+      0
+    ],
+    "svtId": 504500,
+    "voicePrefix": -1,
+    "voiceId": "H220",
+    "idx": 1,
+    "condGroup": 1,
+    "condType": 1,
+    "targetId": 3000920
+  },
+  {
+    "condValues": [
+      0
+    ],
+    "svtId": 504500,
+    "voicePrefix": -1,
+    "voiceId": "H230",
+    "idx": 1,
+    "condGroup": 1,
+    "condType": 1,
+    "targetId": 3000920
   },
   {
     "condValues": [
@@ -3176,8 +3272,20 @@
     "voiceId": "H130",
     "idx": 1,
     "condGroup": 1,
-    "condType": 92,
-    "targetId": 0
+    "condType": 1,
+    "targetId": 3000920
+  },
+  {
+    "condValues": [
+      0
+    ],
+    "svtId": 704000,
+    "voicePrefix": -1,
+    "voiceId": "H240",
+    "idx": 1,
+    "condGroup": 1,
+    "condType": 1,
+    "targetId": 3000920
   },
   {
     "condValues": [

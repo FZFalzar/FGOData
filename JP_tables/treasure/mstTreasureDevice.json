@@ -7650,6 +7650,38 @@
       4007
     ],
     "script": {},
+    "id": 713,
+    "seqId": 9942910,
+    "name": "だきつき",
+    "ruby": "-",
+    "rank": "なし",
+    "maxLv": 5,
+    "typeText": "",
+    "attackAttri": 1,
+    "effectFlag": 0
+  },
+  {
+    "individuality": [
+      3000,
+      4007
+    ],
+    "script": {},
+    "id": 714,
+    "seqId": 9942920,
+    "name": "奔流",
+    "ruby": "-",
+    "rank": "なし",
+    "maxLv": 5,
+    "typeText": "",
+    "attackAttri": 1,
+    "effectFlag": 0
+  },
+  {
+    "individuality": [
+      3000,
+      4007
+    ],
+    "script": {},
     "id": 717,
     "seqId": 9942950,
     "name": "“おいで”",
@@ -7669,6 +7701,38 @@
     "id": 719,
     "seqId": 9942970,
     "name": "肋骨砕き",
+    "ruby": "-",
+    "rank": "なし",
+    "maxLv": 5,
+    "typeText": "",
+    "attackAttri": 1,
+    "effectFlag": 0
+  },
+  {
+    "individuality": [
+      3002,
+      4007
+    ],
+    "script": {},
+    "id": 720,
+    "seqId": 9942980,
+    "name": "“ほうふく”",
+    "ruby": "-",
+    "rank": "なし",
+    "maxLv": 5,
+    "typeText": "",
+    "attackAttri": 1,
+    "effectFlag": 0
+  },
+  {
+    "individuality": [
+      3000,
+      4007
+    ],
+    "script": {},
+    "id": 721,
+    "seqId": 9942990,
+    "name": "しがみつき",
     "ruby": "-",
     "rank": "なし",
     "maxLv": 5,
@@ -7701,6 +7765,22 @@
     "id": 723,
     "seqId": 9939190,
     "name": "自爆",
+    "ruby": "-",
+    "rank": "なし",
+    "maxLv": 5,
+    "typeText": "",
+    "attackAttri": 1,
+    "effectFlag": 0
+  },
+  {
+    "individuality": [
+      3000,
+      4007
+    ],
+    "script": {},
+    "id": 724,
+    "seqId": 9943070,
+    "name": "エリミネイション",
     "ruby": "-",
     "rank": "なし",
     "maxLv": 5,
@@ -11282,6 +11362,166 @@
     "seqId": 304600,
     "name": "魔よ、悉く天地を塞げ",
     "ruby": "アスラシュレーシュタ",
+    "rank": "EX",
+    "maxLv": 5,
+    "typeText": "対界宝具",
+    "attackAttri": 1,
+    "effectFlag": 1
+  },
+  {
+    "individuality": [
+      3000,
+      4001,
+      4007,
+      4101
+    ],
+    "script": {
+      "delayEnd": 1
+    },
+    "id": 304701,
+    "seqId": 304700,
+    "name": "光さす運命の槍",
+    "ruby": "ロンギヌス・カウントゼロ",
+    "rank": "C+～A+",
+    "maxLv": 5,
+    "typeText": "対城宝具",
+    "attackAttri": 1,
+    "effectFlag": 1
+  },
+  {
+    "individuality": [
+      3000,
+      4001,
+      4007
+    ],
+    "script": {
+      "randomSeqIds_1": [
+        304810,
+        304810
+      ],
+      "randomSeqIds": [
+        304800,
+        304800
+      ],
+      "randomSeqIds_3": [
+        304820,
+        304821
+      ],
+      "randomSeqIds_2": [
+        304810,
+        304810
+      ],
+      "randomWeights_3": [
+        80,
+        20
+      ],
+      "randomWeights_1": [
+        80,
+        20
+      ],
+      "randomWeights_2": [
+        80,
+        20
+      ],
+      "randomWeights": [
+        80,
+        20
+      ],
+      "randomWeights_4": [
+        80,
+        20
+      ],
+      "randomSeqIds_4": [
+        304820,
+        304821
+      ],
+      "delayEnd": 1
+    },
+    "id": 304801,
+    "seqId": 304800,
+    "name": "今は知らず、無垢なる湖光",
+    "ruby": "イノセンス・アロンダイト",
+    "rank": "A",
+    "maxLv": 5,
+    "typeText": "対人宝具",
+    "attackAttri": 1,
+    "effectFlag": 2
+  },
+  {
+    "individuality": [
+      3002,
+      4002,
+      4007,
+      4101
+    ],
+    "script": {
+      "randomSeqIds_1": [
+        304810,
+        304810
+      ],
+      "randomSeqIds": [
+        304800,
+        304800
+      ],
+      "randomSeqIds_3": [
+        304820,
+        304821
+      ],
+      "randomSeqIds_2": [
+        304810,
+        304810
+      ],
+      "randomWeights_3": [
+        80,
+        20
+      ],
+      "randomWeights_1": [
+        80,
+        20
+      ],
+      "randomWeights_2": [
+        80,
+        20
+      ],
+      "randomWeights": [
+        80,
+        20
+      ],
+      "randomWeights_4": [
+        80,
+        20
+      ],
+      "randomSeqIds_4": [
+        304820,
+        304821
+      ],
+      "npNameFileSuffix": "304802",
+      "delayEnd": 1
+    },
+    "id": 304802,
+    "seqId": 304800,
+    "name": "誰も知らぬ、無垢なる鼓動",
+    "ruby": "ホロウハート・アルビオン",
+    "rank": "EX",
+    "maxLv": 5,
+    "typeText": "対界宝具",
+    "attackAttri": 1,
+    "effectFlag": 1
+  },
+  {
+    "individuality": [
+      3002,
+      4002,
+      4007,
+      4101
+    ],
+    "script": {
+      "npNameFileSuffix": "304898"
+    },
+    "id": 304898,
+    "seqId": 304800,
+    "name": "？？？",
+    "ruby": "？？？",
     "rank": "EX",
     "maxLv": 5,
     "typeText": "対界宝具",
@@ -19707,6 +19947,63 @@
   },
   {
     "individuality": [
+      3002,
+      4001,
+      4007
+    ],
+    "script": {},
+    "id": 9943091,
+    "seqId": 9943090,
+    "name": "きみをいだく希望の星",
+    "ruby": "アラウンド・カリバーン",
+    "rank": "A",
+    "maxLv": 5,
+    "typeText": "対軍宝具",
+    "attackAttri": 1,
+    "effectFlag": 0
+  },
+  {
+    "individuality": [
+      3002,
+      4002,
+      4007,
+      4101
+    ],
+    "script": {
+      "delayEnd": 1
+    },
+    "id": 9943109,
+    "seqId": 9943010,
+    "name": "はや辿り着けぬ理想郷",
+    "ruby": "ロードレス・キャメロット",
+    "rank": "EX",
+    "maxLv": 5,
+    "typeText": "対城宝具",
+    "attackAttri": 1,
+    "effectFlag": 1
+  },
+  {
+    "individuality": [
+      3002,
+      4002,
+      4007,
+      4101
+    ],
+    "script": {
+      "delayEnd": 1
+    },
+    "id": 9943127,
+    "seqId": 9943030,
+    "name": "彼方にかざす夢の噺",
+    "ruby": "ライ・ライム・グッドフェロー",
+    "rank": "E",
+    "maxLv": 5,
+    "typeText": "対人宝具",
+    "attackAttri": 1,
+    "effectFlag": 1
+  },
+  {
+    "individuality": [
       3000,
       4002,
       4007
@@ -19793,6 +20090,161 @@
     "name": "無元の剣製",
     "ruby": "つむかりむらまさ",
     "rank": "A+",
+    "maxLv": 5,
+    "typeText": "対人宝具",
+    "attackAttri": 1,
+    "effectFlag": 1
+  },
+  {
+    "individuality": [
+      3000,
+      4001,
+      4007,
+      4101
+    ],
+    "script": {
+      "delayEnd": 1
+    },
+    "id": 9943221,
+    "seqId": 9943220,
+    "name": "眩き選定の槍",
+    "ruby": "ロスト・ロンギヌス",
+    "rank": "EX",
+    "maxLv": 5,
+    "typeText": "",
+    "attackAttri": 1,
+    "effectFlag": 1
+  },
+  {
+    "individuality": [
+      3002,
+      4003,
+      4007
+    ],
+    "script": {
+      "delayEnd": 1
+    },
+    "id": 9943271,
+    "seqId": 9943270,
+    "name": "痛幻の哭奏",
+    "ruby": "フェッチ・フェイルノート",
+    "rank": "E",
+    "maxLv": 5,
+    "typeText": "対人宝具",
+    "attackAttri": 1,
+    "effectFlag": 2
+  },
+  {
+    "individuality": [
+      3000,
+      4001,
+      4007,
+      4101
+    ],
+    "script": {
+      "delayEnd": 1
+    },
+    "id": 9943281,
+    "seqId": 9943280,
+    "name": "眩き選定の槍",
+    "ruby": "ロスト・ロンギヌス",
+    "rank": "EX",
+    "maxLv": 5,
+    "typeText": "",
+    "attackAttri": 1,
+    "effectFlag": 1
+  },
+  {
+    "individuality": [
+      3000,
+      4002,
+      4007
+    ],
+    "script": {},
+    "id": 9943311,
+    "seqId": 9943310,
+    "name": "猛り狂う乙女狼",
+    "ruby": "イーラ・ルプス",
+    "rank": "C++",
+    "maxLv": 5,
+    "typeText": "対人宝具",
+    "attackAttri": 1,
+    "effectFlag": 2
+  },
+  {
+    "individuality": [
+      3000,
+      4001,
+      4007
+    ],
+    "script": {
+      "delayEnd": 1
+    },
+    "id": 9943321,
+    "seqId": 9943320,
+    "name": "今は知らず、無垢なる湖光",
+    "ruby": "イノセンス・アロンダイト",
+    "rank": "A",
+    "maxLv": 5,
+    "typeText": "対人宝具",
+    "attackAttri": 1,
+    "effectFlag": 2
+  },
+  {
+    "individuality": [
+      3002,
+      4002,
+      4007,
+      4101
+    ],
+    "script": {
+      "delayEnd": 1
+    },
+    "id": 9943331,
+    "seqId": 9943330,
+    "name": "誰も知らぬ、無垢なる鼓動",
+    "ruby": "ホロウハート・アルビオン",
+    "rank": "EX",
+    "maxLv": 5,
+    "typeText": "対界宝具",
+    "attackAttri": 1,
+    "effectFlag": 1
+  },
+  {
+    "individuality": [
+      3002,
+      4002,
+      4007,
+      4101
+    ],
+    "script": {
+      "delayEnd": 1
+    },
+    "id": 9943346,
+    "seqId": 9943030,
+    "name": "彼方にかざす夢の噺",
+    "ruby": "ライ・ライム・グッドフェロー",
+    "rank": "E",
+    "maxLv": 5,
+    "typeText": "対人宝具",
+    "attackAttri": 1,
+    "effectFlag": 1
+  },
+  {
+    "individuality": [
+      3002,
+      4002,
+      4007,
+      4101
+    ],
+    "script": {
+      "delayEnd": 1
+    },
+    "id": 9943355,
+    "seqId": 9943030,
+    "name": "彼方にかざす夢の噺",
+    "ruby": "ライ・ライム・グッドフェロー",
+    "rank": "E",
     "maxLv": 5,
     "typeText": "対人宝具",
     "attackAttri": 1,
