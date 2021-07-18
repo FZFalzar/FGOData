@@ -69040,6 +69040,139 @@
   },
   {
     "targetIds": [
+      2001807,
+      2001808,
+      2001809,
+      2001810,
+      2001811,
+      2001812
+    ],
+    "missionId": 2001806,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2002065,
+    "missionTargetId": 100261,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 6,
+    "conditionMessage": "今週のマスターミッションをすべてクリアせよ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001369
+    ],
+    "missionId": 2001807,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2002066,
+    "missionTargetId": 100261,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 5,
+    "conditionMessage": "サーヴァントを5騎倒せ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001370
+    ],
+    "missionId": 2001808,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2002067,
+    "missionTargetId": 100261,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "『セイバー』『バーサーカー』クラスの敵をどれか15体倒せ(サーヴァント及び一部ボスなどは除く)",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001371
+    ],
+    "missionId": 2001809,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2002068,
+    "missionTargetId": 100261,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "『ランサー』『キャスター』クラスの敵をどれか15体倒せ(サーヴァント及び一部ボスなどは除く)",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001372
+    ],
+    "missionId": 2001810,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2002069,
+    "missionTargetId": 100261,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "『アーチャー』『ライダー』『アサシン』クラスの敵をどれか15体倒せ(サーヴァント及び一部ボスなどは除く)",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001373
+    ],
+    "missionId": 2001811,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2002070,
+    "missionTargetId": 100261,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 2,
+    "conditionMessage": "戦利品で「輝石」「魔石」「秘石」「ピース」「モニュメント」をどれか2個獲得せよ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001811
+    ],
+    "missionId": 2001812,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 2002071,
+    "missionTargetId": 100261,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 1,
+    "conditionMessage": "戦利品で「輝石」「魔石」「秘石」「ピース」「モニュメント」をどれか4個獲得せよ",
+    "closedMessage": "",
+    "flag": 64
+  },
+  {
+    "targetIds": [
+      2001373
+    ],
+    "missionId": 2001812,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2002072,
+    "missionTargetId": 100261,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 4,
+    "conditionMessage": "戦利品で「輝石」「魔石」「秘石」「ピース」「モニュメント」をどれか4個獲得せよ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
       8031002,
       8031003,
       8031004,
