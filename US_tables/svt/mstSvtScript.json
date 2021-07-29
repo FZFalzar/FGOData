@@ -313,6 +313,19 @@
   },
   {
     "extendData": {},
+    "id": 1008300,
+    "form": 0,
+    "faceX": 385,
+    "faceY": 144,
+    "bgImageId": 0,
+    "scale": 1,
+    "offsetX": -8,
+    "offsetY": 153,
+    "offsetXMyroom": 289,
+    "offsetYMyroom": 129
+  },
+  {
+    "extendData": {},
     "id": 1009000,
     "form": 0,
     "faceX": 384,
@@ -1265,6 +1278,90 @@
     "offsetY": 138,
     "offsetXMyroom": 305,
     "offsetYMyroom": 136
+  },
+  {
+    "extendData": {
+      "myroomForm": 0
+    },
+    "id": 1040000,
+    "form": 0,
+    "faceX": 367,
+    "faceY": 157,
+    "bgImageId": 0,
+    "scale": 1,
+    "offsetX": 17,
+    "offsetY": 102,
+    "offsetXMyroom": 288,
+    "offsetYMyroom": 103
+  },
+  {
+    "extendData": {},
+    "id": 1040000,
+    "form": 1,
+    "faceX": 375,
+    "faceY": 128,
+    "bgImageId": 0,
+    "scale": 1,
+    "offsetX": 17,
+    "offsetY": 102,
+    "offsetXMyroom": 288,
+    "offsetYMyroom": 103
+  },
+  {
+    "extendData": {
+      "myroomForm": 0
+    },
+    "id": 1040001,
+    "form": 0,
+    "faceX": 367,
+    "faceY": 157,
+    "bgImageId": 0,
+    "scale": 1,
+    "offsetX": 17,
+    "offsetY": 102,
+    "offsetXMyroom": 288,
+    "offsetYMyroom": 103
+  },
+  {
+    "extendData": {},
+    "id": 1040001,
+    "form": 1,
+    "faceX": 375,
+    "faceY": 128,
+    "bgImageId": 0,
+    "scale": 1,
+    "offsetX": 17,
+    "offsetY": 102,
+    "offsetXMyroom": 288,
+    "offsetYMyroom": 103
+  },
+  {
+    "extendData": {
+      "myroomForm": 0
+    },
+    "id": 1040002,
+    "form": 0,
+    "faceX": 367,
+    "faceY": 157,
+    "bgImageId": 0,
+    "scale": 1,
+    "offsetX": 17,
+    "offsetY": 102,
+    "offsetXMyroom": 288,
+    "offsetYMyroom": 103
+  },
+  {
+    "extendData": {},
+    "id": 1040002,
+    "form": 1,
+    "faceX": 375,
+    "faceY": 128,
+    "bgImageId": 0,
+    "scale": 1,
+    "offsetX": 17,
+    "offsetY": 102,
+    "offsetXMyroom": 288,
+    "offsetYMyroom": 103
   },
   {
     "extendData": {},
@@ -2700,6 +2797,45 @@
   },
   {
     "extendData": {},
+    "id": 2036000,
+    "form": 0,
+    "faceX": 364,
+    "faceY": 127,
+    "bgImageId": 0,
+    "scale": 1,
+    "offsetX": -6,
+    "offsetY": 120,
+    "offsetXMyroom": 307,
+    "offsetYMyroom": 133
+  },
+  {
+    "extendData": {},
+    "id": 2036001,
+    "form": 0,
+    "faceX": 364,
+    "faceY": 128,
+    "bgImageId": 0,
+    "scale": 1,
+    "offsetX": -6,
+    "offsetY": 120,
+    "offsetXMyroom": 307,
+    "offsetYMyroom": 133
+  },
+  {
+    "extendData": {},
+    "id": 2036002,
+    "form": 0,
+    "faceX": 363,
+    "faceY": 126,
+    "bgImageId": 0,
+    "scale": 1,
+    "offsetX": -6,
+    "offsetY": 120,
+    "offsetXMyroom": 307,
+    "offsetYMyroom": 133
+  },
+  {
+    "extendData": {},
     "id": 3001000,
     "form": 0,
     "faceX": 378,
@@ -4026,6 +4162,105 @@
   },
   {
     "extendData": {},
+    "id": 3040000,
+    "form": 0,
+    "faceX": 375,
+    "faceY": 129,
+    "bgImageId": 0,
+    "scale": 1,
+    "offsetX": 4,
+    "offsetY": 138,
+    "offsetXMyroom": 322,
+    "offsetYMyroom": 146
+  },
+  {
+    "extendData": {
+      "conds": [
+        {
+          "condType": 99,
+          "value": 2
+        }
+      ]
+    },
+    "id": 3040000,
+    "form": 1,
+    "faceX": 377,
+    "faceY": 113,
+    "bgImageId": 0,
+    "scale": 1,
+    "offsetX": 4,
+    "offsetY": 138,
+    "offsetXMyroom": 322,
+    "offsetYMyroom": 146
+  },
+  {
+    "extendData": {},
+    "id": 3040001,
+    "form": 0,
+    "faceX": 375,
+    "faceY": 144,
+    "bgImageId": 0,
+    "scale": 1,
+    "offsetX": 4,
+    "offsetY": 138,
+    "offsetXMyroom": 322,
+    "offsetYMyroom": 146
+  },
+  {
+    "extendData": {
+      "conds": [
+        {
+          "condType": 99,
+          "value": 2
+        }
+      ]
+    },
+    "id": 3040001,
+    "form": 1,
+    "faceX": 377,
+    "faceY": 145,
+    "bgImageId": 0,
+    "scale": 1,
+    "offsetX": 4,
+    "offsetY": 138,
+    "offsetXMyroom": 322,
+    "offsetYMyroom": 146
+  },
+  {
+    "extendData": {},
+    "id": 3040002,
+    "form": 0,
+    "faceX": 375,
+    "faceY": 131,
+    "bgImageId": 0,
+    "scale": 1,
+    "offsetX": 4,
+    "offsetY": 138,
+    "offsetXMyroom": 322,
+    "offsetYMyroom": 146
+  },
+  {
+    "extendData": {
+      "conds": [
+        {
+          "condType": 99,
+          "value": 2
+        }
+      ]
+    },
+    "id": 3040002,
+    "form": 1,
+    "faceX": 374,
+    "faceY": 150,
+    "bgImageId": 0,
+    "scale": 1,
+    "offsetX": 4,
+    "offsetY": 138,
+    "offsetXMyroom": 322,
+    "offsetYMyroom": 146
+  },
+  {
+    "extendData": {},
     "id": 4001000,
     "form": 0,
     "faceX": 384,
@@ -5261,6 +5496,45 @@
   },
   {
     "extendData": {},
+    "id": 4036000,
+    "form": 0,
+    "faceX": 371,
+    "faceY": 149,
+    "bgImageId": 0,
+    "scale": 1,
+    "offsetX": 9,
+    "offsetY": 139,
+    "offsetXMyroom": 324,
+    "offsetYMyroom": 125
+  },
+  {
+    "extendData": {},
+    "id": 4036001,
+    "form": 0,
+    "faceX": 368,
+    "faceY": 149,
+    "bgImageId": 0,
+    "scale": 1,
+    "offsetX": 9,
+    "offsetY": 139,
+    "offsetXMyroom": 324,
+    "offsetYMyroom": 125
+  },
+  {
+    "extendData": {},
+    "id": 4036002,
+    "form": 0,
+    "faceX": 375,
+    "faceY": 155,
+    "bgImageId": 0,
+    "scale": 1,
+    "offsetX": 9,
+    "offsetY": 139,
+    "offsetXMyroom": 324,
+    "offsetYMyroom": 125
+  },
+  {
+    "extendData": {},
     "id": 5001000,
     "form": 0,
     "faceX": 384,
@@ -5531,6 +5805,19 @@
     "offsetY": 164,
     "offsetXMyroom": 299,
     "offsetYMyroom": 142
+  },
+  {
+    "extendData": {},
+    "id": 5008300,
+    "form": 0,
+    "faceX": 379,
+    "faceY": 131,
+    "bgImageId": 0,
+    "scale": 1,
+    "offsetX": -9,
+    "offsetY": 156,
+    "offsetXMyroom": 281,
+    "offsetYMyroom": 135
   },
   {
     "extendData": {},
@@ -7476,6 +7763,21 @@
     "offsetYMyroom": 73
   },
   {
+    "extendData": {
+      "faceSize": 280
+    },
+    "id": 6019300,
+    "form": 0,
+    "faceX": 320,
+    "faceY": 192,
+    "bgImageId": 0,
+    "scale": 1,
+    "offsetX": -4,
+    "offsetY": 85,
+    "offsetXMyroom": 300,
+    "offsetYMyroom": 73
+  },
+  {
     "extendData": {},
     "id": 6021000,
     "form": 0,
@@ -8202,6 +8504,32 @@
     "offsetY": 130,
     "offsetXMyroom": 297,
     "offsetYMyroom": 138
+  },
+  {
+    "extendData": {},
+    "id": 6040000,
+    "form": 0,
+    "faceX": 408,
+    "faceY": 73,
+    "bgImageId": 0,
+    "scale": 1,
+    "offsetX": -15,
+    "offsetY": 136,
+    "offsetXMyroom": 282,
+    "offsetYMyroom": 128
+  },
+  {
+    "extendData": {},
+    "id": 6040001,
+    "form": 0,
+    "faceX": 408,
+    "faceY": 73,
+    "bgImageId": 0,
+    "scale": 1,
+    "offsetX": -15,
+    "offsetY": 136,
+    "offsetXMyroom": 282,
+    "offsetYMyroom": 128
   },
   {
     "extendData": {},
@@ -9425,6 +9753,45 @@
     "offsetY": 153,
     "offsetXMyroom": 304,
     "offsetYMyroom": 155
+  },
+  {
+    "extendData": {},
+    "id": 7036000,
+    "form": 0,
+    "faceX": 382,
+    "faceY": 152,
+    "bgImageId": 0,
+    "scale": 1,
+    "offsetX": -1,
+    "offsetY": 135,
+    "offsetXMyroom": 322,
+    "offsetYMyroom": 145
+  },
+  {
+    "extendData": {},
+    "id": 7036001,
+    "form": 0,
+    "faceX": 381,
+    "faceY": 152,
+    "bgImageId": 0,
+    "scale": 1,
+    "offsetX": -1,
+    "offsetY": 135,
+    "offsetXMyroom": 322,
+    "offsetYMyroom": 145
+  },
+  {
+    "extendData": {},
+    "id": 7036002,
+    "form": 0,
+    "faceX": 381,
+    "faceY": 152,
+    "bgImageId": 0,
+    "scale": 1,
+    "offsetX": -1,
+    "offsetY": 135,
+    "offsetXMyroom": 322,
+    "offsetYMyroom": 145
   },
   {
     "extendData": {},
@@ -21180,6 +21547,175 @@
   },
   {
     "extendData": {},
+    "id": 1098176500,
+    "form": 0,
+    "faceX": 375,
+    "faceY": 128,
+    "bgImageId": 0,
+    "scale": 1,
+    "offsetX": 17,
+    "offsetY": 102,
+    "offsetXMyroom": 288,
+    "offsetYMyroom": 103
+  },
+  {
+    "extendData": {},
+    "id": 1098176600,
+    "form": 0,
+    "faceX": 421,
+    "faceY": 171,
+    "bgImageId": 0,
+    "scale": 1,
+    "offsetX": -15,
+    "offsetY": 136,
+    "offsetXMyroom": 282,
+    "offsetYMyroom": 128
+  },
+  {
+    "extendData": {},
+    "id": 1098176810,
+    "form": 0,
+    "faceX": 364,
+    "faceY": 127,
+    "bgImageId": 0,
+    "scale": 1,
+    "offsetX": -6,
+    "offsetY": 120,
+    "offsetXMyroom": 307,
+    "offsetYMyroom": 133
+  },
+  {
+    "extendData": {},
+    "id": 1098176900,
+    "form": 0,
+    "faceX": 400,
+    "faceY": 166,
+    "bgImageId": 0,
+    "scale": 1,
+    "offsetX": -4,
+    "offsetY": 140,
+    "offsetXMyroom": 289,
+    "offsetYMyroom": 145
+  },
+  {
+    "extendData": {},
+    "id": 1098177000,
+    "form": 0,
+    "faceX": 375,
+    "faceY": 79,
+    "bgImageId": 0,
+    "scale": 1,
+    "offsetX": 0,
+    "offsetY": 105,
+    "offsetXMyroom": 289,
+    "offsetYMyroom": 100
+  },
+  {
+    "extendData": {},
+    "id": 1098177100,
+    "form": 0,
+    "faceX": 514,
+    "faceY": 0,
+    "bgImageId": 0,
+    "scale": 1,
+    "offsetX": 25,
+    "offsetY": 20,
+    "offsetXMyroom": 289,
+    "offsetYMyroom": 45
+  },
+  {
+    "extendData": {},
+    "id": 1098177200,
+    "form": 0,
+    "faceX": 430,
+    "faceY": 126,
+    "bgImageId": 0,
+    "scale": 1,
+    "offsetX": -12,
+    "offsetY": 101,
+    "offsetXMyroom": 308,
+    "offsetYMyroom": 79
+  },
+  {
+    "extendData": {},
+    "id": 1098177300,
+    "form": 0,
+    "faceX": 371,
+    "faceY": 149,
+    "bgImageId": 0,
+    "scale": 1,
+    "offsetX": 9,
+    "offsetY": 139,
+    "offsetXMyroom": 324,
+    "offsetYMyroom": 125
+  },
+  {
+    "extendData": {},
+    "id": 1098177320,
+    "form": 0,
+    "faceX": 375,
+    "faceY": 144,
+    "bgImageId": 0,
+    "scale": 1,
+    "offsetX": 9,
+    "offsetY": 139,
+    "offsetXMyroom": 324,
+    "offsetYMyroom": 125
+  },
+  {
+    "extendData": {},
+    "id": 1098177400,
+    "form": 0,
+    "faceX": 377,
+    "faceY": 113,
+    "bgImageId": 0,
+    "scale": 1,
+    "offsetX": 4,
+    "offsetY": 138,
+    "offsetXMyroom": 322,
+    "offsetYMyroom": 146
+  },
+  {
+    "extendData": {},
+    "id": 1098177600,
+    "form": 0,
+    "faceX": 400,
+    "faceY": 178,
+    "bgImageId": 0,
+    "scale": 1,
+    "offsetX": -15,
+    "offsetY": 136,
+    "offsetXMyroom": 282,
+    "offsetYMyroom": 128
+  },
+  {
+    "extendData": {},
+    "id": 1098177700,
+    "form": 0,
+    "faceX": 385,
+    "faceY": 48,
+    "bgImageId": 0,
+    "scale": 1,
+    "offsetX": -8,
+    "offsetY": 57,
+    "offsetXMyroom": 278,
+    "offsetYMyroom": 58
+  },
+  {
+    "extendData": {},
+    "id": 1098177800,
+    "form": 0,
+    "faceX": 381,
+    "faceY": 29,
+    "bgImageId": 0,
+    "scale": 1,
+    "offsetX": 4,
+    "offsetY": 93,
+    "offsetXMyroom": 290,
+    "offsetYMyroom": 84
+  },
+  {
+    "extendData": {},
     "id": 1098177900,
     "form": 0,
     "faceX": 381,
@@ -21206,6 +21742,32 @@
   },
   {
     "extendData": {},
+    "id": 1098178100,
+    "form": 0,
+    "faceX": 380,
+    "faceY": 127,
+    "bgImageId": 0,
+    "scale": 1,
+    "offsetX": -5,
+    "offsetY": 144,
+    "offsetXMyroom": 304,
+    "offsetYMyroom": 138
+  },
+  {
+    "extendData": {},
+    "id": 1098178800,
+    "form": 0,
+    "faceX": 380,
+    "faceY": 142,
+    "bgImageId": 0,
+    "scale": 1,
+    "offsetX": 0,
+    "offsetY": 129,
+    "offsetXMyroom": 308,
+    "offsetYMyroom": 116
+  },
+  {
+    "extendData": {},
     "id": 1098179200,
     "form": 0,
     "faceX": 372,
@@ -21216,5 +21778,109 @@
     "offsetY": 129,
     "offsetXMyroom": 315,
     "offsetYMyroom": 123
+  },
+  {
+    "extendData": {},
+    "id": 1098179300,
+    "form": 0,
+    "faceX": 405,
+    "faceY": 149,
+    "bgImageId": 0,
+    "scale": 1,
+    "offsetX": -3,
+    "offsetY": 117,
+    "offsetXMyroom": 305,
+    "offsetYMyroom": 118
+  },
+  {
+    "extendData": {},
+    "id": 1098179400,
+    "form": 0,
+    "faceX": 383,
+    "faceY": 157,
+    "bgImageId": 0,
+    "scale": 1,
+    "offsetX": -6,
+    "offsetY": 122,
+    "offsetXMyroom": 306,
+    "offsetYMyroom": 128
+  },
+  {
+    "extendData": {},
+    "id": 1098180000,
+    "form": 0,
+    "faceX": 380,
+    "faceY": 141,
+    "bgImageId": 0,
+    "scale": 1,
+    "offsetX": 0,
+    "offsetY": 129,
+    "offsetXMyroom": 308,
+    "offsetYMyroom": 116
+  },
+  {
+    "extendData": {},
+    "id": 1098180600,
+    "form": 0,
+    "faceX": 377,
+    "faceY": 143,
+    "bgImageId": 0,
+    "scale": 1,
+    "offsetX": 4,
+    "offsetY": 138,
+    "offsetXMyroom": 322,
+    "offsetYMyroom": 146
+  },
+  {
+    "extendData": {},
+    "id": 1098180700,
+    "form": 0,
+    "faceX": 408,
+    "faceY": 73,
+    "bgImageId": 0,
+    "scale": 1,
+    "offsetX": -15,
+    "offsetY": 136,
+    "offsetXMyroom": 282,
+    "offsetYMyroom": 128
+  },
+  {
+    "extendData": {},
+    "id": 1098180800,
+    "form": 0,
+    "faceX": 417,
+    "faceY": 152,
+    "bgImageId": 0,
+    "scale": 1,
+    "offsetX": -15,
+    "offsetY": 136,
+    "offsetXMyroom": 282,
+    "offsetYMyroom": 128
+  },
+  {
+    "extendData": {},
+    "id": 1098181100,
+    "form": 0,
+    "faceX": 378,
+    "faceY": 164,
+    "bgImageId": 0,
+    "scale": 1,
+    "offsetX": 0,
+    "offsetY": 138,
+    "offsetXMyroom": 290,
+    "offsetYMyroom": 130
+  },
+  {
+    "extendData": {},
+    "id": 1098181300,
+    "form": 0,
+    "faceX": 345,
+    "faceY": 131,
+    "bgImageId": 0,
+    "scale": 1,
+    "offsetX": 2,
+    "offsetY": 124,
+    "offsetXMyroom": 310,
+    "offsetYMyroom": 124
   }
 ]

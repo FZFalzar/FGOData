@@ -2320,6 +2320,62 @@
     "noticeMessage": "Only Three Servants"
   },
   {
+    "questId": 94040102,
+    "phase": 2,
+    "restrictionId": 94040101,
+    "frequencyType": 3,
+    "dialogMessage": "Please set Katsushika Hokusai as a Starting Member",
+    "noticeMessage": ""
+  },
+  {
+    "questId": 94040102,
+    "phase": 3,
+    "restrictionId": 94040104,
+    "frequencyType": 0,
+    "dialogMessage": "",
+    "noticeMessage": ""
+  },
+  {
+    "questId": 94040104,
+    "phase": 1,
+    "restrictionId": 94040102,
+    "frequencyType": 2,
+    "dialogMessage": "To begin this Quest, please set three of your own Servants and one Support Servant",
+    "noticeMessage": "Only Four Servants Can Be Set"
+  },
+  {
+    "questId": 94040104,
+    "phase": 2,
+    "restrictionId": 94040102,
+    "frequencyType": 0,
+    "dialogMessage": "To begin this Quest, please set three of your own Servants and one Support Servant",
+    "noticeMessage": "Only Four Servants Can Be Set"
+  },
+  {
+    "questId": 94040105,
+    "phase": 1,
+    "restrictionId": 94040102,
+    "frequencyType": 0,
+    "dialogMessage": "To begin this Quest, please set three of your own Servants and one Support Servant",
+    "noticeMessage": "Only Four Servants Can Be Set"
+  },
+  {
+    "questId": 94040105,
+    "phase": 2,
+    "restrictionId": 94040101,
+    "frequencyType": 3,
+    "dialogMessage": "Please set Katsushika Hokusai as a Starting Member",
+    "noticeMessage": ""
+  },
+  {
+    "questId": 94040105,
+    "phase": 2,
+    "restrictionId": 94040102,
+    "frequencyType": 0,
+    "dialogMessage": "To begin this Quest, please set three of your own Servants and one Support Servant",
+    "noticeMessage": "Only Four Servants Can Be Set"
+  },
+  {
     "questId": 94040523,
     "phase": 1,
     "restrictionId": 2000302,

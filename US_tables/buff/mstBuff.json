@@ -4107,7 +4107,8 @@
       3031,
       3021,
       3018,
-      3024
+      3024,
+      3030
     ],
     "script": {},
     "id": 314,
@@ -10853,7 +10854,8 @@
       3031,
       3021,
       3018,
-      3024
+      3024,
+      3030
     ],
     "script": {},
     "id": 887,
@@ -14102,7 +14104,8 @@
       3031,
       3021,
       3018,
-      3024
+      3024,
+      3030
     ],
     "script": {},
     "id": 1076,
@@ -25016,6 +25019,52 @@
       3005,
       3009
     ],
+    "tvals": [
+      4001
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4001
+    ],
+    "script": {},
+    "id": 1732,
+    "buffGroup": 0,
+    "type": 43,
+    "name": "DEF Down (Arts)",
+    "detail": "Decrease DEF against Arts Attacks",
+    "iconId": 504,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006,
+      3031
+    ],
+    "tvals": [
+      5000,
+      4001
+    ],
+    "ckSelfIndv": [
+      4001
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1733,
+    "buffGroup": 0,
+    "type": 18,
+    "name": "Critical Up",
+    "detail": "Increase Critical Hit damage",
+    "iconId": 324,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005,
+      3009
+    ],
     "tvals": [],
     "ckSelfIndv": [],
     "ckOpIndv": [],
@@ -25163,6 +25212,611 @@
     "effectId": 0
   },
   {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1742,
+    "buffGroup": 0,
+    "type": 89,
+    "name": "Command Code Bonus Attack Effect",
+    "detail": "An additional effect is granted when attacking with the engraved Command Card.",
+    "iconId": 333,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1743,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "Swordbeauty's Knowledge",
+    "detail": "Increase damage dealt in \"All In! Las Vegas Championship Match - Seven Duels of Swordbeauties!\"",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1744,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "Swordbeauty's Knowledge",
+    "detail": "Increase damage dealt in \"All In! Las Vegas Championship Match - Seven Duels of Swordbeauties!\"",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3007,
+      3040
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4007
+    ],
+    "script": {},
+    "id": 1745,
+    "buffGroup": 0,
+    "type": 23,
+    "name": "Damage Cut",
+    "detail": "Decrease damage taken by Noble Phantasms",
+    "iconId": 301,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1800,
+    "buffGroup": 400,
+    "type": 26,
+    "name": "Ceaseless Battle",
+    "detail": "Apply \"Nullify attacks from enemies that do not have Letter of Challenge\" to yourself (Permanent)",
+    "iconId": 311,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1801,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "Special Resist Up",
+    "detail": "Gain resistance to all attacks",
+    "iconId": 334,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1802,
+    "buffGroup": 0,
+    "type": 23,
+    "name": "Damage Cut",
+    "detail": "Decrease damage taken",
+    "iconId": 301,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2470
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1803,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "Factory Chief's Ambition",
+    "detail": "When HP reaches 0, recover HP and survive",
+    "iconId": 304,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1804,
+    "buffGroup": 0,
+    "type": 102,
+    "name": "Monster Killer",
+    "detail": "Increase Death Chance & DEF for yourself",
+    "iconId": 337,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006,
+      3029
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1805,
+    "buffGroup": 0,
+    "type": 13,
+    "name": "Udon Power",
+    "detail": "Increase damage dealt",
+    "iconId": 302,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006,
+      3031
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1807,
+    "buffGroup": 0,
+    "type": 18,
+    "name": "\"It's Essentially a Swimsuit!\"",
+    "detail": "Increase Critical Hit damage",
+    "iconId": 324,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      3005
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      3005
+    ],
+    "script": {},
+    "id": 1810,
+    "buffGroup": 0,
+    "type": 29,
+    "name": "Debuff Resist Up",
+    "detail": "Increase debuff resistance",
+    "iconId": 306,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1811,
+    "buffGroup": 0,
+    "type": 81,
+    "name": "Increase Max HP",
+    "detail": "Increase Max HP",
+    "iconId": 330,
+    "maxRate": 50000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1812,
+    "buffGroup": 0,
+    "type": 73,
+    "name": "Immune to Death",
+    "detail": "Nullify Death effect",
+    "iconId": 340,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2471
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1813,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "Medjed Power",
+    "detail": "Gain resistance to all attacks",
+    "iconId": 334,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2471
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1814,
+    "buffGroup": 0,
+    "type": 15,
+    "name": "Medjed Power",
+    "detail": "Increase NP damage",
+    "iconId": 310,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1815,
+    "buffGroup": 0,
+    "type": 114,
+    "name": "This Here's the Shinsengumi (Sea)!",
+    "detail": "Increase Charge by 1 each turn",
+    "iconId": 319,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1816,
+    "buffGroup": 0,
+    "type": 5,
+    "name": "NP Gain Per Turn ",
+    "detail": "Gain NP at end of each turn",
+    "iconId": 319,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1817,
+    "buffGroup": 0,
+    "type": 6,
+    "name": "C. Star Gain Per Turn",
+    "detail": "Gain C. Stars at end of each turn",
+    "iconId": 320,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3057,
+      2039
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1820,
+    "buffGroup": 220,
+    "type": 133,
+    "name": "Field Set [Near Water]",
+    "detail": "Change the field to [Near Water]",
+    "iconId": 354,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1829,
+    "buffGroup": 700,
+    "type": 38,
+    "name": "Target Focused",
+    "detail": "Increase chance of being targeted by enemies",
+    "iconId": 323,
+    "maxRate": 50000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006
+    ],
+    "tvals": [
+      4001,
+      4008
+    ],
+    "ckSelfIndv": [
+      4001,
+      4008
+    ],
+    "ckOpIndv": [],
+    "script": {
+      "checkIndvType": 1
+    },
+    "id": 1831,
+    "buffGroup": 0,
+    "type": 116,
+    "name": "Hit Count Up (Arts)",
+    "detail": "Double the number of hits of normal Arts Card attacks and decrease hit strength proportionally",
+    "iconId": 349,
+    "maxRate": 10,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006,
+      3028
+    ],
+    "tvals": [
+      4001,
+      4008
+    ],
+    "ckSelfIndv": [
+      4001,
+      4008
+    ],
+    "ckOpIndv": [],
+    "script": {
+      "checkIndvType": 1
+    },
+    "id": 1832,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "Strength Up (Arts)",
+    "detail": "Increase damage dealt using normal Arts Card attacks",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1833,
+    "buffGroup": 0,
+    "type": 43,
+    "name": "DEF Down (Treated as Buff)",
+    "detail": "Decrease DEF",
+    "iconId": 504,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [
+      5000,
+      4100,
+      4001,
+      4003,
+      4002
+    ],
+    "ckSelfIndv": [
+      4100
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1834,
+    "buffGroup": 0,
+    "type": 89,
+    "name": "Activate during Critical Attack (Critical Strength Up)",
+    "detail": "Increase your Critical Strength during your Critical attacks",
+    "iconId": 333,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005,
+      3009
+    ],
+    "tvals": [
+      4100
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4100
+    ],
+    "script": {},
+    "id": 1836,
+    "buffGroup": 0,
+    "type": 43,
+    "name": "DEF Down (Critical)",
+    "detail": "Decrease DEF against Critical attacks",
+    "iconId": 504,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1837,
+    "buffGroup": 0,
+    "type": 76,
+    "name": "Send Calling Card",
+    "detail": "Activate effect \"Decrease your Charge + Increase NP Gauge of all Notified parties\" at the end of the turn",
+    "iconId": 525,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1839,
+    "buffGroup": 0,
+    "type": 2,
+    "name": "C. Star Gather Up",
+    "detail": "Increase C. Star Gather Rate (Treated as Debuff) [Demerit]",
+    "iconId": 325,
+    "maxRate": 100000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1840,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "Strength Up",
+    "detail": "Increase damage dealt in \"All In! Las Vegas Championship Match - Seven Duels of Swordbeauties!\"",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1841,
+    "buffGroup": 0,
+    "type": 107,
+    "name": "Class Affinity Change (Lancer)",
+    "detail": "Change Class Affinity to [Lancer]",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1844,
+    "buffGroup": 0,
+    "type": 89,
+    "name": "Big Chance!",
+    "detail": "Chance to increase Charge by 1 during normal attacks",
+    "iconId": 333,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1845,
+    "buffGroup": 0,
+    "type": 76,
+    "name": "Calling Card",
+    "detail": "Activate effect \"Decrease your Charge + Increase NP Gauge for all calling card sender's parties\" at the end of the turn",
+    "iconId": 525,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1846,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "Activate when Exiting (Chance Time)",
+    "detail": "When HP reaches 0, NP Gauge increases for a single enemy",
+    "iconId": 350,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1851,
+    "buffGroup": 0,
+    "type": 114,
+    "name": "Passion On the Beach",
+    "detail": "Increase Charge by 1 each turn",
+    "iconId": 319,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1852,
+    "buffGroup": 0,
+    "type": 75,
+    "name": "Death Resist Down",
+    "detail": "Decrease Death resistance",
+    "iconId": 506,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
     "vals": [
       3004
     ],
@@ -25236,6 +25890,23 @@
     "type": 144,
     "name": "Class Affinity Change",
     "detail": "Gain Class advantage against Alter Ego Class",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "relationId": 116
+    },
+    "id": 2586,
+    "buffGroup": 0,
+    "type": 144,
+    "name": "Class Affinity Change",
+    "detail": "Receive Class disadvantages against Saber Class attributes",
     "iconId": 520,
     "maxRate": 0,
     "effectId": 0
