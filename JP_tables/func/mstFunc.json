@@ -123839,5 +123839,1799 @@
     "popupIconId": 0,
     "popupText": "",
     "categoryId": 0
+  },
+  {
+    "vals": [
+      132
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 7442,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 1,
+    "applyTarget": 3,
+    "popupIconId": 302,
+    "popupText": "威力アップ・対人間",
+    "categoryId": 10205
+  },
+  {
+    "vals": [
+      2710
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 7443,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 1,
+    "applyTarget": 3,
+    "popupIconId": 302,
+    "popupText": "威力アップ・対 人の力",
+    "categoryId": 10205
+  },
+  {
+    "vals": [
+      3750
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 7444,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 1,
+    "applyTarget": 1,
+    "popupIconId": 333,
+    "popupText": "Buster通常攻撃時追加効果",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      952
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 7445,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 1,
+    "applyTarget": 3,
+    "popupIconId": 324,
+    "popupText": "クリティカル威力アップ〔Buster〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      132
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 7446,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 7,
+    "applyTarget": 3,
+    "popupIconId": 302,
+    "popupText": "威力アップ・対人間",
+    "categoryId": 10205
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      101140001,
+      101140002,
+      101140002,
+      101140002,
+      101140002,
+      101140002,
+      101140002,
+      101140002,
+      101140002,
+      101140002
+    ],
+    "popupTextColor": 1,
+    "id": 7466,
+    "cond": 0,
+    "funcType": 34,
+    "targetType": 4,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "なし",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      101180001,
+      101180002,
+      101180002,
+      101180002,
+      101180002,
+      101180002,
+      101180002,
+      101180002,
+      101180002,
+      101180002
+    ],
+    "popupTextColor": 1,
+    "id": 7467,
+    "cond": 0,
+    "funcType": 34,
+    "targetType": 4,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "なし",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30001
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      330
+    ],
+    "popupTextColor": 2,
+    "id": 30001,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 302,
+    "popupText": "Extra Attackアップ",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30001
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 30002,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 302,
+    "popupText": "Extra Attackアップ",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30001
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 30003,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 302,
+    "popupText": "Extra Attackアップ",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      326
+    ],
+    "popupTextColor": 2,
+    "id": 30004,
+    "cond": 0,
+    "funcType": 7,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 0,
+    "popupText": "NP増加",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      327
+    ],
+    "popupTextColor": 2,
+    "id": 30005,
+    "cond": 0,
+    "funcType": 7,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 0,
+    "popupText": "NP増加",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 30006,
+    "cond": 0,
+    "funcType": 7,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 0,
+    "popupText": "NP増加",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30002
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      330
+    ],
+    "popupTextColor": 2,
+    "id": 30007,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 300,
+    "popupText": "攻撃力アップ〔対セイバー〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30002
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 30008,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 300,
+    "popupText": "攻撃力アップ〔対セイバー〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30002
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 30009,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 300,
+    "popupText": "攻撃力アップ〔対セイバー〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30003
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      330
+    ],
+    "popupTextColor": 2,
+    "id": 30010,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 300,
+    "popupText": "攻撃力アップ〔対セイバー〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30003
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 30011,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 300,
+    "popupText": "攻撃力アップ〔対セイバー〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30003
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 30012,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 300,
+    "popupText": "攻撃力アップ〔対セイバー〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30004
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      330
+    ],
+    "popupTextColor": 2,
+    "id": 30013,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 300,
+    "popupText": "攻撃力アップ〔対アーチャー〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30004
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 30014,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 300,
+    "popupText": "攻撃力アップ〔対アーチャー〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30004
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 30015,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 300,
+    "popupText": "攻撃力アップ〔対アーチャー〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30005
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      330
+    ],
+    "popupTextColor": 2,
+    "id": 30016,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 300,
+    "popupText": "攻撃力アップ〔対ランサー〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30005
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 30017,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 300,
+    "popupText": "攻撃力アップ〔対ランサー〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30005
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 30018,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 300,
+    "popupText": "攻撃力アップ〔対ランサー〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30006
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      330
+    ],
+    "popupTextColor": 2,
+    "id": 30019,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 300,
+    "popupText": "攻撃力アップ〔対ライダー〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30006
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 30020,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 300,
+    "popupText": "攻撃力アップ〔対ライダー〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30006
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 30021,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 300,
+    "popupText": "攻撃力アップ〔対ライダー〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30007
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      330
+    ],
+    "popupTextColor": 2,
+    "id": 30022,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 300,
+    "popupText": "攻撃力アップ〔対ライダー〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30007
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 30023,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 300,
+    "popupText": "攻撃力アップ〔対ライダー〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30007
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 30024,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 300,
+    "popupText": "攻撃力アップ〔対ライダー〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30008
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      330
+    ],
+    "popupTextColor": 2,
+    "id": 30025,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 300,
+    "popupText": "攻撃力アップ〔対キャスター〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30008
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 30026,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 300,
+    "popupText": "攻撃力アップ〔対キャスター〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30008
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 30027,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 300,
+    "popupText": "攻撃力アップ〔対キャスター〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30009
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      330
+    ],
+    "popupTextColor": 2,
+    "id": 30028,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 300,
+    "popupText": "攻撃力アップ〔対アサシン〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30009
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 30029,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 300,
+    "popupText": "攻撃力アップ〔対アサシン〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30009
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 30030,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 300,
+    "popupText": "攻撃力アップ〔対アサシン〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30010
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      330
+    ],
+    "popupTextColor": 2,
+    "id": 30031,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 300,
+    "popupText": "攻撃力アップ〔対バーサーカー〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30010
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 30032,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 300,
+    "popupText": "攻撃力アップ〔対バーサーカー〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30010
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 30033,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 300,
+    "popupText": "攻撃力アップ〔対バーサーカー〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30011
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      330
+    ],
+    "popupTextColor": 2,
+    "id": 30034,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 300,
+    "popupText": "攻撃力アップ〔対ルーラー〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30011
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 30035,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 300,
+    "popupText": "攻撃力アップ〔対ルーラー〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30011
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 30036,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 300,
+    "popupText": "攻撃力アップ〔対ルーラー〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30012
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      330
+    ],
+    "popupTextColor": 2,
+    "id": 30037,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 300,
+    "popupText": "攻撃力アップ〔対アヴェンジャー〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30012
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 30038,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 300,
+    "popupText": "攻撃力アップ〔対アヴェンジャー〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30012
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 30039,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 300,
+    "popupText": "攻撃力アップ〔対アヴェンジャー〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30013
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      330
+    ],
+    "popupTextColor": 2,
+    "id": 30040,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 300,
+    "popupText": "攻撃力アップ〔対ムーンキャンサー〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30013
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 30041,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 300,
+    "popupText": "攻撃力アップ〔対ムーンキャンサー〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30013
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 30042,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 300,
+    "popupText": "攻撃力アップ〔対ムーンキャンサー〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30014
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      330
+    ],
+    "popupTextColor": 2,
+    "id": 30043,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 300,
+    "popupText": "攻撃力アップ〔対アルターエゴ〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30014
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 30044,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 300,
+    "popupText": "攻撃力アップ〔対アルターエゴ〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30014
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 30045,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 300,
+    "popupText": "攻撃力アップ〔対アルターエゴ〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30015
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      330
+    ],
+    "popupTextColor": 2,
+    "id": 30046,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 300,
+    "popupText": "攻撃力アップ〔対フォーリナー〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30015
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 30047,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 300,
+    "popupText": "攻撃力アップ〔対フォーリナー〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30015
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 30048,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 300,
+    "popupText": "攻撃力アップ〔対フォーリナー〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30016
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      330
+    ],
+    "popupTextColor": 2,
+    "id": 30049,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 300,
+    "popupText": "攻撃力アップ〔対エクストラクラス〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30016
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 30050,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 300,
+    "popupText": "攻撃力アップ〔対エクストラクラス〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30016
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 30051,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 300,
+    "popupText": "攻撃力アップ〔対エクストラクラス〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30017
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      333
+    ],
+    "popupTextColor": 2,
+    "id": 30052,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 363,
+    "popupText": "被クリティカル発生耐性アップ〔対セイバー〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30017
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      334
+    ],
+    "popupTextColor": 2,
+    "id": 30053,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 363,
+    "popupText": "被クリティカル発生耐性アップ〔対セイバー〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30017
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 30054,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 363,
+    "popupText": "被クリティカル発生耐性アップ〔対セイバー〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30018
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      333
+    ],
+    "popupTextColor": 2,
+    "id": 30055,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 363,
+    "popupText": "被クリティカル発生耐性アップ〔対アーチャー〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30018
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      334
+    ],
+    "popupTextColor": 2,
+    "id": 30056,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 363,
+    "popupText": "被クリティカル発生耐性アップ〔対アーチャー〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30018
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 30057,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 363,
+    "popupText": "被クリティカル発生耐性アップ〔対アーチャー〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30019
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      333
+    ],
+    "popupTextColor": 2,
+    "id": 30058,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 363,
+    "popupText": "被クリティカル発生耐性アップ〔対ランサー〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30019
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      334
+    ],
+    "popupTextColor": 2,
+    "id": 30059,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 363,
+    "popupText": "被クリティカル発生耐性アップ〔対ランサー〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30019
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 30060,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 363,
+    "popupText": "被クリティカル発生耐性アップ〔対ランサー〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30020
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      333
+    ],
+    "popupTextColor": 2,
+    "id": 30061,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 363,
+    "popupText": "被クリティカル発生耐性アップ〔対ライダー〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30020
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      334
+    ],
+    "popupTextColor": 2,
+    "id": 30062,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 363,
+    "popupText": "被クリティカル発生耐性アップ〔対ライダー〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30020
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 30063,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 363,
+    "popupText": "被クリティカル発生耐性アップ〔対ライダー〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30021
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      333
+    ],
+    "popupTextColor": 2,
+    "id": 30064,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 363,
+    "popupText": "被クリティカル発生耐性アップ〔対キャスター〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30021
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      334
+    ],
+    "popupTextColor": 2,
+    "id": 30065,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 363,
+    "popupText": "被クリティカル発生耐性アップ〔対キャスター〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30021
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 30066,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 363,
+    "popupText": "被クリティカル発生耐性アップ〔対キャスター〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30022
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      333
+    ],
+    "popupTextColor": 2,
+    "id": 30067,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 363,
+    "popupText": "被クリティカル発生耐性アップ〔対アサシン〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30022
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      334
+    ],
+    "popupTextColor": 2,
+    "id": 30068,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 363,
+    "popupText": "被クリティカル発生耐性アップ〔対アサシン〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30022
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 30069,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 363,
+    "popupText": "被クリティカル発生耐性アップ〔対アサシン〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30023
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      333
+    ],
+    "popupTextColor": 2,
+    "id": 30070,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 363,
+    "popupText": "被クリティカル発生耐性アップ〔対バーサーカー〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30023
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      334
+    ],
+    "popupTextColor": 2,
+    "id": 30071,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 363,
+    "popupText": "被クリティカル発生耐性アップ〔対バーサーカー〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30023
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 30072,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 363,
+    "popupText": "被クリティカル発生耐性アップ〔対バーサーカー〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30024
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      333
+    ],
+    "popupTextColor": 2,
+    "id": 30073,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 363,
+    "popupText": "被クリティカル発生耐性アップ〔対ルーラー〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30024
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      334
+    ],
+    "popupTextColor": 2,
+    "id": 30074,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 363,
+    "popupText": "被クリティカル発生耐性アップ〔対ルーラー〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30024
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 30075,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 363,
+    "popupText": "被クリティカル発生耐性アップ〔対ルーラー〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30025
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      333
+    ],
+    "popupTextColor": 2,
+    "id": 30076,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 363,
+    "popupText": "被クリティカル発生耐性アップ〔対アヴェンジャー〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30025
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      334
+    ],
+    "popupTextColor": 2,
+    "id": 30077,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 363,
+    "popupText": "被クリティカル発生耐性アップ〔対アヴェンジャー〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30025
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 30078,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 363,
+    "popupText": "被クリティカル発生耐性アップ〔対アヴェンジャー〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30026
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      333
+    ],
+    "popupTextColor": 2,
+    "id": 30079,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 363,
+    "popupText": "被クリティカル発生耐性アップ〔対ムーンキャンサー〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30026
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      334
+    ],
+    "popupTextColor": 2,
+    "id": 30080,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 363,
+    "popupText": "被クリティカル発生耐性アップ〔対ムーンキャンサー〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30026
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 30081,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 363,
+    "popupText": "被クリティカル発生耐性アップ〔対ムーンキャンサー〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30027
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      333
+    ],
+    "popupTextColor": 2,
+    "id": 30082,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 363,
+    "popupText": "被クリティカル発生耐性アップ〔対アルターエゴ〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30027
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      334
+    ],
+    "popupTextColor": 2,
+    "id": 30083,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 363,
+    "popupText": "被クリティカル発生耐性アップ〔対アルターエゴ〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30027
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 30084,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 363,
+    "popupText": "被クリティカル発生耐性アップ〔対アルターエゴ〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30028
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      333
+    ],
+    "popupTextColor": 2,
+    "id": 30085,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 363,
+    "popupText": "被クリティカル発生耐性アップ〔対フォーリナー〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30028
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      334
+    ],
+    "popupTextColor": 2,
+    "id": 30086,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 363,
+    "popupText": "被クリティカル発生耐性アップ〔対フォーリナー〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30028
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 30087,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 363,
+    "popupText": "被クリティカル発生耐性アップ〔対フォーリナー〕",
+    "categoryId": 0
   }
 ]

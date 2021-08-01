@@ -7854,6 +7854,22 @@
   },
   {
     "individuality": [
+      3000,
+      4007
+    ],
+    "script": {},
+    "id": 734,
+    "seqId": 9943160,
+    "name": "輝かしき成功",
+    "ruby": "-",
+    "rank": "なし",
+    "maxLv": 5,
+    "typeText": "",
+    "attackAttri": 1,
+    "effectFlag": 0
+  },
+  {
+    "individuality": [
       3002,
       4002,
       4007,
@@ -15114,6 +15130,30 @@
     "rank": "A",
     "maxLv": 5,
     "typeText": "対城宝具",
+    "attackAttri": 1,
+    "effectFlag": 1
+  },
+  {
+    "individuality": [
+      3001,
+      4002,
+      4007,
+      4101
+    ],
+    "script": {
+      "limitSeqId_1": 604210,
+      "limitSeqId_3": 604220,
+      "delayEnd": 1,
+      "limitSeqId_4": 604220,
+      "limitSeqId_2": 604210
+    },
+    "id": 604201,
+    "seqId": 604200,
+    "name": "霊裳重光・79式擲禍大社",
+    "ruby": "イズトゥーラ・セブンドライブ",
+    "rank": "C",
+    "maxLv": 5,
+    "typeText": "対界宝具",
     "attackAttri": 1,
     "effectFlag": 1
   },

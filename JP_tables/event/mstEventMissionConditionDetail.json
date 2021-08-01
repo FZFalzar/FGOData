@@ -27710,7 +27710,15 @@
       9770400,
       9770300,
       9770200,
-      9770100
+      9770100,
+      9703500,
+      9702500,
+      9706500,
+      9701500,
+      9704500,
+      9705500,
+      9707500,
+      9770500
     ],
     "addTargetIds": [],
     "targetQuestIndividualities": [],
@@ -27839,6 +27847,32 @@
     "targetEventIds": [],
     "id": 3000007,
     "missionTargetId": 300003,
+    "missionCondType": 24,
+    "logicType": 1,
+    "conditionLinkType": 3
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "addTargetIds": [],
+    "targetQuestIndividualities": [],
+    "targetEventIds": [],
+    "id": 3000008,
+    "missionTargetId": 300004,
+    "missionCondType": 24,
+    "logicType": 1,
+    "conditionLinkType": 3
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "addTargetIds": [],
+    "targetQuestIndividualities": [],
+    "targetEventIds": [],
+    "id": 3000009,
+    "missionTargetId": 300005,
     "missionCondType": 24,
     "logicType": 1,
     "conditionLinkType": 3
