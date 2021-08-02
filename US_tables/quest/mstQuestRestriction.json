@@ -2384,6 +2384,30 @@
     "noticeMessage": ""
   },
   {
+    "questId": 94040112,
+    "phase": 1,
+    "restrictionId": 94040103,
+    "frequencyType": 2,
+    "dialogMessage": "Certain Servants cannot be selected ",
+    "noticeMessage": "Cannot use Katsushika Hokusai"
+  },
+  {
+    "questId": 94040113,
+    "phase": 2,
+    "restrictionId": 3000201,
+    "frequencyType": 3,
+    "dialogMessage": "Please set the Support Servant as a Starting Member",
+    "noticeMessage": "Support Servant cannot be set as a Sub Member"
+  },
+  {
+    "questId": 94040113,
+    "phase": 3,
+    "restrictionId": 94040101,
+    "frequencyType": 3,
+    "dialogMessage": "Please set Katsushika Hokusai as a Starting Member",
+    "noticeMessage": ""
+  },
+  {
     "questId": 94040523,
     "phase": 1,
     "restrictionId": 2000302,
