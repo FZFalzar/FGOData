@@ -52108,6 +52108,139 @@
   },
   {
     "targetIds": [
+      2001499,
+      2001500,
+      2001501,
+      2001502,
+      2001503,
+      2001504
+    ],
+    "missionId": 2001498,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001202,
+    "missionTargetId": 100217,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 6,
+    "conditionMessage": "Complete all of this week's Master Missions",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001202
+    ],
+    "missionId": 2001499,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001203,
+    "missionTargetId": 100217,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 5,
+    "conditionMessage": "Put one or more Swimsuit Servants (excluding Spiritron Dresses) in your Party and complete any quest(s) 5 times",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001499
+    ],
+    "missionId": 2001500,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 2001204,
+    "missionTargetId": 100217,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 1,
+    "conditionMessage": "Put one or more Swimsuit Servants (excluding Spiritron Dresses) in your Party and complete any quest(s) 10 times",
+    "closedMessage": "",
+    "flag": 8
+  },
+  {
+    "targetIds": [
+      2001202
+    ],
+    "missionId": 2001500,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001205,
+    "missionTargetId": 100217,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 10,
+    "conditionMessage": "Put one or more Swimsuit Servants (excluding Spiritron Dresses) in your Party and complete any quest(s) 10 times",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001203
+    ],
+    "missionId": 2001501,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001206,
+    "missionTargetId": 100217,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "Defeat 15 \"Dragon\" enemies",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001204
+    ],
+    "missionId": 2001502,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001207,
+    "missionTargetId": 100217,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 6,
+    "conditionMessage": "Defeat 6 Saber, Caster, or Berserker-class Servants",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001205
+    ],
+    "missionId": 2001503,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001208,
+    "missionTargetId": 100217,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 6,
+    "conditionMessage": "Defeat 6 Lancer, Archer, Rider, or Assassin-class Servants",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001206
+    ],
+    "missionId": 2001504,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001209,
+    "missionTargetId": 100217,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 3,
+    "conditionMessage": "Acquire 3 Gems, Magic Gems, Secret Gems, Pieces or Monuments through battles",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
       94011901
     ],
     "missionId": 80054001,
