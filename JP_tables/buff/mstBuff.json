@@ -48684,6 +48684,23 @@
   },
   {
     "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3631,
+    "buffGroup": 0,
+    "type": 76,
+    "name": "遅延発動(即死)",
+    "detail": "ターン終了時に即死する状態<強化扱い>を付与【デメリット】",
+    "iconId": 525,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
       3004,
       3006,
       3028
@@ -50100,10 +50117,48 @@
     "id": 3709,
     "buffGroup": 0,
     "type": 85,
-    "name": "遅延発動(NP減少)",
+    "name": "朝のひばり",
     "detail": "ターン終了時に自身のNPを減らす状態(1回)<強化扱い>を付与【デメリット】",
     "iconId": 525,
     "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3710,
+    "buffGroup": 0,
+    "type": 76,
+    "name": "遅延発動(即死)",
+    "detail": "5ターン経過後に即死を付与する",
+    "iconId": 525,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006,
+      3071
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "UpBuffRateBuffIndiv": "3030"
+    },
+    "id": 3711,
+    "buffGroup": 370,
+    "type": 162,
+    "name": "宝具威力アップブースト",
+    "detail": "宝具威力アップ状態の効果量を一時的に増大させる<重複不可>",
+    "iconId": 370,
+    "maxRate": 5000,
     "effectId": 0
   },
   {
@@ -50346,6 +50401,423 @@
   },
   {
     "vals": [
+      3005,
+      6035
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3726,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "呪層",
+    "detail": "被ダメージ時に「自身の〔呪層〕状態を1つ解除＆自身のHPを回復 ＋ 敵単体に〔呪層汚染〕状態を付与(3ターン)＆防御力をダウン(3ターン) ＋ 敵全体に呪い状態を付与(5ターン)」する状態を付与",
+    "iconId": 521,
+    "maxRate": 0,
+    "effectId": 17123
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3727,
+    "buffGroup": 0,
+    "type": 86,
+    "name": "竜の鼓動",
+    "detail": "攻撃を受けると自身の攻撃力をアップまたは防御力をアップまたはクリティカル発生率をアップ",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3728,
+    "buffGroup": 0,
+    "type": 86,
+    "name": "兆し",
+    "detail": "攻撃を受けると自身の最大HPをアップ",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      5000
+    ],
+    "script": {},
+    "id": 3729,
+    "buffGroup": 0,
+    "type": 90,
+    "name": "獣の呪い",
+    "detail": "敵を倒したときに自身の攻撃力をアップ＆NPを増やす",
+    "iconId": 342,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3730,
+    "buffGroup": 0,
+    "type": 95,
+    "name": "",
+    "detail": "",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3731,
+    "buffGroup": 0,
+    "type": 85,
+    "name": "",
+    "detail": "",
+    "iconId": 343,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3732,
+    "buffGroup": 0,
+    "type": 85,
+    "name": "竜炎励起",
+    "detail": "毎ターン終了時、自身に〔竜気〕状態を付与＆〔竜気〕状態の数に応じて攻撃力がアップ＆〔竜気〕状態の数に応じて宝具威力がアップ＆〔竜気〕状態の数に応じて被ダメージを減らす",
+    "iconId": 343,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      5000
+    ],
+    "script": {},
+    "id": 3733,
+    "buffGroup": 0,
+    "type": 90,
+    "name": "獣の呪い",
+    "detail": "敵を倒したときに自身の攻撃力をアップ＆チャージを1増やす",
+    "iconId": 342,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3061
+    ],
+    "tvals": [
+      6034
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      6034
+    ],
+    "script": {},
+    "id": 3734,
+    "buffGroup": 0,
+    "type": 31,
+    "name": "白亜の守り",
+    "detail": "自身がフィールドにいる間、味方全軍に〔魔力食い〕を受けなくなる状態を付与＆敵からの最大HPを減らす効果を受けなくなる状態を付与＆防御力アップ + 味方全軍の〔円卓の騎士〕の防御力をアップ",
+    "iconId": 322,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006,
+      3027
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3735,
+    "buffGroup": 0,
+    "type": 9,
+    "name": "太陽の騎士",
+    "detail": "自身がフィールドにいる間、味方全軍の〔円卓の騎士〕の攻撃力をアップ＆Busterカード性能をアップ + ターン終了時にスターを獲得する",
+    "iconId": 300,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3736,
+    "buffGroup": 0,
+    "type": 17,
+    "name": "湖の騎士",
+    "detail": "自身がフィールドにいる間、味方全軍の〔円卓の騎士〕のNP獲得量をアップ＆Artsカード性能をアップ + ターン終了時に味方全体のNPが増える",
+    "iconId": 303,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005,
+      3048
+    ],
+    "tvals": [],
+    "ckSelfIndv": [
+      3026
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3737,
+    "buffGroup": 0,
+    "type": 126,
+    "name": "モースの呪い",
+    "detail": "呪いの効果量アップ",
+    "iconId": 547,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3738,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "呪腐肉層",
+    "detail": "全ての攻撃に対する耐性を得る＜〔呪層〕状態の数だけ効果量アップ＞＆弱体状態の数に応じて自身の攻撃力がアップ＆行動不能を受けなくなる＆弱体解除無効状態を付与",
+    "iconId": 334,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "INDIVIDUALITIE": 6035
+    },
+    "id": 3739,
+    "buffGroup": 0,
+    "type": 86,
+    "name": "",
+    "detail": "",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3740,
+    "buffGroup": 0,
+    "type": 85,
+    "name": "呪層汚染",
+    "detail": "毎ターン終了時、自身のHPが減る",
+    "iconId": 537,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3741,
+    "buffGroup": 0,
+    "type": 85,
+    "name": "毎ターン発動(呪層付与)",
+    "detail": "毎ターン終了時、自身に〔呪層〕状態を付与",
+    "iconId": 343,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3742,
+    "buffGroup": 0,
+    "type": 137,
+    "name": "攻撃時発動(呪層付与)",
+    "detail": "攻撃時に中確率で自身に〔呪層〕状態を付与",
+    "iconId": 333,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      3005
+    ],
+    "script": {},
+    "id": 3743,
+    "buffGroup": 0,
+    "type": 100,
+    "name": "",
+    "detail": "",
+    "iconId": 348,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3744,
+    "buffGroup": 0,
+    "type": 137,
+    "name": "攻撃時発動(強化解除)",
+    "detail": "攻撃時に敵単体の強化状態を1つ解除＆解除成功時、攻撃力をダウン",
+    "iconId": 528,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3745,
+    "buffGroup": 0,
+    "type": 85,
+    "name": "毎ターン発動(HP減少 + チャージ増加)",
+    "detail": "毎ターン終了時、味方全体のHPを減らす + 敵単体のチャージを1増やす＜睡眠状態が解除されると効果解除＞",
+    "iconId": 537,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006,
+      3027
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3746,
+    "buffGroup": 0,
+    "type": 9,
+    "name": "聖剣の輝き",
+    "detail": "攻撃力をアップ＆ターン終了時にNPが増える",
+    "iconId": 300,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3747,
+    "buffGroup": 0,
+    "type": 137,
+    "name": "攻撃時発動(弱体)",
+    "detail": "攻撃時に自身の防御力をダウンまたはスター発生率をダウンまたはNP獲得量をダウン",
+    "iconId": 549,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6034
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3748,
+    "buffGroup": 0,
+    "type": 80,
+    "name": "最大HPダウン",
+    "detail": "最大HPを減らす",
+    "iconId": 522,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6034
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3749,
+    "buffGroup": 0,
+    "type": 82,
+    "name": "最大HPマイナス",
+    "detail": "最大HPを減らす",
+    "iconId": 522,
+    "maxRate": 50000,
+    "effectId": 0
+  },
+  {
+    "vals": [
       3004
     ],
     "tvals": [
@@ -50363,6 +50835,214 @@
     "name": "Buster通常攻撃時追加効果",
     "detail": "Busterカードでの通常攻撃時に自身のNPを増やす",
     "iconId": 333,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3751,
+    "buffGroup": 0,
+    "type": 89,
+    "name": "",
+    "detail": "",
+    "iconId": 333,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      6033
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3752,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "竜気",
+    "detail": "〔竜気〕状態<強化扱い>を付与",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "INDIVIDUALITIE": 6028
+    },
+    "id": 3753,
+    "buffGroup": 9993,
+    "type": 85,
+    "name": "",
+    "detail": "",
+    "iconId": 343,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [
+      5000
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3754,
+    "buffGroup": 0,
+    "type": 86,
+    "name": "被ダメージ時発動(攻撃力アップ)",
+    "detail": "攻撃を受けると自身の攻撃力をアップ",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3756,
+    "buffGroup": 0,
+    "type": 85,
+    "name": "朝のひばり",
+    "detail": "ターン終了時に自身のチャージを減らす状態(1回)<強化扱い>を付与【デメリット】",
+    "iconId": 525,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3025
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3759,
+    "buffGroup": 800,
+    "type": 33,
+    "name": "スキル封印",
+    "detail": "スキルを使用できなくなる",
+    "iconId": 511,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3024
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3761,
+    "buffGroup": 0,
+    "type": 37,
+    "name": "ガッツ",
+    "detail": "HPが0になった時、HPを回復して耐える(他のガッツ状態と重複可能)",
+    "iconId": 304,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3762,
+    "buffGroup": 0,
+    "type": 149,
+    "name": "ガッツ時発動(攻撃力アップ)",
+    "detail": "ガッツ発動時、味方全体の攻撃力をアップ",
+    "iconId": 365,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006,
+      3027
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3763,
+    "buffGroup": 0,
+    "type": 9,
+    "name": "妖精騎士ギャラハッド",
+    "detail": "攻撃力をアップ＆NP獲得量をアップ",
+    "iconId": 300,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6034
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3764,
+    "buffGroup": 0,
+    "type": 10,
+    "name": "攻撃力ダウン",
+    "detail": "攻撃力をダウン",
+    "iconId": 503,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6034
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3765,
+    "buffGroup": 0,
+    "type": 43,
+    "name": "防御力ダウン",
+    "detail": "防御力をダウン",
+    "iconId": 504,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6034
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3766,
+    "buffGroup": 900,
+    "type": 34,
+    "name": "宝具封印",
+    "detail": "宝具を使用できなくなる",
+    "iconId": 512,
     "maxRate": 0,
     "effectId": 0
   },
@@ -50728,6 +51408,7 @@
       115,
       109,
       117,
+      120,
       111,
       113,
       114,
@@ -50743,6 +51424,7 @@
       115,
       109,
       117,
+      120,
       111,
       113,
       114,

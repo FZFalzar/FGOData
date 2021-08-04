@@ -7682,9 +7682,57 @@
       4007
     ],
     "script": {},
+    "id": 715,
+    "seqId": 9942930,
+    "name": "ホロウハート・アルビオン",
+    "ruby": "-",
+    "rank": "なし",
+    "maxLv": 5,
+    "typeText": "",
+    "attackAttri": 1,
+    "effectFlag": 0
+  },
+  {
+    "individuality": [
+      3000,
+      4007
+    ],
+    "script": {},
+    "id": 716,
+    "seqId": 9942940,
+    "name": "“いかないで”",
+    "ruby": "-",
+    "rank": "なし",
+    "maxLv": 5,
+    "typeText": "",
+    "attackAttri": 1,
+    "effectFlag": 0
+  },
+  {
+    "individuality": [
+      3000,
+      4007
+    ],
+    "script": {},
     "id": 717,
     "seqId": 9942950,
     "name": "“おいで”",
+    "ruby": "-",
+    "rank": "なし",
+    "maxLv": 5,
+    "typeText": "",
+    "attackAttri": 1,
+    "effectFlag": 0
+  },
+  {
+    "individuality": [
+      3000,
+      4007
+    ],
+    "script": {},
+    "id": 718,
+    "seqId": 9942960,
+    "name": "雷食いのバーゲスト",
     "ruby": "-",
     "rank": "なし",
     "maxLv": 5,
@@ -7861,6 +7909,22 @@
     "id": 734,
     "seqId": 9943160,
     "name": "輝かしき成功",
+    "ruby": "-",
+    "rank": "なし",
+    "maxLv": 5,
+    "typeText": "",
+    "attackAttri": 1,
+    "effectFlag": 0
+  },
+  {
+    "individuality": [
+      3000,
+      4007
+    ],
+    "script": {},
+    "id": 735,
+    "seqId": 9943070,
+    "name": "エリミネイション",
     "ruby": "-",
     "rank": "なし",
     "maxLv": 5,
@@ -11411,25 +11475,9 @@
       4007
     ],
     "script": {
-      "randomSeqIds_1": [
-        304810,
-        304810
-      ],
-      "randomSeqIds": [
+      "randomSeqIds_11": [
         304800,
         304800
-      ],
-      "randomSeqIds_3": [
-        304820,
-        304821
-      ],
-      "randomSeqIds_2": [
-        304810,
-        304810
-      ],
-      "randomWeights_3": [
-        80,
-        20
       ],
       "randomWeights_1": [
         80,
@@ -11443,15 +11491,55 @@
         80,
         20
       ],
-      "randomWeights_4": [
+      "randomSeqIds_12": [
+        304810,
+        304810
+      ],
+      "randomSeqIds_2": [
+        304810,
+        304810
+      ],
+      "randomWeights_3": [
         80,
         20
+      ],
+      "randomWeights_11": [
+        80,
+        20
+      ],
+      "randomSeqIds_1": [
+        304810,
+        304810
+      ],
+      "randomWeights_13": [
+        80,
+        20
+      ],
+      "randomSeqIds_3": [
+        304820,
+        304821
       ],
       "randomSeqIds_4": [
         304820,
         304821
       ],
-      "delayEnd": 1
+      "randomWeights_12": [
+        80,
+        20
+      ],
+      "randomSeqIds": [
+        304800,
+        304800
+      ],
+      "delayEnd": 1,
+      "randomWeights_4": [
+        80,
+        20
+      ],
+      "randomSeqIds_13": [
+        304850,
+        304851
+      ]
     },
     "id": 304801,
     "seqId": 304800,
@@ -11471,25 +11559,9 @@
       4101
     ],
     "script": {
-      "randomSeqIds_1": [
-        304810,
-        304810
-      ],
-      "randomSeqIds": [
+      "randomSeqIds_11": [
         304800,
         304800
-      ],
-      "randomSeqIds_3": [
-        304820,
-        304821
-      ],
-      "randomSeqIds_2": [
-        304810,
-        304810
-      ],
-      "randomWeights_3": [
-        80,
-        20
       ],
       "randomWeights_1": [
         80,
@@ -11503,16 +11575,56 @@
         80,
         20
       ],
-      "randomWeights_4": [
+      "randomSeqIds_12": [
+        304810,
+        304810
+      ],
+      "randomSeqIds_2": [
+        304810,
+        304810
+      ],
+      "randomWeights_3": [
         80,
         20
+      ],
+      "randomWeights_11": [
+        80,
+        20
+      ],
+      "randomSeqIds_1": [
+        304810,
+        304810
+      ],
+      "npNameFileSuffix": "304802",
+      "randomWeights_13": [
+        80,
+        20
+      ],
+      "randomSeqIds_3": [
+        304820,
+        304821
       ],
       "randomSeqIds_4": [
         304820,
         304821
       ],
-      "npNameFileSuffix": "304802",
-      "delayEnd": 1
+      "randomWeights_12": [
+        80,
+        20
+      ],
+      "randomSeqIds": [
+        304800,
+        304800
+      ],
+      "delayEnd": 1,
+      "randomWeights_4": [
+        80,
+        20
+      ],
+      "randomSeqIds_13": [
+        304850,
+        304851
+      ]
     },
     "id": 304802,
     "seqId": 304800,
@@ -12606,6 +12718,33 @@
     "individuality": [
       3002,
       4001,
+      4007,
+      4101
+    ],
+    "script": {
+      "randomSeqIds": [
+        404200,
+        404201
+      ],
+      "randomWeights": [
+        50,
+        50
+      ]
+    },
+    "id": 404201,
+    "seqId": 404200,
+    "name": "きみに紡ぐ刻の車輪",
+    "ruby": "スピンスター・ハベトロット",
+    "rank": "EX",
+    "maxLv": 5,
+    "typeText": "対軍宝具",
+    "attackAttri": 1,
+    "effectFlag": 1
+  },
+  {
+    "individuality": [
+      3002,
+      4001,
       4007
     ],
     "script": {},
@@ -13639,6 +13778,23 @@
     "name": "禁断なる狂宴",
     "ruby": "メタボ・ピグレッツ",
     "rank": "C",
+    "maxLv": 5,
+    "typeText": "対人宝具",
+    "attackAttri": 1,
+    "effectFlag": 2
+  },
+  {
+    "individuality": [
+      3000,
+      4002,
+      4007
+    ],
+    "script": {},
+    "id": 503302,
+    "seqId": 503300,
+    "name": "禁断なる狂宴",
+    "ruby": "メタボ・ピグレッツ",
+    "rank": "C+",
     "maxLv": 5,
     "typeText": "対人宝具",
     "attackAttri": 1,
@@ -20081,6 +20237,33 @@
       4101
     ],
     "script": {
+      "randomSeqIds": [
+        9943020,
+        9943021
+      ],
+      "randomWeights": [
+        80,
+        20
+      ]
+    },
+    "id": 9943119,
+    "seqId": 9943020,
+    "name": "誰も知らぬ、無垢なる鼓動",
+    "ruby": "ホロウハート・アルビオン",
+    "rank": "EX",
+    "maxLv": 5,
+    "typeText": "対界宝具",
+    "attackAttri": 1,
+    "effectFlag": 1
+  },
+  {
+    "individuality": [
+      3002,
+      4002,
+      4007,
+      4101
+    ],
+    "script": {
       "delayEnd": 1
     },
     "id": 9943127,
@@ -20090,6 +20273,52 @@
     "rank": "E",
     "maxLv": 5,
     "typeText": "対人宝具",
+    "attackAttri": 1,
+    "effectFlag": 1
+  },
+  {
+    "individuality": [
+      3002,
+      4002,
+      4007,
+      4101
+    ],
+    "script": {},
+    "id": 9943138,
+    "seqId": 9943040,
+    "name": "彼方にかざす夢の噺",
+    "ruby": "ライ・ライム・グッドフェロー",
+    "rank": "E",
+    "maxLv": 5,
+    "typeText": "対人宝具",
+    "attackAttri": 1,
+    "effectFlag": 1
+  },
+  {
+    "individuality": [
+      3002,
+      4002,
+      4007,
+      4101
+    ],
+    "script": {
+      "delayEnd": 1,
+      "randomSeqIds": [
+        9943050,
+        9943051
+      ],
+      "randomWeights": [
+        50,
+        50
+      ]
+    },
+    "id": 9943149,
+    "seqId": 9943050,
+    "name": "彼方とおちる夢の瞳",
+    "ruby": "ライ・ライク・ヴォーティガーン",
+    "rank": "EX",
+    "maxLv": 5,
+    "typeText": "対界宝具",
     "attackAttri": 1,
     "effectFlag": 1
   },
@@ -20129,6 +20358,23 @@
     "typeText": "対軍宝具",
     "attackAttri": 1,
     "effectFlag": 1
+  },
+  {
+    "individuality": [
+      3002,
+      4001,
+      4007
+    ],
+    "script": {},
+    "id": 9943188,
+    "seqId": 9943090,
+    "name": "きみをいだく希望の星",
+    "ruby": "アラウンド・カリバーン",
+    "rank": "A",
+    "maxLv": 5,
+    "typeText": "対軍宝具",
+    "attackAttri": 1,
+    "effectFlag": 0
   },
   {
     "individuality": [
