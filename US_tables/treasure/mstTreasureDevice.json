@@ -8593,6 +8593,22 @@
       4007
     ],
     "script": {},
+    "id": 304001,
+    "seqId": 304000,
+    "name": "Blue Summer Palladion",
+    "ruby": " ",
+    "rank": "B+",
+    "maxLv": 5,
+    "typeText": "Anti-Personnel",
+    "attackAttri": 1
+  },
+  {
+    "individuality": [
+      3002,
+      4001,
+      4007
+    ],
+    "script": {},
     "id": 304099,
     "seqId": 304001,
     "name": "Blue Summer Palladion",
@@ -11454,9 +11470,34 @@
       4003,
       4007
     ],
+    "script": {
+      "randomSeqIds": [
+        604000,
+        604001
+      ],
+      "randomWeights": [
+        80,
+        20
+      ]
+    },
+    "id": 604001,
+    "seqId": 604000,
+    "name": "Jet Sandanzuki",
+    "ruby": " ",
+    "rank": "C",
+    "maxLv": 5,
+    "typeText": "Anti-Personnel",
+    "attackAttri": 1
+  },
+  {
+    "individuality": [
+      3000,
+      4003,
+      4007
+    ],
     "script": {},
     "id": 604099,
-    "seqId": 604001,
+    "seqId": 604000,
     "name": "Jet Sandanzuki",
     "ruby": " ",
     "rank": "C",
@@ -12194,6 +12235,10 @@
         50,
         50
       ],
+      "randomSeqIds_11": [
+        703611,
+        703612
+      ],
       "randomWeights_1": [
         50,
         50
@@ -12213,6 +12258,10 @@
       "randomSeqIds_4": [
         703601,
         703602
+      ],
+      "randomWeights_11": [
+        50,
+        50
       ]
     },
     "id": 703601,
@@ -12489,6 +12538,27 @@
     "rank": "A+",
     "maxLv": 5,
     "typeText": "Anti-Crime",
+    "attackAttri": 1
+  },
+  {
+    "individuality": [
+      3002,
+      4002,
+      4007
+    ],
+    "script": {
+      "limitSeqId_1": 900901,
+      "limitSeqId_3": 900901,
+      "limitSeqId_4": 900901,
+      "limitSeqId_2": 900901
+    },
+    "id": 900901,
+    "seqId": 900900,
+    "name": "Bright Ehangwen",
+    "ruby": " ",
+    "rank": "A+",
+    "maxLv": 5,
+    "typeText": "Anti-Army",
     "attackAttri": 1
   },
   {
@@ -14128,6 +14198,38 @@
     "name": "Ganesh Impact",
     "ruby": " ",
     "rank": "C",
+    "maxLv": 5,
+    "typeText": "Anti-Personnel",
+    "attackAttri": 1
+  },
+  {
+    "individuality": [
+      3000,
+      4001,
+      4007
+    ],
+    "script": {},
+    "id": 9942141,
+    "seqId": 9942140,
+    "name": "Amalavijñāna - Boundary of Emptiness",
+    "ruby": " ",
+    "rank": "EX",
+    "maxLv": 5,
+    "typeText": "Anti-Personnel",
+    "attackAttri": 1
+  },
+  {
+    "individuality": [
+      3000,
+      4001,
+      4007
+    ],
+    "script": {},
+    "id": 9942151,
+    "seqId": 9942150,
+    "name": "Ganryu-jima",
+    "ruby": " ",
+    "rank": "EX",
     "maxLv": 5,
     "typeText": "Anti-Personnel",
     "attackAttri": 1

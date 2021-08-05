@@ -176832,8 +176832,9 @@
       94000091
     ],
     "script": {
-      "fieldMotionId": 6,
-      "battleEffectId": 5
+      "novoice": 1,
+      "battleEffectId": 5,
+      "fieldMotionId": 6
     },
     "questId": 94040105,
     "phase": 2,
@@ -177242,7 +177243,11 @@
     "friendshipExp": 365
   },
   {
-    "classIds": [],
+    "classIds": [
+      3,
+      5,
+      6
+    ],
     "individuality": [
       2392,
       94000091

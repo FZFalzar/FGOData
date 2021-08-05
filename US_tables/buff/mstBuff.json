@@ -25376,6 +25376,47 @@
     "effectId": 0
   },
   {
+    "vals": [],
+    "tvals": [
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      108,
+      110,
+      109,
+      115,
+      117,
+      107
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      108,
+      110,
+      109,
+      115,
+      117,
+      107
+    ],
+    "script": {},
+    "id": 1806,
+    "buffGroup": 0,
+    "type": 42,
+    "name": "Answer With Swords",
+    "detail": "Apply Special Defense against all attacks other than Sabers",
+    "iconId": 301,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
     "vals": [
       3004,
       3006,
@@ -25392,6 +25433,43 @@
     "detail": "Increase Critical Hit damage",
     "iconId": 324,
     "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3024
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1808,
+    "buffGroup": 600,
+    "type": 37,
+    "name": "Standing Firm",
+    "detail": "When HP reaches 0, recover HP and survive",
+    "iconId": 304,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      3052
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      3052
+    ],
+    "script": {},
+    "id": 1809,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "Evil Wind Chaos Drinker",
+    "detail": "Increase damage dealt against [Confused] enemies",
+    "iconId": 302,
+    "maxRate": 10000,
     "effectId": 0
   },
   {
@@ -25524,6 +25602,42 @@
   },
   {
     "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1818,
+    "buffGroup": 0,
+    "type": 64,
+    "name": "HP Recovery Up [Near Water]",
+    "detail": "Increase amount of HP recovered only on fields [Near Water]",
+    "iconId": 328,
+    "maxRate": 50000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006,
+      3027
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1819,
+    "buffGroup": 0,
+    "type": 9,
+    "name": "ATK Up [Sunlight]",
+    "detail": "Increase ATK only on fields with [Sunshine]",
+    "iconId": 300,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
       3004,
       3057,
       2039
@@ -25542,6 +25656,42 @@
     "effectId": 0
   },
   {
+    "vals": [
+      3004,
+      3006,
+      3032
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1821,
+    "buffGroup": 0,
+    "type": 70,
+    "name": "Critical Rate Up [Near Water]",
+    "detail": "Increase Critical Hit rate only on fields [Near Water]",
+    "iconId": 327,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1828,
+    "buffGroup": 0,
+    "type": 85,
+    "name": "Triggers Each Turn (Invincible)",
+    "detail": "Apply Invincible at the end of the turn",
+    "iconId": 343,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
     "vals": [],
     "tvals": [],
     "ckSelfIndv": [],
@@ -25554,6 +25704,49 @@
     "detail": "Increase chance of being targeted by enemies",
     "iconId": 323,
     "maxRate": 50000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006,
+      3028
+    ],
+    "tvals": [
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      108,
+      110,
+      109,
+      115,
+      117
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      108,
+      110,
+      109,
+      115,
+      117
+    ],
+    "script": {},
+    "id": 1830,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "Strength Up",
+    "detail": "Increase damage dealt against classes other than Saber Class",
+    "iconId": 302,
+    "maxRate": 10000,
     "effectId": 0
   },
   {
@@ -25653,6 +25846,23 @@
   },
   {
     "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1835,
+    "buffGroup": 1835,
+    "type": 76,
+    "name": "Royal Bunny Jump",
+    "detail": "Increase your ATK after 1 turn",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
       3005,
       3009
     ],
@@ -25687,6 +25897,23 @@
     "name": "Send Calling Card",
     "detail": "Activate effect \"Decrease your Charge + Increase NP Gauge of all Notified parties\" at the end of the turn",
     "iconId": 525,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2472
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1838,
+    "buffGroup": 0,
+    "type": 85,
+    "name": "Warm Up",
+    "detail": "Increase ATK & DEF at the end of each turn",
+    "iconId": 343,
     "maxRate": 0,
     "effectId": 0
   },
@@ -25782,7 +26009,70 @@
     "type": 78,
     "name": "Activate when Exiting (Chance Time)",
     "detail": "When HP reaches 0, NP Gauge increases for a single enemy",
-    "iconId": 350,
+    "iconId": 543,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1847,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "Activate when Exiting (Chance Time!)",
+    "detail": "When HP reaches 0, NP Gauge increases for a single enemy",
+    "iconId": 543,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1848,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "Activate when Exiting (Chance Time!!!)",
+    "detail": "When HP reaches 0, NP Gauge increases for a single enemy",
+    "iconId": 543,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1849,
+    "buffGroup": 0,
+    "type": 76,
+    "name": "Delayed Effect (Chance Time!!!)",
+    "detail": "Increase your Max HP by 100000 after 3 turns",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3057,
+      2038
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1850,
+    "buffGroup": 220,
+    "type": 133,
+    "name": "Field Set [Sunlight]",
+    "detail": "Turn the field to [Sunlight]",
+    "iconId": 352,
     "maxRate": 0,
     "effectId": 0
   },
@@ -25813,6 +26103,70 @@
     "name": "Death Resist Down",
     "detail": "Decrease Death resistance",
     "iconId": 506,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1853,
+    "buffGroup": 0,
+    "type": 16,
+    "name": "NP Strength Down",
+    "detail": "Decrease NP damage",
+    "iconId": 508,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1854,
+    "buffGroup": 0,
+    "type": 8,
+    "name": "Currently Last Place",
+    "detail": "Lose HP at the end of the turn",
+    "iconId": 521,
+    "maxRate": 0,
+    "effectId": 17123
+  },
+  {
+    "vals": [],
+    "tvals": [
+      3015
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      3015
+    ],
+    "script": {},
+    "id": 1855,
+    "buffGroup": 0,
+    "type": 31,
+    "name": "Burn Immune",
+    "detail": "Immune to Burn",
+    "iconId": 322,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1857,
+    "buffGroup": 0,
+    "type": 103,
+    "name": "Death Chance Down",
+    "detail": "Decrease Death chance rate",
+    "iconId": 532,
     "maxRate": 5000,
     "effectId": 0
   },
@@ -25907,6 +26261,57 @@
     "type": 144,
     "name": "Class Affinity Change",
     "detail": "Receive Class disadvantages against Saber Class attributes",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "relationId": 117
+    },
+    "id": 2587,
+    "buffGroup": 0,
+    "type": 144,
+    "name": "Class Affinity Change",
+    "detail": "Gain Class advantages over Archer Class attributes",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "relationId": 118
+    },
+    "id": 2588,
+    "buffGroup": 0,
+    "type": 144,
+    "name": "Class Affinity Change",
+    "detail": "Receive Class disadvantages against Lancer Class attributes",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "relationId": 119
+    },
+    "id": 2589,
+    "buffGroup": 0,
+    "type": 144,
+    "name": "Class Affinity Change",
+    "detail": "Negate Class disadvantages against Ruler Class attributes",
     "iconId": 520,
     "maxRate": 0,
     "effectId": 0

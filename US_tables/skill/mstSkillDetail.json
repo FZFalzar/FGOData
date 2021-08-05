@@ -4451,13 +4451,13 @@
   },
   {
     "id": 662449,
-    "detail": "",
-    "detailShort": ""
+    "detail": "Increase C. Star Drop Rate & slightly decrease Death Resist [Demerit] for yourself",
+    "detailShort": "Increase C. Star Drop Rate & slightly decrease Death Resist [Demerit] for yourself"
   },
   {
     "id": 663350,
-    "detail": "",
-    "detailShort": ""
+    "detail": "Increase Debuff Resist & slightly decrease Death Resist [Demerit] for yourself",
+    "detailShort": "Increase Debuff Resist & slightly decrease Death Resist [Demerit] for yourself"
   },
   {
     "id": 664450,
@@ -4468,6 +4468,21 @@
     "id": 665650,
     "detail": "Apply Ignore Invincible (3 turns) & increase ATK [{0}] (3 turns) & apply Guts (1 time, 3 turns) & decrease HP by 5000 [Demerit] for yourself + Decrease DEF for all enemies [{0}] (3 turns)",
     "detailShort": "Apply Ignore Invincible (3 turns) & increase ATK [{0}] (3 turns) & apply Guts (1 time, 3 turns) & decrease HP by 5000 [Demerit] for yourself + Decrease DEF for all enemies [{0}] (3 turns)"
+  },
+  {
+    "id": 666550,
+    "detail": "Increase NP Gauge [{0}] & apply Evade (1 turn) & apply \"increase your ATK [{0}] (1 turn) after 1 turn\" (1 time) for yourself",
+    "detailShort": "Increase NP Gauge [{0}] & apply Evade (1 turn) & apply \"increase your ATK [{0}] (1 turn) after 1 turn\" (1 time) for yourself"
+  },
+  {
+    "id": 667351,
+    "detail": "Redistribute Command Cards + Increase Critical Strength [{0}] (3 turns) for all allies",
+    "detailShort": "Redistribute Command Cards + Increase Critical Strength [{0}] (3 turns) for all allies"
+  },
+  {
+    "id": 668450,
+    "detail": "Increase ATK [{0}] (3 turns) & C. Star Gather Rate [{0}] (1 turn) for yourself",
+    "detailShort": "Increase ATK [{0}] (3 turns) & C. Star Gather Rate [{0}] (1 turn) for yourself"
   },
   {
     "id": 669550,
@@ -14556,23 +14571,38 @@
   },
   {
     "id": 991908,
-    "detail": "Increase NP Strength by 30% & Buff Removal Resist by 100% (3 times) for yourself only if [servantName 703600] (Berserker) is equipped with this Craft Essence",
-    "detailShort": "Increase NP Strength by 30% & Buff Removal Resist by 100% (3 times) for yourself only if [servantName 703600] (Berserker) is equipped with this Craft Essence"
+    "detail": "Increase NP Strength by 30% & Buff Removal Resist by 100% (3 times) for yourself only if [servantName 703600] is equipped with this Craft Essence",
+    "detailShort": "Increase NP Strength by 30% & Buff Removal Resist by 100% (3 times) for yourself only if [servantName 703600] is equipped with this Craft Essence"
+  },
+  {
+    "id": 991909,
+    "detail": "Increase all allies' ATK by 10% & Critical Strength by 15% only if [servantName 900900] is equipped with this Craft Essence when she is on the field",
+    "detailShort": "Increase all allies' ATK by 10% & Critical Strength by 15% only if [servantName 900900] is equipped with this Craft Essence when she is on the field"
+  },
+  {
+    "id": 991910,
+    "detail": "Increase Arts Card effectiveness by 20% & Critical Strength by 30% for yourself only if [servantName 304000] (Lancer) is equipped with this Craft Essence + Decrease Critical Strength by 10% for all allies excluding yourself [Demerit] when she is on the field",
+    "detailShort": "Increase Arts Card effectiveness by 20% & Critical Strength by 30% for yourself only if [servantName 304000] (Lancer) is equipped with this Craft Essence + Decrease Critical Strength by 10% for all allies excluding yourself [Demerit] when she is on the field"
   },
   {
     "id": 991911,
-    "detail": "Increase NP Strength by 30% for yourself & very low chance to inflict Skill Seal (1 turn) when attacking only if [servantName 403600] (Rider) is equipped with this Craft Essence",
-    "detailShort": "Increase NP Strength by 30% for yourself & very low chance to inflict Skill Seal (1 turn) when attacking only if [servantName 403600] (Rider) is equipped with this Craft Essence"
+    "detail": "Increase NP Strength by 30% for yourself & very low chance to inflict Skill Seal (1 turn) when attacking only if [servantName 403600] is equipped with this Craft Essence",
+    "detailShort": "Increase NP Strength by 30% for yourself & very low chance to inflict Skill Seal (1 turn) when attacking only if [servantName 403600] is equipped with this Craft Essence"
   },
   {
     "id": 991912,
-    "detail": "Increase all allies' Arts & Buster Card effectiveness by 10% only if [servantName 203600] (Archer) is equipped with this Craft Essence when she is on the field.",
-    "detailShort": "Increase all allies' Arts & Buster Card effectiveness by 10% only if [servantName 203600] (Archer) is equipped with this Craft Essence when she is on the field."
+    "detail": "Increase all allies' Arts & Buster Card effectiveness by 10% only if [servantName 203600] is equipped with this Craft Essence when she is on the field.",
+    "detailShort": "Increase all allies' Arts & Buster Card effectiveness by 10% only if [servantName 203600] is equipped with this Craft Essence when she is on the field."
+  },
+  {
+    "id": 991913,
+    "detail": "Increase all allies' Quick Card effectiveness by 15% & Critical Strength by 15% & decrease DEF by 10% [Demerit] only if [servantName 604000] is equipped with this Craft Essence when she is on the field",
+    "detailShort": "Increase all allies' Quick Card effectiveness by 15% & Critical Strength by 15% & decrease DEF by 10% [Demerit] only if [servantName 604000] is equipped with this Craft Essence when she is on the field"
   },
   {
     "id": 991914,
-    "detail": "Increase your NP Strength by 30% + Increase all allies' NP Strength, excluding yourself, by 15% (3 turns) when you are defeated, only if [servantName 104000] (Saber) is equipped with this Craft Essence",
-    "detailShort": "Increase your NP Strength by 30% + Increase all allies' NP Strength, excluding yourself, by 15% (3 turns) when you are defeated, only if [servantName 104000] (Saber) is equipped with this Craft Essence"
+    "detail": "Increase your NP Strength by 30% + Increase all allies' NP Strength, excluding yourself, by 15% (3 turns) when you are defeated, only if [servantName 104000] is equipped with this Craft Essence",
+    "detailShort": "Increase your NP Strength by 30% + Increase all allies' NP Strength, excluding yourself, by 15% (3 turns) when you are defeated, only if [servantName 104000] is equipped with this Craft Essence"
   },
   {
     "id": 991945,

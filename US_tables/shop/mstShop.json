@@ -15954,6 +15954,39 @@
       10
     ],
     "targetIds": [
+      900900
+    ],
+    "script": {},
+    "id": 4000365,
+    "baseShopId": 4000365,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 884,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Altria Pendragon",
+    "detail": "Exchange for Limited Time ★5 Servant",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1628136000,
+    "closedAt": 1629345599
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
       202000
     ],
     "script": {},
@@ -144027,6 +144060,72 @@
     "bgImageId": 80251,
     "openedAt": 1626062400,
     "closedAt": 1628135999
+  },
+  {
+    "itemIds": [
+      94040103
+    ],
+    "prices": [
+      200
+    ],
+    "targetIds": [
+      10280011
+    ],
+    "script": {},
+    "id": 80254001,
+    "baseShopId": 80254001,
+    "eventId": 80254,
+    "slot": 1,
+    "flag": 0,
+    "priority": 10,
+    "purchaseType": 14,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "\"Decapitating Bunny (First Ascension)\" Wardrobe Key",
+    "detail": "Acquire the Wardrobe Key for Ryougi Shiki (Saber)'s Simple Spiritron Dress \"Decapitating Bunny (First Ascension)\"",
+    "infoMessage": "Can acquire the Wardrobe Key for Simple Spiritron Dress \"Decapitating Bunny (First Ascension)\"",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80254,
+    "openedAt": 1628568000,
+    "closedAt": 1629950399
+  },
+  {
+    "itemIds": [
+      94040103
+    ],
+    "prices": [
+      200
+    ],
+    "targetIds": [
+      10280012
+    ],
+    "script": {},
+    "id": 80254002,
+    "baseShopId": 80254002,
+    "eventId": 80254,
+    "slot": 1,
+    "flag": 0,
+    "priority": 20,
+    "purchaseType": 14,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "\"Decapitating Bunny (Second Ascension)\" Wardrobe Key",
+    "detail": "Acquire the Wardrobe Key for Ryougi Shiki (Saber)'s Simple Spiritron Dress \"Decapitating Bunny (Second Ascension)\"",
+    "infoMessage": "Can acquire the Wardrobe Key for Simple Spiritron Dress \"Decapitating Bunny (Second Ascension)\"",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80254,
+    "openedAt": 1628568000,
+    "closedAt": 1629950399
   },
   {
     "itemIds": [
