@@ -52241,6 +52241,139 @@
   },
   {
     "targetIds": [
+      2001506,
+      2001507,
+      2001508,
+      2001509,
+      2001510,
+      2001511
+    ],
+    "missionId": 2001505,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001210,
+    "missionTargetId": 100218,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 6,
+    "conditionMessage": "Complete all of this week's Master Missions",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001207
+    ],
+    "missionId": 2001506,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001211,
+    "missionTargetId": 100218,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "Defeat 15  \"Undead\" enemies",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001208
+    ],
+    "missionId": 2001507,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001212,
+    "missionTargetId": 100218,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "Defeat 15 \"Humanoid\" enemies",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001209
+    ],
+    "missionId": 2001508,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001213,
+    "missionTargetId": 100218,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 3,
+    "conditionMessage": "Defeat 3 \"Balanced\" Servants",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001210
+    ],
+    "missionId": 2001509,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001214,
+    "missionTargetId": 100218,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 3,
+    "conditionMessage": "Defeat 3 \"Chaotic\" Servants",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001211
+    ],
+    "missionId": 2001510,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001215,
+    "missionTargetId": 100218,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 5,
+    "conditionMessage": "Complete Quests 5 times",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001510
+    ],
+    "missionId": 2001511,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 2001216,
+    "missionTargetId": 100218,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 1,
+    "conditionMessage": "Complete Quests 10 times",
+    "closedMessage": "",
+    "flag": 8
+  },
+  {
+    "targetIds": [
+      2001211
+    ],
+    "missionId": 2001511,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001217,
+    "missionTargetId": 100218,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 10,
+    "conditionMessage": "Complete Quests 10 times",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
       94011901
     ],
     "missionId": 80054001,
