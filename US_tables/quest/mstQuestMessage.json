@@ -7876,6 +7876,17 @@
     "displayType": 1
   },
   {
+    "questId": 94040201,
+    "phase": 1,
+    "idx": 0,
+    "message": "In this quest, you will form your party immediately before the battle begins.\n\nWould you like to start the quest?",
+    "condType": 0,
+    "targetId": 0,
+    "targetNum": 0,
+    "frequencyType": 3,
+    "displayType": 1
+  },
+  {
     "questId": 94040202,
     "phase": 1,
     "idx": 0,
@@ -7916,6 +7927,83 @@
     "condType": 0,
     "targetId": 0,
     "targetNum": 0,
+    "frequencyType": 3,
+    "displayType": 1
+  },
+  {
+    "questId": 94040205,
+    "phase": 1,
+    "idx": 0,
+    "message": "In this quest, you will form your party immediately before the battle begins.\n\nWould you like to start the quest?",
+    "condType": 0,
+    "targetId": 0,
+    "targetNum": 0,
+    "frequencyType": 3,
+    "displayType": 1
+  },
+  {
+    "questId": 94040207,
+    "phase": 1,
+    "idx": 0,
+    "message": "In this quest, you will form your party immediately before the battle begins.\n\nWould you like to start the quest?",
+    "condType": 0,
+    "targetId": 0,
+    "targetNum": 0,
+    "frequencyType": 3,
+    "displayType": 1
+  },
+  {
+    "questId": 94040209,
+    "phase": 1,
+    "idx": 0,
+    "message": "Glasses No.1 -1-\n\nOnly the selected Support Servant can participate in this battle.\n\nEXP, battle drops, and Friend Points can be claimed, but Bond Points will not be awarded.",
+    "condType": 0,
+    "targetId": 0,
+    "targetNum": 0,
+    "frequencyType": 3,
+    "displayType": 1
+  },
+  {
+    "questId": 94040209,
+    "phase": 2,
+    "idx": 0,
+    "message": "Glasses No.1 -2-\n\nOnly the selected Support Servant can participate in this battle.\n\nEXP, battle drops, and Friend Points can be claimed, but Bond Points will not be awarded.",
+    "condType": 0,
+    "targetId": 0,
+    "targetNum": 0,
+    "frequencyType": 3,
+    "displayType": 1
+  },
+  {
+    "questId": 94040210,
+    "phase": 1,
+    "idx": 0,
+    "message": "In this quest, you will form your party immediately before the battle begins.\n\nWould you like to start the quest?",
+    "condType": 0,
+    "targetId": 0,
+    "targetNum": 0,
+    "frequencyType": 3,
+    "displayType": 1
+  },
+  {
+    "questId": 94040304,
+    "phase": 1,
+    "idx": 0,
+    "message": "-Warning-\n\nA large amount of QP (50,000,000 QP) will be used as payment to begin the quest \"Big Chance Quest - All In.\"\nQP will not return if you are defeated or withdraw from battle.\n\nDo you still wish to proceed?",
+    "condType": 0,
+    "targetId": 0,
+    "targetNum": 0,
+    "frequencyType": 3,
+    "displayType": 1
+  },
+  {
+    "questId": 94040390,
+    "phase": 1,
+    "idx": 0,
+    "message": "-Warning-\n\n\"[High Difficulty] Ninja Arts Book\" is a repeatable quest. However, Bond Points, EXP, battle drops, and clear rewards can only be claimed the first time it is cleared.\n\nDo you still wish to proceed?",
+    "condType": 25,
+    "targetId": 94040390,
+    "targetNum": 1,
     "frequencyType": 3,
     "displayType": 1
   },
