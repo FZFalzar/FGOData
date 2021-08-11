@@ -24514,7 +24514,10 @@
       3068
     ],
     "ckOpIndv": [],
-    "script": {},
+    "script": {
+      "IncludeIgnoreIndividuality": 1,
+      "TargetIndiv": -3072
+    },
     "id": 1731,
     "buffGroup": 0,
     "type": 139,
@@ -50162,6 +50165,23 @@
     "effectId": 0
   },
   {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3712,
+    "buffGroup": 0,
+    "type": 85,
+    "name": "夢のおわり",
+    "detail": "ターン終了時に自身の強化状態を解除＆〔永久睡眠〕状態<耐性無効・解除不能・生贄選択不能・オーダーチェンジ不能>を付与＆ターゲット集中状態を付与する(耐性無効・解除不能)",
+    "iconId": 525,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
     "vals": [],
     "tvals": [],
     "ckSelfIndv": [],
@@ -50926,6 +50946,52 @@
   },
   {
     "vals": [
+      3005,
+      3045,
+      3010,
+      3066,
+      3072
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "DamageRelease": -1
+    },
+    "id": 3757,
+    "buffGroup": 505,
+    "type": 32,
+    "name": "永久睡眠",
+    "detail": "行動不能になる(耐性無効・解除不能・生贄選択不能・オーダーチェンジ不能)",
+    "iconId": 558,
+    "maxRate": 0,
+    "effectId": 2001001
+  },
+  {
+    "vals": [
+      3005,
+      3045,
+      3010,
+      3066,
+      3072
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "DamageRelease": -1
+    },
+    "id": 3758,
+    "buffGroup": 505,
+    "type": 32,
+    "name": "永久睡眠",
+    "detail": "行動不能になる(耐性無効・解除不能・生贄選択不能・オーダーチェンジ不能)",
+    "iconId": 558,
+    "maxRate": 0,
+    "effectId": 2001002
+  },
+  {
+    "vals": [
       3025
     ],
     "tvals": [],
@@ -50938,6 +51004,21 @@
     "name": "スキル封印",
     "detail": "スキルを使用できなくなる",
     "iconId": 511,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3760,
+    "buffGroup": 0,
+    "type": 141,
+    "name": "",
+    "detail": "",
+    "iconId": 554,
     "maxRate": 0,
     "effectId": 0
   },
@@ -51044,6 +51125,302 @@
     "detail": "宝具を使用できなくなる",
     "iconId": 512,
     "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3768,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "大嘘つきのオベロン",
+    "detail": "自身の付与する状態効果を一部偽装する＆自身のスキルによるデメリット効果を無効にする",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3769,
+    "buffGroup": 0,
+    "type": 85,
+    "name": "妖精王の甘言",
+    "detail": "毎ターン終了時、自身に「■■■■アップ状態を付与＆スター発生率を■■■」又は「攻撃力を■■■＆防御力を■■■」又は「NP獲得量を■■■＆Artsカード性能を■■■」",
+    "iconId": 537,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3770,
+    "buffGroup": 0,
+    "type": 85,
+    "name": "惑わす羽音",
+    "detail": "毎ターン終了時、自身にランダムでカード耐性を付与する",
+    "iconId": 343,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006
+    ],
+    "tvals": [],
+    "ckSelfIndv": [
+      4008
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3771,
+    "buffGroup": 0,
+    "type": 116,
+    "name": "■■■■アップ",
+    "detail": "■■■■の■■■■が■■になる",
+    "iconId": 520,
+    "maxRate": 10,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3772,
+    "buffGroup": 0,
+    "type": 3,
+    "name": "スター発生■■■",
+    "detail": "スター発生率を■■■",
+    "iconId": 510,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005,
+      3008,
+      3033
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3773,
+    "buffGroup": 0,
+    "type": 10,
+    "name": "攻撃力■■■",
+    "detail": "攻撃力を■■■",
+    "iconId": 300,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3007,
+      3040,
+      3058
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3774,
+    "buffGroup": 0,
+    "type": 42,
+    "name": "防御力■■■",
+    "detail": "防御力を■■■",
+    "iconId": 504,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3775,
+    "buffGroup": 0,
+    "type": 63,
+    "name": "NP獲得■■■",
+    "detail": "NP獲得量を■■■",
+    "iconId": 303,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006
+    ],
+    "tvals": [
+      5000,
+      4001
+    ],
+    "ckSelfIndv": [
+      4001
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3776,
+    "buffGroup": 0,
+    "type": 52,
+    "name": "Arts■■■",
+    "detail": "Artsカードの性能を■■■",
+    "iconId": 516,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3777,
+    "buffGroup": 200,
+    "type": 24,
+    "name": "■■",
+    "detail": "■■による■■■■を■にする",
+    "iconId": 309,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4003
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4003
+    ],
+    "script": {},
+    "id": 3778,
+    "buffGroup": 0,
+    "type": 105,
+    "name": "Quickカード耐性",
+    "detail": "Quickカードの攻撃による被ダメージ、被NP発生量、被スター発生率が■■する",
+    "iconId": 345,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4001
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4001
+    ],
+    "script": {},
+    "id": 3779,
+    "buffGroup": 0,
+    "type": 105,
+    "name": "Artsカード耐性",
+    "detail": "Artsカードの攻撃による被ダメージ、被NP発生量、被スター発生率が■■する",
+    "iconId": 346,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4002
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4002
+    ],
+    "script": {},
+    "id": 3780,
+    "buffGroup": 0,
+    "type": 105,
+    "name": "Busterカード耐性",
+    "detail": "Busterカードの攻撃による被ダメージ、被NP発生量、被スター発生率が■■する",
+    "iconId": 347,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4003
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4003
+    ],
+    "script": {},
+    "id": 3781,
+    "buffGroup": 0,
+    "type": 106,
+    "name": "Quickカード耐性",
+    "detail": "Quickカードの攻撃による被ダメージ、被NP発生量、被スター発生率が■■する",
+    "iconId": 345,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4001
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4001
+    ],
+    "script": {},
+    "id": 3782,
+    "buffGroup": 0,
+    "type": 106,
+    "name": "Artsカード耐性",
+    "detail": "Artsカードの攻撃による被ダメージ、被NP発生量、被スター発生率が■■する",
+    "iconId": 346,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4002
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4002
+    ],
+    "script": {},
+    "id": 3783,
+    "buffGroup": 0,
+    "type": 106,
+    "name": "Busterカード耐性",
+    "detail": "Busterカードの攻撃による被ダメージ、被NP発生量、被スター発生率が■■する",
+    "iconId": 347,
+    "maxRate": 5000,
     "effectId": 0
   },
   {

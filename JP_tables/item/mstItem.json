@@ -8555,7 +8555,9 @@
   },
   {
     "individuality": [],
-    "script": {},
+    "script": {
+      "overwriteImageIdInfo": "40061901/800101"
+    },
     "eventId": 0,
     "eventGroupId": 0,
     "id": 80010001,
@@ -24630,7 +24632,7 @@
     "eventGroupId": 0,
     "id": 94060301,
     "name": "霊脈石",
-    "detail": "【第2部 第6章開幕記念限定\nコンティニューアイテム】\nメインストーリーのバトルにおいて\nパーティ全滅時に使用することで、\nパーティを全員復活させることができる。\n\n※使用期限 2021/8/22(日) 12:59",
+    "detail": "【第2部 第6章開幕記念限定\nコンティニューアイテム】\nメインストーリーのバトルにおいて\nパーティ全滅時に使用することで、\nパーティを全員復活させることができる。\n\n※使用期限 2021/8/31(火) 23:59",
     "imageId": 94054401,
     "bgImageId": 3,
     "type": 27,
@@ -24641,7 +24643,7 @@
     "priority": 94060301,
     "dropPriority": 9001,
     "startedAt": 1623411000,
-    "endedAt": 1629604799
+    "endedAt": 1630421999
   },
   {
     "individuality": [],
@@ -25256,6 +25258,26 @@
     "type": 29,
     "unit": "",
     "value": 2500800,
+    "sellQp": -1,
+    "isSell": false,
+    "priority": 57,
+    "dropPriority": 1003,
+    "startedAt": 946652400,
+    "endedAt": 1910876400
+  },
+  {
+    "individuality": [],
+    "script": {},
+    "eventId": 0,
+    "eventGroupId": 0,
+    "id": 280010001,
+    "name": "サーヴァントコイン",
+    "detail": "【サーヴァント強化素材】\nサーヴァントの霊基のカケラ。",
+    "imageId": 2800100,
+    "bgImageId": 2,
+    "type": 29,
+    "unit": "",
+    "value": 2800100,
     "sellQp": -1,
     "isSell": false,
     "priority": 57,
