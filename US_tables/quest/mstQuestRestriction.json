@@ -232,6 +232,94 @@
     "noticeMessage": "Please set Yagyu Tajima-no-kami Munenori as a Starting Member"
   },
   {
+    "questId": 91201102,
+    "phase": 1,
+    "restrictionId": 91000012,
+    "frequencyType": 3,
+    "dialogMessage": "Certain Servants cannot be selected as Sub Members",
+    "noticeMessage": "Please set Nikola Tesla as a Starting Member"
+  },
+  {
+    "questId": 91202002,
+    "phase": 1,
+    "restrictionId": 91000015,
+    "frequencyType": 0,
+    "dialogMessage": "0",
+    "noticeMessage": "Cannot use Ishtar"
+  },
+  {
+    "questId": 91202002,
+    "phase": 2,
+    "restrictionId": 91000015,
+    "frequencyType": 0,
+    "dialogMessage": "0",
+    "noticeMessage": "Cannot use Ishtar"
+  },
+  {
+    "questId": 91202002,
+    "phase": 3,
+    "restrictionId": 91000009,
+    "frequencyType": 3,
+    "dialogMessage": "Certain Servants cannot be selected as Sub Members",
+    "noticeMessage": "Please set Ishtar (Archer) as a Starting Member"
+  },
+  {
+    "questId": 91202002,
+    "phase": 3,
+    "restrictionId": 91000011,
+    "frequencyType": 0,
+    "dialogMessage": "To begin this quest, please select one Servant from your party",
+    "noticeMessage": "NPC Set"
+  },
+  {
+    "questId": 91202002,
+    "phase": 3,
+    "restrictionId": 94032204,
+    "frequencyType": 1,
+    "dialogMessage": "To begin this quest, please select one Servant from your party",
+    "noticeMessage": "Only Ishtar (Archer) can be selected"
+  },
+  {
+    "questId": 91303001,
+    "phase": 3,
+    "restrictionId": 91000013,
+    "frequencyType": 3,
+    "dialogMessage": "Certain Servants cannot be selected as Sub Members",
+    "noticeMessage": "Please set Pārvatī as a Starting Member"
+  },
+  {
+    "questId": 91303001,
+    "phase": 3,
+    "restrictionId": 91000014,
+    "frequencyType": 0,
+    "dialogMessage": "To begin this quest, please select one Servant from your party",
+    "noticeMessage": "NPC Set"
+  },
+  {
+    "questId": 91303001,
+    "phase": 3,
+    "restrictionId": 94032204,
+    "frequencyType": 1,
+    "dialogMessage": "To begin this quest, please select one Servant from your party",
+    "noticeMessage": "Only Pārvatī can be selected"
+  },
+  {
+    "questId": 91600502,
+    "phase": 1,
+    "restrictionId": 91000016,
+    "frequencyType": 0,
+    "dialogMessage": "0",
+    "noticeMessage": "Cannot use Jack the Ripper"
+  },
+  {
+    "questId": 91600502,
+    "phase": 2,
+    "restrictionId": 91000016,
+    "frequencyType": 0,
+    "dialogMessage": "0",
+    "noticeMessage": "Cannot use Jack the Ripper"
+  },
+  {
     "questId": 91603101,
     "phase": 1,
     "restrictionId": 91000008,

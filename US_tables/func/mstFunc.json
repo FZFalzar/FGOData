@@ -69717,6 +69717,232 @@
     "categoryId": 0
   },
   {
+    "vals": [
+      1865
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 3,
+    "id": 4027,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 8,
+    "applyTarget": 3,
+    "popupIconId": 525,
+    "popupText": "Confusion",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1858
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 4028,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 302,
+    "popupText": "STR Up\nvs. Divine",
+    "categoryId": 10205
+  },
+  {
+    "vals": [
+      1424
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 4029,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 7,
+    "applyTarget": 3,
+    "popupIconId": 300,
+    "popupText": "ATK Up",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1424
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 4030,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 1,
+    "applyTarget": 3,
+    "popupIconId": 300,
+    "popupText": "ATK Up",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1424
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 4031,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 300,
+    "popupText": "ATK Up",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1404
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 4032,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 7,
+    "applyTarget": 3,
+    "popupIconId": 301,
+    "popupText": "DEF Up",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      910
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      341
+    ],
+    "popupTextColor": 3,
+    "id": 4033,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 1,
+    "applyTarget": 3,
+    "popupIconId": 504,
+    "popupText": "DEF Down",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1859
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 4034,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 343,
+    "popupText": "Triggers Each Turn (ATK Up)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1860
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 1,
+    "id": 4035,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 319,
+    "popupText": "Charge Plus\nEach Turn",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      140
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      327
+    ],
+    "popupTextColor": 2,
+    "id": 4036,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 9,
+    "applyTarget": 1,
+    "popupIconId": 303,
+    "popupText": "NP Gain Up",
+    "categoryId": 10604
+  },
+  {
+    "vals": [
+      1861
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 4037,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      487
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 1,
+    "id": 4038,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 19,
+    "applyTarget": 2,
+    "popupIconId": 323,
+    "popupText": "Target Focus\nUp",
+    "categoryId": 0
+  },
+  {
     "vals": [],
     "tvals": [],
     "questTvals": [],
@@ -69774,6 +70000,40 @@
     "applyTarget": 3,
     "popupIconId": 0,
     "popupText": "None",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1863
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 4044,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1864
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 4045,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 0,
+    "popupText": "",
     "categoryId": 0
   },
   {

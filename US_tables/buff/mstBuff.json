@@ -26190,6 +26190,125 @@
     "effectId": 0
   },
   {
+    "vals": [],
+    "tvals": [
+      2000
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      2000
+    ],
+    "script": {},
+    "id": 1858,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "STR Up vs. Divine",
+    "detail": "Increase damage dealt against [Divine]",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1859,
+    "buffGroup": 0,
+    "type": 85,
+    "name": "Triggers Each Turn (ATK Up)",
+    "detail": "Increase your ATK at the end of each turn",
+    "iconId": 343,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1860,
+    "buffGroup": 0,
+    "type": 114,
+    "name": "Charge Plus Each Turn",
+    "detail": "Increase Charge by 3 each turn",
+    "iconId": 319,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2491
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1861,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "",
+    "detail": "",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2499
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1863,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "",
+    "detail": "",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2500
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1864,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "",
+    "detail": "",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1865,
+    "buffGroup": 0,
+    "type": 85,
+    "name": "Confusion",
+    "detail": "Apply Skill Seal each turn",
+    "iconId": 525,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
     "vals": [
       3004
     ],

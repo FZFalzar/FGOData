@@ -8090,6 +8090,406 @@
     "infoText": ""
   },
   {
+    "vals": [
+      3
+    ],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 802340,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 100,
+    "probability": 100,
+    "cond": 31,
+    "aiActId": 800072,
+    "infoText": "Blessing of Mesopotamia"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 802340,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      502500
+    ],
+    "avals": [
+      802351,
+      0
+    ],
+    "script": {},
+    "id": 802350,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      502500
+    ],
+    "avals": [
+      802352,
+      0
+    ],
+    "script": {},
+    "id": 802350,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 802350,
+    "idx": 3,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 802350,
+    "idx": 4,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      201100
+    ],
+    "avals": [
+      802353,
+      0
+    ],
+    "script": {
+      "forcedSkillSpeed": 1
+    },
+    "id": 802351,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 100,
+    "probability": 100,
+    "cond": 56,
+    "aiActId": 800073,
+    "infoText": "\"True World System, Third Operational Experiment\""
+  },
+  {
+    "vals": [],
+    "avals": [
+      802350,
+      0
+    ],
+    "script": {},
+    "id": 802351,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      201100
+    ],
+    "avals": [
+      802353,
+      0
+    ],
+    "script": {
+      "forcedSkillSpeed": 1
+    },
+    "id": 802352,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 100,
+    "probability": 100,
+    "cond": 56,
+    "aiActId": 800073,
+    "infoText": "\"True World System, Third Operational Experiment\""
+  },
+  {
+    "vals": [],
+    "avals": [
+      802350,
+      0
+    ],
+    "script": {},
+    "id": 802352,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 802353,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      100900
+    ],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 802360,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 100,
+    "probability": 100,
+    "cond": 97,
+    "aiActId": 800075,
+    "infoText": "Silent Anger"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 802360,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      900200
+    ],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 802400,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 100,
+    "probability": 100,
+    "cond": 97,
+    "aiActId": 800076,
+    "infoText": "All the World's Good"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 802400,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2491
+    ],
+    "avals": [
+      802461,
+      0
+    ],
+    "script": {},
+    "id": 802460,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 100,
+    "probability": 100,
+    "cond": 59,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2491
+    ],
+    "avals": [
+      802462,
+      0
+    ],
+    "script": {},
+    "id": 802460,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 100,
+    "probability": 100,
+    "cond": 59,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 802460,
+    "idx": 3,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 802460,
+    "idx": 4,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      802463,
+      0
+    ],
+    "script": {
+      "forcedSkillSpeed": 1
+    },
+    "id": 802461,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 100,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 800074,
+    "infoText": "\"True...Huh? What's that?\""
+  },
+  {
+    "vals": [],
+    "avals": [
+      802463,
+      0
+    ],
+    "script": {
+      "forcedSkillSpeed": 1
+    },
+    "id": 802462,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 100,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 800074,
+    "infoText": "\"True...Huh? What's that?\""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 802463,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
     "vals": [],
     "avals": [
       0,
