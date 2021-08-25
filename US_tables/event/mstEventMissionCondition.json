@@ -20278,7 +20278,7 @@
     "targetNum": 1,
     "conditionMessage": "???",
     "closedMessage": "Unlock condition: ???",
-    "flag": 0
+    "flag": 32
   },
   {
     "targetIds": [
@@ -20326,7 +20326,7 @@
     "targetNum": 1,
     "conditionMessage": "???",
     "closedMessage": "Unlock condition: ???",
-    "flag": 0
+    "flag": 32
   },
   {
     "targetIds": [
@@ -20374,7 +20374,7 @@
     "targetNum": 1,
     "conditionMessage": "???",
     "closedMessage": "Unlock condition: ???",
-    "flag": 0
+    "flag": 32
   },
   {
     "targetIds": [
@@ -25668,6 +25668,214 @@
     "condType": 23,
     "targetNum": 7,
     "conditionMessage": "[14 Million DL] Complete all the Missions",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      10090
+    ],
+    "missionId": 1009001,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001240,
+    "missionTargetId": 200073,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 1,
+    "conditionMessage": "[Daily] Complete Wednesday's Daily Quest 1 time\n[Until 16:59 on 8/25]",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 1009002,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 2001241,
+    "missionTargetId": 200073,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1568041200,
+    "conditionMessage": "Unlocked on 8/25 (Wed) at 17:00\n[Daily] Complete Thursday's Daily Quest 1 time\n[Until 16:59 on 8/26]",
+    "closedMessage": "",
+    "flag": 64
+  },
+  {
+    "targetIds": [
+      10091
+    ],
+    "missionId": 1009002,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001242,
+    "missionTargetId": 200073,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 1,
+    "conditionMessage": "[Daily] Complete Thursday's Daily Quest 1 time\n[Until 16:59 on 8/26]",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 1009003,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 2001243,
+    "missionTargetId": 200073,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1568127600,
+    "conditionMessage": "Unlocked on 8/26 (Thu) at 17:00\n[Daily] Complete Friday's Daily Quest 1 time\n[Until 16:59 on 8/27]",
+    "closedMessage": "",
+    "flag": 64
+  },
+  {
+    "targetIds": [
+      10092
+    ],
+    "missionId": 1009003,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001244,
+    "missionTargetId": 200073,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 1,
+    "conditionMessage": "[Daily] Complete Friday's Daily Quest 1 time\n[Until 16:59 on 8/27]",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 1009004,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 2001245,
+    "missionTargetId": 200073,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1568214000,
+    "conditionMessage": "Unlocked on 8/27 (Fri) at 17:00\n[Daily] Complete Saturday's Daily Quest 1 time\n[Until 16:59 on 8/28]",
+    "closedMessage": "",
+    "flag": 64
+  },
+  {
+    "targetIds": [
+      10093
+    ],
+    "missionId": 1009004,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001246,
+    "missionTargetId": 200073,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 1,
+    "conditionMessage": "[Daily] Complete Saturday's Daily Quest 1 time\n[Until 16:59 on 8/28]",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 1009005,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 2001247,
+    "missionTargetId": 200073,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1568300400,
+    "conditionMessage": "Unlocked on 8/28 (Sat) at 17:00\n[Daily] Complete Sunday's Daily Quest 1 time\n[Until 16:59 on 8/29]",
+    "closedMessage": "",
+    "flag": 64
+  },
+  {
+    "targetIds": [
+      10094
+    ],
+    "missionId": 1009005,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001248,
+    "missionTargetId": 200073,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 1,
+    "conditionMessage": "[Daily] Complete Sunday's Daily Quest 1 time\n[Until 16:59 on 8/29]",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 1009006,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 2001249,
+    "missionTargetId": 200073,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1568386800,
+    "conditionMessage": "Unlocked on 8/29 (Sun) at 17:00\n[Daily] Complete Monday's Daily Quest 1 time\n[Until 16:59 on 8/31]",
+    "closedMessage": "",
+    "flag": 64
+  },
+  {
+    "targetIds": [
+      10095
+    ],
+    "missionId": 1009006,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001250,
+    "missionTargetId": 200073,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 1,
+    "conditionMessage": "[Daily] Complete Monday's Daily Quest 1 time\n[Until 16:59 on 8/30]",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 1009007,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 2001251,
+    "missionTargetId": 200073,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1568473200,
+    "conditionMessage": "Unlocked on 8/30 (Mon) at 17:00 \n[Daily] Complete Tuesday's Daily Quest 1 time\n[Until 16:59 on 8/31]",
+    "closedMessage": "",
+    "flag": 64
+  },
+  {
+    "targetIds": [
+      10096
+    ],
+    "missionId": 1009007,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001252,
+    "missionTargetId": 200073,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 1,
+    "conditionMessage": "[Daily] Complete Tuesday's Daily Quest 1 time\n[Until 16:59 on 8/31]",
     "closedMessage": "",
     "flag": 0
   },
@@ -48241,7 +48449,7 @@
     "targetNum": 1,
     "conditionMessage": "Defeat 10 Servants",
     "closedMessage": "",
-    "flag": 0
+    "flag": 64
   },
   {
     "targetIds": [
@@ -48390,7 +48598,7 @@
     "targetNum": 1,
     "conditionMessage": "Defeat 40 enemies (excluding Servants and certain bosses)",
     "closedMessage": "",
-    "flag": 0
+    "flag": 64
   },
   {
     "targetIds": [
@@ -48438,7 +48646,7 @@
     "targetNum": 1,
     "conditionMessage": "Acquire 4 Gems, Magic Gems, Secret Gems, Pieces or Monuments through battles",
     "closedMessage": "",
-    "flag": 0
+    "flag": 64
   },
   {
     "targetIds": [
@@ -48523,7 +48731,7 @@
     "targetNum": 1,
     "conditionMessage": "Defeat 10 Servants",
     "closedMessage": "",
-    "flag": 0
+    "flag": 64
   },
   {
     "targetIds": [
@@ -48720,7 +48928,7 @@
     "targetNum": 1,
     "conditionMessage": "Complete Quests 10 times",
     "closedMessage": "",
-    "flag": 0
+    "flag": 64
   },
   {
     "targetIds": [
@@ -48789,7 +48997,7 @@
     "targetNum": 1,
     "conditionMessage": "Defeat 10 Servants",
     "closedMessage": "",
-    "flag": 0
+    "flag": 64
   },
   {
     "targetIds": [
@@ -48837,7 +49045,7 @@
     "targetNum": 1,
     "conditionMessage": "Defeat 40 enemies (excluding Servants and certain bosses)",
     "closedMessage": "",
-    "flag": 0
+    "flag": 64
   },
   {
     "targetIds": [
@@ -49002,7 +49210,7 @@
     "targetNum": 1,
     "conditionMessage": "Complete 10 \"Valentine's 2021: Voices and Letters!\" quests",
     "closedMessage": "",
-    "flag": 0
+    "flag": 64
   },
   {
     "targetIds": [
@@ -49135,7 +49343,7 @@
     "targetNum": 1,
     "conditionMessage": "Defeat 40 enemies (excluding Servants and certain bosses)",
     "closedMessage": "",
-    "flag": 0
+    "flag": 64
   },
   {
     "targetIds": [
@@ -49236,7 +49444,7 @@
     "targetNum": 1,
     "conditionMessage": "Acquire 4 Gems, Magic Gems, Secret Gems, Pieces or Monuments through battles",
     "closedMessage": "",
-    "flag": 0
+    "flag": 64
   },
   {
     "targetIds": [
@@ -49284,7 +49492,7 @@
     "targetNum": 1,
     "conditionMessage": "Complete Quests 10 times",
     "closedMessage": "",
-    "flag": 0
+    "flag": 64
   },
   {
     "targetIds": [
@@ -49385,7 +49593,7 @@
     "targetNum": 1,
     "conditionMessage": "Defeat 30 Saber, Archer, or Lancer-class enemies (excluding Servants and certain bosses)",
     "closedMessage": "",
-    "flag": 0
+    "flag": 64
   },
   {
     "targetIds": [
@@ -49433,7 +49641,7 @@
     "targetNum": 1,
     "conditionMessage": "Defeat 30 Rider, Caster, Assassin, or Berserker-class enemies (excluding Servants and certain bosses)",
     "closedMessage": "",
-    "flag": 0
+    "flag": 64
   },
   {
     "targetIds": [
@@ -49534,7 +49742,7 @@
     "targetNum": 1,
     "conditionMessage": "Defeat 40 enemies (excluding Servants and certain bosses)",
     "closedMessage": "",
-    "flag": 0
+    "flag": 64
   },
   {
     "targetIds": [
@@ -51412,7 +51620,7 @@
     "targetNum": 1,
     "conditionMessage": "Defeat 40 enemies (excluding Servants and certain bosses)",
     "closedMessage": "",
-    "flag": 0
+    "flag": 64
   },
   {
     "targetIds": [
@@ -51513,7 +51721,7 @@
     "targetNum": 1,
     "conditionMessage": "Defeat 30 Mini Nobu-type enemies during \"All-Out Nobunaga Assault - GUDAGUDA Final Honnoji 2021\"",
     "closedMessage": "",
-    "flag": 0
+    "flag": 64
   },
   {
     "targetIds": [
@@ -51710,7 +51918,7 @@
     "targetNum": 1,
     "conditionMessage": "Acquire 4 Gems, Magic Gems, Secret Gems, Pieces or Monuments through battles",
     "closedMessage": "",
-    "flag": 0
+    "flag": 64
   },
   {
     "targetIds": [
@@ -51795,7 +52003,7 @@
     "targetNum": 1,
     "conditionMessage": "Defeat 30 Saber, Archer, or Lancer-class enemies (excluding Servants and certain bosses)",
     "closedMessage": "",
-    "flag": 0
+    "flag": 64
   },
   {
     "targetIds": [
@@ -51843,7 +52051,7 @@
     "targetNum": 1,
     "conditionMessage": "Defeat 30 Rider, Caster, Assassin, or Berserker-class enemies (excluding Servants and certain bosses)",
     "closedMessage": "",
-    "flag": 0
+    "flag": 64
   },
   {
     "targetIds": [
@@ -52279,7 +52487,7 @@
     "targetNum": 1,
     "conditionMessage": "Put one or more Swimsuit Servants (excluding Spiritron Dresses) in your Party and complete any quest(s) 10 times",
     "closedMessage": "",
-    "flag": 8
+    "flag": 64
   },
   {
     "targetIds": [
@@ -52476,7 +52684,7 @@
     "targetNum": 1,
     "conditionMessage": "Complete Quests 10 times",
     "closedMessage": "",
-    "flag": 8
+    "flag": 64
   },
   {
     "targetIds": [
@@ -52609,7 +52817,7 @@
     "targetNum": 1,
     "conditionMessage": "Acquire 30 Blaze of Wisdom, Fire of Wisdom, Light of Wisdom, or Ember of Wisdom through battles",
     "closedMessage": "",
-    "flag": 8
+    "flag": 64
   },
   {
     "targetIds": [

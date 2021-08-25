@@ -2,11 +2,19 @@
   {
     "eventId": 80088,
     "towerId": 1,
-    "name": "Oni Pagoda"
+    "name": "Oni Pagoda",
+    "topFloor": 100,
+    "floorLabel": "{0} floor",
+    "openEffectId": 0,
+    "flag": 0
   },
   {
     "eventId": 80088,
     "towerId": 2,
-    "name": "Oni Pagoda (Mirage)"
+    "name": "Oni Pagoda (Mirage)",
+    "topFloor": 100,
+    "floorLabel": "{0} floor",
+    "openEffectId": 1,
+    "flag": 0
   }
 ]
