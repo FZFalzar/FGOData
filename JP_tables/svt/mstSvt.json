@@ -12147,7 +12147,8 @@
   },
   {
     "relateQuestIds": [
-      91502801
+      91502801,
+      94062081
     ],
     "individuality": [
       5000,
@@ -12858,7 +12859,9 @@
     "flag": 8
   },
   {
-    "relateQuestIds": [],
+    "relateQuestIds": [
+      94062082
+    ],
     "individuality": [
       5000,
       504100,
@@ -53942,6 +53945,50 @@
     "illustratorId": 34,
     "cvId": 0,
     "collectionNo": 1454,
+    "materialStoryPriority": 1000,
+    "flag": 0
+  },
+  {
+    "relateQuestIds": [],
+    "individuality": [],
+    "classPassive": [],
+    "cardIds": [
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "script": {},
+    "id": 9306090,
+    "baseSvtId": 9306090,
+    "name": "燈光の少女",
+    "ruby": "トウコウノショウジョ",
+    "battleName": "-",
+    "classId": 1001,
+    "type": 6,
+    "limitMax": 4,
+    "rewardLv": 0,
+    "friendshipId": 1000,
+    "maxFriendshipRank": 0,
+    "genderType": 3,
+    "attri": 2,
+    "combineSkillId": 0,
+    "combineLimitId": 0,
+    "sellQp": 1000,
+    "sellMana": 3,
+    "sellRarePri": 0,
+    "expType": 19,
+    "combineMaterialId": 39,
+    "cost": 9,
+    "battleSize": 2,
+    "hpGaugeY": 0,
+    "starRate": 0,
+    "deathRate": 0,
+    "attackAttri": 1,
+    "illustratorId": 36,
+    "cvId": 0,
+    "collectionNo": 1466,
     "materialStoryPriority": 1000,
     "flag": 0
   },
