@@ -6657,6 +6657,30 @@
   },
   {
     "targetIds": [
+      94029001,
+      94041201
+    ],
+    "scriptId": 94029001,
+    "phase": 0,
+    "id": 1,
+    "flag": 8,
+    "condType": 1,
+    "targetNum": 1
+  },
+  {
+    "targetIds": [
+      94029002,
+      94041202
+    ],
+    "scriptId": 94029002,
+    "phase": 0,
+    "id": 1,
+    "flag": 8,
+    "condType": 1,
+    "targetNum": 1
+  },
+  {
+    "targetIds": [
       94032210
     ],
     "scriptId": 94032210,
@@ -6873,6 +6897,30 @@
     "id": 1,
     "flag": 8,
     "condType": 92,
+    "targetNum": 1
+  },
+  {
+    "targetIds": [
+      94040904,
+      94040905
+    ],
+    "scriptId": 94040904,
+    "phase": 0,
+    "id": 1,
+    "flag": 24,
+    "condType": 1,
+    "targetNum": 1
+  },
+  {
+    "targetIds": [
+      94040904,
+      94040905
+    ],
+    "scriptId": 94040905,
+    "phase": 0,
+    "id": 1,
+    "flag": 24,
+    "condType": 1,
     "targetNum": 1
   }
 ]

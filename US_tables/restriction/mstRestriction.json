@@ -335,7 +335,7 @@
   {
     "targetVals": [],
     "id": 94016101,
-    "name": "",
+    "name": "No Duplicate Servants",
     "type": 6,
     "rangeType": 0
   },
@@ -586,6 +586,17 @@
     "id": 94040740,
     "name": "Only Three Servants",
     "type": 10,
+    "rangeType": 1
+  },
+  {
+    "targetVals": [
+      1,
+      2,
+      3
+    ],
+    "id": 94041400,
+    "name": "Formation Restricted",
+    "type": 7,
     "rangeType": 1
   }
 ]

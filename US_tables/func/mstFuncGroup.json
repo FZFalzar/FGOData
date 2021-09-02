@@ -4090,12 +4090,32 @@
     "isDispValue": true
   },
   {
+    "funcId": 4039,
+    "eventId": 80259,
+    "baseFuncId": 0,
+    "nameTotal": "{0}\nTotal Bonus Amount",
+    "name": "{0} acquired",
+    "iconId": 94040903,
+    "priority": 1000,
+    "isDispValue": true
+  },
+  {
     "funcId": 4040,
     "eventId": 80116,
     "baseFuncId": 0,
     "nameTotal": "{0}\nTotal Bonus Amount",
     "name": "{0} acquired",
     "iconId": 94029002,
+    "priority": 2000,
+    "isDispValue": true
+  },
+  {
+    "funcId": 4040,
+    "eventId": 80259,
+    "baseFuncId": 0,
+    "nameTotal": "{0}\nTotal Bonus Amount",
+    "name": "{0} acquired",
+    "iconId": 94040902,
     "priority": 2000,
     "isDispValue": true
   },
@@ -4110,6 +4130,16 @@
     "isDispValue": true
   },
   {
+    "funcId": 4041,
+    "eventId": 80259,
+    "baseFuncId": 0,
+    "nameTotal": "{0}\nTotal Bonus Amount",
+    "name": "{0} acquired",
+    "iconId": 94040901,
+    "priority": 3000,
+    "isDispValue": true
+  },
+  {
     "funcId": 4042,
     "eventId": 80116,
     "baseFuncId": 0,
@@ -4117,6 +4147,26 @@
     "name": "{0} acquired",
     "iconId": 94029005,
     "priority": 4000,
+    "isDispValue": true
+  },
+  {
+    "funcId": 4042,
+    "eventId": 80259,
+    "baseFuncId": 0,
+    "nameTotal": "{0}\nTotal Bonus Amount",
+    "name": "{0} acquired",
+    "iconId": 94040905,
+    "priority": 4000,
+    "isDispValue": true
+  },
+  {
+    "funcId": 4043,
+    "eventId": 80259,
+    "baseFuncId": 4043,
+    "nameTotal": "{1}\nTotal ATK Strength Up",
+    "name": "Increase ATK Strength",
+    "iconId": 302,
+    "priority": 1,
     "isDispValue": true
   },
   {

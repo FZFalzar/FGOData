@@ -1291,6 +1291,32 @@
   },
   {
     "script": {},
+    "warId": 8350,
+    "type": 3,
+    "priority": 80211,
+    "overwriteId": 80211,
+    "overwriteStr": "",
+    "condType": 1,
+    "targetId": 1000011,
+    "value": 0,
+    "startedAt": 1630555200,
+    "endedAt": 1631764799
+  },
+  {
+    "script": {},
+    "warId": 8350,
+    "type": 4,
+    "priority": 0,
+    "overwriteId": 39100,
+    "overwriteStr": "",
+    "condType": 1,
+    "targetId": 1000011,
+    "value": 0,
+    "startedAt": 1630555200,
+    "endedAt": 1631764799
+  },
+  {
+    "script": {},
     "warId": 9010,
     "type": 7,
     "priority": 2,

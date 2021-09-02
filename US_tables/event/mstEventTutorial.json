@@ -8171,5 +8171,101 @@
     "condValue": 0,
     "condValue2": 0,
     "condValue3": 0
+  },
+  {
+    "targetIds": [
+      "[]"
+    ],
+    "condIds": [],
+    "imageIds": [
+      752
+    ],
+    "textJson": [],
+    "eventId": 80259,
+    "flagType": 1,
+    "num": 1,
+    "openType": 4,
+    "condType": 0,
+    "condValue": 0,
+    "condValue2": 0,
+    "condValue3": 0
+  },
+  {
+    "targetIds": [
+      "[94041101,1]",
+      "[94041102,1]",
+      "[94041103,1]",
+      "[94041104,1]",
+      "[94041105,1]",
+      "[94041106,1]",
+      "[94041107,1]",
+      "[94041301,1]",
+      "[94041302,1]",
+      "[94041303,1]",
+      "[94041304,1]",
+      "[94041305,1]",
+      "[94041306,1]",
+      "[94041307,1]"
+    ],
+    "condIds": [],
+    "imageIds": [],
+    "textJson": [
+      {
+        "text": "- About Exhibition Quests -\n\nExhibition Quests are [FF0000]Ultra High Difficulty Quests[-] for advanced players.\n\nTo clear them, you will have to carefully analyze the enemy and consider Party Formation, Mystic Code, Skills, Noble Phantasms, and all other factors.\n\n[FF9800]Try not to be discouraged, and keep trying until you can defeat the enemy![-]",
+        "rects": [],
+        "textPos": [
+          0,
+          24
+        ],
+        "ptPos": [
+          0,
+          0
+        ]
+      }
+    ],
+    "eventId": 80259,
+    "flagType": 2,
+    "num": 1,
+    "openType": 13,
+    "condType": 0,
+    "condValue": 0,
+    "condValue2": 0,
+    "condValue3": 0
+  },
+  {
+    "targetIds": [
+      "[]"
+    ],
+    "condIds": [],
+    "imageIds": [
+      752
+    ],
+    "textJson": [],
+    "eventId": 80259,
+    "flagType": 21,
+    "num": 1,
+    "openType": 23,
+    "condType": 0,
+    "condValue": 0,
+    "condValue2": 0,
+    "condValue3": 0
+  },
+  {
+    "targetIds": [
+      "[]"
+    ],
+    "condIds": [],
+    "imageIds": [
+      752
+    ],
+    "textJson": [],
+    "eventId": 80259,
+    "flagType": 22,
+    "num": 1,
+    "openType": 24,
+    "condType": 0,
+    "condValue": 0,
+    "condValue2": 0,
+    "condValue3": 0
   }
 ]

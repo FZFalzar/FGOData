@@ -716,7 +716,7 @@
       21,
       28
     ],
-    "strengthStatus": 1,
+    "strengthStatus": 0,
     "svtId": 101700,
     "num": 1,
     "priority": 101,
@@ -740,7 +740,7 @@
       21,
       28
     ],
-    "strengthStatus": 2,
+    "strengthStatus": 0,
     "svtId": 101700,
     "num": 1,
     "priority": 102,
@@ -23930,7 +23930,7 @@
       21,
       28
     ],
-    "strengthStatus": 1,
+    "strengthStatus": 0,
     "svtId": 9939600,
     "num": 1,
     "priority": 101,
@@ -23954,7 +23954,7 @@
       21,
       28
     ],
-    "strengthStatus": 2,
+    "strengthStatus": 0,
     "svtId": 9939600,
     "num": 1,
     "priority": 102,
@@ -26874,7 +26874,7 @@
       21,
       28
     ],
-    "strengthStatus": 1,
+    "strengthStatus": 0,
     "svtId": 9941160,
     "num": 1,
     "priority": 101,
@@ -26898,7 +26898,7 @@
       21,
       28
     ],
-    "strengthStatus": 2,
+    "strengthStatus": 0,
     "svtId": 9941160,
     "num": 1,
     "priority": 102,
@@ -29133,5 +29133,23 @@
     "condFriendshipRank": 0,
     "motion": 30,
     "cardId": 1
+  },
+  {
+    "damage": [
+      100
+    ],
+    "strengthStatus": 0,
+    "svtId": 9942330,
+    "num": 1,
+    "priority": 101,
+    "flag": 0,
+    "imageIndex": 0,
+    "treasureDeviceId": 9942331,
+    "condQuestId": 0,
+    "condQuestPhase": 0,
+    "condLv": 0,
+    "condFriendshipRank": 0,
+    "motion": 50,
+    "cardId": 2
   }
 ]

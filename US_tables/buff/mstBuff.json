@@ -10599,7 +10599,7 @@
     "detail": "Lose HP at end of each turn",
     "iconId": 521,
     "maxRate": 0,
-    "effectId": 17123
+    "effectId": 0
   },
   {
     "vals": [
@@ -16021,7 +16021,9 @@
     "effectId": 0
   },
   {
-    "vals": [],
+    "vals": [
+      3025
+    ],
     "tvals": [],
     "ckSelfIndv": [],
     "ckOpIndv": [],
@@ -16430,7 +16432,7 @@
     "buffGroup": 0,
     "type": 40,
     "name": "The City's a Jungle (Self-Interpretation)",
-    "detail": "When the field is [Forest] at the beginning of your turn, activate the effect \"increase Special Resistance & increase ATK & increase NP Strength for yourself\"",
+    "detail": "When the field is [Forest], activate the effect \"increase Special Resistance & increase ATK & increase NP Strength for yourself\"",
     "iconId": 331,
     "maxRate": 0,
     "effectId": 0
@@ -16445,7 +16447,7 @@
     "buffGroup": 0,
     "type": 40,
     "name": "Mischievous Orleans",
-    "detail": "When the field is [Near Water] at the beginning of your turn, activate the effect \"increase Special Resistance & increase ATK & increase NP Strength for yourself\"",
+    "detail": "When the field is [Near Water], activate the effect \"increase Special Resistance & increase ATK & increase NP Strength for yourself\"",
     "iconId": 331,
     "maxRate": 0,
     "effectId": 0
@@ -16460,7 +16462,7 @@
     "buffGroup": 0,
     "type": 40,
     "name": "It's Burning! Honnoji!",
-    "detail": "When the field is [Burning] at the beginning of your turn, activate the effect \"increase Special Resistance & increase ATK & increase NP Strength for yourself\"",
+    "detail": "When the field is [Burning], activate the effect \"increase Special Resistance & increase ATK & increase NP Strength for yourself\"",
     "iconId": 331,
     "maxRate": 0,
     "effectId": 0
@@ -16789,7 +16791,7 @@
     "buffGroup": 0,
     "type": 40,
     "name": "Law of the Jungle",
-    "detail": "When the field is [Forest] at the beginning of your turn, activate the effect \"increase Special Resistance & increase ATK & increase NP Strength & apply Debuff Immune (1 time) for yourself\"",
+    "detail": "When the field is [Forest], activate the effect \"increase Special Resistance & increase ATK & increase NP Strength & apply Debuff Immune (1 time) for yourself\"",
     "iconId": 331,
     "maxRate": 0,
     "effectId": 0
@@ -16804,7 +16806,7 @@
     "buffGroup": 0,
     "type": 40,
     "name": "Killer Dolphins",
-    "detail": "When the field is [Near Water] at the beginning of your turn, activate the effect \"\"increase Special Resistance & increase ATK & increase NP Strength & increase Critical Rate for yourself\"\"",
+    "detail": "When the field is [Near Water], activate the effect \"increase Special Resistance & increase ATK & increase NP Strength & increase Critical Rate for yourself\"",
     "iconId": 331,
     "maxRate": 0,
     "effectId": 0
@@ -16819,7 +16821,7 @@
     "buffGroup": 0,
     "type": 40,
     "name": "Let's Hype This Up!",
-    "detail": "When the field is [Burning] at the beginning of your turn, activate the effect \"increase Special Resistance & increase ATK & increase NP Strength for yourself + apply Burn to all enemies\"",
+    "detail": "When the field is [Burning], activate the effect \"increase Special Resistance & increase ATK & increase NP Strength for yourself + Inflict Burn to all enemies\"",
     "iconId": 331,
     "maxRate": 0,
     "effectId": 0
@@ -26258,6 +26260,21 @@
     "effectId": 0
   },
   {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1862,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "Strength Up",
+    "detail": "Increase damage dealt during \"Battle in New York 2021\"",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
     "vals": [
       2499
     ],
@@ -26306,6 +26323,3172 @@
     "detail": "Apply Skill Seal each turn",
     "iconId": 525,
     "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "INDIVIDUALITIE": 2073
+    },
+    "id": 1866,
+    "buffGroup": 0,
+    "type": 9,
+    "name": "ATK Up [Forest]",
+    "detail": "Increase ATK when the field is [Forest]",
+    "iconId": 300,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "INDIVIDUALITIE": 2039
+    },
+    "id": 1867,
+    "buffGroup": 0,
+    "type": 9,
+    "name": "ATK Up [Near Water]",
+    "detail": "Increase ATK when the field is [Near Water]",
+    "iconId": 300,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "INDIVIDUALITIE": 2121
+    },
+    "id": 1868,
+    "buffGroup": 0,
+    "type": 9,
+    "name": "ATK Up [Burning]",
+    "detail": "Increase ATK when the field is [Burning]",
+    "iconId": 300,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "INDIVIDUALITIE": 2073
+    },
+    "id": 1869,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "Special Resist Up [Forest]",
+    "detail": "Gain resistance to all attacks when the field is [Forest]",
+    "iconId": 334,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "INDIVIDUALITIE": 2039
+    },
+    "id": 1870,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "Special Resist Up [Near Water]",
+    "detail": "Gain resistance to all attacks when the field is [Near Water]",
+    "iconId": 334,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "INDIVIDUALITIE": 2121
+    },
+    "id": 1871,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "Special Resist Up [Burning]",
+    "detail": "Gain resistance to all attacks when the field is [Burning]",
+    "iconId": 334,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "INDIVIDUALITIE": 2039
+    },
+    "id": 1872,
+    "buffGroup": 0,
+    "type": 70,
+    "name": "Critical Hit Rate Up [Near Water]",
+    "detail": "Increase Critical Hit rate when the field is [Near Water]",
+    "iconId": 327,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "INDIVIDUALITIE": 2073
+    },
+    "id": 1873,
+    "buffGroup": 0,
+    "type": 15,
+    "name": "NP Strength Up [Forest]",
+    "detail": "Increase NP damage when the field is [Forest]",
+    "iconId": 310,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "INDIVIDUALITIE": 2039
+    },
+    "id": 1874,
+    "buffGroup": 0,
+    "type": 15,
+    "name": "NP Strength Up [Near Water]",
+    "detail": "Increase NP damage when the field is [Near Water]",
+    "iconId": 310,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "INDIVIDUALITIE": 2121
+    },
+    "id": 1875,
+    "buffGroup": 0,
+    "type": 15,
+    "name": "NP Strength Up [Burning]",
+    "detail": "Increase NP damage when the field is [Burning]",
+    "iconId": 310,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "INDIVIDUALITIE": 2073
+    },
+    "id": 1876,
+    "buffGroup": 0,
+    "type": 70,
+    "name": "Critical Hit Rate Up",
+    "detail": "Increase Critical Hit rate [Unremovable]",
+    "iconId": 327,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "INDIVIDUALITIE": 2039
+    },
+    "id": 1877,
+    "buffGroup": 0,
+    "type": 70,
+    "name": "Critical Hit Rate Up",
+    "detail": "Increase Critical Hit rate [Unremovable]",
+    "iconId": 327,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "INDIVIDUALITIE": 2121
+    },
+    "id": 1878,
+    "buffGroup": 0,
+    "type": 70,
+    "name": "Critical Hit Rate Up",
+    "detail": "Increase Critical Hit rate [Unremovable]",
+    "iconId": 327,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "INDIVIDUALITIE": 2073
+    },
+    "id": 1879,
+    "buffGroup": 0,
+    "type": 85,
+    "name": "Triggers Each Turn (Debuff Immune) [Forest]",
+    "detail": "Apply Debuff Immune to yourself at the end of your turn when the field is [Forest]",
+    "iconId": 343,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "INDIVIDUALITIE": 2121
+    },
+    "id": 1880,
+    "buffGroup": 0,
+    "type": 85,
+    "name": "Triggers Each Turn (Burn) [Burning]",
+    "detail": "Inflict Burn to all enemies at the end of your turn when the field is [Burning]",
+    "iconId": 343,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1900,
+    "buffGroup": 0,
+    "type": 89,
+    "name": "Activate when Attacking (ATK Up & HP Loss)",
+    "detail": "Increase ATK & decrease HP [Demerit] for yourself during attacks",
+    "iconId": 333,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4100
+    ],
+    "ckSelfIndv": [
+      4100
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1901,
+    "buffGroup": 0,
+    "type": 89,
+    "name": "",
+    "detail": "",
+    "iconId": 333,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4007
+    ],
+    "ckSelfIndv": [
+      4007
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1902,
+    "buffGroup": 0,
+    "type": 137,
+    "name": "",
+    "detail": "",
+    "iconId": 333,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1903,
+    "buffGroup": 0,
+    "type": 90,
+    "name": "Blood Shower",
+    "detail": "Increase Charge by 1 for yourself when defeating enemies & inflict NP Seal (1 turn) [Demerit]",
+    "iconId": 342,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2490
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1904,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "",
+    "detail": "",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1905,
+    "buffGroup": 200,
+    "type": 24,
+    "name": "Evade",
+    "detail": "Reduce ATK damage taken to 0",
+    "iconId": 305,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1906,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "Special Resist Up",
+    "detail": "Gain resistance to all attacks",
+    "iconId": 334,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1910,
+    "buffGroup": 0,
+    "type": 89,
+    "name": "Activate when Attacking (Inflict Burn)",
+    "detail": "Inflict Burn to a single enemy with your normal attacks",
+    "iconId": 528,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2514,
+      2515
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1911,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "",
+    "detail": "",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2514,
+      2516
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1912,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "",
+    "detail": "",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2514,
+      2517,
+      2527
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1913,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "[Attacker]",
+    "detail": "Apply [Attacker] state (if Gauge gets broken, defeated, NP Sealed, or incapacitated, change places if there are allies)",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2514,
+      2517,
+      2528
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1914,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "[Attacker]",
+    "detail": "Apply [Attacker] state (if Gauge gets broken, defeated, NP Sealed, or incapacitated, change places if there are allies)",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2514,
+      2517,
+      2529
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1915,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "[Attacker]",
+    "detail": "Apply [Attacker] state (if Gauge gets broken, defeated, NP Sealed, or incapacitated, change places if there are allies)",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2514,
+      2518,
+      2530
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1916,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "[Supporter]",
+    "detail": "Apply [Supporter] state",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2514,
+      2518,
+      2531
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1917,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "[Supporter]",
+    "detail": "Apply [Supporter] state",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2514,
+      2518,
+      2532
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1918,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "[Supporter]",
+    "detail": "Apply [Supporter] state",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "INDIVIDUALITIE": 2517
+    },
+    "id": 1919,
+    "buffGroup": 0,
+    "type": 9,
+    "name": "ATK Up",
+    "detail": "If in [Attacker] state, tremendously increase ATK",
+    "iconId": 300,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "INDIVIDUALITIE": 2518
+    },
+    "id": 1920,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "Special Resist Up",
+    "detail": "If in [Supporter] state, gain resistance to all attacks",
+    "iconId": 334,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "INDIVIDUALITIE": 2518
+    },
+    "id": 1921,
+    "buffGroup": 0,
+    "type": 7,
+    "name": "HP Recovery Each Turn",
+    "detail": "If in [Supporter] state, restore HP at the end of each turn",
+    "iconId": 318,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "INDIVIDUALITIE": 2518
+    },
+    "id": 1922,
+    "buffGroup": 0,
+    "type": 16,
+    "name": "NP Strength Down",
+    "detail": "If in [Supporter] state, decrease NP damage [Demerit]",
+    "iconId": 508,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2533
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "INDIVIDUALITIE": 3020
+    },
+    "id": 1923,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "",
+    "detail": "",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2534
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "INDIVIDUALITIE": 3020
+    },
+    "id": 1924,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "",
+    "detail": "",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2535
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "INDIVIDUALITIE": 3020
+    },
+    "id": 1925,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "",
+    "detail": "",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2533
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "INDIVIDUALITIE": 3045
+    },
+    "id": 1926,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "",
+    "detail": "",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2534
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "INDIVIDUALITIE": 3045
+    },
+    "id": 1927,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "",
+    "detail": "",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2535
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "INDIVIDUALITIE": 3045
+    },
+    "id": 1928,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "",
+    "detail": "",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2539
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1929,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "",
+    "detail": "",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1930,
+    "buffGroup": 0,
+    "type": 85,
+    "name": "Triggers Each Turn (Chance to Evade)",
+    "detail": "Apply a state where there's a chance to reduce damage taken to 0 at the end of each turn",
+    "iconId": 343,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4003
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4003
+    ],
+    "script": {},
+    "id": 2100,
+    "buffGroup": 0,
+    "type": 105,
+    "name": "Affectionate Three Sisters (Youngest Sister)",
+    "detail": "Increase resistance against Quick attacks",
+    "iconId": 345,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4001
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4001
+    ],
+    "script": {},
+    "id": 2101,
+    "buffGroup": 0,
+    "type": 105,
+    "name": "Affectionate Three Sisters (Middle Sister)",
+    "detail": "Increase resistance against Arts attacks",
+    "iconId": 346,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4002
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4002
+    ],
+    "script": {},
+    "id": 2102,
+    "buffGroup": 0,
+    "type": 105,
+    "name": "Affectionate Three Sisters (Eldest Sister)",
+    "detail": "Increase resistance against Buster attacks",
+    "iconId": 347,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2103,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "Activate on Defeat (Youngest Sister's Affection)",
+    "detail": "When HP reaches 0, increase resistance against Quick attacks for all allies",
+    "iconId": 350,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2104,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "Activate on Defeat (Middle Sister's Endearment)",
+    "detail": "When HP reaches 0, increase resistance against Arts attacks for all allies",
+    "iconId": 350,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2105,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "Activate on Defeat (Eldest Sister's Benevolence)",
+    "detail": "When HP reaches 0, increase resistance against Buster attacks for all allies",
+    "iconId": 350,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4003
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4003
+    ],
+    "script": {},
+    "id": 2106,
+    "buffGroup": 0,
+    "type": 105,
+    "name": "Youngest Sister's Affection",
+    "detail": "Increase resistance against Quick attacks",
+    "iconId": 345,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4001
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4001
+    ],
+    "script": {},
+    "id": 2107,
+    "buffGroup": 0,
+    "type": 105,
+    "name": "Middle Sister's Endearment",
+    "detail": "Increase resistance against Arts attacks",
+    "iconId": 346,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4002
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4002
+    ],
+    "script": {},
+    "id": 2108,
+    "buffGroup": 0,
+    "type": 105,
+    "name": "Eldest Sister's Benevolence",
+    "detail": "Increase resistance against Buster attacks",
+    "iconId": 347,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      3010
+    ],
+    "ckSelfIndv": [
+      3010
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2109,
+    "buffGroup": 0,
+    "type": 27,
+    "name": "Mental Debuff Chance Up",
+    "detail": "Increase mental debuff effect chance rate",
+    "iconId": 307,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      3012
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      3012
+    ],
+    "script": {},
+    "id": 2110,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "Strength Up (Curse)",
+    "detail": "Increase damage dealt against [Charmed] enemies",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2111,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "Big Shield",
+    "detail": "Gain resistance to all attacks",
+    "iconId": 334,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005,
+      2521
+    ],
+    "tvals": [
+      3004
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      3004
+    ],
+    "script": {},
+    "id": 2200,
+    "buffGroup": 1000,
+    "type": 31,
+    "name": "Nullify Buff",
+    "detail": "Unremovable",
+    "iconId": 531,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2201,
+    "buffGroup": 0,
+    "type": 38,
+    "name": "Devil's Substitute",
+    "detail": "Set Target to yourself whenever the Devil Clown is on the field",
+    "iconId": 323,
+    "maxRate": 50000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2202,
+    "buffGroup": 0,
+    "type": 76,
+    "name": "Soul Contract",
+    "detail": "After 6 turns, apply [Contract Period] state where you \"sustain Death by the Devil Clown [Demerit] & decrease maximum HP [Demerit]\"",
+    "iconId": 525,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2521,
+      2513
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2203,
+    "buffGroup": 0,
+    "type": 76,
+    "name": "Speed Contract",
+    "detail": "After 2 turns, decrease Critical Damage for yourself [Demerit]",
+    "iconId": 525,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2521,
+      2513
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2204,
+    "buffGroup": 0,
+    "type": 76,
+    "name": "Wisdom Contract",
+    "detail": "After 2 turns, decrease NP Strength for yourself [Demerit]",
+    "iconId": 525,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2521,
+      2513
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2205,
+    "buffGroup": 0,
+    "type": 76,
+    "name": "Power Contract",
+    "detail": "After 2 turns, decrease ATK for yourself [Demerit]",
+    "iconId": 525,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2521,
+      2513
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2206,
+    "buffGroup": 0,
+    "type": 76,
+    "name": "Poison Contract",
+    "detail": "After 2 turns, inflict Poison (3 turns) to yourself [Demerit]",
+    "iconId": 525,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2521,
+      2513
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2207,
+    "buffGroup": 0,
+    "type": 76,
+    "name": "Killing Contract",
+    "detail": "After 2 turns, inflict Death to yourself [Demerit]",
+    "iconId": 525,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2521,
+      2513
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2208,
+    "buffGroup": 0,
+    "type": 76,
+    "name": "Protection Contract",
+    "detail": "After 2 turns, decrease DEF for yourself [Demerit]",
+    "iconId": 525,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2209,
+    "buffGroup": 0,
+    "type": 17,
+    "name": "NP Gain Up",
+    "detail": "Increase NP amount gained",
+    "iconId": 303,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2523
+    ],
+    "tvals": [
+      5000,
+      4003
+    ],
+    "ckSelfIndv": [
+      4003
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2210,
+    "buffGroup": 0,
+    "type": 52,
+    "name": "Quick Up",
+    "detail": "Increase Quick Card effectiveness",
+    "iconId": 312,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2523
+    ],
+    "tvals": [
+      5000,
+      4001
+    ],
+    "ckSelfIndv": [
+      4001
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2211,
+    "buffGroup": 0,
+    "type": 52,
+    "name": "Arts Up",
+    "detail": "Increase Arts Card effectiveness",
+    "iconId": 313,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2523
+    ],
+    "tvals": [
+      5000,
+      4002
+    ],
+    "ckSelfIndv": [
+      4002
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2212,
+    "buffGroup": 0,
+    "type": 52,
+    "name": "Buster Up",
+    "detail": "Increase Buster Card effectiveness",
+    "iconId": 314,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2523
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2213,
+    "buffGroup": 0,
+    "type": 15,
+    "name": "NP Strength Up",
+    "detail": "Increase NP damage",
+    "iconId": 310,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2523
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2214,
+    "buffGroup": 700,
+    "type": 38,
+    "name": "Target Focused",
+    "detail": "Set Target to yourself",
+    "iconId": 323,
+    "maxRate": 50000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2523
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2215,
+    "buffGroup": 0,
+    "type": 42,
+    "name": "DEF Up",
+    "detail": "Increase DEF",
+    "iconId": 301,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2521
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2216,
+    "buffGroup": 0,
+    "type": 19,
+    "name": "Critical Down",
+    "detail": "Decrease Critical Hit damage",
+    "iconId": 514,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2521
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2217,
+    "buffGroup": 0,
+    "type": 16,
+    "name": "NP Strength Down",
+    "detail": "Decrease NP damage",
+    "iconId": 508,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2521
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2218,
+    "buffGroup": 0,
+    "type": 10,
+    "name": "ATK Down",
+    "detail": "Decrease ATK",
+    "iconId": 503,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2521
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2219,
+    "buffGroup": 0,
+    "type": 43,
+    "name": "DEF Down",
+    "detail": "Decrease DEF",
+    "iconId": 504,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2521
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2220,
+    "buffGroup": 0,
+    "type": 8,
+    "name": "Poison",
+    "detail": "Lose HP at end of each turn",
+    "iconId": 500,
+    "maxRate": 0,
+    "effectId": 17119
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2221,
+    "buffGroup": 0,
+    "type": 86,
+    "name": "Activate When Damaged (Inflict Poison)",
+    "detail": "Inflict Poison (3 turns) to a single enemy when attacked",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2222,
+    "buffGroup": 0,
+    "type": 82,
+    "name": "Minus Maximum HP",
+    "detail": "Decrease Max HP",
+    "iconId": 522,
+    "maxRate": 50000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2540
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2223,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "Contract Period",
+    "detail": "Sustain Death by the Devil Clown [Demerit] & decrease Max HP [Demerit]",
+    "iconId": 525,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      3014,
+      3012,
+      3013
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      3014,
+      3012,
+      3013
+    ],
+    "script": {},
+    "id": 2224,
+    "buffGroup": 0,
+    "type": 29,
+    "name": "Clown's Jeer",
+    "detail": "Increase Immobilization Resist",
+    "iconId": 306,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      5000
+    ],
+    "script": {},
+    "id": 2300,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "Demon King Army Elite",
+    "detail": "Gain resistance to all attacks other than from Hero Elisabeth & increase damage dealt except to Hero Elisabeth",
+    "iconId": 334,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      5000
+    ],
+    "script": {},
+    "id": 2301,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "Demon King Army Elite Four",
+    "detail": "Gain resistance to all attacks other than from Hero Elisabeth & increase damage dealt except to Hero Elisabeth",
+    "iconId": 334,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      5000
+    ],
+    "script": {},
+    "id": 2302,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "Demon King Army Director",
+    "detail": "Gain resistance to all attacks other than from Hero Elisabeth & increase damage dealt except to Hero Elisabeth",
+    "iconId": 334,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2303,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "Strength Meat",
+    "detail": "When defeated by Hero Elisabeth, apply a state where Hero Elisabeth's Strength Lv. increases [Demerit]",
+    "iconId": 543,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2304,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "HP Meat",
+    "detail": "When defeated by Hero Elisabeth, apply a state where Hero Elisabeth's HP Lv. increases [Demerit]",
+    "iconId": 543,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2305,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "MP Meat",
+    "detail": "When defeated by Hero Elisabeth, apply a state where Hero Elisabeth's MP Lv. increases [Demerit]",
+    "iconId": 543,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2306,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "Metallic Meat",
+    "detail": "When defeated by Hero Elisabeth, apply a state where Hero Elisabeth's Strength Lv., HP Lv., and MP Lv. increases [Demerit]",
+    "iconId": 543,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2307,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "Super Strength Meat",
+    "detail": "When defeated by Hero Elisabeth, apply a state where Hero Elisabeth's Strength Lv. increases [Demerit]",
+    "iconId": 543,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2308,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "Super HP Meat",
+    "detail": "When defeated by Hero Elisabeth, apply a state where Hero Elisabeth's HP Lv. increases [Demerit]",
+    "iconId": 543,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2309,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "Super MP Meat",
+    "detail": "When defeated by Hero Elisabeth, apply a state where Hero Elisabeth's MP Lv. increases [Demerit]",
+    "iconId": 543,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2503
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2310,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "Obtain Strength Meat",
+    "detail": "Increase Strength Lv.",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2504
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2311,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "Obtain HP Meat",
+    "detail": "Increase HP Lv.",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2505
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2312,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "Obtain MP Meat",
+    "detail": "Increase MP Lv.",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2503,
+      2504,
+      2505
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2313,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "Obtain Metallic Meat",
+    "detail": "Increase Strength Lv., HP Lv., and MP Lv.",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2503
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2314,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "Obtain Super Strength Meat",
+    "detail": "Increase Strength Lv. by 2",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2504
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2315,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "Obtain Super HP Meat",
+    "detail": "Increase HP Lv. by 2",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2505
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2316,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "Obtain Super MP Meat",
+    "detail": "Increase MP Lv. by 2",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2503
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2317,
+    "buffGroup": 0,
+    "type": 9,
+    "name": "Strength Lv. 1",
+    "detail": "Increase your ATK (Maximum Lv. 10)",
+    "iconId": 300,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2503
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2318,
+    "buffGroup": 0,
+    "type": 9,
+    "name": "Strength Lv. 2",
+    "detail": "Increase your ATK (Maximum Lv. 10)",
+    "iconId": 300,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2503
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2319,
+    "buffGroup": 0,
+    "type": 9,
+    "name": "Strength Lv. 3",
+    "detail": "Increase your ATK (Maximum Lv. 10)",
+    "iconId": 300,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2503
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2320,
+    "buffGroup": 0,
+    "type": 9,
+    "name": "Strength Lv. 4",
+    "detail": "Increase your ATK (Maximum Lv. 10)",
+    "iconId": 300,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2503
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2321,
+    "buffGroup": 0,
+    "type": 9,
+    "name": "Strength Lv. 5",
+    "detail": "Increase your ATK (Maximum Lv. 10)",
+    "iconId": 300,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2503
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2322,
+    "buffGroup": 0,
+    "type": 9,
+    "name": "Strength Lv. 6",
+    "detail": "Increase your ATK (Maximum Lv. 10)",
+    "iconId": 300,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2503
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2323,
+    "buffGroup": 0,
+    "type": 9,
+    "name": "Strength Lv. 7",
+    "detail": "Increase your ATK (Maximum Lv. 10)",
+    "iconId": 300,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2503
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2324,
+    "buffGroup": 0,
+    "type": 9,
+    "name": "Strength Lv. 8",
+    "detail": "Increase your ATK (Maximum Lv. 10)",
+    "iconId": 300,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2503
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2325,
+    "buffGroup": 0,
+    "type": 9,
+    "name": "Strength Lv. 9",
+    "detail": "Increase your ATK (Maximum Lv. 10)",
+    "iconId": 300,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2503
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2326,
+    "buffGroup": 0,
+    "type": 9,
+    "name": "Strength Lv. 10",
+    "detail": "Apply a state where your Max HP increases (Maximum Lv. 10)",
+    "iconId": 300,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2504
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2327,
+    "buffGroup": 0,
+    "type": 81,
+    "name": "HP Lv. 1",
+    "detail": "Apply a state where your Max HP increases (Maximum Lv. 10)",
+    "iconId": 330,
+    "maxRate": 50000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2504
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2328,
+    "buffGroup": 0,
+    "type": 81,
+    "name": "HP Lv. 2",
+    "detail": "Apply a state where your Max HP increases (Maximum Lv. 10)",
+    "iconId": 330,
+    "maxRate": 50000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2504
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2329,
+    "buffGroup": 0,
+    "type": 81,
+    "name": "HP Lv. 3",
+    "detail": "Apply a state where your Max HP increases (Maximum Lv. 10)",
+    "iconId": 330,
+    "maxRate": 50000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2504
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2330,
+    "buffGroup": 0,
+    "type": 81,
+    "name": "HP Lv. 4",
+    "detail": "Apply a state where your Max HP increases (Maximum Lv. 10)",
+    "iconId": 330,
+    "maxRate": 50000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2504
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2331,
+    "buffGroup": 0,
+    "type": 81,
+    "name": "HP Lv. 5",
+    "detail": "Apply a state where your Max HP increases (Maximum Lv. 10)",
+    "iconId": 330,
+    "maxRate": 50000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2504
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2332,
+    "buffGroup": 0,
+    "type": 81,
+    "name": "HP Lv. 6",
+    "detail": "Apply a state where your Max HP increases (Maximum Lv. 10)",
+    "iconId": 330,
+    "maxRate": 50000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2504
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2333,
+    "buffGroup": 0,
+    "type": 81,
+    "name": "HP Lv. 7",
+    "detail": "Apply a state where your Max HP increases (Maximum Lv. 10)",
+    "iconId": 330,
+    "maxRate": 50000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2504
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2334,
+    "buffGroup": 0,
+    "type": 81,
+    "name": "HP Lv. 8",
+    "detail": "Apply a state where your Max HP increases (Maximum Lv. 10)",
+    "iconId": 330,
+    "maxRate": 50000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2504
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2335,
+    "buffGroup": 0,
+    "type": 81,
+    "name": "HP Lv. 9",
+    "detail": "Apply a state where your Max HP increases (Maximum Lv. 10)",
+    "iconId": 330,
+    "maxRate": 50000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2504
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2336,
+    "buffGroup": 0,
+    "type": 81,
+    "name": "HP Lv. 10",
+    "detail": "Apply a state where your Max HP increases (Maximum Lv. 10)",
+    "iconId": 330,
+    "maxRate": 50000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2505
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2337,
+    "buffGroup": 0,
+    "type": 17,
+    "name": "MP Lv. 1",
+    "detail": "Increase your NP Gain (Maximum Lv. 10)",
+    "iconId": 303,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2505
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2338,
+    "buffGroup": 0,
+    "type": 17,
+    "name": "MP Lv. 2",
+    "detail": "Increase your NP Gain (Maximum Lv. 10)",
+    "iconId": 303,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2505
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2339,
+    "buffGroup": 0,
+    "type": 17,
+    "name": "MP Lv. 3",
+    "detail": "Increase your NP Gain (Maximum Lv. 10)",
+    "iconId": 303,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2505
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2340,
+    "buffGroup": 0,
+    "type": 17,
+    "name": "MP Lv. 4",
+    "detail": "Increase your NP Gain (Maximum Lv. 10)",
+    "iconId": 303,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2505
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2341,
+    "buffGroup": 0,
+    "type": 17,
+    "name": "MP Lv. 5",
+    "detail": "Increase your NP Gain (Maximum Lv. 10)",
+    "iconId": 303,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2505
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2342,
+    "buffGroup": 0,
+    "type": 17,
+    "name": "MP Lv. 6",
+    "detail": "Increase your NP Gain (Maximum Lv. 10)",
+    "iconId": 303,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2505
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2343,
+    "buffGroup": 0,
+    "type": 17,
+    "name": "MP Lv. 7",
+    "detail": "Increase your NP Gain (Maximum Lv. 10)",
+    "iconId": 303,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2505
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2344,
+    "buffGroup": 0,
+    "type": 17,
+    "name": "MP Lv. 8",
+    "detail": "Increase your NP Gain (Maximum Lv. 10)",
+    "iconId": 303,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2505
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2345,
+    "buffGroup": 0,
+    "type": 17,
+    "name": "MP Lv. 9",
+    "detail": "Increase your NP Gain (Maximum Lv. 10)",
+    "iconId": 303,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2505
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2346,
+    "buffGroup": 0,
+    "type": 17,
+    "name": "MP Lv. 10",
+    "detail": "Increase your NP Gain (Maximum Lv. 10)",
+    "iconId": 303,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2347,
+    "buffGroup": 0,
+    "type": 64,
+    "name": "Amazing Medicine",
+    "detail": "Increase amount of HP recovered",
+    "iconId": 328,
+    "maxRate": 50000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3060
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2348,
+    "buffGroup": 0,
+    "type": 7,
+    "name": "Amazing Medicine",
+    "detail": "Recover HP at the end of each turn",
+    "iconId": 318,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3060
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2349,
+    "buffGroup": 0,
+    "type": 7,
+    "name": "Ordinary Medicine",
+    "detail": "Recover HP at the end of each turn",
+    "iconId": 318,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2509
+    ],
+    "tvals": [
+      2002
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      2002
+    ],
+    "script": {},
+    "id": 2350,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "Dragon Killer",
+    "detail": "Increase damage dealt against [Dragon] & increase DEF against [Dragon]",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2510
+    ],
+    "tvals": [
+      2002
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      2002
+    ],
+    "script": {},
+    "id": 2351,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "Dragon Buster",
+    "detail": "Increase damage dealt against [Dragon] & increase DEF against [Dragon]",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2509
+    ],
+    "tvals": [
+      2002
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      2002
+    ],
+    "script": {},
+    "id": 2352,
+    "buffGroup": 0,
+    "type": 42,
+    "name": "",
+    "detail": "",
+    "iconId": 301,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2353,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "Egg of a Hero",
+    "detail": "Ability Lv. increases when inflicting the finishing blow to an enemy",
+    "iconId": 342,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2354,
+    "buffGroup": 0,
+    "type": 85,
+    "name": "Dragon Scale",
+    "detail": "Increase your DEF each turn",
+    "iconId": 343,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3023
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2355,
+    "buffGroup": 700,
+    "type": 38,
+    "name": "Target Focused",
+    "detail": "Increase chance of being targeted by enemies",
+    "iconId": 323,
+    "maxRate": 50000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      3004
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      3004
+    ],
+    "script": {},
+    "id": 2356,
+    "buffGroup": 1000,
+    "type": 31,
+    "name": "Villagers' Anger",
+    "detail": "Nullify buffs",
+    "iconId": 531,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2357,
+    "buffGroup": 0,
+    "type": 10,
+    "name": "Unprepared",
+    "detail": "Decrease ATK [Demerit] & increase damage taken by Quick, Arts, and Buster Cards, NP generation, and C. Star drop rate [Demerit]",
+    "iconId": 503,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4003
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4003
+    ],
+    "script": {},
+    "id": 2358,
+    "buffGroup": 0,
+    "type": 106,
+    "name": "",
+    "detail": "",
+    "iconId": 539,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4001
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4001
+    ],
+    "script": {},
+    "id": 2359,
+    "buffGroup": 0,
+    "type": 106,
+    "name": "",
+    "detail": "",
+    "iconId": 540,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4002
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4002
+    ],
+    "script": {},
+    "id": 2360,
+    "buffGroup": 0,
+    "type": 106,
+    "name": "",
+    "detail": "",
+    "iconId": 541,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2361,
+    "buffGroup": 0,
+    "type": 4,
+    "name": "Villagers' Anger",
+    "detail": "Decrease C. Star drop rate",
+    "iconId": 510,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      5000
+    ],
+    "script": {},
+    "id": 2362,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "",
+    "detail": "",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2495
+    ],
+    "tvals": [
+      4008
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4008
+    ],
+    "script": {},
+    "id": 2400,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "Immortal's Blessing",
+    "detail": "Gain resistance to damage from normal attacks & decrease resistance against [Divine] normal attacks [Demerit]",
+    "iconId": 334,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2495
+    ],
+    "tvals": [
+      4008,
+      2000
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4008,
+      2000
+    ],
+    "script": {
+      "checkIndvType": 1
+    },
+    "id": 2401,
+    "buffGroup": 0,
+    "type": 92,
+    "name": "",
+    "detail": "",
+    "iconId": 529,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2526
+    ],
+    "tvals": [
+      4007
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4007
+    ],
+    "script": {},
+    "id": 2402,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "Shield of the Blacksmith God",
+    "detail": "Gain resistance to NP Damage",
+    "iconId": 334,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005,
+      2498
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2403,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "Invitation for a One-on-One",
+    "detail": "Begin a one-on-one match after 1 turn (will not be applied to [Female], [Assassin], [Caster] Class)",
+    "iconId": 525,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2542
+    ],
+    "tvals": [
+      2494
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      2494
+    ],
+    "script": {},
+    "id": 2404,
+    "buffGroup": 0,
+    "type": 29,
+    "name": "",
+    "detail": "",
+    "iconId": 306,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2494,
+      2501
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2405,
+    "buffGroup": 0,
+    "type": 32,
+    "name": "Incapacitate",
+    "detail": "Unable to act",
+    "iconId": 501,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2493,
+      2501
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2406,
+    "buffGroup": 0,
+    "type": 33,
+    "name": "Skill Seal",
+    "detail": "Unable to use skills",
+    "iconId": 511,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2493,
+      2501
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2407,
+    "buffGroup": 0,
+    "type": 34,
+    "name": "NP Seal",
+    "detail": "Unable to use Noble Phantasms",
+    "iconId": 512,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2494,
+      2501
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2408,
+    "buffGroup": 0,
+    "type": 140,
+    "name": "Command Card Unselectable",
+    "detail": "Cannot select Command Cards",
+    "iconId": 555,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2501
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2409,
+    "buffGroup": 0,
+    "type": 141,
+    "name": "Unable to Change Order",
+    "detail": "Cannot use Order Change",
+    "iconId": 554,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2493,
+      2501,
+      2522
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2410,
+    "buffGroup": 0,
+    "type": 142,
+    "name": "Double Charge",
+    "detail": "",
+    "iconId": 343,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2493,
+      2501
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2414,
+    "buffGroup": 0,
+    "type": 38,
+    "name": "One-on-One",
+    "detail": "Set Target to yourself (treated as Debuff) & unable to use Skills & unable to use NP",
+    "iconId": 323,
+    "maxRate": 50000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      3012
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      3012
+    ],
+    "script": {},
+    "id": 2415,
+    "buffGroup": 0,
+    "type": 29,
+    "name": "Charm Resist Up",
+    "detail": "Increase Charm resistance",
+    "iconId": 306,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2416,
+    "buffGroup": 0,
+    "type": 9,
+    "name": "ATK Up",
+    "detail": "Increase ATK (increases further the lower your HP is)",
+    "iconId": 300,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2525
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2500,
+    "buffGroup": 0,
+    "type": 76,
+    "name": "First Rome Expansion",
+    "detail": "After 10 turns, tremendously increase HP recovery amount for all allies",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2525
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2501,
+    "buffGroup": 0,
+    "type": 76,
+    "name": "Second Rome Expansion",
+    "detail": "After 20 turns, increase the Critical Hit Rate for all allies",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2525
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2502,
+    "buffGroup": 0,
+    "type": 76,
+    "name": "Third Rome Expansion",
+    "detail": "After 35 turns, greatly increase NP Strength for all allies",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2525
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2503,
+    "buffGroup": 0,
+    "type": 76,
+    "name": "Fourth Rome Expansion",
+    "detail": "After 70 turns, tremendously increase Special Resistance & apply Ignore Invincible to all allies ",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2504,
+    "buffGroup": 0,
+    "type": 64,
+    "name": "First Rome",
+    "detail": "Tremendously increase HP recovery amount for yourself",
+    "iconId": 328,
+    "maxRate": 50000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2505,
+    "buffGroup": 0,
+    "type": 70,
+    "name": "Second Rome",
+    "detail": "Increase Critical Hit Rate for yourself ",
+    "iconId": 327,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2506,
+    "buffGroup": 0,
+    "type": 15,
+    "name": "Third Rome",
+    "detail": "Greatly increase NP Strength for yourself",
+    "iconId": 310,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2507,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "Fourth Rome",
+    "detail": "Tremendously increase Special Resist & apply Ignore Invincible to yourself",
+    "iconId": 334,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2508,
+    "buffGroup": 0,
+    "type": 86,
+    "name": "",
+    "detail": "",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      2004
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      2004
+    ],
+    "script": {},
+    "id": 2509,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "Distinguished Divine Ancestor",
+    "detail": "Apply Special Resist against [Roman] enemies to yourself & apply [Roman] trait to a single enemy when damaged & apply a state where Rome gets expanded based on the number of [Roman] enemies and allies on the field each turn",
+    "iconId": 334,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2004,
+      3005,
+      2541
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2510,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "You're Rome Too",
+    "detail": "Apply [Roman] trait (treated as Debuff)",
+    "iconId": 360,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "INDIVIDUALITIE": 2004
+    },
+    "id": 2511,
+    "buffGroup": 0,
+    "type": 96,
+    "name": "Overcharge Lv. Up (Rome)",
+    "detail": "In a [Roman] state, increase Overcharge level by 2 when using Noble Phantasm",
+    "iconId": 336,
+    "maxRate": 5,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006
+    ],
+    "tvals": [
+      5000,
+      4003
+    ],
+    "ckSelfIndv": [
+      4003
+    ],
+    "ckOpIndv": [],
+    "script": {
+      "INDIVIDUALITIE": 2004
+    },
+    "id": 2512,
+    "buffGroup": 0,
+    "type": 52,
+    "name": "Quick Up (Rome)",
+    "detail": "In a [Roman] state, increase Quick Card effectiveness",
+    "iconId": 312,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006
+    ],
+    "tvals": [
+      5000,
+      4001
+    ],
+    "ckSelfIndv": [
+      4001
+    ],
+    "ckOpIndv": [],
+    "script": {
+      "INDIVIDUALITIE": 2004
+    },
+    "id": 2513,
+    "buffGroup": 0,
+    "type": 52,
+    "name": "Arts Up (Rome)",
+    "detail": "In a [Roman] state, increase Arts Card effectiveness",
+    "iconId": 313,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006
+    ],
+    "tvals": [
+      5000,
+      4002
+    ],
+    "ckSelfIndv": [
+      4002
+    ],
+    "ckOpIndv": [],
+    "script": {
+      "INDIVIDUALITIE": 2004
+    },
+    "id": 2514,
+    "buffGroup": 0,
+    "type": 52,
+    "name": "Buster Up (Rome)",
+    "detail": "In a [Roman] state, increase Buster Card effectiveness",
+    "iconId": 314,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "INDIVIDUALITIE": 2004
+    },
+    "id": 2515,
+    "buffGroup": 0,
+    "type": 17,
+    "name": "NP Gain Up (Rome)",
+    "detail": "In a [Roman] state, increase NP Gain",
+    "iconId": 303,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "INDIVIDUALITIE": 2004
+    },
+    "id": 2516,
+    "buffGroup": 0,
+    "type": 3,
+    "name": "C. Star Drop Rate Up (Rome)",
+    "detail": "In a [Roman] state, increase C. Star drop rate",
+    "iconId": 321,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2517,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "Working to Expand Rome",
+    "detail": "When defeated, the \"Rome Expnasion\" activation turn count increases by 3",
+    "iconId": 543,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      2541
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      2541
+    ],
+    "script": {},
+    "id": 2518,
+    "buffGroup": 0,
+    "type": 31,
+    "name": "This isn't Rome!",
+    "detail": "The [Roman] trait does not get applied",
+    "iconId": 322,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "INDIVIDUALITIE": 2004
+    },
+    "id": 2519,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "",
+    "detail": "",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      4007
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4007
+    ],
+    "script": {
+      "INDIVIDUALITIE": 2004
+    },
+    "id": 2520,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "Divine Ancestor's Protection",
+    "detail": "In a [Roman] state, gain resistance against Noble Phantasm attacks",
+    "iconId": 334,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2521,
+    "buffGroup": 0,
+    "type": 18,
+    "name": "Have a Heart of Romance",
+    "detail": "Increase Critical Hit damage",
+    "iconId": 324,
+    "maxRate": 5000,
     "effectId": 0
   },
   {
