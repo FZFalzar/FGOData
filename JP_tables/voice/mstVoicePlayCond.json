@@ -4349,6 +4349,18 @@
     ],
     "svtId": 901000,
     "voicePrefix": -1,
+    "voiceId": "H220",
+    "idx": 3,
+    "condGroup": 2,
+    "condType": 40,
+    "targetId": 105100
+  },
+  {
+    "condValues": [
+      0
+    ],
+    "svtId": 901000,
+    "voicePrefix": -1,
     "voiceId": "H230",
     "idx": 1,
     "condGroup": 1,
@@ -4750,6 +4762,18 @@
     "condGroup": 1,
     "condType": 81,
     "targetId": 2
+  },
+  {
+    "condValues": [
+      0
+    ],
+    "svtId": 901200,
+    "voicePrefix": -1,
+    "voiceId": "H130",
+    "idx": 1,
+    "condGroup": 1,
+    "condType": 1,
+    "targetId": 94060412
   },
   {
     "condValues": [

@@ -672,6 +672,34 @@
     "dispAreaFlag": 3
   },
   {
+    "spotIds": [],
+    "id": 8033101,
+    "priority": 1,
+    "eventId": 80331,
+    "warId": 9119,
+    "mapId": 9119,
+    "objectType": 3,
+    "objectId": 80331001,
+    "eventUiValueId": 80331001,
+    "x": 300,
+    "y": 7000,
+    "dispAreaFlag": 3
+  },
+  {
+    "spotIds": [],
+    "id": 8033102,
+    "priority": 1,
+    "eventId": 80331,
+    "warId": 9119,
+    "mapId": 9119,
+    "objectType": 2,
+    "objectId": 8033101,
+    "eventUiValueId": 0,
+    "x": 600,
+    "y": 12600,
+    "dispAreaFlag": 3
+  },
+  {
     "spotIds": [
       907602
     ],

@@ -41596,7 +41596,7 @@
     "targetType": 0,
     "applyTarget": 3,
     "popupIconId": 322,
-    "popupText": "弱体無効",
+    "popupText": "やけど無効",
     "categoryId": 0
   },
   {
@@ -121663,6 +121663,210 @@
     "categoryId": 0
   },
   {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 7268,
+    "cond": 0,
+    "funcType": 105,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "なし",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 7269,
+    "cond": 0,
+    "funcType": 105,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "なし",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 7270,
+    "cond": 0,
+    "funcType": 105,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "なし",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 7271,
+    "cond": 0,
+    "funcType": 106,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "なし",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 7272,
+    "cond": 0,
+    "funcType": 106,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "なし",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 7273,
+    "cond": 0,
+    "funcType": 106,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "なし",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3654
+    ],
+    "tvals": [],
+    "questTvals": [
+      94000122
+    ],
+    "effectList": [
+      330
+    ],
+    "popupTextColor": 2,
+    "id": 7274,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 302,
+    "popupText": "トレジャーハンター",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3654
+    ],
+    "tvals": [],
+    "questTvals": [
+      94000122
+    ],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 7275,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 302,
+    "popupText": "トレジャーハンター",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3654
+    ],
+    "tvals": [],
+    "questTvals": [
+      94000122
+    ],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 7276,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 302,
+    "popupText": "トレジャーハンター",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3655
+    ],
+    "tvals": [],
+    "questTvals": [
+      94000122
+    ],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 7277,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 302,
+    "popupText": "なし",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 7278,
+    "cond": 0,
+    "funcType": 111,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "なし",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 7279,
+    "cond": 0,
+    "funcType": 111,
+    "targetType": 7,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "なし",
+    "categoryId": 0
+  },
+  {
     "vals": [
       3656
     ],
@@ -126009,6 +126213,547 @@
     "applyTarget": 2,
     "popupIconId": 343,
     "popupText": "朔月の加護",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3786
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 7518,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 331,
+    "popupText": "遅延発動(NP増加＆クイック封印＆アーツ封印)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1135
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      346
+    ],
+    "popupTextColor": 1,
+    "id": 7519,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 551,
+    "popupText": "クイック封印",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1136
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      346
+    ],
+    "popupTextColor": 1,
+    "id": 7520,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 552,
+    "popupText": "アーツ封印",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1137
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      346
+    ],
+    "popupTextColor": 1,
+    "id": 7521,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 553,
+    "popupText": "バスター封印",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      323
+    ],
+    "popupTextColor": 1,
+    "id": 7522,
+    "cond": 0,
+    "funcType": 49,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      324
+    ],
+    "popupTextColor": 1,
+    "id": 7523,
+    "cond": 0,
+    "funcType": 49,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3787
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 7524,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 528,
+    "popupText": "攻撃時発動(HP吸収)",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 7525,
+    "cond": 0,
+    "funcType": 35,
+    "targetType": 3,
+    "applyTarget": 2,
+    "popupIconId": 0,
+    "popupText": "撤退",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      345
+    ],
+    "popupTextColor": 1,
+    "id": 7526,
+    "cond": 0,
+    "funcType": 13,
+    "targetType": 19,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "即死",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3788
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 7527,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      126
+    ],
+    "tvals": [
+      400800
+    ],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 7528,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 1,
+    "applyTarget": 3,
+    "popupIconId": 300,
+    "popupText": "攻撃力アップ",
+    "categoryId": 10201
+  },
+  {
+    "vals": [
+      148
+    ],
+    "tvals": [
+      400800
+    ],
+    "questTvals": [],
+    "effectList": [
+      341
+    ],
+    "popupTextColor": 3,
+    "id": 7529,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 1,
+    "applyTarget": 3,
+    "popupIconId": 504,
+    "popupText": "防御力ダウン",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3789
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 7530,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 342,
+    "popupText": "撃破時追加効果(HP回復)",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 3,
+    "id": 7531,
+    "cond": 0,
+    "funcType": 8,
+    "targetType": 1,
+    "applyTarget": 1,
+    "popupIconId": 0,
+    "popupText": "NP減少",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3007
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 1,
+    "id": 7532,
+    "cond": 0,
+    "funcType": 2,
+    "targetType": 1,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "防御強化解除",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3821
+    ],
+    "tvals": [],
+    "questTvals": [
+      94000122
+    ],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 7573,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 310,
+    "popupText": "夢見る冒険少女",
+    "categoryId": 10601
+  },
+  {
+    "vals": [
+      742
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 7587,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 1,
+    "applyTarget": 3,
+    "popupIconId": 322,
+    "popupText": "やけど無効",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3812
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      330
+    ],
+    "popupTextColor": 2,
+    "id": 7593,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 302,
+    "popupText": "威力アップ・対秩序サーヴァント",
+    "categoryId": 10205
+  },
+  {
+    "vals": [
+      3812
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 7594,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 302,
+    "popupText": "威力アップ・対秩序サーヴァント",
+    "categoryId": 10205
+  },
+  {
+    "vals": [
+      3812
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 7595,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 302,
+    "popupText": "威力アップ・対秩序サーヴァント",
+    "categoryId": 10205
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      345
+    ],
+    "popupTextColor": 1,
+    "id": 7596,
+    "cond": 0,
+    "funcType": 46,
+    "targetType": 19,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "即死",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      154
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 7601,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 309,
+    "popupText": "必中",
+    "categoryId": 10801
+  },
+  {
+    "vals": [
+      182
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 1,
+    "id": 7602,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 1,
+    "applyTarget": 3,
+    "popupIconId": 511,
+    "popupText": "スキル封印",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3007
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 1,
+    "id": 7603,
+    "cond": 0,
+    "funcType": 2,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "防御強化解除",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      175
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      344
+    ],
+    "popupTextColor": 1,
+    "id": 7604,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 1,
+    "applyTarget": 3,
+    "popupIconId": 502,
+    "popupText": "魅了",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      183
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 1,
+    "id": 7605,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 1,
+    "applyTarget": 3,
+    "popupIconId": 512,
+    "popupText": "宝具封印",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3818
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 7610,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 7,
+    "applyTarget": 3,
+    "popupIconId": 302,
+    "popupText": "威力アップ・対スキル封印",
+    "categoryId": 10205
+  },
+  {
+    "vals": [
+      3819
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 7614,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3820
+    ],
+    "tvals": [],
+    "questTvals": [
+      94000122
+    ],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 7615,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 302,
+    "popupText": "夢見る冒険少女",
     "categoryId": 0
   },
   {

@@ -49126,6 +49126,36 @@
     "effectId": 0
   },
   {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3654,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "トレジャーハンター",
+    "detail": "『カルデア・サマーアドベンチャー！』において与えるダメージをアップ",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3655,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "威力アップ",
+    "detail": "『カルデア・サマーアドベンチャー！』において与えるダメージをアップ",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
     "vals": [
       3004
     ],
@@ -51455,6 +51485,180 @@
     "detail": "ターン終了時に「味方全体のチャージを確率で1増やす＆HPを回復＆攻撃力をアップ＆クリティカル発生率をアップ」効果を発動する",
     "iconId": 343,
     "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3786,
+    "buffGroup": 0,
+    "type": 76,
+    "name": "遅延発動(NP増加＆クイック封印＆アーツ封印)",
+    "detail": "2ターン経過後に自身のNPが増える＆Quickカードを使用できなくする＆Artsカードを使用できなくする",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3787,
+    "buffGroup": 0,
+    "type": 137,
+    "name": "攻撃時発動(HP吸収)",
+    "detail": "自身の攻撃時に敵単体からHP吸収",
+    "iconId": 528,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [
+      5000,
+      4007
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4007
+    ],
+    "script": {},
+    "id": 3788,
+    "buffGroup": 0,
+    "type": 86,
+    "name": "",
+    "detail": "",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      5000
+    ],
+    "script": {},
+    "id": 3789,
+    "buffGroup": 0,
+    "type": 90,
+    "name": "撃破時追加効果(HP回復)",
+    "detail": "敵を倒したときに自身のHPが回復する",
+    "iconId": 342,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006,
+      3028
+    ],
+    "tvals": [
+      300,
+      1000
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      300,
+      1000
+    ],
+    "script": {
+      "checkIndvType": 1
+    },
+    "id": 3812,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "威力アップ〔秩序のサーヴァント〕",
+    "detail": "〔秩序のサーヴァント〕に与えるダメージをアップ",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006,
+      3028
+    ],
+    "tvals": [
+      3025
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      3025
+    ],
+    "script": {},
+    "id": 3818,
+    "buffGroup": 0,
+    "type": 112,
+    "name": "威力アップ〔スキル封印〕",
+    "detail": "〔スキル封印〕状態の敵に与えるダメージをアップ",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6021
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3819,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "個性追加",
+    "detail": "個性追加",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3820,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "夢見る冒険少女",
+    "detail": "『カルデア・サマーアドベンチャー！』において与えるダメージをアップ",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006,
+      3030
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3821,
+    "buffGroup": 0,
+    "type": 15,
+    "name": "夢見る冒険少女",
+    "detail": "『カルデア・サマーアドベンチャー！』において宝具で与えるダメージをアップ",
+    "iconId": 310,
+    "maxRate": 5000,
     "effectId": 0
   },
   {
