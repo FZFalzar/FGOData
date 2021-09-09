@@ -11944,7 +11944,13 @@
       4007,
       4101
     ],
-    "script": {},
+    "script": {
+      "limitSeqId_11": 400830,
+      "limitSeqId_1": 400800,
+      "limitSeqId_3": 400800,
+      "limitSeqId_4": 400800,
+      "limitSeqId_2": 400800
+    },
     "id": 400802,
     "seqId": 400800,
     "name": "アン女王の復讐",
@@ -20883,6 +20889,23 @@
     "name": "夏は、世に知らず暑き",
     "ruby": "エモーショナルエンジン・ビビッドフルセンセーション",
     "rank": "D++",
+    "maxLv": 5,
+    "typeText": "対人宝具",
+    "attackAttri": 1,
+    "effectFlag": 2
+  },
+  {
+    "individuality": [
+      3002,
+      4002,
+      4007
+    ],
+    "script": {},
+    "id": 9943391,
+    "seqId": 9943390,
+    "name": "疾駆せよ、わが海色の大牙",
+    "ruby": "シーサーペント・ストームブルー",
+    "rank": "B+",
     "maxLv": 5,
     "typeText": "対人宝具",
     "attackAttri": 1,
