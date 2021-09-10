@@ -20910,5 +20910,55 @@
     "typeText": "対人宝具",
     "attackAttri": 1,
     "effectFlag": 2
+  },
+  {
+    "individuality": [
+      3002,
+      4001,
+      4007,
+      4101
+    ],
+    "script": {
+      "delayEnd": 1,
+      "randomSeqIds": [
+        9943400,
+        9943400,
+        9943401
+      ],
+      "randomWeights": [
+        34,
+        34,
+        33
+      ]
+    },
+    "id": 9943401,
+    "seqId": 9943400,
+    "name": "愛もていたるは恋夏なり",
+    "ruby": "カーマ・ルーパーストラ",
+    "rank": "B",
+    "maxLv": 5,
+    "typeText": "対人宝具",
+    "attackAttri": 1,
+    "effectFlag": 1
+  },
+  {
+    "individuality": [
+      3002,
+      4001,
+      4007,
+      4101
+    ],
+    "script": {
+      "delayEnd": 1
+    },
+    "id": 9943411,
+    "seqId": 9943410,
+    "name": "愛もていたるは恋夏なり",
+    "ruby": "カーマ・ルーパーストラ",
+    "rank": "B",
+    "maxLv": 5,
+    "typeText": "対人宝具",
+    "attackAttri": 1,
+    "effectFlag": 1
   }
 ]

@@ -51562,6 +51562,191 @@
   },
   {
     "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3790,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "死亡時発動(宝具チャージ＆HP回復)",
+    "detail": "HPが0になった時、味方の葛飾北斎のチャージを1増やす＆HPを回復する",
+    "iconId": 350,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2800
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3791,
+    "buffGroup": 0,
+    "type": 10,
+    "name": "熱烈アプローチ",
+    "detail": "攻撃力をダウン",
+    "iconId": 503,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3792,
+    "buffGroup": 0,
+    "type": 137,
+    "name": "？？？",
+    "detail": "攻撃時にスタンを付与する",
+    "iconId": 528,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005,
+      3015
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3793,
+    "buffGroup": 0,
+    "type": 8,
+    "name": "担々麺ウマーイ",
+    "detail": "ターン終了時にHPが減る",
+    "iconId": 513,
+    "maxRate": 0,
+    "effectId": 17122
+  },
+  {
+    "vals": [
+      3004,
+      3006
+    ],
+    "tvals": [
+      5000,
+      4007
+    ],
+    "ckSelfIndv": [
+      4007
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3794,
+    "buffGroup": 0,
+    "type": 137,
+    "name": "宝具攻撃時追加効果(ガッツ解除)",
+    "detail": "宝具攻撃時に敵単体のガッツ状態を解除する",
+    "iconId": 528,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6026
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3803,
+    "buffGroup": 0,
+    "type": 42,
+    "name": "防御フィールド",
+    "detail": "水陸両用バギーがフィールドにいる間、防御力をアップ",
+    "iconId": 301,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6036
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3804,
+    "buffGroup": 600,
+    "type": 37,
+    "name": "ガッツ",
+    "detail": "クリスタルの秘宝がフィールドにいる間、HPが0になった時、HPを回復して耐える",
+    "iconId": 304,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3809,
+    "buffGroup": 0,
+    "type": 89,
+    "name": "攻撃時追加効果(愛炎状態付与)",
+    "detail": "通常攻撃時に〔愛炎〕状態を付与する",
+    "iconId": 528,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3810,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "愛炎",
+    "detail": "愛炎を帯びた状態(弱体扱い)",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006,
+      3028
+    ],
+    "tvals": [
+      2801
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      2801
+    ],
+    "script": {},
+    "id": 3811,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "威力アップ〔愛炎状態〕",
+    "detail": "〔愛炎状態〕の敵に与えるダメージをアップ<対象の〔愛炎状態〕が多いほど特攻威力アップ(最大10個)>",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [
       3004,
       3006,
       3028
@@ -51585,6 +51770,83 @@
     "detail": "〔秩序のサーヴァント〕に与えるダメージをアップ",
     "iconId": 302,
     "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005,
+      3009
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "ProgressSelfTurn": 0
+    },
+    "id": 3814,
+    "buffGroup": 0,
+    "type": 43,
+    "name": "易い",
+    "detail": "防御力をダウン",
+    "iconId": 504,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3016
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3815,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "難い",
+    "detail": "全ての攻撃に対する耐性を得る",
+    "iconId": 334,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005,
+      3008,
+      3033
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3816,
+    "buffGroup": 0,
+    "type": 10,
+    "name": "？？？",
+    "detail": "攻撃力をダウン",
+    "iconId": 503,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005,
+      3020
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "ProgressSelfTurn": 1
+    },
+    "id": 3817,
+    "buffGroup": 900,
+    "type": 34,
+    "name": "？？？",
+    "detail": "宝具を使用できなくなる",
+    "iconId": 512,
+    "maxRate": 0,
     "effectId": 0
   },
   {
@@ -51773,6 +52035,44 @@
     "detail": "被ダメージを減らす",
     "iconId": 301,
     "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3829,
+    "buffGroup": 0,
+    "type": 149,
+    "name": "",
+    "detail": "",
+    "iconId": 365,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006,
+      3028
+    ],
+    "tvals": [
+      304
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      304
+    ],
+    "script": {},
+    "id": 3830,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "神の祝福",
+    "detail": "〔悪〕特性に与えるダメージをアップ",
+    "iconId": 302,
+    "maxRate": 10000,
     "effectId": 0
   },
   {

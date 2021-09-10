@@ -65249,6 +65249,519 @@
   {
     "vals": [],
     "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94060820,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 60,
+    "cond": 0,
+    "aiActId": 94060434,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94060820,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 40,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      94060823,
+      0
+    ],
+    "script": {},
+    "id": 94060822,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 94060435,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94060823,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      1
+    ],
+    "avals": [
+      94060825,
+      0
+    ],
+    "script": {},
+    "id": 94060824,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 100,
+    "probability": 100,
+    "cond": 78,
+    "aiActId": 94060436,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94060824,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94060825,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      0
+    ],
+    "avals": [
+      94060827,
+      0
+    ],
+    "script": {
+      "forcedSkillSpeed": 1
+    },
+    "id": 94060826,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 4,
+    "priority": 100,
+    "probability": 100,
+    "cond": 65,
+    "aiActId": 1000320,
+    "infoText": "おや、コロンブスの様子が……？"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94060826,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 4,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94060827,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 4,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      6001
+    ],
+    "avals": [
+      94060829,
+      0
+    ],
+    "script": {
+      "forcedSkillSpeed": 1
+    },
+    "id": 94060828,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 1000320,
+    "infoText": "コロンブスは霊基が進化した！"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94060828,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94060829,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      94060831,
+      0
+    ],
+    "script": {},
+    "id": 94060830,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 94060438,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94060831,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94060832,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 70,
+    "cond": 0,
+    "aiActId": 94060439,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94060832,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 30,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      3
+    ],
+    "avals": [
+      94060835,
+      0
+    ],
+    "script": {},
+    "id": 94060834,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 78,
+    "aiActId": 94060440,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94060835,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2
+    ],
+    "avals": [
+      94060839,
+      0
+    ],
+    "script": {
+      "forcedSkillSpeed": 1
+    },
+    "id": 94060838,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 100,
+    "probability": 100,
+    "cond": 78,
+    "aiActId": 1000320,
+    "infoText": "一切合切強奪まであと１ターン"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94060839,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      4
+    ],
+    "avals": [
+      94060841,
+      0
+    ],
+    "script": {},
+    "id": 94060840,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 100,
+    "probability": 100,
+    "cond": 78,
+    "aiActId": 94060441,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94060841,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94060842,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 94060442,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      94060845,
+      0
+    ],
+    "script": {
+      "forcedSkillSpeed": 1
+    },
+    "id": 94060844,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000320,
+    "infoText": "お互いにガッツを発動させよう"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94060845,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94060846,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 94060443,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94060848,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 94060444,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94060850,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 94060445,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
       94060895,
       0
     ],
@@ -65273,6 +65786,78 @@
     ],
     "script": {},
     "id": 94060895,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      94060897,
+      0
+    ],
+    "script": {
+      "forcedSkillSpeed": 1
+    },
+    "id": 94060896,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000320,
+    "infoText": "爆弾が爆発する前に倒しきれ！"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94060897,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      94060899,
+      0
+    ],
+    "script": {
+      "forcedSkillSpeed": 1
+    },
+    "id": 94060898,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000320,
+    "infoText": "5ターン以内に倒さないと床が崩れてしまう！"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94060899,
     "idx": 1,
     "actNum": -1,
     "timing": 2,
@@ -65382,6 +65967,400 @@
     "probability": 100,
     "cond": 0,
     "aiActId": 94060419,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      94060913,
+      0
+    ],
+    "script": {
+      "forcedSkillSpeed": 1
+    },
+    "id": 94060912,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1000320,
+    "infoText": "閉じ込められてしまった！"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94060913,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      1
+    ],
+    "avals": [
+      94060915,
+      0
+    ],
+    "script": {},
+    "id": 94060914,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 4,
+    "priority": 100,
+    "probability": 100,
+    "cond": 78,
+    "aiActId": 94060447,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94060914,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 4,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      3
+    ],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94060915,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 4,
+    "priority": 100,
+    "probability": 100,
+    "cond": 31,
+    "aiActId": 94060447,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94060915,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 4,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      6021
+    ],
+    "avals": [
+      94060923,
+      0
+    ],
+    "script": {
+      "forcedSkillSpeed": 1
+    },
+    "id": 94060922,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 4,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 2,
+    "infoText": "いや無理だろ！"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94060922,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 4,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94060923,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 4,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1009,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      6021
+    ],
+    "avals": [
+      94060927,
+      0
+    ],
+    "script": {},
+    "id": 94060926,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 100,
+    "probability": 100,
+    "cond": 56,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94060926,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      6021
+    ],
+    "avals": [
+      94060928,
+      0
+    ],
+    "script": {},
+    "id": 94060926,
+    "idx": 3,
+    "actNum": -1,
+    "timing": 4,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94060926,
+    "idx": 4,
+    "actNum": -1,
+    "timing": 4,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      6021
+    ],
+    "avals": [
+      94060929,
+      0
+    ],
+    "script": {},
+    "id": 94060927,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 4,
+    "priority": 100,
+    "probability": 100,
+    "cond": 53,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94060927,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 4,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      6021
+    ],
+    "avals": [
+      94060930,
+      0
+    ],
+    "script": {},
+    "id": 94060928,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 100,
+    "probability": 100,
+    "cond": 56,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94060928,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94060929,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1009,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94060930,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1009,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      95
+    ],
+    "avals": [
+      94060932,
+      0
+    ],
+    "script": {},
+    "id": 94060931,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 100,
+    "probability": 100,
+    "cond": 85,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94060931,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 94060932,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 6,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1009,
     "infoText": ""
   },
   {
