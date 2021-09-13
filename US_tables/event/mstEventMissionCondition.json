@@ -53300,6 +53300,139 @@
   },
   {
     "targetIds": [
+      2001541,
+      2001542,
+      2001543,
+      2001544,
+      2001545,
+      2001546
+    ],
+    "missionId": 2001540,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001267,
+    "missionTargetId": 100223,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 6,
+    "conditionMessage": "Complete all of this week's Master Missions",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001234
+    ],
+    "missionId": 2001541,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001268,
+    "missionTargetId": 100223,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 5,
+    "conditionMessage": "Defeat 5 \"Divine\" Servants",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001235
+    ],
+    "missionId": 2001542,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001269,
+    "missionTargetId": 100223,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 3,
+    "conditionMessage": "Defeat 3 \"King\" Servants",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001236
+    ],
+    "missionId": 2001543,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001270,
+    "missionTargetId": 100223,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 20,
+    "conditionMessage": "Defeat 20 enemies (excluding Servants and certain bosses)",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001543
+    ],
+    "missionId": 2001544,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 2001271,
+    "missionTargetId": 100223,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 1,
+    "conditionMessage": "Defeat 40 enemies (excluding Servants and certain bosses)",
+    "closedMessage": "",
+    "flag": 64
+  },
+  {
+    "targetIds": [
+      2001236
+    ],
+    "missionId": 2001544,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001272,
+    "missionTargetId": 100223,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 40,
+    "conditionMessage": "Defeat 40 enemies (excluding Servants and certain bosses)",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001237
+    ],
+    "missionId": 2001545,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001273,
+    "missionTargetId": 100223,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "Defeat 15 enemies with the Human attribute",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001238
+    ],
+    "missionId": 2001546,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001274,
+    "missionTargetId": 100223,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "Defeat 15 \"Demonic\" enemies",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
       94011901
     ],
     "missionId": 80054001,
