@@ -638,7 +638,8 @@
     "vals": [
       3004,
       3006,
-      3028
+      3028,
+      2803
     ],
     "tvals": [
       2005
@@ -730,7 +731,8 @@
     "vals": [
       3004,
       3006,
-      3028
+      3028,
+      2802
     ],
     "tvals": [
       2002
@@ -19165,7 +19167,8 @@
     "vals": [
       3004,
       3006,
-      3031
+      3031,
+      2802
     ],
     "tvals": [
       2002
@@ -31536,7 +31539,8 @@
     "vals": [
       3004,
       3006,
-      3028
+      3028,
+      2803
     ],
     "tvals": [
       2005,
@@ -42596,7 +42600,8 @@
     "vals": [
       3004,
       3006,
-      3031
+      3031,
+      2802
     ],
     "tvals": [
       5000,
@@ -51655,6 +51660,167 @@
   },
   {
     "vals": [
+      3004
+    ],
+    "tvals": [
+      5000,
+      4007,
+      4004
+    ],
+    "ckSelfIndv": [
+      4007,
+      4004
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3795,
+    "buffGroup": 0,
+    "type": 137,
+    "name": "自爆準備",
+    "detail": "チャージ攻撃時に敵全体に高確率で即死を付与する＋自身に即死を付与する【デメリット】",
+    "iconId": 528,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3796,
+    "buffGroup": 0,
+    "type": 137,
+    "name": "攻撃時追加効果(魅了付与)",
+    "detail": "攻撃時に低確率で魅了を付与する",
+    "iconId": 528,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3023
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3797,
+    "buffGroup": 700,
+    "type": 38,
+    "name": "バカ笑い",
+    "detail": "自身にターゲットを固定する",
+    "iconId": 323,
+    "maxRate": 50000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3007,
+      3040,
+      3058
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3798,
+    "buffGroup": 0,
+    "type": 42,
+    "name": "玄武の守護 (偽)",
+    "detail": "防御力をアップ",
+    "iconId": 301,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [
+      5000
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3799,
+    "buffGroup": 0,
+    "type": 86,
+    "name": "炎の翼 (偽)",
+    "detail": "攻撃を受けると敵単体にやけど状態(3ターン)を付与する",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3800,
+    "buffGroup": 0,
+    "type": 137,
+    "name": "炎の翼 (偽)",
+    "detail": "攻撃時にやけど状態(3ターン)を付与する",
+    "iconId": 528,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [
+      5000,
+      4007,
+      4004
+    ],
+    "ckSelfIndv": [
+      4007,
+      4004
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3801,
+    "buffGroup": 0,
+    "type": 137,
+    "name": "炎の翼 (偽)",
+    "detail": "チャージ攻撃時に自身に即死を付与する【デメリット】",
+    "iconId": 549,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006,
+      3027
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "ProgressSelfTurn": 1
+    },
+    "id": 3802,
+    "buffGroup": 0,
+    "type": 9,
+    "name": "攻撃力アップ",
+    "detail": "攻撃力をアップ＜呪いの数だけ効果量アップ＞",
+    "iconId": 300,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
       6026
     ],
     "tvals": [],
@@ -51684,6 +51850,76 @@
     "name": "ガッツ",
     "detail": "クリスタルの秘宝がフィールドにいる間、HPが0になった時、HPを回復して耐える",
     "iconId": 304,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3805,
+    "buffGroup": 0,
+    "type": 137,
+    "name": "鮫VS蛸",
+    "detail": "攻撃時に巨大なオクトパスのHPを減らす",
+    "iconId": 528,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3806,
+    "buffGroup": 0,
+    "type": 137,
+    "name": "蛸VS鮫",
+    "detail": "攻撃時に巨大なシャークのHPを減らす",
+    "iconId": 528,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3807,
+    "buffGroup": 0,
+    "type": 137,
+    "name": "イルカマスター",
+    "detail": "攻撃時に自身以外の味方全体のHPを回復する",
+    "iconId": 528,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "INDIVIDUALITIE": 6026
+    },
+    "id": 3808,
+    "buffGroup": 0,
+    "type": 85,
+    "name": "禁断の呪い",
+    "detail": "毎ターン終了時に自身以外の味方単体に即死を付与する＆自身の最大HPを増やす",
+    "iconId": 343,
     "maxRate": 0,
     "effectId": 0
   },
@@ -51770,6 +52006,25 @@
     "detail": "〔秩序のサーヴァント〕に与えるダメージをアップ",
     "iconId": 302,
     "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005,
+      3010,
+      3045
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3813,
+    "buffGroup": 0,
+    "type": 32,
+    "name": "トキメキ",
+    "detail": "行動不能になる",
+    "iconId": 502,
+    "maxRate": 0,
     "effectId": 0
   },
   {
@@ -52073,6 +52328,182 @@
     "detail": "〔悪〕特性に与えるダメージをアップ",
     "iconId": 302,
     "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3016
+    ],
+    "tvals": [
+      -2805
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      -2805
+    ],
+    "script": {
+      "checkIndvType": 2
+    },
+    "id": 3831,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "青龍の鱗 (偽)",
+    "detail": "〔竜〕特性特攻攻撃以外に対する耐性を得る",
+    "iconId": 334,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3016
+    ],
+    "tvals": [
+      -2805
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      -2805
+    ],
+    "script": {
+      "checkIndvType": 2
+    },
+    "id": 3832,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "白虎の毛皮 (偽)",
+    "detail": "〔猛獣〕特性特攻攻撃以外に対する耐性を得る",
+    "iconId": 334,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2805
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "INDIVIDUALITIE": 2802
+    },
+    "id": 3838,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "",
+    "detail": "",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006,
+      3071
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "UpBuffRateBuffIndiv": "2802"
+    },
+    "id": 3839,
+    "buffGroup": 0,
+    "type": 162,
+    "name": "",
+    "detail": "",
+    "iconId": 370,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006,
+      3071
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "UpBuffRateBuffIndiv": "2803"
+    },
+    "id": 3840,
+    "buffGroup": 0,
+    "type": 162,
+    "name": "",
+    "detail": "",
+    "iconId": 370,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2805
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "INDIVIDUALITIE": 2803
+    },
+    "id": 3841,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "",
+    "detail": "",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3016
+    ],
+    "tvals": [
+      -2802
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      -2802
+    ],
+    "script": {
+      "checkIndvType": 2
+    },
+    "id": 3842,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "",
+    "detail": "",
+    "iconId": 334,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3016
+    ],
+    "tvals": [
+      -2803
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      -2803
+    ],
+    "script": {
+      "checkIndvType": 2
+    },
+    "id": 3843,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "",
+    "detail": "",
+    "iconId": 334,
+    "maxRate": 5000,
     "effectId": 0
   },
   {

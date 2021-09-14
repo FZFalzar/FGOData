@@ -7842,6 +7842,22 @@
       4007
     ],
     "script": {},
+    "id": 728,
+    "seqId": 9943130,
+    "name": "味わえ コロンブスの卵を",
+    "ruby": "-",
+    "rank": "なし",
+    "maxLv": 5,
+    "typeText": "",
+    "attackAttri": 1,
+    "effectFlag": 0
+  },
+  {
+    "individuality": [
+      3000,
+      4007
+    ],
+    "script": {},
     "id": 729,
     "seqId": 9943140,
     "name": "サメザメポンプ",
@@ -8161,7 +8177,8 @@
       3002,
       4002,
       4007,
-      4101
+      4101,
+      2802
     ],
     "script": {},
     "id": 100801,
@@ -8179,7 +8196,8 @@
       3002,
       4002,
       4007,
-      4101
+      4101,
+      2802
     ],
     "script": {},
     "id": 100802,
@@ -8691,7 +8709,8 @@
     "individuality": [
       3000,
       4002,
-      4007
+      4007,
+      2802
     ],
     "script": {
       "limitSeqId_11": 103301,
@@ -8714,7 +8733,8 @@
     "individuality": [
       3000,
       4002,
-      4007
+      4007,
+      2802
     ],
     "script": {
       "limitSeqId_11": 103301,
@@ -12428,6 +12448,22 @@
     "typeText": "対軍宝具",
     "attackAttri": 1,
     "effectFlag": 1
+  },
+  {
+    "individuality": [
+      4007,
+      4004
+    ],
+    "script": {},
+    "id": 402597,
+    "seqId": 402500,
+    "name": "「ハッハァ！ 自爆！」",
+    "ruby": "",
+    "rank": "なし",
+    "maxLv": 5,
+    "typeText": "なし",
+    "attackAttri": 1,
+    "effectFlag": 2
   },
   {
     "individuality": [
@@ -20612,6 +20648,36 @@
   },
   {
     "individuality": [
+      3002,
+      4001,
+      4007,
+      4101
+    ],
+    "script": {
+      "delayEnd": 1,
+      "randomSeqIds": [
+        9943150,
+        9943151,
+        9943152
+      ],
+      "randomWeights": [
+        40,
+        40,
+        20
+      ]
+    },
+    "id": 9943151,
+    "seqId": 9943150,
+    "name": "恋もて堕とすは愛果てなり",
+    "ruby": "マーラ・シューニャター",
+    "rank": "B",
+    "maxLv": 5,
+    "typeText": "対人宝具",
+    "attackAttri": 1,
+    "effectFlag": 1
+  },
+  {
+    "individuality": [
       3000,
       4002,
       4007
@@ -20955,6 +21021,36 @@
     "seqId": 9943410,
     "name": "愛もていたるは恋夏なり",
     "ruby": "カーマ・ルーパーストラ",
+    "rank": "B",
+    "maxLv": 5,
+    "typeText": "対人宝具",
+    "attackAttri": 1,
+    "effectFlag": 1
+  },
+  {
+    "individuality": [
+      3002,
+      4001,
+      4007,
+      4101
+    ],
+    "script": {
+      "delayEnd": 1,
+      "randomSeqIds": [
+        9943420,
+        9943421,
+        9943422
+      ],
+      "randomWeights": [
+        40,
+        40,
+        20
+      ]
+    },
+    "id": 9943421,
+    "seqId": 9943420,
+    "name": "恋もて堕とすは愛果てなり",
+    "ruby": "マーラ・シューニャター",
     "rank": "B",
     "maxLv": 5,
     "typeText": "対人宝具",
