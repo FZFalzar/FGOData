@@ -52380,6 +52380,115 @@
   },
   {
     "vals": [
+      3007,
+      3040,
+      3058
+    ],
+    "tvals": [
+      5000,
+      4008,
+      2667
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      5000,
+      4008,
+      2667
+    ],
+    "script": {
+      "checkIndvType": 1
+    },
+    "id": 3833,
+    "buffGroup": 0,
+    "type": 42,
+    "name": "親心 EX",
+    "detail": "〔子供のサーヴァント〕特性のサーヴァントの通常攻撃に対する防御力を大アップ＆攻撃力をダウン【デメリット】",
+    "iconId": 301,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      2667
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      2667
+    ],
+    "script": {},
+    "id": 3834,
+    "buffGroup": 0,
+    "type": 10,
+    "name": "",
+    "detail": "",
+    "iconId": 503,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      5000
+    ],
+    "script": {},
+    "id": 3835,
+    "buffGroup": 0,
+    "type": 90,
+    "name": "暴君竜",
+    "detail": "敵を倒したときに自身のHPが回復する＆チャージを2増やす",
+    "iconId": 342,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      5000
+    ],
+    "script": {},
+    "id": 3836,
+    "buffGroup": 0,
+    "type": 90,
+    "name": "",
+    "detail": "",
+    "iconId": 342,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006,
+      3028
+    ],
+    "tvals": [
+      2804
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      2804
+    ],
+    "script": {},
+    "id": 3837,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "威力アップ〔子供のサーヴァント以外〕",
+    "detail": "〔子供のサーヴァント〕特性以外に与えるダメージをアップ",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [
       2805
     ],
     "tvals": [],

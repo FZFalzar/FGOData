@@ -4179,6 +4179,30 @@
     "condValues": [
       0
     ],
+    "svtId": 704100,
+    "voicePrefix": -1,
+    "voiceId": "H190",
+    "idx": 1,
+    "condGroup": 1,
+    "condType": 40,
+    "targetId": 403900
+  },
+  {
+    "condValues": [
+      11
+    ],
+    "svtId": 704100,
+    "voicePrefix": -1,
+    "voiceId": "H190",
+    "idx": 2,
+    "condGroup": 1,
+    "condType": 54,
+    "targetId": 403900
+  },
+  {
+    "condValues": [
+      0
+    ],
     "svtId": 800100,
     "voicePrefix": 0,
     "voiceId": "G010",
@@ -5770,6 +5794,18 @@
     "condGroup": 1,
     "condType": 20,
     "targetId": 80294
+  },
+  {
+    "condValues": [
+      0
+    ],
+    "svtId": 2300400,
+    "voicePrefix": -1,
+    "voiceId": "H250",
+    "idx": 3,
+    "condGroup": 2,
+    "condType": 40,
+    "targetId": 1101100
   },
   {
     "condValues": [

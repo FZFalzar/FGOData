@@ -127948,6 +127948,63 @@
   },
   {
     "vals": [
+      1557
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      330
+    ],
+    "popupTextColor": 2,
+    "id": 7611,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 7,
+    "applyTarget": 3,
+    "popupIconId": 302,
+    "popupText": "威力アップ・対魅了",
+    "categoryId": 10205
+  },
+  {
+    "vals": [
+      1557
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 7612,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 7,
+    "applyTarget": 3,
+    "popupIconId": 302,
+    "popupText": "威力アップ・対魅了",
+    "categoryId": 10205
+  },
+  {
+    "vals": [
+      1557
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 7613,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 7,
+    "applyTarget": 3,
+    "popupIconId": 302,
+    "popupText": "威力アップ・対魅了",
+    "categoryId": 10205
+  },
+  {
+    "vals": [
       3819
     ],
     "tvals": [],
@@ -128243,6 +128300,116 @@
   },
   {
     "vals": [
+      3833
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 7629,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 301,
+    "popupText": "親心 EX",
+    "categoryId": 20201
+  },
+  {
+    "vals": [
+      3834
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 3,
+    "id": 7630,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3835
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 7631,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 342,
+    "popupText": "暴君竜",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3836
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 2,
+    "id": 7632,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3837
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 7633,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 302,
+    "popupText": "威力アップ・対 子供のサーヴァント以外",
+    "categoryId": 10205
+  },
+  {
+    "vals": [
+      1433
+    ],
+    "tvals": [
+      -2667
+    ],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 7634,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 8,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
       6036
     ],
     "tvals": [],
@@ -128276,6 +128443,70 @@
     "popupIconId": 525,
     "popupText": "混乱",
     "categoryId": 0
+  },
+  {
+    "vals": [
+      183
+    ],
+    "tvals": [
+      -3045
+    ],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 1,
+    "id": 7638,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 512,
+    "popupText": "宝具封印",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      182
+    ],
+    "tvals": [
+      -3045,
+      -3020
+    ],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 1,
+    "id": 7639,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 511,
+    "popupText": "スキル封印",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      227
+    ],
+    "tvals": [
+      2667
+    ],
+    "questTvals": [],
+    "effectList": [
+      330
+    ],
+    "popupTextColor": 2,
+    "id": 7640,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 336,
+    "popupText": "オーバーチャージ段階UP",
+    "categoryId": 10605
   },
   {
     "vals": [
