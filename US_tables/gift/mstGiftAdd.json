@@ -1,6 +1,42 @@
 [
   {
     "priorGiftIconIds": [
+      30,
+      0
+    ],
+    "giftId": 40937,
+    "condType": 68,
+    "targetId": 80119,
+    "targetNum": 500000,
+    "priorGiftId": 94042556,
+    "script": "{}"
+  },
+  {
+    "priorGiftIconIds": [
+      29,
+      0
+    ],
+    "giftId": 40938,
+    "condType": 68,
+    "targetId": 80119,
+    "targetNum": 700000,
+    "priorGiftId": 94042555,
+    "script": "{}"
+  },
+  {
+    "priorGiftIconIds": [
+      28,
+      0
+    ],
+    "giftId": 40939,
+    "condType": 68,
+    "targetId": 80119,
+    "targetNum": 1000000,
+    "priorGiftId": 94042554,
+    "script": "{}"
+  },
+  {
+    "priorGiftIconIds": [
       19,
       0
     ],
@@ -249,6 +285,18 @@
     "targetId": 94029002,
     "targetNum": 1,
     "priorGiftId": 94040947,
+    "script": "{}"
+  },
+  {
+    "priorGiftIconIds": [
+      19,
+      0
+    ],
+    "giftId": 94042544,
+    "condType": 1,
+    "targetId": 94030112,
+    "targetNum": 1,
+    "priorGiftId": 94042549,
     "script": "{}"
   }
 ]

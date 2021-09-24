@@ -26582,6 +26582,83 @@
   },
   {
     "vals": [],
+    "tvals": [
+      5000,
+      4003
+    ],
+    "ckSelfIndv": [
+      4003
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1881,
+    "buffGroup": 0,
+    "type": 135,
+    "name": "Quick ATK Strength Up",
+    "detail": "Increase Quick ATK Strength",
+    "iconId": 356,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4001
+    ],
+    "ckSelfIndv": [
+      4001
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1882,
+    "buffGroup": 0,
+    "type": 135,
+    "name": "Arts ATK Strength Up",
+    "detail": "Increase Arts ATK Strength",
+    "iconId": 357,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4002
+    ],
+    "ckSelfIndv": [
+      4002
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1883,
+    "buffGroup": 0,
+    "type": 135,
+    "name": "Buster ATK Strength Up",
+    "detail": "Increase Buster ATK Strength",
+    "iconId": 358,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1886,
+    "buffGroup": 0,
+    "type": 89,
+    "name": "Activate when Attacking (NP Loss)",
+    "detail": "Decrease NP Gauge for a single enemy during your normal attacks",
+    "iconId": 528,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
     "tvals": [],
     "ckSelfIndv": [],
     "ckOpIndv": [],
@@ -29488,6 +29565,21 @@
     "name": "Have a Heart of Romance",
     "detail": "Increase Critical Hit damage",
     "iconId": 324,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2531,
+    "buffGroup": 0,
+    "type": 9,
+    "name": "Shining Magifender Power",
+    "detail": "Increase ATK in \"Revival: The Land of Mystique, Oniland! - Lite\"",
+    "iconId": 300,
     "maxRate": 5000,
     "effectId": 0
   },

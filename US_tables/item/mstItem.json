@@ -2555,6 +2555,26 @@
   },
   {
     "individuality": [],
+    "script": {},
+    "eventId": 0,
+    "eventGroupId": 0,
+    "id": 10026,
+    "name": "Exchange Ticket (OCT 2021)",
+    "detail": "Can be exchanged for one Eternal Ice, Refined Magatama, or Dragon Fang.",
+    "imageId": 10000,
+    "bgImageId": 2,
+    "type": 24,
+    "unit": "",
+    "value": 0,
+    "sellQp": -1,
+    "isSell": false,
+    "priority": 200,
+    "dropPriority": 9001,
+    "startedAt": 1443657600,
+    "endedAt": 1643673599
+  },
+  {
+    "individuality": [],
     "script": {
       "GLOBAL_THANKSGIVING": 1
     },
@@ -13298,6 +13318,94 @@
     "dropPriority": 2001,
     "startedAt": 1570039200,
     "endedAt": 1571230799
+  },
+  {
+    "individuality": [
+      10460
+    ],
+    "script": {},
+    "eventId": 0,
+    "eventGroupId": 0,
+    "id": 94042501,
+    "name": "Skull Corn",
+    "detail": "\"Event Item\"\nCaramel popcorn acquired from \"Revival: The Land of Mystique, Oniland! - Lite\"\n\nThe popcorn seems to be skull-shaped.",
+    "imageId": 94030101,
+    "bgImageId": 1,
+    "type": 15,
+    "unit": "",
+    "value": 0,
+    "sellQp": -1,
+    "isSell": false,
+    "priority": 94041901,
+    "dropPriority": 2001,
+    "startedAt": 1632456000,
+    "endedAt": 1634270399
+  },
+  {
+    "individuality": [
+      10461
+    ],
+    "script": {},
+    "eventId": 0,
+    "eventGroupId": 0,
+    "id": 94042502,
+    "name": "Kanabou Churro",
+    "detail": "\"Event Item\"\nChocolate-coated churro acquired from \"Revival: The Land of Mystique, Oniland! - Lite\"\n\nThe crushed nuts make it look like the spiky war club that oni carry.",
+    "imageId": 94030102,
+    "bgImageId": 2,
+    "type": 15,
+    "unit": "",
+    "value": 0,
+    "sellQp": -1,
+    "isSell": false,
+    "priority": 94041902,
+    "dropPriority": 2002,
+    "startedAt": 1632456000,
+    "endedAt": 1634270399
+  },
+  {
+    "individuality": [
+      10462
+    ],
+    "script": {},
+    "eventId": 0,
+    "eventGroupId": 0,
+    "id": 94042503,
+    "name": "Mallet Sundae",
+    "detail": "\"Event Item\"\nIce cream sundae acquired from \"Revival: The Land of Mystique, Oniland! - Lite\"\n\nEating the popular mallet-shaped cookie is said to shatter misfortune and remake it into good luck.",
+    "imageId": 94030103,
+    "bgImageId": 3,
+    "type": 15,
+    "unit": "",
+    "value": 0,
+    "sellQp": -1,
+    "isSell": false,
+    "priority": 94041903,
+    "dropPriority": 2003,
+    "startedAt": 1632456000,
+    "endedAt": 1634270399
+  },
+  {
+    "individuality": [
+      10463
+    ],
+    "script": {},
+    "eventId": 0,
+    "eventGroupId": 0,
+    "id": 94042504,
+    "name": "Magifender Points",
+    "detail": "\"Event Point\"\nThe power of those who cheer for the Magifender Girls, acquired from \"Revival: The Land of Mystique, Oniland! - Lite\"",
+    "imageId": 94030104,
+    "bgImageId": 2,
+    "type": 14,
+    "unit": "",
+    "value": 0,
+    "sellQp": -1,
+    "isSell": false,
+    "priority": 94041904,
+    "dropPriority": 3004,
+    "startedAt": 1632456000,
+    "endedAt": 1634270399
   },
   {
     "individuality": [],

@@ -51818,7 +51818,7 @@
     "id": 3023,
     "cond": 0,
     "funcType": 111,
-    "targetType": 0,
+    "targetType": 7,
     "applyTarget": 3,
     "popupIconId": 0,
     "popupText": "None",
@@ -51895,7 +51895,7 @@
     "id": 3028,
     "cond": 0,
     "funcType": 111,
-    "targetType": 0,
+    "targetType": 7,
     "applyTarget": 3,
     "popupIconId": 0,
     "popupText": "None",
@@ -51912,7 +51912,7 @@
     "id": 3029,
     "cond": 0,
     "funcType": 111,
-    "targetType": 0,
+    "targetType": 7,
     "applyTarget": 3,
     "popupIconId": 0,
     "popupText": "None",
@@ -66553,7 +66553,7 @@
     "id": 3848,
     "cond": 0,
     "funcType": 111,
-    "targetType": 0,
+    "targetType": 7,
     "applyTarget": 3,
     "popupIconId": 0,
     "popupText": "None",
@@ -66585,7 +66585,7 @@
     "id": 3850,
     "cond": 0,
     "funcType": 111,
-    "targetType": 0,
+    "targetType": 7,
     "applyTarget": 3,
     "popupIconId": 0,
     "popupText": "None",
@@ -67619,7 +67619,7 @@
     "id": 3905,
     "cond": 0,
     "funcType": 111,
-    "targetType": 0,
+    "targetType": 7,
     "applyTarget": 3,
     "popupIconId": 0,
     "popupText": "None",
@@ -70375,6 +70375,197 @@
     "popupIconId": 0,
     "popupText": "",
     "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 4063,
+    "cond": 0,
+    "funcType": 105,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "None",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 4064,
+    "cond": 0,
+    "funcType": 105,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "None",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 4065,
+    "cond": 0,
+    "funcType": 105,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "None",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 4066,
+    "cond": 0,
+    "funcType": 107,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "None",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [
+      94000094
+    ],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 4067,
+    "cond": 0,
+    "funcType": 7,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 0,
+    "popupText": "NP Gain",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1881
+    ],
+    "tvals": [],
+    "questTvals": [
+      94000093
+    ],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 4068,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 356,
+    "popupText": "Strength Up: Quick",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1882
+    ],
+    "tvals": [],
+    "questTvals": [
+      94000093
+    ],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 4069,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 357,
+    "popupText": "Strength Up: Arts",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1883
+    ],
+    "tvals": [],
+    "questTvals": [
+      94000093
+    ],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 4070,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 358,
+    "popupText": "Strength Up: Buster",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 4071,
+    "cond": 0,
+    "funcType": 111,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "None",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 4072,
+    "cond": 0,
+    "funcType": 111,
+    "targetType": 7,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "None",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1886
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 4083,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 528,
+    "popupText": "Activate when Attacking (NP Loss)",
+    "categoryId": 59899
   },
   {
     "vals": [
@@ -75077,6 +75268,27 @@
     "applyTarget": 1,
     "popupIconId": 323,
     "popupText": "Target Focus\nUp",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2531
+    ],
+    "tvals": [],
+    "questTvals": [
+      94000093
+    ],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 4768,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 300,
+    "popupText": "Shining Magifender Power",
     "categoryId": 0
   },
   {
