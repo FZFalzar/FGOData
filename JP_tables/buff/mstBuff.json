@@ -52617,6 +52617,108 @@
   },
   {
     "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3847,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "ドロップ：レッドポーション",
+    "detail": "HPが0になった時、敵単体のHPを回復する【デメリット】",
+    "iconId": 543,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3848,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "ドロップ：ブルーポーション",
+    "detail": "HPが0になった時、敵単体のNPを増やす【デメリット】",
+    "iconId": 543,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3849,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "ドロップ：イエローポーション",
+    "detail": "HPが0になった時、敵単体にスター獲得効果を付与する【デメリット】",
+    "iconId": 543,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3850,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "ドロップ：エリートポーション",
+    "detail": "HPが0になった時、敵単体の宝具耐性をアップ【デメリット】",
+    "iconId": 543,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3851,
+    "buffGroup": 0,
+    "type": 149,
+    "name": "ガッツ時発動(強化)",
+    "detail": "ガッツ発動時、自身のNPが増える＆攻撃力をアップ＆与えるダメージをアップ＆宝具威力をアップ",
+    "iconId": 365,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3023
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3852,
+    "buffGroup": 700,
+    "type": 38,
+    "name": "タゲ集中アップ",
+    "detail": "敵からの狙われやすさをアップ",
+    "iconId": 323,
+    "maxRate": 50000,
+    "effectId": 0
+  },
+  {
+    "vals": [
       3004,
       3006
     ],
