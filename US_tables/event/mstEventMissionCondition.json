@@ -53715,6 +53715,139 @@
   },
   {
     "targetIds": [
+      2001562,
+      2001563,
+      2001564,
+      2001565,
+      2001566,
+      2001567
+    ],
+    "missionId": 2001561,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001292,
+    "missionTargetId": 100226,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 6,
+    "conditionMessage": "Complete all of this week's Master Missions",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001248
+    ],
+    "missionId": 2001562,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001293,
+    "missionTargetId": 100226,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 3,
+    "conditionMessage": "Defeat 3 Saber, Lancer, or Archer-class Servants",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001249
+    ],
+    "missionId": 2001563,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001294,
+    "missionTargetId": 100226,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 3,
+    "conditionMessage": "Defeat 3 Rider, Caster, Assassin, or Berserker-class Servants",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001250
+    ],
+    "missionId": 2001564,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001295,
+    "missionTargetId": 100226,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 20,
+    "conditionMessage": "Defeat 20 enemies (excluding Servants and certain bosses)",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001564
+    ],
+    "missionId": 2001565,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 2001296,
+    "missionTargetId": 100226,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 1,
+    "conditionMessage": "Defeat 40 enemies (excluding Servants and certain bosses)",
+    "closedMessage": "",
+    "flag": 64
+  },
+  {
+    "targetIds": [
+      2001250
+    ],
+    "missionId": 2001565,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001297,
+    "missionTargetId": 100226,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 40,
+    "conditionMessage": "Defeat 40 enemies (excluding Servants and certain bosses)",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001251
+    ],
+    "missionId": 2001566,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001298,
+    "missionTargetId": 100226,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "Defeat 15 \"Humanoid\" enemies",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001252
+    ],
+    "missionId": 2001567,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001299,
+    "missionTargetId": 100226,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 5,
+    "conditionMessage": "Put one or more Caster-class Servants in your Party and complete any quest(s) 5 times",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
       94011901
     ],
     "missionId": 80054001,
