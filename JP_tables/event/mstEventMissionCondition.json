@@ -75133,6 +75133,139 @@
   },
   {
     "targetIds": [
+      2001891,
+      2001892,
+      2001893,
+      2001894,
+      2001895,
+      2001896
+    ],
+    "missionId": 2001890,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2002161,
+    "missionTargetId": 100273,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 6,
+    "conditionMessage": "今週のマスターミッションをすべてクリアせよ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001429
+    ],
+    "missionId": 2001891,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2002162,
+    "missionTargetId": 100273,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 20,
+    "conditionMessage": "敵を20体倒せ(サーヴァント及び一部ボスなどは除く)",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001891
+    ],
+    "missionId": 2001892,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 2002163,
+    "missionTargetId": 100273,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 1,
+    "conditionMessage": "敵を40体倒せ(サーヴァント及び一部ボスなどは除く)",
+    "closedMessage": "",
+    "flag": 64
+  },
+  {
+    "targetIds": [
+      2001429
+    ],
+    "missionId": 2001892,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2002164,
+    "missionTargetId": 100273,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 40,
+    "conditionMessage": "敵を40体倒せ(サーヴァント及び一部ボスなどは除く)",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001430
+    ],
+    "missionId": 2001893,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2002165,
+    "missionTargetId": 100273,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "『天』の力を持つ敵を15体倒せ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001431
+    ],
+    "missionId": 2001894,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2002166,
+    "missionTargetId": 100273,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "『地』の力を持つ敵を15体倒せ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001432
+    ],
+    "missionId": 2001895,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2002167,
+    "missionTargetId": 100273,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "『人』の力を持つ敵を15体倒せ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001433
+    ],
+    "missionId": 2001896,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2002168,
+    "missionTargetId": 100273,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 3,
+    "conditionMessage": "戦利品で「輝石」「魔石」「秘石」「ピース」「モニュメント」をどれか3個獲得せよ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
       8031002,
       8031003,
       8031004,
