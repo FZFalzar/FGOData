@@ -17604,6 +17604,39 @@
       10
     ],
     "targetIds": [
+      601800
+    ],
+    "script": {},
+    "id": 4000396,
+    "baseShopId": 4000216,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 878,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Mysterious Heroine X",
+    "detail": "Exchange for Limited Time ★5 Servant",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1634097600,
+    "closedAt": 1635739199
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
       602500
     ],
     "script": {},
@@ -36241,6 +36274,39 @@
     "bgImageId": 0,
     "openedAt": 1628985600,
     "closedAt": 1631663999
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      3
+    ],
+    "targetIds": [
+      94029501
+    ],
+    "script": {},
+    "id": 6000337,
+    "baseShopId": 6000337,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 256,
+    "priority": 62,
+    "purchaseType": 6,
+    "setNum": 0,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Craft Essence Recollection Quest",
+    "detail": "Unlocks Craft Essence Recollection Quest",
+    "infoMessage": "Unlocks Craft Essence Acquisition Quest",
+    "warningMessage": "Cannot be exchanged (quest already cleared).",
+    "imageId": 80254,
+    "bgImageId": 0,
+    "openedAt": 1635134400,
+    "closedAt": 1901231999
   },
   {
     "itemIds": [
