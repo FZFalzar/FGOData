@@ -8366,6 +8366,23 @@
   },
   {
     "individuality": [
+      3001,
+      4003,
+      4007
+    ],
+    "script": {},
+    "id": 203701,
+    "seqId": 203700,
+    "name": "Space Dead Man's Hand",
+    "ruby": " ",
+    "rank": "D",
+    "maxLv": 5,
+    "typeText": "Anti-Personnel",
+    "attackAttri": 1,
+    "effectFlag": 2
+  },
+  {
+    "individuality": [
       3000,
       4003,
       4007
@@ -13755,6 +13772,255 @@
       4001,
       4007
     ],
+    "script": {
+      "tdTypeChangeIDs": [
+        1100901,
+        1100997,
+        1100998
+      ],
+      "randomSeqIds_11": [
+        1100930,
+        1100931,
+        1100932
+      ],
+      "randomWeights_1": [
+        34,
+        33,
+        33
+      ],
+      "randomWeights_2": [
+        34,
+        33,
+        33
+      ],
+      "randomWeights": [
+        34,
+        33,
+        33
+      ],
+      "randomSeqIds_2": [
+        1100910,
+        1100911,
+        1100912
+      ],
+      "randomWeights_3": [
+        34,
+        33,
+        33
+      ],
+      "randomWeights_11": [
+        34,
+        33,
+        33
+      ],
+      "randomSeqIds_1": [
+        1100910,
+        1100911,
+        1100912
+      ],
+      "randomSeqIds_3": [
+        1100920,
+        1100921,
+        1100922
+      ],
+      "randomSeqIds_4": [
+        1100920,
+        1100921,
+        1100922
+      ],
+      "randomSeqIds": [
+        1100900,
+        1100901,
+        1100902
+      ],
+      "randomWeights_4": [
+        34,
+        33,
+        33
+      ]
+    },
+    "id": 1100901,
+    "seqId": 1100900,
+    "name": "Edin Shugurra Quasar",
+    "ruby": " ",
+    "rank": "EX",
+    "maxLv": 5,
+    "typeText": "Anti-Planet",
+    "attackAttri": 1,
+    "effectFlag": 1
+  },
+  {
+    "individuality": [
+      3002,
+      4002,
+      4007
+    ],
+    "script": {
+      "tdTypeChangeIDs": [
+        1100901,
+        1100997,
+        1100998
+      ],
+      "randomSeqIds_11": [
+        1100930,
+        1100931,
+        1100932
+      ],
+      "randomWeights_1": [
+        34,
+        33,
+        33
+      ],
+      "randomWeights_2": [
+        34,
+        33,
+        33
+      ],
+      "randomWeights": [
+        34,
+        33,
+        33
+      ],
+      "randomSeqIds_2": [
+        1100910,
+        1100911,
+        1100912
+      ],
+      "randomWeights_3": [
+        34,
+        33,
+        33
+      ],
+      "randomWeights_11": [
+        34,
+        33,
+        33
+      ],
+      "randomSeqIds_1": [
+        1100910,
+        1100911,
+        1100912
+      ],
+      "randomSeqIds_3": [
+        1100920,
+        1100921,
+        1100922
+      ],
+      "randomSeqIds_4": [
+        1100920,
+        1100921,
+        1100922
+      ],
+      "randomSeqIds": [
+        1100900,
+        1100901,
+        1100902
+      ],
+      "randomWeights_4": [
+        34,
+        33,
+        33
+      ]
+    },
+    "id": 1100997,
+    "seqId": 1100900,
+    "name": "Edin Shugurra Quasar",
+    "ruby": " ",
+    "rank": "EX",
+    "maxLv": 5,
+    "typeText": "Anti-Planet",
+    "attackAttri": 1,
+    "effectFlag": 1
+  },
+  {
+    "individuality": [
+      3002,
+      4003,
+      4007
+    ],
+    "script": {
+      "tdTypeChangeIDs": [
+        1100901,
+        1100997,
+        1100998
+      ],
+      "randomSeqIds_11": [
+        1100930,
+        1100931,
+        1100932
+      ],
+      "randomWeights_1": [
+        34,
+        33,
+        33
+      ],
+      "randomWeights_2": [
+        34,
+        33,
+        33
+      ],
+      "randomWeights": [
+        34,
+        33,
+        33
+      ],
+      "randomSeqIds_2": [
+        1100910,
+        1100911,
+        1100912
+      ],
+      "randomWeights_3": [
+        34,
+        33,
+        33
+      ],
+      "randomWeights_11": [
+        34,
+        33,
+        33
+      ],
+      "randomSeqIds_1": [
+        1100910,
+        1100911,
+        1100912
+      ],
+      "randomSeqIds_3": [
+        1100920,
+        1100921,
+        1100922
+      ],
+      "randomSeqIds_4": [
+        1100920,
+        1100921,
+        1100922
+      ],
+      "randomSeqIds": [
+        1100900,
+        1100901,
+        1100902
+      ],
+      "randomWeights_4": [
+        34,
+        33,
+        33
+      ]
+    },
+    "id": 1100998,
+    "seqId": 1100900,
+    "name": "Edin Shugurra Quasar",
+    "ruby": " ",
+    "rank": "EX",
+    "maxLv": 5,
+    "typeText": "Anti-Planet",
+    "attackAttri": 1,
+    "effectFlag": 1
+  },
+  {
+    "individuality": [
+      3002,
+      4001,
+      4007
+    ],
     "script": {},
     "id": 1700101,
     "seqId": 1700100,
@@ -15198,6 +15464,122 @@
     "rank": "A++",
     "maxLv": 5,
     "typeText": "Anti-World",
+    "attackAttri": 1,
+    "effectFlag": 1
+  },
+  {
+    "individuality": [
+      3002,
+      4001,
+      4007
+    ],
+    "script": {
+      "tdTypeChangeIDs": [
+        9942341,
+        9942437,
+        9942438
+      ],
+      "randomSeqIds": [
+        9942340,
+        9942341,
+        9942342
+      ],
+      "randomWeights": [
+        34,
+        33,
+        33
+      ]
+    },
+    "id": 9942341,
+    "seqId": 9942340,
+    "name": "Edin Shugurra Quasar",
+    "ruby": " ",
+    "rank": "EX",
+    "maxLv": 5,
+    "typeText": "Anti-Planet",
+    "attackAttri": 1,
+    "effectFlag": 1
+  },
+  {
+    "individuality": [
+      3000,
+      4003,
+      4007
+    ],
+    "script": {},
+    "id": 9942411,
+    "seqId": 9942410,
+    "name": "Napping in the Dazzling Sunshine and Feasting",
+    "ruby": " ",
+    "rank": "D",
+    "maxLv": 5,
+    "typeText": "Anti-Personnel",
+    "attackAttri": 1,
+    "effectFlag": 1
+  },
+  {
+    "individuality": [
+      3002,
+      4002,
+      4007
+    ],
+    "script": {
+      "tdTypeChangeIDs": [
+        9942341,
+        9942437,
+        9942438
+      ],
+      "randomSeqIds": [
+        9942340,
+        9942341,
+        9942342
+      ],
+      "randomWeights": [
+        34,
+        33,
+        33
+      ]
+    },
+    "id": 9942437,
+    "seqId": 9942340,
+    "name": "Edin Shugurra Quasar",
+    "ruby": " ",
+    "rank": "EX",
+    "maxLv": 5,
+    "typeText": "Anti-Planet",
+    "attackAttri": 1,
+    "effectFlag": 1
+  },
+  {
+    "individuality": [
+      3002,
+      4003,
+      4007
+    ],
+    "script": {
+      "tdTypeChangeIDs": [
+        9942341,
+        9942437,
+        9942438
+      ],
+      "randomSeqIds": [
+        9942340,
+        9942341,
+        9942342
+      ],
+      "randomWeights": [
+        34,
+        33,
+        33
+      ]
+    },
+    "id": 9942438,
+    "seqId": 9942340,
+    "name": "Edin Shugurra Quasar",
+    "ruby": " ",
+    "rank": "EX",
+    "maxLv": 5,
+    "typeText": "Anti-Planet",
     "attackAttri": 1,
     "effectFlag": 1
   }

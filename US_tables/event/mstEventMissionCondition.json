@@ -15984,7 +15984,9 @@
       91300802,
       91600502,
       91900202,
-      91303001
+      91303001,
+      91601804,
+      94041930
     ],
     "missionId": 10023,
     "missionProgressType": 4,
@@ -16221,7 +16223,9 @@
       91300802,
       91600502,
       91900202,
-      91303001
+      91303001,
+      91601804,
+      94041930
     ],
     "missionId": 10024,
     "missionProgressType": 4,
@@ -16458,7 +16462,9 @@
       91300802,
       91600502,
       91900202,
-      91303001
+      91303001,
+      91601804,
+      94041930
     ],
     "missionId": 10025,
     "missionProgressType": 4,
@@ -16695,7 +16701,9 @@
       91300802,
       91600502,
       91900202,
-      91303001
+      91303001,
+      91601804,
+      94041930
     ],
     "missionId": 10026,
     "missionProgressType": 4,
@@ -16932,7 +16940,9 @@
       91300802,
       91600502,
       91900202,
-      91303001
+      91303001,
+      91601804,
+      94041930
     ],
     "missionId": 10027,
     "missionProgressType": 4,
@@ -17169,7 +17179,9 @@
       91300802,
       91600502,
       91900202,
-      91303001
+      91303001,
+      91601804,
+      94041930
     ],
     "missionId": 10028,
     "missionProgressType": 4,
@@ -17406,7 +17418,9 @@
       91300802,
       91600502,
       91900202,
-      91303001
+      91303001,
+      91601804,
+      94041930
     ],
     "missionId": 10029,
     "missionProgressType": 4,
@@ -17643,7 +17657,9 @@
       91300802,
       91600502,
       91900202,
-      91303001
+      91303001,
+      91601804,
+      94041930
     ],
     "missionId": 10030,
     "missionProgressType": 4,
@@ -17880,7 +17896,9 @@
       91300802,
       91600502,
       91900202,
-      91303001
+      91303001,
+      91601804,
+      94041930
     ],
     "missionId": 10031,
     "missionProgressType": 4,
@@ -18117,7 +18135,9 @@
       91300802,
       91600502,
       91900202,
-      91303001
+      91303001,
+      91601804,
+      94041930
     ],
     "missionId": 10032,
     "missionProgressType": 4,
@@ -18354,7 +18374,9 @@
       91300802,
       91600502,
       91900202,
-      91303001
+      91303001,
+      91601804,
+      94041930
     ],
     "missionId": 10033,
     "missionProgressType": 4,
@@ -18591,7 +18613,9 @@
       91300802,
       91600502,
       91900202,
-      91303001
+      91303001,
+      91601804,
+      94041930
     ],
     "missionId": 10034,
     "missionProgressType": 4,
@@ -18828,7 +18852,9 @@
       91300802,
       91600502,
       91900202,
-      91303001
+      91303001,
+      91601804,
+      94041930
     ],
     "missionId": 10035,
     "missionProgressType": 4,
@@ -19065,7 +19091,9 @@
       91300802,
       91600502,
       91900202,
-      91303001
+      91303001,
+      91601804,
+      94041930
     ],
     "missionId": 10036,
     "missionProgressType": 4,
@@ -19302,7 +19330,9 @@
       91300802,
       91600502,
       91900202,
-      91303001
+      91303001,
+      91601804,
+      94041930
     ],
     "missionId": 10037,
     "missionProgressType": 4,
@@ -19539,7 +19569,9 @@
       91300802,
       91600502,
       91900202,
-      91303001
+      91303001,
+      91601804,
+      94041930
     ],
     "missionId": 10038,
     "missionProgressType": 4,
@@ -19776,7 +19808,9 @@
       91300802,
       91600502,
       91900202,
-      91303001
+      91303001,
+      91601804,
+      94041930
     ],
     "missionId": 10039,
     "missionProgressType": 4,
@@ -20013,7 +20047,9 @@
       91300802,
       91600502,
       91900202,
-      91303001
+      91303001,
+      91601804,
+      94041930
     ],
     "missionId": 10040,
     "missionProgressType": 4,
@@ -20250,7 +20286,9 @@
       91300802,
       91600502,
       91900202,
-      91303001
+      91303001,
+      91601804,
+      94041930
     ],
     "missionId": 10041,
     "missionProgressType": 4,
@@ -105429,6 +105467,3934 @@
     "condType": 23,
     "targetNum": 99,
     "conditionMessage": "Complete all missions",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94041903
+    ],
+    "missionId": 80260001,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260001,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 46,
+    "targetNum": 1,
+    "conditionMessage": "Complete node 1 of \"Texas Beyond II\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260018
+    ],
+    "missionId": 80260002,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260002,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94041965,
+      94041966,
+      94041967,
+      94041968,
+      94041969,
+      94041970,
+      94041971,
+      94041972,
+      94041973,
+      94041974,
+      94041960,
+      94041961,
+      94041962,
+      94041963
+    ],
+    "missionId": 80260002,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260003,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 5,
+    "conditionMessage": "Complete 5 Bounty Quests",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260038
+    ],
+    "missionId": 80260003,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260004,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???\n[Completing this mission will unlock Bounty Hunt \"Edgy Fett\"]\n※Unlocks after completing No.38 \"Defeat 40 Saber-class enemies\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94041967,
+      94041970,
+      94041974
+    ],
+    "missionId": 80260003,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260005,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 3,
+    "conditionMessage": "Capture bounties \"Absolute Justice Saint Martha\", \"Cutest Good Wife CosTamamo\", and \"Solitary Okita\"\n[Unlocks Edgy Fett]",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260020
+    ],
+    "missionId": 80260004,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260006,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94041961
+    ],
+    "missionId": 80260004,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260007,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "Bounty hunt \"Space Cat\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260029
+    ],
+    "missionId": 80260005,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260008,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94041963
+    ],
+    "missionId": 80260005,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260009,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "Bounty hunt \"King Elly-chan\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260033
+    ],
+    "missionId": 80260006,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260010,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94041962
+    ],
+    "missionId": 80260006,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260011,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "Bounty hunt \"Space Toshizo\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260003
+    ],
+    "missionId": 80260007,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260012,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94041960
+    ],
+    "missionId": 80260007,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260013,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "Bounty hunt \"Edgy Fett\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94041916
+    ],
+    "missionId": 80260008,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260014,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94041965,
+      94041966,
+      94041967,
+      94041968,
+      94041969,
+      94041970,
+      94041971,
+      94041972,
+      94041973,
+      94041974,
+      94041960,
+      94041961,
+      94041962,
+      94041963
+    ],
+    "missionId": 80260008,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260015,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 13,
+    "conditionMessage": "Complete 13 out of 15 Bounty Quests",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260001
+    ],
+    "missionId": 80260009,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260016,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260003
+    ],
+    "missionId": 80260009,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260017,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 5,
+    "conditionMessage": "Defeat 5 \"Ruffian\" type enemies",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94041905
+    ],
+    "missionId": 80260010,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260018,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260003
+    ],
+    "missionId": 80260010,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260019,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 10,
+    "conditionMessage": "Defeat 10 \"Ruffian\" type enemies\n[Unlocks Bounty Hunt \"Space Rice Balls\"]\n[Unlocks Bounty \"Skull Keeper\"]\n[Unlocks Bounty \"Absolute Justice Saint Martha\"]",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260010
+    ],
+    "missionId": 80260011,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260020,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260003
+    ],
+    "missionId": 80260011,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260021,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 40,
+    "conditionMessage": "Defeat 40 \"Ruffian\" type enemies",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260001
+    ],
+    "missionId": 80260012,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260022,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260007
+    ],
+    "missionId": 80260012,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260023,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 25,
+    "conditionMessage": "Defeat 25 \"Humanoid\" enemies\n[Unlocks \"Texas Beyond III\"]",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260012
+    ],
+    "missionId": 80260013,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260024,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260007
+    ],
+    "missionId": 80260013,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260025,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 50,
+    "conditionMessage": "Defeat 50 \"Humanoid\" enemies",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94041981
+    ],
+    "missionId": 80260014,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260026,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260007
+    ],
+    "missionId": 80260014,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260027,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 100,
+    "conditionMessage": "Defeat 100 \"Humanoid\" enemies\n[Unlocks \"Secret Fortress Death Csejte\"]",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260014
+    ],
+    "missionId": 80260015,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260028,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260007
+    ],
+    "missionId": 80260015,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260029,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 150,
+    "conditionMessage": "Defeat 150 \"Humanoid\" enemies",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94041907
+    ],
+    "missionId": 80260016,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260030,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260012
+    ],
+    "missionId": 80260016,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260031,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 20,
+    "conditionMessage": "Defeat 20 enemies with the Human attribute\n[Unlocks Bounty Hunt \"Kaiser Origin\"]",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94041968
+    ],
+    "missionId": 80260017,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260032,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260012
+    ],
+    "missionId": 80260017,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260033,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 40,
+    "conditionMessage": "Defeat 40 enemies with the Human attribute\n[Unlocks Bounty Hunt \"Space Phantom Thief Twin Pirates\"]",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260017
+    ],
+    "missionId": 80260018,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260034,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260012
+    ],
+    "missionId": 80260018,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260035,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 60,
+    "conditionMessage": "Defeat 60 enemies with the Human attribute",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260018
+    ],
+    "missionId": 80260019,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260036,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260012
+    ],
+    "missionId": 80260019,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260037,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 80,
+    "conditionMessage": "Defeat 80 enemies with the Human attribute",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94041909
+    ],
+    "missionId": 80260020,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260038,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260018
+    ],
+    "missionId": 80260020,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260039,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 20,
+    "conditionMessage": "Defeat 20 enemies with the Earth attribute\n[Unlocks Bounty Hunt \"Cutest Good Wife CosTamamo\"]\n[Unlocks Bounty Hunt \"Space Cat\"]",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94041910
+    ],
+    "missionId": 80260021,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260040,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???\n[Completing this mission will unlock \"Queen's High School II\"]\n※Unlocks after completing No.20 \"Defeat 20 enemies with the Earth attribute\"\n[Unlocks Bounty Hunt \"Cutest Good Wife CosTamamo\"]\n[Unlocks Bounty Hunt \"Space Cat\"]",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260018
+    ],
+    "missionId": 80260021,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260041,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 40,
+    "conditionMessage": "Defeat 40 enemies with the Earth attribute\n[Unlocks \"Queen's High School II\"]",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260021
+    ],
+    "missionId": 80260022,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260042,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260018
+    ],
+    "missionId": 80260022,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260043,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 60,
+    "conditionMessage": "Defeat 60 enemies with the Earth attribute",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260022
+    ],
+    "missionId": 80260023,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260044,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260018
+    ],
+    "missionId": 80260023,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260045,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 80,
+    "conditionMessage": "Defeat 80 enemies with the Earth attribute",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94041911
+    ],
+    "missionId": 80260024,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260046,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260004
+    ],
+    "missionId": 80260024,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260047,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 20,
+    "conditionMessage": "Defeat 20 enemies with the Heaven attribute\n[Unlocks Bounty Hunt \"Teacher Baobei\"]\n[Unlocks Bounty Hunt \"Abby the Prankster\"]",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260024
+    ],
+    "missionId": 80260025,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260048,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260004
+    ],
+    "missionId": 80260025,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260049,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 40,
+    "conditionMessage": "Defeat 40 enemies with the Heaven attribute",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260025
+    ],
+    "missionId": 80260026,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260050,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260004
+    ],
+    "missionId": 80260026,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260051,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 60,
+    "conditionMessage": "Defeat 60 enemies with the Heaven attribute",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260026
+    ],
+    "missionId": 80260027,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260052,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260004
+    ],
+    "missionId": 80260027,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260053,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 80,
+    "conditionMessage": "Defeat 80 enemies with the Heaven attribute",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94041907
+    ],
+    "missionId": 80260028,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260054,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260008
+    ],
+    "missionId": 80260028,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260055,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 20,
+    "conditionMessage": "Defeat 20 \"Demonic\" enemies",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94041981
+    ],
+    "missionId": 80260029,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260056,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260008
+    ],
+    "missionId": 80260029,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260057,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 40,
+    "conditionMessage": "Defeat 40 \"Demonic\" enemies\n[Unlocks [Ultra High Difficulty] Bounty Hunt \"King Elly-chan\"]",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94041911
+    ],
+    "missionId": 80260030,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260058,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260008
+    ],
+    "missionId": 80260030,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260059,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 60,
+    "conditionMessage": "Defeat 60 \"Demonic\" enemies\n[Unlocks Training Planet Celtant]",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260030
+    ],
+    "missionId": 80260031,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260060,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260008
+    ],
+    "missionId": 80260031,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260061,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 100,
+    "conditionMessage": "Defeat 100 \"Demonic\" enemies",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94041913
+    ],
+    "missionId": 80260032,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260062,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260009
+    ],
+    "missionId": 80260032,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260063,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 10,
+    "conditionMessage": "Defeat 10 \"Super Giant\" enemies\n[Unlocks Bounty Hunt \"Poisonous Cooking Master\"]\n[Unlocks Bounty Hunt \"Solitary Okita\"]",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94041973
+    ],
+    "missionId": 80260033,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260064,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260009
+    ],
+    "missionId": 80260033,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260065,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "Defeat 15 \"Super Giant\" enemies\n[Unlocks Bounty Hunt \"Space Toshizo\"]",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260033
+    ],
+    "missionId": 80260034,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260066,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260009
+    ],
+    "missionId": 80260034,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260067,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 20,
+    "conditionMessage": "Defeat 20 \"Super Giant\" enemies",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260001
+    ],
+    "missionId": 80260035,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260068,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260010
+    ],
+    "missionId": 80260035,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260069,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 10,
+    "conditionMessage": "Defeat 10 Saber-class enemies",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94041907
+    ],
+    "missionId": 80260036,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260070,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260010
+    ],
+    "missionId": 80260036,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260071,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 20,
+    "conditionMessage": "Defeat 20 Saber-class enemies",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94041911
+    ],
+    "missionId": 80260037,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260072,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260010
+    ],
+    "missionId": 80260037,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260073,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 30,
+    "conditionMessage": "Defeat 30 Saber-class enemies",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94041914
+    ],
+    "missionId": 80260038,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260074,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260010
+    ],
+    "missionId": 80260038,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260075,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 40,
+    "conditionMessage": "Defeat 40 Saber-class enemies",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260038
+    ],
+    "missionId": 80260039,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260076,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260010
+    ],
+    "missionId": 80260039,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260077,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 50,
+    "conditionMessage": "Defeat 50 Saber-class enemies",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260039
+    ],
+    "missionId": 80260040,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260078,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260010
+    ],
+    "missionId": 80260040,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260079,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 60,
+    "conditionMessage": "Defeat 60 Saber-class enemies",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94041916
+    ],
+    "missionId": 80260041,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260080,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260010
+    ],
+    "missionId": 80260041,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260081,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 70,
+    "conditionMessage": "Defeat 70 Saber-class enemies\n[Unlocks \"Return of Refugee X\"]",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94041909
+    ],
+    "missionId": 80260042,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260082,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260019,
+      80260020,
+      80260006
+    ],
+    "missionId": 80260042,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260083,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 30,
+    "conditionMessage": "Defeat 30 Archer, Rider, or Caster-class enemies",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260042
+    ],
+    "missionId": 80260043,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260084,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260019,
+      80260020,
+      80260006
+    ],
+    "missionId": 80260043,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260085,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 50,
+    "conditionMessage": "Defeat 50 Archer, Rider, or Caster-class enemies",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260043
+    ],
+    "missionId": 80260044,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260086,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260019,
+      80260020,
+      80260006
+    ],
+    "missionId": 80260044,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260087,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 100,
+    "conditionMessage": "Defeat 100 Archer, Rider, or Caster-class enemies",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94041907
+    ],
+    "missionId": 80260045,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260088,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260005,
+      80260001
+    ],
+    "missionId": 80260045,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260089,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 30,
+    "conditionMessage": "Defeat 30 Assassin or Berserker-class enemies",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260045
+    ],
+    "missionId": 80260046,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260090,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260005,
+      80260001
+    ],
+    "missionId": 80260046,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260091,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 50,
+    "conditionMessage": "Defeat 50 Assassin or Berserker-class enemies",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260046
+    ],
+    "missionId": 80260047,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260092,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260005,
+      80260001
+    ],
+    "missionId": 80260047,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260093,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 100,
+    "conditionMessage": "Defeat 100 Assassin or Berserker-class enemies",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94041909
+    ],
+    "missionId": 80260048,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260094,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260011
+    ],
+    "missionId": 80260048,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260095,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 5,
+    "conditionMessage": "Defeat 5 \"Lawful\" Servants",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260048
+    ],
+    "missionId": 80260049,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260096,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260011
+    ],
+    "missionId": 80260049,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260097,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 10,
+    "conditionMessage": "Defeat 10 \"Lawful\" Servants",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260049
+    ],
+    "missionId": 80260050,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260098,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260011
+    ],
+    "missionId": 80260050,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260099,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "Defeat 15 \"Lawful\" Servants",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260050
+    ],
+    "missionId": 80260051,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260100,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260011
+    ],
+    "missionId": 80260051,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260101,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 20,
+    "conditionMessage": "Defeat 20 \"Lawful\" Servants",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94041909
+    ],
+    "missionId": 80260052,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260102,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260013
+    ],
+    "missionId": 80260052,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260103,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 5,
+    "conditionMessage": "Defeat 5 \"Good\" Servants",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260052
+    ],
+    "missionId": 80260053,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260104,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260013
+    ],
+    "missionId": 80260053,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260105,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 10,
+    "conditionMessage": "Defeat 10 \"Good\" Servants",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260053
+    ],
+    "missionId": 80260054,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260106,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260013
+    ],
+    "missionId": 80260054,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260107,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "Defeat 15 \"Good\" Servants",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260054
+    ],
+    "missionId": 80260055,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260108,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260013
+    ],
+    "missionId": 80260055,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260109,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 20,
+    "conditionMessage": "Defeat 20 \"Good\" Servants",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94041906
+    ],
+    "missionId": 80260056,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260110,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260014
+    ],
+    "missionId": 80260056,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260111,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 5,
+    "conditionMessage": "Defeat 5 Servants with STR A or Higher\n[Unlocks \"Big Blue Tank II\"]",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260056
+    ],
+    "missionId": 80260057,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260112,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260014
+    ],
+    "missionId": 80260057,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260113,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 10,
+    "conditionMessage": "Defeat 10 Servants with STR A or Higher",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94041913
+    ],
+    "missionId": 80260058,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260114,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260014
+    ],
+    "missionId": 80260058,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260115,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "Defeat 15 Servants with STR A or Higher\n[Unlocks \"Illusionary Planet Caribbean\"]",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260058
+    ],
+    "missionId": 80260059,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260116,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260014
+    ],
+    "missionId": 80260059,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260117,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 20,
+    "conditionMessage": "Defeat 20 Servants with STR A or Higher",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94041907
+    ],
+    "missionId": 80260060,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260118,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260015
+    ],
+    "missionId": 80260060,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260119,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 5,
+    "conditionMessage": "Defeat 5 Servants with END A or higher",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260060
+    ],
+    "missionId": 80260061,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260120,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260015
+    ],
+    "missionId": 80260061,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260121,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 10,
+    "conditionMessage": "Defeat 10 Servants with END A or higher",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94041914
+    ],
+    "missionId": 80260062,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260122,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260015
+    ],
+    "missionId": 80260062,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260123,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "Defeat 15 Servants with END A or higher\n[Unlocks \"Wandering Planet Alton\"]",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260062
+    ],
+    "missionId": 80260063,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260124,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260015
+    ],
+    "missionId": 80260063,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260125,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 20,
+    "conditionMessage": "Defeat 20 Servants with END A or higher",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94041908
+    ],
+    "missionId": 80260064,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260126,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260016
+    ],
+    "missionId": 80260064,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260127,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 5,
+    "conditionMessage": "Defeat 5 Servants with LUK A or higher\n[Unlocks \"Abyss Sargasso II\"]",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260064
+    ],
+    "missionId": 80260065,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260128,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260016
+    ],
+    "missionId": 80260065,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260129,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "Defeat 15 Servants with LUK A or higher",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260065
+    ],
+    "missionId": 80260066,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260130,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260016
+    ],
+    "missionId": 80260066,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260131,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 20,
+    "conditionMessage": "Defeat 20 Servants with LUK A or higher",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94041908
+    ],
+    "missionId": 80260067,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260132,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260002
+    ],
+    "missionId": 80260067,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260133,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 10,
+    "conditionMessage": "Defeat 10 \"King\" Servants",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260067
+    ],
+    "missionId": 80260068,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260134,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260002
+    ],
+    "missionId": 80260068,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260135,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "Defeat 15 \"King\" Servants",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260068
+    ],
+    "missionId": 80260069,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260136,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260002
+    ],
+    "missionId": 80260069,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260137,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 20,
+    "conditionMessage": "Defeat 20 \"King\" Servants",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260020
+    ],
+    "missionId": 80260070,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260138,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260017
+    ],
+    "missionId": 80260070,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260139,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 10,
+    "conditionMessage": "Defeat 10 \"Loved One\" Servants",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94041912
+    ],
+    "missionId": 80260071,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260140,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???\n[Completing this mission will unlock \"Green Kitchen II\"]\n※Unlocks after completing No.70 \"Defeat 10 \"Loved One\" Servants\"",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260017
+    ],
+    "missionId": 80260071,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260141,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "Defeat 15 \"Loved One\" Servants\n[Unlocks \"Green Kitchen II\"]",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260071
+    ],
+    "missionId": 80260072,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260142,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260017
+    ],
+    "missionId": 80260072,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260143,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 20,
+    "conditionMessage": "Defeat 20 \"Loved One\" Servants",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260001
+    ],
+    "missionId": 80260073,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260144,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94041902,
+      94041903,
+      94041904,
+      94041965,
+      94041966,
+      94041967,
+      94041995,
+      94042001,
+      94041916
+    ],
+    "missionId": 80260073,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260145,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 25,
+    "targetNum": 5,
+    "conditionMessage": "Complete 5 \"Texas Beyond\" Quests",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94041907
+    ],
+    "missionId": 80260074,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260146,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94041906,
+      94041907,
+      94041968,
+      94041969,
+      94041990,
+      94042002
+    ],
+    "missionId": 80260074,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260147,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 25,
+    "targetNum": 5,
+    "conditionMessage": "Complete 5 \"Big Blue Tank\" Quests",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94041909
+    ],
+    "missionId": 80260075,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260148,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94041908,
+      94041909,
+      94041961,
+      94041970,
+      94042003
+    ],
+    "missionId": 80260075,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260149,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 25,
+    "targetNum": 5,
+    "conditionMessage": "Complete 5 \"Abyss Sargasso\" Quests",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94041911
+    ],
+    "missionId": 80260076,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260150,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94041910,
+      94041911,
+      94041960,
+      94041971,
+      94041972,
+      94041992,
+      94042004
+    ],
+    "missionId": 80260076,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260151,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 25,
+    "targetNum": 5,
+    "conditionMessage": "Complete 5 \"Zenjou\" Quests",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94041913
+    ],
+    "missionId": 80260077,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260152,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94041912,
+      94041913,
+      94041962,
+      94041973,
+      94041974,
+      94041993,
+      94042005
+    ],
+    "missionId": 80260077,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260153,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 25,
+    "targetNum": 5,
+    "conditionMessage": "Complete 5 \"Green Kitchen\" Quests",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94041914
+    ],
+    "missionId": 80260078,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260154,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94041914,
+      94042006,
+      94041930
+    ],
+    "missionId": 80260078,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260155,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 25,
+    "targetNum": 5,
+    "conditionMessage": "Complete 5 \"Dark Maanna\" Quests",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260014
+    ],
+    "missionId": 80260079,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260156,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94042007
+    ],
+    "missionId": 80260079,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260157,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 25,
+    "targetNum": 5,
+    "conditionMessage": "Complete 5 \"Training Planet Celtant\" Quests",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260030
+    ],
+    "missionId": 80260080,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260158,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94042008
+    ],
+    "missionId": 80260080,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260159,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 25,
+    "targetNum": 5,
+    "conditionMessage": "Complete 5 \"Illusionary Planet Caribbean\" Quests",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260058
+    ],
+    "missionId": 80260081,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260160,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94042009
+    ],
+    "missionId": 80260081,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260161,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 25,
+    "targetNum": 5,
+    "conditionMessage": "Complete 5 \"Secret Fortress Death Csejte\" Quests",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260062
+    ],
+    "missionId": 80260082,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260162,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94042010
+    ],
+    "missionId": 80260082,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260163,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 25,
+    "targetNum": 5,
+    "conditionMessage": "Complete 5 \"Wandering Planet Alton\" Quests",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94041909
+    ],
+    "missionId": 80260083,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260164,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260021
+    ],
+    "missionId": 80260083,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260165,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 10,
+    "conditionMessage": "Complete 10 Quests in the exoplanet",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260083
+    ],
+    "missionId": 80260084,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260166,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260021
+    ],
+    "missionId": 80260084,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260167,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 20,
+    "conditionMessage": "Complete 20 Quests in the exoplanet",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260001
+    ],
+    "missionId": 80260085,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260168,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260022
+    ],
+    "missionId": 80260085,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260169,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 10,
+    "conditionMessage": "Complete 10 Quests on the planet",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260085
+    ],
+    "missionId": 80260086,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260170,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260022
+    ],
+    "missionId": 80260086,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260171,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 20,
+    "conditionMessage": "Complete 20 Quests on the planet",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94041914
+    ],
+    "missionId": 80260087,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260172,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94041901,
+      94041902,
+      94041903,
+      94041904,
+      94041905,
+      94041906,
+      94041907,
+      94041908,
+      94041909,
+      94041910,
+      94041911,
+      94041912,
+      94041913,
+      94041914,
+      94041915,
+      94041916,
+      94041930,
+      94041940,
+      94041941,
+      94041942,
+      94041943,
+      94041944,
+      94041945,
+      94041960,
+      94041961,
+      94041962,
+      94041965,
+      94041966,
+      94041967,
+      94041968,
+      94041969,
+      94041970,
+      94041971,
+      94041972,
+      94041973,
+      94041974,
+      94041980,
+      94041981,
+      94041982,
+      94041983,
+      94041990,
+      94041991,
+      94041992,
+      94041993,
+      94041994,
+      94042001,
+      94042002,
+      94042003,
+      94042004,
+      94042005,
+      94042006,
+      94042007,
+      94042008,
+      94042009,
+      94042010,
+      94041995,
+      94041963
+    ],
+    "missionId": 80260087,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260173,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 57,
+    "conditionMessage": "Complete all Quests (Excluding Challenge Missions)",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260001
+    ],
+    "missionId": 80260088,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260174,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260023
+    ],
+    "missionId": 80260088,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260175,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 200,
+    "conditionMessage": "Obtain 200 Bronze Saber Badges as battle drops",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260088
+    ],
+    "missionId": 80260089,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260176,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260023
+    ],
+    "missionId": 80260089,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260177,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 400,
+    "conditionMessage": "Obtain 400 Bronze Saber Badges as battle drops",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94041907
+    ],
+    "missionId": 80260090,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260178,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260024
+    ],
+    "missionId": 80260090,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260179,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 200,
+    "conditionMessage": "Obtain 200 Silver Saber Badges as battle drops",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260090
+    ],
+    "missionId": 80260091,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260180,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260024
+    ],
+    "missionId": 80260091,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260181,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 400,
+    "conditionMessage": "Obtain 400 Silver Saber Badges as battle drops",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94041909
+    ],
+    "missionId": 80260092,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260182,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260025
+    ],
+    "missionId": 80260092,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260183,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 200,
+    "conditionMessage": "Obtain 200 Gold Saber Badges as battle drops",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260092
+    ],
+    "missionId": 80260093,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260184,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260025
+    ],
+    "missionId": 80260093,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260185,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 400,
+    "conditionMessage": "Obtain 400 Gold Saber Badges as battle drops",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260001
+    ],
+    "missionId": 80260094,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260186,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260001,
+      80260002,
+      80260003,
+      80260004,
+      80260006,
+      80260007,
+      80260008,
+      80260009,
+      80260010,
+      80260011,
+      80260012,
+      80260013,
+      80260014,
+      80260015,
+      80260016,
+      80260017,
+      80260018,
+      80260019,
+      80260020,
+      80260021,
+      80260022,
+      80260023,
+      80260024,
+      80260025,
+      80260026,
+      80260027,
+      80260028,
+      80260029,
+      80260030,
+      80260031,
+      80260032,
+      80260033,
+      80260034,
+      80260035,
+      80260036,
+      80260037,
+      80260038,
+      80260039,
+      80260040,
+      80260041,
+      80260042,
+      80260043,
+      80260044,
+      80260045,
+      80260046,
+      80260047,
+      80260048,
+      80260049,
+      80260050,
+      80260051,
+      80260052,
+      80260053,
+      80260054,
+      80260055,
+      80260056,
+      80260057,
+      80260058,
+      80260059,
+      80260060,
+      80260061,
+      80260062,
+      80260063,
+      80260064,
+      80260065,
+      80260066,
+      80260067,
+      80260068,
+      80260069,
+      80260070,
+      80260071,
+      80260072,
+      80260073,
+      80260074,
+      80260075,
+      80260076,
+      80260077,
+      80260078,
+      80260079,
+      80260080,
+      80260081,
+      80260082,
+      80260083,
+      80260084,
+      80260085,
+      80260086,
+      80260087,
+      80260088,
+      80260089,
+      80260090,
+      80260091,
+      80260092,
+      80260093,
+      80260094,
+      80260095,
+      80260096,
+      80260097,
+      80260098,
+      80260099,
+      80260005
+    ],
+    "missionId": 80260094,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260187,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 10,
+    "conditionMessage": "Complete 10 missions",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94041909
+    ],
+    "missionId": 80260095,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260188,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260001,
+      80260002,
+      80260003,
+      80260004,
+      80260006,
+      80260007,
+      80260008,
+      80260009,
+      80260010,
+      80260011,
+      80260012,
+      80260013,
+      80260014,
+      80260015,
+      80260016,
+      80260017,
+      80260018,
+      80260019,
+      80260020,
+      80260021,
+      80260022,
+      80260023,
+      80260024,
+      80260025,
+      80260026,
+      80260027,
+      80260028,
+      80260029,
+      80260030,
+      80260031,
+      80260032,
+      80260033,
+      80260034,
+      80260035,
+      80260036,
+      80260037,
+      80260038,
+      80260039,
+      80260040,
+      80260041,
+      80260042,
+      80260043,
+      80260044,
+      80260045,
+      80260046,
+      80260047,
+      80260048,
+      80260049,
+      80260050,
+      80260051,
+      80260052,
+      80260053,
+      80260054,
+      80260055,
+      80260056,
+      80260057,
+      80260058,
+      80260059,
+      80260060,
+      80260061,
+      80260062,
+      80260063,
+      80260064,
+      80260065,
+      80260066,
+      80260067,
+      80260068,
+      80260069,
+      80260070,
+      80260071,
+      80260072,
+      80260073,
+      80260074,
+      80260075,
+      80260076,
+      80260077,
+      80260078,
+      80260079,
+      80260080,
+      80260081,
+      80260082,
+      80260083,
+      80260084,
+      80260085,
+      80260086,
+      80260087,
+      80260088,
+      80260089,
+      80260090,
+      80260091,
+      80260092,
+      80260093,
+      80260094,
+      80260095,
+      80260096,
+      80260097,
+      80260098,
+      80260099,
+      80260005
+    ],
+    "missionId": 80260095,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260189,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 30,
+    "conditionMessage": "Complete 30 missions",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94041911
+    ],
+    "missionId": 80260096,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260190,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260001,
+      80260002,
+      80260003,
+      80260004,
+      80260006,
+      80260007,
+      80260008,
+      80260009,
+      80260010,
+      80260011,
+      80260012,
+      80260013,
+      80260014,
+      80260015,
+      80260016,
+      80260017,
+      80260018,
+      80260019,
+      80260020,
+      80260021,
+      80260022,
+      80260023,
+      80260024,
+      80260025,
+      80260026,
+      80260027,
+      80260028,
+      80260029,
+      80260030,
+      80260031,
+      80260032,
+      80260033,
+      80260034,
+      80260035,
+      80260036,
+      80260037,
+      80260038,
+      80260039,
+      80260040,
+      80260041,
+      80260042,
+      80260043,
+      80260044,
+      80260045,
+      80260046,
+      80260047,
+      80260048,
+      80260049,
+      80260050,
+      80260051,
+      80260052,
+      80260053,
+      80260054,
+      80260055,
+      80260056,
+      80260057,
+      80260058,
+      80260059,
+      80260060,
+      80260061,
+      80260062,
+      80260063,
+      80260064,
+      80260065,
+      80260066,
+      80260067,
+      80260068,
+      80260069,
+      80260070,
+      80260071,
+      80260072,
+      80260073,
+      80260074,
+      80260075,
+      80260076,
+      80260077,
+      80260078,
+      80260079,
+      80260080,
+      80260081,
+      80260082,
+      80260083,
+      80260084,
+      80260085,
+      80260086,
+      80260087,
+      80260088,
+      80260089,
+      80260090,
+      80260091,
+      80260092,
+      80260093,
+      80260094,
+      80260095,
+      80260096,
+      80260097,
+      80260098,
+      80260099,
+      80260005
+    ],
+    "missionId": 80260096,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260191,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 50,
+    "conditionMessage": "Complete 50 missions",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94041916
+    ],
+    "missionId": 80260097,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260192,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260001,
+      80260002,
+      80260003,
+      80260004,
+      80260006,
+      80260007,
+      80260008,
+      80260009,
+      80260010,
+      80260011,
+      80260012,
+      80260013,
+      80260014,
+      80260015,
+      80260016,
+      80260017,
+      80260018,
+      80260019,
+      80260020,
+      80260021,
+      80260022,
+      80260023,
+      80260024,
+      80260025,
+      80260026,
+      80260027,
+      80260028,
+      80260029,
+      80260030,
+      80260031,
+      80260032,
+      80260033,
+      80260034,
+      80260035,
+      80260036,
+      80260037,
+      80260038,
+      80260039,
+      80260040,
+      80260041,
+      80260042,
+      80260043,
+      80260044,
+      80260045,
+      80260046,
+      80260047,
+      80260048,
+      80260049,
+      80260050,
+      80260051,
+      80260052,
+      80260053,
+      80260054,
+      80260055,
+      80260056,
+      80260057,
+      80260058,
+      80260059,
+      80260060,
+      80260061,
+      80260062,
+      80260063,
+      80260064,
+      80260065,
+      80260066,
+      80260067,
+      80260068,
+      80260069,
+      80260070,
+      80260071,
+      80260072,
+      80260073,
+      80260074,
+      80260075,
+      80260076,
+      80260077,
+      80260078,
+      80260079,
+      80260080,
+      80260081,
+      80260082,
+      80260083,
+      80260084,
+      80260085,
+      80260086,
+      80260087,
+      80260088,
+      80260089,
+      80260090,
+      80260091,
+      80260092,
+      80260093,
+      80260094,
+      80260095,
+      80260096,
+      80260097,
+      80260098,
+      80260099,
+      80260005
+    ],
+    "missionId": 80260097,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260193,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 70,
+    "conditionMessage": "Complete 70 missions",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260097
+    ],
+    "missionId": 80260098,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260194,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260001,
+      80260002,
+      80260003,
+      80260004,
+      80260006,
+      80260007,
+      80260008,
+      80260009,
+      80260010,
+      80260011,
+      80260012,
+      80260013,
+      80260014,
+      80260015,
+      80260016,
+      80260017,
+      80260018,
+      80260019,
+      80260020,
+      80260021,
+      80260022,
+      80260023,
+      80260024,
+      80260025,
+      80260026,
+      80260027,
+      80260028,
+      80260029,
+      80260030,
+      80260031,
+      80260032,
+      80260033,
+      80260034,
+      80260035,
+      80260036,
+      80260037,
+      80260038,
+      80260039,
+      80260040,
+      80260041,
+      80260042,
+      80260043,
+      80260044,
+      80260045,
+      80260046,
+      80260047,
+      80260048,
+      80260049,
+      80260050,
+      80260051,
+      80260052,
+      80260053,
+      80260054,
+      80260055,
+      80260056,
+      80260057,
+      80260058,
+      80260059,
+      80260060,
+      80260061,
+      80260062,
+      80260063,
+      80260064,
+      80260065,
+      80260066,
+      80260067,
+      80260068,
+      80260069,
+      80260070,
+      80260071,
+      80260072,
+      80260073,
+      80260074,
+      80260075,
+      80260076,
+      80260077,
+      80260078,
+      80260079,
+      80260080,
+      80260081,
+      80260082,
+      80260083,
+      80260084,
+      80260085,
+      80260086,
+      80260087,
+      80260088,
+      80260089,
+      80260090,
+      80260091,
+      80260092,
+      80260093,
+      80260094,
+      80260095,
+      80260096,
+      80260097,
+      80260098,
+      80260099,
+      80260005
+    ],
+    "missionId": 80260098,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260195,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 90,
+    "conditionMessage": "Complete 90 missions",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80260099,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80260196,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1635134400,
+    "conditionMessage": "???\n※Unlocks after 10/24 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260098
+    ],
+    "missionId": 80260099,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260197,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 24,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      80260001,
+      80260002,
+      80260003,
+      80260004,
+      80260006,
+      80260007,
+      80260008,
+      80260009,
+      80260010,
+      80260011,
+      80260012,
+      80260013,
+      80260014,
+      80260015,
+      80260016,
+      80260017,
+      80260018,
+      80260019,
+      80260020,
+      80260021,
+      80260022,
+      80260023,
+      80260024,
+      80260025,
+      80260026,
+      80260027,
+      80260028,
+      80260029,
+      80260030,
+      80260031,
+      80260032,
+      80260033,
+      80260034,
+      80260035,
+      80260036,
+      80260037,
+      80260038,
+      80260039,
+      80260040,
+      80260041,
+      80260042,
+      80260043,
+      80260044,
+      80260045,
+      80260046,
+      80260047,
+      80260048,
+      80260049,
+      80260050,
+      80260051,
+      80260052,
+      80260053,
+      80260054,
+      80260055,
+      80260056,
+      80260057,
+      80260058,
+      80260059,
+      80260060,
+      80260061,
+      80260062,
+      80260063,
+      80260064,
+      80260065,
+      80260066,
+      80260067,
+      80260068,
+      80260069,
+      80260070,
+      80260071,
+      80260072,
+      80260073,
+      80260074,
+      80260075,
+      80260076,
+      80260077,
+      80260078,
+      80260079,
+      80260080,
+      80260081,
+      80260082,
+      80260083,
+      80260084,
+      80260085,
+      80260086,
+      80260087,
+      80260088,
+      80260089,
+      80260090,
+      80260091,
+      80260092,
+      80260093,
+      80260094,
+      80260095,
+      80260096,
+      80260097,
+      80260098,
+      80260099,
+      80260005
+    ],
+    "missionId": 80260099,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260202,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 98,
+    "conditionMessage": "Complete all Missions (Excluding Challenge Missions)\n[Unlocks Challenge Quest]",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      0
+    ],
+    "missionId": 80260100,
+    "missionProgressType": 2,
+    "priority": 0,
+    "id": 80260199,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 12,
+    "targetNum": 1635134400,
+    "conditionMessage": "???\n※Unlocks after 10/24 21:00 PDT, when certain conditions are met",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94042050
+    ],
+    "missionId": 80260100,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 80260200,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "???",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      94041964
+    ],
+    "missionId": 80260100,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 80260203,
+    "missionTargetId": 80260,
+    "condGroup": 1,
+    "condType": 1,
+    "targetNum": 1,
+    "conditionMessage": "[Challenge Mission] Bounty hunt \"Dark Rounds Shadow\" ",
     "closedMessage": "",
     "flag": 0
   }

@@ -364,7 +364,8 @@
       "[94034017,1,1]",
       "[94034019,3,1]",
       "[94036101,1,2]",
-      "[94038404,1,1]"
+      "[94038404,1,1]",
+      "[94041915,2,1]"
     ],
     "condIds": [],
     "imageIds": [
@@ -8265,6 +8266,140 @@
     "openType": 24,
     "condType": 0,
     "condValue": 0,
+    "condValue2": 0,
+    "condValue3": 0
+  },
+  {
+    "targetIds": [
+      "[]"
+    ],
+    "condIds": [],
+    "imageIds": [
+      753,
+      754,
+      755
+    ],
+    "textJson": [],
+    "eventId": 80260,
+    "flagType": 1,
+    "num": 1,
+    "openType": 4,
+    "condType": 0,
+    "condValue": 0,
+    "condValue2": 0,
+    "condValue3": 0
+  },
+  {
+    "targetIds": [
+      "[907302]"
+    ],
+    "condIds": [
+      94041995
+    ],
+    "imageIds": [
+      757
+    ],
+    "textJson": [],
+    "eventId": 80260,
+    "flagType": 2,
+    "num": 1,
+    "openType": 3,
+    "condType": 50,
+    "condValue": 1,
+    "condValue2": 0,
+    "condValue3": 0
+  },
+  {
+    "targetIds": [
+      "[]"
+    ],
+    "condIds": [],
+    "imageIds": [
+      758
+    ],
+    "textJson": [],
+    "eventId": 80260,
+    "flagType": 5,
+    "num": 1,
+    "openType": 21,
+    "condType": 0,
+    "condValue": 0,
+    "condValue2": 0,
+    "condValue3": 0
+  },
+  {
+    "targetIds": [
+      "[9073]"
+    ],
+    "condIds": [
+      94041905
+    ],
+    "imageIds": [
+      759
+    ],
+    "textJson": [],
+    "eventId": 80260,
+    "flagType": 13,
+    "num": 1,
+    "openType": 1,
+    "condType": 1,
+    "condValue": 1,
+    "condValue2": 0,
+    "condValue3": 0
+  },
+  {
+    "targetIds": [
+      "[]"
+    ],
+    "condIds": [],
+    "imageIds": [
+      753
+    ],
+    "textJson": [],
+    "eventId": 80260,
+    "flagType": 21,
+    "num": 1,
+    "openType": 23,
+    "condType": 0,
+    "condValue": 0,
+    "condValue2": 0,
+    "condValue3": 0
+  },
+  {
+    "targetIds": [
+      "[]"
+    ],
+    "condIds": [],
+    "imageIds": [
+      758
+    ],
+    "textJson": [],
+    "eventId": 80260,
+    "flagType": 22,
+    "num": 1,
+    "openType": 24,
+    "condType": 0,
+    "condValue": 0,
+    "condValue2": 0,
+    "condValue3": 0
+  },
+  {
+    "targetIds": [
+      "[907311]"
+    ],
+    "condIds": [
+      94041915
+    ],
+    "imageIds": [
+      760
+    ],
+    "textJson": [],
+    "eventId": 80260,
+    "flagType": 50,
+    "num": 1,
+    "openType": 3,
+    "condType": 106,
+    "condValue": 3,
     "condValue2": 0,
     "condValue3": 0
   },

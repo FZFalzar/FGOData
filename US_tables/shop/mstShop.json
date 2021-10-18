@@ -3180,6 +3180,72 @@
       0
     ],
     "prices": [
+      15
+    ],
+    "targetIds": [
+      9570300
+    ],
+    "script": {},
+    "id": 11148,
+    "baseShopId": 11148,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 1000,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 20,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Hero Crystal: Star Fou",
+    "detail": "Exchange for one ★3 ALL HP Up card",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1635724800,
+    "closedAt": 1575158399
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      15
+    ],
+    "targetIds": [
+      9670300
+    ],
+    "script": {},
+    "id": 11149,
+    "baseShopId": 11149,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 2000,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 20,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Hero Crystal: Sun Fou",
+    "detail": "Exchange for one ★3 ALL ATK Up card",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1635724800,
+    "closedAt": 1575158399
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
       1000
     ],
     "targetIds": [
@@ -5853,6 +5919,72 @@
       0
     ],
     "prices": [
+      20
+    ],
+    "targetIds": [
+      4001
+    ],
+    "script": {},
+    "id": 14119,
+    "baseShopId": 14119,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 100,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 5,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Summon Ticket",
+    "detail": "Exchange for one Summon Ticket that can perform one Saint Quartz summon",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1635724800,
+    "closedAt": 1575158399
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      40
+    ],
+    "targetIds": [
+      11011
+    ],
+    "script": {},
+    "id": 14120,
+    "baseShopId": 14120,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 200,
+    "purchaseType": 5,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 5,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "EXP Card Set",
+    "detail": "Exchange for 10 ★4 ALL EXP cards",
+    "infoMessage": "Exchange for 10 ★4 ALL EXP cards",
+    "warningMessage": "",
+    "imageId": 14,
+    "bgImageId": 0,
+    "openedAt": 1635724800,
+    "closedAt": 1575158399
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
       100
     ],
     "targetIds": [
@@ -7794,6 +7926,105 @@
     "bgImageId": 0,
     "openedAt": 1633046400,
     "closedAt": 1635724799
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      100
+    ],
+    "targetIds": [
+      5000
+    ],
+    "script": {},
+    "id": 18060,
+    "baseShopId": 18060,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 20,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Quick Code Opener",
+    "detail": "Exchange for [Command Code Slot Release Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1635724800,
+    "closedAt": 1575158399
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      100
+    ],
+    "targetIds": [
+      5001
+    ],
+    "script": {},
+    "id": 18061,
+    "baseShopId": 18061,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 21,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Arts Code Opener",
+    "detail": "Exchange for [Command Code Slot Release Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1635724800,
+    "closedAt": 1575158399
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      100
+    ],
+    "targetIds": [
+      5002
+    ],
+    "script": {},
+    "id": 18062,
+    "baseShopId": 18062,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 22,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Buster Code Opener",
+    "detail": "Exchange for [Command Code Slot Release Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1635724800,
+    "closedAt": 1575158399
   },
   {
     "itemIds": [
@@ -17628,6 +17859,72 @@
     "bgImageId": 0,
     "openedAt": 1634097600,
     "closedAt": 1635739199
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      1100900
+    ],
+    "script": {},
+    "id": 4000397,
+    "baseShopId": 4000397,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 877,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Space Ishtar",
+    "detail": "Exchange for Limited Time ★5 Servant",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1634529600,
+    "closedAt": 1635739199
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      702400
+    ],
+    "script": {},
+    "id": 4000399,
+    "baseShopId": 4000051,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 876,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Mysterious Heroine X (Alter)",
+    "detail": "Exchange for Limited Time ★5 Servant",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1635048000,
+    "closedAt": 1636257599
   },
   {
     "itemIds": [
@@ -150231,6 +150528,1785 @@
     "bgImageId": 80259,
     "openedAt": 1630555200,
     "closedAt": 1632369599
+  },
+  {
+    "itemIds": [
+      94041904
+    ],
+    "prices": [
+      70
+    ],
+    "targetIds": [
+      94041911
+    ],
+    "script": {
+      "addMessage": "A quest in [Texas Beyond] has been unlocked"
+    },
+    "id": 80260001,
+    "baseShopId": 80260001,
+    "eventId": 80260,
+    "slot": 1,
+    "flag": 0,
+    "priority": 10,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Wanted Poster of Space Rice Balls",
+    "detail": "Gain the right to hunt down a person with a bounty on their head.\nReward is 1,500,000 QP.",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 8026001,
+    "openedAt": 1634529600,
+    "closedAt": 1635739199
+  },
+  {
+    "itemIds": [
+      94041904
+    ],
+    "prices": [
+      90
+    ],
+    "targetIds": [
+      94041917
+    ],
+    "script": {
+      "addMessage": "A quest in [Texas Beyond] has been unlocked"
+    },
+    "id": 80260002,
+    "baseShopId": 80260002,
+    "eventId": 80260,
+    "slot": 1,
+    "flag": 0,
+    "priority": 20,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Wanted Poster of Skull Keeper",
+    "detail": "Gain the right to hunt down a person with a bounty on their head.\nReward is 1,700,000 QP.",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 8026001,
+    "openedAt": 1634529600,
+    "closedAt": 1635739199
+  },
+  {
+    "itemIds": [
+      94041904
+    ],
+    "prices": [
+      110
+    ],
+    "targetIds": [
+      94041918
+    ],
+    "script": {
+      "addMessage": "A quest in [Texas Beyond] has been unlocked"
+    },
+    "id": 80260003,
+    "baseShopId": 80260003,
+    "eventId": 80260,
+    "slot": 1,
+    "flag": 0,
+    "priority": 30,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Wanted Poster of Absolute Justice Saint Martha",
+    "detail": "Gain the right to hunt down a person with a bounty on their head.\nReward is 2,000,000 QP.",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 8026001,
+    "openedAt": 1634529600,
+    "closedAt": 1635739199
+  },
+  {
+    "itemIds": [
+      94041904
+    ],
+    "prices": [
+      130
+    ],
+    "targetIds": [
+      94041919
+    ],
+    "script": {
+      "addMessage": "A quest in [Big Blue Tank] has been unlocked"
+    },
+    "id": 80260004,
+    "baseShopId": 80260004,
+    "eventId": 80260,
+    "slot": 1,
+    "flag": 0,
+    "priority": 40,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Wanted Poster of Kaiser Origin",
+    "detail": "Gain the right to hunt down a person with a bounty on their head.\nReward is 2,300,000 QP.",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 8026001,
+    "openedAt": 1634529600,
+    "closedAt": 1635739199
+  },
+  {
+    "itemIds": [
+      94041904
+    ],
+    "prices": [
+      150
+    ],
+    "targetIds": [
+      94041920
+    ],
+    "script": {
+      "addMessage": "A quest in [Big Blue Tank] has been unlocked"
+    },
+    "id": 80260005,
+    "baseShopId": 80260005,
+    "eventId": 80260,
+    "slot": 1,
+    "flag": 0,
+    "priority": 50,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Wanted Poster of Galactic Phantom Thief Twin Pirates",
+    "detail": "Gain the right to hunt down a person with a bounty on their head.\nReward is 2,600,000 QP.",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 8026001,
+    "openedAt": 1634529600,
+    "closedAt": 1635739199
+  },
+  {
+    "itemIds": [
+      94041904
+    ],
+    "prices": [
+      180
+    ],
+    "targetIds": [
+      94041921
+    ],
+    "script": {
+      "addMessage": "A quest in [Sargasso Abyss] has been unlocked"
+    },
+    "id": 80260006,
+    "baseShopId": 80260006,
+    "eventId": 80260,
+    "slot": 1,
+    "flag": 0,
+    "priority": 60,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Wanted Poster of Cutest Good Wife CosTamamo",
+    "detail": "Gain the right to hunt down a person with a bounty on their head.\nReward is 2,800,000 QP.",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 8026001,
+    "openedAt": 1634529600,
+    "closedAt": 1635739199
+  },
+  {
+    "itemIds": [
+      94041904
+    ],
+    "prices": [
+      220
+    ],
+    "targetIds": [
+      94041922
+    ],
+    "script": {
+      "addMessage": "A quest in [Zenjou] has been unlocked"
+    },
+    "id": 80260007,
+    "baseShopId": 80260007,
+    "eventId": 80260,
+    "slot": 1,
+    "flag": 0,
+    "priority": 70,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Wanted Poster of Teacher Baobei",
+    "detail": "Gain the right to hunt down a person with a bounty on their head.\nReward is 3,100,000 QP.",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 8026001,
+    "openedAt": 1634529600,
+    "closedAt": 1635739199
+  },
+  {
+    "itemIds": [
+      94041904
+    ],
+    "prices": [
+      260
+    ],
+    "targetIds": [
+      94041923
+    ],
+    "script": {
+      "addMessage": "A quest in [Zenjou] has been unlocked"
+    },
+    "id": 80260008,
+    "baseShopId": 80260008,
+    "eventId": 80260,
+    "slot": 1,
+    "flag": 0,
+    "priority": 80,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Wanted Poster of Abby the Prankster",
+    "detail": "Gain the right to hunt down a person with a bounty on their head.\nReward is 3,300,000 QP.",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 8026001,
+    "openedAt": 1634529600,
+    "closedAt": 1635739199
+  },
+  {
+    "itemIds": [
+      94041904
+    ],
+    "prices": [
+      280
+    ],
+    "targetIds": [
+      94041924
+    ],
+    "script": {
+      "addMessage": "A quest in [Green Kitchen] has been unlocked"
+    },
+    "id": 80260009,
+    "baseShopId": 80260009,
+    "eventId": 80260,
+    "slot": 1,
+    "flag": 0,
+    "priority": 90,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Wanted Poster of Poisonous Cooking Master",
+    "detail": "Gain the right to hunt down a person with a bounty on their head.\nReward is 3,600,000 QP.",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 8026001,
+    "openedAt": 1634529600,
+    "closedAt": 1635739199
+  },
+  {
+    "itemIds": [
+      94041904
+    ],
+    "prices": [
+      320
+    ],
+    "targetIds": [
+      94041925
+    ],
+    "script": {
+      "addMessage": "A quest in [Green Kitchen] has been unlocked"
+    },
+    "id": 80260010,
+    "baseShopId": 80260010,
+    "eventId": 80260,
+    "slot": 1,
+    "flag": 0,
+    "priority": 100,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Wanted Poster of Solitary Okita",
+    "detail": "Gain the right to hunt down a person with a bounty on their head.\nReward is 3,900,000 QP.",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 8026001,
+    "openedAt": 1634529600,
+    "closedAt": 1635739199
+  },
+  {
+    "itemIds": [
+      94041904
+    ],
+    "prices": [
+      200
+    ],
+    "targetIds": [
+      94041907
+    ],
+    "script": {
+      "addMessage": "A quest in [Sargasso Abyss] has been unlocked"
+    },
+    "id": 80260011,
+    "baseShopId": 80260011,
+    "eventId": 80260,
+    "slot": 1,
+    "flag": 0,
+    "priority": 110,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Wanted Poster of Space Cat",
+    "detail": "Gain the right to hunt down a person with a bounty on their head.\nReward is 2,500,000 QP.",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 8026001,
+    "openedAt": 1634529600,
+    "closedAt": 1635739199
+  },
+  {
+    "itemIds": [
+      94041904
+    ],
+    "prices": [
+      350
+    ],
+    "targetIds": [
+      94041908
+    ],
+    "script": {
+      "addMessage": "A quest in [Green Kitchen] has been unlocked"
+    },
+    "id": 80260012,
+    "baseShopId": 80260012,
+    "eventId": 80260,
+    "slot": 1,
+    "flag": 0,
+    "priority": 120,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Wanted Poster of Space Toshizo",
+    "detail": "Gain the right to hunt down a person with a bounty on their head.\nReward is 3,000,000 QP.",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 8026001,
+    "openedAt": 1634529600,
+    "closedAt": 1635739199
+  },
+  {
+    "itemIds": [
+      94041904
+    ],
+    "prices": [
+      400
+    ],
+    "targetIds": [
+      94041906
+    ],
+    "script": {
+      "addMessage": "A quest in [Zenjou] has been unlocked"
+    },
+    "id": 80260013,
+    "baseShopId": 80260013,
+    "eventId": 80260,
+    "slot": 1,
+    "flag": 0,
+    "priority": 130,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Wanted Poster of Edgy Fett",
+    "detail": "Gain the right to hunt down a person with a bounty on their head.\nReward is 3,500,000 QP.",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 8026001,
+    "openedAt": 1634529600,
+    "closedAt": 1635739199
+  },
+  {
+    "itemIds": [
+      94041904
+    ],
+    "prices": [
+      500
+    ],
+    "targetIds": [
+      94041909
+    ],
+    "script": {
+      "addMessage": "A quest in [Secret Fortress Death Csejte] has been unlocked"
+    },
+    "id": 80260014,
+    "baseShopId": 80260014,
+    "eventId": 80260,
+    "slot": 1,
+    "flag": 0,
+    "priority": 140,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Wanted Poster of King Elly-chan",
+    "detail": "Gain the right to hunt down a person with a bounty on their head.\nReward is 5,000,000 QP.",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 8026001,
+    "openedAt": 1634529600,
+    "closedAt": 1635739199
+  },
+  {
+    "itemIds": [
+      94041904
+    ],
+    "prices": [
+      1000
+    ],
+    "targetIds": [
+      94041910
+    ],
+    "script": {
+      "addMessage": "A quest in [Abandoned Planet Camlann] has been unlocked"
+    },
+    "id": 80260015,
+    "baseShopId": 80260015,
+    "eventId": 80260,
+    "slot": 1,
+    "flag": 0,
+    "priority": 150,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Wanted Poster of Dark Rounds Shadow",
+    "detail": "Gain the right to hunt down a person with a bounty on their head.\nReward is 10,000,000 QP.",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 8026001,
+    "openedAt": 1634875200,
+    "closedAt": 1635739199
+  },
+  {
+    "itemIds": [
+      94041903
+    ],
+    "prices": [
+      200
+    ],
+    "targetIds": [
+      110090011
+    ],
+    "script": {},
+    "id": 80260016,
+    "baseShopId": 80260016,
+    "eventId": 80260,
+    "slot": 1,
+    "flag": 0,
+    "priority": 1,
+    "purchaseType": 14,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "\"Ashtart Origin\" Wardrobe Key",
+    "detail": "Acquire the Wardrobe Key for Space Ishtar's Simple Spiritron Dress \"Ashtart Origin\"",
+    "infoMessage": "Acquire the Wardrobe Key for the Simple Spiritron Dress \"Ashtart Origin\"",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80260,
+    "openedAt": 1634529600,
+    "closedAt": 1636343999
+  },
+  {
+    "itemIds": [
+      94041903
+    ],
+    "prices": [
+      200
+    ],
+    "targetIds": [
+      60180011
+    ],
+    "script": {},
+    "id": 80260017,
+    "baseShopId": 80260017,
+    "eventId": 80260,
+    "slot": 1,
+    "flag": 0,
+    "priority": 5,
+    "purchaseType": 14,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "\"Mysterious Heroine Z\" Wardrobe Key",
+    "detail": "Acquire the Wardrobe Key for Mysterious Heroine X's Simple Spiritron Dress \"Mysterious Heroine Z\"",
+    "infoMessage": "Acquire the Wardrobe Key for the Simple Spiritron Dress \"Mysterious Heroine Z\"",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80260,
+    "openedAt": 1634529600,
+    "closedAt": 1636343999
+  },
+  {
+    "itemIds": [
+      94041903
+    ],
+    "prices": [
+      200
+    ],
+    "targetIds": [
+      9404160
+    ],
+    "script": {},
+    "id": 80260018,
+    "baseShopId": 80260018,
+    "eventId": 80260,
+    "slot": 1,
+    "flag": 0,
+    "priority": 300,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 2,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Binary Star Songstresses",
+    "detail": "Exchange for Saber Wars 2 Limited Edition ★5 Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80260,
+    "openedAt": 1634529600,
+    "closedAt": 1636343999
+  },
+  {
+    "itemIds": [
+      94041902
+    ],
+    "prices": [
+      200
+    ],
+    "targetIds": [
+      9404160
+    ],
+    "script": {},
+    "id": 80260019,
+    "baseShopId": 80260019,
+    "eventId": 80260,
+    "slot": 1,
+    "flag": 0,
+    "priority": 310,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Binary Star Songstresses",
+    "detail": "Exchange for Saber Wars 2 Limited Edition ★5 Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80260,
+    "openedAt": 1634529600,
+    "closedAt": 1636343999
+  },
+  {
+    "itemIds": [
+      94041901
+    ],
+    "prices": [
+      200
+    ],
+    "targetIds": [
+      9404160
+    ],
+    "script": {},
+    "id": 80260020,
+    "baseShopId": 80260020,
+    "eventId": 80260,
+    "slot": 1,
+    "flag": 0,
+    "priority": 320,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Binary Star Songstresses",
+    "detail": "Exchange for Saber Wars 2 Limited Edition ★5 Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80260,
+    "openedAt": 1634529600,
+    "closedAt": 1636343999
+  },
+  {
+    "itemIds": [
+      94041903
+    ],
+    "prices": [
+      200
+    ],
+    "targetIds": [
+      9570400
+    ],
+    "script": {},
+    "id": 80260021,
+    "baseShopId": 80260021,
+    "eventId": 80260,
+    "slot": 1,
+    "flag": 0,
+    "priority": 400,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Hero Crystal: Meteor Fou",
+    "detail": "Exchange for one ★4 ALL HP Up card",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80260,
+    "openedAt": 1634529600,
+    "closedAt": 1636343999
+  },
+  {
+    "itemIds": [
+      94041901
+    ],
+    "prices": [
+      200
+    ],
+    "targetIds": [
+      9570400
+    ],
+    "script": {},
+    "id": 80260022,
+    "baseShopId": 80260022,
+    "eventId": 80260,
+    "slot": 1,
+    "flag": 0,
+    "priority": 410,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Hero Crystal: Meteor Fou",
+    "detail": "Exchange for one ★4 ALL HP Up card",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80260,
+    "openedAt": 1634529600,
+    "closedAt": 1636343999
+  },
+  {
+    "itemIds": [
+      94041903
+    ],
+    "prices": [
+      200
+    ],
+    "targetIds": [
+      9670400
+    ],
+    "script": {},
+    "id": 80260023,
+    "baseShopId": 80260023,
+    "eventId": 80260,
+    "slot": 1,
+    "flag": 0,
+    "priority": 420,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Hero Crystal: Corona Fou",
+    "detail": "Exchange for one ★4 ALL ATK Up card",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80260,
+    "openedAt": 1634529600,
+    "closedAt": 1636343999
+  },
+  {
+    "itemIds": [
+      94041902
+    ],
+    "prices": [
+      200
+    ],
+    "targetIds": [
+      9670400
+    ],
+    "script": {},
+    "id": 80260024,
+    "baseShopId": 80260024,
+    "eventId": 80260,
+    "slot": 1,
+    "flag": 0,
+    "priority": 430,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Hero Crystal: Corona Fou",
+    "detail": "Exchange for one ★4 ALL ATK Up card",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80260,
+    "openedAt": 1634529600,
+    "closedAt": 1636343999
+  },
+  {
+    "itemIds": [
+      94041903
+    ],
+    "prices": [
+      100
+    ],
+    "targetIds": [
+      5003
+    ],
+    "script": {},
+    "id": 80260025,
+    "baseShopId": 80260025,
+    "eventId": 80260,
+    "slot": 1,
+    "flag": 0,
+    "priority": 500,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Code Remover",
+    "detail": "Exchange for [Command Code Detacher Item]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80260,
+    "openedAt": 1634529600,
+    "closedAt": 1636343999
+  },
+  {
+    "itemIds": [
+      94041902
+    ],
+    "prices": [
+      100
+    ],
+    "targetIds": [
+      5003
+    ],
+    "script": {},
+    "id": 80260026,
+    "baseShopId": 80260026,
+    "eventId": 80260,
+    "slot": 1,
+    "flag": 0,
+    "priority": 510,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Code Remover",
+    "detail": "Exchange for [Command Code Detacher Item]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80260,
+    "openedAt": 1634529600,
+    "closedAt": 1636343999
+  },
+  {
+    "itemIds": [
+      94041902
+    ],
+    "prices": [
+      50
+    ],
+    "targetIds": [
+      9807210
+    ],
+    "script": {},
+    "id": 80260027,
+    "baseShopId": 80260027,
+    "eventId": 80260,
+    "slot": 1,
+    "flag": 0,
+    "priority": 600,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 10,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "First Curry",
+    "detail": "Exchange for Saber Wars 2 Limited Edition ★4 Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80260,
+    "openedAt": 1634529600,
+    "closedAt": 1636343999
+  },
+  {
+    "itemIds": [
+      94041901
+    ],
+    "prices": [
+      25
+    ],
+    "targetIds": [
+      9807220
+    ],
+    "script": {},
+    "id": 80260028,
+    "baseShopId": 80260028,
+    "eventId": 80260,
+    "slot": 1,
+    "flag": 0,
+    "priority": 610,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 10,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Mysterious Substance γ",
+    "detail": "Exchange for Saber Wars 2 Limited Edition ★3 Craft Essence",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80260,
+    "openedAt": 1634529600,
+    "closedAt": 1636343999
+  },
+  {
+    "itemIds": [
+      94041901
+    ],
+    "prices": [
+      20
+    ],
+    "targetIds": [
+      9570300
+    ],
+    "script": {},
+    "id": 80260029,
+    "baseShopId": 80260029,
+    "eventId": 80260,
+    "slot": 1,
+    "flag": 0,
+    "priority": 700,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Hero Crystal: Star Fou",
+    "detail": "Exchange for one ★3 ALL HP Up card",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80260,
+    "openedAt": 1634529600,
+    "closedAt": 1636343999
+  },
+  {
+    "itemIds": [
+      94041901
+    ],
+    "prices": [
+      20
+    ],
+    "targetIds": [
+      9670300
+    ],
+    "script": {},
+    "id": 80260030,
+    "baseShopId": 80260030,
+    "eventId": 80260,
+    "slot": 1,
+    "flag": 0,
+    "priority": 710,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Hero Crystal: Sun Fou",
+    "detail": "Exchange for one ★3 ALL ATK Up card",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80260,
+    "openedAt": 1634529600,
+    "closedAt": 1636343999
+  },
+  {
+    "itemIds": [
+      94041901
+    ],
+    "prices": [
+      6
+    ],
+    "targetIds": [
+      9770400
+    ],
+    "script": {},
+    "id": 80260031,
+    "baseShopId": 80260031,
+    "eventId": 80260,
+    "slot": 1,
+    "flag": 0,
+    "priority": 720,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 100,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Blaze of Wisdom",
+    "detail": "Exchange for one ★4 ALL EXP card",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80260,
+    "openedAt": 1634529600,
+    "closedAt": 1636343999
+  },
+  {
+    "itemIds": [
+      94041901
+    ],
+    "prices": [
+      3
+    ],
+    "targetIds": [
+      9770300
+    ],
+    "script": {},
+    "id": 80260032,
+    "baseShopId": 80260032,
+    "eventId": 80260,
+    "slot": 1,
+    "flag": 0,
+    "priority": 730,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 100,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Fire of Wisdom",
+    "detail": "Exchange for one ★3 ALL EXP card",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80260,
+    "openedAt": 1634529600,
+    "closedAt": 1636343999
+  },
+  {
+    "itemIds": [
+      94041903
+    ],
+    "prices": [
+      40
+    ],
+    "targetIds": [
+      6540
+    ],
+    "script": {},
+    "id": 80260033,
+    "baseShopId": 80260033,
+    "eventId": 80260,
+    "slot": 1,
+    "flag": 0,
+    "priority": 800,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 10,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Tsukumo Mirror",
+    "detail": "Exchange for [Skill Up & Ascension Materials]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80260,
+    "openedAt": 1634529600,
+    "closedAt": 1636343999
+  },
+  {
+    "itemIds": [
+      94041903
+    ],
+    "prices": [
+      40
+    ],
+    "targetIds": [
+      6525
+    ],
+    "script": {},
+    "id": 80260034,
+    "baseShopId": 80260034,
+    "eventId": 80260,
+    "slot": 1,
+    "flag": 0,
+    "priority": 810,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 10,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Scarab of Wisdom",
+    "detail": "Exchange for [Skill Up & Ascension Materials]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80260,
+    "openedAt": 1634529600,
+    "closedAt": 1636343999
+  },
+  {
+    "itemIds": [
+      94041903
+    ],
+    "prices": [
+      30
+    ],
+    "targetIds": [
+      6541
+    ],
+    "script": {},
+    "id": 80260035,
+    "baseShopId": 80260035,
+    "eventId": 80260,
+    "slot": 1,
+    "flag": 0,
+    "priority": 820,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Arrowhead of Malice",
+    "detail": "Exchange for [Skill Up & Ascension Materials]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80260,
+    "openedAt": 1634529600,
+    "closedAt": 1636343999
+  },
+  {
+    "itemIds": [
+      94041902
+    ],
+    "prices": [
+      30
+    ],
+    "targetIds": [
+      6539
+    ],
+    "script": {},
+    "id": 80260036,
+    "baseShopId": 80260036,
+    "eventId": 80260,
+    "slot": 1,
+    "flag": 0,
+    "priority": 830,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Reactor Core of Dawn",
+    "detail": "Exchange for [Skill Up & Ascension Materials]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80260,
+    "openedAt": 1634529600,
+    "closedAt": 1636343999
+  },
+  {
+    "itemIds": [
+      94041902
+    ],
+    "prices": [
+      20
+    ],
+    "targetIds": [
+      6510
+    ],
+    "script": {},
+    "id": 80260037,
+    "baseShopId": 80260037,
+    "eventId": 80260,
+    "slot": 1,
+    "flag": 0,
+    "priority": 840,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Eternal Gear",
+    "detail": "Exchange for [Skill Up & Ascension Materials]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80260,
+    "openedAt": 1634529600,
+    "closedAt": 1636343999
+  },
+  {
+    "itemIds": [
+      94041902
+    ],
+    "prices": [
+      15
+    ],
+    "targetIds": [
+      6512
+    ],
+    "script": {},
+    "id": 80260038,
+    "baseShopId": 80260038,
+    "eventId": 80260,
+    "slot": 1,
+    "flag": 0,
+    "priority": 850,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 30,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Dragon Fang",
+    "detail": "Exchange for [Skill Up & Ascension Materials]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80260,
+    "openedAt": 1634529600,
+    "closedAt": 1636343999
+  },
+  {
+    "itemIds": [
+      94041901
+    ],
+    "prices": [
+      20
+    ],
+    "targetIds": [
+      6515
+    ],
+    "script": {},
+    "id": 80260039,
+    "baseShopId": 80260039,
+    "eventId": 80260,
+    "slot": 1,
+    "flag": 0,
+    "priority": 860,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Octuplet Crystals",
+    "detail": "Exchange for [Skill Up & Ascension Materials]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80260,
+    "openedAt": 1634529600,
+    "closedAt": 1636343999
+  },
+  {
+    "itemIds": [
+      94041901
+    ],
+    "prices": [
+      15
+    ],
+    "targetIds": [
+      6505
+    ],
+    "script": {},
+    "id": 80260040,
+    "baseShopId": 80260040,
+    "eventId": 80260,
+    "slot": 1,
+    "flag": 0,
+    "priority": 870,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 30,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Void's Dust",
+    "detail": "Exchange for [Skill Up & Ascension Materials]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80260,
+    "openedAt": 1634529600,
+    "closedAt": 1636343999
+  },
+  {
+    "itemIds": [
+      94041901
+    ],
+    "prices": [
+      15
+    ],
+    "targetIds": [
+      6534
+    ],
+    "script": {},
+    "id": 80260041,
+    "baseShopId": 80260041,
+    "eventId": 80260,
+    "slot": 1,
+    "flag": 0,
+    "priority": 880,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 30,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Mystic Gunpowder",
+    "detail": "Exchange for [Skill Up & Ascension Materials]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80260,
+    "openedAt": 1634529600,
+    "closedAt": 1636343999
+  },
+  {
+    "itemIds": [
+      94041903
+    ],
+    "prices": [
+      20
+    ],
+    "targetIds": [
+      7101
+    ],
+    "script": {},
+    "id": 80260042,
+    "baseShopId": 80260042,
+    "eventId": 80260,
+    "slot": 1,
+    "flag": 0,
+    "priority": 900,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Saber Monument",
+    "detail": "Exchange for [Ascension Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80260,
+    "openedAt": 1634529600,
+    "closedAt": 1636343999
+  },
+  {
+    "itemIds": [
+      94041903
+    ],
+    "prices": [
+      20
+    ],
+    "targetIds": [
+      7102
+    ],
+    "script": {},
+    "id": 80260043,
+    "baseShopId": 80260043,
+    "eventId": 80260,
+    "slot": 1,
+    "flag": 0,
+    "priority": 910,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Archer Monument",
+    "detail": "Exchange for [Ascension Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80260,
+    "openedAt": 1634529600,
+    "closedAt": 1636343999
+  },
+  {
+    "itemIds": [
+      94041903
+    ],
+    "prices": [
+      20
+    ],
+    "targetIds": [
+      7106
+    ],
+    "script": {},
+    "id": 80260044,
+    "baseShopId": 80260044,
+    "eventId": 80260,
+    "slot": 1,
+    "flag": 0,
+    "priority": 920,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Assassin Monument",
+    "detail": "Exchange for [Ascension Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80260,
+    "openedAt": 1634529600,
+    "closedAt": 1636343999
+  },
+  {
+    "itemIds": [
+      94041902
+    ],
+    "prices": [
+      20
+    ],
+    "targetIds": [
+      7001
+    ],
+    "script": {},
+    "id": 80260045,
+    "baseShopId": 80260045,
+    "eventId": 80260,
+    "slot": 1,
+    "flag": 0,
+    "priority": 930,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Saber Piece",
+    "detail": "Exchange for [Ascension Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80260,
+    "openedAt": 1634529600,
+    "closedAt": 1636343999
+  },
+  {
+    "itemIds": [
+      94041902
+    ],
+    "prices": [
+      20
+    ],
+    "targetIds": [
+      7002
+    ],
+    "script": {},
+    "id": 80260046,
+    "baseShopId": 80260046,
+    "eventId": 80260,
+    "slot": 1,
+    "flag": 0,
+    "priority": 940,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Archer Piece",
+    "detail": "Exchange for [Ascension Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80260,
+    "openedAt": 1634529600,
+    "closedAt": 1636343999
+  },
+  {
+    "itemIds": [
+      94041902
+    ],
+    "prices": [
+      20
+    ],
+    "targetIds": [
+      7006
+    ],
+    "script": {},
+    "id": 80260047,
+    "baseShopId": 80260047,
+    "eventId": 80260,
+    "slot": 1,
+    "flag": 0,
+    "priority": 950,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 20,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Assassin Piece",
+    "detail": "Exchange for [Ascension Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80260,
+    "openedAt": 1634529600,
+    "closedAt": 1636343999
+  },
+  {
+    "itemIds": [
+      94041902
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      94041903
+    ],
+    "script": {},
+    "id": 80260048,
+    "baseShopId": 80260048,
+    "eventId": 80260,
+    "slot": 1,
+    "flag": 0,
+    "priority": 1000,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 0,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Gold Saber Badge",
+    "detail": "Exchange for Saber Wars 2 Limited Item \"Gold Saber Badge\"",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80260,
+    "openedAt": 1634529600,
+    "closedAt": 1636343999
+  },
+  {
+    "itemIds": [
+      94041901
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      94041902
+    ],
+    "script": {},
+    "id": 80260049,
+    "baseShopId": 80260049,
+    "eventId": 80260,
+    "slot": 1,
+    "flag": 0,
+    "priority": 1010,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 0,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Silver Saber Badge",
+    "detail": "Exchange for Saber Wars 2 Limited Item \"Silver Saber Badge\"",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80260,
+    "openedAt": 1634529600,
+    "closedAt": 1636343999
+  },
+  {
+    "itemIds": [
+      94041903
+    ],
+    "prices": [
+      2
+    ],
+    "targetIds": [
+      1
+    ],
+    "script": {},
+    "id": 80260050,
+    "baseShopId": 80260050,
+    "eventId": 80260,
+    "slot": 1,
+    "flag": 0,
+    "priority": 1100,
+    "purchaseType": 1,
+    "setNum": 10000,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 0,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "10,000 QP",
+    "detail": "Exchange for QP",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80260,
+    "openedAt": 1634529600,
+    "closedAt": 1636343999
+  },
+  {
+    "itemIds": [
+      94041904
+    ],
+    "prices": [
+      3
+    ],
+    "targetIds": [
+      1
+    ],
+    "script": {},
+    "id": 80260051,
+    "baseShopId": 80260051,
+    "eventId": 80260,
+    "slot": 1,
+    "flag": 0,
+    "priority": 1110,
+    "purchaseType": 1,
+    "setNum": 10000,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 0,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "10,000 QP",
+    "detail": "Exchange for QP",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80260,
+    "openedAt": 1634529600,
+    "closedAt": 1636343999
+  },
+  {
+    "itemIds": [
+      94041904
+    ],
+    "prices": [
+      200
+    ],
+    "targetIds": [
+      9570400
+    ],
+    "script": {},
+    "id": 80260052,
+    "baseShopId": 80260052,
+    "eventId": 80260,
+    "slot": 1,
+    "flag": 0,
+    "priority": 399,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Hero Crystal: Meteor Fou",
+    "detail": "Exchange for one ★4 ALL HP Up card",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80260,
+    "openedAt": 1634875200,
+    "closedAt": 1636343999
+  },
+  {
+    "itemIds": [
+      94041904
+    ],
+    "prices": [
+      200
+    ],
+    "targetIds": [
+      9670400
+    ],
+    "script": {},
+    "id": 80260053,
+    "baseShopId": 80260053,
+    "eventId": 80260,
+    "slot": 1,
+    "flag": 0,
+    "priority": 419,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Hero Crystal: Corona Fou",
+    "detail": "Exchange for one ★4 ALL ATK Up card",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80260,
+    "openedAt": 1634875200,
+    "closedAt": 1636343999
   },
   {
     "itemIds": [

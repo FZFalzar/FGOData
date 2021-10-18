@@ -345,6 +345,11 @@
     "detailShort": "Apply Damage Plus & increase Debuff Resist for yourself"
   },
   {
+    "id": 30552,
+    "detail": "Apply Damage Plus & increase Debuff Resist for yourself",
+    "detailShort": "Apply Damage Plus & increase Debuff Resist for yourself"
+  },
+  {
     "id": 30650,
     "detail": "Apply Damage Plus & increase Debuff Resist for yourself",
     "detailShort": "Apply Damage Plus & increase Debuff Resist for yourself"
@@ -798,6 +803,11 @@
     "id": 59550,
     "detail": "Apply Evade (3 times) & increase DEF [{0}] (3 turns) for yourself",
     "detailShort": "Apply Evade (3 times) & increase DEF [{0}] (3 turns) for yourself"
+  },
+  {
+    "id": 60450,
+    "detail": "Decrease ATK (3 turns) & Critical Rate [{0}] (3 turns) for all enemies",
+    "detailShort": "Decrease ATK (3 turns) & Critical Rate [{0}] (3 turns) for all enemies"
   },
   {
     "id": 60451,
@@ -1836,6 +1846,11 @@
   },
   {
     "id": 169550,
+    "detail": "Increase the amount of NP you gain when damaged + Decrease Debuff Resist for all allies (including sub-members) except yourself [Demerit]",
+    "detailShort": "Increase the amount of NP you gain when damaged + Decrease Debuff Resist for all allies (including sub-members) except yourself [Demerit]"
+  },
+  {
+    "id": 169650,
     "detail": "Increase the amount of NP you gain when damaged + Decrease Debuff Resist for all allies (including sub-members) except yourself [Demerit]",
     "detailShort": "Increase the amount of NP you gain when damaged + Decrease Debuff Resist for all allies (including sub-members) except yourself [Demerit]"
   },
@@ -4565,6 +4580,36 @@
     "detailShort": "Increase NP Gain for yourself [{0}] (3 turns) + Increase NP Gain [{0}] (3 turns) [g][o]▲[/o][/g] for all allies excluding yourself"
   },
   {
+    "id": 686550,
+    "detail": "Increase your ATK [{0}] (3 turns) + Increase ATK [{0}] (3 turns) & apply Charm Immune (3 turns) for all allies excluding yourself ",
+    "detailShort": "Increase your ATK [{0}] (3 turns) + Increase ATK [{0}] (3 turns) & apply Charm Immune (3 turns) for all allies excluding yourself "
+  },
+  {
+    "id": 687450,
+    "detail": "Increase NP Strength [{0}] (1 time, 3 turms) & apply Invincible (1 time, 3 turns) & change the NP Card type (3 turns) for yourself",
+    "detailShort": "Increase NP Strength [{0}] (1 time, 3 turms) & apply Invincible (1 time, 3 turns) & change the NP Card type (3 turns) for yourself"
+  },
+  {
+    "id": 688650,
+    "detail": "Increase NP Gauge [{0}] & chance to increase Quick Card effectiveness (3 turns) & chance to increase Arts Card effectiveness (3 turns) & chance to increase Buster Card effectiveness (3 turns) for yourself",
+    "detailShort": "Increase NP Gauge [{0}] & chance to increase Quick Card effectiveness (3 turns) & chance to increase Arts Card effectiveness (3 turns) & chance to increase Buster Card effectiveness (3 turns) for yourself"
+  },
+  {
+    "id": 689650,
+    "detail": "Decrease Charge by 1 for all enemies + Increase ATK [{0}] (3 turns) for yourself + Chance to increase ATK [{0}] (3 turn) for all allies excluding yourself + Slightly increase NP Gauge for all allies",
+    "detailShort": "Decrease Charge by 1 for all enemies + Increase ATK [{0}] (3 turns) for yourself + Chance to increase ATK [{0}] (3 turn) for all allies excluding yourself + Slightly increase NP Gauge for all allies"
+  },
+  {
+    "id": 690450,
+    "detail": "Increase Buff Success Rate [{0}] (3 turns) & increase Critical Strength [{0}] (3 turns) only when there are 10 C. Stars or more & increase C. Star Gather Rate [{0}] (3 turns) only when there are 20 C. Stars or more & apply Evade (1 turn) only when there are 30 C. Stars or more & apply Ignore Invincible (3 turns) only when there are 40 C. Stars or more & increase NP Gauge [{0}] only when there are 50 C. Stars or more for one ally",
+    "detailShort": "Increase Buff Success Rate [{0}] (3 turns) & increase Critical Strength [{0}] (3 turns) only when there are 10 C. Stars or more & increase C. Star Gather Rate [{0}] (3 turns) only when there are 20 C. Stars or more & apply Evade (1 turn) only when there are 30 C. Stars or more & apply Ignore Invincible (3 turns) only when there are 40 C. Stars or more & increase NP Gauge [{0}] only when there are 50 C. Stars or more for one ally"
+  },
+  {
+    "id": 691550,
+    "detail": "Significantly increase C. Star Drop Rate against [Saber] enemies [{0}] (3 turns) & apply Special Attack [Saber] [{0}] (3 turns) & increase ATK [{0}] (3 turns) [g][o]▲[/o][/g] for yourself",
+    "detailShort": "Significantly increase C. Star Drop Rate against [Saber] enemies [{0}] (3 turns) & apply Special Attack [Saber] [{0}] (3 turns) & increase ATK [{0}] (3 turns) [g][o]▲[/o][/g] for yourself"
+  },
+  {
     "id": 713550,
     "detail": "Increase NP Gauge [g][o]▲[/o][/g] for yourself & gain a large amount of C. Stars [g][o]▲[/o][/g] [{0}] ",
     "detailShort": "Increase NP Gauge [g][o]▲[/o][/g] for yourself & gain a large amount of C. Stars [g][o]▲[/o][/g] [{0}] "
@@ -5710,6 +5755,26 @@
     "detailShort": "Increase Magifender Points amount per drop by 20% + increase Bond gained for all allies <including sub-members> when completing quests in \"Revival: The Land of Mystique, Oniland! - Lite\" by 5% (No effect when equipped as Support) [Event Only]"
   },
   {
+    "id": 963094,
+    "detail": "Increase your ATK Strength by 100% in \"Saber Wars 2 - To the Beginning of Space\" & increase Bond gained when completing quests by 50% [Event Only]",
+    "detailShort": "Increase your ATK Strength by 100% in \"Saber Wars 2 - To the Beginning of Space\" & increase Bond gained when completing quests by 50% [Event Only]"
+  },
+  {
+    "id": 963095,
+    "detail": "Increase your ATK Strength by 50% in \"Saber Wars 2 - To the Beginning of Space\" & increase Bond gained when completing quests by 20% [Event Only]",
+    "detailShort": "Increase your ATK Strength by 50% in \"Saber Wars 2 - To the Beginning of Space\" & increase Bond gained when completing quests by 20% [Event Only]"
+  },
+  {
+    "id": 963096,
+    "detail": "Increase your ATK Strength by 30% in \"Saber Wars 2 - To the Beginning of Space\" & increase Bond gained when completing quests by 20% [Event Only]",
+    "detailShort": "Increase your ATK Strength by 30% in \"Saber Wars 2 - To the Beginning of Space\" & increase Bond gained when completing quests by 20% [Event Only]"
+  },
+  {
+    "id": 963097,
+    "detail": "Increase amount of Altrium per drop by 2 [Event Only]",
+    "detailShort": "Increase amount of Altrium per drop by 2 [Event Only]"
+  },
+  {
     "id": 980001,
     "detail": "Greatly restore one ally's HP [{0}]",
     "detailShort": "Greatly restore one ally's HP [{0}]"
@@ -6008,6 +6073,21 @@
     "id": 980060,
     "detail": "Gain a large amount of Critical Stars + Increase C. Star Drop Rate (1 turn) & increase Critical Strength (1 turn) & increase NP Strength (1 turn) & increase NP Gain (1 turn) & increase NP Gauge for one ally",
     "detailShort": "Gain a large amount of Critical Stars + Increase C. Star Drop Rate (1 turn) & increase Critical Strength (1 turn) & increase NP Strength (1 turn) & increase NP Gain (1 turn) & increase NP Gauge for one ally"
+  },
+  {
+    "id": 980061,
+    "detail": "Increase NP Strength [{0}] (1 turn) & remove ATK Debuff for one ally",
+    "detailShort": "Increase NP Strength [{0}] (1 turn) & remove ATK Debuff for one ally"
+  },
+  {
+    "id": 980062,
+    "detail": "Increase Critical Strength [{0}] (1 turn) for one ally",
+    "detailShort": "Increase Critical Strength [{0}] (1 turn) for one ally"
+  },
+  {
+    "id": 980063,
+    "detail": "Apply Evade (1 time, 3 turns) & restore HP [{0}] for one ally",
+    "detailShort": "Apply Evade (1 time, 3 turns) & restore HP [{0}] for one ally"
   },
   {
     "id": 980064,
@@ -14843,6 +14923,141 @@
     "id": 991945,
     "detail": "Increase the amount of Master EXP gained by 50 when a quest is cleared",
     "detailShort": "Increase the amount of Master EXP gained by 50 when a quest is cleared"
+  },
+  {
+    "id": 991946,
+    "detail": "Increase Quick Card effectiveness by 8% & increase HP Recovery amount by 10% & begin battle with NP charged at 40% for yourself",
+    "detailShort": "Increase Quick Card effectiveness by 8% & increase HP Recovery amount by 10% & begin battle with NP charged at 40% for yourself"
+  },
+  {
+    "id": 991947,
+    "detail": "Increase Quick Card effectiveness by 10% & increase HP Recovery amount by 20% & begin battle with NP charged at 50% for yourself [MAX]",
+    "detailShort": "Increase Quick Card effectiveness by 10% & increase HP Recovery amount by 20% & begin battle with NP charged at 50% for yourself [MAX]"
+  },
+  {
+    "id": 991948,
+    "detail": "Increase amount of Gold Saber Badge per drop by 1 [Event Only]",
+    "detailShort": "Increase amount of Gold Saber Badge per drop by 1 [Event Only]"
+  },
+  {
+    "id": 991949,
+    "detail": "Increase amount of Gold Saber Badge per drop by 2 [MAX] [Event Only]",
+    "detailShort": "Increase amount of Gold Saber Badge per drop by 2 [MAX] [Event Only]"
+  },
+  {
+    "id": 991950,
+    "detail": "Increase Arts Card effectiveness by 8% & increase NP Charge by 1 level when using NP (1 time) for yourself",
+    "detailShort": "Increase Arts Card effectiveness by 8% & increase NP Charge by 1 level when using NP (1 time) for yourself"
+  },
+  {
+    "id": 991951,
+    "detail": "Increase Arts Card effectiveness by 10% & increase NP Charge by 1 level when using NP (1 time) for yourself [MAX]",
+    "detailShort": "Increase Arts Card effectiveness by 10% & increase NP Charge by 1 level when using NP (1 time) for yourself [MAX]"
+  },
+  {
+    "id": 991952,
+    "detail": "Increase amount of Silver Saber Badge per drop by 1 [Event Only]",
+    "detailShort": "Increase amount of Silver Saber Badge per drop by 1 [Event Only]"
+  },
+  {
+    "id": 991953,
+    "detail": "Increase amount of Silver Saber Badge per drop by 2 [MAX] [Event Only]",
+    "detailShort": "Increase amount of Silver Saber Badge per drop by 2 [MAX] [Event Only]"
+  },
+  {
+    "id": 991954,
+    "detail": "Increase Buster Card effectiveness by 5% & NP Gain by 3% for yourself",
+    "detailShort": "Increase Buster Card effectiveness by 5% & NP Gain by 3% for yourself"
+  },
+  {
+    "id": 991955,
+    "detail": "Increase Buster Card effectiveness by 8% & NP Gain by 5% for yourself [MAX]",
+    "detailShort": "Increase Buster Card effectiveness by 8% & NP Gain by 5% for yourself [MAX]"
+  },
+  {
+    "id": 991956,
+    "detail": "Increase amount of Bronze Saber Badge per drop by 1 [Event Only]",
+    "detailShort": "Increase amount of Bronze Saber Badge per drop by 1 [Event Only]"
+  },
+  {
+    "id": 991957,
+    "detail": "Increase amount of Bronze Saber Badge per drop by 2 [MAX] [Event Only]",
+    "detailShort": "Increase amount of Bronze Saber Badge per drop by 2 [MAX] [Event Only]"
+  },
+  {
+    "id": 991958,
+    "detail": "Increase NP Gain by 10% & increase NP Strength by 10% & gain 3 C. Stars each turn for yourself",
+    "detailShort": "Increase NP Gain by 10% & increase NP Strength by 10% & gain 3 C. Stars each turn for yourself"
+  },
+  {
+    "id": 991959,
+    "detail": "Increase NP Gain by 15% & increase NP Strength by 15% & gain 3 C. Stars each turn for yourself [MAX]",
+    "detailShort": "Increase NP Gain by 15% & increase NP Strength by 15% & gain 3 C. Stars each turn for yourself [MAX]"
+  },
+  {
+    "id": 991960,
+    "detail": "Increase your ATK Strength by 100% in \"Saber Wars 2 - To the Beginning of Space\" + Increase amount of Altrium per drop by 1 [Event Only]",
+    "detailShort": "Increase your ATK Strength by 100% in \"Saber Wars 2 - To the Beginning of Space\" + Increase amount of Altrium per drop by 1 [Event Only]"
+  },
+  {
+    "id": 991961,
+    "detail": "Increase your ATK Strength by 200% in \"Saber Wars 2 - To the Beginning of Space\" + Increase amount of Altrium per drop by 2 [MAX] [Event Only]",
+    "detailShort": "Increase your ATK Strength by 200% in \"Saber Wars 2 - To the Beginning of Space\" + Increase amount of Altrium per drop by 2 [MAX] [Event Only]"
+  },
+  {
+    "id": 991962,
+    "detail": "Increase Quick Card effectiveness by 10% & increase Buster Card effectiveness by 10% & increase Critical Strength by 10% for yourself",
+    "detailShort": "Increase Quick Card effectiveness by 10% & increase Buster Card effectiveness by 10% & increase Critical Strength by 10% for yourself"
+  },
+  {
+    "id": 991963,
+    "detail": "Increase Quick Card effectiveness by 15% & increase Buster Card effectiveness by 15% & increase Critical Strength by 15% for yourself [MAX]",
+    "detailShort": "Increase Quick Card effectiveness by 15% & increase Buster Card effectiveness by 15% & increase Critical Strength by 15% for yourself [MAX]"
+  },
+  {
+    "id": 991964,
+    "detail": "Increase ATK Strength by 50% for all allies (including sub-members) in \"Saber Wars 2 - To the Beginning of Space\" + Increase amount of Altrium per drop by 1 [Event Only]",
+    "detailShort": "Increase ATK Strength by 50% for all allies (including sub-members) in \"Saber Wars 2 - To the Beginning of Space\" + Increase amount of Altrium per drop by 1 [Event Only]"
+  },
+  {
+    "id": 991965,
+    "detail": "Increase ATK Strength by 100% for all allies (including sub-members) in \"Saber Wars 2 - To the Beginning of Space\" + Increase amount of Altrium per drop by 2 [MAX] [Event Only]",
+    "detailShort": "Increase ATK Strength by 100% for all allies (including sub-members) in \"Saber Wars 2 - To the Beginning of Space\" + Increase amount of Altrium per drop by 2 [MAX] [Event Only]"
+  },
+  {
+    "id": 991966,
+    "detail": "No Effect",
+    "detailShort": "No Effect"
+  },
+  {
+    "id": 991967,
+    "detail": "No Effect",
+    "detailShort": "No Effect"
+  },
+  {
+    "id": 991968,
+    "detail": "Increase Quick Card effectiveness by 8% & Arts Card effectiveness by 8% & Buster Card effectiveness by 8% for all allies only if [servantName 1100900] (Avenger) is equipped with this Craft Essence when she is on the field",
+    "detailShort": "Increase Quick Card effectiveness by 8% & Arts Card effectiveness by 8% & Buster Card effectiveness by 8% for all allies only if [servantName 1100900] (Avenger) is equipped with this Craft Essence when she is on the field"
+  },
+  {
+    "id": 991969,
+    "detail": "Increase NP Strength by 30% + Gain 20 C. Stars when entering the battle (1 time) for yourself only if [servantName 203700] (Archer) is equipped with this Craft Essence",
+    "detailShort": "Increase NP Strength by 30% + Gain 20 C. Stars when entering the battle (1 time) for yourself only if [servantName 203700] (Archer) is equipped with this Craft Essence"
+  },
+  {
+    "id": 991970,
+    "detail": "Inflict Burn (500 damage, 3 turns) to one enemy when attacking with the engraved Card",
+    "detailShort": "Inflict Burn (500 damage, 3 turns) to one enemy when attacking with the engraved Card"
+  },
+  {
+    "id": 991972,
+    "detail": "Apply 10% Special Attack [Threat to Humanity] effect & apply 10% Special Attack [Saber] effect to the engraved Card",
+    "detailShort": "Apply 10% Special Attack [Threat to Humanity] effect & apply 10% Special Attack [Saber] effect to the engraved Card"
+  },
+  {
+    "id": 991973,
+    "detail": "Increase Critical Strength by 25% for the engraved Card only if the engraved Card is a Buster Card",
+    "detailShort": "Increase Critical Strength by 25% for the engraved Card only if the engraved Card is a Buster Card"
   },
   {
     "id": 992045,

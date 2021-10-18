@@ -13312,7 +13312,7 @@
     "effectList": [
       347
     ],
-    "popupTextColor": 2,
+    "popupTextColor": 3,
     "id": 778,
     "cond": 0,
     "funcType": 1,
@@ -13331,7 +13331,7 @@
     "effectList": [
       347
     ],
-    "popupTextColor": 2,
+    "popupTextColor": 3,
     "id": 779,
     "cond": 0,
     "funcType": 1,
@@ -22192,13 +22192,13 @@
     "effectList": [
       347
     ],
-    "popupTextColor": 2,
+    "popupTextColor": 3,
     "id": 1243,
     "cond": 0,
     "funcType": 1,
     "targetType": 4,
     "applyTarget": 3,
-    "popupIconId": 528,
+    "popupIconId": 503,
     "popupText": "Bonus Effect",
     "categoryId": 0
   },
@@ -24900,7 +24900,7 @@
     "effectList": [
       347
     ],
-    "popupTextColor": 2,
+    "popupTextColor": 3,
     "id": 1389,
     "cond": 0,
     "funcType": 1,
@@ -24919,7 +24919,7 @@
     "effectList": [
       347
     ],
-    "popupTextColor": 2,
+    "popupTextColor": 3,
     "id": 1390,
     "cond": 0,
     "funcType": 1,
@@ -37597,7 +37597,9 @@
     ],
     "tvals": [],
     "questTvals": [],
-    "effectList": [],
+    "effectList": [
+      329
+    ],
     "popupTextColor": 1,
     "id": 2221,
     "cond": 0,
@@ -37614,7 +37616,9 @@
     ],
     "tvals": [],
     "questTvals": [],
-    "effectList": [],
+    "effectList": [
+      329
+    ],
     "popupTextColor": 1,
     "id": 2222,
     "cond": 0,
@@ -37631,7 +37635,9 @@
     ],
     "tvals": [],
     "questTvals": [],
-    "effectList": [],
+    "effectList": [
+      329
+    ],
     "popupTextColor": 1,
     "id": 2223,
     "cond": 0,
@@ -68996,7 +69002,7 @@
     "effectList": [
       347
     ],
-    "popupTextColor": 2,
+    "popupTextColor": 3,
     "id": 3986,
     "cond": 0,
     "funcType": 1,
@@ -70550,6 +70556,186 @@
   },
   {
     "vals": [
+      1887
+    ],
+    "tvals": [],
+    "questTvals": [
+      94000095
+    ],
+    "effectList": [
+      330
+    ],
+    "popupTextColor": 2,
+    "id": 4073,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 302,
+    "popupText": "Space Hunter",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1887
+    ],
+    "tvals": [],
+    "questTvals": [
+      94000095
+    ],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 4074,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 302,
+    "popupText": "Space Hunter",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1887
+    ],
+    "tvals": [],
+    "questTvals": [
+      94000095
+    ],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 4075,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 302,
+    "popupText": "Space Hunter",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 4076,
+    "cond": 0,
+    "funcType": 105,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "None",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 4077,
+    "cond": 0,
+    "funcType": 105,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "None",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 4078,
+    "cond": 0,
+    "funcType": 105,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "None",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 4079,
+    "cond": 0,
+    "funcType": 105,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "None",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 4080,
+    "cond": 0,
+    "funcType": 111,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "None",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1888
+    ],
+    "tvals": [],
+    "questTvals": [
+      94000095
+    ],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 4081,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 302,
+    "popupText": "STR Up: Saber Wars 2",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1888
+    ],
+    "tvals": [],
+    "questTvals": [
+      94000095
+    ],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 4082,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 7,
+    "applyTarget": 1,
+    "popupIconId": 302,
+    "popupText": "STR Up: Saber Wars 2",
+    "categoryId": 0
+  },
+  {
+    "vals": [
       1886
     ],
     "tvals": [],
@@ -70566,6 +70752,304 @@
     "popupIconId": 528,
     "popupText": "Activate when Attacking (NP Loss)",
     "categoryId": 59899
+  },
+  {
+    "vals": [
+      1889
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 4084,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 331,
+    "popupText": "Delayed Effect (Buff)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1822
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 4085,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 520,
+    "popupText": "Class Affinity Change",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1823
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 3,
+    "id": 4086,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1890
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 4087,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 343,
+    "popupText": "Fire Support Set",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1891
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 4088,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 343,
+    "popupText": "Triggers Each Turn \n(Teachable Moment)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1893
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 4089,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 347,
+    "popupText": "Buster Resist\nUp",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1892
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 4090,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 528,
+    "popupText": "Activate when Attacking \n(Inflict Stun)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      184
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      342
+    ],
+    "popupTextColor": 1,
+    "id": 4091,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 8,
+    "applyTarget": 3,
+    "popupIconId": 520,
+    "popupText": "Apply Dragon\nTrait",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      184
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      342
+    ],
+    "popupTextColor": 1,
+    "id": 4092,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 7,
+    "applyTarget": 3,
+    "popupIconId": 520,
+    "popupText": "Apply Dragon\nTrait",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1894
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 4093,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 311,
+    "popupText": "Galactic Theory of Life",
+    "categoryId": 20204
+  },
+  {
+    "vals": [
+      1895
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 4094,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 311,
+    "popupText": "Galactic Theory of Life",
+    "categoryId": 20204
+  },
+  {
+    "vals": [
+      1896
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 2,
+    "id": 4095,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1897
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 2,
+    "id": 4096,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 20202
+  },
+  {
+    "vals": [
+      1898
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 4097,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 528,
+    "popupText": "Flaming Singing Voice",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1899
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 4098,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 331,
+    "popupText": "Crimson Anger",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2530
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 4099,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 350,
+    "popupText": "Harvest Festival's Hellfire",
+    "categoryId": 0
   },
   {
     "vals": [
@@ -75272,6 +75756,210 @@
   },
   {
     "vals": [
+      1950
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 1,
+    "id": 4758,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 4,
+    "applyTarget": 2,
+    "popupIconId": 323,
+    "popupText": "Target Focus\nUp",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1951
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 1,
+    "id": 4759,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 4,
+    "applyTarget": 1,
+    "popupIconId": 323,
+    "popupText": "Target Focus\nUp",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      700200
+    ],
+    "questTvals": [],
+    "effectList": [
+      345
+    ],
+    "popupTextColor": 3,
+    "id": 4760,
+    "cond": 0,
+    "funcType": 12,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "HP Loss",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      126
+    ],
+    "tvals": [
+      2543
+    ],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 4761,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 7,
+    "applyTarget": 3,
+    "popupIconId": 300,
+    "popupText": "ATK Up",
+    "categoryId": 10201
+  },
+  {
+    "vals": [
+      100
+    ],
+    "tvals": [
+      2543
+    ],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 4762,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 7,
+    "applyTarget": 3,
+    "popupIconId": 312,
+    "popupText": "Quick Up",
+    "categoryId": 10202
+  },
+  {
+    "vals": [
+      101
+    ],
+    "tvals": [
+      2543
+    ],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 4763,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 7,
+    "applyTarget": 3,
+    "popupIconId": 313,
+    "popupText": "Arts Up",
+    "categoryId": 10203
+  },
+  {
+    "vals": [
+      102
+    ],
+    "tvals": [
+      2543
+    ],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 4764,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 7,
+    "applyTarget": 3,
+    "popupIconId": 314,
+    "popupText": "Buster Up",
+    "categoryId": 10204
+  },
+  {
+    "vals": [
+      138
+    ],
+    "tvals": [
+      2543
+    ],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 4765,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 7,
+    "applyTarget": 3,
+    "popupIconId": 310,
+    "popupText": "NP Strength Up",
+    "categoryId": 10601
+  },
+  {
+    "vals": [
+      199
+    ],
+    "tvals": [
+      2543
+    ],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 4766,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 7,
+    "applyTarget": 3,
+    "popupIconId": 330,
+    "popupText": "Max HP Up",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      122
+    ],
+    "tvals": [
+      2543
+    ],
+    "questTvals": [],
+    "effectList": [
+      325
+    ],
+    "popupTextColor": 1,
+    "id": 4767,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 7,
+    "applyTarget": 3,
+    "popupIconId": 318,
+    "popupText": "HP Recovery\nPer Turn",
+    "categoryId": 20402
+  },
+  {
+    "vals": [
       2531
     ],
     "tvals": [],
@@ -75289,6 +75977,1374 @@
     "applyTarget": 3,
     "popupIconId": 300,
     "popupText": "Shining Magifender Power",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 4769,
+    "cond": 0,
+    "funcType": 54,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 4770,
+    "cond": 0,
+    "funcType": 54,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 4771,
+    "cond": 0,
+    "funcType": 54,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 4772,
+    "cond": 0,
+    "funcType": 54,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 4773,
+    "cond": 0,
+    "funcType": 54,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      510
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 4774,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 351,
+    "popupText": "Ignore DEF",
+    "categoryId": 10803
+  },
+  {
+    "vals": [
+      3008
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      329
+    ],
+    "popupTextColor": 1,
+    "id": 4775,
+    "cond": 0,
+    "funcType": 2,
+    "targetType": 1,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "Remove ATK Debuff",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2532
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      326
+    ],
+    "popupTextColor": 2,
+    "id": 4776,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 325,
+    "popupText": "C. Star Gather Rate Up: Quick",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2532
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      327
+    ],
+    "popupTextColor": 2,
+    "id": 4777,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 325,
+    "popupText": "C. Star Gather Rate Up: Quick",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2532
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 4778,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 325,
+    "popupText": "C. Star Gather Rate Up: Quick",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2532
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      326
+    ],
+    "popupTextColor": 2,
+    "id": 4779,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 1,
+    "applyTarget": 1,
+    "popupIconId": 325,
+    "popupText": "C. Star Gather Rate Up: Quick",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2532
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      327
+    ],
+    "popupTextColor": 2,
+    "id": 4780,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 1,
+    "applyTarget": 1,
+    "popupIconId": 325,
+    "popupText": "C. Star Gather Rate Up: Quick",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2532
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 4781,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 1,
+    "applyTarget": 1,
+    "popupIconId": 325,
+    "popupText": "C. Star Gather Rate Up: Quick",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1551
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 4782,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 9,
+    "applyTarget": 3,
+    "popupIconId": 322,
+    "popupText": "Charm Immune",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2533
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 1,
+    "id": 4783,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 25,
+    "applyTarget": 1,
+    "popupIconId": 361,
+    "popupText": "NP Type Change",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2534
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 1,
+    "id": 4784,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 25,
+    "applyTarget": 2,
+    "popupIconId": 361,
+    "popupText": "NP Type Change: Arts",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2535
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 1,
+    "id": 4785,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 25,
+    "applyTarget": 2,
+    "popupIconId": 361,
+    "popupText": "NP Type Change: Buster",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2536
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 1,
+    "id": 4786,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 25,
+    "applyTarget": 2,
+    "popupIconId": 361,
+    "popupText": "NP Type Change: Quick",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2537
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      330
+    ],
+    "popupTextColor": 2,
+    "id": 4787,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 302,
+    "popupText": "Extra Attack STR Up",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2537
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 4788,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 302,
+    "popupText": "Extra Attack STR Up",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2537
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 4789,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 302,
+    "popupText": "Extra Attack STR Up",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2537
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      330
+    ],
+    "popupTextColor": 2,
+    "id": 4790,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 1,
+    "applyTarget": 1,
+    "popupIconId": 302,
+    "popupText": "Extra Attack STR Up",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2537
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 4791,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 1,
+    "applyTarget": 1,
+    "popupIconId": 302,
+    "popupText": "Extra Attack STR Up",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2537
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 4792,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 1,
+    "applyTarget": 1,
+    "popupIconId": 302,
+    "popupText": "Extra Attack STR Up",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2537
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      330
+    ],
+    "popupTextColor": 2,
+    "id": 4793,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 3,
+    "applyTarget": 1,
+    "popupIconId": 302,
+    "popupText": "Extra Attack STR Up",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2537
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 4794,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 3,
+    "applyTarget": 1,
+    "popupIconId": 302,
+    "popupText": "Extra Attack STR Up",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2537
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 4795,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 3,
+    "applyTarget": 1,
+    "popupIconId": 302,
+    "popupText": "Extra Attack STR Up",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2538
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      342
+    ],
+    "popupTextColor": 1,
+    "id": 4796,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 4,
+    "applyTarget": 3,
+    "popupIconId": 520,
+    "popupText": "Apply Saber Badge",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2539
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      342
+    ],
+    "popupTextColor": 1,
+    "id": 4797,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 8,
+    "applyTarget": 3,
+    "popupIconId": 520,
+    "popupText": "Foreigner Misidentification",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2539
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      342
+    ],
+    "popupTextColor": 1,
+    "id": 4798,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 7,
+    "applyTarget": 3,
+    "popupIconId": 520,
+    "popupText": "Foreigner Misidentification",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2544
+    ],
+    "tvals": [
+      2544
+    ],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 1,
+    "id": 4799,
+    "cond": 0,
+    "funcType": 2,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "Remove Part A Stance",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 4800,
+    "cond": 0,
+    "funcType": 32,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2545
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 4801,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 301,
+    "popupText": "Part A Stance",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2540
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      342
+    ],
+    "popupTextColor": 1,
+    "id": 4802,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "Class Change",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2541
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 4803,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 331,
+    "popupText": "Activate when Damaged (Buster)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2542
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 4804,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 331,
+    "popupText": "Activate when Damaged ",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2544
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 4805,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "Space Pirate's Pride",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2543
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 4806,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 331,
+    "popupText": "Activate when Damaged",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      126
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      330
+    ],
+    "popupTextColor": 2,
+    "id": 4807,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 300,
+    "popupText": "ATK Up",
+    "categoryId": 10201
+  },
+  {
+    "vals": [
+      126
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 4808,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 300,
+    "popupText": "ATK Up",
+    "categoryId": 10201
+  },
+  {
+    "vals": [
+      2564
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 4809,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 302,
+    "popupText": "STR Up (Curse)",
+    "categoryId": 10201
+  },
+  {
+    "vals": [
+      2546
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 4810,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 520,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2547
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 4811,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 520,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2548
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 4812,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 520,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2549
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 4813,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 520,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2550
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 4814,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 520,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2551
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 4815,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 520,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2552
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 4816,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 343,
+    "popupText": "Triggers Each Turn \n(NP Strength Up)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      142
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 4817,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 1,
+    "applyTarget": 1,
+    "popupIconId": 324,
+    "popupText": "Critical Up",
+    "categoryId": 10401
+  },
+  {
+    "vals": [
+      142
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 4818,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 1,
+    "applyTarget": 2,
+    "popupIconId": 324,
+    "popupText": "Critical Up",
+    "categoryId": 10401
+  },
+  {
+    "vals": [
+      151
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      334
+    ],
+    "popupTextColor": 2,
+    "id": 4819,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 1,
+    "applyTarget": 1,
+    "popupIconId": 305,
+    "popupText": "Evade",
+    "categoryId": 20203
+  },
+  {
+    "vals": [
+      151
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      334
+    ],
+    "popupTextColor": 2,
+    "id": 4820,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 1,
+    "applyTarget": 2,
+    "popupIconId": 305,
+    "popupText": "Evade",
+    "categoryId": 20203
+  },
+  {
+    "vals": [
+      189
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 4821,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 1,
+    "applyTarget": 1,
+    "popupIconId": 329,
+    "popupText": "Ignore\nInvincible",
+    "categoryId": 10802
+  },
+  {
+    "vals": [
+      189
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 4822,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 1,
+    "applyTarget": 2,
+    "popupIconId": 329,
+    "popupText": "Ignore\nInvincible",
+    "categoryId": 10802
+  },
+  {
+    "vals": [
+      2553
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 2,
+    "id": 4823,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2553
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 2,
+    "id": 4824,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2553
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 2,
+    "id": 4825,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2554
+    ],
+    "tvals": [
+      2558
+    ],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 4826,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 331,
+    "popupText": "Delayed Effect \n(Regeneration of an Icon)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2555
+    ],
+    "tvals": [
+      2559
+    ],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 4827,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 331,
+    "popupText": "Delayed Effect \n(Regeneration of an Icon)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2556
+    ],
+    "tvals": [
+      2560
+    ],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 4828,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 331,
+    "popupText": "Delayed Effect \n(Regeneration of an Hero)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2557
+    ],
+    "tvals": [
+      2561
+    ],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 4829,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 331,
+    "popupText": "Delayed Effect \n(Regeneration of an Hero)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2558
+    ],
+    "tvals": [
+      2562
+    ],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 4830,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 331,
+    "popupText": "Delayed Effect \n(Regeneration of an Witch)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2559
+    ],
+    "tvals": [
+      2563
+    ],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 4831,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 331,
+    "popupText": "Delayed Effect \n(Regeneration of an Witch)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2560
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 4832,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2564
+    ],
+    "tvals": [
+      2564
+    ],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 4833,
+    "cond": 0,
+    "funcType": 2,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      355
+    ],
+    "popupTextColor": 1,
+    "id": 4834,
+    "cond": 0,
+    "funcType": 0,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "None",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2561
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 3,
+    "id": 4835,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 8,
+    "applyTarget": 3,
+    "popupIconId": 531,
+    "popupText": "Nullify Buff",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2562
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 1,
+    "id": 4836,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 319,
+    "popupText": "Charge Plus\nEach Turn",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2538
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 4837,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 4,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2563
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 4838,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 300,
+    "popupText": "Part B Stance",
+    "categoryId": 10201
+  },
+  {
+    "vals": [
+      1433
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 4839,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 8,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2565
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 4840,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 301,
+    "popupText": "Anti-Dragon Swordsmanship",
+    "categoryId": 20201
+  },
+  {
+    "vals": [
+      2566
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 4841,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 333,
+    "popupText": "Bonus Effect",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2567
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 4842,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
     "categoryId": 0
   },
   {
@@ -75470,6 +77526,25 @@
   },
   {
     "vals": [
+      2587
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 4870,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 520,
+    "popupText": "Class Affinity Change",
+    "categoryId": 0
+  },
+  {
+    "vals": [
       2590
     ],
     "tvals": [],
@@ -75485,6 +77560,1125 @@
     "applyTarget": 3,
     "popupIconId": 520,
     "popupText": "Change DEF Affinity",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 4880,
+    "cond": 0,
+    "funcType": 111,
+    "targetType": 7,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "None",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2600
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 4900,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 334,
+    "popupText": "Arc Gift",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2601
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 1,
+    "id": 4901,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 306,
+    "popupText": "",
+    "categoryId": 30201
+  },
+  {
+    "vals": [
+      2572
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 1,
+    "id": 4902,
+    "cond": 0,
+    "funcType": 2,
+    "targetType": 8,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "Formation Break",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2602
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 4903,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 8,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "Re-establish Formation",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2603
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 1,
+    "id": 4904,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "There's an opening!",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2588
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 4905,
+    "cond": 0,
+    "funcType": 2,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2604
+    ],
+    "tvals": [
+      100700
+    ],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 4906,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 331,
+    "popupText": "Prepare Formation \n(Cataphract Shift/Sword)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2609
+    ],
+    "tvals": [
+      100700
+    ],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 4907,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 331,
+    "popupText": "Prepare Formation \n(Cataphract Shift/Sword)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2605
+    ],
+    "tvals": [
+      102000
+    ],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 4908,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 331,
+    "popupText": "Prepare Formation \n(Cataphract Shift/Sword)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2610
+    ],
+    "tvals": [
+      102000
+    ],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 4909,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 331,
+    "popupText": "Prepare Formation \n(Cataphract Shift/Sword)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2606
+    ],
+    "tvals": [
+      101200
+    ],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 4910,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 331,
+    "popupText": "Prepare Formation \n(Cataphract Shift/Sword)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2611
+    ],
+    "tvals": [
+      101200
+    ],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 4911,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 331,
+    "popupText": "Prepare Formation \n(Cataphract Shift/Sword)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2607
+    ],
+    "tvals": [
+      200800
+    ],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 4912,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 331,
+    "popupText": "Prepare Formation \n(Cataphract Shift/Arrow)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2612
+    ],
+    "tvals": [
+      200800
+    ],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 4913,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 331,
+    "popupText": "Prepare Formation \n(Cataphract Shift/Arrow)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2608
+    ],
+    "tvals": [
+      303900
+    ],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 4914,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 331,
+    "popupText": "Prepare Formation \n(Cataphract Shift/Lance)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2613
+    ],
+    "tvals": [
+      303900
+    ],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 4915,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 331,
+    "popupText": "Prepare Formation \n(Cataphract Shift/Lance)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      487
+    ],
+    "tvals": [
+      100700
+    ],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 1,
+    "id": 4916,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 6,
+    "applyTarget": 2,
+    "popupIconId": 323,
+    "popupText": "Target Focus\nUp",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      487
+    ],
+    "tvals": [
+      102000
+    ],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 1,
+    "id": 4917,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 6,
+    "applyTarget": 2,
+    "popupIconId": 323,
+    "popupText": "Target Focus\nUp",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      487
+    ],
+    "tvals": [
+      101200
+    ],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 1,
+    "id": 4918,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 6,
+    "applyTarget": 2,
+    "popupIconId": 323,
+    "popupText": "Target Focus\nUp",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      487
+    ],
+    "tvals": [
+      200800
+    ],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 1,
+    "id": 4919,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 6,
+    "applyTarget": 2,
+    "popupIconId": 323,
+    "popupText": "Target Focus\nUp",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      487
+    ],
+    "tvals": [
+      303900
+    ],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 1,
+    "id": 4920,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 6,
+    "applyTarget": 2,
+    "popupIconId": 323,
+    "popupText": "Target Focus\nUp",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2614
+    ],
+    "tvals": [
+      100700
+    ],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 3,
+    "id": 4921,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 525,
+    "popupText": "Chance of Formation (Quick)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2615
+    ],
+    "tvals": [
+      100700
+    ],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 3,
+    "id": 4922,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 525,
+    "popupText": "Chance of Formation (Arts)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2616
+    ],
+    "tvals": [
+      100700
+    ],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 3,
+    "id": 4923,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 525,
+    "popupText": "Chance of Formation (Buster)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2617
+    ],
+    "tvals": [
+      100700
+    ],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 3,
+    "id": 4924,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 525,
+    "popupText": "Chance of Formation (Critical)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2618
+    ],
+    "tvals": [
+      100700
+    ],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 3,
+    "id": 4925,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 525,
+    "popupText": "Chance of Formation (NP)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2614
+    ],
+    "tvals": [
+      102000
+    ],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 3,
+    "id": 4926,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 525,
+    "popupText": "Chance of Formation (Quick)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2615
+    ],
+    "tvals": [
+      102000
+    ],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 3,
+    "id": 4927,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 525,
+    "popupText": "Chance of Formation (Arts)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2616
+    ],
+    "tvals": [
+      102000
+    ],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 3,
+    "id": 4928,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 525,
+    "popupText": "Chance of Formation (Buster)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2617
+    ],
+    "tvals": [
+      102000
+    ],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 3,
+    "id": 4929,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 525,
+    "popupText": "Chance of Formation (Critical)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2618
+    ],
+    "tvals": [
+      102000
+    ],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 3,
+    "id": 4930,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 525,
+    "popupText": "Chance of Formation (NP)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2614
+    ],
+    "tvals": [
+      101200
+    ],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 3,
+    "id": 4931,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 525,
+    "popupText": "Chance of Formation (Quick)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2615
+    ],
+    "tvals": [
+      101200
+    ],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 3,
+    "id": 4932,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 525,
+    "popupText": "Chance of Formation (Arts)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2616
+    ],
+    "tvals": [
+      101200
+    ],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 3,
+    "id": 4933,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 525,
+    "popupText": "Chance of Formation (Buster)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2617
+    ],
+    "tvals": [
+      101200
+    ],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 3,
+    "id": 4934,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 525,
+    "popupText": "Chance of Formation (Critical)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2618
+    ],
+    "tvals": [
+      101200
+    ],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 3,
+    "id": 4935,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 525,
+    "popupText": "Chance of Formation (NP)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2614
+    ],
+    "tvals": [
+      200800
+    ],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 3,
+    "id": 4936,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 525,
+    "popupText": "Chance of Formation (Quick)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2615
+    ],
+    "tvals": [
+      200800
+    ],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 3,
+    "id": 4937,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 525,
+    "popupText": "Chance of Formation (Arts)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2616
+    ],
+    "tvals": [
+      200800
+    ],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 3,
+    "id": 4938,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 525,
+    "popupText": "Chance of Formation (Buster)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2617
+    ],
+    "tvals": [
+      200800
+    ],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 3,
+    "id": 4939,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 525,
+    "popupText": "Chance of Formation (Critical)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2618
+    ],
+    "tvals": [
+      200800
+    ],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 3,
+    "id": 4940,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 525,
+    "popupText": "Chance of Formation (NP)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2614
+    ],
+    "tvals": [
+      303900
+    ],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 3,
+    "id": 4941,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 525,
+    "popupText": "Chance of Formation (Quick)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2615
+    ],
+    "tvals": [
+      303900
+    ],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 3,
+    "id": 4942,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 525,
+    "popupText": "Chance of Formation (Arts)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2616
+    ],
+    "tvals": [
+      303900
+    ],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 3,
+    "id": 4943,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 525,
+    "popupText": "Chance of Formation (Buster)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2617
+    ],
+    "tvals": [
+      303900
+    ],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 3,
+    "id": 4944,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 525,
+    "popupText": "Chance of Formation (Critical)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2618
+    ],
+    "tvals": [
+      303900
+    ],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 3,
+    "id": 4945,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 525,
+    "popupText": "Chance of Formation (NP)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      138
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 4946,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 310,
+    "popupText": "NP Strength Up",
+    "categoryId": 10601
+  },
+  {
+    "vals": [
+      510
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 4947,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 351,
+    "popupText": "Ignore DEF",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2602
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 1,
+    "id": 4948,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      126
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 4949,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 300,
+    "popupText": "ATK Up",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      144
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 4950,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 327,
+    "popupText": "Critical Rate\nUp",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      142
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 4951,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 324,
+    "popupText": "Critical Up",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      360
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 1,
+    "id": 4952,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 11,
+    "applyTarget": 1,
+    "popupIconId": 323,
+    "popupText": "Target Focus\nUp",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      189
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 4953,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 329,
+    "popupText": "Ignore\nInvincible",
     "categoryId": 0
   },
   {

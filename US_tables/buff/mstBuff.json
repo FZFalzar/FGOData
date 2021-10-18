@@ -5292,9 +5292,9 @@
     "id": 379,
     "buffGroup": 0,
     "type": 89,
-    "name": "Debuff When Attacking",
-    "detail": "Chance to apply debuff to self with normal attacks",
-    "iconId": 528,
+    "name": "Debuff Effect when Attacking",
+    "detail": "Apply debuff to self during normal attacks",
+    "iconId": 503,
     "maxRate": 0,
     "effectId": 0
   },
@@ -6479,7 +6479,7 @@
     "buffGroup": 0,
     "type": 38,
     "name": "Target Focus",
-    "detail": "Apply Target Focus to yourself",
+    "detail": "Increase chance of being targeted by enemies",
     "iconId": 323,
     "maxRate": 50000,
     "effectId": 0
@@ -7499,7 +7499,7 @@
     "buffGroup": 0,
     "type": 38,
     "name": "Target Focus",
-    "detail": "Apply Target Focus to yourself",
+    "detail": "Increase chance of being targeted by enemies",
     "iconId": 323,
     "maxRate": 50000,
     "effectId": 0
@@ -8570,7 +8570,7 @@
     "buffGroup": 700,
     "type": 38,
     "name": "Target Focus Up",
-    "detail": "Set Target",
+    "detail": "Set Target to yourself",
     "iconId": 323,
     "maxRate": 50000,
     "effectId": 0
@@ -10694,8 +10694,8 @@
     "id": 878,
     "buffGroup": 700,
     "type": 38,
-    "name": "Target Focus Up",
-    "detail": "Set Target",
+    "name": "Target Focused",
+    "detail": "Set Target to yourself",
     "iconId": 323,
     "maxRate": 50000,
     "effectId": 0
@@ -11146,8 +11146,8 @@
     "id": 904,
     "buffGroup": 700,
     "type": 38,
-    "name": "Target Focus Up",
-    "detail": "Set Target",
+    "name": "Target Focused",
+    "detail": "Set Target to yourself",
     "iconId": 323,
     "maxRate": 50000,
     "effectId": 0
@@ -11258,8 +11258,8 @@
     "id": 911,
     "buffGroup": 700,
     "type": 38,
-    "name": "Target Focus Up",
-    "detail": "Set Target",
+    "name": "Target Focused",
+    "detail": "Increase chance of being targeted by enemies",
     "iconId": 323,
     "maxRate": 50000,
     "effectId": 0
@@ -26663,6 +26663,224 @@
     "ckSelfIndv": [],
     "ckOpIndv": [],
     "script": {},
+    "id": 1887,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "Space Hunter",
+    "detail": "Increase damage dealt during \"Saber Wars 2 - To the Beginning of Space\"",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1888,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "Strength Up",
+    "detail": "Increase damage dealt during \"Saber Wars 2 - To the Beginning of Space\"",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1889,
+    "buffGroup": 1889,
+    "type": 76,
+    "name": "Delayed Effect (Buff)",
+    "detail": "Apply Ignore Invincible after 1 turn",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1890,
+    "buffGroup": 0,
+    "type": 85,
+    "name": "Saber Ninja Art: Violent Launch",
+    "detail": "Fire Support will arrive after each turn",
+    "iconId": 343,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1891,
+    "buffGroup": 0,
+    "type": 85,
+    "name": "Triggers Each Turn (Teachable Moment)",
+    "detail": "Decrease Buster Card effectiveness for all enemies after each turn",
+    "iconId": 343,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1892,
+    "buffGroup": 0,
+    "type": 89,
+    "name": "Activate when Attacking (Inflict Stun)",
+    "detail": "Inflict Stun to a single enemy during your normal attacks",
+    "iconId": 528,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [
+      5000,
+      4002
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4002
+    ],
+    "script": {},
+    "id": 1893,
+    "buffGroup": 0,
+    "type": 105,
+    "name": "Buster Card Resist",
+    "detail": "Increase resistance against Buster attacks for yourself while the Sun Gibier is on the field",
+    "iconId": 347,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1894,
+    "buffGroup": 400,
+    "type": 26,
+    "name": "Galactic Theory of Life",
+    "detail": "Apply \"nullify attacks smaller than a galaxy\" state to yourself",
+    "iconId": 311,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      5000
+    ],
+    "script": {},
+    "id": 1895,
+    "buffGroup": 400,
+    "type": 26,
+    "name": "Galactic Theory of Life",
+    "detail": "Apply \"nullify attacks smaller than a galaxy\" state to yourself",
+    "iconId": 311,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      5000
+    ],
+    "script": {},
+    "id": 1896,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "",
+    "detail": "",
+    "iconId": 334,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      5000
+    ],
+    "script": {},
+    "id": 1897,
+    "buffGroup": 0,
+    "type": 23,
+    "name": "",
+    "detail": "",
+    "iconId": 301,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1898,
+    "buffGroup": 0,
+    "type": 89,
+    "name": "Flaming Singing Voice",
+    "detail": "Inflict Burn to a single enemy during your normal attacks",
+    "iconId": 528,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [
+      5000
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1899,
+    "buffGroup": 0,
+    "type": 86,
+    "name": "Crimson Anger",
+    "detail": "Apply a state where you inflict Burn to a single enemy when attacked",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
     "id": 1900,
     "buffGroup": 0,
     "type": 89,
@@ -27151,6 +27369,42 @@
     "detail": "Apply a state where there's a chance to reduce damage taken to 0 at the end of each turn",
     "iconId": 343,
     "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005,
+      3023
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1950,
+    "buffGroup": 700,
+    "type": 38,
+    "name": "Target Focused",
+    "detail": "Set Target to yourself",
+    "iconId": 323,
+    "maxRate": 50000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005,
+      3023
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 1951,
+    "buffGroup": 700,
+    "type": 38,
+    "name": "Target Focused",
+    "detail": "Increase chance of being targeted by enemies",
+    "iconId": 323,
+    "maxRate": 50000,
     "effectId": 0
   },
   {
@@ -29574,6 +29828,21 @@
     "ckSelfIndv": [],
     "ckOpIndv": [],
     "script": {},
+    "id": 2530,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "Harvest Festival's Hellfire",
+    "detail": "When HP reaches 0, inflict Spreading Fire state to all enemies",
+    "iconId": 350,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
     "id": 2531,
     "buffGroup": 0,
     "type": 9,
@@ -29581,6 +29850,648 @@
     "detail": "Increase ATK in \"Revival: The Land of Mystique, Oniland! - Lite\"",
     "iconId": 300,
     "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [
+      4003
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2532,
+    "buffGroup": 0,
+    "type": 2,
+    "name": "C. Star Gather Rate Up: Quick",
+    "detail": "Increase C. Star Gather Rate for Quick Cards",
+    "iconId": 325,
+    "maxRate": 100000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2533,
+    "buffGroup": 0,
+    "type": 143,
+    "name": "NP Type Change",
+    "detail": "Change NP Type",
+    "iconId": 361,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2534,
+    "buffGroup": 0,
+    "type": 145,
+    "name": "NP Type Change: Arts",
+    "detail": "Change NP Type to Arts",
+    "iconId": 361,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2535,
+    "buffGroup": 0,
+    "type": 146,
+    "name": "NP Type Change: Buster",
+    "detail": "Change NP Type to Buster",
+    "iconId": 361,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2536,
+    "buffGroup": 0,
+    "type": 147,
+    "name": "NP Type Change: Quick",
+    "detail": "Change NP Type to Quick",
+    "iconId": 361,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006
+    ],
+    "tvals": [
+      5000,
+      4004
+    ],
+    "ckSelfIndv": [
+      4004
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2537,
+    "buffGroup": 0,
+    "type": 1,
+    "name": "Extra Attack STR Up",
+    "detail": "Increase Extra Attack Strength",
+    "iconId": 302,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2538,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "Apply Saber Badge",
+    "detail": "Apply [Saber] trait",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2566
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2539,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "Foreigner Misidentification",
+    "detail": "Apply [Threat to Humanity] trait",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2292
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2540,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "",
+    "detail": "",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [
+      5000,
+      4002
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4002
+    ],
+    "script": {},
+    "id": 2541,
+    "buffGroup": 0,
+    "type": 86,
+    "name": "Activate when Damaged (Buster)",
+    "detail": "Increase NP Charge by 1 for yourself when receiving Buster attacks",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2542,
+    "buffGroup": 0,
+    "type": 86,
+    "name": "Activate when Damaged",
+    "detail": "Increase your ATK when attacked",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2543,
+    "buffGroup": 0,
+    "type": 86,
+    "name": "Activate when Damaged",
+    "detail": "Chance to inflict Curse to a single enemy when attacked + Increase ATK for yourself",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3024
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2544,
+    "buffGroup": 0,
+    "type": 37,
+    "name": "Space Pirate's Pride",
+    "detail": "When HP reaches 0, recover HP and survive",
+    "iconId": 304,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2544
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2545,
+    "buffGroup": 0,
+    "type": 42,
+    "name": "Part A Stance",
+    "detail": "Increase DEF",
+    "iconId": 301,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4002
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4002
+    ],
+    "script": {},
+    "id": 2546,
+    "buffGroup": 0,
+    "type": 86,
+    "name": "Saber Badge",
+    "detail": "Change your class to Saber (removed when receiving Buster attacks)",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4001
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4001
+    ],
+    "script": {},
+    "id": 2547,
+    "buffGroup": 0,
+    "type": 86,
+    "name": "Saber Badge",
+    "detail": "Change your class to Saber (removed when receiving Arts attacks)",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4003
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4003
+    ],
+    "script": {},
+    "id": 2548,
+    "buffGroup": 0,
+    "type": 86,
+    "name": "Saber Badge",
+    "detail": "Change your class to Saber (removed when receiving Quick attacks)",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4100
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4100
+    ],
+    "script": {},
+    "id": 2549,
+    "buffGroup": 0,
+    "type": 86,
+    "name": "Saber Badge",
+    "detail": "Change your class to Saber (removed when receiving Critical attacks)",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      3009
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      3009
+    ],
+    "script": {},
+    "id": 2550,
+    "buffGroup": 0,
+    "type": 86,
+    "name": "Saber Badge",
+    "detail": "Change your class to Saber (removed when receiving DEF Debuff)",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      3008
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      3008
+    ],
+    "script": {},
+    "id": 2551,
+    "buffGroup": 0,
+    "type": 86,
+    "name": "Saber Badge",
+    "detail": "Change your class to Saber (removed when receiving ATK Debuff)",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2552,
+    "buffGroup": 0,
+    "type": 85,
+    "name": "Triggers Each Turn (NP Strength Up)",
+    "detail": "Apply a state where NP Strength increases each turn",
+    "iconId": 343,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2553,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "",
+    "detail": "",
+    "iconId": 306,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2554,
+    "buffGroup": 0,
+    "type": 76,
+    "name": "Delayed Effect (Regeneration of an Icon)",
+    "detail": "After 3 turns, One resurrects",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2555,
+    "buffGroup": 0,
+    "type": 76,
+    "name": "Delayed Effect (Regeneration of an Icon)",
+    "detail": "After 5 turns, One resurrects",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2556,
+    "buffGroup": 0,
+    "type": 76,
+    "name": "Delayed Effect (Regeneration of a Hero)",
+    "detail": "After 3 turns, Two resurrects",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2557,
+    "buffGroup": 0,
+    "type": 76,
+    "name": "Delayed Effect (Regeneration of a Hero)",
+    "detail": "After 5 turns, Two resurrects",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2558,
+    "buffGroup": 0,
+    "type": 76,
+    "name": "Delayed Effect (Regeneration of a Witch)",
+    "detail": "After 3 turns, Three resurrects",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2559,
+    "buffGroup": 0,
+    "type": 76,
+    "name": "Delayed Effect (Regeneration of a Witch)",
+    "detail": "After 5 turns, Three resurrects",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2564
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2560,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "",
+    "detail": "",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005
+    ],
+    "tvals": [
+      3004
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      3004
+    ],
+    "script": {},
+    "id": 2561,
+    "buffGroup": 1000,
+    "type": 31,
+    "name": "Nullify Buff",
+    "detail": "Will not receive Buffs while the Sun Marinade is on the field",
+    "iconId": 531,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2562,
+    "buffGroup": 0,
+    "type": 85,
+    "name": "Charge Plus Each Turn",
+    "detail": "Set Charge to maximum each turn",
+    "iconId": 319,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2563,
+    "buffGroup": 0,
+    "type": 9,
+    "name": "Part B Stance",
+    "detail": "Increase ATK",
+    "iconId": 300,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006,
+      3028
+    ],
+    "tvals": [
+      3026
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      3026
+    ],
+    "script": {},
+    "id": 2564,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "Strength Up (Curse)",
+    "detail": "Increase damage to [Cursed] enemies",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3007,
+      3040,
+      3058
+    ],
+    "tvals": [
+      2002
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      2002
+    ],
+    "script": {},
+    "id": 2565,
+    "buffGroup": 0,
+    "type": 42,
+    "name": "Anti-Dragon Swordsmanship",
+    "detail": "Increase DEF against [Dragon]",
+    "iconId": 301,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4007
+    ],
+    "ckSelfIndv": [
+      4007
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2566,
+    "buffGroup": 0,
+    "type": 137,
+    "name": "",
+    "detail": "",
+    "iconId": 333,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2570
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2567,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "",
+    "detail": "",
+    "iconId": 520,
+    "maxRate": 0,
     "effectId": 0
   },
   {
@@ -29746,6 +30657,369 @@
     "name": "Change DEF Affinity",
     "detail": "Negate the DEF disadvantage due to Class Affinity",
     "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "INDIVIDUALITIE": 2572
+    },
+    "id": 2600,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "Arc Gift",
+    "detail": "Gain resistance to all attacks & increase Debuff Resistance",
+    "iconId": 334,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      3005
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      3005
+    ],
+    "script": {
+      "INDIVIDUALITIE": 2572
+    },
+    "id": 2601,
+    "buffGroup": 0,
+    "type": 29,
+    "name": "",
+    "detail": "",
+    "iconId": 306,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2572
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2602,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "",
+    "detail": "",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2571,
+      2588
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2603,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "",
+    "detail": "",
+    "iconId": 525,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2583,
+      2588
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2604,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "Prepare Formation (Cataphract Shift/Sword)",
+    "detail": "After the end of the player's turn, activate the effect \"Increase ATK (1 turn) & Critical Rate (1 turn) & Critical Strength (1 turn) for all allies + Increase chance of being targeted by enemies (1 turn) to a single enemy\"",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2585,
+      2588
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2605,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "Prepare Formation (Cataphract Shift/Sword)",
+    "detail": "After the end of the player's turn, activate the effect \"Increase ATK (1 turn) & Critical Rate (1 turn) & Critical Strength (1 turn) for all allies + Increase chance of being targeted by enemies (1 turn) to a single enemy\"",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2587,
+      2588
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2606,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "Prepare Formation (Cataphract Shift/Sword)",
+    "detail": "After the end of the player's turn, activate the effect \"Increase ATK (1 turn) & Critical Rate (1 turn) & Critical Strength (1 turn) for all allies + Increase chance of being targeted by enemies (1 turn) to a single enemy\"",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2584,
+      2588
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2607,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "Prepare Formation (Cataphract Shift/Arrow)",
+    "detail": "After the end of the player's turn, activate the effect \"Increase ATK (1 turn) & apply Ignore Invincible (1 turn) & Ignore DEF (1 turn) for all allies + Increase chance of being targeted by enemies (1 turn) to a single enemy\"",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2586,
+      2588
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2608,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "Prepare Formation (Cataphract Shift/Lance)",
+    "detail": "At the end of the player's turn, activate the effect \"Increase ATK (1 turn) & NP Strength (1 turn) & set NP Charge to maximum for all allies + Increase chance of being targeted by enemies (1 turn) to a single enemy\"",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2583,
+      2588
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2609,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "Prepare Formation (Cataphract Shift/Sword)",
+    "detail": "After the end of the player's turn, activate the effect \"Increase ATK (1 turn) & Critical Rate (1 turn) & Critical Strength (1 turn) for all allies + Increase chance of being targeted by enemies (1 turn) to a single enemy\"",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2585,
+      2588
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2610,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "Prepare Formation (Cataphract Shift/Sword)",
+    "detail": "After the end of the player's turn, activate the effect \"Increase ATK (1 turn) & Critical Rate (1 turn) & Critical Strength (1 turn) for all allies + Increase chance of being targeted by enemies (1 turn) to a single enemy\"",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2587,
+      2588
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2611,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "Prepare Formation (Cataphract Shift/Sword)",
+    "detail": "After the end of the player's turn, activate the effect \"Increase ATK (1 turn) & Critical Rate (1 turn) & Critical Strength (1 turn) for all allies + Increase chance of being targeted by enemies (1 turn) to a single enemy\"",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2584,
+      2588
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2612,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "Prepare Formation (Cataphract Shift/Arrow)",
+    "detail": "After the end of the player's turn, activate the effect \"Increase ATK (1 turn) & apply Ignore Invincible (1 turn) & Ignore DEF (1 turn) for all allies + Increase chance of being targeted by enemies (1 turn) to a single enemy\"",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2586,
+      2588
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2613,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "Prepare Formation (Cataphract Shift/Lance)",
+    "detail": "At the end of the player's turn, activate the effect \"Increase ATK (1 turn) & NP Strength (1 turn) & set NP Charge to maximum for all allies + Increase chance of being targeted by enemies (1 turn) to a single enemy\"",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2588
+    ],
+    "tvals": [
+      5000,
+      4003
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4003
+    ],
+    "script": {},
+    "id": 2614,
+    "buffGroup": 0,
+    "type": 86,
+    "name": "Opening in the Formation (Quick)",
+    "detail": "Stop the formation with a Quick attack!",
+    "iconId": 525,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2588
+    ],
+    "tvals": [
+      5000,
+      4001
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4001
+    ],
+    "script": {},
+    "id": 2615,
+    "buffGroup": 0,
+    "type": 86,
+    "name": "Opening in the Formation (Arts)",
+    "detail": "Stop the formation with an Arts attack!",
+    "iconId": 525,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2588
+    ],
+    "tvals": [
+      5000,
+      4002
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4002
+    ],
+    "script": {},
+    "id": 2616,
+    "buffGroup": 0,
+    "type": 86,
+    "name": "Opening in the Formation (Buster)",
+    "detail": "Stop the formation with a Buster attack!",
+    "iconId": 525,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2588
+    ],
+    "tvals": [
+      5000,
+      4100
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4100
+    ],
+    "script": {},
+    "id": 2617,
+    "buffGroup": 0,
+    "type": 86,
+    "name": "Opening in the Formation (Critical)",
+    "detail": "Stop the formation with a Critical attack!",
+    "iconId": 525,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2588
+    ],
+    "tvals": [
+      5000,
+      4007
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4007
+    ],
+    "script": {},
+    "id": 2618,
+    "buffGroup": 0,
+    "type": 86,
+    "name": "Opening in the Formation (NP)",
+    "detail": "Stop the formation with a Noble Phantasm!",
+    "iconId": 525,
     "maxRate": 0,
     "effectId": 0
   },

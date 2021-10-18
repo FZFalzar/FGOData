@@ -2662,5 +2662,45 @@
     "frequencyType": 0,
     "dialogMessage": "No Duplicate Servants",
     "noticeMessage": "No Duplicate Servants"
+  },
+  {
+    "questId": 94041904,
+    "phase": 3,
+    "restrictionId": 94041901,
+    "frequencyType": 0,
+    "dialogMessage": "",
+    "noticeMessage": ""
+  },
+  {
+    "questId": 94041914,
+    "phase": 4,
+    "restrictionId": 94041901,
+    "frequencyType": 0,
+    "dialogMessage": "",
+    "noticeMessage": ""
+  },
+  {
+    "questId": 94041914,
+    "phase": 5,
+    "restrictionId": 94041901,
+    "frequencyType": 0,
+    "dialogMessage": "",
+    "noticeMessage": ""
+  },
+  {
+    "questId": 94041915,
+    "phase": 3,
+    "restrictionId": 3000201,
+    "frequencyType": 3,
+    "dialogMessage": "Please set the Support Servant as a Starting Member",
+    "noticeMessage": "Support Servant cannot be set as a Sub Member"
+  },
+  {
+    "questId": 94041915,
+    "phase": 3,
+    "restrictionId": 94041901,
+    "frequencyType": 0,
+    "dialogMessage": "0",
+    "noticeMessage": "0"
   }
 ]
