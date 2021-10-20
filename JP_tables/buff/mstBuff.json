@@ -52616,6 +52616,21 @@
     "effectId": 0
   },
   {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3844,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "メルヘンドリーマー",
+    "detail": "『ハロウィン・ライジング！』において与えるダメージをアップ",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
     "vals": [
       3004
     ],
@@ -52715,6 +52730,447 @@
     "detail": "敵からの狙われやすさをアップ",
     "iconId": 323,
     "maxRate": 50000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3857,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "威力アップ",
+    "detail": "『ハロウィン・ライジング！』において与えるダメージをアップ",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2809
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3863,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "メルヘンライク",
+    "detail": "HPの回復効果量をアップ",
+    "iconId": 328,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2809
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3864,
+    "buffGroup": 0,
+    "type": 64,
+    "name": "",
+    "detail": "",
+    "iconId": 328,
+    "maxRate": 50000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3865,
+    "buffGroup": 0,
+    "type": 76,
+    "name": "遅延発動(スタン付与＆タゲ集中アップ)",
+    "detail": "2ターン経過後に自身にスタンを付与する＆敵からの狙われやすさがアップ(弱体扱い)",
+    "iconId": 525,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6028
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3866,
+    "buffGroup": 0,
+    "type": 10,
+    "name": "攻撃力ダウン",
+    "detail": "攻撃力をダウン",
+    "iconId": 503,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6028
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3867,
+    "buffGroup": 900,
+    "type": 34,
+    "name": "宝具封印",
+    "detail": "宝具を使用できなくなる",
+    "iconId": 512,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6027
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3868,
+    "buffGroup": 0,
+    "type": 9,
+    "name": "攻撃力アップ",
+    "detail": "攻撃力をすこしアップ",
+    "iconId": 300,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6026
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3869,
+    "buffGroup": 500,
+    "type": 32,
+    "name": "銅のノブ",
+    "detail": "行動不能になる",
+    "iconId": 501,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6026
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3870,
+    "buffGroup": 600,
+    "type": 104,
+    "name": "銅のノブ",
+    "detail": "HPが0になった時、HPを回復して耐える",
+    "iconId": 304,
+    "maxRate": 1000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6027
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3871,
+    "buffGroup": 0,
+    "type": 9,
+    "name": "攻撃力アップ",
+    "detail": "攻撃力をそこそこアップ",
+    "iconId": 300,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6026
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3872,
+    "buffGroup": 500,
+    "type": 32,
+    "name": "銀のノブ",
+    "detail": "行動不能になる",
+    "iconId": 501,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6026
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3873,
+    "buffGroup": 600,
+    "type": 104,
+    "name": "銀のノブ",
+    "detail": "HPが0になった時、HPを回復して耐える",
+    "iconId": 304,
+    "maxRate": 1000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6027
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3874,
+    "buffGroup": 0,
+    "type": 9,
+    "name": "攻撃力アップ",
+    "detail": "攻撃力をかなりアップ",
+    "iconId": 300,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6026
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3875,
+    "buffGroup": 500,
+    "type": 32,
+    "name": "金のノブ",
+    "detail": "行動不能になる",
+    "iconId": 501,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6026
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3876,
+    "buffGroup": 600,
+    "type": 104,
+    "name": "金のノブ",
+    "detail": "HPが0になった時、HPを回復して耐える",
+    "iconId": 304,
+    "maxRate": 1000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6026,
+      6021
+    ],
+    "tvals": [
+      5000
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3877,
+    "buffGroup": 0,
+    "type": 86,
+    "name": "銅のノブ",
+    "detail": "攻撃を受けると敵単体のNPを10%増やす【デメリット】",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6026,
+      6022
+    ],
+    "tvals": [
+      5000
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3878,
+    "buffGroup": 0,
+    "type": 86,
+    "name": "銀のノブ",
+    "detail": "攻撃を受けると敵単体のNPを50%増やす【デメリット】",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6026,
+      6022
+    ],
+    "tvals": [
+      5000
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3879,
+    "buffGroup": 0,
+    "type": 86,
+    "name": "金のノブ",
+    "detail": "攻撃を受けると敵単体のNPを100%増やす【デメリット】",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3007,
+      3040,
+      3058
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3887,
+    "buffGroup": 0,
+    "type": 42,
+    "name": "スロースターター",
+    "detail": "防御力をアップ＆宝具攻撃時に味方全体の睡眠状態を解除",
+    "iconId": 301,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006
+    ],
+    "tvals": [
+      5000,
+      4007,
+      4004
+    ],
+    "ckSelfIndv": [
+      4007,
+      4004
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3888,
+    "buffGroup": 0,
+    "type": 137,
+    "name": "",
+    "detail": "",
+    "iconId": 333,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3889,
+    "buffGroup": 0,
+    "type": 89,
+    "name": "スタートダッシュ",
+    "detail": "通常攻撃時に自身のチャージを1増やす＆宝具攻撃時に自身に睡眠状態を付与【デメリット】＆即死付与率をダウン【デメリット】",
+    "iconId": 333,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006
+    ],
+    "tvals": [
+      5000,
+      4007,
+      4004
+    ],
+    "ckSelfIndv": [
+      4007,
+      4004
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3890,
+    "buffGroup": 0,
+    "type": 137,
+    "name": "",
+    "detail": "",
+    "iconId": 333,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6026,
+      3045,
+      3010,
+      3066
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "ReleaseText": "睡眠解除",
+      "DamageRelease": 1
+    },
+    "id": 3891,
+    "buffGroup": 503,
+    "type": 32,
+    "name": "睡眠",
+    "detail": "行動不能になる(攻撃を受けると解除)",
+    "iconId": 557,
+    "maxRate": 0,
+    "effectId": 2001002
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3892,
+    "buffGroup": 0,
+    "type": 149,
+    "name": "ガッツ時発動(NP増加)",
+    "detail": "ガッツ発動時、自身のNPが増える",
+    "iconId": 365,
+    "maxRate": 0,
     "effectId": 0
   },
   {

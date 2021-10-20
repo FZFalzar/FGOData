@@ -9934,5 +9934,41 @@
     "activeCondType": 1,
     "activeTargetId": 0,
     "activeTargetValue": 0
+  },
+  {
+    "id": 912501,
+    "warId": 9125,
+    "mapId": 9125,
+    "srcSpotId": 912501,
+    "dstSpotId": 912502,
+    "type": 1,
+    "imageId": 0,
+    "dispCondType": 2,
+    "dispTargetId": 94062802,
+    "dispTargetValue": 1,
+    "dispCondType2": 1,
+    "dispTargetId2": 0,
+    "dispTargetValue2": 0,
+    "activeCondType": 2,
+    "activeTargetId": 94062802,
+    "activeTargetValue": 1
+  },
+  {
+    "id": 912502,
+    "warId": 9125,
+    "mapId": 9125,
+    "srcSpotId": 912502,
+    "dstSpotId": 912503,
+    "type": 1,
+    "imageId": 0,
+    "dispCondType": 2,
+    "dispTargetId": 94062803,
+    "dispTargetValue": 2,
+    "dispCondType2": 1,
+    "dispTargetId2": 0,
+    "dispTargetValue2": 0,
+    "activeCondType": 2,
+    "activeTargetId": 94062803,
+    "activeTargetValue": 2
   }
 ]

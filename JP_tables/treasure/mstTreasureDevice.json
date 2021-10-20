@@ -7970,6 +7970,22 @@
       4007
     ],
     "script": {},
+    "id": 736,
+    "seqId": 9943230,
+    "name": "硝子の輝き",
+    "ruby": "-",
+    "rank": "なし",
+    "maxLv": 5,
+    "typeText": "",
+    "attackAttri": 1,
+    "effectFlag": 0
+  },
+  {
+    "individuality": [
+      3000,
+      4007
+    ],
+    "script": {},
     "id": 743,
     "seqId": 9941230,
     "name": "存在の証明",
@@ -10516,6 +10532,26 @@
   },
   {
     "individuality": [
+      3001,
+      4001,
+      4007,
+      4101
+    ],
+    "script": {
+      "delayEnd": 1
+    },
+    "id": 204501,
+    "seqId": 204500,
+    "name": "砕けよ黄金の枷鎖、黄金の恥辱",
+    "ruby": "オーセンティック・トライアンフ",
+    "rank": "A+",
+    "maxLv": 5,
+    "typeText": "克己宝具",
+    "attackAttri": 1,
+    "effectFlag": 1
+  },
+  {
+    "individuality": [
       3000,
       4003,
       4007
@@ -12930,6 +12966,25 @@
     "name": "疾駆せよ、わが海色の大牙",
     "ruby": "シーサーペント・ストームブルー",
     "rank": "B+",
+    "maxLv": 5,
+    "typeText": "対人宝具",
+    "attackAttri": 1,
+    "effectFlag": 2
+  },
+  {
+    "individuality": [
+      3000,
+      4002,
+      4007
+    ],
+    "script": {
+      "delayEnd": 1
+    },
+    "id": 404601,
+    "seqId": 404600,
+    "name": "御伽茨雪魔嬢",
+    "ruby": "フェアリーテイル・エルジェーベト",
+    "rank": "D++",
     "maxLv": 5,
     "typeText": "対人宝具",
     "attackAttri": 1,
@@ -18639,6 +18694,30 @@
     "name": "煌彩幻奏覇道剣",
     "ruby": "ルミノカリバー",
     "rank": "B",
+    "maxLv": 5,
+    "typeText": "対人宝具",
+    "attackAttri": 1,
+    "effectFlag": 1
+  },
+  {
+    "individuality": [
+      3002,
+      4003,
+      4007,
+      4101
+    ],
+    "script": {
+      "limitSeqId_1": 2501000,
+      "limitSeqId_3": 2501020,
+      "delayEnd": 1,
+      "limitSeqId_4": 2501020,
+      "limitSeqId_2": 2501000
+    },
+    "id": 2501001,
+    "seqId": 2501000,
+    "name": "１３日の金曜日",
+    "ruby": "ヴァンドルディ・トレイズ",
+    "rank": "A",
     "maxLv": 5,
     "typeText": "対人宝具",
     "attackAttri": 1,
