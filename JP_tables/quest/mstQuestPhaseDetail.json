@@ -79467,6 +79467,60 @@
   },
   {
     "beforeActionVals": [],
+    "afterActionVals": [
+      "300",
+      "912503",
+      "304",
+      "1,1000",
+      "520",
+      "0",
+      "308",
+      "1024,1024,2000,15,2",
+      "400",
+      "912502,1",
+      "900",
+      "2000",
+      "306",
+      "912503,15,2000,1.75",
+      "101",
+      "912504",
+      "202",
+      "912503",
+      "102",
+      "912504",
+      "510",
+      "912504"
+    ],
+    "boardMessage": {
+      "text": {
+        "textString": "編成条件あり",
+        "offset": [
+          3,
+          -2
+        ],
+        "fontSize": 14,
+        "gradation": [
+          "#FFEC00",
+          "#FFEC00"
+        ]
+      },
+      "image": {
+        "bannerSp": "img_quest_formlimit_01",
+        "offset": [
+          3,
+          -2
+        ]
+      }
+    },
+    "questId": 94062804,
+    "phase": 1,
+    "spotId": 912503,
+    "consumeType": 1,
+    "actConsume": 5,
+    "flag": 4194304
+  },
+  {
+    "beforeActionVals": [],
     "afterActionVals": [],
     "boardMessage": {
       "text": {
