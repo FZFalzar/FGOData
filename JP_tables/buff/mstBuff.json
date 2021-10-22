@@ -52737,6 +52737,40 @@
     "tvals": [],
     "ckSelfIndv": [],
     "ckOpIndv": [],
+    "script": {
+      "INDIVIDUALITIE": 2798
+    },
+    "id": 3853,
+    "buffGroup": 0,
+    "type": 163,
+    "name": "回避",
+    "detail": "攻撃によるダメージを0にする",
+    "iconId": 305,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2798
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3854,
+    "buffGroup": 0,
+    "type": 24,
+    "name": "回避",
+    "detail": "攻撃によるダメージを0にする",
+    "iconId": 305,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
     "script": {},
     "id": 3857,
     "buffGroup": 0,
@@ -53047,6 +53081,24 @@
   },
   {
     "vals": [
+      3005,
+      3063
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3880,
+    "buffGroup": 0,
+    "type": 85,
+    "name": "毎ターン発動(スタン付与)",
+    "detail": "毎ターン終了時、低確率で自身にスタンを付与",
+    "iconId": 537,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
       3004,
       3007,
       3040,
@@ -53171,6 +53223,127 @@
     "detail": "ガッツ発動時、自身のNPが増える",
     "iconId": 365,
     "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3893,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "少年の活路",
+    "detail": "HPが0になった時、味方の〔眠れる巨人〕を即死させる",
+    "iconId": 543,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6026
+    ],
+    "tvals": [
+      5000,
+      4002
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4002
+    ],
+    "script": {},
+    "id": 3894,
+    "buffGroup": 0,
+    "type": 105,
+    "name": "「『火鼠の裘』が欲しーいっ」",
+    "detail": "Busterカードの攻撃による被ダメージ、被NP発生量、被スター発生率が減少する",
+    "iconId": 347,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6026
+    ],
+    "tvals": [
+      5000,
+      4001
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4001
+    ],
+    "script": {},
+    "id": 3895,
+    "buffGroup": 0,
+    "type": 105,
+    "name": "「『龍の首の珠』が欲しーいっ」",
+    "detail": "Artsカードの攻撃による被ダメージ、被NP発生量、被スター発生率が減少する",
+    "iconId": 346,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6026
+    ],
+    "tvals": [
+      5000,
+      4003
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4003
+    ],
+    "script": {},
+    "id": 3896,
+    "buffGroup": 0,
+    "type": 105,
+    "name": "「『燕の子安貝』が欲しーいっ」",
+    "detail": "Quickカードの攻撃による被ダメージ、被NP発生量、被スター発生率が減少する",
+    "iconId": 345,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6026
+    ],
+    "tvals": [
+      4100
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4100
+    ],
+    "script": {},
+    "id": 3897,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "「『仏の御石の鉢』が欲しーいっ」",
+    "detail": "クリティカル攻撃への耐性を得る",
+    "iconId": 334,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6026
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4007
+    ],
+    "script": {},
+    "id": 3898,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "「『蓬莱の玉の枝』が欲しーいっ」",
+    "detail": "宝具のダメージに対する耐性を得る",
+    "iconId": 334,
+    "maxRate": 5000,
     "effectId": 0
   },
   {

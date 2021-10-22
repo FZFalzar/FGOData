@@ -7888,7 +7888,7 @@
     "phase": 1,
     "restrictionId": 94062801,
     "frequencyType": 3,
-    "dialogMessage": "サポートサーヴァントをスターティングメンバ―に設定してください。",
+    "dialogMessage": "サポートサーヴァントを\nスターティングメンバ―に設定してください",
     "noticeMessage": "サポートはサブメンバーとして出撃できません",
     "title": ""
   },
@@ -7899,6 +7899,24 @@
     "frequencyType": 0,
     "dialogMessage": "",
     "noticeMessage": "",
+    "title": ""
+  },
+  {
+    "questId": 94062804,
+    "phase": 1,
+    "restrictionId": 94062802,
+    "frequencyType": 0,
+    "dialogMessage": "",
+    "noticeMessage": "エリザベート・バートリー〔シンデレラ〕出撃不可",
+    "title": ""
+  },
+  {
+    "questId": 94062804,
+    "phase": 4,
+    "restrictionId": 94062803,
+    "frequencyType": 3,
+    "dialogMessage": "エリザベート・バートリー〔シンデレラ〕を\nスターティングメンバーに設定してください",
+    "noticeMessage": "エリザベート・バートリー〔シンデレラ〕をスターティングメンバーに設定してください",
     "title": ""
   },
   {
