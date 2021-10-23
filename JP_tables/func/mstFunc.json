@@ -129371,6 +129371,44 @@
   },
   {
     "vals": [
+      487
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 1,
+    "id": 7716,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 14,
+    "applyTarget": 2,
+    "popupIconId": 323,
+    "popupText": "タゲ集中アップ",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      155
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 7717,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 14,
+    "applyTarget": 3,
+    "popupIconId": 311,
+    "popupText": "無敵",
+    "categoryId": 20204
+  },
+  {
+    "vals": [
       155
     ],
     "tvals": [
@@ -129870,6 +129908,25 @@
   },
   {
     "vals": [
+      3886
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 7753,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 7,
+    "applyTarget": 3,
+    "popupIconId": 528,
+    "popupText": "攻撃時発動(弱体)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
       3887
     ],
     "tvals": [],
@@ -130349,6 +130406,23 @@
     "popupIconId": 0,
     "popupText": "攻撃耐性解除",
     "categoryId": 0
+  },
+  {
+    "vals": [
+      3899
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 2,
+    "id": 7779,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 301,
+    "popupText": "",
+    "categoryId": 20202
   },
   {
     "vals": [

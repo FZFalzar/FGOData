@@ -53100,6 +53100,24 @@
   {
     "vals": [
       3004,
+      3006
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3886,
+    "buffGroup": 0,
+    "type": 137,
+    "name": "攻撃時発動(弱体)",
+    "detail": "攻撃時に敵単体のNP獲得量をダウン又はスター発生率をダウン",
+    "iconId": 528,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
       3007,
       3040,
       3058
@@ -53344,6 +53362,25 @@
     "detail": "宝具のダメージに対する耐性を得る",
     "iconId": 334,
     "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3007,
+      3040
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3899,
+    "buffGroup": 0,
+    "type": 23,
+    "name": "人魚の住む海域",
+    "detail": "被ダメージを減らす",
+    "iconId": 301,
+    "maxRate": 0,
     "effectId": 0
   },
   {
