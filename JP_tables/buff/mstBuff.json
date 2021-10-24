@@ -52783,6 +52783,31 @@
   },
   {
     "vals": [
+      3004,
+      3006
+    ],
+    "tvals": [
+      5000,
+      4005,
+      4006
+    ],
+    "ckSelfIndv": [
+      4005,
+      4006
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3858,
+    "buffGroup": 0,
+    "type": 148,
+    "name": "セーフティーブレイカー",
+    "detail": "通常攻撃時ダメージ前に、敵単体の防御強化状態を中確率で解除＆解除成功時に防御力をダウン",
+    "iconId": 528,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
       2809
     ],
     "tvals": [],
@@ -53380,6 +53405,60 @@
     "name": "人魚の住む海域",
     "detail": "被ダメージを減らす",
     "iconId": 301,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3900,
+    "buffGroup": 0,
+    "type": 86,
+    "name": "灯の少女",
+    "detail": "攻撃を受けると敵単体にやけど状態を付与",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      3015
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      3015
+    ],
+    "script": {},
+    "id": 3901,
+    "buffGroup": 0,
+    "type": 112,
+    "name": "灯のマッチョ",
+    "detail": "〔やけど〕状態の敵に与えるダメージをアップ",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005,
+      3063
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3907,
+    "buffGroup": 0,
+    "type": 85,
+    "name": "毎ターン発動(やけど付与)",
+    "detail": "毎ターン終了時、敵全体にやけど状態を付与＋味方全体にやけど状態を付与【デメリット】",
+    "iconId": 537,
     "maxRate": 0,
     "effectId": 0
   },
