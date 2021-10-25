@@ -129927,6 +129927,65 @@
   },
   {
     "vals": [
+      3881
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 1,
+    "id": 7745,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 8,
+    "applyTarget": 3,
+    "popupIconId": 511,
+    "popupText": "スキル封印",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3882
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 7746,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 8,
+    "applyTarget": 3,
+    "popupIconId": 300,
+    "popupText": "攻撃力アップ",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      6026,
+      3025,
+      3027
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 1,
+    "id": 7747,
+    "cond": 0,
+    "funcType": 2,
+    "targetType": 8,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "スキル封印＆攻撃力アップ＆ダメージカット解除",
+    "categoryId": 0
+  },
+  {
+    "vals": [
       3886
     ],
     "tvals": [],
@@ -130479,6 +130538,23 @@
   },
   {
     "vals": [
+      3902
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 2,
+    "id": 7782,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 322,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
       721
     ],
     "tvals": [],
@@ -130590,6 +130666,42 @@
     "popupIconId": 513,
     "popupText": "やけど",
     "categoryId": 59899
+  },
+  {
+    "vals": [],
+    "tvals": [
+      404600
+    ],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 7827,
+    "cond": 0,
+    "funcType": 57,
+    "targetType": 7,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3931
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 7829,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 8,
+    "applyTarget": 3,
+    "popupIconId": 301,
+    "popupText": "ダメージカット",
+    "categoryId": 0
   },
   {
     "vals": [
