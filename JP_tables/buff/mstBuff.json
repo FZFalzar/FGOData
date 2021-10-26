@@ -52808,6 +52808,81 @@
   },
   {
     "vals": [
+      3004
+    ],
+    "tvals": [
+      2809
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      2809
+    ],
+    "script": {},
+    "id": 3859,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "エバー・アフター",
+    "detail": "〔メルヘンライク〕状態の敵からの攻撃のダメージに対する耐性を得る＆必中を無視して、攻撃によるダメージを0にする＆毎ターン終了時、自身の弱体状態を解除＆毎ターンチャージを1増やす",
+    "iconId": 334,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3018,
+      3022,
+      3007
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3860,
+    "buffGroup": 400,
+    "type": 26,
+    "name": "",
+    "detail": "",
+    "iconId": 311,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3861,
+    "buffGroup": 0,
+    "type": 85,
+    "name": "",
+    "detail": "",
+    "iconId": 343,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006,
+      3027
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3862,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "あるがままの女王",
+    "detail": "自身がフィールドに居る間、味方全体の攻撃力をアップ＆宝具で与えるダメージをアップ<控え含む>",
+    "iconId": 300,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
       2809
     ],
     "tvals": [],
@@ -53159,6 +53234,58 @@
   },
   {
     "vals": [
+      6026
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3883,
+    "buffGroup": 0,
+    "type": 42,
+    "name": "防御力アップ",
+    "detail": "防御力をアップ",
+    "iconId": 301,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6026
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3884,
+    "buffGroup": 0,
+    "type": 23,
+    "name": "ダメージカット",
+    "detail": "被ダメージを減らす",
+    "iconId": 301,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3885,
+    "buffGroup": 0,
+    "type": 89,
+    "name": "攻撃時発動(即死付与)",
+    "detail": "通常攻撃時に低確率で即死を付与する",
+    "iconId": 528,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
       3004,
       3006
     ],
@@ -53503,6 +53630,71 @@
   },
   {
     "vals": [
+      3004,
+      3007,
+      3040,
+      3058
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3903,
+    "buffGroup": 0,
+    "type": 42,
+    "name": "ありがたい笠",
+    "detail": "防御力をアップ",
+    "iconId": 301,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3904,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "罪なきウルフ",
+    "detail": "自身がフィールドにいる間、味方全体の攻撃力をアップ",
+    "iconId": 300,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3905,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "見せ場なきハンター",
+    "detail": "自身がフィールドにいる間、味方全体に必中状態を付与",
+    "iconId": 309,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3906,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "事なきグランマ",
+    "detail": "自身がフィールドにいる間、敵全体の攻撃力をダウン",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
       3005,
       3063
     ],
@@ -53521,6 +53713,448 @@
   },
   {
     "vals": [
+      3004,
+      3018,
+      3021,
+      3007
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "INDIVIDUALITIE": 3045
+    },
+    "id": 3909,
+    "buffGroup": 200,
+    "type": 24,
+    "name": "二度と囚われぬ",
+    "detail": "自身が行動不能状態の時、攻撃によるダメージを0にする＆毎ターンチャージを1増やす",
+    "iconId": 305,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "INDIVIDUALITIE": 3045
+    },
+    "id": 3910,
+    "buffGroup": 0,
+    "type": 114,
+    "name": "",
+    "detail": "",
+    "iconId": 319,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3061
+    ],
+    "tvals": [
+      3066
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      3066
+    ],
+    "script": {},
+    "id": 3911,
+    "buffGroup": 0,
+    "type": 31,
+    "name": "戦場にて眠らず",
+    "detail": "睡眠を受けなくなる",
+    "iconId": 322,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6030
+    ],
+    "tvals": [
+      5000,
+      4008
+    ],
+    "ckSelfIndv": [
+      4008
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3912,
+    "buffGroup": 0,
+    "type": 148,
+    "name": "通常攻撃ダメージ前追加効果(防御強化状態解除)",
+    "detail": "通常攻撃時ダメージ前に、敵単体の防御強化状態を解除",
+    "iconId": 528,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3061
+    ],
+    "tvals": [
+      3011,
+      3026,
+      3015
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      3011,
+      3026,
+      3015
+    ],
+    "script": {},
+    "id": 3913,
+    "buffGroup": 0,
+    "type": 31,
+    "name": "毒＆呪い＆やけど無効",
+    "detail": "毒と呪いとやけどを受けなくなる",
+    "iconId": 322,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6026,
+      3063
+    ],
+    "tvals": [
+      5000,
+      4007
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4007
+    ],
+    "script": {},
+    "id": 3914,
+    "buffGroup": 0,
+    "type": 86,
+    "name": "〔守りの隙：宝具攻撃〕(Break時に解除)",
+    "detail": "宝具攻撃を受けた時、自身の特殊耐性の効果量をダウン(最大10個)＆効果量ダウン付与成功時に〔遅効の略：宝具攻撃〕状態を付与",
+    "iconId": 525,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6026,
+      3063
+    ],
+    "tvals": [
+      5000,
+      4100
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4100
+    ],
+    "script": {},
+    "id": 3915,
+    "buffGroup": 0,
+    "type": 86,
+    "name": "〔守りの隙：クリティカル攻撃〕(Break時に解除)",
+    "detail": "クリティカル攻撃を受けた時、自身の特殊耐性の効果量をダウン(最大10個)＆効果量ダウン付与成功時に〔遅効の略：クリティカル攻撃〕状態を付与",
+    "iconId": 525,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6026,
+      3063
+    ],
+    "tvals": [
+      5000,
+      4002
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4002
+    ],
+    "script": {},
+    "id": 3916,
+    "buffGroup": 0,
+    "type": 86,
+    "name": "〔守りの隙：Buster攻撃〕(Break時に解除)",
+    "detail": "Buster攻撃を受けた時、自身の特殊耐性の効果量をダウン(最大10個)＆効果量ダウン付与成功時に〔遅効の略：Buster攻撃〕状態を付与",
+    "iconId": 525,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6026,
+      3063
+    ],
+    "tvals": [
+      5000,
+      4001
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4001
+    ],
+    "script": {},
+    "id": 3917,
+    "buffGroup": 0,
+    "type": 86,
+    "name": "〔守りの隙：Arts攻撃〕(Break時に解除)",
+    "detail": "Arts攻撃を受けた時、自身の特殊耐性の効果量をダウン(最大10個)＆効果量ダウン付与成功時に〔遅効の略：Arts攻撃〕状態を付与",
+    "iconId": 525,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6026,
+      3063
+    ],
+    "tvals": [
+      5000,
+      4003
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4003
+    ],
+    "script": {},
+    "id": 3918,
+    "buffGroup": 0,
+    "type": 86,
+    "name": "〔守りの隙：Quick攻撃〕(Break時に解除)",
+    "detail": "Quick攻撃を受けた時、自身の特殊耐性の効果量をダウン(最大10個)＆効果量ダウン付与成功時に〔遅効の略：Quick攻撃〕状態を付与",
+    "iconId": 525,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6026,
+      3063
+    ],
+    "tvals": [
+      5000,
+      4004
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4004
+    ],
+    "script": {},
+    "id": 3919,
+    "buffGroup": 0,
+    "type": 86,
+    "name": "〔守りの隙：追撃〕(Break時に解除)",
+    "detail": "Extra Attackを受けた時、自身の特殊耐性の効果量をダウン(最大10個)＆効果量ダウン付与成功時に〔遅効の略：追撃〕状態を付与",
+    "iconId": 525,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6027,
+      3063
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3920,
+    "buffGroup": 0,
+    "type": 76,
+    "name": "〔遅効の略：宝具攻撃〕(Break時に解除)",
+    "detail": "3ターン後に自身に〔守りの隙：宝具攻撃〕状態を付与",
+    "iconId": 525,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6027,
+      3063
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3921,
+    "buffGroup": 0,
+    "type": 76,
+    "name": "〔遅効の略：クリティカル攻撃〕(Break時に解除)",
+    "detail": "3ターン後に自身に〔守りの隙：クリティカル攻撃〕状態を付与",
+    "iconId": 525,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6027,
+      3063
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3922,
+    "buffGroup": 0,
+    "type": 76,
+    "name": "〔遅効の略：Buster攻撃〕(Break時に解除)",
+    "detail": "3ターン後に自身に〔守りの隙：Buster攻撃〕状態を付与",
+    "iconId": 525,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6027,
+      3063
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3923,
+    "buffGroup": 0,
+    "type": 76,
+    "name": "〔遅効の略：Arts攻撃〕(Break時に解除)",
+    "detail": "3ターン後に自身に〔守りの隙：Arts攻撃〕状態を付与",
+    "iconId": 525,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6027,
+      3063
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3924,
+    "buffGroup": 0,
+    "type": 76,
+    "name": "〔遅効の略：Quick攻撃〕(Break時に解除)",
+    "detail": "3ターン後に自身に〔守りの隙：Quick攻撃〕状態を付与",
+    "iconId": 525,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6027,
+      3063
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3925,
+    "buffGroup": 0,
+    "type": 76,
+    "name": "〔遅効の略：追撃〕(Break時に解除)",
+    "detail": "3ターン後に自身に〔守りの隙：追撃〕状態を付与",
+    "iconId": 525,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005,
+      3017
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3926,
+    "buffGroup": 0,
+    "type": 92,
+    "name": "特殊耐性効果量ダウン",
+    "detail": "自身の特殊耐性の効果量をダウン(最大10個)",
+    "iconId": 529,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6035
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3927,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "",
+    "detail": "",
+    "iconId": 300,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3928,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "毎ターン発動(支援射撃)",
+    "detail": "毎ターン終了時、敵全体にバリスタによる支援射撃が発動する",
+    "iconId": 343,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005,
+      3023
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3929,
+    "buffGroup": 700,
+    "type": 38,
+    "name": "タゲ集中アップ",
+    "detail": "敵からの狙われやすさをアップ",
+    "iconId": 323,
+    "maxRate": 50000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6030
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3930,
+    "buffGroup": 0,
+    "type": 100,
+    "name": "",
+    "detail": "",
+    "iconId": 348,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
       6026
     ],
     "tvals": [],
@@ -53533,6 +54167,118 @@
     "name": "ダメージカット",
     "detail": "被ダメージを減らす",
     "iconId": 301,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6029
+    ],
+    "tvals": [
+      3004
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      3004
+    ],
+    "script": {
+      "INDIVIDUALITIE": 6026
+    },
+    "id": 3932,
+    "buffGroup": 0,
+    "type": 29,
+    "name": "",
+    "detail": "",
+    "iconId": 506,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "INDIVIDUALITIE": 6026
+    },
+    "id": 3933,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "罪なきウルフ",
+    "detail": "〔私のおばあさん〕がフィールドにいる間、フィールド全体の〔女性〕に対する強化成功率をダウン",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3024
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "INDIVIDUALITIE": 6027
+    },
+    "id": 3934,
+    "buffGroup": 600,
+    "type": 104,
+    "name": "見せ場なきハンター",
+    "detail": "〔私の狼〕がフィールドにいる間、HPが0になった時、HPを回復して耐える",
+    "iconId": 304,
+    "maxRate": 1000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3018,
+      3022,
+      3007
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "INDIVIDUALITIE": 6028
+    },
+    "id": 3935,
+    "buffGroup": 400,
+    "type": 26,
+    "name": "事なきグランマ",
+    "detail": "〔私の猟師〕がフィールドにいる間、必中を無視して、攻撃によるダメージを0にする",
+    "iconId": 311,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3936,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "",
+    "detail": "",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3937,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "",
+    "detail": "",
+    "iconId": 506,
     "maxRate": 0,
     "effectId": 0
   },

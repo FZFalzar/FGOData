@@ -850,7 +850,8 @@
       "[94055312,2,1]",
       "[94059119,2,1]",
       "[94060503,2,1]",
-      "[94062807,2,1]"
+      "[94062807,2,1]",
+      "[94062808,1,1]"
     ],
     "condIds": [],
     "imageIds": [
@@ -12105,6 +12106,26 @@
     "openType": 4,
     "condType": 0,
     "condValue": 0,
+    "condValue2": 0,
+    "condValue3": 0
+  },
+  {
+    "targetIds": [
+      "[912507]"
+    ],
+    "condIds": [
+      94062808
+    ],
+    "imageIds": [
+      932
+    ],
+    "textJson": [],
+    "eventId": 80343,
+    "flagType": 2,
+    "num": 1,
+    "openType": 3,
+    "condType": 106,
+    "condValue": 3,
     "condValue2": 0,
     "condValue3": 0
   },
