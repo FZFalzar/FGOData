@@ -54269,6 +54269,139 @@
   },
   {
     "targetIds": [
+      2001590,
+      2001591,
+      2001592,
+      2001593,
+      2001594,
+      2001595
+    ],
+    "missionId": 2001589,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001323,
+    "missionTargetId": 100230,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 6,
+    "conditionMessage": "Complete all of this week's Master Missions",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001269
+    ],
+    "missionId": 2001590,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001324,
+    "missionTargetId": 100230,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 3,
+    "conditionMessage": "Defeat 3 \"Chaotic\" Servants",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001270
+    ],
+    "missionId": 2001591,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001325,
+    "missionTargetId": 100230,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "Defeat 15 Saber or Berserker-class enemies (excluding Servants and certain bosses)",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001271
+    ],
+    "missionId": 2001592,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001326,
+    "missionTargetId": 100230,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "Defeat 15 Archer or Assassin-class enemies (excluding Servants and certain bosses)",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001272
+    ],
+    "missionId": 2001593,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001327,
+    "missionTargetId": 100230,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "Defeat 15 Lancer, Rider, or Caster-class enemies (excluding Servants and certain bosses)",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001273
+    ],
+    "missionId": 2001594,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001328,
+    "missionTargetId": 100230,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 2,
+    "conditionMessage": "Acquire 2 Gems, Magic Gems, Secret Gems, Pieces or Monuments through battles",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001594
+    ],
+    "missionId": 2001595,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 2001329,
+    "missionTargetId": 100230,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 1,
+    "conditionMessage": "Acquire 4 Gems, Magic Gems, Secret Gems, Pieces or Monuments through battles",
+    "closedMessage": "",
+    "flag": 64
+  },
+  {
+    "targetIds": [
+      2001273
+    ],
+    "missionId": 2001595,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2001330,
+    "missionTargetId": 100230,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 4,
+    "conditionMessage": "Acquire 4 Gems, Magic Gems, Secret Gems, Pieces or Monuments through battles",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
       94011901
     ],
     "missionId": 80054001,
