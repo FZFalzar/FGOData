@@ -104,8 +104,8 @@
     "voiceId": "H240",
     "idx": 1,
     "condGroup": 1,
-    "condType": 1,
-    "targetId": 94041916
+    "condType": 20,
+    "targetId": 80260
   },
   {
     "condValues": [
@@ -1928,8 +1928,8 @@
     "voiceId": "H170",
     "idx": 1,
     "condGroup": 1,
-    "condType": 1,
-    "targetId": 94041916
+    "condType": 20,
+    "targetId": 80260
   },
   {
     "condValues": [
@@ -1940,8 +1940,8 @@
     "voiceId": "H280",
     "idx": 1,
     "condGroup": 1,
-    "condType": 1,
-    "targetId": 94041916
+    "condType": 20,
+    "targetId": 80260
   },
   {
     "condValues": [
@@ -1952,8 +1952,8 @@
     "voiceId": "H020",
     "idx": 1,
     "condGroup": 1,
-    "condType": 1,
-    "targetId": 94041916
+    "condType": 20,
+    "targetId": 80260
   },
   {
     "condValues": [
@@ -2230,5 +2230,17 @@
     "condGroup": 1,
     "condType": 1,
     "targetId": 94040903
+  },
+  {
+    "condValues": [
+      0
+    ],
+    "svtId": 109818630,
+    "voicePrefix": -1,
+    "voiceId": "N060",
+    "idx": 1,
+    "condGroup": 1,
+    "condType": 1,
+    "targetId": 94041916
   }
 ]
