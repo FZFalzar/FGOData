@@ -37,6 +37,18 @@
   },
   {
     "condValues": [
+      6000351
+    ],
+    "shopId": 11098,
+    "condType": 35,
+    "condNum": 1,
+    "priority": 0,
+    "isClosedDisp": false,
+    "closedMessage": "Exchangeable only after unlocking \"Be Graceful\" from the Rare Prism shop",
+    "closedItemName": ""
+  },
+  {
+    "condValues": [
       91603601
     ],
     "shopId": 11135,
@@ -2121,6 +2133,18 @@
     "priority": 0,
     "isClosedDisp": true,
     "closedMessage": "Cannot be exchanged (quest already cleared).",
+    "closedItemName": ""
+  },
+  {
+    "condValues": [
+      11098
+    ],
+    "shopId": 6000351,
+    "condType": 37,
+    "condNum": 5,
+    "priority": 0,
+    "isClosedDisp": true,
+    "closedMessage": "Cannot be exchanged (already claimed).",
     "closedItemName": ""
   },
   {

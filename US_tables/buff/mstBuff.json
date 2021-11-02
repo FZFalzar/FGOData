@@ -30495,6 +30495,40 @@
     "effectId": 0
   },
   {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "relationId": 100
+    },
+    "id": 2570,
+    "buffGroup": 0,
+    "type": 144,
+    "name": "Reversal",
+    "detail": "Change Class Affinity (ATK advantage against all classes except Shielder, DEF disadvantage against Saber) & become immune to Poison",
+    "iconId": 1004,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "relationId": 101
+    },
+    "id": 2571,
+    "buffGroup": 0,
+    "type": 144,
+    "name": "Fierce",
+    "detail": "Change Class Affinity (same DEF affinity as Ruler) & become immune to debuffs",
+    "iconId": 1004,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
     "vals": [
       3004
     ],
@@ -30510,6 +30544,134 @@
     "name": "Class Affinity Change When Attacking",
     "detail": "Increase ATK against the Beast",
     "iconId": 334,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "relationId": 103
+    },
+    "id": 2573,
+    "buffGroup": 0,
+    "type": 144,
+    "name": "Domina Cornam",
+    "detail": "Change Class Affinity (defensive against all classes)",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3006
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "relationId": 104
+    },
+    "id": 2574,
+    "buffGroup": 0,
+    "type": 144,
+    "name": "Nega-Saver",
+    "detail": "Apply Special Attack against Rulers",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "relationId": 105
+    },
+    "id": 2575,
+    "buffGroup": 0,
+    "type": 144,
+    "name": "BGO Tie Tamper",
+    "detail": "Apply weakness to Alter Ego attacks",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "relationId": 106
+    },
+    "id": 2576,
+    "buffGroup": 0,
+    "type": 144,
+    "name": "Memories of Dualism",
+    "detail": "Apply weakness to Alter Ego attacks",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3007
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "relationId": 107
+    },
+    "id": 2577,
+    "buffGroup": 0,
+    "type": 144,
+    "name": "Change DEF Affinity",
+    "detail": "Negate the DEF disadvantage due to Class Affinity",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "relationId": 108
+    },
+    "id": 2578,
+    "buffGroup": 0,
+    "type": 144,
+    "name": "Class Affinity Change",
+    "detail": "Negate Class disadvantages against Caster Class attributes",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2213
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "relationId": 109
+    },
+    "id": 2579,
+    "buffGroup": 0,
+    "type": 144,
+    "name": "Change DEF Affinity",
+    "detail": "Negate the DEF disadvantage due to affinity with Saber-class",
+    "iconId": 520,
     "maxRate": 0,
     "effectId": 0
   },
@@ -30549,6 +30711,60 @@
     "type": 144,
     "name": "Change ATK Affinity",
     "detail": "Negate Class disadvantages against Saber Class attributes",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "relationId": 112
+    },
+    "id": 2582,
+    "buffGroup": 0,
+    "type": 144,
+    "name": "Stratagem...Get the Commander",
+    "detail": "Negate the ATK disadvantage due to Class Affinity",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "relationId": 113
+    },
+    "id": 2583,
+    "buffGroup": 0,
+    "type": 144,
+    "name": "Foreign Spell, Mutated Bouquet",
+    "detail": "Negate the DEF disadvantage due to Class Affinity",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "relationId": 114
+    },
+    "id": 2584,
+    "buffGroup": 0,
+    "type": 144,
+    "name": "Class Affinity Change When Attacking",
+    "detail": "Increase ATK against Black Quetzal Mask",
     "iconId": 520,
     "maxRate": 0,
     "effectId": 0
