@@ -29042,6 +29042,74 @@
   },
   {
     "targetIds": [
+      1
+    ],
+    "addTargetIds": [],
+    "targetQuestIndividualities": [],
+    "targetEventIds": [],
+    "id": 2001450,
+    "missionTargetId": 100277,
+    "missionCondType": 21,
+    "logicType": 1,
+    "conditionLinkType": 3
+  },
+  {
+    "targetIds": [
+      302,
+      1000
+    ],
+    "addTargetIds": [],
+    "targetQuestIndividualities": [],
+    "targetEventIds": [],
+    "id": 2001451,
+    "missionTargetId": 100277,
+    "missionCondType": 13,
+    "logicType": 1,
+    "conditionLinkType": 3
+  },
+  {
+    "targetIds": [
+      301,
+      1000
+    ],
+    "addTargetIds": [],
+    "targetQuestIndividualities": [],
+    "targetEventIds": [],
+    "id": 2001452,
+    "missionTargetId": 100277,
+    "missionCondType": 13,
+    "logicType": 1,
+    "conditionLinkType": 3
+  },
+  {
+    "targetIds": [
+      300,
+      1000
+    ],
+    "addTargetIds": [],
+    "targetQuestIndividualities": [],
+    "targetEventIds": [],
+    "id": 2001453,
+    "missionTargetId": 100277,
+    "missionCondType": 13,
+    "logicType": 1,
+    "conditionLinkType": 3
+  },
+  {
+    "targetIds": [
+      200
+    ],
+    "addTargetIds": [],
+    "targetQuestIndividualities": [],
+    "targetEventIds": [],
+    "id": 2001454,
+    "missionTargetId": 100277,
+    "missionCondType": 2,
+    "logicType": 1,
+    "conditionLinkType": 3
+  },
+  {
+    "targetIds": [
       0
     ],
     "addTargetIds": [],
@@ -37127,6 +37195,160 @@
     "id": 80326049,
     "missionTargetId": 80326,
     "missionCondType": 9,
+    "logicType": 1,
+    "conditionLinkType": 2
+  },
+  {
+    "targetIds": [
+      94062451,
+      94062452,
+      94062453,
+      94062454,
+      94062455,
+      94062456,
+      94062457,
+      94062458,
+      94062459,
+      94062460,
+      94062461,
+      94062462,
+      94062463,
+      94062464,
+      94062465
+    ],
+    "addTargetIds": [],
+    "targetQuestIndividualities": [],
+    "targetEventIds": [],
+    "id": 80341001,
+    "missionTargetId": 80341,
+    "missionCondType": 10,
+    "logicType": 1,
+    "conditionLinkType": 2
+  },
+  {
+    "targetIds": [
+      94062304
+    ],
+    "addTargetIds": [],
+    "targetQuestIndividualities": [],
+    "targetEventIds": [],
+    "id": 80341002,
+    "missionTargetId": 80341,
+    "missionCondType": 12,
+    "logicType": 1,
+    "conditionLinkType": 2
+  },
+  {
+    "targetIds": [
+      94062305
+    ],
+    "addTargetIds": [],
+    "targetQuestIndividualities": [],
+    "targetEventIds": [],
+    "id": 80341003,
+    "missionTargetId": 80341,
+    "missionCondType": 12,
+    "logicType": 1,
+    "conditionLinkType": 2
+  },
+  {
+    "targetIds": [
+      94062306
+    ],
+    "addTargetIds": [],
+    "targetQuestIndividualities": [],
+    "targetEventIds": [],
+    "id": 80341004,
+    "missionTargetId": 80341,
+    "missionCondType": 12,
+    "logicType": 1,
+    "conditionLinkType": 2
+  },
+  {
+    "targetIds": [
+      94062401,
+      94062402,
+      94062403,
+      94062404,
+      94062405,
+      94062406,
+      94062407,
+      94062408,
+      94062409,
+      94062410,
+      94062411,
+      94062412,
+      94062413,
+      94062414,
+      94062415,
+      94062416,
+      94062417,
+      94062418,
+      94062419,
+      94062420,
+      94062421,
+      94062422,
+      94062423,
+      94062424
+    ],
+    "addTargetIds": [],
+    "targetQuestIndividualities": [],
+    "targetEventIds": [],
+    "id": 80341005,
+    "missionTargetId": 80341,
+    "missionCondType": 10,
+    "logicType": 1,
+    "conditionLinkType": 2
+  },
+  {
+    "targetIds": [
+      2720
+    ],
+    "addTargetIds": [],
+    "targetQuestIndividualities": [],
+    "targetEventIds": [],
+    "id": 80341006,
+    "missionTargetId": 80341,
+    "missionCondType": 2,
+    "logicType": 1,
+    "conditionLinkType": 2
+  },
+  {
+    "targetIds": [
+      94062303
+    ],
+    "addTargetIds": [],
+    "targetQuestIndividualities": [],
+    "targetEventIds": [],
+    "id": 80341007,
+    "missionTargetId": 80341,
+    "missionCondType": 12,
+    "logicType": 1,
+    "conditionLinkType": 2
+  },
+  {
+    "targetIds": [
+      94062302
+    ],
+    "addTargetIds": [],
+    "targetQuestIndividualities": [],
+    "targetEventIds": [],
+    "id": 80341008,
+    "missionTargetId": 80341,
+    "missionCondType": 12,
+    "logicType": 1,
+    "conditionLinkType": 2
+  },
+  {
+    "targetIds": [
+      94062301
+    ],
+    "addTargetIds": [],
+    "targetQuestIndividualities": [],
+    "targetEventIds": [],
+    "id": 80341009,
+    "missionTargetId": 80341,
+    "missionCondType": 12,
     "logicType": 1,
     "conditionLinkType": 2
   }

@@ -315,6 +315,54 @@
     "condValues": [
       0
     ],
+    "svtId": 102700,
+    "voicePrefix": -1,
+    "voiceId": "H170",
+    "idx": 1,
+    "condGroup": 1,
+    "condType": 40,
+    "targetId": 702500
+  },
+  {
+    "condValues": [
+      0
+    ],
+    "svtId": 102700,
+    "voicePrefix": -1,
+    "voiceId": "H170",
+    "idx": 2,
+    "condGroup": 1,
+    "condType": 41,
+    "targetId": 104400
+  },
+  {
+    "condValues": [
+      0
+    ],
+    "svtId": 102700,
+    "voicePrefix": -1,
+    "voiceId": "H240",
+    "idx": 1,
+    "condGroup": 1,
+    "condType": 40,
+    "targetId": 702500
+  },
+  {
+    "condValues": [
+      0
+    ],
+    "svtId": 102700,
+    "voicePrefix": -1,
+    "voiceId": "H240",
+    "idx": 2,
+    "condGroup": 1,
+    "condType": 40,
+    "targetId": 104400
+  },
+  {
+    "condValues": [
+      0
+    ],
     "svtId": 103200,
     "voicePrefix": -1,
     "voiceId": "H190",
@@ -1273,15 +1321,63 @@
   },
   {
     "condValues": [
-      0
+      80331
     ],
     "svtId": 204100,
     "voicePrefix": -1,
     "voiceId": "H250",
     "idx": 2,
     "condGroup": 1,
-    "condType": 20,
-    "targetId": 80289
+    "condType": 56,
+    "targetId": 204100
+  },
+  {
+    "condValues": [
+      0
+    ],
+    "svtId": 204100,
+    "voicePrefix": -1,
+    "voiceId": "H250",
+    "idx": 3,
+    "condGroup": 2,
+    "condType": 40,
+    "targetId": 901000
+  },
+  {
+    "condValues": [
+      0
+    ],
+    "svtId": 204100,
+    "voicePrefix": -1,
+    "voiceId": "H250",
+    "idx": 4,
+    "condGroup": 2,
+    "condType": 1,
+    "targetId": 94062313
+  },
+  {
+    "condValues": [
+      0
+    ],
+    "svtId": 204100,
+    "voicePrefix": -1,
+    "voiceId": "H250",
+    "idx": 5,
+    "condGroup": 3,
+    "condType": 40,
+    "targetId": 901000
+  },
+  {
+    "condValues": [
+      0
+    ],
+    "svtId": 204100,
+    "voicePrefix": -1,
+    "voiceId": "H250",
+    "idx": 6,
+    "condGroup": 3,
+    "condType": 1,
+    "targetId": 94049113
   },
   {
     "condValues": [
@@ -4558,6 +4654,54 @@
     "condGroup": 3,
     "condType": 20,
     "targetId": 80289
+  },
+  {
+    "condValues": [
+      0
+    ],
+    "svtId": 901000,
+    "voicePrefix": -1,
+    "voiceId": "H280",
+    "idx": 1,
+    "condGroup": 1,
+    "condType": 40,
+    "targetId": 204100
+  },
+  {
+    "condValues": [
+      0
+    ],
+    "svtId": 901000,
+    "voicePrefix": -1,
+    "voiceId": "H280",
+    "idx": 2,
+    "condGroup": 1,
+    "condType": 1,
+    "targetId": 94049113
+  },
+  {
+    "condValues": [
+      0
+    ],
+    "svtId": 901000,
+    "voicePrefix": -1,
+    "voiceId": "H280",
+    "idx": 3,
+    "condGroup": 2,
+    "condType": 40,
+    "targetId": 204100
+  },
+  {
+    "condValues": [
+      0
+    ],
+    "svtId": 901000,
+    "voicePrefix": -1,
+    "voiceId": "H280",
+    "idx": 4,
+    "condGroup": 2,
+    "condType": 1,
+    "targetId": 94062313
   },
   {
     "condValues": [
