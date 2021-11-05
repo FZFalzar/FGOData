@@ -18002,6 +18002,105 @@
       10
     ],
     "targetIds": [
+      102900
+    ],
+    "script": {},
+    "id": 4000400,
+    "baseShopId": 4000053,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 874,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Arthur Pendragon (Prototype)",
+    "detail": "Exchange for Limited Time ★5 Servant",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1636430400,
+    "closedAt": 1636775999
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      102900
+    ],
+    "script": {},
+    "id": 4000401,
+    "baseShopId": 4000053,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 874,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Arthur Pendragon (Prototype)",
+    "detail": "Exchange for Limited Time ★5 Servant",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1636948800,
+    "closedAt": 1637294399
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      102900
+    ],
+    "script": {},
+    "id": 4000402,
+    "baseShopId": 4000053,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 874,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Arthur Pendragon (Prototype)",
+    "detail": "Exchange for Limited Time ★5 Servant",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1637467200,
+    "closedAt": 1637639999
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
       602500
     ],
     "script": {},
@@ -37085,7 +37184,7 @@
     "eventId": 0,
     "slot": 0,
     "flag": 256,
-    "priority": 29,
+    "priority": 61,
     "purchaseType": 9,
     "setNum": 1,
     "payType": 10,
@@ -37100,6 +37199,237 @@
     "imageId": 80255,
     "bgImageId": 0,
     "openedAt": 1635825600,
+    "closedAt": 1901231999
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      3
+    ],
+    "targetIds": [
+      1000
+    ],
+    "script": {},
+    "id": 6000352,
+    "baseShopId": 6000352,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 11,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Lantern of Chaldea",
+    "detail": "Exchange for [Bond Limit Release Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1636934400,
+    "closedAt": 1639526399
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      5003
+    ],
+    "script": {},
+    "id": 6000353,
+    "baseShopId": 6000353,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 12,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 3,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Code Remover",
+    "detail": "Exchange for [Command Code Detacher Item]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1636934400,
+    "closedAt": 1639526399
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      5
+    ],
+    "targetIds": [
+      6999
+    ],
+    "script": {},
+    "id": 6000354,
+    "baseShopId": 6000354,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 13,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Crystallized Lore",
+    "detail": "Exchange for [Skill up Material]",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1636934400,
+    "closedAt": 1639526399
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      3
+    ],
+    "targetIds": [
+      9570400
+    ],
+    "script": {},
+    "id": 6000355,
+    "baseShopId": 6000355,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 14,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Hero Crystal: Meteor Fou",
+    "detail": "Exchange for one ★4 ALL HP Up card",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1636934400,
+    "closedAt": 1639526399
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      3
+    ],
+    "targetIds": [
+      9670400
+    ],
+    "script": {},
+    "id": 6000356,
+    "baseShopId": 6000356,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 15,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Hero Crystal: Corona Fou",
+    "detail": "Exchange for one ★4 ALL ATK Up card",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1636934400,
+    "closedAt": 1639526399
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      4
+    ],
+    "script": {},
+    "id": 6000357,
+    "baseShopId": 6000357,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 16,
+    "purchaseType": 1,
+    "setNum": 20000,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 5,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "Friend Points",
+    "detail": "Exchange for 20,000 Friend Points",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1636934400,
+    "closedAt": 1639526399
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      5
+    ],
+    "targetIds": [
+      10290011
+    ],
+    "script": {},
+    "id": 6000358,
+    "baseShopId": 6000358,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 256,
+    "priority": 60,
+    "purchaseType": 14,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "\"White Rose\" Wardrobe Key ",
+    "detail": "Exchange for Wardrobe Key for Arthur Pendragon's Spiritron Dress \"White Rose.\"",
+    "infoMessage": "Acquire the Wardrobe Key for the Spiritron Dress \"White Rose\"",
+    "warningMessage": "",
+    "imageId": 80057,
+    "bgImageId": 0,
+    "openedAt": 1636430400,
     "closedAt": 1901231999
   },
   {
