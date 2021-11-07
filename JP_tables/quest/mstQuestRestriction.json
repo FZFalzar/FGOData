@@ -7875,6 +7875,51 @@
     "title": ""
   },
   {
+    "questId": 94062310,
+    "phase": 1,
+    "restrictionId": 2000301,
+    "frequencyType": 3,
+    "dialogMessage": "制限対象サーヴァントはサブメンバーとして出撃できません。",
+    "noticeMessage": "沖田総司(セイバー)をスターティングメンバーに設定してください。",
+    "title": ""
+  },
+  {
+    "questId": 94062312,
+    "phase": 2,
+    "restrictionId": 94051403,
+    "frequencyType": 0,
+    "dialogMessage": "このクエストを開始するには\nスターティングメンバーに\n3騎のサーヴァントが必要です。",
+    "noticeMessage": "3騎のみ出撃可能",
+    "title": ""
+  },
+  {
+    "questId": 94062312,
+    "phase": 2,
+    "restrictionId": 94062301,
+    "frequencyType": 3,
+    "dialogMessage": "沖田総司(セイバー)を\nスターティングメンバーに設定してください。",
+    "noticeMessage": "沖田総司(セイバー)をスターティングメンバーに設定してください。",
+    "title": "沖田総司(セイバー)"
+  },
+  {
+    "questId": 94062312,
+    "phase": 2,
+    "restrictionId": 94062302,
+    "frequencyType": 3,
+    "dialogMessage": "斎藤一を\nスターティングメンバーに設定してください。",
+    "noticeMessage": "斎藤一をスターティングメンバーに設定してください。",
+    "title": "斎藤一"
+  },
+  {
+    "questId": 94062312,
+    "phase": 2,
+    "restrictionId": 94062303,
+    "frequencyType": 3,
+    "dialogMessage": "土方歳三を\nスターティングメンバーに設定してください。",
+    "noticeMessage": "土方歳三をスターティングメンバーに設定してください。",
+    "title": "土方歳三"
+  },
+  {
     "questId": 94062701,
     "phase": 1,
     "restrictionId": 3000201,
