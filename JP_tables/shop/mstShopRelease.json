@@ -241,6 +241,18 @@
   },
   {
     "condValues": [
+      6000580
+    ],
+    "shopId": 11162,
+    "condType": 35,
+    "condNum": 1,
+    "priority": 0,
+    "isClosedDisp": false,
+    "closedMessage": "※レアプリズムショップ「グラン・カヴァッロ」購入後に交換可能",
+    "closedItemName": ""
+  },
+  {
+    "condValues": [
       100200
     ],
     "shopId": 11163,
@@ -3313,6 +3325,18 @@
     "priority": 0,
     "isClosedDisp": true,
     "closedMessage": "※簡易霊衣「浅葱の羽織袴」を獲得した履歴がない場合でのみ、特異点Fクリア後に交換可能",
+    "closedItemName": ""
+  },
+  {
+    "condValues": [
+      11162
+    ],
+    "shopId": 6000580,
+    "condType": 37,
+    "condNum": 5,
+    "priority": 0,
+    "isClosedDisp": true,
+    "closedMessage": "※すべての「グラン・カヴァッロ」取得履歴がない場合でのみ、交換可能となります",
     "closedItemName": ""
   },
   {
