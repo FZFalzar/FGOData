@@ -40556,6 +40556,22 @@
   },
   {
     "targetIds": [
+      30000012
+    ],
+    "missionId": 1019005,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 10480,
+    "missionTargetId": 200098,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 3,
+    "conditionMessage": "【2400万DL突破記念】\n11/15(月)のデイリーミッションをすべてクリアせよ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
       3001009
     ],
     "missionId": 1020001,
@@ -76296,6 +76312,139 @@
     "condType": 22,
     "targetNum": 30,
     "conditionMessage": "『天』の力を持つ敵を30体倒せ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001926,
+      2001927,
+      2001928,
+      2001929,
+      2001930,
+      2001931
+    ],
+    "missionId": 2001925,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2002200,
+    "missionTargetId": 100278,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 6,
+    "conditionMessage": "今週のマスターミッションをすべてクリアせよ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001455
+    ],
+    "missionId": 2001926,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2002201,
+    "missionTargetId": 100278,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 3,
+    "conditionMessage": "『セイバー』『キャスター』クラスのサーヴァントをどれか3騎倒せ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001456
+    ],
+    "missionId": 2001927,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2002202,
+    "missionTargetId": 100278,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 3,
+    "conditionMessage": "『アーチャー』『ランサー』クラスのサーヴァントをどれか3騎倒せ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001457
+    ],
+    "missionId": 2001928,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2002203,
+    "missionTargetId": 100278,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 3,
+    "conditionMessage": "『ライダー』『アサシン』『バーサーカー』クラスのサーヴァントをどれか3騎倒せ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001458
+    ],
+    "missionId": 2001929,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2002204,
+    "missionTargetId": 100278,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 20,
+    "conditionMessage": "敵を20体倒せ(サーヴァント及び一部ボスなどは除く)",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001929
+    ],
+    "missionId": 2001930,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 2002205,
+    "missionTargetId": 100278,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 1,
+    "conditionMessage": "敵を40体倒せ(サーヴァント及び一部ボスなどは除く)",
+    "closedMessage": "",
+    "flag": 64
+  },
+  {
+    "targetIds": [
+      2001458
+    ],
+    "missionId": 2001930,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2002206,
+    "missionTargetId": 100278,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 40,
+    "conditionMessage": "敵を40体倒せ(サーヴァント及び一部ボスなどは除く)",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001459
+    ],
+    "missionId": 2001931,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2002207,
+    "missionTargetId": 100278,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "『地』の力を持つ敵を15体倒せ",
     "closedMessage": "",
     "flag": 0
   },
