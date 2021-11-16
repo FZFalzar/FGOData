@@ -30877,6 +30877,108 @@
     "effectId": 0
   },
   {
+    "vals": [
+      2591
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      5000
+    ],
+    "script": {},
+    "id": 2594,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "Spell Tome Barrier",
+    "detail": "Gain resistance to all attacks",
+    "iconId": 334,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2595,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "Heart of the Spell Tome Barrier",
+    "detail": "When HP reaches 0, remove 1 \"Spell Tome Barrier\" of the Expert Reader, Demon King Rank",
+    "iconId": 543,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2592
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2596,
+    "buffGroup": 0,
+    "type": 104,
+    "name": "Guts",
+    "detail": "When HP reaches 0, recover HP and survive",
+    "iconId": 304,
+    "maxRate": 1000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2354
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "relationId": 122
+    },
+    "id": 2597,
+    "buffGroup": 0,
+    "type": 144,
+    "name": "Class Affinity Change ",
+    "detail": "Gain Class advantage against Saber Class",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3019
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2598,
+    "buffGroup": 0,
+    "type": 25,
+    "name": "Virus detected",
+    "detail": "Ignore Evade and deal ATK damage",
+    "iconId": 309,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2599,
+    "buffGroup": 0,
+    "type": 9,
+    "name": "Executing virus extermination",
+    "detail": "Increase ATK",
+    "iconId": 300,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
     "vals": [],
     "tvals": [],
     "ckSelfIndv": [],
@@ -31237,6 +31339,144 @@
     "detail": "Stop the formation with a Noble Phantasm!",
     "iconId": 525,
     "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2591
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      5000
+    ],
+    "script": {},
+    "id": 2620,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "Scanning to check if program is safe...",
+    "detail": "Gain resistance to all attacks",
+    "iconId": 334,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2592
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2621,
+    "buffGroup": 0,
+    "type": 37,
+    "name": "Executing automatic recovery...",
+    "detail": "When HP reaches 0, recover HP and survive",
+    "iconId": 304,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2354
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2622,
+    "buffGroup": 0,
+    "type": 18,
+    "name": "Critical Up",
+    "detail": "Increase Critical Hit damage",
+    "iconId": 324,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2354
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2623,
+    "buffGroup": 0,
+    "type": 17,
+    "name": "NP Gain Up",
+    "detail": "Increase NP amount gained",
+    "iconId": 303,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2354
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2624,
+    "buffGroup": 0,
+    "type": 6,
+    "name": "C. Star Gain Per Turn",
+    "detail": "Gain C. Stars at end of each turn",
+    "iconId": 320,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2354
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2625,
+    "buffGroup": 0,
+    "type": 85,
+    "name": "Triggers Each Turn (Decrease HP)",
+    "detail": "Decrease HP each turn",
+    "iconId": 537,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2354
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2626,
+    "buffGroup": 0,
+    "type": 9,
+    "name": "ATK Up",
+    "detail": "Increase ATK",
+    "iconId": 300,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2354
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2627,
+    "buffGroup": 0,
+    "type": 104,
+    "name": "Guts",
+    "detail": "When HP reaches 0, recover HP and survive",
+    "iconId": 304,
+    "maxRate": 1000,
     "effectId": 0
   },
   {

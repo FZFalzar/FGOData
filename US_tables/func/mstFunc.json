@@ -41535,7 +41535,7 @@
     "targetType": 0,
     "applyTarget": 3,
     "popupIconId": 0,
-    "popupText": "Remove Poison & Curse & Burn",
+    "popupText": "Remove Poison, Curse, Burn",
     "categoryId": 0
   },
   {
@@ -78891,6 +78891,444 @@
     "categoryId": 0
   },
   {
+    "vals": [
+      888
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 4962,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 322,
+    "popupText": "Debuff Immune",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1415
+    ],
+    "tvals": [
+      400800
+    ],
+    "questTvals": [],
+    "effectList": [
+      330
+    ],
+    "popupTextColor": 2,
+    "id": 4963,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 314,
+    "popupText": "Buster Up",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1810
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 4964,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 1,
+    "applyTarget": 3,
+    "popupIconId": 306,
+    "popupText": "Debuff Resist\nUp",
+    "categoryId": 30201
+  },
+  {
+    "vals": [
+      2622
+    ],
+    "tvals": [
+      202100
+    ],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 4965,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 7,
+    "applyTarget": 3,
+    "popupIconId": 324,
+    "popupText": "Critical Up",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2623
+    ],
+    "tvals": [
+      202100
+    ],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 4966,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 7,
+    "applyTarget": 1,
+    "popupIconId": 303,
+    "popupText": "NP Gain Up",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2624
+    ],
+    "tvals": [
+      202100
+    ],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 1,
+    "id": 4967,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 7,
+    "applyTarget": 1,
+    "popupIconId": 320,
+    "popupText": "C. Star Gain\nPer Turn",
+    "categoryId": 10405
+  },
+  {
+    "vals": [
+      2592
+    ],
+    "tvals": [
+      2592
+    ],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 1,
+    "id": 4968,
+    "cond": 0,
+    "funcType": 2,
+    "targetType": 1,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "Remove Guts",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2595
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 2,
+    "id": 4969,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2591
+    ],
+    "tvals": [
+      2591
+    ],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 1,
+    "id": 4970,
+    "cond": 0,
+    "funcType": 2,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "Remove Spell Tome Barrier",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2594
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 4971,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 334,
+    "popupText": "Spell Tome Barrier",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2596
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 4972,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 304,
+    "popupText": "Guts",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2596
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 4973,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 304,
+    "popupText": "Guts",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2625
+    ],
+    "tvals": [
+      503500
+    ],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 3,
+    "id": 4974,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 7,
+    "applyTarget": 3,
+    "popupIconId": 537,
+    "popupText": "Triggers Each Turn (Decrease HP)",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      503500
+    ],
+    "questTvals": [],
+    "effectList": [
+      327
+    ],
+    "popupTextColor": 2,
+    "id": 4975,
+    "cond": 0,
+    "funcType": 7,
+    "targetType": 3,
+    "applyTarget": 1,
+    "popupIconId": 0,
+    "popupText": "NP Gain",
+    "categoryId": 10602
+  },
+  {
+    "vals": [
+      2626
+    ],
+    "tvals": [
+      303300
+    ],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 4976,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 300,
+    "popupText": "ATK Up",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2627
+    ],
+    "tvals": [
+      303300
+    ],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 4977,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 304,
+    "popupText": "Guts",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2597
+    ],
+    "tvals": [
+      303300
+    ],
+    "questTvals": [],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 4978,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 520,
+    "popupText": "Class Affinity Change",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2624
+    ],
+    "tvals": [
+      6010
+    ],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 1,
+    "id": 4979,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 3,
+    "applyTarget": 1,
+    "popupIconId": 320,
+    "popupText": "C. Star Gain\nPer Turn",
+    "categoryId": 10405
+  },
+  {
+    "vals": [
+      2599
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 4980,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 300,
+    "popupText": "ATK Up",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2620
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 4981,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 334,
+    "popupText": "Special Resist\nUp",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2621
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 4982,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 304,
+    "popupText": "Guts",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      2598
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 4983,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 309,
+    "popupText": "Sure Hit",
+    "categoryId": 0
+  },
+  {
     "vals": [],
     "tvals": [],
     "questTvals": [],
@@ -79019,6 +79457,21 @@
     "applyTarget": 3,
     "popupIconId": 0,
     "popupText": "Remove Death's Abyss",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 6323,
+    "cond": 0,
+    "funcType": 46,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
     "categoryId": 0
   },
   {

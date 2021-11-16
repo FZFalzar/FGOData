@@ -8490,6 +8490,794 @@
     "infoText": ""
   },
   {
+    "vals": [
+      503500
+    ],
+    "avals": [
+      802521,
+      0
+    ],
+    "script": {},
+    "id": 802520,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 100,
+    "probability": 100,
+    "cond": 56,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 802520,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      503500
+    ],
+    "avals": [
+      802522,
+      0
+    ],
+    "script": {},
+    "id": 802520,
+    "idx": 3,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 100,
+    "probability": 100,
+    "cond": 56,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 802520,
+    "idx": 4,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2354
+    ],
+    "avals": [
+      802520,
+      0
+    ],
+    "script": {},
+    "id": 802521,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 100,
+    "probability": 100,
+    "cond": -59,
+    "aiActId": 800084,
+    "infoText": "\"It's hot.\""
+  },
+  {
+    "vals": [],
+    "avals": [
+      802520,
+      0
+    ],
+    "script": {},
+    "id": 802521,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2354
+    ],
+    "avals": [
+      802520,
+      0
+    ],
+    "script": {},
+    "id": 802522,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 100,
+    "probability": 100,
+    "cond": -59,
+    "aiActId": 800084,
+    "infoText": "\"It's hot.\""
+  },
+  {
+    "vals": [],
+    "avals": [
+      802520,
+      0
+    ],
+    "script": {},
+    "id": 802522,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      503500
+    ],
+    "avals": [
+      802531,
+      0
+    ],
+    "script": {},
+    "id": 802530,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 100,
+    "probability": 100,
+    "cond": 56,
+    "aiActId": 800085,
+    "infoText": "\"This dish is delicious.\""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 802530,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 802531,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      21
+    ],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 802610,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 100,
+    "probability": 100,
+    "cond": 85,
+    "aiActId": 800015,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      503900
+    ],
+    "avals": [
+      802611,
+      0
+    ],
+    "script": {},
+    "id": 802610,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 50,
+    "probability": 100,
+    "cond": -53,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 802610,
+    "idx": 3,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      20
+    ],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 802611,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 100,
+    "probability": 100,
+    "cond": 85,
+    "aiActId": 800015,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 802611,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 5,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      303300
+    ],
+    "avals": [
+      802631,
+      0
+    ],
+    "script": {},
+    "id": 802630,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 100,
+    "probability": 100,
+    "cond": 56,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 802630,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      303300
+    ],
+    "avals": [
+      802632,
+      0
+    ],
+    "script": {},
+    "id": 802630,
+    "idx": 3,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 100,
+    "probability": 100,
+    "cond": 56,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 802630,
+    "idx": 4,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2354
+    ],
+    "avals": [
+      802630,
+      0
+    ],
+    "script": {},
+    "id": 802631,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 100,
+    "probability": 100,
+    "cond": -59,
+    "aiActId": 800086,
+    "infoText": "Vows of the Three Sisters"
+  },
+  {
+    "vals": [],
+    "avals": [
+      802630,
+      0
+    ],
+    "script": {},
+    "id": 802631,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2354
+    ],
+    "avals": [
+      802630,
+      0
+    ],
+    "script": {},
+    "id": 802632,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 100,
+    "probability": 100,
+    "cond": -59,
+    "aiActId": 800086,
+    "infoText": "Vows of the Three Sisters"
+  },
+  {
+    "vals": [],
+    "avals": [
+      802630,
+      0
+    ],
+    "script": {},
+    "id": 802632,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 802680,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 100,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 800087,
+    "infoText": "Combat Training"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 802680,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 802690,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 100,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 800087,
+    "infoText": "Combat Training"
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 802690,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 1,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      6010
+    ],
+    "avals": [
+      802711,
+      0
+    ],
+    "script": {},
+    "id": 802710,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 100,
+    "probability": 100,
+    "cond": 56,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 802710,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      6010
+    ],
+    "avals": [
+      802712,
+      0
+    ],
+    "script": {},
+    "id": 802710,
+    "idx": 3,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 100,
+    "probability": 100,
+    "cond": 56,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 802710,
+    "idx": 4,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2354
+    ],
+    "avals": [
+      802710,
+      0
+    ],
+    "script": {},
+    "id": 802711,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 100,
+    "probability": 100,
+    "cond": -59,
+    "aiActId": 800094,
+    "infoText": "Wolf King's Roar"
+  },
+  {
+    "vals": [],
+    "avals": [
+      802710,
+      0
+    ],
+    "script": {},
+    "id": 802711,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2354
+    ],
+    "avals": [
+      802710,
+      0
+    ],
+    "script": {},
+    "id": 802712,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 100,
+    "probability": 100,
+    "cond": -59,
+    "aiActId": 800094,
+    "infoText": "Wolf King's Roar"
+  },
+  {
+    "vals": [],
+    "avals": [
+      802710,
+      0
+    ],
+    "script": {},
+    "id": 802712,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      202100
+    ],
+    "avals": [
+      802721,
+      0
+    ],
+    "script": {},
+    "id": 802720,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 100,
+    "probability": 100,
+    "cond": 56,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 802720,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      202100
+    ],
+    "avals": [
+      802722,
+      0
+    ],
+    "script": {},
+    "id": 802720,
+    "idx": 3,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 100,
+    "probability": 100,
+    "cond": 56,
+    "aiActId": 2,
+    "infoText": ""
+  },
+  {
+    "vals": [],
+    "avals": [
+      0,
+      0
+    ],
+    "script": {},
+    "id": 802720,
+    "idx": 4,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2354
+    ],
+    "avals": [
+      802720,
+      0
+    ],
+    "script": {},
+    "id": 802721,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 100,
+    "probability": 100,
+    "cond": -59,
+    "aiActId": 800095,
+    "infoText": "Da Vinci's Battle Support Program"
+  },
+  {
+    "vals": [],
+    "avals": [
+      802720,
+      0
+    ],
+    "script": {},
+    "id": 802721,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 2,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
+    "vals": [
+      2354
+    ],
+    "avals": [
+      802720,
+      0
+    ],
+    "script": {},
+    "id": 802722,
+    "idx": 1,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 100,
+    "probability": 100,
+    "cond": -59,
+    "aiActId": 800095,
+    "infoText": "Da Vinci's Battle Support Program"
+  },
+  {
+    "vals": [],
+    "avals": [
+      802720,
+      0
+    ],
+    "script": {},
+    "id": 802722,
+    "idx": 2,
+    "actNum": -1,
+    "timing": 3,
+    "priority": 1,
+    "probability": 100,
+    "cond": 0,
+    "aiActId": 1,
+    "infoText": ""
+  },
+  {
     "vals": [],
     "avals": [
       0,

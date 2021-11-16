@@ -209,6 +209,39 @@
     "displayType": 1
   },
   {
+    "questId": 91103601,
+    "phase": 1,
+    "idx": 0,
+    "message": "In this quest, you will form your party immediately before the battle begins.\n\nWould you like to start the quest?",
+    "condType": 0,
+    "targetId": 0,
+    "targetNum": 0,
+    "frequencyType": 3,
+    "displayType": 1
+  },
+  {
+    "questId": 91103601,
+    "phase": 2,
+    "idx": 0,
+    "message": "In this quest, you will form your party immediately before the battle begins.\n\nWould you like to start the quest?",
+    "condType": 0,
+    "targetId": 0,
+    "targetNum": 0,
+    "frequencyType": 3,
+    "displayType": 1
+  },
+  {
+    "questId": 91103601,
+    "phase": 3,
+    "idx": 0,
+    "message": "In this quest, you will form your party immediately before the battle begins.\n\nWould you like to start the quest?",
+    "condType": 0,
+    "targetId": 0,
+    "targetNum": 0,
+    "frequencyType": 3,
+    "displayType": 1
+  },
+  {
     "questId": 91202002,
     "phase": 1,
     "idx": 0,
@@ -242,7 +275,95 @@
     "displayType": 1
   },
   {
+    "questId": 91202101,
+    "phase": 1,
+    "idx": 0,
+    "message": "In this quest, you will form your party immediately before the battle begins.\n\nWould you like to start the quest?",
+    "condType": 0,
+    "targetId": 0,
+    "targetNum": 0,
+    "frequencyType": 3,
+    "displayType": 1
+  },
+  {
+    "questId": 91203101,
+    "phase": 2,
+    "idx": 0,
+    "message": "In this quest, you will form your party immediately before the battle begins.\n\nWould you like to start the quest?",
+    "condType": 0,
+    "targetId": 0,
+    "targetNum": 0,
+    "frequencyType": 3,
+    "displayType": 1
+  },
+  {
+    "questId": 91203101,
+    "phase": 3,
+    "idx": 0,
+    "message": "In this quest, you will form your party immediately before the battle begins.\n\nWould you like to start the quest?",
+    "condType": 0,
+    "targetId": 0,
+    "targetNum": 0,
+    "frequencyType": 3,
+    "displayType": 1
+  },
+  {
     "questId": 91303001,
+    "phase": 3,
+    "idx": 0,
+    "message": "In this quest, you will form your party immediately before the battle begins.\n\nWould you like to start the quest?",
+    "condType": 0,
+    "targetId": 0,
+    "targetNum": 0,
+    "frequencyType": 3,
+    "displayType": 1
+  },
+  {
+    "questId": 91303301,
+    "phase": 1,
+    "idx": 0,
+    "message": "In this quest, you will form your party immediately before the battle begins.\n\nWould you like to start the quest?",
+    "condType": 0,
+    "targetId": 0,
+    "targetNum": 0,
+    "frequencyType": 3,
+    "displayType": 1
+  },
+  {
+    "questId": 91303501,
+    "phase": 1,
+    "idx": 0,
+    "message": "In this quest, you will form your party immediately before the battle begins.\n\nWould you like to start the quest?",
+    "condType": 0,
+    "targetId": 0,
+    "targetNum": 0,
+    "frequencyType": 3,
+    "displayType": 1
+  },
+  {
+    "questId": 91303501,
+    "phase": 4,
+    "idx": 0,
+    "message": "In this quest, you will form your party immediately before the battle begins.\n\nWould you like to start the quest?",
+    "condType": 0,
+    "targetId": 0,
+    "targetNum": 0,
+    "frequencyType": 3,
+    "displayType": 1
+  },
+  {
+    "questId": 91402801,
+    "phase": 1,
+    "idx": 0,
+    "message": "In this quest, you will form your party immediately before the battle begins.\n\nWould you like to start the quest?",
+    "condType": 0,
+    "targetId": 0,
+    "targetNum": 0,
+    "frequencyType": 3,
+    "displayType": 1
+  },
+  {
+    "questId": 91503501,
     "phase": 3,
     "idx": 0,
     "message": "In this quest, you will form your party immediately before the battle begins.\n\nWould you like to start the quest?",
@@ -8622,5 +8743,38 @@
     "targetNum": 1,
     "frequencyType": 3,
     "displayType": 1
+  },
+  {
+    "questId": 594000001,
+    "phase": 1,
+    "idx": 0,
+    "message": "A cutscene from \"Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot Wandering; Agateram\" will play.\nProceed?",
+    "condType": 0,
+    "targetId": 0,
+    "targetNum": 0,
+    "frequencyType": 3,
+    "displayType": 4
+  },
+  {
+    "questId": 594000001,
+    "phase": 1,
+    "idx": 1,
+    "message": "A cutscene will be downloaded.\n\n[Download size: 460 MB]\n[FFFF00](460 MB of free space will be needed to save it.)[-]",
+    "condType": 96,
+    "targetId": 594000001,
+    "targetNum": 1,
+    "frequencyType": 3,
+    "displayType": 4
+  },
+  {
+    "questId": 594000001,
+    "phase": 1,
+    "idx": 2,
+    "message": "Would you like to save the cutscene data for \"Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot Wandering; Agateram\"?\n\n[sub] Saving it will require 460 MB of space.\nIf it is unsaved and you would like to see the cutscene again, the data will need to be redownloaded.",
+    "condType": 100,
+    "targetId": 594000001,
+    "targetNum": 1,
+    "frequencyType": 3,
+    "displayType": 5
   }
 ]

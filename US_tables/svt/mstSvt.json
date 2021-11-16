@@ -654,7 +654,9 @@
       2,
       2
     ],
-    "script": {},
+    "script": {
+      "cameraActionId": 86
+    },
     "id": 101200,
     "baseSvtId": 101200,
     "name": "Bedivere",
@@ -1444,7 +1446,8 @@
       2008,
       2011,
       2037,
-      2075
+      2075,
+      1132
     ],
     "classPassive": [
       34550,
@@ -1577,6 +1580,7 @@
       2008,
       2075,
       2012,
+      2735,
       2631
     ],
     "classPassive": [
@@ -1830,7 +1834,9 @@
     "flag": 0
   },
   {
-    "relateQuestIds": [],
+    "relateQuestIds": [
+      91103601
+    ],
     "individuality": [
       5000,
       103600,
@@ -2851,7 +2857,9 @@
       2,
       2
     ],
-    "script": {},
+    "script": {
+      "cameraActionId": 404
+    },
     "id": 201300,
     "baseSvtId": 201300,
     "name": "Arash",
@@ -3216,7 +3224,9 @@
     "flag": 0
   },
   {
-    "relateQuestIds": [],
+    "relateQuestIds": [
+      91202101
+    ],
     "individuality": [
       5000,
       202100,
@@ -3231,6 +3241,8 @@
       2008,
       2011,
       2037,
+      1132,
+      2735,
       2631
     ],
     "classPassive": [
@@ -3851,7 +3863,9 @@
     "flag": 0
   },
   {
-    "relateQuestIds": [],
+    "relateQuestIds": [
+      91203101
+    ],
     "individuality": [
       5000,
       203100,
@@ -4652,6 +4666,7 @@
       2001,
       2008,
       2012,
+      2735,
       2631
     ],
     "classPassive": [
@@ -5816,6 +5831,7 @@
       2008,
       2011,
       2037,
+      2735,
       2631
     ],
     "classPassive": [
@@ -6063,7 +6079,9 @@
     "flag": 0
   },
   {
-    "relateQuestIds": [],
+    "relateQuestIds": [
+      91303301
+    ],
     "individuality": [
       5000,
       303300,
@@ -6193,7 +6211,9 @@
     "flag": 0
   },
   {
-    "relateQuestIds": [],
+    "relateQuestIds": [
+      91303501
+    ],
     "individuality": [
       5000,
       303500,
@@ -7201,6 +7221,7 @@
       2001,
       2008,
       2012,
+      2735,
       2631
     ],
     "classPassive": [
@@ -7606,6 +7627,7 @@
       2011,
       2037,
       2012,
+      2735,
       2631
     ],
     "classPassive": [
@@ -7915,7 +7937,9 @@
     "flag": 0
   },
   {
-    "relateQuestIds": [],
+    "relateQuestIds": [
+      91402801
+    ],
     "individuality": [
       5000,
       402800,
@@ -8704,6 +8728,7 @@
       1000,
       2001,
       2008,
+      2667,
       2631
     ],
     "classPassive": [
@@ -9586,6 +9611,7 @@
       2001,
       2008,
       2012,
+      2654,
       2631
     ],
     "classPassive": [
@@ -10454,7 +10480,9 @@
     "flag": 0
   },
   {
-    "relateQuestIds": [],
+    "relateQuestIds": [
+      91503501
+    ],
     "individuality": [
       5000,
       503500,
@@ -10723,7 +10751,8 @@
       2037,
       2002,
       1004,
-      1132
+      1132,
+      2734
     ],
     "classPassive": [
       83450,
@@ -12129,7 +12158,8 @@
       2037,
       2002,
       1004,
-      1132
+      1132,
+      2734
     ],
     "classPassive": [
       50350,
@@ -12898,6 +12928,7 @@
       2001,
       2008,
       2012,
+      2735,
       2631
     ],
     "classPassive": [
@@ -13872,6 +13903,7 @@
       2008,
       2011,
       2037,
+      2666,
       2667,
       2114,
       2632
@@ -13998,6 +14030,7 @@
       1000,
       2001,
       2008,
+      2666,
       2113,
       2631
     ],
@@ -14461,6 +14494,7 @@
       2008,
       2011,
       2037,
+      2735,
       2631
     ],
     "classPassive": [
@@ -43071,6 +43105,182 @@
     "illustratorId": 264,
     "cvId": 0,
     "collectionNo": 1279,
+    "materialStoryPriority": 1000,
+    "flag": 0
+  },
+  {
+    "relateQuestIds": [],
+    "individuality": [],
+    "classPassive": [],
+    "cardIds": [
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "script": {},
+    "id": 9305350,
+    "baseSvtId": 9305350,
+    "name": "A Light Lunch",
+    "ruby": "A Light Lunch",
+    "battleName": "-",
+    "classId": 1001,
+    "type": 6,
+    "limitMax": 4,
+    "rewardLv": 0,
+    "friendshipId": 1000,
+    "maxFriendshipRank": 0,
+    "genderType": 3,
+    "attri": 2,
+    "combineSkillId": 0,
+    "combineLimitId": 0,
+    "sellQp": 1000,
+    "sellMana": 3,
+    "sellRarePri": 0,
+    "expType": 19,
+    "combineMaterialId": 39,
+    "cost": 9,
+    "battleSize": 2,
+    "hpGaugeY": 0,
+    "starRate": 0,
+    "deathRate": 0,
+    "attackAttri": 1,
+    "illustratorId": 382,
+    "cvId": 0,
+    "collectionNo": 1324,
+    "materialStoryPriority": 1000,
+    "flag": 0
+  },
+  {
+    "relateQuestIds": [],
+    "individuality": [],
+    "classPassive": [],
+    "cardIds": [
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "script": {},
+    "id": 9305360,
+    "baseSvtId": 9305360,
+    "name": "Prayer to the Night Sky",
+    "ruby": "Prayer to the Night Sky",
+    "battleName": "-",
+    "classId": 1001,
+    "type": 6,
+    "limitMax": 4,
+    "rewardLv": 0,
+    "friendshipId": 1000,
+    "maxFriendshipRank": 0,
+    "genderType": 3,
+    "attri": 2,
+    "combineSkillId": 0,
+    "combineLimitId": 0,
+    "sellQp": 1000,
+    "sellMana": 3,
+    "sellRarePri": 0,
+    "expType": 19,
+    "combineMaterialId": 39,
+    "cost": 9,
+    "battleSize": 2,
+    "hpGaugeY": 0,
+    "starRate": 0,
+    "deathRate": 0,
+    "attackAttri": 1,
+    "illustratorId": 382,
+    "cvId": 0,
+    "collectionNo": 1322,
+    "materialStoryPriority": 1000,
+    "flag": 0
+  },
+  {
+    "relateQuestIds": [],
+    "individuality": [],
+    "classPassive": [],
+    "cardIds": [
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "script": {},
+    "id": 9305370,
+    "baseSvtId": 9305370,
+    "name": "A Moment of Amusement",
+    "ruby": "A Moment of Amusement",
+    "battleName": "-",
+    "classId": 1001,
+    "type": 6,
+    "limitMax": 4,
+    "rewardLv": 0,
+    "friendshipId": 1000,
+    "maxFriendshipRank": 0,
+    "genderType": 3,
+    "attri": 2,
+    "combineSkillId": 0,
+    "combineLimitId": 0,
+    "sellQp": 1000,
+    "sellMana": 3,
+    "sellRarePri": 0,
+    "expType": 19,
+    "combineMaterialId": 39,
+    "cost": 9,
+    "battleSize": 2,
+    "hpGaugeY": 0,
+    "starRate": 0,
+    "deathRate": 0,
+    "attackAttri": 1,
+    "illustratorId": 382,
+    "cvId": 0,
+    "collectionNo": 1323,
+    "materialStoryPriority": 1000,
+    "flag": 0
+  },
+  {
+    "relateQuestIds": [],
+    "individuality": [],
+    "classPassive": [],
+    "cardIds": [
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "script": {},
+    "id": 9305380,
+    "baseSvtId": 9305380,
+    "name": "A Leisurely Walk",
+    "ruby": "A Leisurely Walk",
+    "battleName": "-",
+    "classId": 1001,
+    "type": 6,
+    "limitMax": 4,
+    "rewardLv": 0,
+    "friendshipId": 1000,
+    "maxFriendshipRank": 0,
+    "genderType": 3,
+    "attri": 2,
+    "combineSkillId": 0,
+    "combineLimitId": 0,
+    "sellQp": 1000,
+    "sellMana": 3,
+    "sellRarePri": 0,
+    "expType": 19,
+    "combineMaterialId": 39,
+    "cost": 9,
+    "battleSize": 2,
+    "hpGaugeY": 0,
+    "starRate": 0,
+    "deathRate": 0,
+    "attackAttri": 1,
+    "illustratorId": 382,
+    "cvId": 0,
+    "collectionNo": 1321,
     "materialStoryPriority": 1000,
     "flag": 0
   },
@@ -85619,6 +85829,7 @@
       2001,
       2008,
       2019,
+      2735,
       2631
     ],
     "classPassive": [
@@ -89445,6 +89656,8 @@
       2008,
       2011,
       2037,
+      1132,
+      2735,
       2631
     ],
     "classPassive": [
@@ -89507,6 +89720,7 @@
       2009,
       2001,
       2012,
+      2735,
       2631
     ],
     "classPassive": [
@@ -89762,6 +89976,7 @@
       2008,
       2011,
       2037,
+      2735,
       2631
     ],
     "classPassive": [
@@ -93743,6 +93958,7 @@
       2011,
       2037,
       1132,
+      2735,
       2631
     ],
     "classPassive": [
@@ -95502,6 +95718,7 @@
       2001,
       2008,
       2012,
+      2735,
       2631
     ],
     "classPassive": [
@@ -100553,6 +100770,7 @@
       2001,
       2008,
       2012,
+      2735,
       2631
     ],
     "classPassive": [
