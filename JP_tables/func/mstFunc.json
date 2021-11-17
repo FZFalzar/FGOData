@@ -129532,6 +129532,150 @@
     "categoryId": 0
   },
   {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 7701,
+    "cond": 0,
+    "funcType": 105,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "なし",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 7702,
+    "cond": 0,
+    "funcType": 105,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "なし",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 7703,
+    "cond": 0,
+    "funcType": 105,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "なし",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3855
+    ],
+    "tvals": [],
+    "questTvals": [
+      94000125
+    ],
+    "effectList": [
+      330
+    ],
+    "popupTextColor": 2,
+    "id": 7704,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 302,
+    "popupText": "SAITAMAパワー",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3855
+    ],
+    "tvals": [],
+    "questTvals": [
+      94000125
+    ],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 7705,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 302,
+    "popupText": "SAITAMAパワー",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3855
+    ],
+    "tvals": [],
+    "questTvals": [
+      94000125
+    ],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 7706,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 302,
+    "popupText": "SAITAMAパワー",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3856
+    ],
+    "tvals": [],
+    "questTvals": [
+      94000125
+    ],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 7707,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 302,
+    "popupText": "なし",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 7708,
+    "cond": 0,
+    "funcType": 111,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "なし",
+    "categoryId": 0
+  },
+  {
     "vals": [
       3857
     ],
@@ -131926,6 +132070,59 @@
     "categoryId": 0
   },
   {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 7874,
+    "cond": 0,
+    "funcType": 111,
+    "targetType": 7,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "なし",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      889
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      340
+    ],
+    "popupTextColor": 3,
+    "id": 7901,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 506,
+    "popupText": "強化成功率ダウン",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3959
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 7902,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 528,
+    "popupText": "クリティカル攻撃時発動(防御力ダウン)",
+    "categoryId": 0
+  },
+  {
     "vals": [
       30001
     ],
@@ -133570,6 +133767,63 @@
     "applyTarget": 1,
     "popupIconId": 363,
     "popupText": "被クリティカル発生耐性アップ〔対フォーリナー〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30029
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      330
+    ],
+    "popupTextColor": 2,
+    "id": 30088,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 300,
+    "popupText": "攻撃力アップ〔対プリテンダー〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30029
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 30089,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 300,
+    "popupText": "攻撃力アップ〔対プリテンダー〕",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      30029
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 30090,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 300,
+    "popupText": "攻撃力アップ〔対プリテンダー〕",
     "categoryId": 0
   }
 ]
