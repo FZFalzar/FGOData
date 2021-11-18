@@ -132052,6 +132052,46 @@
   },
   {
     "vals": [
+      149
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      334
+    ],
+    "popupTextColor": 2,
+    "id": 7852,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 8,
+    "applyTarget": 3,
+    "popupIconId": 301,
+    "popupText": "ダメージカット",
+    "categoryId": 20202
+  },
+  {
+    "vals": [
+      119
+    ],
+    "tvals": [
+      6010
+    ],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 1,
+    "id": 7853,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 7,
+    "applyTarget": 1,
+    "popupIconId": 319,
+    "popupText": "毎ターンNP獲得",
+    "categoryId": 0
+  },
+  {
+    "vals": [
       487
     ],
     "tvals": [],
@@ -132067,6 +132107,255 @@
     "applyTarget": 2,
     "popupIconId": 323,
     "popupText": "タゲ集中アップ",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      329
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      333
+    ],
+    "popupTextColor": 2,
+    "id": 7859,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 1,
+    "applyTarget": 3,
+    "popupIconId": 334,
+    "popupText": "特殊耐性アップ",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      329
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      334
+    ],
+    "popupTextColor": 2,
+    "id": 7860,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 1,
+    "applyTarget": 3,
+    "popupIconId": 334,
+    "popupText": "特殊耐性アップ",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      329
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 7861,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 1,
+    "applyTarget": 3,
+    "popupIconId": 334,
+    "popupText": "特殊耐性アップ",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      136
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      330
+    ],
+    "popupTextColor": 2,
+    "id": 7863,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 8,
+    "applyTarget": 3,
+    "popupIconId": 302,
+    "popupText": "アタックプラス",
+    "categoryId": 10206
+  },
+  {
+    "vals": [
+      136
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 7864,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 8,
+    "applyTarget": 3,
+    "popupIconId": 302,
+    "popupText": "アタックプラス",
+    "categoryId": 10206
+  },
+  {
+    "vals": [
+      136
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 7865,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 8,
+    "applyTarget": 3,
+    "popupIconId": 302,
+    "popupText": "アタックプラス",
+    "categoryId": 10206
+  },
+  {
+    "vals": [
+      201
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 7866,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 14,
+    "applyTarget": 3,
+    "popupIconId": 330,
+    "popupText": "最大HPプラス",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      189
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 7867,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 14,
+    "applyTarget": 3,
+    "popupIconId": 329,
+    "popupText": "無敵貫通",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      1101200
+    ],
+    "questTvals": [],
+    "effectList": [
+      327
+    ],
+    "popupTextColor": 2,
+    "id": 7868,
+    "cond": 0,
+    "funcType": 7,
+    "targetType": 3,
+    "applyTarget": 1,
+    "popupIconId": 0,
+    "popupText": "NP増加",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      738
+    ],
+    "tvals": [
+      1101200
+    ],
+    "questTvals": [],
+    "effectList": [
+      327
+    ],
+    "popupTextColor": 2,
+    "id": 7869,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 3,
+    "applyTarget": 1,
+    "popupIconId": 303,
+    "popupText": "NP獲得アップ",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1414
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      330
+    ],
+    "popupTextColor": 2,
+    "id": 7870,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 313,
+    "popupText": "アーツアップ",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1414
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 7871,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 313,
+    "popupText": "アーツアップ",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      1414
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 7872,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 313,
+    "popupText": "アーツアップ",
     "categoryId": 0
   },
   {
@@ -132121,6 +132410,82 @@
     "popupIconId": 528,
     "popupText": "クリティカル攻撃時発動(防御力ダウン)",
     "categoryId": 0
+  },
+  {
+    "vals": [
+      146
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      334
+    ],
+    "popupTextColor": 2,
+    "id": 7907,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 14,
+    "applyTarget": 3,
+    "popupIconId": 301,
+    "popupText": "防御力アップ",
+    "categoryId": 20201
+  },
+  {
+    "vals": [
+      609
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      327
+    ],
+    "popupTextColor": 1,
+    "id": 7914,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 319,
+    "popupText": "毎ターンチャージプラス",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      6010
+    ],
+    "questTvals": [],
+    "effectList": [
+      327
+    ],
+    "popupTextColor": 2,
+    "id": 7917,
+    "cond": 0,
+    "funcType": 7,
+    "targetType": 3,
+    "applyTarget": 1,
+    "popupIconId": 0,
+    "popupText": "NP増加",
+    "categoryId": 10602
+  },
+  {
+    "vals": [
+      146
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      334
+    ],
+    "popupTextColor": 2,
+    "id": 7918,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 9,
+    "applyTarget": 3,
+    "popupIconId": 301,
+    "popupText": "防御力アップ",
+    "categoryId": 20201
   },
   {
     "vals": [
