@@ -76482,6 +76482,139 @@
   },
   {
     "targetIds": [
+      2001933,
+      2001934,
+      2001935,
+      2001936,
+      2001937,
+      2001938
+    ],
+    "missionId": 2001932,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2002208,
+    "missionTargetId": 100279,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 6,
+    "conditionMessage": "今週のマスターミッションをすべてクリアせよ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001460
+    ],
+    "missionId": 2001933,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2002209,
+    "missionTargetId": 100279,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 3,
+    "conditionMessage": "『神性』特性を持つサーヴァントを3騎倒せ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001461
+    ],
+    "missionId": 2001934,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2002210,
+    "missionTargetId": 100279,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 20,
+    "conditionMessage": "敵を20体倒せ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001462
+    ],
+    "missionId": 2001935,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2002211,
+    "missionTargetId": 100279,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "『魔性』特性を持つ敵を15体倒せ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001463
+    ],
+    "missionId": 2001936,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2002212,
+    "missionTargetId": 100279,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "『人型』特性を持つ敵を15体倒せ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001464
+    ],
+    "missionId": 2001937,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2002213,
+    "missionTargetId": 100279,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 5,
+    "conditionMessage": "いずれかのクエストを5回クリアせよ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001937
+    ],
+    "missionId": 2001938,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 2002214,
+    "missionTargetId": 100279,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 1,
+    "conditionMessage": "いずれかのクエストを10回クリアせよ",
+    "closedMessage": "",
+    "flag": 64
+  },
+  {
+    "targetIds": [
+      2001464
+    ],
+    "missionId": 2001938,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2002215,
+    "missionTargetId": 100279,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 10,
+    "conditionMessage": "いずれかのクエストを10回クリアせよ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
       8031002,
       8031003,
       8031004,
