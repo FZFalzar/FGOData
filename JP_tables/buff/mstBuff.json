@@ -54359,6 +54359,80 @@
   },
   {
     "vals": [
+      3004,
+      3007,
+      3040,
+      3058
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3940,
+    "buffGroup": 0,
+    "type": 42,
+    "name": "奇神障壁",
+    "detail": "防御力をアップ",
+    "iconId": 301,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3007,
+      3040,
+      3058
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3941,
+    "buffGroup": 0,
+    "type": 42,
+    "name": "奇神障壁・剛",
+    "detail": "防御力をアップ",
+    "iconId": 301,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3944,
+    "buffGroup": 0,
+    "type": 89,
+    "name": "攻撃時発動(スタン付与)",
+    "detail": "自身の通常攻撃時に確率でスタン状態(1ターン)を付与する",
+    "iconId": 528,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3945,
+    "buffGroup": 0,
+    "type": 86,
+    "name": "被ダメージ時発動(攻撃力アップ)",
+    "detail": "攻撃を受けると自身の攻撃力をアップ",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
       3004
     ],
     "tvals": [
@@ -54377,6 +54451,29 @@
     "detail": "自身のクリティカル攻撃時に敵単体の防御力をダウン",
     "iconId": 528,
     "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006
+    ],
+    "tvals": [
+      5000,
+      4002
+    ],
+    "ckSelfIndv": [
+      4002
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3961,
+    "buffGroup": 0,
+    "type": 52,
+    "name": "Busterアップ",
+    "detail": "〔炎上〕しているフィールドでBusterカードの性能をアップ",
+    "iconId": 314,
+    "maxRate": 5000,
     "effectId": 0
   },
   {
