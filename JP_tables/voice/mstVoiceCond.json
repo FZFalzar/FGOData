@@ -10660,6 +10660,19 @@
     "closedMessageId": 0
   },
   {
+    "svtId": 305000,
+    "voicePrefix": -1,
+    "voiceId": "M090",
+    "condType": 92,
+    "targetId": 0,
+    "condGroup": 0,
+    "condValue": 0,
+    "priority": 1,
+    "closedType": 2,
+    "condPriority": 50,
+    "closedMessageId": 0
+  },
+  {
     "svtId": 400400,
     "voicePrefix": -1,
     "voiceId": "I010",
@@ -15492,6 +15505,19 @@
     "condValue": 0,
     "priority": 1,
     "closedType": 1,
+    "condPriority": 50,
+    "closedMessageId": 0
+  },
+  {
+    "svtId": 504900,
+    "voicePrefix": -1,
+    "voiceId": "M090",
+    "condType": 92,
+    "targetId": 0,
+    "condGroup": 0,
+    "condValue": 0,
+    "priority": 1,
+    "closedType": 2,
     "condPriority": 50,
     "closedMessageId": 0
   },
