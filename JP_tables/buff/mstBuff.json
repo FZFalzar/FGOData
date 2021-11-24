@@ -54399,6 +54399,41 @@
   },
   {
     "vals": [
+      3004,
+      3007,
+      3040,
+      3058
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3942,
+    "buffGroup": 0,
+    "type": 42,
+    "name": "春日山装甲",
+    "detail": "防御力をアップ",
+    "iconId": 301,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3943,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "奇神障壁・殻",
+    "detail": "全ての攻撃に対する耐性を得る",
+    "iconId": 334,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
       3004
     ],
     "tvals": [],
@@ -54435,6 +54470,188 @@
     "vals": [
       3004
     ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3946,
+    "buffGroup": 0,
+    "type": 78,
+    "name": "「ちびノブ死すともちびノブ死せず」",
+    "detail": "HPが0になった時にちびノブ系にダメージカット状態を付与＆与えるダメージを増やす",
+    "iconId": 350,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6026
+    ],
+    "tvals": [
+      5000,
+      4002
+    ],
+    "ckSelfIndv": [
+      4002
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3947,
+    "buffGroup": 0,
+    "type": 137,
+    "name": "攻撃時発動(お見事！付与)",
+    "detail": "Busterカードで攻撃時、敵単体に〔お見事！〕状態を付与する",
+    "iconId": 528,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6026
+    ],
+    "tvals": [
+      5000,
+      4001
+    ],
+    "ckSelfIndv": [
+      4001
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3948,
+    "buffGroup": 0,
+    "type": 137,
+    "name": "攻撃時発動(お見事！付与)",
+    "detail": "Artsカードで攻撃時、敵単体に〔お見事！〕状態を付与する",
+    "iconId": 528,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6026
+    ],
+    "tvals": [
+      5000,
+      4003
+    ],
+    "ckSelfIndv": [
+      4003
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3949,
+    "buffGroup": 0,
+    "type": 137,
+    "name": "攻撃時発動(お見事！付与)",
+    "detail": "Quickカードで攻撃時、敵単体に〔お見事！〕状態を付与する",
+    "iconId": 528,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3951,
+    "buffGroup": 0,
+    "type": 70,
+    "name": "クリティカル発生アップ",
+    "detail": "クリティカルの発生率をアップ",
+    "iconId": 327,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3059,
+      3006
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3952,
+    "buffGroup": 0,
+    "type": 72,
+    "name": "無敵貫通",
+    "detail": "回避と無敵を無視してダメージを与える",
+    "iconId": 329,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006,
+      3032
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "ProgressSelfTurn": 1
+    },
+    "id": 3953,
+    "buffGroup": 0,
+    "type": 70,
+    "name": "クリティカル発生アップ",
+    "detail": "クリティカルの発生率をアップ",
+    "iconId": 327,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006,
+      3031
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3954,
+    "buffGroup": 0,
+    "type": 18,
+    "name": "クリティカル威力アップ",
+    "detail": "クリティカル時のダメージをアップ",
+    "iconId": 324,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      3014,
+      3012,
+      3013,
+      3045
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      3014,
+      3012,
+      3013,
+      3045
+    ],
+    "script": {},
+    "id": 3958,
+    "buffGroup": 0,
+    "type": 31,
+    "name": "心踊る舞踏",
+    "detail": "行動不能を受けなくなる＆宝具で与えるダメージをアップ",
+    "iconId": 322,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
     "tvals": [
       5000,
       4100
@@ -54450,6 +54667,23 @@
     "name": "クリティカル攻撃時発動(防御力ダウン)",
     "detail": "自身のクリティカル攻撃時に敵単体の防御力をダウン",
     "iconId": 528,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3960,
+    "buffGroup": 0,
+    "type": 85,
+    "name": "毎ターン発動(スキル封印)",
+    "detail": "毎ターン終了時、敵単体にスキル封印状態を付与",
+    "iconId": 343,
     "maxRate": 0,
     "effectId": 0
   },
@@ -54474,6 +54708,40 @@
     "detail": "〔炎上〕しているフィールドでBusterカードの性能をアップ",
     "iconId": 314,
     "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2811
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3962,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "お見事！",
+    "detail": "7個以上溜まると自身に魅了状態(1ターン)を付与＆〔お見事！〕状態を全て解除する",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6015
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3963,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "個性追加",
+    "detail": "個性追加",
+    "iconId": 520,
+    "maxRate": 0,
     "effectId": 0
   },
   {
