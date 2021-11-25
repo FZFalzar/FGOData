@@ -4173,6 +4173,32 @@
     "closedMessageId": 1
   },
   {
+    "svtId": 301300,
+    "voicePrefix": -1,
+    "voiceId": "H1800",
+    "condType": 1,
+    "targetId": 3000303,
+    "condGroup": 0,
+    "condValue": 0,
+    "priority": 1,
+    "closedType": 1,
+    "condPriority": 90,
+    "closedMessageId": 26
+  },
+  {
+    "svtId": 301300,
+    "voicePrefix": -1,
+    "voiceId": "H1800",
+    "condType": 9,
+    "targetId": 301300,
+    "condGroup": 0,
+    "condValue": 5,
+    "priority": 1,
+    "closedType": 1,
+    "condPriority": 90,
+    "closedMessageId": 26
+  },
+  {
     "svtId": 301600,
     "voicePrefix": -1,
     "voiceId": "H1800",
@@ -9824,6 +9850,19 @@
     "condValue": 80259,
     "priority": 1,
     "closedType": 1,
+    "condPriority": 50,
+    "closedMessageId": 0
+  },
+  {
+    "svtId": 600500,
+    "voicePrefix": -1,
+    "voiceId": "B840",
+    "condType": 92,
+    "targetId": 0,
+    "condGroup": 0,
+    "condValue": 0,
+    "priority": 1,
+    "closedType": 2,
     "condPriority": 50,
     "closedMessageId": 0
   },

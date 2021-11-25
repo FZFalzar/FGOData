@@ -5134,7 +5134,9 @@
       2,
       2
     ],
-    "script": {},
+    "script": {
+      "cameraActionId": 34
+    },
     "id": 301300,
     "baseSvtId": 301300,
     "name": "Scáthach",
@@ -11272,7 +11274,9 @@
       1,
       2
     ],
-    "script": {},
+    "script": {
+      "cameraActionId": 39
+    },
     "id": 600500,
     "baseSvtId": 600500,
     "name": "Jack the Ripper",
@@ -78041,6 +78045,50 @@
     "illustratorId": 210,
     "cvId": 0,
     "collectionNo": 1118,
+    "materialStoryPriority": 1000,
+    "flag": 0
+  },
+  {
+    "relateQuestIds": [],
+    "individuality": [],
+    "classPassive": [],
+    "cardIds": [
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "script": {},
+    "id": 9807230,
+    "baseSvtId": 9807230,
+    "name": "CE EXP Card: Cornered Mice",
+    "ruby": "CE EXP Card: Cornered Mice",
+    "battleName": "-",
+    "classId": 1001,
+    "type": 6,
+    "limitMax": 0,
+    "rewardLv": 0,
+    "friendshipId": 1000,
+    "maxFriendshipRank": 0,
+    "genderType": 3,
+    "attri": 2,
+    "combineSkillId": 0,
+    "combineLimitId": 0,
+    "sellQp": 1,
+    "sellMana": 0,
+    "sellRarePri": 0,
+    "expType": 9999,
+    "combineMaterialId": 34,
+    "cost": 9,
+    "battleSize": 2,
+    "hpGaugeY": 0,
+    "starRate": 0,
+    "deathRate": 0,
+    "attackAttri": 1,
+    "illustratorId": 74,
+    "cvId": 0,
+    "collectionNo": 1144,
     "materialStoryPriority": 1000,
     "flag": 0
   },
