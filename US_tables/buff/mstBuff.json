@@ -29878,7 +29878,9 @@
     "tvals": [],
     "ckSelfIndv": [],
     "ckOpIndv": [],
-    "script": {},
+    "script": {
+      "INDIVIDUALITIE": 1100900
+    },
     "id": 2533,
     "buffGroup": 0,
     "type": 143,
@@ -29895,7 +29897,9 @@
     "tvals": [],
     "ckSelfIndv": [],
     "ckOpIndv": [],
-    "script": {},
+    "script": {
+      "INDIVIDUALITIE": 1100900
+    },
     "id": 2534,
     "buffGroup": 0,
     "type": 145,
@@ -29912,7 +29916,9 @@
     "tvals": [],
     "ckSelfIndv": [],
     "ckOpIndv": [],
-    "script": {},
+    "script": {
+      "INDIVIDUALITIE": 1100900
+    },
     "id": 2535,
     "buffGroup": 0,
     "type": 146,
@@ -29929,7 +29935,9 @@
     "tvals": [],
     "ckSelfIndv": [],
     "ckOpIndv": [],
-    "script": {},
+    "script": {
+      "INDIVIDUALITIE": 1100900
+    },
     "id": 2536,
     "buffGroup": 0,
     "type": 147,
@@ -31477,6 +31485,672 @@
     "detail": "When HP reaches 0, recover HP and survive",
     "iconId": 304,
     "maxRate": 1000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006,
+      3027
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2628,
+    "buffGroup": 0,
+    "type": 9,
+    "name": "Theos Klironomia",
+    "detail": "Increase ATK & decrease damage taken ",
+    "iconId": 520,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3007,
+      3040
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2629,
+    "buffGroup": 0,
+    "type": 42,
+    "name": "Hephaestus Klironomia",
+    "detail": "Increase DEF & increase Max HP",
+    "iconId": 520,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006
+    ],
+    "tvals": [
+      5000,
+      4003
+    ],
+    "ckSelfIndv": [
+      4003
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2630,
+    "buffGroup": 0,
+    "type": 52,
+    "name": "Zeus Klironomia",
+    "detail": "Increase Quick, Arts, Buster Card effectiveness & decrease damage taken",
+    "iconId": 520,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006
+    ],
+    "tvals": [
+      5000,
+      4003
+    ],
+    "ckSelfIndv": [
+      4003
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2631,
+    "buffGroup": 0,
+    "type": 52,
+    "name": "Zeus Klironomia",
+    "detail": "Increase Quick, Arts, Buster Card effectiveness & decrease damage taken & decrease DEF [Demerit]",
+    "iconId": 520,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3060
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2632,
+    "buffGroup": 0,
+    "type": 7,
+    "name": "???",
+    "detail": "Recover HP at the end of turn & when HP reaches 0, recover HP once and survive",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3060
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2633,
+    "buffGroup": 0,
+    "type": 7,
+    "name": "Demeter Klironomia",
+    "detail": "Recover HP at the end of turn & when HP reaches 0, recover HP once and survive",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      3014,
+      3025,
+      3020,
+      3012,
+      3045,
+      3013
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      3014,
+      3025,
+      3020,
+      3012,
+      3045,
+      3013
+    ],
+    "script": {},
+    "id": 2634,
+    "buffGroup": 0,
+    "type": 31,
+    "name": "???",
+    "detail": "Apply Incapacitation Immune & NP Seal Immune & Skill Seal Immune",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      3014,
+      3025,
+      3020,
+      3012,
+      3045,
+      3013
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      3014,
+      3025,
+      3020,
+      3012,
+      3045,
+      3013
+    ],
+    "script": {},
+    "id": 2635,
+    "buffGroup": 0,
+    "type": 31,
+    "name": "Poseidon Klironomia",
+    "detail": "Apply Incapacitation Immune & NP Seal Immune & Skill Seal Immune",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2593
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2636,
+    "buffGroup": 400,
+    "type": 26,
+    "name": "???",
+    "detail": "Apply Invincible & gain resistance to all attacks & become immune to all debuffs",
+    "iconId": 311,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2593
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2637,
+    "buffGroup": 400,
+    "type": 26,
+    "name": "Blessing of the Sea God",
+    "detail": "Apply Invincible & gain resistance to all attacks & become immune to all debuffs",
+    "iconId": 311,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      2593
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      2593
+    ],
+    "script": {},
+    "id": 2638,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "Shard of Victorious Chance",
+    "detail": "Increase damage against enemies with [Blessing of the Sea God] & increase DEF against enemies with [Blessing of the Sea God] & apply Ignore Invincible",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3007,
+      3040
+    ],
+    "tvals": [
+      2593
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      2593
+    ],
+    "script": {},
+    "id": 2639,
+    "buffGroup": 0,
+    "type": 42,
+    "name": "Shard of Victorious Chance",
+    "detail": "Increase DEF against enemies with [Blessing of the Sea God]",
+    "iconId": 301,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2640,
+    "buffGroup": 0,
+    "type": 89,
+    "name": "",
+    "detail": "",
+    "iconId": 528,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2641,
+    "buffGroup": 0,
+    "type": 85,
+    "name": "Gates of Hell, Open",
+    "detail": "Apply Invincible at the end of each turn",
+    "iconId": 343,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      2005
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      2005
+    ],
+    "script": {},
+    "id": 2642,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "Strength Up (Wild Beasts)",
+    "detail": "Increase damage against [Wild Beasts]",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2643,
+    "buffGroup": 600,
+    "type": 37,
+    "name": "Hero's Willpower",
+    "detail": "When HP reaches 0, recover HP and survive",
+    "iconId": 304,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2644,
+    "buffGroup": 600,
+    "type": 37,
+    "name": "Blessing of Apollo",
+    "detail": "When HP reaches 0, recover HP and survive",
+    "iconId": 304,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2645,
+    "buffGroup": 0,
+    "type": 114,
+    "name": "Energy Charge",
+    "detail": "Increase Charge by 1 each turn",
+    "iconId": 319,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      203
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      203
+    ],
+    "script": {},
+    "id": 2646,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "One Who Crosses the Starry Ocean A",
+    "detail": "Increase damage against [Servants with Power of the Star]",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2647,
+    "buffGroup": 0,
+    "type": 85,
+    "name": "Stampede",
+    "detail": "Triggers Debuffs each turn",
+    "iconId": 537,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "relationId": 123
+    },
+    "id": 2648,
+    "buffGroup": 0,
+    "type": 144,
+    "name": "Balancing Scale of Justice",
+    "detail": "Negates advantages and disadvantages against all classes",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [
+      5000,
+      4002
+    ],
+    "ckSelfIndv": [
+      4002
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2649,
+    "buffGroup": 0,
+    "type": 148,
+    "name": "Pre-Buster ATK Damage Bonus Effect (Critical STR Up)",
+    "detail": "Greatly increase your Critical Strength before dealing damage with Buster Cards",
+    "iconId": 333,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2650,
+    "buffGroup": 0,
+    "type": 137,
+    "name": "Bonus Effect on Attack (Remove DEF Buff + Death)",
+    "detail": "Remove DEF Buffs for a single enemy when attacking + Apply Death to yourself [Demerit] (Treated as Buff)",
+    "iconId": 528,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005,
+      3020
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2651,
+    "buffGroup": 900,
+    "type": 34,
+    "name": "Captain of a Superficial Ship",
+    "detail": "Unable to use Noble Phantasms",
+    "iconId": 512,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2652,
+    "buffGroup": 0,
+    "type": 89,
+    "name": "Bonus Effect on Attack (ATK Down + ATK Up)",
+    "detail": "Apply a state where you decrease ATK for a single enemy when attacking + Increase your ATK",
+    "iconId": 528,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006,
+      3028
+    ],
+    "tvals": [
+      2005,
+      2019
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      2005,
+      2019
+    ],
+    "script": {},
+    "id": 2653,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "STR Up (Wild Beasts and Demonic)",
+    "detail": "Increase damage dealt against [Wild Beast and Demonic]",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006
+    ],
+    "tvals": [
+      5000,
+      4001
+    ],
+    "ckSelfIndv": [
+      4001
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2654,
+    "buffGroup": 0,
+    "type": 52,
+    "name": "",
+    "detail": "",
+    "iconId": 520,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006
+    ],
+    "tvals": [
+      5000,
+      4001
+    ],
+    "ckSelfIndv": [
+      4001
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2655,
+    "buffGroup": 0,
+    "type": 52,
+    "name": "",
+    "detail": "",
+    "iconId": 520,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006
+    ],
+    "tvals": [
+      5000,
+      4002
+    ],
+    "ckSelfIndv": [
+      4002
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2656,
+    "buffGroup": 0,
+    "type": 52,
+    "name": "",
+    "detail": "",
+    "iconId": 520,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006
+    ],
+    "tvals": [
+      5000,
+      4002
+    ],
+    "ckSelfIndv": [
+      4002
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2657,
+    "buffGroup": 0,
+    "type": 52,
+    "name": "",
+    "detail": "",
+    "iconId": 520,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3018,
+      3022,
+      3007
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2658,
+    "buffGroup": 400,
+    "type": 26,
+    "name": "Chance for Invincible",
+    "detail": "Ignore Sure Hit and chance to reduce damage taken to 0",
+    "iconId": 311,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005,
+      3009
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2659,
+    "buffGroup": 0,
+    "type": 43,
+    "name": "Excessive Mass Production",
+    "detail": "Decrease DEF & decrease Critical Hit Rate for yourself",
+    "iconId": 504,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2593
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2660,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "Special Resist Up",
+    "detail": "Gain resistance to all attacks",
+    "iconId": 334,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2593
+    ],
+    "tvals": [
+      3005
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      3005
+    ],
+    "script": {},
+    "id": 2661,
+    "buffGroup": 0,
+    "type": 31,
+    "name": "Debuff Immune",
+    "detail": "Immune to all debuffs",
+    "iconId": 322,
+    "maxRate": 0,
     "effectId": 0
   },
   {

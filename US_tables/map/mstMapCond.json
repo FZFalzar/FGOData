@@ -430,6 +430,76 @@
     "condNum": 6
   },
   {
+    "id": 3000501,
+    "mapId": 30501,
+    "priority": 1,
+    "changeType": 5,
+    "targetId": 1759,
+    "condType": 1,
+    "condTargetId": 3000504,
+    "condNum": 0
+  },
+  {
+    "id": 3000502,
+    "mapId": 30501,
+    "priority": 2,
+    "changeType": 6,
+    "targetId": 816,
+    "condType": 1,
+    "condTargetId": 3000504,
+    "condNum": 0
+  },
+  {
+    "id": 3000503,
+    "mapId": 30501,
+    "priority": 3,
+    "changeType": 3,
+    "targetId": 373,
+    "condType": 1,
+    "condTargetId": 3000504,
+    "condNum": 0
+  },
+  {
+    "id": 3000504,
+    "mapId": 30501,
+    "priority": 4,
+    "changeType": 3,
+    "targetId": 374,
+    "condType": 46,
+    "condTargetId": 3000531,
+    "condNum": 1
+  },
+  {
+    "id": 3000505,
+    "mapId": 30501,
+    "priority": 5,
+    "changeType": 2,
+    "targetId": 30502,
+    "condType": 46,
+    "condTargetId": 3000531,
+    "condNum": 1
+  },
+  {
+    "id": 3000508,
+    "mapId": 30501,
+    "priority": 8,
+    "changeType": 3,
+    "targetId": 373,
+    "condType": 46,
+    "condTargetId": 3000531,
+    "condNum": 4
+  },
+  {
+    "id": 3000509,
+    "mapId": 30501,
+    "priority": 9,
+    "changeType": 2,
+    "targetId": 30501,
+    "condType": 46,
+    "condTargetId": 3000531,
+    "condNum": 4
+  },
+  {
     "id": 94011301,
     "mapId": 8113,
     "priority": 1,

@@ -1533,7 +1533,7 @@
     "eventId": 0,
     "slot": 0,
     "flag": 0,
-    "priority": 10,
+    "priority": 4991,
     "purchaseType": 4,
     "setNum": 1,
     "payType": 4,
@@ -18356,6 +18356,39 @@
     "bgImageId": 0,
     "openedAt": 1637467200,
     "closedAt": 1637639999
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      203800
+    ],
+    "script": {},
+    "id": 4000404,
+    "baseShopId": 4000404,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 871,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Super Orion",
+    "detail": "Exchange for Limited Time ★5 Servant",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1638331200,
+    "closedAt": 1639540799
   },
   {
     "itemIds": [

@@ -495,6 +495,11 @@
     "detailShort": "Apply Sure Hit to yourself (1 turn) + Decrease DEF (2 turns) <effect increases with Overcharge> & Quick Card Resistance (2 turns) <effect increases with Overcharge> & deal significant damage [{0}] to one enemy"
   },
   {
+    "id": 203801,
+    "detail": "Apply Ignore Invincible (3 turns) & increase ATK [{0}] (3 turns) & greatly increase Critical Strength (3 turns) <effect increases with Overcharge> & apply Debuff Immune (3 turns) & gain C. Stars each turn (3 turns) for yourself ",
+    "detailShort": "Apply Ignore Invincible (3 turns) & increase ATK [{0}] (3 turns) & greatly increase Critical Strength (3 turns) <effect increases with Overcharge> & apply Debuff Immune (3 turns) & gain C. Stars each turn (3 turns) for yourself "
+  },
+  {
     "id": 300101,
     "detail": "Deal significant damage to a single enemy [{0}] & decrease DEF (3 turns) <effect increases with Overcharge> & medium chance to inflict Death <chance increases with Overcharge> for a single enemy",
     "detailShort": "Deal significant damage to a single enemy [{0}] & decrease DEF (3 turns) <effect increases with Overcharge> & medium chance to inflict Death <chance increases with Overcharge> for a single enemy"
@@ -978,6 +983,16 @@
     "id": 403601,
     "detail": "Deal heavy damage to all enemies [{0}] & decrease Quick Card resistance (3 turns) <effect increases with Overcharge> & inflict Nullify Buff (1 time, 3 turns) for all enemies",
     "detailShort": "Deal heavy damage to all enemies [{0}] & decrease Quick Card resistance (3 turns) <effect increases with Overcharge> & inflict Nullify Buff (1 time, 3 turns) for all enemies"
+  },
+  {
+    "id": 403901,
+    "detail": "Increase Quick Card effectiveness (1 turn) <effect increases with Overcharge> & Arts Card effectiveness (1 turn) <effect increases with Overcharge> & Buster Card effectiveness (1 turn) <effect increases with Overcharge> for yourself + Deal significant damage to a single enemy [{0}] + Decrease ATK (1 turn) for yourself [Demerit]",
+    "detailShort": "Increase Quick Card effectiveness (1 turn) <effect increases with Overcharge> & Arts Card effectiveness (1 turn) <effect increases with Overcharge> & Buster Card effectiveness (1 turn) <effect increases with Overcharge> for yourself + Deal significant damage to a single enemy [{0}] + Decrease ATK (1 turn) for yourself [Demerit]"
+  },
+  {
+    "id": 404001,
+    "detail": "Increase Buster Card effectiveness (1 turn) <effect increases with Overcharge> & greatly increase DEF (1 turn) for yourself + Deal heavy damage to all enemies [{0}]",
+    "detailShort": "Increase Buster Card effectiveness (1 turn) <effect increases with Overcharge> & greatly increase DEF (1 turn) for yourself + Deal heavy damage to all enemies [{0}]"
   },
   {
     "id": 500101,
@@ -2268,6 +2283,11 @@
     "id": 9942111,
     "detail": "Deal heavy damage to all enemies",
     "detailShort": "Deal heavy damage to all enemies"
+  },
+  {
+    "id": 9942251,
+    "detail": "",
+    "detailShort": ""
   },
   {
     "id": 9942331,

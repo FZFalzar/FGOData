@@ -6703,6 +6703,182 @@
   {
     "individuality": [
       3002,
+      4007
+    ],
+    "script": {},
+    "id": 645,
+    "seqId": 9942180,
+    "name": "Most Breath",
+    "ruby": "-",
+    "rank": "None",
+    "maxLv": 5,
+    "typeText": "",
+    "attackAttri": 1,
+    "effectFlag": 0
+  },
+  {
+    "individuality": [
+      3002,
+      4007
+    ],
+    "script": {},
+    "id": 646,
+    "seqId": 9942190,
+    "name": "Decaying Breath",
+    "ruby": "-",
+    "rank": "None",
+    "maxLv": 5,
+    "typeText": "",
+    "attackAttri": 1,
+    "effectFlag": 0
+  },
+  {
+    "individuality": [
+      3002,
+      4007
+    ],
+    "script": {},
+    "id": 647,
+    "seqId": 9942200,
+    "name": "Erosion Bolt",
+    "ruby": "-",
+    "rank": "None",
+    "maxLv": 5,
+    "typeText": "",
+    "attackAttri": 1,
+    "effectFlag": 0
+  },
+  {
+    "individuality": [
+      3000,
+      4007
+    ],
+    "script": {},
+    "id": 648,
+    "seqId": 9942210,
+    "name": "Hellfire of the Underworld",
+    "ruby": "-",
+    "rank": "None",
+    "maxLv": 5,
+    "typeText": "",
+    "attackAttri": 1,
+    "effectFlag": 0
+  },
+  {
+    "individuality": [
+      3000,
+      4007
+    ],
+    "script": {},
+    "id": 649,
+    "seqId": 9942220,
+    "name": "Annihilation",
+    "ruby": "-",
+    "rank": "None",
+    "maxLv": 5,
+    "typeText": "",
+    "attackAttri": 1,
+    "effectFlag": 0
+  },
+  {
+    "individuality": [
+      3000,
+      4007
+    ],
+    "script": {},
+    "id": 650,
+    "seqId": 9942310,
+    "name": "Blessed Swords Attack",
+    "ruby": "-",
+    "rank": "None",
+    "maxLv": 5,
+    "typeText": "",
+    "attackAttri": 1,
+    "effectFlag": 0
+  },
+  {
+    "individuality": [
+      3000,
+      4007
+    ],
+    "script": {},
+    "id": 651,
+    "seqId": 9942320,
+    "name": "Blessed Blow",
+    "ruby": "-",
+    "rank": "None",
+    "maxLv": 5,
+    "typeText": "",
+    "attackAttri": 1,
+    "effectFlag": 0
+  },
+  {
+    "individuality": [
+      3000,
+      4007
+    ],
+    "script": {},
+    "id": 652,
+    "seqId": 9942230,
+    "name": "Blessed Slash",
+    "ruby": "-",
+    "rank": "None",
+    "maxLv": 5,
+    "typeText": "",
+    "attackAttri": 1,
+    "effectFlag": 0
+  },
+  {
+    "individuality": [
+      3000,
+      4007
+    ],
+    "script": {},
+    "id": 654,
+    "seqId": 9942260,
+    "name": "Trident Ocean Ray",
+    "ruby": "-",
+    "rank": "None",
+    "maxLv": 5,
+    "typeText": "",
+    "attackAttri": 1,
+    "effectFlag": 0
+  },
+  {
+    "individuality": [
+      3000,
+      4007
+    ],
+    "script": {},
+    "id": 655,
+    "seqId": 9942290,
+    "name": "",
+    "ruby": "-",
+    "rank": "None",
+    "maxLv": 5,
+    "typeText": "",
+    "attackAttri": 1,
+    "effectFlag": 0
+  },
+  {
+    "individuality": [
+      3000,
+      4007
+    ],
+    "script": {},
+    "id": 656,
+    "seqId": 9942400,
+    "name": "Hellfire of the Underworld",
+    "ruby": "-",
+    "rank": "None",
+    "maxLv": 5,
+    "typeText": "",
+    "attackAttri": 1,
+    "effectFlag": 0
+  },
+  {
+    "individuality": [
+      3002,
       4002,
       4007,
       4101
@@ -8506,6 +8682,32 @@
   },
   {
     "individuality": [
+      3002,
+      4001,
+      4007
+    ],
+    "script": {
+      "randomSeqIds": [
+        203800,
+        203801
+      ],
+      "randomWeights": [
+        80,
+        20
+      ]
+    },
+    "id": 203801,
+    "seqId": 203800,
+    "name": "Artemis Agnós",
+    "ruby": " ",
+    "rank": "B",
+    "maxLv": 5,
+    "typeText": "Anti-Army (Self)",
+    "attackAttri": 1,
+    "effectFlag": 0
+  },
+  {
+    "individuality": [
       3000,
       4003,
       4007
@@ -10271,6 +10473,41 @@
     "rank": "B",
     "maxLv": 5,
     "typeText": "Anti-Personnel - Anti-Army",
+    "attackAttri": 1,
+    "effectFlag": 1
+  },
+  {
+    "individuality": [
+      3000,
+      4001,
+      4007
+    ],
+    "script": {},
+    "id": 403901,
+    "seqId": 403900,
+    "name": "Serment de Durendal",
+    "ruby": " ",
+    "rank": "A",
+    "maxLv": 5,
+    "typeText": "Anti-Personnel",
+    "attackAttri": 1,
+    "effectFlag": 2
+  },
+  {
+    "individuality": [
+      3002,
+      4002,
+      4007,
+      4101
+    ],
+    "script": {},
+    "id": 404001,
+    "seqId": 404000,
+    "name": "Sfyrí tou Tálos",
+    "ruby": " ",
+    "rank": "A",
+    "maxLv": 5,
+    "typeText": "Anti-Army",
     "attackAttri": 1,
     "effectFlag": 1
   },
@@ -14096,15 +14333,20 @@
         33,
         33
       ],
+      "randomSeqIds_4": [
+        1100920,
+        1100921,
+        1100922
+      ],
+      "randomSeqIds": [
+        1100900,
+        1100901,
+        1100902
+      ],
       "randomSeqIds_2": [
         1100910,
         1100911,
         1100912
-      ],
-      "randomWeights_3": [
-        34,
-        33,
-        33
       ],
       "randomWeights_11": [
         34,
@@ -14116,20 +14358,45 @@
         1100911,
         1100912
       ],
+      "groupSeqIDs": [
+        110090001,
+        110090001,
+        110090001
+      ],
       "randomSeqIds_3": [
         1100920,
         1100921,
         1100922
       ],
-      "randomSeqIds_4": [
-        1100920,
-        1100921,
-        1100922
+      "groupSeqIDs_11": [
+        110090004,
+        110090004,
+        110090004
       ],
-      "randomSeqIds": [
-        1100900,
-        1100901,
-        1100902
+      "randomWeights_3": [
+        34,
+        33,
+        33
+      ],
+      "groupSeqIDs_4": [
+        110090003,
+        110090003,
+        110090003
+      ],
+      "groupSeqIDs_1": [
+        110090002,
+        110090002,
+        110090002
+      ],
+      "groupSeqIDs_3": [
+        110090003,
+        110090003,
+        110090003
+      ],
+      "groupSeqIDs_2": [
+        110090002,
+        110090002,
+        110090002
       ],
       "randomWeights_4": [
         34,
@@ -14180,15 +14447,20 @@
         33,
         33
       ],
+      "randomSeqIds_4": [
+        1100920,
+        1100921,
+        1100922
+      ],
+      "randomSeqIds": [
+        1100900,
+        1100901,
+        1100902
+      ],
       "randomSeqIds_2": [
         1100910,
         1100911,
         1100912
-      ],
-      "randomWeights_3": [
-        34,
-        33,
-        33
       ],
       "randomWeights_11": [
         34,
@@ -14200,20 +14472,45 @@
         1100911,
         1100912
       ],
+      "groupSeqIDs": [
+        110090001,
+        110090001,
+        110090001
+      ],
       "randomSeqIds_3": [
         1100920,
         1100921,
         1100922
       ],
-      "randomSeqIds_4": [
-        1100920,
-        1100921,
-        1100922
+      "groupSeqIDs_11": [
+        110090004,
+        110090004,
+        110090004
       ],
-      "randomSeqIds": [
-        1100900,
-        1100901,
-        1100902
+      "randomWeights_3": [
+        34,
+        33,
+        33
+      ],
+      "groupSeqIDs_4": [
+        110090003,
+        110090003,
+        110090003
+      ],
+      "groupSeqIDs_1": [
+        110090002,
+        110090002,
+        110090002
+      ],
+      "groupSeqIDs_3": [
+        110090003,
+        110090003,
+        110090003
+      ],
+      "groupSeqIDs_2": [
+        110090002,
+        110090002,
+        110090002
       ],
       "randomWeights_4": [
         34,
@@ -14264,15 +14561,20 @@
         33,
         33
       ],
+      "randomSeqIds_4": [
+        1100920,
+        1100921,
+        1100922
+      ],
+      "randomSeqIds": [
+        1100900,
+        1100901,
+        1100902
+      ],
       "randomSeqIds_2": [
         1100910,
         1100911,
         1100912
-      ],
-      "randomWeights_3": [
-        34,
-        33,
-        33
       ],
       "randomWeights_11": [
         34,
@@ -14284,20 +14586,45 @@
         1100911,
         1100912
       ],
+      "groupSeqIDs": [
+        110090001,
+        110090001,
+        110090001
+      ],
       "randomSeqIds_3": [
         1100920,
         1100921,
         1100922
       ],
-      "randomSeqIds_4": [
-        1100920,
-        1100921,
-        1100922
+      "groupSeqIDs_11": [
+        110090004,
+        110090004,
+        110090004
       ],
-      "randomSeqIds": [
-        1100900,
-        1100901,
-        1100902
+      "randomWeights_3": [
+        34,
+        33,
+        33
+      ],
+      "groupSeqIDs_4": [
+        110090003,
+        110090003,
+        110090003
+      ],
+      "groupSeqIDs_1": [
+        110090002,
+        110090002,
+        110090002
+      ],
+      "groupSeqIDs_3": [
+        110090003,
+        110090003,
+        110090003
+      ],
+      "groupSeqIDs_2": [
+        110090002,
+        110090002,
+        110090002
       ],
       "randomWeights_4": [
         34,
@@ -15783,6 +16110,26 @@
     "rank": "EX",
     "maxLv": 5,
     "typeText": "Anti-Personnel",
+    "attackAttri": 1,
+    "effectFlag": 1
+  },
+  {
+    "individuality": [
+      3002,
+      4001,
+      4007,
+      4101
+    ],
+    "script": {
+      "delayEnd": 1
+    },
+    "id": 9942251,
+    "seqId": 9942250,
+    "name": "Grand Order/Anima Animusphere",
+    "ruby": " ",
+    "rank": "",
+    "maxLv": 5,
+    "typeText": "",
     "attackAttri": 1,
     "effectFlag": 1
   },
