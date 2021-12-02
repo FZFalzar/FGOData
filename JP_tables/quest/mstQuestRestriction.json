@@ -1899,6 +1899,15 @@
     "title": ""
   },
   {
+    "questId": 91203001,
+    "phase": 1,
+    "restrictionId": 91000050,
+    "frequencyType": 3,
+    "dialogMessage": "サポートサーヴァントをスターティングメンバ―に設定してください。",
+    "noticeMessage": "サポートはサブメンバーとして出撃できません",
+    "title": ""
+  },
+  {
     "questId": 91203101,
     "phase": 2,
     "restrictionId": 91000018,
@@ -1944,6 +1953,33 @@
     "title": ""
   },
   {
+    "questId": 91204002,
+    "phase": 1,
+    "restrictionId": 91000064,
+    "frequencyType": 0,
+    "dialogMessage": "",
+    "noticeMessage": "",
+    "title": ""
+  },
+  {
+    "questId": 91204002,
+    "phase": 2,
+    "restrictionId": 91000065,
+    "frequencyType": 3,
+    "dialogMessage": "制限対象サーヴァントはサブメンバーとして出撃できません。",
+    "noticeMessage": "清少納言をスターティングメンバーに設定してください。",
+    "title": ""
+  },
+  {
+    "questId": 91204002,
+    "phase": 2,
+    "restrictionId": 91000066,
+    "frequencyType": 0,
+    "dialogMessage": "このクエストを開始するには\n所持サーヴァントから1騎\n編成してください",
+    "noticeMessage": "NPC固定出撃",
+    "title": ""
+  },
+  {
     "questId": 91303001,
     "phase": 3,
     "restrictionId": 91000013,
@@ -1986,6 +2022,24 @@
     "frequencyType": 3,
     "dialogMessage": "制限対象サーヴァントはサブメンバーとして出撃できません。",
     "noticeMessage": "ブラダマンテをスターティングメンバーに設定してください。",
+    "title": ""
+  },
+  {
+    "questId": 91303901,
+    "phase": 2,
+    "restrictionId": 91000067,
+    "frequencyType": 3,
+    "dialogMessage": "制限対象サーヴァントはサブメンバーとして出撃できません。",
+    "noticeMessage": "ガレスをスターティングメンバーに設定してください。",
+    "title": ""
+  },
+  {
+    "questId": 91303901,
+    "phase": 3,
+    "restrictionId": 91000068,
+    "frequencyType": 0,
+    "dialogMessage": "",
+    "noticeMessage": "",
     "title": ""
   },
   {
@@ -2424,6 +2478,15 @@
     "questId": 91702501,
     "phase": 2,
     "restrictionId": 91000003,
+    "frequencyType": 0,
+    "dialogMessage": "",
+    "noticeMessage": "",
+    "title": ""
+  },
+  {
+    "questId": 91703901,
+    "phase": 1,
+    "restrictionId": 91000069,
     "frequencyType": 0,
     "dialogMessage": "",
     "noticeMessage": "",
@@ -8079,6 +8142,24 @@
     "frequencyType": 3,
     "dialogMessage": "制限対象サーヴァントはサブメンバーとして出撃できません。",
     "noticeMessage": "アントニオ・サリエリをスターティングメンバーに設定してください。",
+    "title": ""
+  },
+  {
+    "questId": 912500201,
+    "phase": 1,
+    "restrictionId": 91000070,
+    "frequencyType": 0,
+    "dialogMessage": "",
+    "noticeMessage": "",
+    "title": ""
+  },
+  {
+    "questId": 912500201,
+    "phase": 2,
+    "restrictionId": 91000070,
+    "frequencyType": 0,
+    "dialogMessage": "",
+    "noticeMessage": "",
     "title": ""
   },
   {

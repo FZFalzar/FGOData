@@ -54550,6 +54550,23 @@
     "effectId": 0
   },
   {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3950,
+    "buffGroup": 0,
+    "type": 149,
+    "name": "ガッツ時発動(強化)",
+    "detail": "ガッツ発動時、自身のNPが増える＆攻撃力をアップ",
+    "iconId": 365,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
     "vals": [],
     "tvals": [],
     "ckSelfIndv": [],
@@ -54621,6 +54638,57 @@
     "detail": "クリティカル時のダメージをアップ",
     "iconId": 324,
     "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6021
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3955,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "個性追加",
+    "detail": "個性追加",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6022
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3956,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "個性追加",
+    "detail": "個性追加",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6023
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3957,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "個性追加",
+    "detail": "個性追加",
+    "iconId": 520,
+    "maxRate": 0,
     "effectId": 0
   },
   {

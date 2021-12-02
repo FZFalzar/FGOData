@@ -154,6 +154,17 @@
     "displayType": 1
   },
   {
+    "questId": 91303901,
+    "phase": 3,
+    "idx": 0,
+    "message": "このクエストはバトルで敗北しても、\nクエストが進行します。\n※撤退では進行しません。\n※勝敗に関わらず戦利品はありません。\n\nクエストを開始しますか？",
+    "condType": 0,
+    "targetId": 0,
+    "targetNum": 0,
+    "frequencyType": 3,
+    "displayType": 1
+  },
+  {
     "questId": 91304201,
     "phase": 3,
     "idx": 0,
@@ -200,6 +211,39 @@
   {
     "questId": 91503592,
     "phase": 2,
+    "idx": 0,
+    "message": "このクエストではシナリオ選択によって\nバトルの内容が変わります。\n\nクエストを開始しますか？",
+    "condType": 0,
+    "targetId": 0,
+    "targetNum": 0,
+    "frequencyType": 3,
+    "displayType": 1
+  },
+  {
+    "questId": 91603702,
+    "phase": 3,
+    "idx": 0,
+    "message": "このクエストではシナリオ選択によって\nバトルの内容が変わります。\n\nクエストを開始しますか？",
+    "condType": 0,
+    "targetId": 0,
+    "targetNum": 0,
+    "frequencyType": 3,
+    "displayType": 1
+  },
+  {
+    "questId": 91603791,
+    "phase": 3,
+    "idx": 0,
+    "message": "このクエストではシナリオ選択によって\nバトルの内容が変わります。\n\nクエストを開始しますか？",
+    "condType": 0,
+    "targetId": 0,
+    "targetNum": 0,
+    "frequencyType": 3,
+    "displayType": 1
+  },
+  {
+    "questId": 91603792,
+    "phase": 3,
     "idx": 0,
     "message": "このクエストではシナリオ選択によって\nバトルの内容が変わります。\n\nクエストを開始しますか？",
     "condType": 0,
