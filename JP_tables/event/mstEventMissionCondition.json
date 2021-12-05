@@ -76944,6 +76944,139 @@
   },
   {
     "targetIds": [
+      2001947,
+      2001948,
+      2001949,
+      2001950,
+      2001951,
+      2001952
+    ],
+    "missionId": 2001946,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2002224,
+    "missionTargetId": 100281,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 6,
+    "conditionMessage": "今週のマスターミッションをすべてクリアせよ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001470
+    ],
+    "missionId": 2001947,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2002225,
+    "missionTargetId": 100281,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 3,
+    "conditionMessage": "『中庸』属性を持つサーヴァントを3騎倒せ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001471
+    ],
+    "missionId": 2001948,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2002226,
+    "missionTargetId": 100281,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 3,
+    "conditionMessage": "『悪』属性を持つサーヴァントを3騎倒せ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001472
+    ],
+    "missionId": 2001949,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2002227,
+    "missionTargetId": 100281,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "『天』の力を持つ敵を15体倒せ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001473
+    ],
+    "missionId": 2001950,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2002228,
+    "missionTargetId": 100281,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 15,
+    "conditionMessage": "『地』の力を持つ敵を15体倒せ",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001474
+    ],
+    "missionId": 2001951,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2002229,
+    "missionTargetId": 100281,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 20,
+    "conditionMessage": "敵を20体倒せ(サーヴァント及び一部ボスなどは除く)",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
+      2001951
+    ],
+    "missionId": 2001952,
+    "missionProgressType": 3,
+    "priority": 0,
+    "id": 2002230,
+    "missionTargetId": 100281,
+    "condGroup": 1,
+    "condType": 23,
+    "targetNum": 1,
+    "conditionMessage": "敵を40体倒せ(サーヴァント及び一部ボスなどは除く)",
+    "closedMessage": "",
+    "flag": 64
+  },
+  {
+    "targetIds": [
+      2001474
+    ],
+    "missionId": 2001952,
+    "missionProgressType": 4,
+    "priority": 0,
+    "id": 2002231,
+    "missionTargetId": 100281,
+    "condGroup": 1,
+    "condType": 22,
+    "targetNum": 40,
+    "conditionMessage": "敵を40体倒せ(サーヴァント及び一部ボスなどは除く)",
+    "closedMessage": "",
+    "flag": 0
+  },
+  {
+    "targetIds": [
       8031002,
       8031003,
       8031004,
