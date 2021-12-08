@@ -53772,6 +53772,21 @@
     "effectId": 0
   },
   {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3908,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "クリスマスクッキング",
+    "detail": "『メイキング・クリスマス・パーティー！』において与えるダメージをアップ",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
     "vals": [
       3004,
       3018,
@@ -54809,6 +54824,104 @@
     "name": "個性追加",
     "detail": "個性追加",
     "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006,
+      3028
+    ],
+    "tvals": [
+      2816
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      2816
+    ],
+    "script": {},
+    "id": 3965,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "食材特攻",
+    "detail": "〔食材〕特性に与えるダメージをアップ",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3007,
+      3040,
+      3058
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3966,
+    "buffGroup": 0,
+    "type": 42,
+    "name": "スウィートボディ",
+    "detail": "防御力をアップ＆攻撃を受けると敵単体のHPを回復する【デメリット】",
+    "iconId": 301,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3967,
+    "buffGroup": 0,
+    "type": 86,
+    "name": "",
+    "detail": "",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3018,
+      3021,
+      3007
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3968,
+    "buffGroup": 200,
+    "type": 24,
+    "name": "空腹状態",
+    "detail": "攻撃によるダメージを0にする",
+    "iconId": 305,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3969,
+    "buffGroup": 0,
+    "type": 137,
+    "name": "忌憚なき意見",
+    "detail": "攻撃時に対象の防御力をダウン(3ターン)もしくは、攻撃力をダウン(3ターン)もしくは、やけど状態を付与(3ターン)もしくは、HPを回復【デメリット】",
+    "iconId": 528,
     "maxRate": 0,
     "effectId": 0
   },

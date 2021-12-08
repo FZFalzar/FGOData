@@ -17120,7 +17120,7 @@
     "applyTarget": 3,
     "popupIconId": 302,
     "popupText": "威力アップ・対神性、死霊、悪魔",
-    "categoryId": 0
+    "categoryId": 10205
   },
   {
     "vals": [
@@ -17139,7 +17139,7 @@
     "applyTarget": 3,
     "popupIconId": 302,
     "popupText": "威力アップ・対神性、死霊、悪魔",
-    "categoryId": 0
+    "categoryId": 10205
   },
   {
     "vals": [
@@ -17158,7 +17158,7 @@
     "applyTarget": 3,
     "popupIconId": 302,
     "popupText": "威力アップ・対神性、死霊、悪魔",
-    "categoryId": 0
+    "categoryId": 10205
   },
   {
     "vals": [
@@ -131270,6 +131270,144 @@
     "categoryId": 0
   },
   {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 7794,
+    "cond": 0,
+    "funcType": 105,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "なし",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 7795,
+    "cond": 0,
+    "funcType": 105,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "なし",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 7796,
+    "cond": 0,
+    "funcType": 105,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "なし",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 7797,
+    "cond": 0,
+    "funcType": 105,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "なし",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3908
+    ],
+    "tvals": [],
+    "questTvals": [
+      94000126
+    ],
+    "effectList": [
+      330
+    ],
+    "popupTextColor": 2,
+    "id": 7798,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 302,
+    "popupText": "クリスマスクッキング",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3908
+    ],
+    "tvals": [],
+    "questTvals": [
+      94000126
+    ],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 7799,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 302,
+    "popupText": "クリスマスクッキング",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3908
+    ],
+    "tvals": [],
+    "questTvals": [
+      94000126
+    ],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 7800,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 1,
+    "popupIconId": 302,
+    "popupText": "クリスマスクッキング",
+    "categoryId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 7801,
+    "cond": 0,
+    "funcType": 111,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "なし",
+    "categoryId": 0
+  },
+  {
     "vals": [
       124
     ],
@@ -133664,6 +133802,424 @@
     "applyTarget": 1,
     "popupIconId": 333,
     "popupText": "Buster通常攻撃時追加効果",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3965
+    ],
+    "tvals": [
+      505000,
+      200100,
+      401100,
+      701600,
+      304700
+    ],
+    "questTvals": [],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 7944,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 7,
+    "applyTarget": 3,
+    "popupIconId": 302,
+    "popupText": "食材特攻",
+    "categoryId": 10205
+  },
+  {
+    "vals": [
+      3936
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 2,
+    "id": 7945,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 520,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      3966
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 2,
+    "id": 7946,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 20201
+  },
+  {
+    "vals": [
+      3967
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 2,
+    "id": 7947,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      231
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      323
+    ],
+    "popupTextColor": 2,
+    "id": 7948,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 332,
+    "popupText": "与HP回復量アップ",
+    "categoryId": 20401
+  },
+  {
+    "vals": [
+      231
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      324
+    ],
+    "popupTextColor": 2,
+    "id": 7949,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 332,
+    "popupText": "与HP回復量アップ",
+    "categoryId": 20401
+  },
+  {
+    "vals": [
+      231
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      325
+    ],
+    "popupTextColor": 2,
+    "id": 7950,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 332,
+    "popupText": "与HP回復量アップ",
+    "categoryId": 20401
+  },
+  {
+    "vals": [
+      295
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      330
+    ],
+    "popupTextColor": 2,
+    "id": 7951,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 302,
+    "popupText": "威力アップ・対神性、死霊、悪魔",
+    "categoryId": 10205
+  },
+  {
+    "vals": [
+      295
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 7952,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 302,
+    "popupText": "威力アップ・対神性、死霊、悪魔",
+    "categoryId": 10205
+  },
+  {
+    "vals": [
+      295
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 7953,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 302,
+    "popupText": "威力アップ・対神性、死霊、悪魔",
+    "categoryId": 10205
+  },
+  {
+    "vals": [
+      3968
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      334
+    ],
+    "popupTextColor": 2,
+    "id": 7954,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 305,
+    "popupText": "空腹状態",
+    "categoryId": 20203
+  },
+  {
+    "vals": [
+      149
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      333
+    ],
+    "popupTextColor": 2,
+    "id": 7955,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 301,
+    "popupText": "ダメージカット",
+    "categoryId": 20202
+  },
+  {
+    "vals": [
+      149
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 7956,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 301,
+    "popupText": "ダメージカット",
+    "categoryId": 20202
+  },
+  {
+    "vals": [
+      3969
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 7957,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 6,
+    "applyTarget": 3,
+    "popupIconId": 528,
+    "popupText": "忌憚なき意見",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      295
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      330
+    ],
+    "popupTextColor": 2,
+    "id": 7958,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 7,
+    "applyTarget": 3,
+    "popupIconId": 302,
+    "popupText": "威力アップ・対神性、死霊、悪魔",
+    "categoryId": 10205
+  },
+  {
+    "vals": [
+      295
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      331
+    ],
+    "popupTextColor": 2,
+    "id": 7959,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 7,
+    "applyTarget": 3,
+    "popupIconId": 302,
+    "popupText": "威力アップ・対神性、死霊、悪魔",
+    "categoryId": 10205
+  },
+  {
+    "vals": [
+      295
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      332
+    ],
+    "popupTextColor": 2,
+    "id": 7960,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 7,
+    "applyTarget": 3,
+    "popupIconId": 302,
+    "popupText": "威力アップ・対神性、死霊、悪魔",
+    "categoryId": 10205
+  },
+  {
+    "vals": [
+      201
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 7961,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 330,
+    "popupText": "最大HPプラス",
+    "categoryId": 20403
+  },
+  {
+    "vals": [
+      201
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 7962,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 1,
+    "applyTarget": 3,
+    "popupIconId": 330,
+    "popupText": "最大HPプラス",
+    "categoryId": 20403
+  },
+  {
+    "vals": [
+      201
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 7963,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 330,
+    "popupText": "最大HPプラス",
+    "categoryId": 20403
+  },
+  {
+    "vals": [
+      149
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      333
+    ],
+    "popupTextColor": 2,
+    "id": 7964,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 8,
+    "applyTarget": 3,
+    "popupIconId": 301,
+    "popupText": "ダメージカット",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      149
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 7965,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 8,
+    "applyTarget": 3,
+    "popupIconId": 301,
+    "popupText": "ダメージカット",
     "categoryId": 0
   },
   {
