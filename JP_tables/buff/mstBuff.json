@@ -54926,6 +54926,354 @@
     "effectId": 0
   },
   {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3970,
+    "buffGroup": 0,
+    "type": 42,
+    "name": "新鮮なおさかな",
+    "detail": "防御力をアップ＆毎ターン終了時に防御力ダウン【デメリット】",
+    "iconId": 301,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4003
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4003
+    ],
+    "script": {},
+    "id": 3971,
+    "buffGroup": 0,
+    "type": 105,
+    "name": "料理は政治",
+    "detail": "Quickカードの攻撃による被ダメージ、被NP発生量、被スター発生率がダウン",
+    "iconId": 345,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4001
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4001
+    ],
+    "script": {},
+    "id": 3972,
+    "buffGroup": 0,
+    "type": 105,
+    "name": "料理は物理",
+    "detail": "Artsカードの攻撃による被ダメージ、被NP発生量、被スター発生率がダウン",
+    "iconId": 346,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4002
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      4002
+    ],
+    "script": {},
+    "id": 3973,
+    "buffGroup": 0,
+    "type": 105,
+    "name": "料理は努力",
+    "detail": "Busterカードの攻撃による被ダメージ、被NP発生量、被スター発生率がダウン",
+    "iconId": 347,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4003
+    ],
+    "ckSelfIndv": [
+      4003
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3974,
+    "buffGroup": 0,
+    "type": 52,
+    "name": "捌きの極意",
+    "detail": "Quickカードの性能をアップ",
+    "iconId": 312,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4001
+    ],
+    "ckSelfIndv": [
+      4001
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3975,
+    "buffGroup": 0,
+    "type": 52,
+    "name": "盛りの極意",
+    "detail": "Artsカードの性能をアップ",
+    "iconId": 313,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2817
+    ],
+    "tvals": [
+      5000,
+      4002
+    ],
+    "ckSelfIndv": [
+      4002
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3976,
+    "buffGroup": 0,
+    "type": 52,
+    "name": "焼きの極意",
+    "detail": "Busterカードの性能をアップ",
+    "iconId": 314,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2818
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      6026
+    ],
+    "script": {},
+    "id": 3977,
+    "buffGroup": 0,
+    "type": 89,
+    "name": "焼きの修行",
+    "detail": "調理用食材への通常攻撃時、敵単体に〔焼き〕特性を付与",
+    "iconId": 528,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2819
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3978,
+    "buffGroup": 0,
+    "type": 89,
+    "name": "捌きの修行",
+    "detail": "調理用食材への通常攻撃時、敵単体の防御力ダウン",
+    "iconId": 528,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6036
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3979,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "特殊耐性アップ",
+    "detail": "全ての攻撃に対する耐性を得る（〔焼き〕特性が一定数付与されると解除）",
+    "iconId": 334,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6037
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3980,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "特殊耐性アップ",
+    "detail": "全ての攻撃に対する耐性を得る",
+    "iconId": 334,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3981,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "焼き",
+    "detail": "〔焼き〕特性を付与する",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3982,
+    "buffGroup": 0,
+    "type": 86,
+    "name": "クリスマスの来訪者",
+    "detail": "攻撃を受けると、敵単体に〔悪い子〕特性を付与する",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3983,
+    "buffGroup": 0,
+    "type": 86,
+    "name": "お手伝い妖精",
+    "detail": "攻撃を受けると、敵単体に〔悪い子〕特性を付与する",
+    "iconId": 331,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      304
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      304
+    ],
+    "script": {},
+    "id": 3984,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "悪い子へのお仕置き",
+    "detail": "〔悪〕特性に与えるダメージをアップ",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      2820
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      2820
+    ],
+    "script": {},
+    "id": 3985,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "威力アップ〔悪い子〕",
+    "detail": "〔悪い子〕特性に与えるダメージをアップ",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      2820,
+      3005
+    ],
+    "tvals": [
+      1132
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      1132
+    ],
+    "script": {},
+    "id": 3986,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "悪い子",
+    "detail": "ヨールプッキ（鬼）に与えるダメージをアップ(弱体扱い)",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      2820
+    ],
+    "ckSelfIndv": [],
+    "ckOpIndv": [
+      2820
+    ],
+    "script": {},
+    "id": 3987,
+    "buffGroup": 0,
+    "type": 91,
+    "name": "特殊耐性アップ〔悪い子〕",
+    "detail": "〔悪い子〕からの攻撃に耐性を得る",
+    "iconId": 334,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 3988,
+    "buffGroup": 0,
+    "type": 85,
+    "name": "毎ターン発動(チャージ増加)",
+    "detail": "毎ターン終了時に自身以外の宝具チャージを1増やす",
+    "iconId": 343,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
     "vals": [
       3004,
       3006
