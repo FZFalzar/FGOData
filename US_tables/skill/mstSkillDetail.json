@@ -4610,6 +4610,36 @@
     "detailShort": "Significantly increase C. Star Drop Rate against [Saber] enemies [{0}] (3 turns) & apply Special Attack [Saber] [{0}] (3 turns) & increase ATK [{0}] (3 turns) [g][o]▲[/o][/g] for yourself"
   },
   {
+    "id": 692350,
+    "detail": "Increase NP Gauge each turn [{0}] (3 turns) & remove Debuffs for yourself",
+    "detailShort": "Increase NP Gauge each turn [{0}] (3 turns) & remove Debuffs for yourself"
+  },
+  {
+    "id": 693350,
+    "detail": "Inflict Fear [{0}] (3 turns) on all enemies + Apply Evade (3 times, 3 turns) for yourself",
+    "detailShort": "Inflict Fear [{0}] (3 turns) on all enemies + Apply Evade (3 times, 3 turns) for yourself"
+  },
+  {
+    "id": 694650,
+    "detail": "Increase ATK [{0}] (3 turns) & Critical Strength [{0}] (3 turns) for yourself & increase your Buster Card's C. Star Gather Rate [{0}] (3 turns)",
+    "detailShort": "Increase ATK [{0}] (3 turns) & Critical Strength [{0}] (3 turns) for yourself & increase your Buster Card's C. Star Gather Rate [{0}] (3 turns)"
+  },
+  {
+    "id": 695351,
+    "detail": "Remove one Buff for all enemies + Remove one Debuff & restore HP [{0}] for all allies",
+    "detailShort": "Remove one Buff for all enemies + Remove one Debuff & restore HP [{0}] for all allies"
+  },
+  {
+    "id": 696550,
+    "detail": "Apply Guts (1 time, 3 turns) & increase Buff Removal Resist [{0}] (3 turns) & NP Strength [{0}] (3 turns) for one ally",
+    "detailShort": "Apply Guts (1 time, 3 turns) & increase Buff Removal Resist [{0}] (3 turns) & NP Strength [{0}] (3 turns) for one ally"
+  },
+  {
+    "id": 697650,
+    "detail": "Increase ATK [{0}] (3 turns) & Critical Strength [{0}] (3 turns) for all allies",
+    "detailShort": "Increase ATK [{0}] (3 turns) & Critical Strength [{0}] (3 turns) for all allies"
+  },
+  {
     "id": 698550,
     "detail": "Increase NP Strength [g][o]▲[/o][/g] [{0}] (3 turns [g][o]▲[/o][/g]) & apply Incoming Damage Cut [{0}] (2 times, 3 turns) [g][o]▲[/o][/g] for all allies",
     "detailShort": "Increase NP Strength [g][o]▲[/o][/g] [{0}] (3 turns [g][o]▲[/o][/g]) & apply Incoming Damage Cut [{0}] (2 times, 3 turns) [g][o]▲[/o][/g] for all allies"
@@ -5263,6 +5293,26 @@
     "id": 940122,
     "detail": "Increase your ATK Strength by 50% in \"All In! Las Vegas Championship Match - Seven Duels of Swordbeauties!\" & increase Bond gained for all allies <including sub-members> when completing quests in \"All In! Las Vegas Championship Match - Seven Duels of Swordbeauties!\" by 5% (No effect when equipped as Support) [Event Only]",
     "detailShort": "Increase your ATK Strength by 50% in \"All In! Las Vegas Championship Match - Seven Duels of Swordbeauties!\" & increase Bond gained for all allies <including sub-members> when completing quests in \"All In! Las Vegas Championship Match - Seven Duels of Swordbeauties!\" by 5% (No effect when equipped as Support) [Event Only]"
+  },
+  {
+    "id": 940123,
+    "detail": "Increase your ATK Strength by 100% in \"Christmas 2021: Nightingale's Christmas Carol\" & increase Bond gained when completing quests by 50% [Event Only]",
+    "detailShort": "Increase your ATK Strength by 100% in \"Christmas 2021: Nightingale's Christmas Carol\" & increase Bond gained when completing quests by 50% [Event Only]"
+  },
+  {
+    "id": 940124,
+    "detail": "Increase your ATK Strength by 50% in \"Christmas 2021: Nightingale's Christmas Carol\" & increase Bond gained when completing quests by 20% [Event Only]",
+    "detailShort": "Increase your ATK Strength by 50% in \"Christmas 2021: Nightingale's Christmas Carol\" & increase Bond gained when completing quests by 20% [Event Only]"
+  },
+  {
+    "id": 940125,
+    "detail": "Increase your ATK Strength by 30% in \"Christmas 2021: Nightingale's Christmas Carol\" & increase Bond gained when completing quests by 20% [Event Only]",
+    "detailShort": "Increase your ATK Strength by 30% in \"Christmas 2021: Nightingale's Christmas Carol\" & increase Bond gained when completing quests by 20% [Event Only]"
+  },
+  {
+    "id": 940126,
+    "detail": "Increase your ATK Strength by 30% in \"Christmas 2021: Nightingale's Christmas Carol\" + Increase Bond gained for all allies <including sub-members> when completing quests in \"Christmas 2021: Nightingale's Christmas Carol\" by 5% (No effect when equipped as Support) [Event Only]",
+    "detailShort": "Increase your ATK Strength by 30% in \"Christmas 2021: Nightingale's Christmas Carol\" + Increase Bond gained for all allies <including sub-members> when completing quests in \"Christmas 2021: Nightingale's Christmas Carol\" by 5% (No effect when equipped as Support) [Event Only]"
   },
   {
     "id": 960502,
@@ -15138,6 +15188,111 @@
     "id": 991977,
     "detail": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50",
     "detailShort": "When a quest is completed, increase the amount of Mystic Code EXP gained by 50"
+  },
+  {
+    "id": 991978,
+    "detail": "Remove one Critical Rate Up state for one enemy when attacking with the engraved Card + Recover 100 HP for yourself",
+    "detailShort": "Remove one Critical Rate Up state for one enemy when attacking with the engraved Card + Recover 100 HP for yourself"
+  },
+  {
+    "id": 991980,
+    "detail": "Increase Critical Strength by 20% for the engraved Quick Card",
+    "detailShort": "Increase Critical Strength by 20% for the engraved Quick Card"
+  },
+  {
+    "id": 991981,
+    "detail": "Recover your HP by 1000 when attacking with the engraved Card (Requires 3 turns cooldown)",
+    "detailShort": "Recover your HP by 1000 when attacking with the engraved Card (Requires 3 turns cooldown)"
+  },
+  {
+    "id": 991983,
+    "detail": "Increase NP Gain by 20% & NP Strength by 20% for yourself",
+    "detailShort": "Increase NP Gain by 20% & NP Strength by 20% for yourself"
+  },
+  {
+    "id": 991984,
+    "detail": "Increase NP Gain by 25% & NP Strength by 25% for yourself [MAX]",
+    "detailShort": "Increase NP Gain by 25% & NP Strength by 25% for yourself [MAX]"
+  },
+  {
+    "id": 991985,
+    "detail": "Increase amount of Pillow of Devotion per drop by 1 [Event Only]",
+    "detailShort": "Increase amount of Pillow of Devotion per drop by 1 [Event Only]"
+  },
+  {
+    "id": 991986,
+    "detail": "Increase amount of Pillow of Devotion per drop by 2 [MAX] [Event Only]",
+    "detailShort": "Increase amount of Pillow of Devotion per drop by 2 [MAX] [Event Only]"
+  },
+  {
+    "id": 991987,
+    "detail": "Gain 10 C. Stars when entering the battle (1 time) & apply Damage Cut 300 to yourself",
+    "detailShort": "Gain 10 C. Stars when entering the battle (1 time) & apply Damage Cut 300 to yourself"
+  },
+  {
+    "id": 991988,
+    "detail": "Gain 12 C. Stars when entering the battle (1 time) & apply Damage Cut 400 to yourself [MAX]",
+    "detailShort": "Gain 12 C. Stars when entering the battle (1 time) & apply Damage Cut 400 to yourself [MAX]"
+  },
+  {
+    "id": 991989,
+    "detail": "Increase amount of Thermometer of Service per drop by 1 [Event Only]",
+    "detailShort": "Increase amount of Thermometer of Service per drop by 1 [Event Only]"
+  },
+  {
+    "id": 991990,
+    "detail": "Increase amount of Thermometer of Service per drop by 2 [MAX] [Event Only]",
+    "detailShort": "Increase amount of Thermometer of Service per drop by 2 [MAX] [Event Only]"
+  },
+  {
+    "id": 991991,
+    "detail": "Gain 1 C. Star each turn & increase your Buster Card effectiveness by 3%",
+    "detailShort": "Gain 1 C. Star each turn & increase your Buster Card effectiveness by 3%"
+  },
+  {
+    "id": 991992,
+    "detail": "Gain 2 C. Star each turn & increase your Buster Card effectiveness by 5% [MAX]",
+    "detailShort": "Gain 2 C. Star each turn & increase your Buster Card effectiveness by 5% [MAX]"
+  },
+  {
+    "id": 991993,
+    "detail": "Increase amount of Gauze of Benevolence per drop by 1 [Event Only]",
+    "detailShort": "Increase amount of Gauze of Benevolence per drop by 1 [Event Only]"
+  },
+  {
+    "id": 991994,
+    "detail": "Increase amount of Gauze of Benevolence per drop by 2 [MAX] [Event Only]",
+    "detailShort": "Increase amount of Gauze of Benevolence per drop by 2 [MAX] [Event Only]"
+  },
+  {
+    "id": 991995,
+    "detail": "Increase your Quick Card effectiveness by 8% & NP Gain by 8% & begin battle with NP charged at 30% for yourself ",
+    "detailShort": "Increase your Quick Card effectiveness by 8% & NP Gain by 8% & begin battle with NP charged at 30% for yourself "
+  },
+  {
+    "id": 991996,
+    "detail": "Increase your Quick Card effectiveness by 10% & NP Gain by 10% & begin battle with NP charged at 50% for yourself [MAX]",
+    "detailShort": "Increase your Quick Card effectiveness by 10% & NP Gain by 10% & begin battle with NP charged at 50% for yourself [MAX]"
+  },
+  {
+    "id": 991997,
+    "detail": "Increase amount of Bandage of the Holy Night per drop by 1 [Event Only]",
+    "detailShort": "Increase amount of Bandage of the Holy Night per drop by 1 [Event Only]"
+  },
+  {
+    "id": 991998,
+    "detail": "Increase amount of Bandage of the Holy Night per drop by 2 [MAX] [Event Only]",
+    "detailShort": "Increase amount of Bandage of the Holy Night per drop by 2 [MAX] [Event Only]"
+  },
+  {
+    "id": 991999,
+    "detail": "Increase NP Strength by 30% & Buster Card's Critical Strength by 100% (3 turns) for yourself only if [servantName 104100] is equipped with this Craft Essence",
+    "detailShort": "Increase NP Strength by 30% & Buster Card's Critical Strength by 100% (3 turns) for yourself only if [servantName 104100] is equipped with this Craft Essence"
+  },
+  {
+    "id": 992000,
+    "detail": "Increase Quick Card effectiveness by 10% & HP Recovery amount by 20% for all allies only if [servantName 203900] (Archer) is equipped with this Craft Essence when she is on the field.",
+    "detailShort": "Increase Quick Card effectiveness by 10% & HP Recovery amount by 20% for all allies only if [servantName 203900] (Archer) is equipped with this Craft Essence when she is on the field."
   },
   {
     "id": 992005,

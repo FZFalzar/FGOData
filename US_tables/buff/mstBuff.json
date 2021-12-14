@@ -4108,7 +4108,8 @@
       3021,
       3018,
       3024,
-      3030
+      3030,
+      3032
     ],
     "script": {},
     "id": 314,
@@ -10855,7 +10856,8 @@
       3021,
       3018,
       3024,
-      3030
+      3030,
+      3032
     ],
     "script": {},
     "id": 887,
@@ -14105,7 +14107,8 @@
       3021,
       3018,
       3024,
-      3030
+      3030,
+      3032
     ],
     "script": {},
     "id": 1076,
@@ -23194,7 +23197,7 @@
     "buffGroup": 0,
     "type": 18,
     "name": "Critical Up",
-    "detail": "Increase Critical Hit damage",
+    "detail": "Increase Buster Card Critical Hit damage",
     "iconId": 324,
     "maxRate": 5000,
     "effectId": 0
@@ -30880,6 +30883,64 @@
     "type": 144,
     "name": "Change DEF Affinity",
     "detail": "Negate the DEF disadvantage due to Class Affinity",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004,
+      3006,
+      3031
+    ],
+    "tvals": [
+      5000,
+      4003
+    ],
+    "ckSelfIndv": [
+      4003
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2591,
+    "buffGroup": 0,
+    "type": 18,
+    "name": "Critical Up",
+    "detail": "Increase Quick Card Critical Hit damage",
+    "iconId": 324,
+    "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 2592,
+    "buffGroup": 0,
+    "type": 11,
+    "name": "Christmas Survivor",
+    "detail": "Increase damage dealt during \"Christmas 2021: Nightingale's Christmas Carol\"",
+    "iconId": 302,
+    "maxRate": 10000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "relationId": 121
+    },
+    "id": 2593,
+    "buffGroup": 0,
+    "type": 144,
+    "name": "Class Affinity Change ",
+    "detail": "Negate advantages and disadvantages from Class Affinity",
     "iconId": 520,
     "maxRate": 0,
     "effectId": 0
