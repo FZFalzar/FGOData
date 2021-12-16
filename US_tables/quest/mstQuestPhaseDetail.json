@@ -31493,6 +31493,37 @@
   {
     "beforeActionVals": [],
     "afterActionVals": [],
+    "boardMessage": {
+      "text": {
+        "textString": "Support Only",
+        "offset": [
+          -1,
+          -25
+        ],
+        "fontSize": 12,
+        "gradation": [
+          "#FFEC00",
+          "#FFEC00"
+        ]
+      },
+      "image": {
+        "bannerSp": "img_quest_formlimit_01",
+        "offset": [
+          3,
+          -25
+        ]
+      }
+    },
+    "questId": 94043005,
+    "phase": 1,
+    "spotId": 835101,
+    "consumeType": 1,
+    "actConsume": 5,
+    "flag": 30068965376
+  },
+  {
+    "beforeActionVals": [],
+    "afterActionVals": [],
     "boardMessage": {},
     "questId": 912500101,
     "phase": 1,

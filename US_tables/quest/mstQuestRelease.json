@@ -158076,6 +158076,24 @@
     "imagePriority": 9000
   },
   {
+    "questId": 94043005,
+    "type": 1,
+    "targetId": 94043004,
+    "value": 0,
+    "openLimit": 0,
+    "closedMessageId": 0,
+    "imagePriority": 10000
+  },
+  {
+    "questId": 94043005,
+    "type": 12,
+    "targetId": 0,
+    "value": 0,
+    "openLimit": 0,
+    "closedMessageId": 4,
+    "imagePriority": 9000
+  },
+  {
     "questId": 94043101,
     "type": 1,
     "targetId": 94043002,
@@ -158184,6 +158202,33 @@
     "imagePriority": 9000
   },
   {
+    "questId": 94043106,
+    "type": 1,
+    "targetId": 94043004,
+    "value": 0,
+    "openLimit": 0,
+    "closedMessageId": 0,
+    "imagePriority": 10000
+  },
+  {
+    "questId": 94043106,
+    "type": 1,
+    "targetId": 94043005,
+    "value": 0,
+    "openLimit": 0,
+    "closedMessageId": 94043109,
+    "imagePriority": 8000
+  },
+  {
+    "questId": 94043106,
+    "type": 12,
+    "targetId": 0,
+    "value": 0,
+    "openLimit": 0,
+    "closedMessageId": 94043108,
+    "imagePriority": 9000
+  },
+  {
     "questId": 94043110,
     "type": 1,
     "targetId": 94043002,
@@ -158223,7 +158268,7 @@
     "questId": 94043301,
     "type": 109,
     "targetId": 802641,
-    "value": 329050,
+    "value": 130000,
     "openLimit": 0,
     "closedMessageId": 94043301,
     "imagePriority": 9000
@@ -158250,7 +158295,7 @@
     "questId": 94043302,
     "type": 109,
     "targetId": 802641,
-    "value": 1035950,
+    "value": 390000,
     "openLimit": 0,
     "closedMessageId": 94043302,
     "imagePriority": 9000
@@ -158277,7 +158322,7 @@
     "questId": 94043303,
     "type": 109,
     "targetId": 802641,
-    "value": 2000000,
+    "value": 730000,
     "openLimit": 0,
     "closedMessageId": 94043303,
     "imagePriority": 9000
@@ -158304,7 +158349,7 @@
     "questId": 94043304,
     "type": 109,
     "targetId": 802641,
-    "value": 3400000,
+    "value": 1100000,
     "openLimit": 0,
     "closedMessageId": 94043304,
     "imagePriority": 9000
@@ -158331,7 +158376,7 @@
     "questId": 94043305,
     "type": 109,
     "targetId": 802641,
-    "value": 4700000,
+    "value": 1700000,
     "openLimit": 0,
     "closedMessageId": 94043305,
     "imagePriority": 9000
@@ -158358,7 +158403,7 @@
     "questId": 94043306,
     "type": 109,
     "targetId": 802641,
-    "value": 6400000,
+    "value": 2400000,
     "openLimit": 0,
     "closedMessageId": 94043306,
     "imagePriority": 9000
@@ -158385,7 +158430,7 @@
     "questId": 94043307,
     "type": 109,
     "targetId": 802641,
-    "value": 8200000,
+    "value": 3200000,
     "openLimit": 0,
     "closedMessageId": 94043307,
     "imagePriority": 9000
