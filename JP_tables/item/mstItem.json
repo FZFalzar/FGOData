@@ -287,7 +287,9 @@
   },
   {
     "individuality": [],
-    "script": {},
+    "script": {
+      "itemGetEffectId": 4
+    },
     "eventId": 0,
     "eventGroupId": 0,
     "id": 1000,
@@ -26172,6 +26174,26 @@
     "dropPriority": 9001,
     "startedAt": 1635411600,
     "endedAt": 1640962799
+  },
+  {
+    "individuality": [],
+    "script": {},
+    "eventId": 0,
+    "eventGroupId": 0,
+    "id": 94065901,
+    "name": "星見のティーポット",
+    "detail": "【絆ブーストアイテム】\nクエストクリア時のパーティ全体(控え含む)の\n絆獲得量を2倍にする。\n(絆を獲得できないクエストでは消費されない)",
+    "imageId": 94065901,
+    "bgImageId": 2,
+    "type": 30,
+    "unit": "",
+    "value": 0,
+    "sellQp": -1,
+    "isSell": false,
+    "priority": 94065901,
+    "dropPriority": 9001,
+    "startedAt": 1639731600,
+    "endedAt": 1646020799
   },
   {
     "individuality": [],
